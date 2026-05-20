@@ -114,7 +114,11 @@ if (!Array.isArray(db.vehicles)) {
   process.exit(1);
 }
 
-const key = (v) => `${v.make}|${v.model}|${v.years}`.toLowerCase();
+// Dedup at make+model (NOT make+model+years): if any year range of a model is
+// already covered, don't add a generic duplicate of it — the app matches a
+// schedule by make+model and would shadow our generic entry with the existing
+// one anyway, leaving dead, search-polluting rows.
+const key = (v) => `${v.make}|${v.model}`.toLowerCase();
 const existing = new Set(db.vehicles.map(key));
 
 const added = [];
