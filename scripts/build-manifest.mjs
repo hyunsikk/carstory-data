@@ -25,7 +25,9 @@ const MANIFEST_PATH = join(ROOT, 'data', 'manifest.json');
 const DATA_URL = 'https://hyunsikk.github.io/carstory-data/data/vehicles.json';
 // Bump this only if the JSON shape changes incompatibly. Older app builds
 // ignore remote data whose schema is newer than they understand.
-const SCHEMA_VERSION = 1;
+// v2: per-vehicle `scheduleSource` ('generic' for rule-derived schedules) — gates
+// out app builds that would mislabel generic data as manufacturer data.
+const SCHEMA_VERSION = 2;
 
 const raw = readFileSync(DATA_PATH);
 const sha256 = createHash('sha256').update(raw).digest('hex');

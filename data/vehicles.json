@@ -73680,7 +73680,7 @@
     },
     {
       "make": "Plymouth",
-      "model": "Volar\u00e9",
+      "model": "Volaré",
       "years": "1976-1980",
       "generation": "F-Body",
       "schedule": [
@@ -93609,6 +93609,2558 @@
           ],
           "category": "suspension",
           "description": "Service air suspension system"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "S60",
+      "years": "2019-2024",
+      "generation": "3rd Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "S90",
+      "years": "2017-2024",
+      "generation": "2nd Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "V60",
+      "years": "2019-2024",
+      "generation": "2nd Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40",
+      "years": "2019-2024",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "XC60",
+      "years": "2018-2024",
+      "generation": "2nd Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "XC90",
+      "years": "2016-2024",
+      "generation": "2nd Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "C40 Recharge",
+      "years": "2022-2024",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "EX30",
+      "years": "2024-2025",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "Volvo",
+      "model": "EX90",
+      "years": "2025-2025",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "MINI",
+      "model": "Cooper Hardtop",
+      "years": "2014-2024",
+      "generation": "3rd Gen (F56)",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "MINI",
+      "model": "Countryman",
+      "years": "2017-2024",
+      "generation": "2nd Gen (F60)",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "MINI",
+      "model": "Clubman",
+      "years": "2016-2024",
+      "generation": "2nd Gen (F54)",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "MINI",
+      "model": "Cooper SE",
+      "years": "2020-2024",
+      "generation": "F56 (electric)",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "Fiat",
+      "model": "500",
+      "years": "2012-2019",
+      "generation": "2nd Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Fiat",
+      "model": "500X",
+      "years": "2016-2023",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Fiat",
+      "model": "500e",
+      "years": "2024-2025",
+      "generation": "3rd Gen (electric)",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "years": "2017-2024",
+      "generation": "952",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "years": "2018-2024",
+      "generation": "949",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Lucid",
+      "model": "Air",
+      "years": "2021-2024",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "Lucid",
+      "model": "Gravity",
+      "years": "2025-2025",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear (EVs wear tires faster)"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brakes (regen braking extends pad life)"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Battery/HV System Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            100
+          ],
+          "category": "electrical",
+          "description": "High-voltage system and 12V battery check"
+        },
+        {
+          "service": "Coolant (Battery/Inverter)",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            100,
+            200
+          ],
+          "category": "electrical",
+          "description": "Battery and power-electronics coolant service"
+        }
+      ]
+    },
+    {
+      "make": "Maserati",
+      "model": "Ghibli",
+      "years": "2014-2024",
+      "generation": "M157",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
+        }
+      ]
+    },
+    {
+      "make": "Maserati",
+      "model": "Levante",
+      "years": "2017-2024",
+      "generation": "1st Gen",
+      "scheduleSource": "generic",
+      "schedule": [
+        {
+          "service": "Oil Change",
+          "mileInterval": 5000,
+          "monthInterval": 6,
+          "estimatedCost": [
+            30,
+            75
+          ],
+          "category": "engine",
+          "description": "Oil and filter replacement"
+        },
+        {
+          "service": "Tire Rotation",
+          "mileInterval": 7500,
+          "monthInterval": 6,
+          "estimatedCost": [
+            20,
+            50
+          ],
+          "category": "tires",
+          "description": "Rotate tires for even wear"
+        },
+        {
+          "service": "Multi-Point Inspection",
+          "mileInterval": 15000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "inspection",
+          "description": "Comprehensive vehicle inspection"
+        },
+        {
+          "service": "Brake Inspection",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            0,
+            50
+          ],
+          "category": "brakes",
+          "description": "Inspect brake pads, rotors, and lines"
+        },
+        {
+          "service": "Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "engine",
+          "description": "Engine air filter replacement"
+        },
+        {
+          "service": "Cabin Air Filter",
+          "mileInterval": 20000,
+          "monthInterval": 12,
+          "estimatedCost": [
+            15,
+            40
+          ],
+          "category": "cabin",
+          "description": "Cabin air filter replacement"
+        },
+        {
+          "service": "Battery Check",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            0,
+            25
+          ],
+          "category": "electrical",
+          "description": "Test battery health and terminals"
+        },
+        {
+          "service": "Brake Fluid",
+          "mileInterval": 30000,
+          "monthInterval": 24,
+          "estimatedCost": [
+            70,
+            120
+          ],
+          "category": "brakes",
+          "description": "Brake fluid flush and replacement"
+        },
+        {
+          "service": "Transmission Fluid",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            80,
+            200
+          ],
+          "category": "transmission",
+          "description": "Transmission fluid change"
+        },
+        {
+          "service": "Coolant",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            50,
+            150
+          ],
+          "category": "engine",
+          "description": "Coolant flush and replacement"
+        },
+        {
+          "service": "Spark Plugs",
+          "mileInterval": 60000,
+          "monthInterval": 48,
+          "estimatedCost": [
+            60,
+            200
+          ],
+          "category": "engine",
+          "description": "Spark plug replacement"
         }
       ]
     }
