@@ -179,7 +179,7 @@
     <main>
         <div class="container">
             <h1>Privacy Policy</h1>
-            <p class="last-updated"><strong>Effective Date:</strong> March 10, 2026 (Updated for v2.0.0)</p>
+            <p class="last-updated"><strong>Effective Date:</strong> May 20, 2026 (Updated for v2.1.0)</p>
 
             <div class="highlight">
                 <p><strong>Privacy First:</strong> Car Story is designed with your privacy in mind. We collect no personal information, and all your vehicle and maintenance data stays on your device.</p>
@@ -209,7 +209,7 @@
 
             <div class="section">
                 <h2>2. No Advertising</h2>
-                <p><strong>Car Story is completely free with no advertisements.</strong> We do not integrate with any advertising networks. No ad-related data collection occurs.</p>
+                <p><strong>Car Story contains no advertisements.</strong> The app is free to download with an optional one-time in-app purchase ("Pro"). We do not integrate with any advertising networks, and no ad-related data collection occurs.</p>
             </div>
 
             <div class="section">
@@ -238,7 +238,7 @@
 
             <div class="section">
                 <h2>4. Information Sharing</h2>
-                <p><strong>We do not share your information with anyone</strong> because we don't collect personal information in the first place. There are no advertising SDKs, analytics services, or third-party integrations that access your data.</p>
+                <p><strong>We do not share your information with anyone</strong> because we don't collect personal information in the first place. There are no advertising or analytics SDKs. The only third parties involved are Apple and RevenueCat for processing optional in-app purchases (see Section 8.4), and the NHTSA public API for recall and VIN lookups (Sections 8.1–8.2) — none of which receive your maintenance records or personal identity.</p>
             </div>
 
             <div class="section">
@@ -270,18 +270,27 @@
 
             <div class="section">
                 <h2>8. Third-Party Services & Network Requests</h2>
-                
-                <h3>8.1 NHTSA Recall Checks (Optional)</h3>
-                <p>Car Story can optionally check for safety recalls using the NHTSA (National Highway Traffic Safety Administration) public API. When enabled:</p>
+                <p>Car Story has no servers and no user accounts. It makes a small number of network requests, listed in full below. None of them transmit your maintenance records, photos, costs, or notes.</p>
+
+                <h3>8.1 Safety Recall Checks (NHTSA)</h3>
+                <p>To check for open safety recalls, Car Story queries the public API of the NHTSA (U.S. National Highway Traffic Safety Administration):</p>
                 <ul>
-                    <li>Only your vehicle's make, model, and year are sent to NHTSA's servers</li>
-                    <li>No personal information, VIN, or other data is transmitted</li>
-                    <li>This feature is entirely optional and can be disabled per vehicle</li>
-                    <li>NHTSA data is public and covered by their own privacy policy</li>
+                    <li>Only your vehicle's <strong>make, model, and year</strong> are sent to retrieve recall information.</li>
+                    <li>No personal information and no maintenance data are sent.</li>
+                    <li>NHTSA is a U.S. government service governed by its own privacy policy.</li>
                 </ul>
-                
-                <h3>8.2 No Other Network Requests</h3>
-                <p>Aside from the optional NHTSA recall check, Car Story makes <strong>zero network requests</strong>. No analytics, no tracking, no advertising networks, no cloud sync.</p>
+
+                <h3>8.2 VIN Decode (Optional)</h3>
+                <p>If you choose to use the "Decode VIN" button when adding a vehicle, the <strong>VIN you enter is sent to NHTSA's public vehicle-decode API</strong> to look up the make, model, and year. This is optional — you can always enter vehicle details manually instead. The VIN is used only for that lookup and is not sent anywhere else or stored off your device.</p>
+
+                <h3>8.3 Vehicle Reference Data Updates</h3>
+                <p>Car Story periodically downloads an updated maintenance-schedule and reference dataset from our public hosting (<a href="https://hyunsikk.github.io/carstory-data/">GitHub Pages</a>). This is a one-way download — <strong>no information about you or your vehicles is sent</strong> in the request.</p>
+
+                <h3>8.4 In-App Purchases</h3>
+                <p>Car Story offers a one-time optional "Pro" unlock. Purchases are processed by <strong>Apple</strong>, and we use <strong>RevenueCat</strong> to manage entitlements. RevenueCat receives the purchase/transaction details and an anonymous, app-generated identifier so your purchase can be restored. <strong>No name, email, or other personal information is collected</strong>, and this data is not used for advertising or tracking. See Apple's and RevenueCat's privacy policies for how they handle purchase data.</p>
+
+                <h3>8.5 No Analytics, Tracking, or Ads</h3>
+                <p>Aside from the requests above, Car Story makes no network calls. There are <strong>no analytics SDKs, tracking pixels, advertising networks, or cloud sync</strong>.</p>
             </div>
 
             <div class="section">
@@ -299,7 +308,7 @@
             </div>
 
             <div class="section">
-                <p><em>This Privacy Policy is effective as of March 9, 2026, and applies to all users of the Car Story mobile application (v2.0 and later).</em></p>
+                <p><em>This Privacy Policy is effective as of May 20, 2026, and applies to all users of the Car Story mobile application (v2.1 and later).</em></p>
             </div>
         </div>
     </main>
