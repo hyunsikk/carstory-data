@@ -10,7 +10,7 @@ generic interval rules (not OEM data)**, validates the result, and publishes it
 via the `carstory-data` GitHub Pages site so the Car Story app fetches it without
 an App Store release.
 
-All work happens in the **`carstory-data` repo** (`github.com/hyunsikk/carstory-data`),
+All work happens in the **`carstory-data` repo** (`github.com/support-teamam/carstory-data`),
 which holds `scripts/expand-vehicle-db.mjs`, `scripts/build-manifest.mjs`, and
 `data/vehicles.json`. If the current directory isn't that repo, locate it
 (commonly `~/Desktop/TeamAM/carstory-data`) or clone it, and `cd` in before

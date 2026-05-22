@@ -22,7 +22,7 @@ const DATA_PATH = join(ROOT, 'data', 'vehicles.json');
 const MANIFEST_PATH = join(ROOT, 'data', 'manifest.json');
 
 // Public Pages URL where the app fetches the data from.
-const DATA_URL = 'https://hyunsikk.github.io/carstory-data/data/vehicles.json';
+const DATA_URL = 'https://support-teamam.github.io/carstory-data/data/vehicles.json';
 // Bump this only if the JSON shape changes incompatibly. Older app builds
 // ignore remote data whose schema is newer than they understand.
 // v2: per-vehicle `scheduleSource` ('generic' for rule-derived schedules) — gates
