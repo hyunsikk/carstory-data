@@ -10,7 +10,8 @@ website. Both are served via GitHub Pages.
 
 ```
 /                     marketing + legal website (index/support/terms/privacy)
-data/vehicles.json    OEM maintenance schedules + cost estimates (1004 vehicles)
+data/vehicles.json    Maintenance schedules + cost estimates (1305 vehicles:
+                      ~1004 curated/OEM-style + ~301 generic rule-derived)
 data/manifest.json    { schema, version, url, sha256, vehicleCount, generatedAt }
 scripts/build-manifest.mjs   regenerates manifest.json from vehicles.json
 .github/workflows/update-data.yml   keeps the manifest fresh (push + quarterly cron)
@@ -33,3 +34,17 @@ So data updates ship **without an App Store release**.
    `sha256`) and commits that too. GitHub Pages redeploys automatically.
 
 `version` only bumps when the data actually changes — re-running is a no-op.
+
+## Disclaimer
+
+This dataset is provided for **general informational purposes only**. The
+intervals, schedules, and cost figures are **typical-case estimates** — many are
+derived from generic, rule-based heuristics rather than manufacturer or expert
+data, and some descriptions are produced with the help of automated (AI) tools.
+
+It is **not** professional, medical, veterinary, or manufacturer advice. Always
+verify against your owner's manual or a qualified mechanic before acting. The data is provided "as is", without
+warranty of any kind, and you use it at your own risk. Team AM is not affiliated
+with any manufacturer or brand referenced.
+
+Full terms: https://teamam.org/terms
