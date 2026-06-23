@@ -1,0 +1,62 @@
+{
+  "slug": "2018-jaguar-xf",
+  "make": "Jaguar",
+  "model": "XF",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/JAGUAR/XF#complaints",
+  "generatedAt": "2026-06-23T16:35:23.396Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Jaguar XF. The contact stated that while driving approximately 65-70 mph on the highway, the gear fault indicator light illuminated. The transaxle fractured and the vehicle failed to accelerate. The contact was able to move to the shoulder. The vehicle was",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear left hand door will not close fully or lock. The door is ajar. The door could open at any time, and during an accident, since it is not latched, would produce results unlike the approved tested vehicle.  This is the second time the latch has failed in less than 6 months ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Jaguar Xf owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (50% of reports).",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Jaguar XF. The contact stated that while driving approximately 65-70 mph on the highway, the gear fault indicator light illuminated. The transaxle fractured and the vehicle failed to accelerate. The contact was able to move to the shoulder. The vehicle was",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear left hand door will not close fully or lock. The door is ajar. The door could open at any time, and during an accident, since it is not latched, would produce results unlike the approved tested vehicle.  This is the second time the latch has failed in less than 6 months ",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-cadillac-ct4",
+  "make": "Cadillac",
+  "model": "CT4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CADILLAC/CT4#complaints",
+  "generatedAt": "2026-06-23T16:27:36.184Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "valve body failed and was supposedly repaired. I had the car 1 day and valve body failed again.  My car has been in the shop since November 4, 2024 with no estimated time of repair because no parts are available.  I was told they would replace the transmission.   That has not hap",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Check engine light for P1467 on a 2021  CT4 V. This is for a \"purge pump underspeed\" issue. The issue is known on CT4 Cadillacs and has an active recall out: N242441120 Evaporative Emissions Purge Pump. This recall is only for the 2.0, LSY engines, but the much more uncommon 2.7,",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a known issue with hesitation and hard shifting on my vehicle. According to the gm bulletin that was released I believe in may of 25 my year, make and model has a known issue where the transmission control valve may stick or wear causing jerking and shifting issues and c",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine and transmission for the second time in 90 days apart. Supposedly be a new part. I don’t think so.",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving the power steering was lost. The the auto hold function lit up. The collision warning light lit up. The stabilitrak system lit up. The air bag safety system lit up.  Steering became very hard and made for y safe driving.  Later that day 01-22-24, all warning light w",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Cadillac Ct4 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "valve body failed and was supposedly repaired. I had the car 1 day and valve body failed again.  My car has been in the shop since November 4, 2024 with no estimated time of repair because no parts are available.  I was told they would replace the transmission.   That has not hap",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Check engine light for P1467 on a 2021  CT4 V. This is for a \"purge pump underspeed\" issue. The issue is known on CT4 Cadillacs and has an active recall out: N242441120 Evaporative Emissions Purge Pump. This recall is only for the 2.0, LSY engines, but the much more uncommon 2.7,",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a known issue with hesitation and hard shifting on my vehicle. According to the gm bulletin that was released I believe in may of 25 my year, make and model has a known issue where the transmission control valve may stick or wear causing jerking and shifting issues and c",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine and transmission for the second time in 90 days apart. Supposedly be a new part. I don’t think so.",
+        "pct": 17,
+        "title": "Suspension",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving the power steering was lost. The the auto hold function lit up. The collision warning light lit up. The stabilitrak system lit up. The air bag safety system lit up.  Steering became very hard and made for y safe driving.  Later that day 01-22-24, all warning light w",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

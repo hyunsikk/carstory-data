@@ -1,0 +1,128 @@
+{
+  "slug": "2022-genesis-g90",
+  "make": "Genesis",
+  "model": "G90",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GENESIS/G90#complaints",
+  "generatedAt": "2026-06-23T16:31:04.272Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "About every 45 days the car will not turn off. Safety items like the rear view camera will not work. The main viewing screen will go dead. I called the dealership. They said this was a common problem with my car. The only fix is to attempt a full system reboot with  a paper clip.",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "About every 45 days the car will not turn off. Safety items like the rear view camera will not work. The main viewing screen will go dead. I called the dealership. They said this was a common problem with my car. The only fix is to attempt a full system reboot with  a paper clip.",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "About every 45 days the car will not turn off. Safety items like the rear view camera will not work. The main viewing screen will go dead. I called the dealership. They said this was a common problem with my car. The only fix is to attempt a full system reboot with  a paper clip.",
+      "pct": 33
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Seat memory #1 was working when I purchased the vehicle on 9/30/2021.  Meaning as I got into and started the vehicle the seat automatically went into the correct driver's position to safely drive the vehicle. It was later learned that one of the options on the vehicle was an easy",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello. We came within one foot of running over a jogger and had pedestrian avoidance activated. I read the owners manual and found disclaimer that PA does not work in dark and for other scenarios. The PDA is essentially a daytime pedestrian avoidance and does not work half the da",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Genesis G90 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "About every 45 days the car will not turn off. Safety items like the rear view camera will not work. The main viewing screen will go dead. I called the dealership. They said this was a common problem with my car. The only fix is to attempt a full system reboot with  a paper clip.",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "About every 45 days the car will not turn off. Safety items like the rear view camera will not work. The main viewing screen will go dead. I called the dealership. They said this was a common problem with my car. The only fix is to attempt a full system reboot with  a paper clip.",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "About every 45 days the car will not turn off. Safety items like the rear view camera will not work. The main viewing screen will go dead. I called the dealership. They said this was a common problem with my car. The only fix is to attempt a full system reboot with  a paper clip.",
+        "pct": 33,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Seat memory #1 was working when I purchased the vehicle on 9/30/2021.  Meaning as I got into and started the vehicle the seat automatically went into the correct driver's position to safely drive the vehicle. It was later learned that one of the options on the vehicle was an easy",
+        "pct": 33,
+        "title": "Seats",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello. We came within one foot of running over a jogger and had pedestrian avoidance activated. I read the owners manual and found disclaimer that PA does not work in dark and for other scenarios. The PDA is essentially a daytime pedestrian avoidance and does not work half the da",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2018-maserati-levante",
+  "make": "Maserati",
+  "model": "Levante",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/MASERATI/LEVANTE#complaints",
+  "generatedAt": "2026-06-23T16:42:54.740Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SO U DRIVE THE CAR AND THE DISPLAY SHOW, DISPLAY TOO HOT AND THAN SHUTS OFF. LAST MONTH I WAS MERGING ONTO A HIGHWAY, THINKING I CAN JOIN THE ONCOMING TRAFFIC WITH THE HORSEPOWER AND SPEED I HAVE, MY CAR GOT STUCK AT 30MPH ALMOST CAUSING AN ACCIDENT. IN THE MIDDLE OF THE DRIVE WI",
+      "pct": 50
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Maserati Levante. The contact stated that after parking and occupying the vehicle at her residence inside her garage, the contact noticed smoke and a ball of fire coming from the cup holder console. The contact called 911. The contact stated she did not su",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SO U DRIVE THE CAR AND THE DISPLAY SHOW, DISPLAY TOO HOT AND THAN SHUTS OFF. LAST MONTH I WAS MERGING ONTO A HIGHWAY, THINKING I CAN JOIN THE ONCOMING TRAFFIC WITH THE HORSEPOWER AND SPEED I HAVE, MY CAR GOT STUCK AT 30MPH ALMOST CAUSING AN ACCIDENT. IN THE MIDDLE OF THE DRIVE WI",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Maserati Levante owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SO U DRIVE THE CAR AND THE DISPLAY SHOW, DISPLAY TOO HOT AND THAN SHUTS OFF. LAST MONTH I WAS MERGING ONTO A HIGHWAY, THINKING I CAN JOIN THE ONCOMING TRAFFIC WITH THE HORSEPOWER AND SPEED I HAVE, MY CAR GOT STUCK AT 30MPH ALMOST CAUSING AN ACCIDENT. IN THE MIDDLE OF THE DRIVE WI",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%) · 1 fire"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Maserati Levante. The contact stated that after parking and occupying the vehicle at her residence inside her garage, the contact noticed smoke and a ball of fire coming from the cup holder console. The contact called 911. The contact stated she did not su",
+        "pct": 25,
+        "title": "Seats",
+        "blurb": "1 report (25%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SO U DRIVE THE CAR AND THE DISPLAY SHOW, DISPLAY TOO HOT AND THAN SHUTS OFF. LAST MONTH I WAS MERGING ONTO A HIGHWAY, THINKING I CAN JOIN THE ONCOMING TRAFFIC WITH THE HORSEPOWER AND SPEED I HAVE, MY CAR GOT STUCK AT 30MPH ALMOST CAUSING AN ACCIDENT. IN THE MIDDLE OF THE DRIVE WI",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

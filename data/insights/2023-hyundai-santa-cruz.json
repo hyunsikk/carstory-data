@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-santa-cruz",
+  "make": "Hyundai",
+  "model": "Santa Cruz",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/SANTA%20CRUZ#complaints",
+  "generatedAt": "2026-06-23T16:33:47.721Z",
+  "total": 74,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 11/6/2022, while driving the vehicle, it suffered a loss of power and would not accelerate. I was in the vehicle with my wife and 2 young children who felt the vehicle shudder. I was able to drive the vehicle to my home. On 11/7/2022, upon starting the vehicle, I received an e",
+      "pct": 34
+    },
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Joined a Santa Cruz Owners blog immediately after purchase. This safety defect involves BOTH the 2022 and 2023 - ALL models. The front grill (especially the lower section) has no mesh and the openings are too big.   Road debris entering this area can disable the Engine Cooling Sy",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driver's seat power height adjustment does not work. Brought it to the dealership and they claimed they verified the issue and it was because of something I had under the seat. They claimed to have corrected it, and verified operation, but it still doesn't work. When confronted a",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rough Idle, Loss of engine power, and cylinder misfire on 2023 Santa Cruize Limited approx. 26,700 miles(currently) purchased new 04-28-2023 at Hyundai in North Knoxville, TN.  Vehicle is stored in insulated garage at all times when not in use. 1) Approx. 2k-4k mi vehicle was hav",
+      "pct": 8
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The most major problem that occurred on 2-3 different occasions is that the emergency braking system activated for no reason on one occasion, almost causing a Rear end collision with a person behind me. No one to my sides, and in front of me on all of the occasions. Headlights on",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Santa Cruz owners report most",
+    "summary": "Across 74 owner complaints to NHTSA, the most reported area is Power Train (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 11/6/2022, while driving the vehicle, it suffered a loss of power and would not accelerate. I was in the vehicle with my wife and 2 young children who felt the vehicle shudder. I was able to drive the vehicle to my home. On 11/7/2022, upon starting the vehicle, I received an e",
+        "pct": 34,
+        "title": "Power Train",
+        "blurb": "25 reports (34%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Joined a Santa Cruz Owners blog immediately after purchase. This safety defect involves BOTH the 2022 and 2023 - ALL models. The front grill (especially the lower section) has no mesh and the openings are too big.   Road debris entering this area can disable the Engine Cooling Sy",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "19 reports (26%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driver's seat power height adjustment does not work. Brought it to the dealership and they claimed they verified the issue and it was because of something I had under the seat. They claimed to have corrected it, and verified operation, but it still doesn't work. When confronted a",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "11 reports (15%) · 2 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rough Idle, Loss of engine power, and cylinder misfire on 2023 Santa Cruize Limited approx. 26,700 miles(currently) purchased new 04-28-2023 at Hyundai in North Knoxville, TN.  Vehicle is stored in insulated garage at all times when not in use. 1) Approx. 2k-4k mi vehicle was hav",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (8%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The most major problem that occurred on 2-3 different occasions is that the emergency braking system activated for no reason on one occasion, almost causing a Rear end collision with a person behind me. No one to my sides, and in front of me on all of the occasions. Headlights on",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (8%)"
+      }
+    ]
+  }
+}

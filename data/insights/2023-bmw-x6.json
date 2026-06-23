@@ -1,0 +1,40 @@
+{
+  "slug": "2023-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:24.552Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On three separate occasions the back doors of the truck opened while the car was at speed. The first time (1/20/26) it was the passenger-side back door. No one was sitting in the car aside from the driver. Driver noticed the door ajar light come on after being at speed and then l",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X6 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Structure (100% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On three separate occasions the back doors of the truck opened while the car was at speed. The first time (1/20/26) it was the passenger-side back door. No one was sitting in the car aside from the driver. Driver noticed the door ajar light come on after being at speed and then l",
+        "pct": 100,
+        "title": "Structure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

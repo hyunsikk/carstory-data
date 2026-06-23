@@ -1,0 +1,128 @@
+{
+  "slug": "2014-land-rover-lr2",
+  "make": "Land Rover",
+  "model": "LR2",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/LAND%20ROVER/LR2#complaints",
+  "generatedAt": "2026-06-23T16:45:20.813Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's parents own a 2014 Land Rover LR2. The contact stated upon parking the vehicle in the garage, her parents and herself noticed an abnormally strong gasoline odor inside the garage. The vehicle was taken to the dealer where it was diagnosed that the fuel outlet flange",
+      "pct": 38
+    },
+    {
+      "component": "GASOLINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's parents own a 2014 Land Rover LR2. The contact stated upon parking the vehicle in the garage, her parents and herself noticed an abnormally strong gasoline odor inside the garage. The vehicle was taken to the dealer where it was diagnosed that the fuel outlet flange",
+      "pct": 38
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Land Rover LR2. The contact stated that while driving at an undisclosed speed, the air bag warning light was illuminated. The vehicle was not diagnosed nor repaired by an independent mechanic or dealer. The manufacturer was not made aware of the failure. T",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2014 Land Rover LR2 HSE STARTED SMELLING STRONGLY OF FUEL IN LATE APRIL,2022. I contacted LAND ROVER NORTH AMERICA CUSTOMER RELATIONS ON 5/2/22 about the problem. Cris Willis opened Case# 8000998446 to assist me. He stated it was a recall issue awaiting parts to become active.",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transfer case failure due to seals leaking, resulting in oil leak and rendering the vehicle inoperable.  Repairs estimated at $2,261-$7,500 by authorized Range Rover service center in Grand Rapids, MI.",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Land Rover Lr2 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Fuel System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's parents own a 2014 Land Rover LR2. The contact stated upon parking the vehicle in the garage, her parents and herself noticed an abnormally strong gasoline odor inside the garage. The vehicle was taken to the dealer where it was diagnosed that the fuel outlet flange",
+        "pct": 38,
+        "title": "Fuel System",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's parents own a 2014 Land Rover LR2. The contact stated upon parking the vehicle in the garage, her parents and herself noticed an abnormally strong gasoline odor inside the garage. The vehicle was taken to the dealer where it was diagnosed that the fuel outlet flange",
+        "pct": 38,
+        "title": "Gasoline",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Land Rover LR2. The contact stated that while driving at an undisclosed speed, the air bag warning light was illuminated. The vehicle was not diagnosed nor repaired by an independent mechanic or dealer. The manufacturer was not made aware of the failure. T",
+        "pct": 25,
+        "title": "Air Bags",
+        "blurb": "2 reports (25%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2014 Land Rover LR2 HSE STARTED SMELLING STRONGLY OF FUEL IN LATE APRIL,2022. I contacted LAND ROVER NORTH AMERICA CUSTOMER RELATIONS ON 5/2/22 about the problem. Cris Willis opened Case# 8000998446 to assist me. He stated it was a recall issue awaiting parts to become active.",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transfer case failure due to seals leaking, resulting in oil leak and rendering the vehicle inoperable.  Repairs estimated at $2,261-$7,500 by authorized Range Rover service center in Grand Rapids, MI.",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

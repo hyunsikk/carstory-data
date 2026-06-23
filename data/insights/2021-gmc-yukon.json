@@ -1,0 +1,128 @@
+{
+  "slug": "2021-gmc-yukon",
+  "make": "GMC",
+  "model": "Yukon",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GMC/YUKON#complaints",
+  "generatedAt": "2026-06-23T16:31:50.508Z",
+  "total": 285,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 150,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE WERE COMING BACK FROM A TRIP WITH MY CHILDREN AND THIS VEHICLE WAS BARELY 2 WEEKS OLD WITH 0 MILES AND WE WERE ON A HIGHWAY WHEN ALL THE EMERGENCY LIGHTS ON THE DASH WENT OFF. IT WAS FLAGGING THE ELECTRICAL SYSTEM, THE ENGINE, THE BRAKES. HONESTLY ALL THE LIGHTS POSSIBLE WENT ",
+      "pct": 53
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 45,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WILL NOT SHIFT INTO GEAR FROM PARK.  WHEN IT'S IN GEAR (YOU CAN HOLD THE BUTTON TO SELECT A GEAR TO MOVE), BUT AS SOON AS YOU RELEASE THE BUTTON - IT GOES RIGHT BACK INTO PARK.      IT COMES AND GOES.    I'VE BEEN STUCK IN MY DRIVEWAY.  STUCK AT THE GROCERY STORE.  HAD IT",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 38,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On a road trip out of state we stopped for gas. We got back on the road and few miles out the car suddenly slowed and gave a message on the screen something about acceleration. We pulled over and next the reverse didn’t work. We stayed overnight then next day the reverse still di",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 GMC Yukon. The contact stated that while driving approximately 30 MPH and accelerating to approximately 40 MPH, another vehicle suddenly pulled in front causing the contact to apply the brakes. While attempting to apply the brakes, the brake pedal went to ",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WE WERE COMING BACK FROM A TRIP WITH MY CHILDREN AND THIS VEHICLE WAS BARELY 2 WEEKS OLD WITH 0 MILES AND WE WERE ON A HIGHWAY WHEN ALL THE EMERGENCY LIGHTS ON THE DASH WENT OFF. IT WAS FLAGGING THE ELECTRICAL SYSTEM, THE ENGINE, THE BRAKES. HONESTLY ALL THE LIGHTS POSSIBLE WENT ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Gmc Yukon owners report most",
+    "summary": "Across 285 owner complaints to NHTSA, the most reported area is Engine (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 150,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE WERE COMING BACK FROM A TRIP WITH MY CHILDREN AND THIS VEHICLE WAS BARELY 2 WEEKS OLD WITH 0 MILES AND WE WERE ON A HIGHWAY WHEN ALL THE EMERGENCY LIGHTS ON THE DASH WENT OFF. IT WAS FLAGGING THE ELECTRICAL SYSTEM, THE ENGINE, THE BRAKES. HONESTLY ALL THE LIGHTS POSSIBLE WENT ",
+        "pct": 53,
+        "title": "Engine",
+        "blurb": "150 reports (53%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 45,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WILL NOT SHIFT INTO GEAR FROM PARK.  WHEN IT'S IN GEAR (YOU CAN HOLD THE BUTTON TO SELECT A GEAR TO MOVE), BUT AS SOON AS YOU RELEASE THE BUTTON - IT GOES RIGHT BACK INTO PARK.      IT COMES AND GOES.    I'VE BEEN STUCK IN MY DRIVEWAY.  STUCK AT THE GROCERY STORE.  HAD IT",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "45 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 38,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On a road trip out of state we stopped for gas. We got back on the road and few miles out the car suddenly slowed and gave a message on the screen something about acceleration. We pulled over and next the reverse didn’t work. We stayed overnight then next day the reverse still di",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "38 reports (13%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 GMC Yukon. The contact stated that while driving approximately 30 MPH and accelerating to approximately 40 MPH, another vehicle suddenly pulled in front causing the contact to apply the brakes. While attempting to apply the brakes, the brake pedal went to ",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "29 reports (10%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WE WERE COMING BACK FROM A TRIP WITH MY CHILDREN AND THIS VEHICLE WAS BARELY 2 WEEKS OLD WITH 0 MILES AND WE WERE ON A HIGHWAY WHEN ALL THE EMERGENCY LIGHTS ON THE DASH WENT OFF. IT WAS FLAGGING THE ELECTRICAL SYSTEM, THE ENGINE, THE BRAKES. HONESTLY ALL THE LIGHTS POSSIBLE WENT ",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "25 reports (9%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-trailblazer",
+  "make": "Chevrolet",
+  "model": "TrailBlazer",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/TRAILBLAZER#complaints",
+  "generatedAt": "2026-06-23T16:44:46.473Z",
+  "total": 60,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving west on I90 near Belvidere IL, through a construction zone. All of sudden the vehicle stopped by its self. I had no control except for the steering. Once on the left shoulder of a four lane hwy(one way), another four lanes on the other side. There was a cement barri",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1-Cracked Coil caused breakdown and gas flooded engine on a road trip 109mi from home, stranded, no accommodations for replacement vehicle during service-May 12-19, 2023 2-Faulty Purge Solenoid Valve-December 4, 2023, serviced and repaired December 7, 2023 3-Engine light same cod",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I start my car my car play will not connect. When I start my car and put my car in reverse to use the back up camera and then put in drive the back up camera will remain on. The speakers are static sometimes. The screen will not work and it will be slow or shut off completel",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have noticed that when it's very cold, the vehicle will not shift to the two highest gears (I think) until 20+ minutes into my trip, and that's with having auto-started the vehicle 10 minutes prior to getting in it. So it takes about 30 minutes for the vehicle to shift into wha",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "My vehicle was struck on the left front drivers side while traveling 55 mph. My car flipped multiple times, but when it came to a rest on the drivers side, my head was trapped between the driver's window and the side curtain airbag.  I couldn't move the airbag, so I had to move m",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Trailblazer owners report most",
+    "summary": "Across 60 owner complaints to NHTSA, the most reported area is Service Brakes (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving west on I90 near Belvidere IL, through a construction zone. All of sudden the vehicle stopped by its self. I had no control except for the steering. Once on the left shoulder of a four lane hwy(one way), another four lanes on the other side. There was a cement barri",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "14 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1-Cracked Coil caused breakdown and gas flooded engine on a road trip 109mi from home, stranded, no accommodations for replacement vehicle during service-May 12-19, 2023 2-Faulty Purge Solenoid Valve-December 4, 2023, serviced and repaired December 7, 2023 3-Engine light same cod",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "13 reports (22%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I start my car my car play will not connect. When I start my car and put my car in reverse to use the back up camera and then put in drive the back up camera will remain on. The speakers are static sometimes. The screen will not work and it will be slow or shut off completel",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "13 reports (22%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have noticed that when it's very cold, the vehicle will not shift to the two highest gears (I think) until 20+ minutes into my trip, and that's with having auto-started the vehicle 10 minutes prior to getting in it. So it takes about 30 minutes for the vehicle to shift into wha",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "9 reports (15%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "My vehicle was struck on the left front drivers side while traveling 55 mph. My car flipped multiple times, but when it came to a rest on the drivers side, my head was trapped between the driver's window and the side curtain airbag.  I couldn't move the airbag, so I had to move m",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "4 reports (7%) · 3 crash · 4 injured"
+      }
+    ]
+  }
+}

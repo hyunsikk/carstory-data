@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-venza",
+  "make": "Toyota",
+  "model": "Venza",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/VENZA#complaints",
+  "generatedAt": "2026-06-23T16:41:34.615Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High frequency vibration of the Driver side external mirror at speeds above 45 miles per hr. As a result it impossible to make out vehicles and vehicle details beyond 15 meter behind. It's hard to focus the eyes to mirror. Could be happening to passenger side to but undiscernible",
+      "pct": 31
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a black shadow/blotch/blob in the driver side headlight. This blob bounces with the headlights depending on road condition. It is extremely distracting when driving at night. I live in an area with minimal streetlights and am often on dark, country roads with abundant wi",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is an acceleration issue that only happens sporadically. From a stopped position (stop sign/stop light) when I let go of the break and start acceleration with the gas pedal, it doesn't work. Even if I press down more in the gas pedal, it merely creeps- as if it were in neut",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am the primary driver of our 2022 Toyota Venza.  On [XXX] I had just taken the car through the Splash automated car wash on [XXX]  and I was navigating into an adjacent space for use of the vacuum cleaners.  As I took my foot off the accelerator to put the vehicle into Park, it",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High frequency vibration of the Driver side external mirror at speeds above 45 miles per hr. As a result it impossible to make out vehicles and vehicle details beyond 15 meter behind. It's hard to focus the eyes to mirror. Could be happening to passenger side to but undiscernible",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Venza owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Visibility/Wiper (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High frequency vibration of the Driver side external mirror at speeds above 45 miles per hr. As a result it impossible to make out vehicles and vehicle details beyond 15 meter behind. It's hard to focus the eyes to mirror. Could be happening to passenger side to but undiscernible",
+        "pct": 31,
+        "title": "Visibility/Wiper",
+        "blurb": "12 reports (31%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a black shadow/blotch/blob in the driver side headlight. This blob bounces with the headlights depending on road condition. It is extremely distracting when driving at night. I live in an area with minimal streetlights and am often on dark, country roads with abundant wi",
+        "pct": 18,
+        "title": "Exterior Lighting",
+        "blurb": "7 reports (18%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is an acceleration issue that only happens sporadically. From a stopped position (stop sign/stop light) when I let go of the break and start acceleration with the gas pedal, it doesn't work. Even if I press down more in the gas pedal, it merely creeps- as if it were in neut",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (15%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am the primary driver of our 2022 Toyota Venza.  On [XXX] I had just taken the car through the Splash automated car wash on [XXX]  and I was navigating into an adjacent space for use of the vacuum cleaners.  As I took my foot off the accelerator to put the vehicle into Park, it",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "6 reports (15%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High frequency vibration of the Driver side external mirror at speeds above 45 miles per hr. As a result it impossible to make out vehicles and vehicle details beyond 15 meter behind. It's hard to focus the eyes to mirror. Could be happening to passenger side to but undiscernible",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (13%) · 3 crash"
+      }
+    ]
+  }
+}

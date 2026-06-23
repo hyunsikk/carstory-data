@@ -1,0 +1,128 @@
+{
+  "slug": "2017-bmw-i3",
+  "make": "BMW",
+  "model": "i3",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/I3#complaints",
+  "generatedAt": "2026-06-23T16:26:40.276Z",
+  "total": 49,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON MULTIPLE OCCASIONS, WHEN PULLING AWAY FROM A PARKING SPORT OR ACCELERATING FROM LOW VELOCITY, THE POWER STEERING ON LEFT APPEARS TO LOSE POWER. THE CAR BEGINS TO PULL VERY HEAVILY TO THE LEFT. THE ISSUE CONTINUES THE ENTIRE DRIVE. THE STEERING BECAME HARD. AFTER TURNING THE CA",
+      "pct": 22
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The roof of my car is delaminating. It's discoloring and developing bubbles. I looked online and found this is a common issue with the vehicle. I believe this may be a structural concern considering the cars body is composite and the roof contributes to the structural integrity o",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE WINDOWS WERE DOWN AND I WAS REACHING IN THE CAR ON THE PASSENGER SIDE (DOOR SHUT). MY THIGH MADE CONTACT WITH THE DOOR HANDLE AND LOCKED THE CAR. MY THIGH MAINTAINED CONTACT AND THE WINDOW BEGAN TO ROLL-UP. IT THEN CONTINUED UNTIL IT COMPRESSED MY TORSO AND THE MOTOR KEPT ATT",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THERE IS RAPID ACCELERATION WHILE TAKING FOOT OFF ACCELERATOR WHEN THE CAR IS IN MOTION GOING UP HILL. ANTILOCK BRAKES SLOW TO ENGAGE ON STEEP DECLINES AND APPROACHING A STOP SIGN. THERE IS TOO MUCH POWER TO THE REAR WHEEL, THE CAR SKIDS ON PAINTED SURFACES SUCH AS CROSS WALKS AN",
+      "pct": 12
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Passenger restraint failure/seat sensor not registering occupant. Yes, it is a available for inspection upon request.   How was your safety or the safety of others put at risk? Fail",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw I3 owners report most",
+    "summary": "Across 49 owner complaints to NHTSA, the most reported area is Steering (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON MULTIPLE OCCASIONS, WHEN PULLING AWAY FROM A PARKING SPORT OR ACCELERATING FROM LOW VELOCITY, THE POWER STEERING ON LEFT APPEARS TO LOSE POWER. THE CAR BEGINS TO PULL VERY HEAVILY TO THE LEFT. THE ISSUE CONTINUES THE ENTIRE DRIVE. THE STEERING BECAME HARD. AFTER TURNING THE CA",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "11 reports (22%) · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The roof of my car is delaminating. It's discoloring and developing bubbles. I looked online and found this is a common issue with the vehicle. I believe this may be a structural concern considering the cars body is composite and the roof contributes to the structural integrity o",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "9 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE WINDOWS WERE DOWN AND I WAS REACHING IN THE CAR ON THE PASSENGER SIDE (DOOR SHUT). MY THIGH MADE CONTACT WITH THE DOOR HANDLE AND LOCKED THE CAR. MY THIGH MAINTAINED CONTACT AND THE WINDOW BEGAN TO ROLL-UP. IT THEN CONTINUED UNTIL IT COMPRESSED MY TORSO AND THE MOTOR KEPT ATT",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "7 reports (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THERE IS RAPID ACCELERATION WHILE TAKING FOOT OFF ACCELERATOR WHEN THE CAR IS IN MOTION GOING UP HILL. ANTILOCK BRAKES SLOW TO ENGAGE ON STEEP DECLINES AND APPROACHING A STOP SIGN. THERE IS TOO MUCH POWER TO THE REAR WHEEL, THE CAR SKIDS ON PAINTED SURFACES SUCH AS CROSS WALKS AN",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "6 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Passenger restraint failure/seat sensor not registering occupant. Yes, it is a available for inspection upon request.   How was your safety or the safety of others put at risk? Fail",
+        "pct": 6,
+        "title": "Air Bags",
+        "blurb": "3 reports (6%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

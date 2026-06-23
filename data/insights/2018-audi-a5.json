@@ -1,0 +1,106 @@
+{
+  "slug": "2018-audi-a5",
+  "make": "Audi",
+  "model": "A5",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/A5#complaints",
+  "generatedAt": "2026-06-23T16:25:21.044Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I turned on my car and several malfunctions came on the dash,and would not start and went in limp mode. A local mechanic stated it's the electrical component of the coolant pump causing malfunction. He also stated that could lead the car catching fire if overheats since the 5V is",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has 36000 miles on it and the oil cooler has failed.  The car is meticulously maintained.  This failure compromises the ability for the engine to cool properly.  Because of the failure, coolant is then forced into the engine oil potentially destroying the engine.  Eng",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own a 2018 Audi A5. Many critical cooling system parts — including the thermostat housing, water pump housing, radiator end tanks, breather tubes, and quick-connect hoses — are made of plastic and sit in constant exposure to coolant temperatures over 200°F. Over time, these com",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The water pump failed on my vehicle. Initially reported 2/2025 at Authorized Audi Service Center. They claimed it was normal for coolant to dip.   Audi USA Confirmed I have a settlement class vehicle in 03/2025. Mentioned an 80K Mileage limit. (Car only had 69K miles at the time)",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi A5 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I turned on my car and several malfunctions came on the dash,and would not start and went in limp mode. A local mechanic stated it's the electrical component of the coolant pump causing malfunction. He also stated that could lead the car catching fire if overheats since the 5V is",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has 36000 miles on it and the oil cooler has failed.  The car is meticulously maintained.  This failure compromises the ability for the engine to cool properly.  Because of the failure, coolant is then forced into the engine oil potentially destroying the engine.  Eng",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own a 2018 Audi A5. Many critical cooling system parts — including the thermostat housing, water pump housing, radiator end tanks, breather tubes, and quick-connect hoses — are made of plastic and sit in constant exposure to coolant temperatures over 200°F. Over time, these com",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The water pump failed on my vehicle. Initially reported 2/2025 at Authorized Audi Service Center. They claimed it was normal for coolant to dip.   Audi USA Confirmed I have a settlement class vehicle in 03/2025. Mentioned an 80K Mileage limit. (Car only had 69K miles at the time)",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

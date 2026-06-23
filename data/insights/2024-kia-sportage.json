@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-sportage",
+  "make": "Kia",
+  "model": "Sportage",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/SPORTAGE#complaints",
+  "generatedAt": "2026-06-23T16:37:00.605Z",
+  "total": 63,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Infotainment panel on this vehicle flickered on and off. In certain occurrences the whole infotainment cluster would go out while driving and would not come back on. Kia dealer was told from their tech line which is through Kia corporate that it could be faulty electrical wiring ",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Sportage. The contact stated while driving 25 MPH, the check engine warning light illuminated. The vehicle was able to restart on the third attempt; however, the failure recurred. The vehicle was driven to the dealer but was not diagnosed or repaired. ",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "While traveling on a 4-lane highway and using cruise control, a car in the left-hand lane was making a left turn across a median cut through, and my car's sensors detected a collision and took me from 60 mph down to 35 mph in about five seconds.  If a car had been behind me, it w",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Sportage. The contact stated that while attempting to park in his residential carport, the brake pedal was depressed the brake pedal was stiff and did not move down as intended. The contact used excessive force but the vehicle failed to come to a stop.",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Not really sure what happened, but last week the temperature suddenly dropped below freezing and there was ice built up on the windshield. We started the car and turned on the windshield defrost at high and we began to drive the car after the windshield was clear of ice and about",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Sportage owners report most",
+    "summary": "Across 63 owner complaints to NHTSA, the most reported area is Electrical System (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Infotainment panel on this vehicle flickered on and off. In certain occurrences the whole infotainment cluster would go out while driving and would not come back on. Kia dealer was told from their tech line which is through Kia corporate that it could be faulty electrical wiring ",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "12 reports (19%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Sportage. The contact stated while driving 25 MPH, the check engine warning light illuminated. The vehicle was able to restart on the third attempt; however, the failure recurred. The vehicle was driven to the dealer but was not diagnosed or repaired. ",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "9 reports (14%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "While traveling on a 4-lane highway and using cruise control, a car in the left-hand lane was making a left turn across a median cut through, and my car's sensors detected a collision and took me from 60 mph down to 35 mph in about five seconds.  If a car had been behind me, it w",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (11%) · 3 crash · 7 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Sportage. The contact stated that while attempting to park in his residential carport, the brake pedal was depressed the brake pedal was stiff and did not move down as intended. The contact used excessive force but the vehicle failed to come to a stop.",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "6 reports (10%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Not really sure what happened, but last week the temperature suddenly dropped below freezing and there was ice built up on the windshield. We started the car and turned on the windshield defrost at high and we began to drive the car after the windshield was clear of ice and about",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "6 reports (10%)"
+      }
+    ]
+  }
+}

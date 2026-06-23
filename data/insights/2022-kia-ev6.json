@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-ev6",
+  "make": "Kia",
+  "model": "EV6",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/EV6#complaints",
+  "generatedAt": "2026-06-23T16:36:24.104Z",
+  "total": 266,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 202,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I live in the Northern Latitudes in Washington state,   on my drive this morning with temps in the low 40's and high humidity the heating/ventilation system just stopped working.  My windshield immediately fogged up completely and I had near zero visibility.   I slowed down and t",
+      "pct": 76
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 43,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was traveling on a neighborhood arterial road, when I heard a load thunk that seemed to come from beneath the rear seat. Moments later, I got a \"Check electric vehicle system\" warning, followed by \"Stop vehicle and check power supply\" in the dashboard. After another moment, the",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 41,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia EV6. The contact stated that while the vehicle was parked on a hill, it rolled and crashed into a handicapped sign. The forward collision sensor became inoperable. While at the charging station utilizing the radio, the battery and collision warning ind",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "This vehicle is equipped with Semi Autonomous Driving.  While using Semi Autonomous Driving with Navigation and all other Safety Items active, the vehicle swerved out of its lane and side swiped a Semi before driver could react and move vehicle back into lane.  Multiple items fai",
+      "pct": 5
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia EV6. The contact stated that while the vehicle was parked on a hill, it rolled and crashed into a handicapped sign. The forward collision sensor became inoperable. While at the charging station utilizing the radio, the battery and collision warning ind",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia Ev6 owners report most",
+    "summary": "Across 266 owner complaints to NHTSA, the most reported area is Electrical System (76% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 202,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I live in the Northern Latitudes in Washington state,   on my drive this morning with temps in the low 40's and high humidity the heating/ventilation system just stopped working.  My windshield immediately fogged up completely and I had near zero visibility.   I slowed down and t",
+        "pct": 76,
+        "title": "Electrical System",
+        "blurb": "202 reports (76%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 43,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was traveling on a neighborhood arterial road, when I heard a load thunk that seemed to come from beneath the rear seat. Moments later, I got a \"Check electric vehicle system\" warning, followed by \"Stop vehicle and check power supply\" in the dashboard. After another moment, the",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "43 reports (16%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 41,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia EV6. The contact stated that while the vehicle was parked on a hill, it rolled and crashed into a handicapped sign. The forward collision sensor became inoperable. While at the charging station utilizing the radio, the battery and collision warning ind",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "41 reports (15%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "This vehicle is equipped with Semi Autonomous Driving.  While using Semi Autonomous Driving with Navigation and all other Safety Items active, the vehicle swerved out of its lane and side swiped a Semi before driver could react and move vehicle back into lane.  Multiple items fai",
+        "pct": 5,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (5%) · 5 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia EV6. The contact stated that while the vehicle was parked on a hill, it rolled and crashed into a handicapped sign. The forward collision sensor became inoperable. While at the charging station utilizing the radio, the battery and collision warning ind",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "13 reports (5%) · 1 crash"
+      }
+    ]
+  }
+}

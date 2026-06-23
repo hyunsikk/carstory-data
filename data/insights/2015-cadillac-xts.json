@@ -1,0 +1,128 @@
+{
+  "slug": "2015-cadillac-xts",
+  "make": "Cadillac",
+  "model": "XTS",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/CADILLAC/XTS#complaints",
+  "generatedAt": "2026-06-23T16:27:57.081Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "A FAILURE OF THE SELF-LEVELING REAR AIR SPRING COMPRESSOR OCCURRED WHILE DRIVING THROUGH PARKING LOT. \"SERVICE REAR LEVELING SYSTEM\" WARNING WAS NOT ACTIVATED / DISPLAYED AS PUBLISHED IN VEHICLE OWNERS MANUAL NOR DID ANY AUDIBLE ALERT SOUND, NOTIFYING DRIVER OF ANY IMPENDING PROB",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Please note GM PIP5146A...Chatter or Bind Feel on turns... AKA transmission shudder.  According to Cadillac dealer in Durham, NC. The car needs it's rear differential replaced; 90,000 miles.. That is happening now. Ally, the  extended warranty company, sent a technician to inspec",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Forward collision system has not been working properly for the past 3 years the car has been in for service for this problem the last time was March 1st 2023.  I nearly had 3 accidents due to the system not working.  The last contact was Holman Cadillac I was told by the service ",
+      "pct": 8
+    },
+    {
+      "component": "EQUIPMENT",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Cue screen spiderd Causing you to not control radio at times I’m driving and my radio is on 12 and the volume and can out of nowhere jump up to like 60 you cannot turn it down even if you hold the button on the steering wheel This has happened multiple times I’ve had at the deale",
+      "pct": 8
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 CADILLAC XTS. THE CONTACT STATED THAT THE SUN ROOF EXPLODED WITHOUT WARNING AND SHATTERED GLASS ENTERED THE VEHICLE. THERE WERE NO INJURIES. FRANKEL & CHESAPEAKE CADILLAC (10240 YORK RD, COCKEYSVILLE, MD 21030, (410) 773-9246) WAS MADE AWARE OF THE FAI",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Cadillac Xts owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "A FAILURE OF THE SELF-LEVELING REAR AIR SPRING COMPRESSOR OCCURRED WHILE DRIVING THROUGH PARKING LOT. \"SERVICE REAR LEVELING SYSTEM\" WARNING WAS NOT ACTIVATED / DISPLAYED AS PUBLISHED IN VEHICLE OWNERS MANUAL NOR DID ANY AUDIBLE ALERT SOUND, NOTIFYING DRIVER OF ANY IMPENDING PROB",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "4 reports (31%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Please note GM PIP5146A...Chatter or Bind Feel on turns... AKA transmission shudder.  According to Cadillac dealer in Durham, NC. The car needs it's rear differential replaced; 90,000 miles.. That is happening now. Ally, the  extended warranty company, sent a technician to inspec",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Forward collision system has not been working properly for the past 3 years the car has been in for service for this problem the last time was March 1st 2023.  I nearly had 3 accidents due to the system not working.  The last contact was Holman Cadillac I was told by the service ",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "EQUIPMENT",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Cue screen spiderd Causing you to not control radio at times I’m driving and my radio is on 12 and the volume and can out of nowhere jump up to like 60 you cannot turn it down even if you hold the button on the steering wheel This has happened multiple times I’ve had at the deale",
+        "pct": 8,
+        "title": "Equipment",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 CADILLAC XTS. THE CONTACT STATED THAT THE SUN ROOF EXPLODED WITHOUT WARNING AND SHATTERED GLASS ENTERED THE VEHICLE. THERE WERE NO INJURIES. FRANKEL & CHESAPEAKE CADILLAC (10240 YORK RD, COCKEYSVILLE, MD 21030, (410) 773-9246) WAS MADE AWARE OF THE FAI",
+        "pct": 8,
+        "title": "Visibility",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

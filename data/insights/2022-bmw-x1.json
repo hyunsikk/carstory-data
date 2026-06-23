@@ -1,0 +1,40 @@
+{
+  "slug": "2022-bmw-x1",
+  "make": "BMW",
+  "model": "X1",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X1#complaints",
+  "generatedAt": "2026-06-23T16:26:54.746Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Check engine light continuously goes on and off. As a result, had car diagnostic tested which resulted in the following $966.79 repairs:  -remove & replace evaporative emissions system leak detection unit using the following parts:  -vapor canister purge valve -fuel vapor detecti",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X1 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Check engine light continuously goes on and off. As a result, had car diagnostic tested which resulted in the following $966.79 repairs:  -remove & replace evaporative emissions system leak detection unit using the following parts:  -vapor canister purge valve -fuel vapor detecti",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

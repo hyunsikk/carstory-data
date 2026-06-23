@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-corolla-cross",
+  "make": "Toyota",
+  "model": "Corolla Cross",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/COROLLA%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:45:43.902Z",
+  "total": 172,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 101,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had stopped at a red like like normal and when I attempted to release the brake to move forward, the engine turned off and displayed a warning sign on the dashboard \"engine steering low\". I was driving on the furthest left lane of two and because there were other cars behind me",
+      "pct": 59
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 68,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I was pulling up to a stoplight and the EPS electrical power steering light came on and warning of power loss to steering wheel, low engine power and auto start stop indicator light was also illuminated. I put the car in park turned the car off and back on and then the system res",
+      "pct": 40
+    },
+    {
+      "component": "STEERING",
+      "count": 44,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had stopped at a red like like normal and when I attempted to release the brake to move forward, the engine turned off and displayed a warning sign on the dashboard \"engine steering low\". I was driving on the furthest left lane of two and because there were other cars behind me",
+      "pct": 26
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is no rear windshield wiper blade. Visibility is basically zero out of the back window unless it is sunny. It is extremely dangerous never being able to see out your rear window. If any rain, sleet, snow, mud, dirt, deicer gets on my rear window it is impossible to see. The",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car came from factory with non-functional fog lights in 2022. Fog lights are installed and steering column has fog light switch, but lights do not come on. Have heard from other owners that their cars also had non working fog lights and upon inspection at dealership, it was found",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Corolla Cross owners report most",
+    "summary": "Across 172 owner complaints to NHTSA, the most reported area is Engine (59% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 101,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had stopped at a red like like normal and when I attempted to release the brake to move forward, the engine turned off and displayed a warning sign on the dashboard \"engine steering low\". I was driving on the furthest left lane of two and because there were other cars behind me",
+        "pct": 59,
+        "title": "Engine",
+        "blurb": "101 reports (59%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 68,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I was pulling up to a stoplight and the EPS electrical power steering light came on and warning of power loss to steering wheel, low engine power and auto start stop indicator light was also illuminated. I put the car in park turned the car off and back on and then the system res",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "68 reports (40%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 44,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had stopped at a red like like normal and when I attempted to release the brake to move forward, the engine turned off and displayed a warning sign on the dashboard \"engine steering low\". I was driving on the furthest left lane of two and because there were other cars behind me",
+        "pct": 26,
+        "title": "Steering",
+        "blurb": "44 reports (26%) · 1 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is no rear windshield wiper blade. Visibility is basically zero out of the back window unless it is sunny. It is extremely dangerous never being able to see out your rear window. If any rain, sleet, snow, mud, dirt, deicer gets on my rear window it is impossible to see. The",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "25 reports (15%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car came from factory with non-functional fog lights in 2022. Fog lights are installed and steering column has fog light switch, but lights do not come on. Have heard from other owners that their cars also had non working fog lights and upon inspection at dealership, it was found",
+        "pct": 9,
+        "title": "Exterior Lighting",
+        "blurb": "15 reports (9%)"
+      }
+    ]
+  }
+}

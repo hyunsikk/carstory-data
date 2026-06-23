@@ -1,0 +1,40 @@
+{
+  "slug": "2018-subaru-brz",
+  "make": "Subaru",
+  "model": "BRZ",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/SUBARU/BRZ#complaints",
+  "generatedAt": "2026-06-23T16:40:34.351Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Subaru Brz owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine And Engine Cooling (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 100,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

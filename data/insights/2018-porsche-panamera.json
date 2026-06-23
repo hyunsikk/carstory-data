@@ -1,0 +1,128 @@
+{
+  "slug": "2018-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:54.079Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The auto in question was, and is, under the new car warranty - While driving forward, one of the automobile's display screens displayed an error message stating \"Transmission error - Reverse gear not available\"; this in itself is not a major issue as the car was in a forward gear",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 PORSCHE PANAMERA. WHILE MAKING A LEFT TURN AT 10 MPH, THE CONTACT DEPRESSED THE BRAKE PEDAL AND THE VEHICLE STALLED. AFTER THREE ATTEMPTS, THE CONTACT WAS ABLE TO RESTART THE VEHICLE, BUT THE FAILURE RECURRED MULTIPLE TIMES. THE CONTACT WAS ABLE TO DRI",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Technology  change from 3g to 5g.  This discontinues the safety notifications including crash /location alerts.  Porsche offered a free replacement, and after dealers had difficulty in installing, Porsche offers a minimum compensation, instead of fixing problem.   this will affec",
+      "pct": 25
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The ride height sensor on the right front suspension is mounted to the upper control arm via a plastic bolt and bracket. This plastic mounting component failed under normal driving conditions. The failure caused the ride height sensor to malfunction, which directly affects the ve",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Porsche Panamera. The contact stated that while driving approximately 70 MPH, the message \"Engine Overheating - Park Vehicle\" in red letters was displayed on the instrument cluster. The contact pulled over and turned off the vehicle. The contact stated tha",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Porsche Panamera owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The auto in question was, and is, under the new car warranty - While driving forward, one of the automobile's display screens displayed an error message stating \"Transmission error - Reverse gear not available\"; this in itself is not a major issue as the car was in a forward gear",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "4 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 PORSCHE PANAMERA. WHILE MAKING A LEFT TURN AT 10 MPH, THE CONTACT DEPRESSED THE BRAKE PEDAL AND THE VEHICLE STALLED. AFTER THREE ATTEMPTS, THE CONTACT WAS ABLE TO RESTART THE VEHICLE, BUT THE FAILURE RECURRED MULTIPLE TIMES. THE CONTACT WAS ABLE TO DRI",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "4 reports (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Technology  change from 3g to 5g.  This discontinues the safety notifications including crash /location alerts.  Porsche offered a free replacement, and after dealers had difficulty in installing, Porsche offers a minimum compensation, instead of fixing problem.   this will affec",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The ride height sensor on the right front suspension is mounted to the upper control arm via a plastic bolt and bracket. This plastic mounting component failed under normal driving conditions. The failure caused the ride height sensor to malfunction, which directly affects the ve",
+        "pct": 8,
+        "title": "Suspension",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Porsche Panamera. The contact stated that while driving approximately 70 MPH, the message \"Engine Overheating - Park Vehicle\" in red letters was displayed on the instrument cluster. The contact pulled over and turned off the vehicle. The contact stated tha",
+        "pct": 8,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-soul",
+  "make": "Kia",
+  "model": "Soul",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/SOUL#complaints",
+  "generatedAt": "2026-06-23T16:36:53.154Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On wednesday July 19th, at approximately 1745 (5:45 pm) I got into my car and started it. I attempted to back out of the driveway and noticed my steering wheel was locked. I pulled forward, and put the car in park. I tried to turn the car off. It then restarted itself,  revved th",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 12,
+      "deaths": 1,
+      "sample": "The contact owns a 2023 Kia Soul. The contact stated that on multiple occasions while driving at approximately 45 MPH, the vehicle went into LIMP mode and stalled. On another occasion while driving at an undisclosed speed, the vehicle started to vibrate after the accelerator peda",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia Soul. The contact stated that on multiple occasions while driving at approximately 45 MPH, the vehicle went into LIMP mode and stalled. On another occasion while driving at an undisclosed speed, the vehicle started to vibrate after the accelerator peda",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Purchased this 2023 Kia Soul on 12/9/2022 from Gateway Kia of North Brunswick, the incident occurred on 12/30/2022 and subsequently occurred a second time after that, I don't have the exact date for the second occurrence. Both occurrences happened with less than 1000 miles on the",
+      "pct": 15
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2023 Kia Soul. The contact stated that while driving 30 MPH, the lane assist feature malfunctioned and the steering wheel inadvertently turned sharply to the left and seized. As a result, the vehicle crashed into trees and rolled down the hill. The contact was",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Soul owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On wednesday July 19th, at approximately 1745 (5:45 pm) I got into my car and started it. I attempted to back out of the driveway and noticed my steering wheel was locked. I pulled forward, and put the car in park. I tried to turn the car off. It then restarted itself,  revved th",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "12 reports (25%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 12,
+        "deaths": 1,
+        "sample": "The contact owns a 2023 Kia Soul. The contact stated that on multiple occasions while driving at approximately 45 MPH, the vehicle went into LIMP mode and stalled. On another occasion while driving at an undisclosed speed, the vehicle started to vibrate after the accelerator peda",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "12 reports (25%) · 1 fire · 2 crash · 12 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia Soul. The contact stated that on multiple occasions while driving at approximately 45 MPH, the vehicle went into LIMP mode and stalled. On another occasion while driving at an undisclosed speed, the vehicle started to vibrate after the accelerator peda",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "8 reports (17%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Purchased this 2023 Kia Soul on 12/9/2022 from Gateway Kia of North Brunswick, the incident occurred on 12/30/2022 and subsequently occurred a second time after that, I don't have the exact date for the second occurrence. Both occurrences happened with less than 1000 miles on the",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "7 reports (15%) · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2023 Kia Soul. The contact stated that while driving 30 MPH, the lane assist feature malfunctioned and the steering wheel inadvertently turned sharply to the left and seized. As a result, the vehicle crashed into trees and rolled down the hill. The contact was",
+        "pct": 13,
+        "title": "Lane Departure",
+        "blurb": "6 reports (13%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

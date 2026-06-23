@@ -1,0 +1,128 @@
+{
+  "slug": "2019-toyota-prius-prime",
+  "make": "Toyota",
+  "model": "Prius Prime",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/TOYOTA/PRIUS%20PRIME#complaints",
+  "generatedAt": "2026-06-23T16:45:48.724Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "WHEELS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR HAD 27540 MILES ON FACTORY ORIGINAL TOYO NANOENERGY TIRES WHEN THE REAR PASSENGER TIRE BLEW OUT. I WAS 22 MILES INTO MY DRIVE HOME . NO TPS WARNING AND I HAD VISUALLY LOOKED AT MY TIRES BEFORE HEADING HOME. THE ENTIRE TREAD SEPARATED FROM THE SIDEWALLS. THE SIDEWALLS STAYED W",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've have to take my 2019 Prius Prime (with 20,000 miles total) in twice for brake issues in 6 weeks. Each time the dealer had to deal with a rotor heat issue. The first service was on 3/29/2021, the initial reason for appt was hearing squealing from the front. Upon inspection de",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I DRIVE THE VEHICLE ON THE FREEWAY, IT FEELS UNSTABLE. IT GOES LEFT AND RIGHT. THE VEHICLE IS BRAND NEW. WE JUST BOUGHT IT LAST WEEK. TIRE PRESSURE IS GOOD AND THE DEALERSHIP SAID THERE IS NO RECALL ON THE CAR.",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I DRIVE THE VEHICLE ON THE FREEWAY, IT FEELS UNSTABLE. IT GOES LEFT AND RIGHT. THE VEHICLE IS BRAND NEW. WE JUST BOUGHT IT LAST WEEK. TIRE PRESSURE IS GOOD AND THE DEALERSHIP SAID THERE IS NO RECALL ON THE CAR.",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 TOYOTA PRIUS PRIME. WHILE CHARGING THE VEHICLE'S BATTERY, THE DOORS ABRUPTLY LOCKED ON THEIR OWN. THE CONTACT CALLED ROADSIDE ASSISTANCE TO HAVE THE DOORS UNLOCKED. THE MANUFACTURER AND DEALER WERE NOT CONTACTED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIR",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Toyota Prius Prime owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Wheels (50% of reports).",
+    "issues": [
+      {
+        "component": "WHEELS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR HAD 27540 MILES ON FACTORY ORIGINAL TOYO NANOENERGY TIRES WHEN THE REAR PASSENGER TIRE BLEW OUT. I WAS 22 MILES INTO MY DRIVE HOME . NO TPS WARNING AND I HAD VISUALLY LOOKED AT MY TIRES BEFORE HEADING HOME. THE ENTIRE TREAD SEPARATED FROM THE SIDEWALLS. THE SIDEWALLS STAYED W",
+        "pct": 50,
+        "title": "Wheels",
+        "blurb": "4 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've have to take my 2019 Prius Prime (with 20,000 miles total) in twice for brake issues in 6 weeks. Each time the dealer had to deal with a rotor heat issue. The first service was on 3/29/2021, the initial reason for appt was hearing squealing from the front. Upon inspection de",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I DRIVE THE VEHICLE ON THE FREEWAY, IT FEELS UNSTABLE. IT GOES LEFT AND RIGHT. THE VEHICLE IS BRAND NEW. WE JUST BOUGHT IT LAST WEEK. TIRE PRESSURE IS GOOD AND THE DEALERSHIP SAID THERE IS NO RECALL ON THE CAR.",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I DRIVE THE VEHICLE ON THE FREEWAY, IT FEELS UNSTABLE. IT GOES LEFT AND RIGHT. THE VEHICLE IS BRAND NEW. WE JUST BOUGHT IT LAST WEEK. TIRE PRESSURE IS GOOD AND THE DEALERSHIP SAID THERE IS NO RECALL ON THE CAR.",
+        "pct": 13,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 TOYOTA PRIUS PRIME. WHILE CHARGING THE VEHICLE'S BATTERY, THE DOORS ABRUPTLY LOCKED ON THEIR OWN. THE CONTACT CALLED ROADSIDE ASSISTANCE TO HAVE THE DOORS UNLOCKED. THE MANUFACTURER AND DEALER WERE NOT CONTACTED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIR",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

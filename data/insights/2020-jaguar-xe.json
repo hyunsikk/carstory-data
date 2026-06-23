@@ -1,0 +1,106 @@
+{
+  "slug": "2020-jaguar-xe",
+  "make": "Jaguar",
+  "model": "XE",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/JAGUAR/XE#complaints",
+  "generatedAt": "2026-06-23T16:35:18.156Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the highway at normal operating speeds, the vehicle suddenly lost power, and the accelerator pedal became completely unresponsive, preventing me from maintaining speed or safely exiting the roadway. This created a severe safety hazard, as I was unable to maneuver",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased 2020 jaguar XE with under 13,000 miles on it 2 years ago now has 23,000 miles on it. Went to leave for work and my car wouldn’t start stating the transmission wasn’t in park and other messages and tried jumping it wouldn’t work. Wouldnt switch gears to put car in neutra",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the highway at normal operating speeds, the vehicle suddenly lost power, and the accelerator pedal became completely unresponsive, preventing me from maintaining speed or safely exiting the roadway. This created a severe safety hazard, as I was unable to maneuver",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the highway at normal operating speeds, the vehicle suddenly lost power, and the accelerator pedal became completely unresponsive, preventing me from maintaining speed or safely exiting the roadway. This created a severe safety hazard, as I was unable to maneuver",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Jaguar Xe owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the highway at normal operating speeds, the vehicle suddenly lost power, and the accelerator pedal became completely unresponsive, preventing me from maintaining speed or safely exiting the roadway. This created a severe safety hazard, as I was unable to maneuver",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased 2020 jaguar XE with under 13,000 miles on it 2 years ago now has 23,000 miles on it. Went to leave for work and my car wouldn’t start stating the transmission wasn’t in park and other messages and tried jumping it wouldn’t work. Wouldnt switch gears to put car in neutra",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the highway at normal operating speeds, the vehicle suddenly lost power, and the accelerator pedal became completely unresponsive, preventing me from maintaining speed or safely exiting the roadway. This created a severe safety hazard, as I was unable to maneuver",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the highway at normal operating speeds, the vehicle suddenly lost power, and the accelerator pedal became completely unresponsive, preventing me from maintaining speed or safely exiting the roadway. This created a severe safety hazard, as I was unable to maneuver",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

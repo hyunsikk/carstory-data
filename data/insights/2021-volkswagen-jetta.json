@@ -1,0 +1,128 @@
+{
+  "slug": "2021-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T16:42:03.259Z",
+  "total": 64,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recently had the rear brake pads replaced at appx 30,000 miles under normal driving conditions. (suburban driving, no towing or any driving behavior that would accelerate excessive/irregular wear).   Significantly, during the 5/5/2022   20,000 mile oil change the dealer noted  th",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I started the car an alert came on the said the door there was a driver door contact switch error. When I was trying to back up the emergency brake came on. The door was closed. There was an electric parking break error. Also a start stop error. When trying to go forward the",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have been having issues with the EVAP system in my 2021 VW Jetta.  It has been in the shop at least 7 times since around 12K miles for the same issue.  They have replaced all parts and upgraded the software several times and it is still an issue.  My check engine light comes on",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car suddenly warned and stopped abruptly while we were traveling over a steel plate on the road. There were no other hazards in the road and no other cars in front of us in our lane (there were cars oncoming in the opposite traffic lane, but none had crossed over into ours). ",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've owned my car for 3 weeks and have driven it ~10 times in total.  On 2 different occasions (most recently yesterday), it has stalled out while standing in traffic.  On both occasions, it was a \"soft stall\" just as a vehicle with auto on/off would have.  I had no warning light",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Volkswagen Jetta owners report most",
+    "summary": "Across 64 owner complaints to NHTSA, the most reported area is Service Brakes (38% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recently had the rear brake pads replaced at appx 30,000 miles under normal driving conditions. (suburban driving, no towing or any driving behavior that would accelerate excessive/irregular wear).   Significantly, during the 5/5/2022   20,000 mile oil change the dealer noted  th",
+        "pct": 38,
+        "title": "Service Brakes",
+        "blurb": "24 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I started the car an alert came on the said the door there was a driver door contact switch error. When I was trying to back up the emergency brake came on. The door was closed. There was an electric parking break error. Also a start stop error. When trying to go forward the",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "11 reports (17%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have been having issues with the EVAP system in my 2021 VW Jetta.  It has been in the shop at least 7 times since around 12K miles for the same issue.  They have replaced all parts and upgraded the software several times and it is still an issue.  My check engine light comes on",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (14%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car suddenly warned and stopped abruptly while we were traveling over a steel plate on the road. There were no other hazards in the road and no other cars in front of us in our lane (there were cars oncoming in the opposite traffic lane, but none had crossed over into ours). ",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've owned my car for 3 weeks and have driven it ~10 times in total.  On 2 different occasions (most recently yesterday), it has stalled out while standing in traffic.  On both occasions, it was a \"soft stall\" just as a vehicle with auto on/off would have.  I had no warning light",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "5 reports (8%)"
+      }
+    ]
+  }
+}

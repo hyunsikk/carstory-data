@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T16:42:03.190Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I would like to report a safety issue with my wife’s new 2023 VW Jetta sedan with standard transmission. It has a hill hold feature that clamps the brakes on for approximately three seconds after you remove your foot from the brake pedal, if you are on a hill. Three seconds is wa",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On April 1, 2023 I leased a 2023 VW Jetta for 39 months.  I test drove the car.  Upon delivery, it had 12 miles on the car.  I drove the car for 150 miles (162 TOTAL miles on car) At 11:30PM on April 6th, it left me stranded in the middle of the road. I called VW 36 month/36,000 ",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After parking the car one day the remote app functions stopped working.  The next morning, a scary warning came on the dash stating: SOS Error: Emergency Call Function! Service Vehicle!  It also blocks off many functional areas of other dash display and the error will not go away",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Volkswagen Jetta. The contact stated while driving 25 MPH in traffic, the Forward Collision Avoidance system activated, causing the vehicle to slow down and the Forward Collision Avoidance warning light illuminated. The dealer was contacted and stated that",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Accelerator petal does not always result in acceleration from a stopped position.  This causes the hill assist to hold and does not allow movement forward, resulting in an engine stall.  The vehicle has also set the EPC light while traveling resulting in reduced engine power to t",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Jetta owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Service Brakes (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I would like to report a safety issue with my wife’s new 2023 VW Jetta sedan with standard transmission. It has a hill hold feature that clamps the brakes on for approximately three seconds after you remove your foot from the brake pedal, if you are on a hill. Three seconds is wa",
+        "pct": 28,
+        "title": "Service Brakes",
+        "blurb": "11 reports (28%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On April 1, 2023 I leased a 2023 VW Jetta for 39 months.  I test drove the car.  Upon delivery, it had 12 miles on the car.  I drove the car for 150 miles (162 TOTAL miles on car) At 11:30PM on April 6th, it left me stranded in the middle of the road. I called VW 36 month/36,000 ",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "10 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After parking the car one day the remote app functions stopped working.  The next morning, a scary warning came on the dash stating: SOS Error: Emergency Call Function! Service Vehicle!  It also blocks off many functional areas of other dash display and the error will not go away",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "9 reports (23%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Volkswagen Jetta. The contact stated while driving 25 MPH in traffic, the Forward Collision Avoidance system activated, causing the vehicle to slow down and the Forward Collision Avoidance warning light illuminated. The dealer was contacted and stated that",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (13%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Accelerator petal does not always result in acceleration from a stopped position.  This causes the hill assist to hold and does not allow movement forward, resulting in an engine stall.  The vehicle has also set the EPC light while traveling resulting in reduced engine power to t",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (8%)"
+      }
+    ]
+  }
+}

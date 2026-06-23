@@ -1,0 +1,128 @@
+{
+  "slug": "2023-cadillac-ct5",
+  "make": "Cadillac",
+  "model": "CT5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CADILLAC/CT5#complaints",
+  "generatedAt": "2026-06-23T16:27:38.149Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac CT5. The contact stated while driving 70 MPH, the vehicle started to accelerate independently, exceeding the speed and then the vehicle decelerated without warning. The contact was able to pull over. The vehicle was towed to the dealer and stated ",
+      "pct": 45
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac CT5 equipped with Michelin Tires, Tire Line: Run Flat, Tire Size: 245/40/R19, DOT Number: (Unavailable). The contact stated that after he purchased the vehicle, he noticed that each of the tire pressure monitoring sensors indicated the incorrect t",
+      "pct": 18
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driver Door continue to not open.  You must remove key cover off handle and manually open door with key or roll down all windows with Keyfob to reach in to open doors",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The lane departure didn’t work as expected to avoid a crash. I was hurt and bruised due to the air bags never deployed after hit on right wheel number flew off causing my to go into 5 guard rails . The whole front end was destroyed into pieces “no airbags” I’m lucky to be alive. ",
+      "pct": 9
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The lane departure didn’t work as expected to avoid a crash. I was hurt and bruised due to the air bags never deployed after hit on right wheel number flew off causing my to go into 5 guard rails . The whole front end was destroyed into pieces “no airbags” I’m lucky to be alive. ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Cadillac Ct5 owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Power Train (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac CT5. The contact stated while driving 70 MPH, the vehicle started to accelerate independently, exceeding the speed and then the vehicle decelerated without warning. The contact was able to pull over. The vehicle was towed to the dealer and stated ",
+        "pct": 45,
+        "title": "Power Train",
+        "blurb": "5 reports (45%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac CT5 equipped with Michelin Tires, Tire Line: Run Flat, Tire Size: 245/40/R19, DOT Number: (Unavailable). The contact stated that after he purchased the vehicle, he noticed that each of the tire pressure monitoring sensors indicated the incorrect t",
+        "pct": 18,
+        "title": "Tires",
+        "blurb": "2 reports (18%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driver Door continue to not open.  You must remove key cover off handle and manually open door with key or roll down all windows with Keyfob to reach in to open doors",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The lane departure didn’t work as expected to avoid a crash. I was hurt and bruised due to the air bags never deployed after hit on right wheel number flew off causing my to go into 5 guard rails . The whole front end was destroyed into pieces “no airbags” I’m lucky to be alive. ",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "1 report (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The lane departure didn’t work as expected to avoid a crash. I was hurt and bruised due to the air bags never deployed after hit on right wheel number flew off causing my to go into 5 guard rails . The whole front end was destroyed into pieces “no airbags” I’m lucky to be alive. ",
+        "pct": 9,
+        "title": "Lane Departure",
+        "blurb": "1 report (9%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

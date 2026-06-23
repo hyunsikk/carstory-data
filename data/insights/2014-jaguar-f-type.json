@@ -1,0 +1,84 @@
+{
+  "slug": "2014-jaguar-f-type",
+  "make": "Jaguar",
+  "model": "F-TYPE",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/JAGUAR/F-TYPE#complaints",
+  "generatedAt": "2026-06-23T16:35:12.139Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2014 JAGUAR F-TYPE. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 55 MPH, THE CHECK ENGINE WARNING LIGHT ILLUMINATED AND THE VEHICLE STALLED. THE CONTACT STATED THAT THE VEHICLE CAUGHT ON FIRE UNDERNEATH THE HOOD. THE FIRE DEPARTMENT WAS NOTIFIED ",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FOUND RECALL CONCERNING PASSENGER AIR BAG ON NHTSA WEBSITE. DEALER SAYS THERE IS NO FIX FOR IT YET, AND IT WILL TAKE MONTHS FOR THEM TO COME UP WITH A FIX. SO THE CAR JUST SITS IN MY GARAGE WHILE I KEEP MAKING LOAN PAYMENTS, IT'S UNSAFE TO DRIVE AND DEALER WON'T DO ANYTHING. LAST",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FOUND RECALL CONCERNING PASSENGER AIR BAG ON NHTSA WEBSITE. DEALER SAYS THERE IS NO FIX FOR IT YET, AND IT WILL TAKE MONTHS FOR THEM TO COME UP WITH A FIX. SO THE CAR JUST SITS IN MY GARAGE WHILE I KEEP MAKING LOAN PAYMENTS, IT'S UNSAFE TO DRIVE AND DEALER WON'T DO ANYTHING. LAST",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Jaguar F-Type owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2014 JAGUAR F-TYPE. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 55 MPH, THE CHECK ENGINE WARNING LIGHT ILLUMINATED AND THE VEHICLE STALLED. THE CONTACT STATED THAT THE VEHICLE CAUGHT ON FIRE UNDERNEATH THE HOOD. THE FIRE DEPARTMENT WAS NOTIFIED ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FOUND RECALL CONCERNING PASSENGER AIR BAG ON NHTSA WEBSITE. DEALER SAYS THERE IS NO FIX FOR IT YET, AND IT WILL TAKE MONTHS FOR THEM TO COME UP WITH A FIX. SO THE CAR JUST SITS IN MY GARAGE WHILE I KEEP MAKING LOAN PAYMENTS, IT'S UNSAFE TO DRIVE AND DEALER WON'T DO ANYTHING. LAST",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FOUND RECALL CONCERNING PASSENGER AIR BAG ON NHTSA WEBSITE. DEALER SAYS THERE IS NO FIX FOR IT YET, AND IT WILL TAKE MONTHS FOR THEM TO COME UP WITH A FIX. SO THE CAR JUST SITS IN MY GARAGE WHILE I KEEP MAKING LOAN PAYMENTS, IT'S UNSAFE TO DRIVE AND DEALER WON'T DO ANYTHING. LAST",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

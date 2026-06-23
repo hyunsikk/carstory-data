@@ -1,0 +1,128 @@
+{
+  "slug": "2020-mercedes-benz-c-class",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MERCEDES-BENZ/C-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:17.035Z",
+  "total": 44,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2016 C300 (IN-LINE 4 TURBO, \"PETROL\" WITH 241HP) AT 55K MILES HAD 1ST CYLINDER CRACKED WHILE DRIVING ON HIGHWAY, AND MY CAR IS OUT OF WARRANTY. I TALKED TO MY DEALERSHIP AND THE CORPORATE SEPARATELY.    THE DEALERSHIP WOULD COVER THE COST OF THE PARTS WHETHER THE ENGINE NEEDS ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CEL with multiple cylinder misfires. Oil leak on top side of engine bank 2 in valley of injectors. Multiple codes for turbo charger faults and also clogged catalytic converters. Dealer confirmed and manufacturer denied federal emissions warranty on vehicle. Due to a modification ",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mercedes-Benz C300. The contact stated that her son was driving at an undisclosed speed when another vehicle's muffler detached and crashed into the undercarriage of the contact's vehicle. The front driver and passenger side tires exploded and fractured th",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component that failed was the fuel injector and spark plug. A few months prior to this incident, I was making a left hand turn, when the accelerator completely gave out. I was making the left on a blinking yellow arrow, luckily the on coming car was not coming at me fast or I",
+      "pct": 9
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mercedes-Benz C300. The contact stated that suddenly the vehicle's sensors were illuminating and activating a warning stated that the sensors were defective. Many of the vehicle's sensors began to deactivate and malfunction. While reversing out of a parkin",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mercedes-Benz C-Class owners report most",
+    "summary": "Across 44 owner complaints to NHTSA, the most reported area is Engine (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2016 C300 (IN-LINE 4 TURBO, \"PETROL\" WITH 241HP) AT 55K MILES HAD 1ST CYLINDER CRACKED WHILE DRIVING ON HIGHWAY, AND MY CAR IS OUT OF WARRANTY. I TALKED TO MY DEALERSHIP AND THE CORPORATE SEPARATELY.    THE DEALERSHIP WOULD COVER THE COST OF THE PARTS WHETHER THE ENGINE NEEDS ",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "9 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CEL with multiple cylinder misfires. Oil leak on top side of engine bank 2 in valley of injectors. Multiple codes for turbo charger faults and also clogged catalytic converters. Dealer confirmed and manufacturer denied federal emissions warranty on vehicle. Due to a modification ",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "7 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mercedes-Benz C300. The contact stated that her son was driving at an undisclosed speed when another vehicle's muffler detached and crashed into the undercarriage of the contact's vehicle. The front driver and passenger side tires exploded and fractured th",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "4 reports (9%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component that failed was the fuel injector and spark plug. A few months prior to this incident, I was making a left hand turn, when the accelerator completely gave out. I was making the left on a blinking yellow arrow, luckily the on coming car was not coming at me fast or I",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (9%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mercedes-Benz C300. The contact stated that suddenly the vehicle's sensors were illuminating and activating a warning stated that the sensors were defective. Many of the vehicle's sensors began to deactivate and malfunction. While reversing out of a parkin",
+        "pct": 9,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (9%) · 2 crash"
+      }
+    ]
+  }
+}

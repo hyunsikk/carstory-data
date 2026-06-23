@@ -1,0 +1,128 @@
+{
+  "slug": "2020-nissan-leaf",
+  "make": "Nissan",
+  "model": "Leaf",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/NISSAN/LEAF#complaints",
+  "generatedAt": "2026-06-23T16:39:20.431Z",
+  "total": 153,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 113,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON SEVERAL OCCASIONS IN BOTH RURAL AND SUBURBAN ENVIRONMENTS, REGARDLESS OF WEATHER TEMPERATURE OUTSIDE AND DURING NORMAL FORWARD DRIVING MOTION, THE CAR REPORTS THAT THE FORWARD CAMERA OVERHEATS AND IMMEDIATELY RENDERS THE COLLISION AVOIDANCE SYSTEM AND PROPILOT INOPERATIVE. DAS",
+      "pct": 74
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have previously had an issue with low resistance of the high voltage battery. This resulted in the car giving a warning code that prevents the restart of the vehicle once it's turned off. This is itself potentially leaves a driver in an unsafe location if they are in an isolate",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Makes clicking sound when changing from Park to Drive mode or Drive to Park, Park to Reverse, etc.  The click is loud enough to hear with windows closed.  The clicks are also heard when starting to accelerate or when decelerating.  I first noticed this a few months ago, but these",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have previously had an issue with low resistance of the high voltage battery. This resulted in the car giving a warning code that prevents the restart of the vehicle once it's turned off. This is itself potentially leaves a driver in an unsafe location if they are in an isolate",
+      "pct": 5
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "\"AUTOMATIC BRAKING SYSTEM FAILED TO ENGAGE\"  ON A OFFRAMP LANE FROM FREEWAY 5  SOUTHBOUND TO CROWN VALLEY PARKWAY OFF RAMP WHILE TRAVELING APPROXIMATELY 25MPH I  REAR ENDED A VEHICLE THAT WAS AT DEAD STOP AND THAT VEHICLE REAR ENDED A SECOND VEHICLE.  CALIFORNIA HIGHWAY PATROL WA",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Nissan Leaf owners report most",
+    "summary": "Across 153 owner complaints to NHTSA, the most reported area is Electrical System (74% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 113,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON SEVERAL OCCASIONS IN BOTH RURAL AND SUBURBAN ENVIRONMENTS, REGARDLESS OF WEATHER TEMPERATURE OUTSIDE AND DURING NORMAL FORWARD DRIVING MOTION, THE CAR REPORTS THAT THE FORWARD CAMERA OVERHEATS AND IMMEDIATELY RENDERS THE COLLISION AVOIDANCE SYSTEM AND PROPILOT INOPERATIVE. DAS",
+        "pct": 74,
+        "title": "Electrical System",
+        "blurb": "113 reports (74%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have previously had an issue with low resistance of the high voltage battery. This resulted in the car giving a warning code that prevents the restart of the vehicle once it's turned off. This is itself potentially leaves a driver in an unsafe location if they are in an isolate",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "31 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Makes clicking sound when changing from Park to Drive mode or Drive to Park, Park to Reverse, etc.  The click is loud enough to hear with windows closed.  The clicks are also heard when starting to accelerate or when decelerating.  I first noticed this a few months ago, but these",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "12 reports (8%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have previously had an issue with low resistance of the high voltage battery. This resulted in the car giving a warning code that prevents the restart of the vehicle once it's turned off. This is itself potentially leaves a driver in an unsafe location if they are in an isolate",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "7 reports (5%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "\"AUTOMATIC BRAKING SYSTEM FAILED TO ENGAGE\"  ON A OFFRAMP LANE FROM FREEWAY 5  SOUTHBOUND TO CROWN VALLEY PARKWAY OFF RAMP WHILE TRAVELING APPROXIMATELY 25MPH I  REAR ENDED A VEHICLE THAT WAS AT DEAD STOP AND THAT VEHICLE REAR ENDED A SECOND VEHICLE.  CALIFORNIA HIGHWAY PATROL WA",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (4%) · 1 crash"
+      }
+    ]
+  }
+}

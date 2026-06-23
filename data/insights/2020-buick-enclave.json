@@ -1,0 +1,128 @@
+{
+  "slug": "2020-buick-enclave",
+  "make": "Buick",
+  "model": "Enclave",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BUICK/ENCLAVE#complaints",
+  "generatedAt": "2026-06-23T16:27:16.952Z",
+  "total": 50,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's exhaust intermediate pipe mount has broken has caused damage in the intermediate pipe requiring both the be replaced.  The cracked exhaust allows exhaust fumes to enter the passenger compartment.  A recall (N222385510) for 2021 Chevrolet Traverse has been made howev",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OnStar system and WiFi intermittently do not work, was told that this is a known issue when radio is being used, no fix. In my case radio was not being used, so this does not apply.  Seat/mirror position memory gradually changes over time. Does not recognize that exit function ha",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT A 2020 BUICK ENCLAVE, (OWNED BY GMC) WITH 6 MILES ON IT, 1 WEEK AGO. YESTERDAY THE CHECK ENGINE LIGHT CAME ON AND THE CAR STARTED JERKING ANYTIME THE TRANSMISSION SWITCHED GEARS. I CALLED TO TRY TO GET IT IN TO A CERTIFIED BUICK DEALERSHIP TO BE LOOKED AT AND NOWHERE CAN",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After filling up fuel, vehicle runs rough, hesitates,  and stalls at idle speeds.   This occurs after every fill up. The check engine light comes on and states an issue with the anti-lock brake system. I’ve had the vehicle checked by Buick 5 times and they have not been able to r",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We bought this 2020 Buick Enclave from Pinegar Chevrolet in Republic, MO from the preowned side of the dealership. When we test drove it only in the parking lot it didn't make any noises, but as soon as we drove off the lot after purchase the brakes made a noise as if the anti lo",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Buick Enclave owners report most",
+    "summary": "Across 50 owner complaints to NHTSA, the most reported area is Engine (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's exhaust intermediate pipe mount has broken has caused damage in the intermediate pipe requiring both the be replaced.  The cracked exhaust allows exhaust fumes to enter the passenger compartment.  A recall (N222385510) for 2021 Chevrolet Traverse has been made howev",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "14 reports (28%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OnStar system and WiFi intermittently do not work, was told that this is a known issue when radio is being used, no fix. In my case radio was not being used, so this does not apply.  Seat/mirror position memory gradually changes over time. Does not recognize that exit function ha",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "9 reports (18%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT A 2020 BUICK ENCLAVE, (OWNED BY GMC) WITH 6 MILES ON IT, 1 WEEK AGO. YESTERDAY THE CHECK ENGINE LIGHT CAME ON AND THE CAR STARTED JERKING ANYTIME THE TRANSMISSION SWITCHED GEARS. I CALLED TO TRY TO GET IT IN TO A CERTIFIED BUICK DEALERSHIP TO BE LOOKED AT AND NOWHERE CAN",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "8 reports (16%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After filling up fuel, vehicle runs rough, hesitates,  and stalls at idle speeds.   This occurs after every fill up. The check engine light comes on and states an issue with the anti-lock brake system. I’ve had the vehicle checked by Buick 5 times and they have not been able to r",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We bought this 2020 Buick Enclave from Pinegar Chevrolet in Republic, MO from the preowned side of the dealership. When we test drove it only in the parking lot it didn't make any noises, but as soon as we drove off the lot after purchase the brakes made a noise as if the anti lo",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "4 reports (8%)"
+      }
+    ]
+  }
+}

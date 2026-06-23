@@ -1,0 +1,128 @@
+{
+  "slug": "2017-hyundai-azera",
+  "make": "Hyundai",
+  "model": "Azera",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/HYUNDAI/AZERA#complaints",
+  "generatedAt": "2026-06-23T16:33:08.358Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DURING OUR FIRST TRIP ON THE INTERSTATE I NOTICED THAT WHEN TRYING TO CORRECT THE STEERING, EITHER RIGHT OR LEFT, THE CAR WOULD NOT IMMEDIATELY RESPOND. THEN AFTER JUST A SECOND OR TWO SOMETHING WOULD BREAK LOOSE ALLOWING THE VEHICLE TO RESPOND TO MY REQUEST. I.E. TURN LEFT OR RI",
+      "pct": 42
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE COMMUTING HOME FROM WORK IN LATE AFTERNOON, ROUGHLY 6:30 P.M. OF 9/26/18 THE PANORAMIC SUNROOF OF MY 2017 HYUNDAI AZERA SPONTANEOUSLY EXPLODED FROM THE INSIDE OUT FOLLOWED BY SHATTERING AND GLASS DEBRIS TO BE EXPELLED FROM MY VEHICLE ONTO THE INTERSTATE AND MOST LIKELY VEHI",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR WAS DRIVEN ON HIGHWAY W/ 1300 MILES ON IT (BRAND NEW LEASE) WITH NO TRAFFIC AROUND VEHICLE WHEN FRONT END COLLISION WARNING ALERT AND ELECTRONIC POWER BRAKE ALERT LIGHTS CAME ON; ONCE ABLE TO GET TO A SAFE STOPPING AREA (PARKING LOT), CAR WAS PUT IN PARK AND OWNERS MANUAL REV",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 8
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Hyundai Azera. The contact stated that the trunk was difficult to open manually. The contact was able to open the trunk after several attempts. However, the trunk would no longer close securely and had to be tied closed with a wire. The dealer was notified",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Hyundai Azera owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Steering (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DURING OUR FIRST TRIP ON THE INTERSTATE I NOTICED THAT WHEN TRYING TO CORRECT THE STEERING, EITHER RIGHT OR LEFT, THE CAR WOULD NOT IMMEDIATELY RESPOND. THEN AFTER JUST A SECOND OR TWO SOMETHING WOULD BREAK LOOSE ALLOWING THE VEHICLE TO RESPOND TO MY REQUEST. I.E. TURN LEFT OR RI",
+        "pct": 42,
+        "title": "Steering",
+        "blurb": "5 reports (42%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE COMMUTING HOME FROM WORK IN LATE AFTERNOON, ROUGHLY 6:30 P.M. OF 9/26/18 THE PANORAMIC SUNROOF OF MY 2017 HYUNDAI AZERA SPONTANEOUSLY EXPLODED FROM THE INSIDE OUT FOLLOWED BY SHATTERING AND GLASS DEBRIS TO BE EXPELLED FROM MY VEHICLE ONTO THE INTERSTATE AND MOST LIKELY VEHI",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR WAS DRIVEN ON HIGHWAY W/ 1300 MILES ON IT (BRAND NEW LEASE) WITH NO TRAFFIC AROUND VEHICLE WHEN FRONT END COLLISION WARNING ALERT AND ELECTRONIC POWER BRAKE ALERT LIGHTS CAME ON; ONCE ABLE TO GET TO A SAFE STOPPING AREA (PARKING LOT), CAR WAS PUT IN PARK AND OWNERS MANUAL REV",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "2 reports (17%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 8,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Hyundai Azera. The contact stated that the trunk was difficult to open manually. The contact was able to open the trunk after several attempts. However, the trunk would no longer close securely and had to be tied closed with a wire. The dealer was notified",
+        "pct": 8,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

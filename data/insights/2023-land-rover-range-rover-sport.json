@@ -1,0 +1,128 @@
+{
+  "slug": "2023-land-rover-range-rover-sport",
+  "make": "Land Rover",
+  "model": "Range Rover Sport",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LAND%20ROVER/RANGE%20ROVER%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:15.168Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sadly, I have to report that I have not had my truck for more than 2 weeks and I had to already bring it to the dealerships for diagnostic evaluation for an Electrical fault detection message. As per the service department the vehicle needs a new Alternator. Hence, needing an alt",
+      "pct": 62
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car had a warning light in December “stop safely electrical fault detected” Land Rover dealership told me nothing was wrong, except I don’t drive enough & the battery was low. Eventually, the warning went away. This week, the warning light was back, along with additional warn",
+      "pct": 48
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Less than 2 hours before my car completely shut down while driving, I received an error message stating \"Stop safely. Electrical fault detected.\"  I immediately reached out to the service department who told they didn't think the car would have any additional issues and that I sh",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Land Rover Range Rover Sport. The contact stated that while driving at unknown speeds, the brake warning light illuminated. The vehicle was taken to the local dealer, where it was diagnosed that the brake pads needed to be replaced. The vehicle was not rep",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Adaptive Cruise Control does not recognize (at times) stopped cars. SUV will accelerate into a stopped car. Similar problem on the NJ Turnpike traveling 65 mph with Adaptive Cruise Control. All lanes had a meaningful slow down and SUV continued to accelerate into slowdown. Almost",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Land Rover Range Rover Sport owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Electrical System (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sadly, I have to report that I have not had my truck for more than 2 weeks and I had to already bring it to the dealerships for diagnostic evaluation for an Electrical fault detection message. As per the service department the vehicle needs a new Alternator. Hence, needing an alt",
+        "pct": 62,
+        "title": "Electrical System",
+        "blurb": "13 reports (62%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car had a warning light in December “stop safely electrical fault detected” Land Rover dealership told me nothing was wrong, except I don’t drive enough & the battery was low. Eventually, the warning went away. This week, the warning light was back, along with additional warn",
+        "pct": 48,
+        "title": "Engine",
+        "blurb": "10 reports (48%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Less than 2 hours before my car completely shut down while driving, I received an error message stating \"Stop safely. Electrical fault detected.\"  I immediately reached out to the service department who told they didn't think the car would have any additional issues and that I sh",
+        "pct": 24,
+        "title": "Steering",
+        "blurb": "5 reports (24%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Land Rover Range Rover Sport. The contact stated that while driving at unknown speeds, the brake warning light illuminated. The vehicle was taken to the local dealer, where it was diagnosed that the brake pads needed to be replaced. The vehicle was not rep",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Adaptive Cruise Control does not recognize (at times) stopped cars. SUV will accelerate into a stopped car. Similar problem on the NJ Turnpike traveling 65 mph with Adaptive Cruise Control. All lanes had a meaningful slow down and SUV continued to accelerate into slowdown. Almost",
+        "pct": 10,
+        "title": "Lane Departure",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

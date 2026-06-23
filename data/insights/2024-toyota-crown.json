@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-crown",
+  "make": "Toyota",
+  "model": "Crown",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/CROWN#complaints",
+  "generatedAt": "2026-06-23T16:41:20.178Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving off from a stop it seemed like my car was hesitating when pressing the gas. Has done this a few times now, the first time I was not sure if that happened or not. But after about the fifth time I’m like what’s going on. I have just over 4000 miles on my car. When you ",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "To whom it may concern,  We purchased a brand-new car (2024 Toyota Crown Platinum Hybrid Max) from Fletcher Toyota in Joplin, MO for $50,000 USD around May or June of 2024.  We have had 2 unresolved issues with the new car and the dealership has not resolved the issues even thoug",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving off from a stop it seemed like my car was hesitating when pressing the gas. Has done this a few times now, the first time I was not sure if that happened or not. But after about the fifth time I’m like what’s going on. I have just over 4000 miles on my car. When you ",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the car is cold the brake is applied, the start button is pushed, the engine starts. The transmission is set to either drive or reverse, the gas pedal is lightly pushed where the brake is still applied by the car. If acceleration further to get moving, the car lurches forwar",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When starting into traffic from a dead stop - stop sign, merging, traffic light - the car hesitates acceleration. It stumbles and shudders like it has run out of gas for h n it has not. This puts me in danger when pulling out into traffic since the car does not take off properly.",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Crown owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Engine (38% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving off from a stop it seemed like my car was hesitating when pressing the gas. Has done this a few times now, the first time I was not sure if that happened or not. But after about the fifth time I’m like what’s going on. I have just over 4000 miles on my car. When you ",
+        "pct": 38,
+        "title": "Engine",
+        "blurb": "6 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "To whom it may concern,  We purchased a brand-new car (2024 Toyota Crown Platinum Hybrid Max) from Fletcher Toyota in Joplin, MO for $50,000 USD around May or June of 2024.  We have had 2 unresolved issues with the new car and the dealership has not resolved the issues even thoug",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving off from a stop it seemed like my car was hesitating when pressing the gas. Has done this a few times now, the first time I was not sure if that happened or not. But after about the fifth time I’m like what’s going on. I have just over 4000 miles on my car. When you ",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the car is cold the brake is applied, the start button is pushed, the engine starts. The transmission is set to either drive or reverse, the gas pedal is lightly pushed where the brake is still applied by the car. If acceleration further to get moving, the car lurches forwar",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When starting into traffic from a dead stop - stop sign, merging, traffic light - the car hesitates acceleration. It stumbles and shudders like it has run out of gas for h n it has not. This puts me in danger when pulling out into traffic since the car does not take off properly.",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

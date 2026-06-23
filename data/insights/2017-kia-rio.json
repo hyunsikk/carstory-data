@@ -1,0 +1,128 @@
+{
+  "slug": "2017-kia-rio",
+  "make": "Kia",
+  "model": "Rio",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KIA/RIO#complaints",
+  "generatedAt": "2026-06-23T16:36:36.377Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle has electrical issues none stop. One day it randomly stalled out while still in motion and lost all power. No power at all. It was “repaired” and I had it for 2 weeks and it again lost all power while in motion. It put my life completely at risk as I had to pull over",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Kia Rio. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time fo",
+      "pct": 23
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Kia Rio. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time fo",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle has electrical issues none stop. One day it randomly stalled out while still in motion and lost all power. No power at all. It was “repaired” and I had it for 2 weeks and it again lost all power while in motion. It put my life completely at risk as I had to pull over",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "WAS ENVOLVED IN A WRECK TO WHERE I WENT OFF THE ROAD HIT A STOP SIGN,,A TELEPHONE BOX,,A OAK TREE THEN A PINE TREE AND NONE OF THE AIRBAGS DEPLOYED NOW MY WIFE HAS A BROKEN BACK AND CHEST BONE,,I GOT A BUSTED UP KNEE A SPRANG SHOLDER NECK AND BACK",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Kia Rio owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle has electrical issues none stop. One day it randomly stalled out while still in motion and lost all power. No power at all. It was “repaired” and I had it for 2 weeks and it again lost all power while in motion. It put my life completely at risk as I had to pull over",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "10 reports (33%) · 5 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Kia Rio. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time fo",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "7 reports (23%) · 1 fire"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Kia Rio. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time fo",
+        "pct": 20,
+        "title": "Hydraulic",
+        "blurb": "6 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle has electrical issues none stop. One day it randomly stalled out while still in motion and lost all power. No power at all. It was “repaired” and I had it for 2 weeks and it again lost all power while in motion. It put my life completely at risk as I had to pull over",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "3 reports (10%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "WAS ENVOLVED IN A WRECK TO WHERE I WENT OFF THE ROAD HIT A STOP SIGN,,A TELEPHONE BOX,,A OAK TREE THEN A PINE TREE AND NONE OF THE AIRBAGS DEPLOYED NOW MY WIFE HAS A BROKEN BACK AND CHEST BONE,,I GOT A BUSTED UP KNEE A SPRANG SHOLDER NECK AND BACK",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "3 reports (10%) · 3 crash · 4 injured"
+      }
+    ]
+  }
+}

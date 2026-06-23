@@ -1,0 +1,128 @@
+{
+  "slug": "2024-acura-tlx",
+  "make": "Acura",
+  "model": "TLX",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/ACURA/TLX#complaints",
+  "generatedAt": "2026-06-23T16:25:06.404Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Infotainment system shuts down while driving and ultimately causes the power to drain from the vehicle leaving the vehicle inoperative. This is the second time this has happened. Acura has already repaired once with less than 1000 miles on the car. Now it’s happening again.",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I understand Honda isn't doing soo well so I hope this is added to the list of the feds research we just bought this tlx aspec don't understand how these cars need to be 4000lbs but anyway the gas mileage advertised is not what you get I've seen on multiple forms people are sayin",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I understand Honda isn't doing soo well so I hope this is added to the list of the feds research we just bought this tlx aspec don't understand how these cars need to be 4000lbs but anyway the gas mileage advertised is not what you get I've seen on multiple forms people are sayin",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I understand Honda isn't doing soo well so I hope this is added to the list of the feds research we just bought this tlx aspec don't understand how these cars need to be 4000lbs but anyway the gas mileage advertised is not what you get I've seen on multiple forms people are sayin",
+      "pct": 25
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ok I purchased this vehicle in march of 2024 by May I started getting a vibration at highway speeds in front of vehicle...I brought to dealer and they told me there is a plastic peice broken on both front wheels it's inside you can not see it when tire is on ...the dealer told me",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Acura Tlx owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Infotainment system shuts down while driving and ultimately causes the power to drain from the vehicle leaving the vehicle inoperative. This is the second time this has happened. Acura has already repaired once with less than 1000 miles on the car. Now it’s happening again.",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I understand Honda isn't doing soo well so I hope this is added to the list of the feds research we just bought this tlx aspec don't understand how these cars need to be 4000lbs but anyway the gas mileage advertised is not what you get I've seen on multiple forms people are sayin",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I understand Honda isn't doing soo well so I hope this is added to the list of the feds research we just bought this tlx aspec don't understand how these cars need to be 4000lbs but anyway the gas mileage advertised is not what you get I've seen on multiple forms people are sayin",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I understand Honda isn't doing soo well so I hope this is added to the list of the feds research we just bought this tlx aspec don't understand how these cars need to be 4000lbs but anyway the gas mileage advertised is not what you get I've seen on multiple forms people are sayin",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ok I purchased this vehicle in march of 2024 by May I started getting a vibration at highway speeds in front of vehicle...I brought to dealer and they told me there is a plastic peice broken on both front wheels it's inside you can not see it when tire is on ...the dealer told me",
+        "pct": 25,
+        "title": "Wheels",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2023-land-rover-discovery",
+  "make": "Land Rover",
+  "model": "Discovery",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LAND%20ROVER/DISCOVERY#complaints",
+  "generatedAt": "2026-06-23T16:37:06.232Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was in a parking lot adjusting settings via the touch screen when the vehicle suddenly deactivated the key fob rendering the vehicle useless. The only option was to get the spare key to start the vehicle. This presents a safety issue for all occupants if the vehicle is disabled",
+      "pct": 71
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Perrelli Scorpion 255/55R20 tires experience experience excessive wear down to cords in under 15K miles.  Tires are in adequate to support the weight of the vehicle.",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA,  I am writing to report a safety issue with my 2023 Land Rover Discovery Metropolitan that occurred on April [XXX] 2024. VIN: [XXX]   The issue involved the steering wheel locking unexpectedly. After parking the car overnight for 15 hours, I returned to find a message",
+      "pct": 14
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA,  I am writing to report a safety issue with my 2023 Land Rover Discovery Metropolitan that occurred on April [XXX] 2024. VIN: [XXX]   The issue involved the steering wheel locking unexpectedly. After parking the car overnight for 15 hours, I returned to find a message",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Land Rover Discovery owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Electrical System (71% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was in a parking lot adjusting settings via the touch screen when the vehicle suddenly deactivated the key fob rendering the vehicle useless. The only option was to get the spare key to start the vehicle. This presents a safety issue for all occupants if the vehicle is disabled",
+        "pct": 71,
+        "title": "Electrical System",
+        "blurb": "5 reports (71%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Perrelli Scorpion 255/55R20 tires experience experience excessive wear down to cords in under 15K miles.  Tires are in adequate to support the weight of the vehicle.",
+        "pct": 14,
+        "title": "Tires",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA,  I am writing to report a safety issue with my 2023 Land Rover Discovery Metropolitan that occurred on April [XXX] 2024. VIN: [XXX]   The issue involved the steering wheel locking unexpectedly. After parking the car overnight for 15 hours, I returned to find a message",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA,  I am writing to report a safety issue with my 2023 Land Rover Discovery Metropolitan that occurred on April [XXX] 2024. VIN: [XXX]   The issue involved the steering wheel locking unexpectedly. After parking the car overnight for 15 hours, I returned to find a message",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

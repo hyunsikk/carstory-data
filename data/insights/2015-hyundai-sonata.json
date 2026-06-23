@@ -1,0 +1,128 @@
+{
+  "slug": "2015-hyundai-sonata",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/HYUNDAI/SONATA#complaints",
+  "generatedAt": "2026-06-23T16:34:17.289Z",
+  "total": 1119,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 607,
+      "crash": 4,
+      "fire": 34,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "THIS IS A NEW HYUNDAI SONATA 2015. THE ENGINE CHECK LIGHT CAME ON AND THE ENGINE STARTED RUNNING ERRATICALLY. THE FOLLOWING SYMPTOMS CAN BE A SAFETY CONCERNS:  1. SOMETIMES WHEN IDLING AT INTERSECTION THE ENGINE RPM GOES UP ALL OF A SUDDEN AND THE CAR STARTS MOVING FORWARD AND ON",
+      "pct": 54
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 165,
+      "crash": 3,
+      "fire": 16,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "BRAND NEW CAR PURCHASED AND FEW ISSUES.  1. GAS GAUGE ONLY GOES UP TO 7/8 EVEN WITH FULL TANK FILL UP.  2. GAS MILEAGE DOES NOT SEEM TO INDICATE CORRECT MILEAGE. WITH FULL TANK GAS, THE INDICATOR SHOWS 450+ MILES, BUT ACTUAL MILEAGE IS 300~350 MILES.  3. ERROR OCCURS WHEN PLAYING",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 131,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I WENT TO ACCELERATE, BY DEPRESSING THE ACCELERATOR, AND THE ENGINE REVVED HIGH, BUT, THE CAR DID NOT ACCELERATE AND THERE DIDN'T APPEAR TO BE POWER AT THE WHEELS. IT ACTED AS IF THE TRANSMISSION WAS SLIPPING. I LET OFF OF THE PEDAL AND IT DOWNSHIFTED AND POWER TO THE WHEELS WAS ",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 75,
+      "crash": 11,
+      "fire": 5,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "I PURCHASED MY HYUNDAI SONATA ON 1/05/2015 WITH ONLY 6 MILES FROM SHEEHY HYUNDAI OF WALDOR IN MARYLAND      AFTER 11 DAYS OF PURCHASE ON JANUARY 16 2015 AT APPROXIMATELY 5:45 PM (RUSH HOUR IN THE DC METRO AREA) MY SONATA CAME TO AN ABRUPT STOP WITHOUT ANY WARNING SIGNS ON THE HIG",
+      "pct": 7
+    },
+    {
+      "component": "STEERING",
+      "count": 74,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I PURCHASED MY HYUNDAI SONATA ON 1/05/2015 WITH ONLY 6 MILES FROM SHEEHY HYUNDAI OF WALDOR IN MARYLAND      AFTER 11 DAYS OF PURCHASE ON JANUARY 16 2015 AT APPROXIMATELY 5:45 PM (RUSH HOUR IN THE DC METRO AREA) MY SONATA CAME TO AN ABRUPT STOP WITHOUT ANY WARNING SIGNS ON THE HIG",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Hyundai Sonata owners report most",
+    "summary": "Across 1,119 owner complaints to NHTSA, the most reported area is Engine (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 607,
+        "crash": 4,
+        "fire": 34,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "THIS IS A NEW HYUNDAI SONATA 2015. THE ENGINE CHECK LIGHT CAME ON AND THE ENGINE STARTED RUNNING ERRATICALLY. THE FOLLOWING SYMPTOMS CAN BE A SAFETY CONCERNS:  1. SOMETIMES WHEN IDLING AT INTERSECTION THE ENGINE RPM GOES UP ALL OF A SUDDEN AND THE CAR STARTS MOVING FORWARD AND ON",
+        "pct": 54,
+        "title": "Engine",
+        "blurb": "607 reports (54%) · 34 fire · 4 crash · 10 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 165,
+        "crash": 3,
+        "fire": 16,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "BRAND NEW CAR PURCHASED AND FEW ISSUES.  1. GAS GAUGE ONLY GOES UP TO 7/8 EVEN WITH FULL TANK FILL UP.  2. GAS MILEAGE DOES NOT SEEM TO INDICATE CORRECT MILEAGE. WITH FULL TANK GAS, THE INDICATOR SHOWS 450+ MILES, BUT ACTUAL MILEAGE IS 300~350 MILES.  3. ERROR OCCURS WHEN PLAYING",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "165 reports (15%) · 16 fire · 3 crash · 7 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 131,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I WENT TO ACCELERATE, BY DEPRESSING THE ACCELERATOR, AND THE ENGINE REVVED HIGH, BUT, THE CAR DID NOT ACCELERATE AND THERE DIDN'T APPEAR TO BE POWER AT THE WHEELS. IT ACTED AS IF THE TRANSMISSION WAS SLIPPING. I LET OFF OF THE PEDAL AND IT DOWNSHIFTED AND POWER TO THE WHEELS WAS ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "131 reports (12%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 75,
+        "crash": 11,
+        "fire": 5,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "I PURCHASED MY HYUNDAI SONATA ON 1/05/2015 WITH ONLY 6 MILES FROM SHEEHY HYUNDAI OF WALDOR IN MARYLAND      AFTER 11 DAYS OF PURCHASE ON JANUARY 16 2015 AT APPROXIMATELY 5:45 PM (RUSH HOUR IN THE DC METRO AREA) MY SONATA CAME TO AN ABRUPT STOP WITHOUT ANY WARNING SIGNS ON THE HIG",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "75 reports (7%) · 5 fire · 11 crash · 7 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 74,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I PURCHASED MY HYUNDAI SONATA ON 1/05/2015 WITH ONLY 6 MILES FROM SHEEHY HYUNDAI OF WALDOR IN MARYLAND      AFTER 11 DAYS OF PURCHASE ON JANUARY 16 2015 AT APPROXIMATELY 5:45 PM (RUSH HOUR IN THE DC METRO AREA) MY SONATA CAME TO AN ABRUPT STOP WITHOUT ANY WARNING SIGNS ON THE HIG",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "74 reports (7%) · 4 crash · 4 injured"
+      }
+    ]
+  }
+}

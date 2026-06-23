@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-express",
+  "make": "Chevrolet",
+  "model": "Express",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/EXPRESS#complaints",
+  "generatedAt": "2026-06-23T16:44:39.090Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car always turns on the slippery road warning light when I drive over 60 miles per hour and the wheels lock up. Sometimes, the ABS warning light also comes on, along with error messages saying 'Service Traction Control' and 'Service StabiliTrak'.",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car always turns on the slippery road warning light when I drive over 60 miles per hour and the wheels lock up. Sometimes, the ABS warning light also comes on, along with error messages saying 'Service Traction Control' and 'Service StabiliTrak'.",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car always turns on the slippery road warning light when I drive over 60 miles per hour and the wheels lock up. Sometimes, the ABS warning light also comes on, along with error messages saying 'Service Traction Control' and 'Service StabiliTrak'.",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Express. The contact stated that while pulling into the driveway, the front driver's side wheel turned sideways. Upon inspecting the vehicle, the contact noticed that the outer tie rod had failed, and the tie rod nut was bent.  There were no warn",
+      "pct": 50
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Express. The contact stated that while pulling into the driveway, the front driver's side wheel turned sideways. Upon inspecting the vehicle, the contact noticed that the outer tie rod had failed, and the tie rod nut was bent.  There were no warn",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Express owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car always turns on the slippery road warning light when I drive over 60 miles per hour and the wheels lock up. Sometimes, the ABS warning light also comes on, along with error messages saying 'Service Traction Control' and 'Service StabiliTrak'.",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car always turns on the slippery road warning light when I drive over 60 miles per hour and the wheels lock up. Sometimes, the ABS warning light also comes on, along with error messages saying 'Service Traction Control' and 'Service StabiliTrak'.",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car always turns on the slippery road warning light when I drive over 60 miles per hour and the wheels lock up. Sometimes, the ABS warning light also comes on, along with error messages saying 'Service Traction Control' and 'Service StabiliTrak'.",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Express. The contact stated that while pulling into the driveway, the front driver's side wheel turned sideways. Upon inspecting the vehicle, the contact noticed that the outer tie rod had failed, and the tie rod nut was bent.  There were no warn",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Express. The contact stated that while pulling into the driveway, the front driver's side wheel turned sideways. Upon inspecting the vehicle, the contact noticed that the outer tie rod had failed, and the tie rod nut was bent.  There were no warn",
+        "pct": 50,
+        "title": "Wheels",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

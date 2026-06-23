@@ -1,0 +1,84 @@
+{
+  "slug": "2024-genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GENESIS/G70#complaints",
+  "generatedAt": "2026-06-23T16:30:58.967Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "A 2024 Genesis G70 with 10,860 miles suffered a severe multi-system safety failure. While driving at highway speeds, the vehicle executed unexpected, unprompted automatic emergency braking (phantom braking) X2 with no forward threats present, creating an immediate highway collisi",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "A 2024 Genesis G70 with 10,860 miles suffered a severe multi-system safety failure. While driving at highway speeds, the vehicle executed unexpected, unprompted automatic emergency braking (phantom braking) X2 with no forward threats present, creating an immediate highway collisi",
+      "pct": 100
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "A 2024 Genesis G70 with 10,860 miles suffered a severe multi-system safety failure. While driving at highway speeds, the vehicle executed unexpected, unprompted automatic emergency braking (phantom braking) X2 with no forward threats present, creating an immediate highway collisi",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Genesis G70 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "A 2024 Genesis G70 with 10,860 miles suffered a severe multi-system safety failure. While driving at highway speeds, the vehicle executed unexpected, unprompted automatic emergency braking (phantom braking) X2 with no forward threats present, creating an immediate highway collisi",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%) · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "A 2024 Genesis G70 with 10,860 miles suffered a severe multi-system safety failure. While driving at highway speeds, the vehicle executed unexpected, unprompted automatic emergency braking (phantom braking) X2 with no forward threats present, creating an immediate highway collisi",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%) · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "A 2024 Genesis G70 with 10,860 miles suffered a severe multi-system safety failure. While driving at highway speeds, the vehicle executed unexpected, unprompted automatic emergency braking (phantom braking) X2 with no forward threats present, creating an immediate highway collisi",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%) · 1 injured"
+      }
+    ]
+  }
+}

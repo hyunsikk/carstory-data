@@ -1,0 +1,128 @@
+{
+  "slug": "2017-audi-s7",
+  "make": "Audi",
+  "model": "S7",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/S7#complaints",
+  "generatedAt": "2026-06-23T16:43:11.902Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN DRIVING IN TOWN THE CAR ABRUPTLY STOPPED RUNNING, STEERING AND BRAKES FAILED.  CAUSED BY BOTH TURBOCHARGERS GOING OUT AT THE SAME TIME.  36,000 MILES A FEW MONTHS OUT OF WARRANTY.  APPARENTLY THIS IS KNOWN ISSUE WITH THE AUDI'S AND AUDI HAS NOT ISSUED A RECALL OR ANYTHING AC",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving on the freeway all of the sudden the dashboard has all lights up, I stepped out of the Vehicle to see what was going on and I starter to smell like a burning electric component, I went into the battery to disconnect and the Negative terminal was SUPER HOT to the poi",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN DRIVING IN TOWN THE CAR ABRUPTLY STOPPED RUNNING, STEERING AND BRAKES FAILED.  CAUSED BY BOTH TURBOCHARGERS GOING OUT AT THE SAME TIME.  36,000 MILES A FEW MONTHS OUT OF WARRANTY.  APPARENTLY THIS IS KNOWN ISSUE WITH THE AUDI'S AND AUDI HAS NOT ISSUED A RECALL OR ANYTHING AC",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The last month I’ve been having issues with the transmission. It’s been cutting out on me, giving me warnings and causing me to stall in the middle of the road, and when I do manage to get it back on it, jerks to the point where I could crash into someone in front of me. I’ve los",
+      "pct": 20
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The last month I’ve been having issues with the transmission. It’s been cutting out on me, giving me warnings and causing me to stall in the middle of the road, and when I do manage to get it back on it, jerks to the point where I could crash into someone in front of me. I’ve los",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi S7 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Steering (40% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN DRIVING IN TOWN THE CAR ABRUPTLY STOPPED RUNNING, STEERING AND BRAKES FAILED.  CAUSED BY BOTH TURBOCHARGERS GOING OUT AT THE SAME TIME.  36,000 MILES A FEW MONTHS OUT OF WARRANTY.  APPARENTLY THIS IS KNOWN ISSUE WITH THE AUDI'S AND AUDI HAS NOT ISSUED A RECALL OR ANYTHING AC",
+        "pct": 40,
+        "title": "Steering",
+        "blurb": "2 reports (40%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving on the freeway all of the sudden the dashboard has all lights up, I stepped out of the Vehicle to see what was going on and I starter to smell like a burning electric component, I went into the battery to disconnect and the Negative terminal was SUPER HOT to the poi",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN DRIVING IN TOWN THE CAR ABRUPTLY STOPPED RUNNING, STEERING AND BRAKES FAILED.  CAUSED BY BOTH TURBOCHARGERS GOING OUT AT THE SAME TIME.  36,000 MILES A FEW MONTHS OUT OF WARRANTY.  APPARENTLY THIS IS KNOWN ISSUE WITH THE AUDI'S AND AUDI HAS NOT ISSUED A RECALL OR ANYTHING AC",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "2 reports (40%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The last month I’ve been having issues with the transmission. It’s been cutting out on me, giving me warnings and causing me to stall in the middle of the road, and when I do manage to get it back on it, jerks to the point where I could crash into someone in front of me. I’ve los",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The last month I’ve been having issues with the transmission. It’s been cutting out on me, giving me warnings and causing me to stall in the middle of the road, and when I do manage to get it back on it, jerks to the point where I could crash into someone in front of me. I’ve los",
+        "pct": 20,
+        "title": "Lane Departure",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

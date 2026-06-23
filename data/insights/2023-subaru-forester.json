@@ -1,0 +1,128 @@
+{
+  "slug": "2023-subaru-forester",
+  "make": "Subaru",
+  "model": "Forester",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/FORESTER#complaints",
+  "generatedAt": "2026-06-23T16:40:40.051Z",
+  "total": 69,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 11,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Forward collision braking activated for no reason. No traffic in front or behind when activated. Steady speed of 35-40 mph when activated - conditions were clear and dry. No warning prior to incident, message appeared on dash during braking. Seat belts activated and car came to a",
+      "pct": 16
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I believe Subaru STILL has issues I've found when researching them before I bought my vehicle, about weak windshields.   I purchased a new 2023 Subaru Forester Wilderness just a little over a week ago. I was driving to the dealership to drop off some papers, leaving plenty of roo",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicles battery does not hold a charge during short term, (3-5 weeks of storage).  I understand that some prior years of Subaru vehicles have this same problem and there is currently a recall for this.  I wonder if this battery problem exists in newer Subaru Foresters.  When",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I purchased a new Subaru Forester on February 3, 2023 from Cross Creek Subaru in Fayetteville NC.  I noticed that the passenger air bag was off at times with my wife in the passenger  seat.   I made an appointment to have this fixed,  The air bag was always on for her in my F150,",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2023 Subaru Forrester. The contact stated that while his wife was driving in reverse mode, the vehicle independently accelerated, which caused a crash.  The contact stated that the vehicle simultaneously crashed into a parked vehicle and a concrete wall. The v",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Subaru Forester owners report most",
+    "summary": "Across 69 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (16% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 11,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Forward collision braking activated for no reason. No traffic in front or behind when activated. Steady speed of 35-40 mph when activated - conditions were clear and dry. No warning prior to incident, message appeared on dash during braking. Seat belts activated and car came to a",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "11 reports (16%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I believe Subaru STILL has issues I've found when researching them before I bought my vehicle, about weak windshields.   I purchased a new 2023 Subaru Forester Wilderness just a little over a week ago. I was driving to the dealership to drop off some papers, leaving plenty of roo",
+        "pct": 16,
+        "title": "Visibility/Wiper",
+        "blurb": "11 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicles battery does not hold a charge during short term, (3-5 weeks of storage).  I understand that some prior years of Subaru vehicles have this same problem and there is currently a recall for this.  I wonder if this battery problem exists in newer Subaru Foresters.  When",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "7 reports (10%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I purchased a new Subaru Forester on February 3, 2023 from Cross Creek Subaru in Fayetteville NC.  I noticed that the passenger air bag was off at times with my wife in the passenger  seat.   I made an appointment to have this fixed,  The air bag was always on for her in my F150,",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "6 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2023 Subaru Forrester. The contact stated that while his wife was driving in reverse mode, the vehicle independently accelerated, which caused a crash.  The contact stated that the vehicle simultaneously crashed into a parked vehicle and a concrete wall. The v",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "5 reports (7%) · 3 fire · 1 crash"
+      }
+    ]
+  }
+}

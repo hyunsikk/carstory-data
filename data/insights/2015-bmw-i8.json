@@ -1,0 +1,128 @@
+{
+  "slug": "2015-bmw-i8",
+  "make": "BMW",
+  "model": "i8",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BMW/I8#complaints",
+  "generatedAt": "2026-06-23T16:44:27.291Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am writing to formally file a complaint regarding a significant safety issue with my 2015 BMW i8. I purchased the vehicle from United BMW in Alpharetta, Georgia, on [XXX]. At the time of purchase, the car had 25,000 miles and now has 30,000 miles.  Recently, the AC compressor i",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 BMW I8. WHILE DRIVING 55 MPH, THE VEHICLE STALLED AND A WARNING LIGHT INDICATED THAT THERE WAS EXTREME ENGINE HEAT. THE CONTACT PULLED THE VEHICLE OFF THE ROAD AND WAS ABLE TO RESTART IT, BUT THE FAILURE RECURRED CONSTANTLY. THE VEHICLE WAS TOWED TO A ",
+      "pct": 40
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a 2015 BMW i8 (salvage title) from Parkline Motors. The vehicle history (Carfax) disclosed prior front/right damage, which I accepted. However, the dealership failed to disclose critical safety-related defects associated with that damage. Shortly after taking possessi",
+      "pct": 20
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a 2015 BMW i8 (salvage title) from Parkline Motors. The vehicle history (Carfax) disclosed prior front/right damage, which I accepted. However, the dealership failed to disclose critical safety-related defects associated with that damage. Shortly after taking possessi",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE IS SAYING CHASSIS STABILIZATION ERROR WHICH I BELIEVE IS THE SAME AS DYNAMIC STABILIZATION. I DID SOME RESEARCH AND HAVE FOUND MY MAKE YEAR AND MODEL WAS RECALLED FOR THE SPECIFIC PROBLEM. THE BMW DEALERSHIP NEAR ME IS REQUESTING 2,500$ TO FIX THIS PROBLEM WHEN IT IS SUPP",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Bmw I8 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am writing to formally file a complaint regarding a significant safety issue with my 2015 BMW i8. I purchased the vehicle from United BMW in Alpharetta, Georgia, on [XXX]. At the time of purchase, the car had 25,000 miles and now has 30,000 miles.  Recently, the AC compressor i",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 BMW I8. WHILE DRIVING 55 MPH, THE VEHICLE STALLED AND A WARNING LIGHT INDICATED THAT THERE WAS EXTREME ENGINE HEAT. THE CONTACT PULLED THE VEHICLE OFF THE ROAD AND WAS ABLE TO RESTART IT, BUT THE FAILURE RECURRED CONSTANTLY. THE VEHICLE WAS TOWED TO A ",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a 2015 BMW i8 (salvage title) from Parkline Motors. The vehicle history (Carfax) disclosed prior front/right damage, which I accepted. However, the dealership failed to disclose critical safety-related defects associated with that damage. Shortly after taking possessi",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a 2015 BMW i8 (salvage title) from Parkline Motors. The vehicle history (Carfax) disclosed prior front/right damage, which I accepted. However, the dealership failed to disclose critical safety-related defects associated with that damage. Shortly after taking possessi",
+        "pct": 20,
+        "title": "Seat Belts",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE IS SAYING CHASSIS STABILIZATION ERROR WHICH I BELIEVE IS THE SAME AS DYNAMIC STABILIZATION. I DID SOME RESEARCH AND HAVE FOUND MY MAKE YEAR AND MODEL WAS RECALLED FOR THE SPECIFIC PROBLEM. THE BMW DEALERSHIP NEAR ME IS REQUESTING 2,500$ TO FIX THIS PROBLEM WHEN IT IS SUPP",
+        "pct": 20,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

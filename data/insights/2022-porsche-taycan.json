@@ -1,0 +1,128 @@
+{
+  "slug": "2022-porsche-taycan",
+  "make": "Porsche",
+  "model": "Taycan",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/PORSCHE/TAYCAN#complaints",
+  "generatedAt": "2026-06-23T16:39:59.225Z",
+  "total": 78,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 36,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Porsche Taycan. The contact stated that the vehicle was fully charged however, after three days of inactivity the battery drained. The contact contacted the dealer who had not officially diagnosed the vehicle. The dealer stated that the battery needed to b",
+      "pct": 46
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drive mode for my 2022 Porsche Taycan 4S has been abruptly changing from Drive to either Neutral or Park on its own. Noticed within first week or so of ownership. Primarily has occurred during low to no speed situations (e.g., turning into a parking spot and car switches to Neutr",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Electrical malfunction errors came on, brakes, and engine control warning lights came on. The speedometer dashboard went dark. The car started shaking. The car started to slow down ",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Without warning the car flashed an \"Electrical Failure\" warning and then lost all power and coasted to a stop while \"bucking\" slightly.  This stranded us on the side of a narrow 2-lane road (NV28) with limited visibility.  The high-voltage battery in the car apparently failed.  T",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "No windshield defrosting and defogging in my 2022 Taycan 4S (purchased new a year ago). Impaired visibility. No heat in passenger compartment. Dealer found electric heater failed and needed replacement. The high-voltage electric in-line heater heats the coolant used for windshiel",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Porsche Taycan owners report most",
+    "summary": "Across 78 owner complaints to NHTSA, the most reported area is Electrical System (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 36,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Porsche Taycan. The contact stated that the vehicle was fully charged however, after three days of inactivity the battery drained. The contact contacted the dealer who had not officially diagnosed the vehicle. The dealer stated that the battery needed to b",
+        "pct": 46,
+        "title": "Electrical System",
+        "blurb": "36 reports (46%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drive mode for my 2022 Porsche Taycan 4S has been abruptly changing from Drive to either Neutral or Park on its own. Noticed within first week or so of ownership. Primarily has occurred during low to no speed situations (e.g., turning into a parking spot and car switches to Neutr",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "18 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Electrical malfunction errors came on, brakes, and engine control warning lights came on. The speedometer dashboard went dark. The car started shaking. The car started to slow down ",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "9 reports (12%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Without warning the car flashed an \"Electrical Failure\" warning and then lost all power and coasted to a stop while \"bucking\" slightly.  This stranded us on the side of a narrow 2-lane road (NV28) with limited visibility.  The high-voltage battery in the car apparently failed.  T",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (10%) · 1 fire"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "No windshield defrosting and defogging in my 2022 Taycan 4S (purchased new a year ago). Impaired visibility. No heat in passenger compartment. Dealer found electric heater failed and needed replacement. The high-voltage electric in-line heater heats the coolant used for windshiel",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "7 reports (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2022-porsche-macan",
+  "make": "Porsche",
+  "model": "Macan",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/PORSCHE/MACAN#complaints",
+  "generatedAt": "2026-06-23T16:39:51.669Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hi -  I hope all is well. I have had the below issues with my vehicle and the dealer is saying they cannot replicate them. I do not feel safe driving the vehicle and I’ve been complaining of the same issues since I got it.  The speedometer flickers at random start time and when I",
+      "pct": 50
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 03/17/2026, I reported a safety defect in the headlight assemblies of my 2022 Porsche Macan. Dealer inspection at Porsche of Tacoma confirmed small paper fragments marked with arrows lodged inside both headlight housings. The fragments have progressively become dislodged and a",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving the car and warning light “possible R gear fault-driving permitted” came on. While driving on a highway at 50 mph, gear shift started malfunctioning and oscillating between 2nd and 4th gears and I could not change the gears. I lost control of the car speed and it wo",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The air-conditioning system quit after 2000 miles of a brand new Macan-s. It starts blowing Hot air as soon as the A/C is turned on.",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Porsche Macan owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hi -  I hope all is well. I have had the below issues with my vehicle and the dealer is saying they cannot replicate them. I do not feel safe driving the vehicle and I’ve been complaining of the same issues since I got it.  The speedometer flickers at random start time and when I",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 03/17/2026, I reported a safety defect in the headlight assemblies of my 2022 Porsche Macan. Dealer inspection at Porsche of Tacoma confirmed small paper fragments marked with arrows lodged inside both headlight housings. The fragments have progressively become dislodged and a",
+        "pct": 25,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving the car and warning light “possible R gear fault-driving permitted” came on. While driving on a highway at 50 mph, gear shift started malfunctioning and oscillating between 2nd and 4th gears and I could not change the gears. I lost control of the car speed and it wo",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The air-conditioning system quit after 2000 miles of a brand new Macan-s. It starts blowing Hot air as soon as the A/C is turned on.",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

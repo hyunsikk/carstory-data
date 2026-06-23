@@ -1,0 +1,62 @@
+{
+  "slug": "2023-genesis-electrified-g80",
+  "make": "Genesis",
+  "model": "Electrified G80",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/ELECTRIFIED%20G80#complaints",
+  "generatedAt": "2026-06-23T16:30:56.605Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our 2023 Genesis G80 electrified has been towed three times for the 12v battery or its electrical system. We have yet to drive the Genesis once. It is a safety danger which produces toxic smells in the interior and the trunk plastic gets hot to the touch.  The interior was impreg",
+      "pct": 50
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When using the I-Pedal feature the brake lights do not come on at any point when lifting off the accelerator pedal gradually.   This certainly can cause the vehicle to rear ended if the following car is not paying attention.  If you take your foot off the accelerator fully for fu",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis Electrified G80 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our 2023 Genesis G80 electrified has been towed three times for the 12v battery or its electrical system. We have yet to drive the Genesis once. It is a safety danger which produces toxic smells in the interior and the trunk plastic gets hot to the touch.  The interior was impreg",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When using the I-Pedal feature the brake lights do not come on at any point when lifting off the accelerator pedal gradually.   This certainly can cause the vehicle to rear ended if the following car is not paying attention.  If you take your foot off the accelerator fully for fu",
+        "pct": 50,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

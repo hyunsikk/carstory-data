@@ -1,0 +1,128 @@
+{
+  "slug": "2015-kia-soul-ev",
+  "make": "Kia",
+  "model": "Soul EV",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/KIA/SOUL%20EV#complaints",
+  "generatedAt": "2026-06-23T16:37:01.801Z",
+  "total": 895,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 624,
+      "crash": 4,
+      "fire": 58,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "CAR IS EQUIPPED WITH ECO-BOOST AND ACTIVE \"INTERMITTANT STOP AND GO\" SYSTEM, WHICH IS ACTIVE EVERY START CYCLE UNLESS \"DEACTIVATE\" BUTTON IS ENGAGED.CAR HAS BEEN DRIVEN BY 18 YEAR OLD DAUGHTER FOR 3,000 MILES IN 6 MONTHS. THE ENGINE HAS SHUT DOWN AND NOT BEEN ABLE TO BE RESTARTED",
+      "pct": 70
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 76,
+      "crash": 1,
+      "fire": 8,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 KIA SOUL. WHILE STOPPED AT A TRAFFIC LIGHT, THE VEHICLE WOULD NOT ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. THE CONTACT HEARD A LOUD NOISE AND HAD TO SHUT OFF AND RESTART THE VEHICLE IN ORDER FOR THE LOUD NOISE TO STOP. THE VEHICLE ALSO FAIL",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 76,
+      "crash": 3,
+      "fire": 6,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "FROM THE DATE OF PURCHASE UNTIL PRESENT THE VEHICLE HAS A LAG IN ACCELERATION WHEN AUTOMATIC TRANSMISSION SHIFTS FROM FIRST TO SECOND GEAR.  THE LAG CAUSES A DANGEROUS CONDITION WHEN PULLING OUT.  TOOK IT BACK TO THE DEALER 2 TIMES, AND EACH TIME WAS TOLD THERE WAS NOTHING THEY C",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 62,
+      "crash": 1,
+      "fire": 8,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 KIA SOUL. WHEN THE ACCELERATOR PEDAL WAS DEPRESSED AT APPROXIMATELY 30 MPH, THE VEHICLE LOST POWER WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER, BUT THE FAILURE WAS UNABLE TO BE DETERMINED. THE CONTACT MENTIONED THAT THE FAILURE RECURRED SEVERAL ",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 57,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2015 KIA SOUL SPUTTERED WHEN GOING FROM FIRST GEAR, TO SECOND GEAR AND THEN THIRD.  CW  ALSO, THE CHECK ENGINE LIGHT ILLUMINATED ON THE DASHBOARD. A DIAGNOSTICS REVEALED, THE VEHICLE WAS NOT FIRING ON ALL FOUR CYLINDERS AND THAT WAS THE REASON THE VEHICLE SEEMED SLUGGISH.  THE EN",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Kia Soul Ev owners report most",
+    "summary": "Across 895 owner complaints to NHTSA, the most reported area is Engine (70% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 624,
+        "crash": 4,
+        "fire": 58,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "CAR IS EQUIPPED WITH ECO-BOOST AND ACTIVE \"INTERMITTANT STOP AND GO\" SYSTEM, WHICH IS ACTIVE EVERY START CYCLE UNLESS \"DEACTIVATE\" BUTTON IS ENGAGED.CAR HAS BEEN DRIVEN BY 18 YEAR OLD DAUGHTER FOR 3,000 MILES IN 6 MONTHS. THE ENGINE HAS SHUT DOWN AND NOT BEEN ABLE TO BE RESTARTED",
+        "pct": 70,
+        "title": "Engine",
+        "blurb": "624 reports (70%) · 58 fire · 4 crash · 9 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 76,
+        "crash": 1,
+        "fire": 8,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 KIA SOUL. WHILE STOPPED AT A TRAFFIC LIGHT, THE VEHICLE WOULD NOT ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. THE CONTACT HEARD A LOUD NOISE AND HAD TO SHUT OFF AND RESTART THE VEHICLE IN ORDER FOR THE LOUD NOISE TO STOP. THE VEHICLE ALSO FAIL",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "76 reports (8%) · 8 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 76,
+        "crash": 3,
+        "fire": 6,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "FROM THE DATE OF PURCHASE UNTIL PRESENT THE VEHICLE HAS A LAG IN ACCELERATION WHEN AUTOMATIC TRANSMISSION SHIFTS FROM FIRST TO SECOND GEAR.  THE LAG CAUSES A DANGEROUS CONDITION WHEN PULLING OUT.  TOOK IT BACK TO THE DEALER 2 TIMES, AND EACH TIME WAS TOLD THERE WAS NOTHING THEY C",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "76 reports (8%) · 6 fire · 3 crash · 5 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 62,
+        "crash": 1,
+        "fire": 8,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 KIA SOUL. WHEN THE ACCELERATOR PEDAL WAS DEPRESSED AT APPROXIMATELY 30 MPH, THE VEHICLE LOST POWER WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER, BUT THE FAILURE WAS UNABLE TO BE DETERMINED. THE CONTACT MENTIONED THAT THE FAILURE RECURRED SEVERAL ",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "62 reports (7%) · 8 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 57,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2015 KIA SOUL SPUTTERED WHEN GOING FROM FIRST GEAR, TO SECOND GEAR AND THEN THIRD.  CW  ALSO, THE CHECK ENGINE LIGHT ILLUMINATED ON THE DASHBOARD. A DIAGNOSTICS REVEALED, THE VEHICLE WAS NOT FIRING ON ALL FOUR CYLINDERS AND THAT WAS THE REASON THE VEHICLE SEEMED SLUGGISH.  THE EN",
+        "pct": 6,
+        "title": "Engine And Engine Cooling",
+        "blurb": "57 reports (6%) · 2 fire"
+      }
+    ]
+  }
+}

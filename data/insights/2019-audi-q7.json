@@ -1,0 +1,128 @@
+{
+  "slug": "2019-audi-q7",
+  "make": "Audi",
+  "model": "Q7",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/Q7#complaints",
+  "generatedAt": "2026-06-23T16:26:06.637Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 10,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FROM TIME TO TIME, AFTER THE AUTO ENGINE SHUTOFF ENGAGES, WHEN I RELEASE THE BRAKE AND THE ENGINE RESTARTS, POWER STEERING ISN'T AVAILABLE FOR ROUGHLY 5 SECONDS (THE CAR IS UN-STEERABLE).  THIS HAPPENS WHEN THE CAR IS AT A COMPLETE STOP, AND I'M ATTEMPTING TO START MOVING AGAIN. ",
+      "pct": 16
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 Audi Q7  rear spring broke despite having only 28,000 miles.  I heard a loud banging noise when driving on highway which I initially thought was a loose exhaust pipe. Took it to a service center which diagnosed a broken rear spring with high risk of tire puncture.  Never dri",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS GOING APPROXIMATELY 55 MILES PER HOUR IN THE CENTER LANE ON THE INTERSTATE. SHORTLY AFTER SHIFTING THE CAR INTO SPORT MODE, THE VEHICIE HAD SEQUENTIAL MALFUNCTION NOTIFICATIONS APPEAR ON MY SCREEN. THE SPECIFIC ORDER IS DIFFICULT TO REMEMBER DUE TO THE RAPIDNESS OF THE WHOL",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component that failed was the fuel level sender. The attachment shows that I had it repaired by Audi. They found low static resistance which is the same issue they recalled 46,000 other vehicles for including 2019, just not Q7. The car is available for inspection. My safety w",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FAULTY RADAR SENSORS  AND AUTOMATIC EMERGENCY BREAKING SYSTEM ISSUES     TRANSMISSION PROBLEMS (E.G. HESITATION ON ACCELERATION, FAILURE TO ACCELERATE, JERKING, SHUDDERING, REVVING, SURGING, SLIPPING, ETC.)       ENGINE PROBLEMS (E.G. LEAKS, ILLUMINATION OF THE CHECK ENGINE LIGHT",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi Q7 owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Steering (16% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 10,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FROM TIME TO TIME, AFTER THE AUTO ENGINE SHUTOFF ENGAGES, WHEN I RELEASE THE BRAKE AND THE ENGINE RESTARTS, POWER STEERING ISN'T AVAILABLE FOR ROUGHLY 5 SECONDS (THE CAR IS UN-STEERABLE).  THIS HAPPENS WHEN THE CAR IS AT A COMPLETE STOP, AND I'M ATTEMPTING TO START MOVING AGAIN. ",
+        "pct": 16,
+        "title": "Steering",
+        "blurb": "10 reports (16%) · 3 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 Audi Q7  rear spring broke despite having only 28,000 miles.  I heard a loud banging noise when driving on highway which I initially thought was a loose exhaust pipe. Took it to a service center which diagnosed a broken rear spring with high risk of tire puncture.  Never dri",
+        "pct": 16,
+        "title": "Suspension",
+        "blurb": "10 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS GOING APPROXIMATELY 55 MILES PER HOUR IN THE CENTER LANE ON THE INTERSTATE. SHORTLY AFTER SHIFTING THE CAR INTO SPORT MODE, THE VEHICIE HAD SEQUENTIAL MALFUNCTION NOTIFICATIONS APPEAR ON MY SCREEN. THE SPECIFIC ORDER IS DIFFICULT TO REMEMBER DUE TO THE RAPIDNESS OF THE WHOL",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "9 reports (15%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component that failed was the fuel level sender. The attachment shows that I had it repaired by Audi. They found low static resistance which is the same issue they recalled 46,000 other vehicles for including 2019, just not Q7. The car is available for inspection. My safety w",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FAULTY RADAR SENSORS  AND AUTOMATIC EMERGENCY BREAKING SYSTEM ISSUES     TRANSMISSION PROBLEMS (E.G. HESITATION ON ACCELERATION, FAILURE TO ACCELERATE, JERKING, SHUDDERING, REVVING, SURGING, SLIPPING, ETC.)       ENGINE PROBLEMS (E.G. LEAKS, ILLUMINATION OF THE CHECK ENGINE LIGHT",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

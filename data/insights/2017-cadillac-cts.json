@@ -1,0 +1,128 @@
+{
+  "slug": "2017-cadillac-cts",
+  "make": "Cadillac",
+  "model": "CTS",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CADILLAC/CTS#complaints",
+  "generatedAt": "2026-06-23T16:27:42.256Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR HAS LOCKED IN 2ND OR 3RD GEAR TWO DIFFERENT TIMES, BOTH AFTER LONG DRIVES (2+ HOURS AT HIGHWAY SPEEDS) AND WOULD NOT DOWNSHIFT INTO 1ST TO STOP MOVEMENT.  THE FIRST TIME WAS A STOP LIGHT AND ALMOST CAUSED AN ACCIDENT, THE SECOND TIME WAS IN MY DRIVEWAY AND ALMOST HIT THE HOUS",
+      "pct": 35
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT LEASES A 2017 CADILLAC CTS. WHILE DRIVING VARIOUS SPEEDS, THE STEERING WHEEL SEIZED WITHOUT WARNING AND BECAME DIFFICULT TO STEER. THE CONTACT CONTINUED TO DRIVE THE VEHICLE TO HER RESIDENCE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V086000 (S",
+      "pct": 27
+    },
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE THE TOUCHTONE SCREEN HAS FAILED TWICE AND CADILLAC HAS REPLACED IT MORE IMPORTANT THAN THAT IS THE FACT THAT THE CAR WAS ORDERED WITH THE CARBON FIBER WHEEL PACKAGE AND  THOSE WHEELS HAVE CRACKED/ CANT HOLD AIR PRESSURE    THE DEALER HAS REPLACED ONE BUT SAID THEY CANNOT RE",
+      "pct": 12
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Passenger sensing device for the passenger seat is failing intermittently. Service airbag light is coming on periodically, and, when it does, the passenger \"Airbag ON\" light fails to illuminate even if a passenger over 100 lbs is in the seat. This is a long recurring issue with a",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE THE TOUCHTONE SCREEN HAS FAILED TWICE AND CADILLAC HAS REPLACED IT MORE IMPORTANT THAN THAT IS THE FACT THAT THE CAR WAS ORDERED WITH THE CARBON FIBER WHEEL PACKAGE AND  THOSE WHEELS HAVE CRACKED/ CANT HOLD AIR PRESSURE    THE DEALER HAS REPLACED ONE BUT SAID THEY CANNOT RE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Cadillac Cts owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Power Train (35% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR HAS LOCKED IN 2ND OR 3RD GEAR TWO DIFFERENT TIMES, BOTH AFTER LONG DRIVES (2+ HOURS AT HIGHWAY SPEEDS) AND WOULD NOT DOWNSHIFT INTO 1ST TO STOP MOVEMENT.  THE FIRST TIME WAS A STOP LIGHT AND ALMOST CAUSED AN ACCIDENT, THE SECOND TIME WAS IN MY DRIVEWAY AND ALMOST HIT THE HOUS",
+        "pct": 35,
+        "title": "Power Train",
+        "blurb": "9 reports (35%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT LEASES A 2017 CADILLAC CTS. WHILE DRIVING VARIOUS SPEEDS, THE STEERING WHEEL SEIZED WITHOUT WARNING AND BECAME DIFFICULT TO STEER. THE CONTACT CONTINUED TO DRIVE THE VEHICLE TO HER RESIDENCE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V086000 (S",
+        "pct": 27,
+        "title": "Steering",
+        "blurb": "7 reports (27%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE THE TOUCHTONE SCREEN HAS FAILED TWICE AND CADILLAC HAS REPLACED IT MORE IMPORTANT THAN THAT IS THE FACT THAT THE CAR WAS ORDERED WITH THE CARBON FIBER WHEEL PACKAGE AND  THOSE WHEELS HAVE CRACKED/ CANT HOLD AIR PRESSURE    THE DEALER HAS REPLACED ONE BUT SAID THEY CANNOT RE",
+        "pct": 12,
+        "title": "Wheels",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Passenger sensing device for the passenger seat is failing intermittently. Service airbag light is coming on periodically, and, when it does, the passenger \"Airbag ON\" light fails to illuminate even if a passenger over 100 lbs is in the seat. This is a long recurring issue with a",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE THE TOUCHTONE SCREEN HAS FAILED TWICE AND CADILLAC HAS REPLACED IT MORE IMPORTANT THAN THAT IS THE FACT THAT THE CAR WAS ORDERED WITH THE CARBON FIBER WHEEL PACKAGE AND  THOSE WHEELS HAVE CRACKED/ CANT HOLD AIR PRESSURE    THE DEALER HAS REPLACED ONE BUT SAID THEY CANNOT RE",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

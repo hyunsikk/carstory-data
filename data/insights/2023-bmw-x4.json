@@ -1,0 +1,128 @@
+{
+  "slug": "2023-bmw-x4",
+  "make": "BMW",
+  "model": "X4",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X4#complaints",
+  "generatedAt": "2026-06-23T16:44:16.873Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "PURCHASED A CUSTOMIZED BMW X4 NOV.2022 FROM BMW DEALERSHIP. DEC. 2022 BRAKES HAVE A LOUD SCREAMING NOISE WHEN REVERSE. SPOKE WITH DEALERSHIP MULTIPLE TIMES AND VEHICLE WAS SEEN APPROX. 6 TIMES BY SERVICE DEPT ABOUT THE BRAKES. CORPORATE COMPLAINT FILED ABOUT LOUD NOISE OF BRAKES,",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "A week ago, the steering wheel locked and the braking system and airbags and cameras malfunctioned. We took it for service at BMW. They said the battery caused the malfunction. On thanksgiving day, we were going around 25-30miles per hour when we slammed on the breaks and the bre",
+      "pct": 33
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield crack around heating elements and rearview mirror mount. There 3 cracks that extend to top of windshield to a horizontal crack. These look like one hook, J and a staightline that forms right angle to the one about a foot long behind readview mirror mount. There are no ",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Odometer Fraud. The contact purchased a 2023 BMW X4. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 52,000 and at the time of",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "A week ago, the steering wheel locked and the braking system and airbags and cameras malfunctioned. We took it for service at BMW. They said the battery caused the malfunction. On thanksgiving day, we were going around 25-30miles per hour when we slammed on the breaks and the bre",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X4 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Service Brakes (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "PURCHASED A CUSTOMIZED BMW X4 NOV.2022 FROM BMW DEALERSHIP. DEC. 2022 BRAKES HAVE A LOUD SCREAMING NOISE WHEN REVERSE. SPOKE WITH DEALERSHIP MULTIPLE TIMES AND VEHICLE WAS SEEN APPROX. 6 TIMES BY SERVICE DEPT ABOUT THE BRAKES. CORPORATE COMPLAINT FILED ABOUT LOUD NOISE OF BRAKES,",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "2 reports (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "A week ago, the steering wheel locked and the braking system and airbags and cameras malfunctioned. We took it for service at BMW. They said the battery caused the malfunction. On thanksgiving day, we were going around 25-30miles per hour when we slammed on the breaks and the bre",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (33%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield crack around heating elements and rearview mirror mount. There 3 cracks that extend to top of windshield to a horizontal crack. These look like one hook, J and a staightline that forms right angle to the one about a foot long behind readview mirror mount. There are no ",
+        "pct": 17,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Odometer Fraud. The contact purchased a 2023 BMW X4. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 52,000 and at the time of",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "A week ago, the steering wheel locked and the braking system and airbags and cameras malfunctioned. We took it for service at BMW. They said the battery caused the malfunction. On thanksgiving day, we were going around 25-30miles per hour when we slammed on the breaks and the bre",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "1 report (17%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

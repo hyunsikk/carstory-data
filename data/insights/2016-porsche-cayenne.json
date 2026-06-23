@@ -1,0 +1,128 @@
+{
+  "slug": "2016-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:45.459Z",
+  "total": 38,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA,  I am writing to express a serious safety concern regarding the dashboard of my 2016 Porsche Cayenne S. The leather on the dash has begun to shrink and is no longer fitted properly. This misalignment is causing me significant worry about the potential impact on airbag",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "LAST WEEK I HAD MY CAR FOR 20000 MILE SERVICE AND THE TECHNICIAN NOTICED VIBRATION WITH ACCELERATION AND ADVISED THE TRANSFER CASE BE REPLACED WHICH WAS DONE 10/28. I CONTACTED PORSCHE USA AS I WAS CONCERNED WITH THIS BEING A RELATIVELY NEW VEHICLE AND THE PROBLEM WITH TRANSFER C",
+      "pct": 18
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the driver receives a warning light in the instrument panel left tail light is defective, and then right tail light defective. Some times tail light works and  does not when car is in cold weather Was told that both tail lights were defective and would have to be replaced at a co",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON COMPLETION OF MODIFICATIONS DUE TO VOLKSWAGEN/AUDI/PORSCHE 3.0L DIESEL EMISSIONS SETTLEMENT PROGRAM THE VEHICLE HAS AN INTERMITTENT DELAY WHEN ACCELERATING. THIS DELAY IS UNPREDICTABLE AND CAN BE SEVERAL SECONDS IN DURATION. ONCE ACCELERATION IS APPLIED IT IS TOO MUCH POWER ",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 PORSCHE CAYENNE. WHILE THE VEHICLE WAS STOPPED, IT JUMPED OR LURCHED FORWARD FIVE TO SIX FEET WHILE STOPPED. ON ONE OCCASION, THE VEHICLE LURCHED FORWARD AND SLIGHTLY STRUCK THE CONTACT'S DAUGHTER AFTER SHE HAD DROPPED HER OFF. THERE WERE NO INJURIES. ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Porsche Cayenne owners report most",
+    "summary": "Across 38 owner complaints to NHTSA, the most reported area is Air Bags (26% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA,  I am writing to express a serious safety concern regarding the dashboard of my 2016 Porsche Cayenne S. The leather on the dash has begun to shrink and is no longer fitted properly. This misalignment is causing me significant worry about the potential impact on airbag",
+        "pct": 26,
+        "title": "Air Bags",
+        "blurb": "10 reports (26%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "LAST WEEK I HAD MY CAR FOR 20000 MILE SERVICE AND THE TECHNICIAN NOTICED VIBRATION WITH ACCELERATION AND ADVISED THE TRANSFER CASE BE REPLACED WHICH WAS DONE 10/28. I CONTACTED PORSCHE USA AS I WAS CONCERNED WITH THIS BEING A RELATIVELY NEW VEHICLE AND THE PROBLEM WITH TRANSFER C",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "7 reports (18%) · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the driver receives a warning light in the instrument panel left tail light is defective, and then right tail light defective. Some times tail light works and  does not when car is in cold weather Was told that both tail lights were defective and would have to be replaced at a co",
+        "pct": 16,
+        "title": "Exterior Lighting",
+        "blurb": "6 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON COMPLETION OF MODIFICATIONS DUE TO VOLKSWAGEN/AUDI/PORSCHE 3.0L DIESEL EMISSIONS SETTLEMENT PROGRAM THE VEHICLE HAS AN INTERMITTENT DELAY WHEN ACCELERATING. THIS DELAY IS UNPREDICTABLE AND CAN BE SEVERAL SECONDS IN DURATION. ONCE ACCELERATION IS APPLIED IT IS TOO MUCH POWER ",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 PORSCHE CAYENNE. WHILE THE VEHICLE WAS STOPPED, IT JUMPED OR LURCHED FORWARD FIVE TO SIX FEET WHILE STOPPED. ON ONE OCCASION, THE VEHICLE LURCHED FORWARD AND SLIGHTLY STRUCK THE CONTACT'S DAUGHTER AFTER SHE HAD DROPPED HER OFF. THERE WERE NO INJURIES. ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "5 reports (13%) · 2 injured"
+      }
+    ]
+  }
+}

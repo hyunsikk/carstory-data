@@ -1,0 +1,128 @@
+{
+  "slug": "2019-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:56.743Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln Navigator. The contact stated that while driving at various speeds, the vehicle would not properly accelerate while depressing the accelerator pedal. The RPM's would suddenly increase before the speed was drastically reduced. The vehicle was taken ",
+      "pct": 28
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 15,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "SEATBELT IS NOT RECOILING PROPERLY.  DEALERSHIP REPLACED IT, NEW ONE IS HAVING SIMILAR ISSUES.  SAT IN OTHER BLACK LABEL NAVIGATORS AND THEY ALSO HAD THE SAME ISSUE.    WHEN USING THE CRUISE CONTROL, THE BRAKES ARE MAKING AN ODD NOISE (IT MAKES THE SAME TYPE OF SOUND YOU HEAR WHE",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "If the rear trunk gate is up and the vehicle is running the passenger compartment will fill with carbon monoxide very quickly.   This usually will happen if loading luggage or items in the back of the vehicle while the engine runs. Certainly a risk if kids are left in the passeng",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "could not get the lincoln way app to work, took vehicle to mark Mcclarty Lincoln dealership and was told the tcu (the unit that controls the communications in the car) needed to be replaced and the cost including parts and labor is $1181, concerned that vehicle won't report criti",
+      "pct": 15
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln Navigator. The contact stated while driving approximately 50 MPH and depressing on the accelerator pedal, the RPM rose to 6,500 however, the vehicle began to decelerate. The contact stated no warning light was illuminated. The contact was able to p",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Lincoln Navigator owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Power Train (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln Navigator. The contact stated that while driving at various speeds, the vehicle would not properly accelerate while depressing the accelerator pedal. The RPM's would suddenly increase before the speed was drastically reduced. The vehicle was taken ",
+        "pct": 28,
+        "title": "Power Train",
+        "blurb": "19 reports (28%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 15,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "SEATBELT IS NOT RECOILING PROPERLY.  DEALERSHIP REPLACED IT, NEW ONE IS HAVING SIMILAR ISSUES.  SAT IN OTHER BLACK LABEL NAVIGATORS AND THEY ALSO HAD THE SAME ISSUE.    WHEN USING THE CRUISE CONTROL, THE BRAKES ARE MAKING AN ODD NOISE (IT MAKES THE SAME TYPE OF SOUND YOU HEAR WHE",
+        "pct": 22,
+        "title": "Seat Belts",
+        "blurb": "15 reports (22%) · 2 crash · 5 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "If the rear trunk gate is up and the vehicle is running the passenger compartment will fill with carbon monoxide very quickly.   This usually will happen if loading luggage or items in the back of the vehicle while the engine runs. Certainly a risk if kids are left in the passeng",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "11 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "could not get the lincoln way app to work, took vehicle to mark Mcclarty Lincoln dealership and was told the tcu (the unit that controls the communications in the car) needed to be replaced and the cost including parts and labor is $1181, concerned that vehicle won't report criti",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "10 reports (15%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln Navigator. The contact stated while driving approximately 50 MPH and depressing on the accelerator pedal, the RPM rose to 6,500 however, the vehicle began to decelerate. The contact stated no warning light was illuminated. The contact was able to p",
+        "pct": 4,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (4%)"
+      }
+    ]
+  }
+}

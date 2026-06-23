@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-trax",
+  "make": "Chevrolet",
+  "model": "Trax",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/TRAX#complaints",
+  "generatedAt": "2026-06-23T16:44:50.663Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Trax. The contact stated that while driving approximately 45 mph, the  AC unit was distributing hot air.  The contact detected white smoke emerging from the engine compartment and the vehicle caught fire. The contact was able to pull over and exi",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 11/25/24 while my daughter was driving my 2021 Trax all of a sudden the engine light came on and my car lost power while lots of smoke began coming out of the exhaust pipe the car started to shake she thankfully made it to the Dealership service department where the codes show",
+      "pct": 27
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1,992 miles. Two times when applying brakes hard the vehicle pulled hard to the right. Both times I narrowly avoided hitting the vehicle in front of me.  I went to the service department they did a test drive and were unable to duplicate the issue. They checked the brake pads and",
+      "pct": 27
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car, which as of today, July 6, 2024 has a mileage of 45349, and is experiencing issues related to the EVAP purge pump under speed. I see that there is already been a recall on multiple models of the Chevrolet tracks, but not mine as it is a 2021 and not a 2020. I have owned t",
+      "pct": 14
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Trax. The contact stated while driving at an undisclosed speed, the brake pedal was depressed and became stuck. The contact had to manually retract the brake pedal. The vehicle was taken to the dealer, where it was diagnosed with brake positioner",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Trax owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Electrical System (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Trax. The contact stated that while driving approximately 45 mph, the  AC unit was distributing hot air.  The contact detected white smoke emerging from the engine compartment and the vehicle caught fire. The contact was able to pull over and exi",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "8 reports (36%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 11/25/24 while my daughter was driving my 2021 Trax all of a sudden the engine light came on and my car lost power while lots of smoke began coming out of the exhaust pipe the car started to shake she thankfully made it to the Dealership service department where the codes show",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "6 reports (27%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1,992 miles. Two times when applying brakes hard the vehicle pulled hard to the right. Both times I narrowly avoided hitting the vehicle in front of me.  I went to the service department they did a test drive and were unable to duplicate the issue. They checked the brake pads and",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "6 reports (27%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car, which as of today, July 6, 2024 has a mileage of 45349, and is experiencing issues related to the EVAP purge pump under speed. I see that there is already been a recall on multiple models of the Chevrolet tracks, but not mine as it is a 2021 and not a 2020. I have owned t",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "3 reports (14%) · 1 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Trax. The contact stated while driving at an undisclosed speed, the brake pedal was depressed and became stuck. The contact had to manually retract the brake pedal. The vehicle was taken to the dealer, where it was diagnosed with brake positioner",
+        "pct": 9,
+        "title": "Hydraulic",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-gmc-canyon",
+  "make": "GMC",
+  "model": "Canyon",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/GMC/CANYON#complaints",
+  "generatedAt": "2026-06-23T16:31:22.186Z",
+  "total": 50,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 26,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN MOVING ON THE HIGHWAY THE VEHICLES' TRANSMISSION STARTS TO SHUDDER. THIS USUALLY HAPPENS WHEN I AM GOING UP A SLIGHT INCLINE AND MY ENGINE IS AROUND 1400 RPMS. I HAVE TAKEN THE TRUCK TO THE DEALERSHIP MULTIPLE TIMES OVER THIS ISSUE. THEY HAVE REPLACED THE TRANSMISSION FLUID ",
+      "pct": 52
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 GMC CANYON. THE CONTACT STATED THAT WHILE ATTEMPTING TO TURN THE VEHICLE OFF, THE VEHICLE REMAINED RUNNING. THE CONTACT WAS ALSO UNABLE TO REMOVE THE KEY FROM THE IGNITION. THERE WERE NO WARNING LIGHTS ILLUMINATED. THE CONTACT STATED THAT THE FAILURE W",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission slipped almost from start.  Took three appointments and two years - If my shop foreman knew the third time, why did he not call and tell me we now know your problem.  I finally got fed up and brought it in one more time.  Starter from day ONE maybe 50% of time made l",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "No accident to report. I wasn’t aware of the problem with the High Pressure Fuel Pump intel a week later when the noise got louder, at first I figure it was the belt drive that needed check do to it sitting in the lot do to not being moved a lot. I then took it back to where the ",
+      "pct": 8
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT NIGHT, THE BACK-UP CAMERA DISPLAY ON THE DASH IS SO BRIGHT, IT LIGHTS UP THE WHOLE CAB AND THIS CAUSES THE DRIVER NOT TO BE ABLE TO SEE ANYTHING OUTSIDE THE CAB OR AROUND THE VEHICLE WHEN REVERSING. I ALMOST BACKED OVER MY WIFE BECAUSE I COULD NOT SEE HER BECAUSE OF THE BRIGHT",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Gmc Canyon owners report most",
+    "summary": "Across 50 owner complaints to NHTSA, the most reported area is Power Train (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 26,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN MOVING ON THE HIGHWAY THE VEHICLES' TRANSMISSION STARTS TO SHUDDER. THIS USUALLY HAPPENS WHEN I AM GOING UP A SLIGHT INCLINE AND MY ENGINE IS AROUND 1400 RPMS. I HAVE TAKEN THE TRUCK TO THE DEALERSHIP MULTIPLE TIMES OVER THIS ISSUE. THEY HAVE REPLACED THE TRANSMISSION FLUID ",
+        "pct": 52,
+        "title": "Power Train",
+        "blurb": "26 reports (52%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 GMC CANYON. THE CONTACT STATED THAT WHILE ATTEMPTING TO TURN THE VEHICLE OFF, THE VEHICLE REMAINED RUNNING. THE CONTACT WAS ALSO UNABLE TO REMOVE THE KEY FROM THE IGNITION. THERE WERE NO WARNING LIGHTS ILLUMINATED. THE CONTACT STATED THAT THE FAILURE W",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "10 reports (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission slipped almost from start.  Took three appointments and two years - If my shop foreman knew the third time, why did he not call and tell me we now know your problem.  I finally got fed up and brought it in one more time.  Starter from day ONE maybe 50% of time made l",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "6 reports (12%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "No accident to report. I wasn’t aware of the problem with the High Pressure Fuel Pump intel a week later when the noise got louder, at first I figure it was the belt drive that needed check do to it sitting in the lot do to not being moved a lot. I then took it back to where the ",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (8%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT NIGHT, THE BACK-UP CAMERA DISPLAY ON THE DASH IS SO BRIGHT, IT LIGHTS UP THE WHOLE CAB AND THIS CAUSES THE DRIVER NOT TO BE ABLE TO SEE ANYTHING OUTSIDE THE CAB OR AROUND THE VEHICLE WHEN REVERSING. I ALMOST BACKED OVER MY WIFE BECAUSE I COULD NOT SEE HER BECAUSE OF THE BRIGHT",
+        "pct": 6,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (6%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mercedes-benz-gls",
+  "make": "Mercedes-Benz",
+  "model": "GLS",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/GLS#complaints",
+  "generatedAt": "2026-06-23T16:38:40.223Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mercedes-Benz GLS580. The contact stated while driving 25 MPH with his wife in the front passenger's seat, the Forward Collision Avoidance: Automatic Emergency Braking system engaged and the vehicle stopped abruptly, causing both the contact and his wife t",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mercedes-Benz GLS450. The contact stated while the vehicle was idling, the vehicle shut off with several unknown warning lights illuminated. The contact also stated that a message to exit the vehicle was displayed. Due to the failure, the vehicle was towed",
+      "pct": 18
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On [XXX], my wife and I were driving our 2023 Mercedes-Benz GLS 450 when I pulled over after sensing vibration on the highway. Upon inspection, all four tires were found to be severely worn, with the right rear tire completely bald and showing exposed steel belts. I have attached",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "car spontaneously caught fire while driving, without any warning, with smoke first coming from the air vents followed by smoke from under the bonnet then visible fire engulfing the front of the car, it was serviced 6 weeks prior without any concerning findings on the mechanical o",
+      "pct": 12
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "[XXX] girl went in back passenger door (rear facing car seat present), crouched under seat area to climb to middle seat when [XXX] brother push button and seat moved forward without stopping crushing [XXX] old head between back of seat and back of Car seat. There was no safety st",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Gls owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mercedes-Benz GLS580. The contact stated while driving 25 MPH with his wife in the front passenger's seat, the Forward Collision Avoidance: Automatic Emergency Braking system engaged and the vehicle stopped abruptly, causing both the contact and his wife t",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (24%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mercedes-Benz GLS450. The contact stated while the vehicle was idling, the vehicle shut off with several unknown warning lights illuminated. The contact also stated that a message to exit the vehicle was displayed. Due to the failure, the vehicle was towed",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "3 reports (18%) · 1 fire"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On [XXX], my wife and I were driving our 2023 Mercedes-Benz GLS 450 when I pulled over after sensing vibration on the highway. Upon inspection, all four tires were found to be severely worn, with the right rear tire completely bald and showing exposed steel belts. I have attached",
+        "pct": 12,
+        "title": "Wheels",
+        "blurb": "2 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "car spontaneously caught fire while driving, without any warning, with smoke first coming from the air vents followed by smoke from under the bonnet then visible fire engulfing the front of the car, it was serviced 6 weeks prior without any concerning findings on the mechanical o",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "2 reports (12%) · 1 fire"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "[XXX] girl went in back passenger door (rear facing car seat present), crouched under seat area to climb to middle seat when [XXX] brother push button and seat moved forward without stopping crushing [XXX] old head between back of seat and back of Car seat. There was no safety st",
+        "pct": 6,
+        "title": "Seats",
+        "blurb": "1 report (6%) · 1 injured"
+      }
+    ]
+  }
+}

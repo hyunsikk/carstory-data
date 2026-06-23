@@ -1,0 +1,62 @@
+{
+  "slug": "2020-audi-e-tron",
+  "make": "Audi",
+  "model": "e-tron",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/E-TRON#complaints",
+  "generatedAt": "2026-06-23T16:25:45.633Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sunroof leaked. Not directly safety, but can be as water was getting on interior electronics. Dealer referenced TSB 2056944/10 and warranty extension U63  Sunroof WrtyExt 7yr/80k, but noted that we were not included in the warranty extension.",
+      "pct": 100
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sunroof leaked. Not directly safety, but can be as water was getting on interior electronics. Dealer referenced TSB 2056944/10 and warranty extension U63  Sunroof WrtyExt 7yr/80k, but noted that we were not included in the warranty extension.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi E-Tron owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sunroof leaked. Not directly safety, but can be as water was getting on interior electronics. Dealer referenced TSB 2056944/10 and warranty extension U63  Sunroof WrtyExt 7yr/80k, but noted that we were not included in the warranty extension.",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sunroof leaked. Not directly safety, but can be as water was getting on interior electronics. Dealer referenced TSB 2056944/10 and warranty extension U63  Sunroof WrtyExt 7yr/80k, but noted that we were not included in the warranty extension.",
+        "pct": 100,
+        "title": "Structure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

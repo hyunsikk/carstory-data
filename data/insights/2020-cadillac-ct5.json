@@ -1,0 +1,128 @@
+{
+  "slug": "2020-cadillac-ct5",
+  "make": "Cadillac",
+  "model": "CT5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CADILLAC/CT5#complaints",
+  "generatedAt": "2026-06-23T16:27:38.039Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "this vehicle has had multiple check engine failures it has been in for service six times in a matter of months. In September I had Service Traction control/StabiliTrack lights come on and the car losses of engine power. I had it serviced again in October for the same issue it was",
+      "pct": 39
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "PURCHASED MY 2020 CT5 IN APRIL 2020. SINCE THEN THE VEHICLE HAS BEEN AT THE DEALERSHIP 5 TIMES FOR THE SAME SERVICE DRIVER ASSIST AND FORWARD COLLISION SYSTEM UNAVAILABLE. GM HAS DISPATCHED A SENIOR ADVISOR TO TEST THE VEHICLE AND EVEN LEFT A CODE READER IN THE VEHICLE TO TRACK I",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "this vehicle has had multiple check engine failures it has been in for service six times in a matter of months. In September I had Service Traction control/StabiliTrack lights come on and the car losses of engine power. I had it serviced again in October for the same issue it was",
+      "pct": 21
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am receiving notice on the speed screen telling me the door lock need service. I never had a cadillac to tell me something about door lock need service.I have had others 2000 Deville,2017 Cts and now this 2020 Ct5 which i have had so many problem with.But now i am concern about",
+      "pct": 12
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Two separate issues: One is being sold a vehicle with a Certified vehicle at 12K miles with a defective, faulty transmission which is a manufacturer defect from General Motors. 10-speed automatic transmission 10L90 model. Misrepresentation of a product. False advertisement of a p",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Cadillac Ct5 owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Power Train (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "this vehicle has had multiple check engine failures it has been in for service six times in a matter of months. In September I had Service Traction control/StabiliTrack lights come on and the car losses of engine power. I had it serviced again in October for the same issue it was",
+        "pct": 39,
+        "title": "Power Train",
+        "blurb": "13 reports (39%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "PURCHASED MY 2020 CT5 IN APRIL 2020. SINCE THEN THE VEHICLE HAS BEEN AT THE DEALERSHIP 5 TIMES FOR THE SAME SERVICE DRIVER ASSIST AND FORWARD COLLISION SYSTEM UNAVAILABLE. GM HAS DISPATCHED A SENIOR ADVISOR TO TEST THE VEHICLE AND EVEN LEFT A CODE READER IN THE VEHICLE TO TRACK I",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "8 reports (24%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "this vehicle has had multiple check engine failures it has been in for service six times in a matter of months. In September I had Service Traction control/StabiliTrack lights come on and the car losses of engine power. I had it serviced again in October for the same issue it was",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "7 reports (21%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am receiving notice on the speed screen telling me the door lock need service. I never had a cadillac to tell me something about door lock need service.I have had others 2000 Deville,2017 Cts and now this 2020 Ct5 which i have had so many problem with.But now i am concern about",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "4 reports (12%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Two separate issues: One is being sold a vehicle with a Certified vehicle at 12K miles with a defective, faulty transmission which is a manufacturer defect from General Motors. 10-speed automatic transmission 10L90 model. Misrepresentation of a product. False advertisement of a p",
+        "pct": 6,
+        "title": "Wheels",
+        "blurb": "2 reports (6%)"
+      }
+    ]
+  }
+}

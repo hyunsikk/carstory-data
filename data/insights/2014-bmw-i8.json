@@ -1,0 +1,40 @@
+{
+  "slug": "2014-bmw-i8",
+  "make": "BMW",
+  "model": "i8",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/BMW/I8#complaints",
+  "generatedAt": "2026-06-23T16:44:24.656Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "REAR SUSPENSION COLLAPSED WHILE DRIVING. THE CAR ONLY HAS 24K MILES SINCE NEW. BMW BULLETIN SUGGESTED REPLACEMENT ON BOTH REAR SUSPENSIONS BUT NO OWNERS WERE INFORMED OF THIS MANUFACTURING DEFECT. SUSPENSION FAILURES SHOULD BE CATEGORIZED AS CRITICAL LIFE/SAFETY RECALL ITEMS INST",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Bmw I8 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Suspension (100% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "REAR SUSPENSION COLLAPSED WHILE DRIVING. THE CAR ONLY HAS 24K MILES SINCE NEW. BMW BULLETIN SUGGESTED REPLACEMENT ON BOTH REAR SUSPENSIONS BUT NO OWNERS WERE INFORMED OF THIS MANUFACTURING DEFECT. SUSPENSION FAILURES SHOULD BE CATEGORIZED AS CRITICAL LIFE/SAFETY RECALL ITEMS INST",
+        "pct": 100,
+        "title": "Suspension",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

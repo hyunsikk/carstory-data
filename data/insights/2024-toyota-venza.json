@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-venza",
+  "make": "Toyota",
+  "model": "Venza",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/VENZA#complaints",
+  "generatedAt": "2026-06-23T16:41:38.174Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I don’t have the specific date that this happened because it was several times.  When I first got the car the Toyota app stopped working after a few days.  I brought it back a couple times and they replaced the headpiece because the app system crashed.  Then the CarPlay stopped w",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Toyota Venza. The contact stated that while attempting to make a left turn, the brake pedal was depressed; however, the vehicle failed to respond, and the brake pedal became inoperable. The vehicle was not diagnosed or repaired. The VIN was not included in",
+      "pct": 19
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Toyota Venza. The contact stated that while his wife was driving at 10-20 making a left turn, a Land Rover veered in her path, and she crashed. The auto collision system did not engage.  The brakes were applied but failed to respond. There were no warning ",
+      "pct": 14
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving at night with headlights on low beam the driver’s side headlight casts a distracting shadow on the road.  Not only does this shadow prevent full illumination of the roadway, limiting visibility on the driver’s side, but the shadow can  also make it look like an obsta",
+      "pct": 14
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "225 55/R19. New 2024 Toyota Venza (purchased XXX) with under 4k miles when tire blew out. Was driving the speed of traffic eastbound on [XXX] near [XXX] merge just east of Des Moines in heavy, heavy semi traffic when tire went flat. I had been driving for several hours since my p",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Venza owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Electrical System (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I don’t have the specific date that this happened because it was several times.  When I first got the car the Toyota app stopped working after a few days.  I brought it back a couple times and they replaced the headpiece because the app system crashed.  Then the CarPlay stopped w",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "4 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Toyota Venza. The contact stated that while attempting to make a left turn, the brake pedal was depressed; however, the vehicle failed to respond, and the brake pedal became inoperable. The vehicle was not diagnosed or repaired. The VIN was not included in",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "4 reports (19%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Toyota Venza. The contact stated that while his wife was driving at 10-20 making a left turn, a Land Rover veered in her path, and she crashed. The auto collision system did not engage.  The brakes were applied but failed to respond. There were no warning ",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (14%) · 2 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving at night with headlights on low beam the driver’s side headlight casts a distracting shadow on the road.  Not only does this shadow prevent full illumination of the roadway, limiting visibility on the driver’s side, but the shadow can  also make it look like an obsta",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "225 55/R19. New 2024 Toyota Venza (purchased XXX) with under 4k miles when tire blew out. Was driving the speed of traffic eastbound on [XXX] near [XXX] merge just east of Des Moines in heavy, heavy semi traffic when tire went flat. I had been driving for several hours since my p",
+        "pct": 10,
+        "title": "Tires",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

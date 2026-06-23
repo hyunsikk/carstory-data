@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-mustang",
+  "make": "Ford",
+  "model": "Mustang",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/MUSTANG#complaints",
+  "generatedAt": "2026-06-23T16:30:45.859Z",
+  "total": 54,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Mustang. The contact received notification of NHTSA Campaign Number:25V455000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+      "pct": 19
+    },
+    {
+      "component": "GASOLINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Mustang. The contact received notification of NHTSA Campaign Number:25V455000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "After slight acceleration and then light braking vehicle wants to lunge forward and is a outright safety hazard in 3 separate incidents it almost caused an accident and one was a pedestrian, fors is well aware of this vehicles incidents and well documented by text from dealer ack",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Mustang. The contact stated that immediately after purchasing the vehicle new, the engine experienced random misfire, causing the vehicle to lose motive power and acceleration. During the failure, the check engine warning light was illuminated. The ve",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Mustang GT500. The contact stated that while driving at an undisclosed speed, the vehicle experienced a loss of power steering as the instrument cluster went blank and the charging system error warning message was illuminated. The contact also stated ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Mustang owners report most",
+    "summary": "Across 54 owner complaints to NHTSA, the most reported area is Fuel System (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Mustang. The contact received notification of NHTSA Campaign Number:25V455000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+        "pct": 19,
+        "title": "Fuel System",
+        "blurb": "10 reports (19%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Mustang. The contact received notification of NHTSA Campaign Number:25V455000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+        "pct": 19,
+        "title": "Gasoline",
+        "blurb": "10 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "After slight acceleration and then light braking vehicle wants to lunge forward and is a outright safety hazard in 3 separate incidents it almost caused an accident and one was a pedestrian, fors is well aware of this vehicles incidents and well documented by text from dealer ack",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "9 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Mustang. The contact stated that immediately after purchasing the vehicle new, the engine experienced random misfire, causing the vehicle to lose motive power and acceleration. During the failure, the check engine warning light was illuminated. The ve",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "8 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Mustang GT500. The contact stated that while driving at an undisclosed speed, the vehicle experienced a loss of power steering as the instrument cluster went blank and the charging system error warning message was illuminated. The contact also stated ",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "6 reports (11%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

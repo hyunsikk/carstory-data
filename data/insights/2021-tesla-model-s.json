@@ -1,0 +1,128 @@
+{
+  "slug": "2021-tesla-model-s",
+  "make": "Tesla",
+  "model": "Model S",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TESLA/MODEL%20S#complaints",
+  "generatedAt": "2026-06-23T16:41:06.310Z",
+  "total": 174,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 47,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "DRIVING ON HIGHWAY AT 65-70 MPH WITH AUTO PILOT AND SPEED CONTROL ENGAGED. WENT TO CHANGE LANES FROM LEFT TO RIGHT. PUT ON TURN SIGNAL, CANCELLED AUTO PILOT BY TURNING STEERING WHEEL TO RIGHT AND MOVED TO OPEN RIGHT LANE. THERE WERE NO VEHICLES AROUND US AT ALL. THE CAR SUDDENLY,",
+      "pct": 27
+    },
+    {
+      "component": "STEERING",
+      "count": 29,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "This has to do with Tesla's new yoke steering wheel.  I find myself awkwardly trying to make simple 90 degree turns.  However, a more significant turn, such as a legal U turn, is altogether more dangerous.  First you must twist your arms upside down to execute the turn, or you ne",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "REAR PARKING SAFETY CAMERA FAILING WITH GREEN LINE, BRAND NEW CAR.HAPPENS IN MOTION AND STATIONARY, IN STREET AND IN DRIVEWAY. HAPPENS MULTIPLE TIMES, HAVE CAUGHT ON VIDEO. LONG KNOWN ISSUE DATING BACK ON SAME MODEL AT LEAST TO 2018, SEE HTTPS://TESLAMOTORSCLUB.COM/TMC/THREADS/GR",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear passenger side Adaptive Suspension wiring harness was either installed improperly or routed improperly and rubbed against the inside of the tire. After many miles, this harness was worn down to the point of breaking electrical contact, which puts the vehicle into a fallb",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON HIGHWAY AT 65-70 MPH WITH AUTO PILOT AND SPEED CONTROL ENGAGED. WENT TO CHANGE LANES FROM LEFT TO RIGHT. PUT ON TURN SIGNAL, CANCELLED AUTO PILOT BY TURNING STEERING WHEEL TO RIGHT AND MOVED TO OPEN RIGHT LANE. THERE WERE NO VEHICLES AROUND US AT ALL. THE CAR SUDDENLY,",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Tesla Model S owners report most",
+    "summary": "Across 174 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 47,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "DRIVING ON HIGHWAY AT 65-70 MPH WITH AUTO PILOT AND SPEED CONTROL ENGAGED. WENT TO CHANGE LANES FROM LEFT TO RIGHT. PUT ON TURN SIGNAL, CANCELLED AUTO PILOT BY TURNING STEERING WHEEL TO RIGHT AND MOVED TO OPEN RIGHT LANE. THERE WERE NO VEHICLES AROUND US AT ALL. THE CAR SUDDENLY,",
+        "pct": 27,
+        "title": "Forward Collision Avoidance",
+        "blurb": "47 reports (27%) · 9 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 29,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "This has to do with Tesla's new yoke steering wheel.  I find myself awkwardly trying to make simple 90 degree turns.  However, a more significant turn, such as a legal U turn, is altogether more dangerous.  First you must twist your arms upside down to execute the turn, or you ne",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "29 reports (17%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "REAR PARKING SAFETY CAMERA FAILING WITH GREEN LINE, BRAND NEW CAR.HAPPENS IN MOTION AND STATIONARY, IN STREET AND IN DRIVEWAY. HAPPENS MULTIPLE TIMES, HAVE CAUGHT ON VIDEO. LONG KNOWN ISSUE DATING BACK ON SAME MODEL AT LEAST TO 2018, SEE HTTPS://TESLAMOTORSCLUB.COM/TMC/THREADS/GR",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "25 reports (14%) · 1 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear passenger side Adaptive Suspension wiring harness was either installed improperly or routed improperly and rubbed against the inside of the tire. After many miles, this harness was worn down to the point of breaking electrical contact, which puts the vehicle into a fallb",
+        "pct": 9,
+        "title": "Suspension",
+        "blurb": "16 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON HIGHWAY AT 65-70 MPH WITH AUTO PILOT AND SPEED CONTROL ENGAGED. WENT TO CHANGE LANES FROM LEFT TO RIGHT. PUT ON TURN SIGNAL, CANCELLED AUTO PILOT BY TURNING STEERING WHEEL TO RIGHT AND MOVED TO OPEN RIGHT LANE. THERE WERE NO VEHICLES AROUND US AT ALL. THE CAR SUDDENLY,",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "15 reports (9%) · 3 crash"
+      }
+    ]
+  }
+}

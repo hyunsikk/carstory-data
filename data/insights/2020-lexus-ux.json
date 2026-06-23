@@ -1,0 +1,128 @@
+{
+  "slug": "2020-lexus-ux",
+  "make": "Lexus",
+  "model": "UX",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LEXUS/UX#complaints",
+  "generatedAt": "2026-06-23T16:37:35.329Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? My Lexus 2020 UX200's brake malfunctioned and caused a crash accident into a restaurant on February 29th. It was inspected by Lexus Liability and an independent mechanic on March 13",
+      "pct": 50
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Lexus UX 250H. The contact stated that while driving approximately 40-50 MPH, the sunroof shattered without impact. The vehicle was taken to the dealer, where it was diagnosed with a spontaneous tempered glass failure. The vehicle was repaired. The manufac",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am [XXX]  old, have been driving since I was 16, and until this incident, have never been in an accident. On [XXX], I was parallel parking in my friend's quiet suburban neighborhood, as we do yoga together every Sunday morning. I reversed into the space. Then I wanted to pull f",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? My Lexus 2020 UX200's brake malfunctioned and caused a crash accident into a restaurant on February 29th. It was inspected by Lexus Liability and an independent mechanic on March 13",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Lexus UX200. The contact stated that the check engine warning light was illuminated. While driving approximately 30 MPH, the vehicle stalled. While accelerating from a stop, the vehicle stalled. The contact stated that the transmission was slipping while d",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lexus Ux owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Service Brakes (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? My Lexus 2020 UX200's brake malfunctioned and caused a crash accident into a restaurant on February 29th. It was inspected by Lexus Liability and an independent mechanic on March 13",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "2 reports (50%) · 2 crash"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Lexus UX 250H. The contact stated that while driving approximately 40-50 MPH, the sunroof shattered without impact. The vehicle was taken to the dealer, where it was diagnosed with a spontaneous tempered glass failure. The vehicle was repaired. The manufac",
+        "pct": 25,
+        "title": "Visibility",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am [XXX]  old, have been driving since I was 16, and until this incident, have never been in an accident. On [XXX], I was parallel parking in my friend's quiet suburban neighborhood, as we do yoga together every Sunday morning. I reversed into the space. Then I wanted to pull f",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? My Lexus 2020 UX200's brake malfunctioned and caused a crash accident into a restaurant on February 29th. It was inspected by Lexus Liability and an independent mechanic on March 13",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Lexus UX200. The contact stated that the check engine warning light was illuminated. While driving approximately 30 MPH, the vehicle stalled. While accelerating from a stop, the vehicle stalled. The contact stated that the transmission was slipping while d",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

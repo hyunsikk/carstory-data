@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-nexo",
+  "make": "Hyundai",
+  "model": "Nexo",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/NEXO#complaints",
+  "generatedAt": "2026-06-23T16:33:45.506Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle uses hydrogen fuel which is stored in three high pressure cylinders. Any fires or damage to the vehicle that affects the fuel system can result in an explosion. During a recent recall, customers were recommended not to park near structures because the car can explode ",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle uses hydrogen fuel which is stored in three high pressure cylinders. Any fires or damage to the vehicle that affects the fuel system can result in an explosion. During a recent recall, customers were recommended not to park near structures because the car can explode ",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has a material operability limitation related to its fuel/propulsion system that was not disclosed at the time of sale.  After purchase, the vehicle’s real-world operation is materially restricted due to fuel availability and system limitations that prevent reliable u",
+      "pct": 17
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle uses hydrogen fuel which is stored in three high pressure cylinders. Any fires or damage to the vehicle that affects the fuel system can result in an explosion. During a recent recall, customers were recommended not to park near structures because the car can explode ",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVEN ABOUT 65 MILES WHEN SUDDENLY SHOW ON THE CLUSTER EMERGENCY BRAKE APPLY IT HAPPEN TODAY AND ABOUT 2 WEEKS BEFORE . I HAPPEN LIKE 5 SECONDS  AND DISAPPEAR AND BOTH CASES.",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Nexo owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle uses hydrogen fuel which is stored in three high pressure cylinders. Any fires or damage to the vehicle that affects the fuel system can result in an explosion. During a recent recall, customers were recommended not to park near structures because the car can explode ",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle uses hydrogen fuel which is stored in three high pressure cylinders. Any fires or damage to the vehicle that affects the fuel system can result in an explosion. During a recent recall, customers were recommended not to park near structures because the car can explode ",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has a material operability limitation related to its fuel/propulsion system that was not disclosed at the time of sale.  After purchase, the vehicle’s real-world operation is materially restricted due to fuel availability and system limitations that prevent reliable u",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle uses hydrogen fuel which is stored in three high pressure cylinders. Any fires or damage to the vehicle that affects the fuel system can result in an explosion. During a recent recall, customers were recommended not to park near structures because the car can explode ",
+        "pct": 17,
+        "title": "Lane Departure",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVEN ABOUT 65 MILES WHEN SUDDENLY SHOW ON THE CLUSTER EMERGENCY BRAKE APPLY IT HAPPEN TODAY AND ABOUT 2 WEEKS BEFORE . I HAPPEN LIKE 5 SECONDS  AND DISAPPEAR AND BOTH CASES.",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

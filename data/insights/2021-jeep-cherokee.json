@@ -1,0 +1,128 @@
+{
+  "slug": "2021-jeep-cherokee",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/JEEP/CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T16:35:34.097Z",
+  "total": 131,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 67,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle stalled on the road while stopped in the center lane and trying to take left turn. It was completely dead, no warning indicators or signals. Both dash board and radio screens were blank. Key was locked, could not take it out. Everything came back to normal after about fif",
+      "pct": 51
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING IN A RESIDENTIAL AREA (40 MPH) WHEN MY CAR SUDDENLY JOLTED AS IF I HAD SUDDENLY STEPPED ON THE BRAKE PEDAL AND THEN THE GAS PEDAL. I STOPPED FOR A RED LIGHT, AND THE CAR SUDDENLY STALLED. THE ENGINE AND BATTERY LIGHT WERE ON, THE SEAT/STEERING WHEEL WARMER, AND AIR ",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING IN A RESIDENTIAL AREA (40 MPH) WHEN MY CAR SUDDENLY JOLTED AS IF I HAD SUDDENLY STEPPED ON THE BRAKE PEDAL AND THEN THE GAS PEDAL. I STOPPED FOR A RED LIGHT, AND THE CAR SUDDENLY STALLED. THE ENGINE AND BATTERY LIGHT WERE ON, THE SEAT/STEERING WHEEL WARMER, AND AIR ",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONTACT OWNS A 2021 JEEP CHEROKEE LATITUDE. THE CONTACT STATED WHILE APPROACHING ANOTHER VEHICLE FROM THE REAR, THE ADVANCE BRAKE ASSIST FAILED TO PERFORM AS NEEDED. THE CONTACT TOOK THE VEHICLE TO THE LOCAL DEALER TO BE DIAGNOSED HOWEVER, THE MECHANIC WAS UNABLE TO DETERMINE",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I put my car in tow mode, after hooking up my RV, followed all proper procedures,  after I turned key off and closed the door, between then and when I started to roll, the emergency brake AUTOMATICALLY ENGAGED!  I burned up my two rear Jeep tires and could have been worse had not",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Jeep Cherokee owners report most",
+    "summary": "Across 131 owner complaints to NHTSA, the most reported area is Power Train (51% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 67,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle stalled on the road while stopped in the center lane and trying to take left turn. It was completely dead, no warning indicators or signals. Both dash board and radio screens were blank. Key was locked, could not take it out. Everything came back to normal after about fif",
+        "pct": 51,
+        "title": "Power Train",
+        "blurb": "67 reports (51%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING IN A RESIDENTIAL AREA (40 MPH) WHEN MY CAR SUDDENLY JOLTED AS IF I HAD SUDDENLY STEPPED ON THE BRAKE PEDAL AND THEN THE GAS PEDAL. I STOPPED FOR A RED LIGHT, AND THE CAR SUDDENLY STALLED. THE ENGINE AND BATTERY LIGHT WERE ON, THE SEAT/STEERING WHEEL WARMER, AND AIR ",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "22 reports (17%) · 2 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING IN A RESIDENTIAL AREA (40 MPH) WHEN MY CAR SUDDENLY JOLTED AS IF I HAD SUDDENLY STEPPED ON THE BRAKE PEDAL AND THEN THE GAS PEDAL. I STOPPED FOR A RED LIGHT, AND THE CAR SUDDENLY STALLED. THE ENGINE AND BATTERY LIGHT WERE ON, THE SEAT/STEERING WHEEL WARMER, AND AIR ",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "21 reports (16%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONTACT OWNS A 2021 JEEP CHEROKEE LATITUDE. THE CONTACT STATED WHILE APPROACHING ANOTHER VEHICLE FROM THE REAR, THE ADVANCE BRAKE ASSIST FAILED TO PERFORM AS NEEDED. THE CONTACT TOOK THE VEHICLE TO THE LOCAL DEALER TO BE DIAGNOSED HOWEVER, THE MECHANIC WAS UNABLE TO DETERMINE",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "14 reports (11%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I put my car in tow mode, after hooking up my RV, followed all proper procedures,  after I turned key off and closed the door, between then and when I started to roll, the emergency brake AUTOMATICALLY ENGAGED!  I burned up my two rear Jeep tires and could have been worse had not",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (8%) · 1 fire"
+      }
+    ]
+  }
+}

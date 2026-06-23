@@ -1,0 +1,128 @@
+{
+  "slug": "2021-land-rover-range-rover-sport",
+  "make": "Land Rover",
+  "model": "Range Rover Sport",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LAND%20ROVER/RANGE%20ROVER%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:14.930Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving the car on March 11th 2022, at around 10pm when the car suddenly lost power, while driving in a rural area of Interstate 5 in northern California when the vehicle lost power, I was unable to see anything at all and had to pull to the shoulder unsure of what was on t",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "leaking coolant onto the Turbocharger. My coolant light has been coming on often for the past year or so. A month after I top off coolant my Warnings light indicates low coolant. I’ve been to Land Rover Range Rover multiple times with this issue, I was told there is no issue and ",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Incident 1  I purchase my vehicle from Jaguar Land Rover Rosenthal Chantilly VA, a new Range Rover sport( one of the top-line models of Range Rover 100K+) , and it’s just 5 months only 3000 miles.  One day (Thursday, Jun 10)  car suddenly stop in the middle of the road with a gea",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I took my car in for an oil change, and they noticed a faint fuel smell (Which I had noticed as well). I had them look deeper and the found a small fuel leak, requiring Part LR140080 to repair. This part is worldwide back ordered from Land Rover. When I ordered at the Range Rover",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The alternator on my vehicle (DC to DC convertor) went while driving home with only one sensor prompting me to turn back around and head home to be safe. The car essentially died and power steering was lost. There were no prior warnings or indicators of an issue. I had 15 minutes",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Land Rover Range Rover Sport owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving the car on March 11th 2022, at around 10pm when the car suddenly lost power, while driving in a rural area of Interstate 5 in northern California when the vehicle lost power, I was unable to see anything at all and had to pull to the shoulder unsure of what was on t",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "5 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "leaking coolant onto the Turbocharger. My coolant light has been coming on often for the past year or so. A month after I top off coolant my Warnings light indicates low coolant. I’ve been to Land Rover Range Rover multiple times with this issue, I was told there is no issue and ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "5 reports (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Incident 1  I purchase my vehicle from Jaguar Land Rover Rosenthal Chantilly VA, a new Range Rover sport( one of the top-line models of Range Rover 100K+) , and it’s just 5 months only 3000 miles.  One day (Thursday, Jun 10)  car suddenly stop in the middle of the road with a gea",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I took my car in for an oil change, and they noticed a faint fuel smell (Which I had noticed as well). I had them look deeper and the found a small fuel leak, requiring Part LR140080 to repair. This part is worldwide back ordered from Land Rover. When I ordered at the Range Rover",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The alternator on my vehicle (DC to DC convertor) went while driving home with only one sensor prompting me to turn back around and head home to be safe. The car essentially died and power steering was lost. There were no prior warnings or indicators of an issue. I had 15 minutes",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

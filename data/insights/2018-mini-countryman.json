@@ -1,0 +1,128 @@
+{
+  "slug": "2018-mini-countryman",
+  "make": "MINI",
+  "model": "Countryman",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/MINI/COUNTRYMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:35.950Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving, the steering wheel gets stuck and very hard to maneuver. I have seen a recall for this car but when i entered by VIN, it was not included on the recall.  The problem had happened several times. There was a time when everything was working fine, turned off the engin",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS PULLING INTO SHOPPING CENTER ALL DASHBOARD LIGHT UP WARNINGS ETC.  STARTED TO HEAD HOME BECAUSE OF PRIOR INCIDENT WITH COMPUTER FAILURE.  CAR STOPPED MID INTERSECTION AND WENT DEAD.  PUT IT IN PARK RESTARTED AND DROVE HOME.  HEADLIGHTS AND ELECTRICAL ENGINE WOULD NOT SHUT O",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STOPPED THE BRAKE PEDAL SLOWLY GOES TO THE FLOORBOARDS. SOMETIMES I HAVE TO REPEATEDLY PUMP THE BRAKE PEDAL WHILE AT A STOP LIGHT TO PREVENT RUNNING INTO THE CAR IN FRONT OF ME. TOOK IT TO A DEALERSHIP AND THEY DROVE THE CAR BUT COULDN'T FINE ANY PROBLEMS. THE MASTER CYLINDE",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE'S SWITCH CONTROLLING HEADLIGHTS WAS LEFT IN THE \"PARKING LIGHTS ON\" MODE INADVERTENTLY (IT OPENED TERMINAL 15 PER MINI). CAR WOULD NOT START LESS THAN 12 HOURS LATER. MINI REPORTS THAT THIS \"DAMAGED THE BATTERY BEYOND REPAIR\" AND SAID IT WAS NOT SUBJECT TO WARRANTY REPLAC",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Mini Cooper Countryman. The contact stated that while driving at an undisclosed speed, the steering wheel failed to turn in the intended direction. The contact stated that the steering wheel was excessively difficult to turn. There was no warning light ill",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Mini Countryman owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Steering (27% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving, the steering wheel gets stuck and very hard to maneuver. I have seen a recall for this car but when i entered by VIN, it was not included on the recall.  The problem had happened several times. There was a time when everything was working fine, turned off the engin",
+        "pct": 27,
+        "title": "Steering",
+        "blurb": "3 reports (27%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS PULLING INTO SHOPPING CENTER ALL DASHBOARD LIGHT UP WARNINGS ETC.  STARTED TO HEAD HOME BECAUSE OF PRIOR INCIDENT WITH COMPUTER FAILURE.  CAR STOPPED MID INTERSECTION AND WENT DEAD.  PUT IT IN PARK RESTARTED AND DROVE HOME.  HEADLIGHTS AND ELECTRICAL ENGINE WOULD NOT SHUT O",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STOPPED THE BRAKE PEDAL SLOWLY GOES TO THE FLOORBOARDS. SOMETIMES I HAVE TO REPEATEDLY PUMP THE BRAKE PEDAL WHILE AT A STOP LIGHT TO PREVENT RUNNING INTO THE CAR IN FRONT OF ME. TOOK IT TO A DEALERSHIP AND THEY DROVE THE CAR BUT COULDN'T FINE ANY PROBLEMS. THE MASTER CYLINDE",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE'S SWITCH CONTROLLING HEADLIGHTS WAS LEFT IN THE \"PARKING LIGHTS ON\" MODE INADVERTENTLY (IT OPENED TERMINAL 15 PER MINI). CAR WOULD NOT START LESS THAN 12 HOURS LATER. MINI REPORTS THAT THIS \"DAMAGED THE BATTERY BEYOND REPAIR\" AND SAID IT WAS NOT SUBJECT TO WARRANTY REPLAC",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Mini Cooper Countryman. The contact stated that while driving at an undisclosed speed, the steering wheel failed to turn in the intended direction. The contact stated that the steering wheel was excessively difficult to turn. There was no warning light ill",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

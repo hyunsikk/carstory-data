@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mercedes-benz-c-class",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MERCEDES-BENZ/C-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:17.847Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "There have been two complete failures of the control module /screen in the center dash of the vehicle which operates all vehicle features and some key safety features.  The screen simply ceases operation and shuts down all controls for the vehicle.  The first incident occurred sh",
+      "pct": 27
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz C300. The contact stated that while driving approximately 40 MPH, the active brake assists erroneously activated, causing the vehicle to abruptly stop in the middle of the road, nearly causing a rear end collision by another vehicle. During t",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A recall was issued for the fuel pump, creating a major safety issue and increased risk of collision, which still no available remedy. The manufacturer has failed to provide a resolution in a timely manner, especially for such a vital competent wearing down every day.   Furthermo",
+      "pct": 15
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's daughter owns a 2022 Mercedes-Benz C300. The contact received notification of NHTSA Campaign Number: 23V445000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The local dealer was contacted. The contact stated that the manufacturer",
+      "pct": 15
+    },
+    {
+      "component": "GASOLINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's daughter owns a 2022 Mercedes-Benz C300. The contact received notification of NHTSA Campaign Number: 23V445000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The local dealer was contacted. The contact stated that the manufacturer",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mercedes-Benz C-Class owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Electrical System (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "There have been two complete failures of the control module /screen in the center dash of the vehicle which operates all vehicle features and some key safety features.  The screen simply ceases operation and shuts down all controls for the vehicle.  The first incident occurred sh",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "7 reports (27%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz C300. The contact stated that while driving approximately 40 MPH, the active brake assists erroneously activated, causing the vehicle to abruptly stop in the middle of the road, nearly causing a rear end collision by another vehicle. During t",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (19%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A recall was issued for the fuel pump, creating a major safety issue and increased risk of collision, which still no available remedy. The manufacturer has failed to provide a resolution in a timely manner, especially for such a vital competent wearing down every day.   Furthermo",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's daughter owns a 2022 Mercedes-Benz C300. The contact received notification of NHTSA Campaign Number: 23V445000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The local dealer was contacted. The contact stated that the manufacturer",
+        "pct": 15,
+        "title": "Fuel System",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's daughter owns a 2022 Mercedes-Benz C300. The contact received notification of NHTSA Campaign Number: 23V445000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The local dealer was contacted. The contact stated that the manufacturer",
+        "pct": 15,
+        "title": "Gasoline",
+        "blurb": "4 reports (15%)"
+      }
+    ]
+  }
+}

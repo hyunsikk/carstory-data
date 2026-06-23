@@ -1,0 +1,128 @@
+{
+  "slug": "2018-lincoln-mkc",
+  "make": "Lincoln",
+  "model": "MKC",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LINCOLN/MKC#complaints",
+  "generatedAt": "2026-06-23T16:37:42.888Z",
+  "total": 65,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 40,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine light came on and my LinolnWAy app told me to not drive over 45 mph because my car may start having smoke come out. I took the car to the dealership and was told that I needed a new engine  because the coolant has leaked over . I was told that my car was the 5th Lincoln th",
+      "pct": 62
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lincoln MKC. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate however, the engine overheated. Additionally, the check engine warning light was illuminated. The veh",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 LINCOLN MKC. THE CONTACT STATED THAT ON SEVERAL OCCASIONS AFTER THE VEHICLE WAS PARKED WITH THE ENGINE TURNED OFF, THE CONTACT EXITED THE VEHICLE AND VEHICLE STARTED TO ROLL AWAY. THE CONTACT ATTEMPTED TO REENTER THE VEHICLE BUT WAS UNABLE TO DO SO. TH",
+      "pct": 8
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Backup camera, side blind-spot warning and park assistant failed due to inoperative DC/DC converter. All failed items safety related. Dealer service tech confirmed problem and cause. This system has been a subject of recalls on previous model years. Warning system on dashboard in",
+      "pct": 6
+    },
+    {
+      "component": "WHEELS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lincoln MKC. The contact stated that upon having the tires serviced by an independent mechanic, the mechanic informed him that all the lug nuts were swollen and difficult to be removed. The dealer was notified of the failure and the contact was given an es",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lincoln Mkc owners report most",
+    "summary": "Across 65 owner complaints to NHTSA, the most reported area is Engine (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 40,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine light came on and my LinolnWAy app told me to not drive over 45 mph because my car may start having smoke come out. I took the car to the dealership and was told that I needed a new engine  because the coolant has leaked over . I was told that my car was the 5th Lincoln th",
+        "pct": 62,
+        "title": "Engine",
+        "blurb": "40 reports (62%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lincoln MKC. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate however, the engine overheated. Additionally, the check engine warning light was illuminated. The veh",
+        "pct": 12,
+        "title": "Engine And Engine Cooling",
+        "blurb": "8 reports (12%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 LINCOLN MKC. THE CONTACT STATED THAT ON SEVERAL OCCASIONS AFTER THE VEHICLE WAS PARKED WITH THE ENGINE TURNED OFF, THE CONTACT EXITED THE VEHICLE AND VEHICLE STARTED TO ROLL AWAY. THE CONTACT ATTEMPTED TO REENTER THE VEHICLE BUT WAS UNABLE TO DO SO. TH",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "5 reports (8%) · 1 crash"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Backup camera, side blind-spot warning and park assistant failed due to inoperative DC/DC converter. All failed items safety related. Dealer service tech confirmed problem and cause. This system has been a subject of recalls on previous model years. Warning system on dashboard in",
+        "pct": 6,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (6%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lincoln MKC. The contact stated that upon having the tires serviced by an independent mechanic, the mechanic informed him that all the lug nuts were swollen and difficult to be removed. The dealer was notified of the failure and the contact was given an es",
+        "pct": 6,
+        "title": "Wheels",
+        "blurb": "4 reports (6%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2022-lamborghini-urus",
+  "make": "Lamborghini",
+  "model": "Urus",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LAMBORGHINI/URUS#complaints",
+  "generatedAt": "2026-06-23T16:46:30.590Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On a cold start, when I press the brake and the start button on my vehicle, the vehicle does not turn on it. It takes anywhere between 7-10 tries before the vehicle wants to turn on. I have taken the vehicle to the manufacturer’s service center and have called the manufacturer mu",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On a cold start, when I press the brake and the start button on my vehicle, the vehicle does not turn on it. It takes anywhere between 7-10 tries before the vehicle wants to turn on. I have taken the vehicle to the manufacturer’s service center and have called the manufacturer mu",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Lamborghini Urus owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On a cold start, when I press the brake and the start button on my vehicle, the vehicle does not turn on it. It takes anywhere between 7-10 tries before the vehicle wants to turn on. I have taken the vehicle to the manufacturer’s service center and have called the manufacturer mu",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On a cold start, when I press the brake and the start button on my vehicle, the vehicle does not turn on it. It takes anywhere between 7-10 tries before the vehicle wants to turn on. I have taken the vehicle to the manufacturer’s service center and have called the manufacturer mu",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-jeep-wagoneer",
+  "make": "Jeep",
+  "model": "Wagoneer",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JEEP/WAGONEER#complaints",
+  "generatedAt": "2026-06-23T16:45:17.696Z",
+  "total": 89,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 41,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Wagoneer. The contact stated while driving at unknown speeds, the vehicle lost motive power. The check engine warning light was illuminated. The vehicle was able to be restarted. The vehicle was taken to the local dealer, where it was diagnosed that a",
+      "pct": 46
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 34,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "After very minor accident the car crash symbol and the car in lane symbol came on and will not turn off. Took to dealer and they said there was no update to correct the problem. Feel unsafe in a car that should be safe since it's new. And has error message of limited functionalit",
+      "pct": 38
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "- Transmission. Vehicle is brand new, less than 1,500 miles - Inability to accelerate vehicle on highway. - Problem was reproduced by technician at Jeep dealership and confirmed that the vehicle needs a new transmission. - The vehicle as only inspected by the dealership, as far a",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Leaks break fluid when parked at an angle (nose facing down hill). Heat seems to be a factor because it leaks more on hot days. The dealer has tried to remedy the problem no fewer than 4 times, replacing many major components. There appears to be a design flaw in the master cylin",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2023 Jeep Wagoneer steering wheel became locked with alerts on the dashboard \"Power Steering Unavailable Service Required.\" Thank GOD I parked in a parking lot when I went food shopping. This has happened twice before to my wife in the garage but no alerts came out. I spent two h",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jeep Wagoneer owners report most",
+    "summary": "Across 89 owner complaints to NHTSA, the most reported area is Engine (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 41,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Wagoneer. The contact stated while driving at unknown speeds, the vehicle lost motive power. The check engine warning light was illuminated. The vehicle was able to be restarted. The vehicle was taken to the local dealer, where it was diagnosed that a",
+        "pct": 46,
+        "title": "Engine",
+        "blurb": "41 reports (46%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 34,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "After very minor accident the car crash symbol and the car in lane symbol came on and will not turn off. Took to dealer and they said there was no update to correct the problem. Feel unsafe in a car that should be safe since it's new. And has error message of limited functionalit",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "34 reports (38%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "- Transmission. Vehicle is brand new, less than 1,500 miles - Inability to accelerate vehicle on highway. - Problem was reproduced by technician at Jeep dealership and confirmed that the vehicle needs a new transmission. - The vehicle as only inspected by the dealership, as far a",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "15 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Leaks break fluid when parked at an angle (nose facing down hill). Heat seems to be a factor because it leaks more on hot days. The dealer has tried to remedy the problem no fewer than 4 times, replacing many major components. There appears to be a design flaw in the master cylin",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "10 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2023 Jeep Wagoneer steering wheel became locked with alerts on the dashboard \"Power Steering Unavailable Service Required.\" Thank GOD I parked in a parking lot when I went food shopping. This has happened twice before to my wife in the garage but no alerts came out. I spent two h",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "8 reports (9%)"
+      }
+    ]
+  }
+}

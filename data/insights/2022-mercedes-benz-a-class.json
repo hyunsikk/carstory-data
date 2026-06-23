@@ -1,0 +1,84 @@
+{
+  "slug": "2022-mercedes-benz-a-class",
+  "make": "Mercedes-Benz",
+  "model": "A-Class",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MERCEDES-BENZ/A-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:12.453Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "engines containing pistons that prematurely fail, forcing full-engine replaced  all 4 pistons replaced . Car would die/ shut down, sputter , rock shake excessively and want to not go,  22307 WRO 103114. DIAG 15.5, LI01.30-P-072328,, C&D BATTERY CHARGER. PERFORMED SHORT TEST. FOUN",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "engines containing pistons that prematurely fail, forcing full-engine replaced  all 4 pistons replaced . Car would die/ shut down, sputter , rock shake excessively and want to not go,  22307 WRO 103114. DIAG 15.5, LI01.30-P-072328,, C&D BATTERY CHARGER. PERFORMED SHORT TEST. FOUN",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "engines containing pistons that prematurely fail, forcing full-engine replaced  all 4 pistons replaced . Car would die/ shut down, sputter , rock shake excessively and want to not go,  22307 WRO 103114. DIAG 15.5, LI01.30-P-072328,, C&D BATTERY CHARGER. PERFORMED SHORT TEST. FOUN",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mercedes-Benz A-Class owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Suspension (50% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "engines containing pistons that prematurely fail, forcing full-engine replaced  all 4 pistons replaced . Car would die/ shut down, sputter , rock shake excessively and want to not go,  22307 WRO 103114. DIAG 15.5, LI01.30-P-072328,, C&D BATTERY CHARGER. PERFORMED SHORT TEST. FOUN",
+        "pct": 50,
+        "title": "Suspension",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "engines containing pistons that prematurely fail, forcing full-engine replaced  all 4 pistons replaced . Car would die/ shut down, sputter , rock shake excessively and want to not go,  22307 WRO 103114. DIAG 15.5, LI01.30-P-072328,, C&D BATTERY CHARGER. PERFORMED SHORT TEST. FOUN",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "engines containing pistons that prematurely fail, forcing full-engine replaced  all 4 pistons replaced . Car would die/ shut down, sputter , rock shake excessively and want to not go,  22307 WRO 103114. DIAG 15.5, LI01.30-P-072328,, C&D BATTERY CHARGER. PERFORMED SHORT TEST. FOUN",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

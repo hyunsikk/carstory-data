@@ -1,0 +1,84 @@
+{
+  "slug": "2021-nissan-maxima",
+  "make": "Nissan",
+  "model": "Maxima",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/MAXIMA#complaints",
+  "generatedAt": "2026-06-23T16:39:23.075Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Nissan Maxima. The contact stated that while his son was driving at 20 MPH, the vehicle began to jerk and was shaking. The vehicle felt as though the brake pedal was being depressed. The oil light was flashing. The vehicle was taken to the local dealer, wh",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Going down a road in Tennessee on my way to my sons house in Fort Campbell. No cars on the road anywhere 545 in the morning and the sun roof explodes out of no where. Parts have been ordered and the car is in my possession till the parts come in so no forms to upload as of yet.",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE PURCHASED NEW WITH 4 MILES THEN AFTER 100MILES, THE CD CHANGER DOES NOT WORK AND THERE IS A DELAY IN THE ELECTRONIC COOLANT TEMPERATURE GAUGE. THE ANLOG TEMP GAUGE IS WORKING BUT THE ELECTRONIC GAUGE DOES NOT COME ON TILL 20-30MINS OF DRIVING.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Maxima owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine And Engine Cooling (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Nissan Maxima. The contact stated that while his son was driving at 20 MPH, the vehicle began to jerk and was shaking. The vehicle felt as though the brake pedal was being depressed. The oil light was flashing. The vehicle was taken to the local dealer, wh",
+        "pct": 33,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Going down a road in Tennessee on my way to my sons house in Fort Campbell. No cars on the road anywhere 545 in the morning and the sun roof explodes out of no where. Parts have been ordered and the car is in my possession till the parts come in so no forms to upload as of yet.",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE PURCHASED NEW WITH 4 MILES THEN AFTER 100MILES, THE CD CHANGER DOES NOT WORK AND THERE IS A DELAY IN THE ELECTRONIC COOLANT TEMPERATURE GAUGE. THE ANLOG TEMP GAUGE IS WORKING BUT THE ELECTRONIC GAUGE DOES NOT COME ON TILL 20-30MINS OF DRIVING.",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

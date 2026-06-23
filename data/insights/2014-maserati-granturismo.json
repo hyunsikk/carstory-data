@@ -1,0 +1,62 @@
+{
+  "slug": "2014-maserati-granturismo",
+  "make": "Maserati",
+  "model": "GranTurismo",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/MASERATI/GRANTURISMO#complaints",
+  "generatedAt": "2026-06-23T16:47:03.753Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2 SEPARATE INCIDENTS, FIRST OCCURRING ON JULY 12, UPON ENTERING CAR, AFTER DRIVING VEHICLE DURING DAY, IT LOCKED UP, WOULD NOT ALLOW KEY TO BE EXTRACTED, WOULD NOT START, VARIOUS LIGHTS ON DASH INDICATING MAJOR PROBLEMS. ENGINE LIGHT, CAR THEFT  LIGHT. PROBLEM RESOLVED AFTER RESE",
+      "pct": 100
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2 SEPARATE INCIDENTS, FIRST OCCURRING ON JULY 12, UPON ENTERING CAR, AFTER DRIVING VEHICLE DURING DAY, IT LOCKED UP, WOULD NOT ALLOW KEY TO BE EXTRACTED, WOULD NOT START, VARIOUS LIGHTS ON DASH INDICATING MAJOR PROBLEMS. ENGINE LIGHT, CAR THEFT  LIGHT. PROBLEM RESOLVED AFTER RESE",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Maserati Granturismo owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2 SEPARATE INCIDENTS, FIRST OCCURRING ON JULY 12, UPON ENTERING CAR, AFTER DRIVING VEHICLE DURING DAY, IT LOCKED UP, WOULD NOT ALLOW KEY TO BE EXTRACTED, WOULD NOT START, VARIOUS LIGHTS ON DASH INDICATING MAJOR PROBLEMS. ENGINE LIGHT, CAR THEFT  LIGHT. PROBLEM RESOLVED AFTER RESE",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2 SEPARATE INCIDENTS, FIRST OCCURRING ON JULY 12, UPON ENTERING CAR, AFTER DRIVING VEHICLE DURING DAY, IT LOCKED UP, WOULD NOT ALLOW KEY TO BE EXTRACTED, WOULD NOT START, VARIOUS LIGHTS ON DASH INDICATING MAJOR PROBLEMS. ENGINE LIGHT, CAR THEFT  LIGHT. PROBLEM RESOLVED AFTER RESE",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

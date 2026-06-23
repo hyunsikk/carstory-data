@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mitsubishi-outlander",
+  "make": "Mitsubishi",
+  "model": "Outlander",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MITSUBISHI/OUTLANDER#complaints",
+  "generatedAt": "2026-06-23T16:39:02.052Z",
+  "total": 207,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 75,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I just bought a 2022 Mitsubishi Outlander and I noticed while driving on the highway around 60 to 70 MPH the hood is fluttering.  I checked the hood just to make sure it was not unlatched and it was secured but the hood continues to flutter looking like it wants to open during hi",
+      "pct": 36
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 26,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Good morning. Mitsubishi attempted fix at my hood flutter recall in July 2021 and problem still active. Hood bounces and flutters and is very distracting. There is no permanent fix at this time. Also, the forward collision included in the MiPilot is not active. When looking at th",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mitsubishi Outlander. The contact stated while driving at various speeds, with a vehicle approaching from the rear, the rear collision alert sensor and warning chime would only flash for a second at a very low sound level. The contact stated that the rear ",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mitsubishi Outlander. The contact stated that while his wife was driving approximately 15-20 MPH on a steep incline, the brake pedal was depressed but failed to respond and felt firm. Several unknown warning lights were illuminated. Additionally, the steer",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The vehicle shows a check engine light after refueling. After some troubleshooting, I found that the issue is the cap-less fuel fill system. After some time, the check engine goes away. Or in some cases never does. This creates an issue because the vehicle does not remote start d",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mitsubishi Outlander owners report most",
+    "summary": "Across 207 owner complaints to NHTSA, the most reported area is Structure (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 75,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I just bought a 2022 Mitsubishi Outlander and I noticed while driving on the highway around 60 to 70 MPH the hood is fluttering.  I checked the hood just to make sure it was not unlatched and it was secured but the hood continues to flutter looking like it wants to open during hi",
+        "pct": 36,
+        "title": "Structure",
+        "blurb": "75 reports (36%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 26,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Good morning. Mitsubishi attempted fix at my hood flutter recall in July 2021 and problem still active. Hood bounces and flutters and is very distracting. There is no permanent fix at this time. Also, the forward collision included in the MiPilot is not active. When looking at th",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "26 reports (13%) · 7 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mitsubishi Outlander. The contact stated while driving at various speeds, with a vehicle approaching from the rear, the rear collision alert sensor and warning chime would only flash for a second at a very low sound level. The contact stated that the rear ",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "25 reports (12%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mitsubishi Outlander. The contact stated that while his wife was driving approximately 15-20 MPH on a steep incline, the brake pedal was depressed but failed to respond and felt firm. Several unknown warning lights were illuminated. Additionally, the steer",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "16 reports (8%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The vehicle shows a check engine light after refueling. After some troubleshooting, I found that the issue is the cap-less fuel fill system. After some time, the check engine goes away. Or in some cases never does. This creates an issue because the vehicle does not remote start d",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "15 reports (7%) · 4 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2020-mitsubishi-mirage",
+  "make": "Mitsubishi",
+  "model": "Mirage",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MITSUBISHI/MIRAGE#complaints",
+  "generatedAt": "2026-06-23T16:38:53.691Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mitsubishi Mirage. The contact stated that while driving on several occasions at various speeds, there was an abnormal burning odor coming from the brakes with an abnormal grinding sound coming from the brakes. The vehicle was taken to an independent mecha",
+      "pct": 100
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mitsubishi Mirage. The contact stated that while driving on several occasions at various speeds, there was an abnormal burning odor coming from the brakes with an abnormal grinding sound coming from the brakes. The vehicle was taken to an independent mecha",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mitsubishi Mirage owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mitsubishi Mirage. The contact stated that while driving on several occasions at various speeds, there was an abnormal burning odor coming from the brakes with an abnormal grinding sound coming from the brakes. The vehicle was taken to an independent mecha",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mitsubishi Mirage. The contact stated that while driving on several occasions at various speeds, there was an abnormal burning odor coming from the brakes with an abnormal grinding sound coming from the brakes. The vehicle was taken to an independent mecha",
+        "pct": 100,
+        "title": "Hydraulic",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

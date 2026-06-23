@@ -1,0 +1,128 @@
+{
+  "slug": "2024-porsche-taycan",
+  "make": "Porsche",
+  "model": "Taycan",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/PORSCHE/TAYCAN#complaints",
+  "generatedAt": "2026-06-23T16:39:57.559Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This car completely shut down on a busy motorway and would not restart while blocking traffic. I called Porsche Auto service for a tow on a flatbed truck. They did not arrive for almost 5 hours while the car was dead standing still on a busy major intersection.    Porsche has had",
+      "pct": 67
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car indicated that there was a collision imminent when there was nothing in front of me and no car within any reasonable distance ahead of me either. The car tried to apply the brakes momentarily and then stopped.   This happened on the I280 Northbound Lawrence Expressway exit",
+      "pct": 22
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The in-cabin heater stopped working, and the temperature is in the single digits outside (currently 7 degrees), so I was not able to use the defroster to clear my windshield and it was dangerously cold inside the vehicle.",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 11
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Porsche Taycan owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This car completely shut down on a busy motorway and would not restart while blocking traffic. I called Porsche Auto service for a tow on a flatbed truck. They did not arrive for almost 5 hours while the car was dead standing still on a busy major intersection.    Porsche has had",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "6 reports (67%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car indicated that there was a collision imminent when there was nothing in front of me and no car within any reasonable distance ahead of me either. The car tried to apply the brakes momentarily and then stopped.   This happened on the I280 Northbound Lawrence Expressway exit",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The in-cabin heater stopped working, and the temperature is in the single digits outside (currently 7 degrees), so I was not able to use the defroster to clear my windshield and it was dangerously cold inside the vehicle.",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 11,
+        "title": "Hydraulic",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

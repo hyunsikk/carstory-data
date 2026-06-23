@@ -1,0 +1,128 @@
+{
+  "slug": "2023-buick-enclave",
+  "make": "Buick",
+  "model": "Enclave",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BUICK/ENCLAVE#complaints",
+  "generatedAt": "2026-06-23T16:27:18.667Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicles low beams fail to properly illuminate the road, and create a significant blind spot in your vision.  We bought a brand new 2023 Buick Enclave and noticed on the first night drive that the vehicles lighting has a very large blind spot where it fails to properly illumi",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As my husband was backing out of the garage to the East and turning the back end to the North so we could head forward out of our drive which is on a curve, the car accelerated and the brakes would not work.  We went backwards down a very steep drive that goes to our machine shed",
+      "pct": 17
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The SmartFloor rear passenger (driver side and passenger side) bucket seat seatbelt retractors do not release to allow a passenger to buckle the seat belt.  Both driver side and passenger side retractors fail in the same manner.  Passengers are not able to buckle themselves in.  ",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The infotainment system locks up. Its like all features are on mute. I can't use phone, radio, contact onstarr or use navigation system I have a heart condition, when this freezes I have no way to reach help. The dealership has tried multiple fixes, they say they are just seller,",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle lost power and stalled on interstate hwy 07/29/2023.   GM dealer Heartland Chevy in Liberty MO.  Repaired replacing fuel tank and sensor due to failed sensor in tank.   08/08/2023 Vehicle again for 2nd time rough idling and staling out several times on hwy.   Currently at",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Buick Enclave owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Exterior Lighting (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicles low beams fail to properly illuminate the road, and create a significant blind spot in your vision.  We bought a brand new 2023 Buick Enclave and noticed on the first night drive that the vehicles lighting has a very large blind spot where it fails to properly illumi",
+        "pct": 28,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (28%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As my husband was backing out of the garage to the East and turning the back end to the North so we could head forward out of our drive which is on a curve, the car accelerated and the brakes would not work.  We went backwards down a very steep drive that goes to our machine shed",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "3 reports (17%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The SmartFloor rear passenger (driver side and passenger side) bucket seat seatbelt retractors do not release to allow a passenger to buckle the seat belt.  Both driver side and passenger side retractors fail in the same manner.  Passengers are not able to buckle themselves in.  ",
+        "pct": 11,
+        "title": "Seat Belts",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The infotainment system locks up. Its like all features are on mute. I can't use phone, radio, contact onstarr or use navigation system I have a heart condition, when this freezes I have no way to reach help. The dealership has tried multiple fixes, they say they are just seller,",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle lost power and stalled on interstate hwy 07/29/2023.   GM dealer Heartland Chevy in Liberty MO.  Repaired replacing fuel tank and sensor due to failed sensor in tank.   08/08/2023 Vehicle again for 2nd time rough idling and staling out several times on hwy.   Currently at",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

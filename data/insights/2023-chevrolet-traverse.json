@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-06-23T16:28:57.710Z",
+  "total": 76,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 23,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Traverse. The contact stated that on numerous occasions while driving at approximately 25-30 MPH, the vehicle unintendedly downshifted without warning. The contact then stated that he heard an abnormal buzzing sound coming from the hood of the ve",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After owning new vehicle for one month the check engine light comes on, return to dealer for service and we are told there is a known issue with 2023 Traverse showing check engine light off the lot. The vehicle is inspected and found that wires from the computer are rubbing/melti",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "After owning new vehicle for one month the check engine light comes on, return to dealer for service and we are told there is a known issue with 2023 Traverse showing check engine light off the lot. The vehicle is inspected and found that wires from the computer are rubbing/melti",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was trying to park on a little steep  driveway. Somehow I got out of the car when it is D gear. In seconds I realized the car is moving forward and jumped right back in the car, hit the brakes and switch D to P. The car didn't stopped. I remember buckled up sign on display and ",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I HAD 2 MILE HR FRONT SIDE INPACK IN A PARKING LOT WHITCH PUSHED ME INTO ANTHER PARKED CAR .THEN AT THAT POINT MY CAR WENT INTO AT A HIGH RATE OF SPEED .I HAD BOTH FEET ON THE BREAK NO HELP .I PROCEEDED TO HIT OTHER CARS AFTER THE 3RD AND 4RD CAR IT FINALLY QUIT .THIS WAS AT A SM",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Traverse owners report most",
+    "summary": "Across 76 owner complaints to NHTSA, the most reported area is Power Train (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 23,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Traverse. The contact stated that on numerous occasions while driving at approximately 25-30 MPH, the vehicle unintendedly downshifted without warning. The contact then stated that he heard an abnormal buzzing sound coming from the hood of the ve",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "23 reports (30%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After owning new vehicle for one month the check engine light comes on, return to dealer for service and we are told there is a known issue with 2023 Traverse showing check engine light off the lot. The vehicle is inspected and found that wires from the computer are rubbing/melti",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "16 reports (21%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "After owning new vehicle for one month the check engine light comes on, return to dealer for service and we are told there is a known issue with 2023 Traverse showing check engine light off the lot. The vehicle is inspected and found that wires from the computer are rubbing/melti",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "15 reports (20%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was trying to park on a little steep  driveway. Somehow I got out of the car when it is D gear. In seconds I realized the car is moving forward and jumped right back in the car, hit the brakes and switch D to P. The car didn't stopped. I remember buckled up sign on display and ",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "10 reports (13%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I HAD 2 MILE HR FRONT SIDE INPACK IN A PARKING LOT WHITCH PUSHED ME INTO ANTHER PARKED CAR .THEN AT THAT POINT MY CAR WENT INTO AT A HIGH RATE OF SPEED .I HAD BOTH FEET ON THE BREAK NO HELP .I PROCEEDED TO HIT OTHER CARS AFTER THE 3RD AND 4RD CAR IT FINALLY QUIT .THIS WAS AT A SM",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (7%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

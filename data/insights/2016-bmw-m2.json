@@ -1,0 +1,40 @@
+{
+  "slug": "2016-bmw-m2",
+  "make": "BMW",
+  "model": "M2",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/M2#complaints",
+  "generatedAt": "2026-06-23T16:43:52.077Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SPEEDOMETER NUMBERS ARE GRAY ON A GRAY BACKGROUND MAKING IT VERY DIFFICULT TO READ IN OVERCAST CONDITIONS IN THE DAYTIME. CAN LEAD TO IMPROPER SPEED RELATIVE TO THE POSTED SPEED. THIS IS A DESIGN FLAW AND BMW HAS SINCE CORRECTED IN 2018 VERSIONS OF THE CAR. THERE IS AN ENTIRE THR",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw M2 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Exterior Lighting (100% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SPEEDOMETER NUMBERS ARE GRAY ON A GRAY BACKGROUND MAKING IT VERY DIFFICULT TO READ IN OVERCAST CONDITIONS IN THE DAYTIME. CAN LEAD TO IMPROPER SPEED RELATIVE TO THE POSTED SPEED. THIS IS A DESIGN FLAW AND BMW HAS SINCE CORRECTED IN 2018 VERSIONS OF THE CAR. THERE IS AN ENTIRE THR",
+        "pct": 100,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (100%)"
+      }
+    ]
+  }
+}

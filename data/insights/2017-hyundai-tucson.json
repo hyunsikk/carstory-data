@@ -1,0 +1,128 @@
+{
+  "slug": "2017-hyundai-tucson",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/HYUNDAI/TUCSON#complaints",
+  "generatedAt": "2026-06-23T16:34:30.106Z",
+  "total": 1069,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 583,
+      "crash": 3,
+      "fire": 21,
+      "injuries": 6,
+      "deaths": 1,
+      "sample": "WE JUST PURCHASED A 2017 HYUNDAI TUCSON SPORT. THE CAR HAS A SERIOUS ISSUE OF NO ACCELERATION AFTER A STOP, MERGING, PASSING ON THE HIGHWAY AND TURNING AT AN INTERSECTION. THE CAR HESITATES WHEN YOU HIT THE ACCELERATOR, SOMETIMES LEAVING YOU NEARLY STOPPED IN A AN INTERSECTION WA",
+      "pct": 55
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 287,
+      "crash": 5,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TRANSMISSION DOES NOT CONSISTENTLY SHIFT THROUGH GEARS. UNDER ACCELERATION, IT WILL SOMETIMES SHIFT FROM 1-2- NEUTRAL INSTEAD OF GOING INTO 3RD GEAR. IF YOU DEACCELRATE AND THEN TRY TO ACELERATE AS WHEN COMING TO A TURN, THE CAR HAS EXTREME HESITATION AND SOMETIME WILL JUST REV T",
+      "pct": 27
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 86,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "VEHICLE HESITATES WHEN ACCELERATING FROM A SLOWED OR STOPPED PACE (I.E. STOP AND GO TRAFFIC, MAKING LEFT HAND TURNS).  WHEN THE GAS PEDAL IS PRESSED TO GO AGAIN, NOTHING HAPPENS. THEN THE VEHICLE SLOWLY SHIFTS INTO TRAFFIC BEFORE FINALLY ACCELERATING.  SCARY STUFF WHEN CARS ARE C",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 83,
+      "crash": 4,
+      "fire": 5,
+      "injuries": 2,
+      "deaths": 1,
+      "sample": "HESITATION ON ACCELERATION, DUAL CLUTCH TRANSMISSION. REPORTED PROBLEMS WITH THE 2016 TUCSON.  MY VEHICLE IS A 2017 TUCSON SE PLUS, THE PROBLEMS ARE THE SAME AS PREVIOUSLY REPORTS REGARDING THE 2016 MODEL.  THE EXISTING RECALL NEEDS TO BE BROADENED TO INCLUDE 2017'S.  PLUS, I UND",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 73,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WE JUST PURCHASED A 2017 HYUNDAI TUCSON SPORT. THE CAR HAS A SERIOUS ISSUE OF NO ACCELERATION AFTER A STOP, MERGING, PASSING ON THE HIGHWAY AND TURNING AT AN INTERSECTION. THE CAR HESITATES WHEN YOU HIT THE ACCELERATOR, SOMETIMES LEAVING YOU NEARLY STOPPED IN A AN INTERSECTION WA",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Hyundai Tucson owners report most",
+    "summary": "Across 1,069 owner complaints to NHTSA, the most reported area is Engine (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 583,
+        "crash": 3,
+        "fire": 21,
+        "injuries": 6,
+        "deaths": 1,
+        "sample": "WE JUST PURCHASED A 2017 HYUNDAI TUCSON SPORT. THE CAR HAS A SERIOUS ISSUE OF NO ACCELERATION AFTER A STOP, MERGING, PASSING ON THE HIGHWAY AND TURNING AT AN INTERSECTION. THE CAR HESITATES WHEN YOU HIT THE ACCELERATOR, SOMETIMES LEAVING YOU NEARLY STOPPED IN A AN INTERSECTION WA",
+        "pct": 55,
+        "title": "Engine",
+        "blurb": "583 reports (55%) · 21 fire · 3 crash · 6 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 287,
+        "crash": 5,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TRANSMISSION DOES NOT CONSISTENTLY SHIFT THROUGH GEARS. UNDER ACCELERATION, IT WILL SOMETIMES SHIFT FROM 1-2- NEUTRAL INSTEAD OF GOING INTO 3RD GEAR. IF YOU DEACCELRATE AND THEN TRY TO ACELERATE AS WHEN COMING TO A TURN, THE CAR HAS EXTREME HESITATION AND SOMETIME WILL JUST REV T",
+        "pct": 27,
+        "title": "Power Train",
+        "blurb": "287 reports (27%) · 2 fire · 5 crash · 3 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 86,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "VEHICLE HESITATES WHEN ACCELERATING FROM A SLOWED OR STOPPED PACE (I.E. STOP AND GO TRAFFIC, MAKING LEFT HAND TURNS).  WHEN THE GAS PEDAL IS PRESSED TO GO AGAIN, NOTHING HAPPENS. THEN THE VEHICLE SLOWLY SHIFTS INTO TRAFFIC BEFORE FINALLY ACCELERATING.  SCARY STUFF WHEN CARS ARE C",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "86 reports (8%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 83,
+        "crash": 4,
+        "fire": 5,
+        "injuries": 2,
+        "deaths": 1,
+        "sample": "HESITATION ON ACCELERATION, DUAL CLUTCH TRANSMISSION. REPORTED PROBLEMS WITH THE 2016 TUCSON.  MY VEHICLE IS A 2017 TUCSON SE PLUS, THE PROBLEMS ARE THE SAME AS PREVIOUSLY REPORTS REGARDING THE 2016 MODEL.  THE EXISTING RECALL NEEDS TO BE BROADENED TO INCLUDE 2017'S.  PLUS, I UND",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "83 reports (8%) · 5 fire · 4 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 73,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WE JUST PURCHASED A 2017 HYUNDAI TUCSON SPORT. THE CAR HAS A SERIOUS ISSUE OF NO ACCELERATION AFTER A STOP, MERGING, PASSING ON THE HIGHWAY AND TURNING AT AN INTERSECTION. THE CAR HESITATES WHEN YOU HIT THE ACCELERATOR, SOMETIMES LEAVING YOU NEARLY STOPPED IN A AN INTERSECTION WA",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "73 reports (7%) · 1 fire · 2 injured"
+      }
+    ]
+  }
+}

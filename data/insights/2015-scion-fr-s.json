@@ -1,0 +1,128 @@
+{
+  "slug": "2015-scion-fr-s",
+  "make": "Scion",
+  "model": "FR-S",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/SCION/FR-S#complaints",
+  "generatedAt": "2026-06-23T16:40:29.060Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE STARTED TO STUTTER AND HAVING A LOUD KNOCK FROM ENGINE AFTER SITTING FOR 6 HOURS ON A NORMAL NIGHT, NORMAL DRIVING CONDITIONS, MAINTENANCE KEPT UP INCLUDING RECENT OIL CHANGE... STARTED TO DRIVE THE VEHICLE AND IT HAD LOUD PINGING AND KNOCKING BECAME LOUDER WHEN I TRIED T",
+      "pct": 36
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CONTINUED...IT IS RIDICULOUS OF THIS IAB@NYPD.ORG TO IGNORE COMPLAINTS OF SUCH UNSAFE CARS AS THIS SMALL LITTLE CAR THAT THEY USE THAT I SAW TODAY WITH THE NYPD 101 OR NYPD 105 THERE THAT HAS REGULAR LIGHTS ON THE TOP OF THE CAR AND CAN BE USED FOR REGULAR POLICE WORK ALMOST AS S",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE PASSAGER REAR CALIPER MALFUNCTION CAUSE THE BRAKE PAD FLY AWAY FROM THE RIGHT REAR BRAKE",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I OWN A 2015 AUTOMATIC SCION FR-S. THE CAR HAS A CHECK ENGINE LIGHT AND DOWNSHIFTS ARE VERY JERKY AND HARD. UPSHIFTS ARE FINE, BUT IN BOTH MANUAL MODE (PADDLE SHIFTS) AND IN AUTOMATIC MODE, COMING TO A STOP AND DOWNSHIFTING THROUGH THE GEARS RESULTS IN HARD, JERKY VIOLENT MOVEMEN",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Defective engine/motor failure spark plug popped out of engine along with coil. The service technician and service manager were shocked at the spark plug broken internally. I paid for spark plug replacement totaling approximately $1,200. Upon inspecting other parts of the motor i",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Scion Fr-S owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Engine (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE STARTED TO STUTTER AND HAVING A LOUD KNOCK FROM ENGINE AFTER SITTING FOR 6 HOURS ON A NORMAL NIGHT, NORMAL DRIVING CONDITIONS, MAINTENANCE KEPT UP INCLUDING RECENT OIL CHANGE... STARTED TO DRIVE THE VEHICLE AND IT HAD LOUD PINGING AND KNOCKING BECAME LOUDER WHEN I TRIED T",
+        "pct": 36,
+        "title": "Engine",
+        "blurb": "5 reports (36%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CONTINUED...IT IS RIDICULOUS OF THIS IAB@NYPD.ORG TO IGNORE COMPLAINTS OF SUCH UNSAFE CARS AS THIS SMALL LITTLE CAR THAT THEY USE THAT I SAW TODAY WITH THE NYPD 101 OR NYPD 105 THERE THAT HAS REGULAR LIGHTS ON THE TOP OF THE CAR AND CAN BE USED FOR REGULAR POLICE WORK ALMOST AS S",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE PASSAGER REAR CALIPER MALFUNCTION CAUSE THE BRAKE PAD FLY AWAY FROM THE RIGHT REAR BRAKE",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "2 reports (14%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I OWN A 2015 AUTOMATIC SCION FR-S. THE CAR HAS A CHECK ENGINE LIGHT AND DOWNSHIFTS ARE VERY JERKY AND HARD. UPSHIFTS ARE FINE, BUT IN BOTH MANUAL MODE (PADDLE SHIFTS) AND IN AUTOMATIC MODE, COMING TO A STOP AND DOWNSHIFTING THROUGH THE GEARS RESULTS IN HARD, JERKY VIOLENT MOVEMEN",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Defective engine/motor failure spark plug popped out of engine along with coil. The service technician and service manager were shocked at the spark plug broken internally. I paid for spark plug replacement totaling approximately $1,200. Upon inspecting other parts of the motor i",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

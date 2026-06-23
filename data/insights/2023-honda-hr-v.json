@@ -1,0 +1,128 @@
+{
+  "slug": "2023-honda-hr-v",
+  "make": "Honda",
+  "model": "HR-V",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HONDA/HR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:34.832Z",
+  "total": 679,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 318,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "UNKNOWN My rear windshield popped/shattered as I was driving on a rural highway at roughly 60 mph.  I did not go under an over pass and there were no other cars nearby. The window simply exploded seemingly spontaneously. I believe I had the rear window defroster going at the time",
+      "pct": 47
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 78,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Honda HR-V. The contact stated while in stop and go traffic there was an abnormal explosion heard. The contact pulled over on the side of the road and noticed that the rear windshield had shattered without impact. The vehicle was taken to the dealer, but n",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 76,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "i have a 2023 HRV AWD. We test drove it and bought it with the lane assist on. We had never had a vehicle with lane assist and thought it was something we needed to get accustomed to using. It grew irritating so I turned it off. We soon realized it was something else. The steerin",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear window of our 2023 Honda HRV exploded with no incident whatsoever.  We had parked the car on Sunday, July 2, 2023 and taken walk on beach at 7:30 in the morning.  When we left at 8:15 we heard a noise from the back as we drove off and looked in rear view mirror to see th",
+      "pct": 5
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The screen on the car would randomly turn on and off when the vehicle is on and it will do this the whole time .    On Dec 2022 Another issue I had was the door wouldn’t unlock on the driver side. I had to get someone to open my door. The door was unlocked but physically wouldn’t",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Honda Hr-V owners report most",
+    "summary": "Across 679 owner complaints to NHTSA, the most reported area is Visibility/Wiper (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 318,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "UNKNOWN My rear windshield popped/shattered as I was driving on a rural highway at roughly 60 mph.  I did not go under an over pass and there were no other cars nearby. The window simply exploded seemingly spontaneously. I believe I had the rear window defroster going at the time",
+        "pct": 47,
+        "title": "Visibility/Wiper",
+        "blurb": "318 reports (47%) · 1 injured"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 78,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Honda HR-V. The contact stated while in stop and go traffic there was an abnormal explosion heard. The contact pulled over on the side of the road and noticed that the rear windshield had shattered without impact. The vehicle was taken to the dealer, but n",
+        "pct": 11,
+        "title": "Visibility",
+        "blurb": "78 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 76,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "i have a 2023 HRV AWD. We test drove it and bought it with the lane assist on. We had never had a vehicle with lane assist and thought it was something we needed to get accustomed to using. It grew irritating so I turned it off. We soon realized it was something else. The steerin",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "76 reports (11%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear window of our 2023 Honda HRV exploded with no incident whatsoever.  We had parked the car on Sunday, July 2, 2023 and taken walk on beach at 7:30 in the morning.  When we left at 8:15 we heard a noise from the back as we drove off and looked in rear view mirror to see th",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "33 reports (5%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The screen on the car would randomly turn on and off when the vehicle is on and it will do this the whole time .    On Dec 2022 Another issue I had was the door wouldn’t unlock on the driver side. I had to get someone to open my door. The door was unlocked but physically wouldn’t",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "30 reports (4%)"
+      }
+    ]
+  }
+}

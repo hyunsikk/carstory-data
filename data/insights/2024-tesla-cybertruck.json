@@ -1,0 +1,128 @@
+{
+  "slug": "2024-tesla-cybertruck",
+  "make": "Tesla",
+  "model": "Cybertruck",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TESLA/CYBERTRUCK#complaints",
+  "generatedAt": "2026-06-23T16:41:00.097Z",
+  "total": 157,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 46,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 3,
+      "sample": "While driving vehicle a prompt flashed on the screen saying “power reduced, steering performance reduced due to overheating”. Then the next screen said “critical steering issue detected pull over”.  Then I got a loss of system redundancy detected. This has happened twice in one w",
+      "pct": 29
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 34,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 3,
+      "sample": "Driving at Approximately 70miles an hour on a divided highway and the top right plastic trim between the back window and the steel side came loose and flew off into traffic behind me creating a road hazard for other motorists.  I drove back and picked up the shattered pieces off ",
+      "pct": 22
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 19,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "NHTSA has created a safety risk by forcing FSD to have extreme monitoring. While in FSD I have to go back to normal driving to change the station on the radio or look at my phone. This is something I do in my non fsd vehicles all the time. The reason for me purchasing FSD is to b",
+      "pct": 12
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Contacted Tesla on June 25th for their June 19th recall (24V-456 and 24V-457) and they responded that my truck isn't (yet) on their list of recalled cars even though it's been 6 days since the voluntary recall happened.  As Tesla has been the one to initiate the recall, I would h",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello are you still in business or has Elon DOGED you already? No matter.... here's a CyberTruck in the junkyard. [XXX]  The wheels have gone all whompy. Don't suppose you are bothered about it.  Have a [XXX] day. Your friend [XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Tesla Cybertruck owners report most",
+    "summary": "Across 157 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 46,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 3,
+        "sample": "While driving vehicle a prompt flashed on the screen saying “power reduced, steering performance reduced due to overheating”. Then the next screen said “critical steering issue detected pull over”.  Then I got a loss of system redundancy detected. This has happened twice in one w",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "46 reports (29%) · 1 fire · 2 crash · 4 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 34,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 3,
+        "sample": "Driving at Approximately 70miles an hour on a divided highway and the top right plastic trim between the back window and the steel side came loose and flew off into traffic behind me creating a road hazard for other motorists.  I drove back and picked up the shattered pieces off ",
+        "pct": 22,
+        "title": "Structure",
+        "blurb": "34 reports (22%) · 1 fire · 2 crash · 4 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 19,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "NHTSA has created a safety risk by forcing FSD to have extreme monitoring. While in FSD I have to go back to normal driving to change the station on the radio or look at my phone. This is something I do in my non fsd vehicles all the time. The reason for me purchasing FSD is to b",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "19 reports (12%) · 9 crash · 7 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Contacted Tesla on June 25th for their June 19th recall (24V-456 and 24V-457) and they responded that my truck isn't (yet) on their list of recalled cars even though it's been 6 days since the voluntary recall happened.  As Tesla has been the one to initiate the recall, I would h",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "16 reports (10%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello are you still in business or has Elon DOGED you already? No matter.... here's a CyberTruck in the junkyard. [XXX]  The wheels have gone all whompy. Don't suppose you are bothered about it.  Have a [XXX] day. Your friend [XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "14 reports (9%)"
+      }
+    ]
+  }
+}

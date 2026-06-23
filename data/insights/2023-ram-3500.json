@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:17.888Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Turn on left blinker and the high beams come on doesn’t matter if it’s daytime, night time, headlights on or off, truck running not running. Obviously you don’t want to high beam other drivers when passing on left or turning left.   Opened driver door and passenger rear window sh",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Despite having taken my 2023 Ram 3500 HD truck to the Ram dealer 3 times for the same recall, the issue still persists. The recall in question is B2A/NHTSA 23V-799 related to a malfunctioning SCCM that results in high beams activating with left turn signal activation. Also, left ",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine Lockup , towed 650 miles to dealer clsoer to my home and from same place where I bought the truck , said has Waranty, and stays there for almost 3 months , calling them every week and saying we are waiting for chrysler to send an engine and after receiving we will need a w",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ram Promaster 3500. The contact received notification of NHTSA Campaign Number: 25V720000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer exceeded a reasonable amount of time ",
+      "pct": 7
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Vehicle was manufactured from the factory with defective frame/left upper coil spring mount causing the coil spring to move off it's locking perch making the coil spring unsecured t",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ram 3500 owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Exterior Lighting (21% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Turn on left blinker and the high beams come on doesn’t matter if it’s daytime, night time, headlights on or off, truck running not running. Obviously you don’t want to high beam other drivers when passing on left or turning left.   Opened driver door and passenger rear window sh",
+        "pct": 21,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (21%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Despite having taken my 2023 Ram 3500 HD truck to the Ram dealer 3 times for the same recall, the issue still persists. The recall in question is B2A/NHTSA 23V-799 related to a malfunctioning SCCM that results in high beams activating with left turn signal activation. Also, left ",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine Lockup , towed 650 miles to dealer clsoer to my home and from same place where I bought the truck , said has Waranty, and stays there for almost 3 months , calling them every week and saying we are waiting for chrysler to send an engine and after receiving we will need a w",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ram Promaster 3500. The contact received notification of NHTSA Campaign Number: 25V720000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer exceeded a reasonable amount of time ",
+        "pct": 7,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Vehicle was manufactured from the factory with defective frame/left upper coil spring mount causing the coil spring to move off it's locking perch making the coil spring unsecured t",
+        "pct": 7,
+        "title": "Suspension",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

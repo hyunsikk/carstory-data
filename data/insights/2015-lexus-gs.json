@@ -1,0 +1,128 @@
+{
+  "slug": "2015-lexus-gs",
+  "make": "Lexus",
+  "model": "GS",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/LEXUS/GS#complaints",
+  "generatedAt": "2026-06-23T16:37:17.506Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car keeps pulling to the right at high speed, above 40 mph.   Car has been to alignment service and all tires inflated properly.  This happens on every trip.  Cannot diagnostic the root cause.  Suspecting the Steering Rack is the issue.",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Car parked in  driveway; started engine, shifted into gear, and before I even accelerated, the engine roared and the car lunged forward.  Lexus traveled approximmately 50 feet and crashed into the neighbor's concrete wall across the street.  I was injured (broken ribs, etc.) and ",
+      "pct": 33
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Car parked in  driveway; started engine, shifted into gear, and before I even accelerated, the engine roared and the car lunged forward.  Lexus traveled approximmately 50 feet and crashed into the neighbor's concrete wall across the street.  I was injured (broken ribs, etc.) and ",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Car parked in  driveway; started engine, shifted into gear, and before I even accelerated, the engine roared and the car lunged forward.  Lexus traveled approximmately 50 feet and crashed into the neighbor's concrete wall across the street.  I was injured (broken ribs, etc.) and ",
+      "pct": 33
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "You can feel the steering wheel stiffen and lock into place at highway speeds requiring some force to unbind it and turn.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Lexus Gs owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Steering (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car keeps pulling to the right at high speed, above 40 mph.   Car has been to alignment service and all tires inflated properly.  This happens on every trip.  Cannot diagnostic the root cause.  Suspecting the Steering Rack is the issue.",
+        "pct": 67,
+        "title": "Steering",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Car parked in  driveway; started engine, shifted into gear, and before I even accelerated, the engine roared and the car lunged forward.  Lexus traveled approximmately 50 feet and crashed into the neighbor's concrete wall across the street.  I was injured (broken ribs, etc.) and ",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Car parked in  driveway; started engine, shifted into gear, and before I even accelerated, the engine roared and the car lunged forward.  Lexus traveled approximmately 50 feet and crashed into the neighbor's concrete wall across the street.  I was injured (broken ribs, etc.) and ",
+        "pct": 33,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Car parked in  driveway; started engine, shifted into gear, and before I even accelerated, the engine roared and the car lunged forward.  Lexus traveled approximmately 50 feet and crashed into the neighbor's concrete wall across the street.  I was injured (broken ribs, etc.) and ",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "You can feel the steering wheel stiffen and lock into place at highway speeds requiring some force to unbind it and turn.",
+        "pct": 33,
+        "title": "Lane Departure",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

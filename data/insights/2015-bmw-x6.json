@@ -1,0 +1,128 @@
+{
+  "slug": "2015-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:19.970Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 BMW X6. WHILE DRIVING 60 MPH, THE VEHICLE JERKED, LOST POWER, AND THE DRIVE TRAIN MALFUNCTION WARNING INDICATOR ILLUMINATED. THE CONTACT VEERED TO THE SHOULDER OF THE ROAD AND MANAGED TO DRIVE AT LOW SPEEDS TO PARK AVE BMW (216 NJ-17, ROCHELLE PARK, NJ",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I WAS DRIVING HWY 80 THE TRACTION CONTROL MALFUNCTION LIGHT CAME ON AND IN A SPLIT SECOND I LOST CONTROL OF VEHICLE. I STARTED TO SKID TOWARD WALL DIVIDERS AND QUICKLY BRAKED. THEN THE BRAKES LOCKED UP CAUSING ME TO CRASH ON TO THE DIVIDED. THIS VEHICLE WAS PURCHASED WITH ANTI LO",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car goes into limp mode on highway. Shakes very bad and I lose power to my car speed going from 65-70mph to 30-40mph forcing the car trying to get to a safe area to see why my car suddenly lost power. After dodging all the close call accidents from me trying to pull over I come t",
+      "pct": 11
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car goes into limp mode on highway. Shakes very bad and I lose power to my car speed going from 65-70mph to 30-40mph forcing the car trying to get to a safe area to see why my car suddenly lost power. After dodging all the close call accidents from me trying to pull over I come t",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 BMW X6. The contact stated that while driving at various speeds, the vehicle inadvertently shifted into neutral with the check engine warning light illuminated. The vehicle was not diagnosed nor repaired. The contact referenced NHTSA Campaign Number: 18V75",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Bmw X6 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 BMW X6. WHILE DRIVING 60 MPH, THE VEHICLE JERKED, LOST POWER, AND THE DRIVE TRAIN MALFUNCTION WARNING INDICATOR ILLUMINATED. THE CONTACT VEERED TO THE SHOULDER OF THE ROAD AND MANAGED TO DRIVE AT LOW SPEEDS TO PARK AVE BMW (216 NJ-17, ROCHELLE PARK, NJ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "3 reports (33%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I WAS DRIVING HWY 80 THE TRACTION CONTROL MALFUNCTION LIGHT CAME ON AND IN A SPLIT SECOND I LOST CONTROL OF VEHICLE. I STARTED TO SKID TOWARD WALL DIVIDERS AND QUICKLY BRAKED. THEN THE BRAKES LOCKED UP CAUSING ME TO CRASH ON TO THE DIVIDED. THIS VEHICLE WAS PURCHASED WITH ANTI LO",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "2 reports (22%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car goes into limp mode on highway. Shakes very bad and I lose power to my car speed going from 65-70mph to 30-40mph forcing the car trying to get to a safe area to see why my car suddenly lost power. After dodging all the close call accidents from me trying to pull over I come t",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car goes into limp mode on highway. Shakes very bad and I lose power to my car speed going from 65-70mph to 30-40mph forcing the car trying to get to a safe area to see why my car suddenly lost power. After dodging all the close call accidents from me trying to pull over I come t",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 BMW X6. The contact stated that while driving at various speeds, the vehicle inadvertently shifted into neutral with the check engine warning light illuminated. The vehicle was not diagnosed nor repaired. The contact referenced NHTSA Campaign Number: 18V75",
+        "pct": 11,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

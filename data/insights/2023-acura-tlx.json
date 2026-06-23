@@ -1,0 +1,128 @@
+{
+  "slug": "2023-acura-tlx",
+  "make": "Acura",
+  "model": "TLX",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/ACURA/TLX#complaints",
+  "generatedAt": "2026-06-23T16:25:06.166Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My TLX Tech 2023 lost complete power while I pulled up to a busy intersection on a dark and rainy day. As a puled to stop and my idle stop enabled the car was fine. Once I tried to accelerate the car immediately went into Park from Drive. All of the controls started to blink and ",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had an awful noise that accompanied a sticky/ inconsistent brake pedal feel and braking concerns. Upon contacting multiple dealerships and honda corporate is was told everything is working as designed. I filed a claim with NCDS and was awarded a repair. When contacting the deal",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The AWD components fail and turns the car into front wheel drive only. Yes it’s available. This puts mine and others after at risk due to expecting the car to accelerate at a full stop instead, it causes me to slowly accelerate <5 mph until the system recognizes it’s in FWD only.",
+      "pct": 10
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "If you don't turn the car off and you drop a passenger off from the front seat the seatbelt not fastened alarm will go off until you fasten it or turn the car off then restart the car to clear the alarm taking it to the dealership.",
+      "pct": 10
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Please see attached document, as my whole description would not fit in the box.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Acura Tlx owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (20% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My TLX Tech 2023 lost complete power while I pulled up to a busy intersection on a dark and rainy day. As a puled to stop and my idle stop enabled the car was fine. Once I tried to accelerate the car immediately went into Park from Drive. All of the controls started to blink and ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had an awful noise that accompanied a sticky/ inconsistent brake pedal feel and braking concerns. Upon contacting multiple dealerships and honda corporate is was told everything is working as designed. I filed a claim with NCDS and was awarded a repair. When contacting the deal",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The AWD components fail and turns the car into front wheel drive only. Yes it’s available. This puts mine and others after at risk due to expecting the car to accelerate at a full stop instead, it causes me to slowly accelerate <5 mph until the system recognizes it’s in FWD only.",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "If you don't turn the car off and you drop a passenger off from the front seat the seatbelt not fastened alarm will go off until you fasten it or turn the car off then restart the car to clear the alarm taking it to the dealership.",
+        "pct": 10,
+        "title": "Seat Belts",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Please see attached document, as my whole description would not fit in the box.",
+        "pct": 10,
+        "title": "Suspension",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

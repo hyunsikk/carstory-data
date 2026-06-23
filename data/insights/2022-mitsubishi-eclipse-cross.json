@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mitsubishi-eclipse-cross",
+  "make": "Mitsubishi",
+  "model": "Eclipse Cross",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MITSUBISHI/ECLIPSE%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:38:49.092Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mitsubishi Eclipse Cross. The contact stated while driving 45 MPH and turning on the A/C, the vehicle made an abnormal loud sound and shut off inadvertently. The contact stated that upon restarting the vehicle with the A/C turned on, the failure reoccurred",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is times when driving that the transmission jerks  when I press the pedal, like the car is slipping  when acceleration. I have 76,600 miles on it.",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Wind blew the passenger side panels off my car while driving. It even took some of the clips from the car. Safe panels should be tested for extreme wind and should not have fallen off",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the vehicle has steered to the right since I purchased the car with under 20 miles. at 16504 while the car is in park and on there is this strong vibration throughout the whole vehicle.",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the vehicle has steered to the right since I purchased the car with under 20 miles. at 16504 while the car is in park and on there is this strong vibration throughout the whole vehicle.",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mitsubishi Eclipse Cross owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mitsubishi Eclipse Cross. The contact stated while driving 45 MPH and turning on the A/C, the vehicle made an abnormal loud sound and shut off inadvertently. The contact stated that upon restarting the vehicle with the A/C turned on, the failure reoccurred",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is times when driving that the transmission jerks  when I press the pedal, like the car is slipping  when acceleration. I have 76,600 miles on it.",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Wind blew the passenger side panels off my car while driving. It even took some of the clips from the car. Safe panels should be tested for extreme wind and should not have fallen off",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the vehicle has steered to the right since I purchased the car with under 20 miles. at 16504 while the car is in park and on there is this strong vibration throughout the whole vehicle.",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the vehicle has steered to the right since I purchased the car with under 20 miles. at 16504 while the car is in park and on there is this strong vibration throughout the whole vehicle.",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

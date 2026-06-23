@@ -1,0 +1,40 @@
+{
+  "slug": "2022-hyundai-nexo",
+  "make": "Hyundai",
+  "model": "Nexo",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/NEXO#complaints",
+  "generatedAt": "2026-06-23T16:33:42.193Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Thermally Activated Pressure Relief Device (TPRD) - Fire Concern",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Hyundai Nexo owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Thermally Activated Pressure Relief Device (TPRD) - Fire Concern",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

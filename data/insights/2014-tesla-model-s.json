@@ -1,0 +1,128 @@
+{
+  "slug": "2014-tesla-model-s",
+  "make": "Tesla",
+  "model": "Model S",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/TESLA/MODEL%20S#complaints",
+  "generatedAt": "2026-06-23T16:41:03.947Z",
+  "total": 364,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 132,
+      "crash": 2,
+      "fire": 5,
+      "injuries": 2,
+      "deaths": 2,
+      "sample": "P85D LOST POWER ON ROAD, \"PULL OVER SAFELY\".  WITH TESLA'S LATEST FIRMWARE UPDAT E0.167 PUSHED OTU UNTESTED TO ALL P85D CARS, THE CAR LOSES ALL POWER SUDDENLY WHEN DRIVING. IT LEAVES THE DRIVERS STRANDED IN THE MIDDLE OF ROADS DANGEROUSLY.   TESLA IS NOT ISSUING A RECALL, AND IS ",
+      "pct": 36
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 90,
+      "crash": 29,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 5,
+      "sample": "THIS CAR IS UP FOR SALE AS A TOTAL WRITE OFF SALVAGE.  HTTPS://WWW.EASYEXPORT.US/VEHICLE-FINDER/LOT-14402615/2014-TESLA-TESLA-CERTIFICATE-OF-DESTRUCTION-FL-WEST-PALM-BEACH    FROM THE PHOTOGRAPHS IT APPEARS THAT THE CAUSE OF THE DAMAGE IS THAT THE REAR SUSPENSION HAS SHEARED OFF ",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 27,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "P85D LOST POWER ON ROAD, \"PULL OVER SAFELY\".  WITH TESLA'S LATEST FIRMWARE UPDAT E0.167 PUSHED OTU UNTESTED TO ALL P85D CARS, THE CAR LOSES ALL POWER SUDDENLY WHEN DRIVING. IT LEAVES THE DRIVERS STRANDED IN THE MIDDLE OF ROADS DANGEROUSLY.   TESLA IS NOT ISSUING A RECALL, AND IS ",
+      "pct": 7
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 27,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TESLA MODEL S DO NOT CONFORM TO LIGHTING STANDARD 108. THE MODEL S DO NOT HAVE A YELLOW REFLEX REFLECTOR LOCATED ON THE FRONT OF THE VEHICLE VISIBLE FROM THE SIDE. NATL HIGHWAY TRAFFIC SAFETY ADMIN., DOT  571.108, NT.TABLE IAREQUIRED LAMPS AND REFLECTIVE DEVICES PAGE 476. HTTP://",
+      "pct": 7
+    },
+    {
+      "component": "STEERING",
+      "count": 27,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 4,
+      "sample": "TESLA'S RECENT OVER THE AIR SOFTWARE UPDATES HAS CHANGED THE STEERING PERFORMANCE AT HIGHWAY SPEEDS. NOW THE STEERING IS LESS RESPONSIVE. IT IS HARDER TO STEER TO COMPENSATE FOR WIND AND ROAD CONDITIONS. IT'S HARDER TO CONTROL AND STAY IN A LANE IN LESS-THAN-PERFECT CONDITIONS.  ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Tesla Model S owners report most",
+    "summary": "Across 364 owner complaints to NHTSA, the most reported area is Electrical System (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 132,
+        "crash": 2,
+        "fire": 5,
+        "injuries": 2,
+        "deaths": 2,
+        "sample": "P85D LOST POWER ON ROAD, \"PULL OVER SAFELY\".  WITH TESLA'S LATEST FIRMWARE UPDAT E0.167 PUSHED OTU UNTESTED TO ALL P85D CARS, THE CAR LOSES ALL POWER SUDDENLY WHEN DRIVING. IT LEAVES THE DRIVERS STRANDED IN THE MIDDLE OF ROADS DANGEROUSLY.   TESLA IS NOT ISSUING A RECALL, AND IS ",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "132 reports (36%) · 5 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 90,
+        "crash": 29,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 5,
+        "sample": "THIS CAR IS UP FOR SALE AS A TOTAL WRITE OFF SALVAGE.  HTTPS://WWW.EASYEXPORT.US/VEHICLE-FINDER/LOT-14402615/2014-TESLA-TESLA-CERTIFICATE-OF-DESTRUCTION-FL-WEST-PALM-BEACH    FROM THE PHOTOGRAPHS IT APPEARS THAT THE CAUSE OF THE DAMAGE IS THAT THE REAR SUSPENSION HAS SHEARED OFF ",
+        "pct": 25,
+        "title": "Suspension",
+        "blurb": "90 reports (25%) · 1 fire · 29 crash · 6 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 27,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "P85D LOST POWER ON ROAD, \"PULL OVER SAFELY\".  WITH TESLA'S LATEST FIRMWARE UPDAT E0.167 PUSHED OTU UNTESTED TO ALL P85D CARS, THE CAR LOSES ALL POWER SUDDENLY WHEN DRIVING. IT LEAVES THE DRIVERS STRANDED IN THE MIDDLE OF ROADS DANGEROUSLY.   TESLA IS NOT ISSUING A RECALL, AND IS ",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "27 reports (7%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 27,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TESLA MODEL S DO NOT CONFORM TO LIGHTING STANDARD 108. THE MODEL S DO NOT HAVE A YELLOW REFLEX REFLECTOR LOCATED ON THE FRONT OF THE VEHICLE VISIBLE FROM THE SIDE. NATL HIGHWAY TRAFFIC SAFETY ADMIN., DOT  571.108, NT.TABLE IAREQUIRED LAMPS AND REFLECTIVE DEVICES PAGE 476. HTTP://",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "27 reports (7%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 27,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 4,
+        "sample": "TESLA'S RECENT OVER THE AIR SOFTWARE UPDATES HAS CHANGED THE STEERING PERFORMANCE AT HIGHWAY SPEEDS. NOW THE STEERING IS LESS RESPONSIVE. IT IS HARDER TO STEER TO COMPENSATE FOR WIND AND ROAD CONDITIONS. IT'S HARDER TO CONTROL AND STAY IN A LANE IN LESS-THAN-PERFECT CONDITIONS.  ",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "27 reports (7%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

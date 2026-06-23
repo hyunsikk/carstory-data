@@ -1,0 +1,62 @@
+{
+  "slug": "2017-audi-s6",
+  "make": "Audi",
+  "model": "S6",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/S6#complaints",
+  "generatedAt": "2026-06-23T16:43:09.672Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OEM TURBOS FAIL ON AUDI 2013-2017 S6/S7/S8/RS6/RS7 DUE TO OIL STARVATION CAUSED BY CLOGGED OEM OIL STRAINER.  THIS IS A SAFETY ISSUE AS THE FAILURE HAPPENS WITHOUT WARNING AND AS IT GENERALLY HAPPENS WHILE WHILE DRIVING THE SUDDEN LOSS OF POWER COULD LEAD TO A SERIOUS ACCIDENT. T",
+      "pct": 80
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TURBO POWER FEELS TO HAVE GRADUALLY DECLINED UPON APPROACHING 50K MILES. IT IS CAUSED BY CLOGGED TURBO OIL SCREENS. $3000+ REPAIR WITH NO HELP FROM AUDI BRAND AND DEALER FOR A WIDELY KNOWN ISSUE.  ADDITIONALLY THE O2 SENSORS HAVE RANDOMLY THROW ERROR FOR RUNNING LEAN. REPLACED O2",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi S6 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (80% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OEM TURBOS FAIL ON AUDI 2013-2017 S6/S7/S8/RS6/RS7 DUE TO OIL STARVATION CAUSED BY CLOGGED OEM OIL STRAINER.  THIS IS A SAFETY ISSUE AS THE FAILURE HAPPENS WITHOUT WARNING AND AS IT GENERALLY HAPPENS WHILE WHILE DRIVING THE SUDDEN LOSS OF POWER COULD LEAD TO A SERIOUS ACCIDENT. T",
+        "pct": 80,
+        "title": "Engine",
+        "blurb": "4 reports (80%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TURBO POWER FEELS TO HAVE GRADUALLY DECLINED UPON APPROACHING 50K MILES. IT IS CAUSED BY CLOGGED TURBO OIL SCREENS. $3000+ REPAIR WITH NO HELP FROM AUDI BRAND AND DEALER FOR A WIDELY KNOWN ISSUE.  ADDITIONALLY THE O2 SENSORS HAVE RANDOMLY THROW ERROR FOR RUNNING LEAN. REPLACED O2",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-nissan-rogue",
+  "make": "Nissan",
+  "model": "Rogue",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/ROGUE#complaints",
+  "generatedAt": "2026-06-23T16:39:37.489Z",
+  "total": 635,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 245,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Nissan Rogue. The contact stated there was an abnormal fuel odor inside and outside the vehicle. Upon inspecting the vehicle, the contact found no visible leaks coming from the vehicle. The vehicle was then taken to the dealer where the mechanic also could",
+      "pct": 39
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 109,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Nissan Rogue. The contact stated while driving 35 MPH, the vehicle independently decelerated. The contact stated that there was traffic behind, and the vehicle decelerated to 10 MPH. The contact stated that drivers were honking their horns for her to speed",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 93,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "When driving vehicle cabin will fill with a fuel odor which can make you nauseous. In order to prevent the vents need to be on recirculat which in turn fog up all the windows in the winter time. Also when vehicle is parked in garage it fills the garage with an extremely strong fu",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 54,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Nissan Rogue. The contact stated upon starting the vehicle while it was parked, the vehicle rolled back and struck the side of an unoccupied vehicle, causing the vehicle to strike another unoccupied vehicle. There were no injuries sustained. There was no p",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 49,
+      "crash": 9,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "We were in an accident that has caused injury to the driver (fiancé) and passenger (myself). The impact was on the front driver side. No airbags deployed. No emergency braking activated or collision warning appeared. The cruise control was on, that also activates all sensors.  We",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Rogue owners report most",
+    "summary": "Across 635 owner complaints to NHTSA, the most reported area is Engine (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 245,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Nissan Rogue. The contact stated there was an abnormal fuel odor inside and outside the vehicle. Upon inspecting the vehicle, the contact found no visible leaks coming from the vehicle. The vehicle was then taken to the dealer where the mechanic also could",
+        "pct": 39,
+        "title": "Engine",
+        "blurb": "245 reports (39%) · 4 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 109,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Nissan Rogue. The contact stated while driving 35 MPH, the vehicle independently decelerated. The contact stated that there was traffic behind, and the vehicle decelerated to 10 MPH. The contact stated that drivers were honking their horns for her to speed",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "109 reports (17%) · 2 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 93,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "When driving vehicle cabin will fill with a fuel odor which can make you nauseous. In order to prevent the vents need to be on recirculat which in turn fog up all the windows in the winter time. Also when vehicle is parked in garage it fills the garage with an extremely strong fu",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "93 reports (15%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 54,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Nissan Rogue. The contact stated upon starting the vehicle while it was parked, the vehicle rolled back and struck the side of an unoccupied vehicle, causing the vehicle to strike another unoccupied vehicle. There were no injuries sustained. There was no p",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "54 reports (9%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 49,
+        "crash": 9,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "We were in an accident that has caused injury to the driver (fiancé) and passenger (myself). The impact was on the front driver side. No airbags deployed. No emergency braking activated or collision warning appeared. The cruise control was on, that also activates all sensors.  We",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "49 reports (8%) · 1 fire · 9 crash · 6 injured"
+      }
+    ]
+  }
+}

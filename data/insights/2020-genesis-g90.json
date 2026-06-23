@@ -1,0 +1,62 @@
+{
+  "slug": "2020-genesis-g90",
+  "make": "Genesis",
+  "model": "G90",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/GENESIS/G90#complaints",
+  "generatedAt": "2026-06-23T16:31:03.456Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ONE NIGHT SHORTLY AFTER I PICKED UP MY 2020 GENESIS G90, I WAS DRIVING HOME ON A CITY STREET WHEN I NOTICED SOMETHING WRONG WITH MY HEADLIGHTS.  AS I WAS DRIVING I WAS TRYING TO FIGURE OUT WHAT WAS WRONG WITH THEM.  I KEPT THINKING THAT THERE WAS AN OBSTRUCTION ON THE HEADLIGHTS ",
+      "pct": 50
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONTINENTAL CONTRIPROCONTACT TIRES ON MY 2020 GENESIS G90 HAVE A CONSTANT VIBRATION.  IT FEELS LIKE YOU ARE DRIVING OVER RUMBLE STRIPS. ON 2/12/2020 (1 WEEK AFTER PURCHASE), CALLED THE DEALER TO REPORT THE PROBLEM.  THE DEALER SAID THEY TALKED TO GENESIS AND GENESIS SAID THEY",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Genesis G90 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Exterior Lighting (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ONE NIGHT SHORTLY AFTER I PICKED UP MY 2020 GENESIS G90, I WAS DRIVING HOME ON A CITY STREET WHEN I NOTICED SOMETHING WRONG WITH MY HEADLIGHTS.  AS I WAS DRIVING I WAS TRYING TO FIGURE OUT WHAT WAS WRONG WITH THEM.  I KEPT THINKING THAT THERE WAS AN OBSTRUCTION ON THE HEADLIGHTS ",
+        "pct": 50,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (50%) · 1 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONTINENTAL CONTRIPROCONTACT TIRES ON MY 2020 GENESIS G90 HAVE A CONSTANT VIBRATION.  IT FEELS LIKE YOU ARE DRIVING OVER RUMBLE STRIPS. ON 2/12/2020 (1 WEEK AFTER PURCHASE), CALLED THE DEALER TO REPORT THE PROBLEM.  THE DEALER SAID THEY TALKED TO GENESIS AND GENESIS SAID THEY",
+        "pct": 50,
+        "title": "Wheels",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

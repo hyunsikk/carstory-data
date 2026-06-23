@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FORD/EDGE#complaints",
+  "generatedAt": "2026-06-23T16:29:43.636Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2023 Ford Edge. After a rainstorm, the contact discovered water accumulation in the footwell of the front driver’s side of the vehicle. The vehicle was taken to the dealer where parts of the interior of the vehicle were removed to dry out the interior of the ",
+      "pct": 39
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ford Edge. The contact stated while parking and turning the engine off, the vehicle lunged forward after depressing the brake pedal. The failure had also occurred in reverse while reversing into a parking space, turning the vehicle off, and depressing the ",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact rented a 2023 Ford Edge. The contact stated that on several occasions while driving at various speeds, the brake warning light illuminated, and the vehicle stalled. Additionally, the contact stated that the steering wheel became firm. The vehicle was able to restart a",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2023 Ford Edge. After a rainstorm, the contact discovered water accumulation in the footwell of the front driver’s side of the vehicle. The vehicle was taken to the dealer where parts of the interior of the vehicle were removed to dry out the interior of the ",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ford Edge. The contact stated while parking and turning the engine off, the vehicle lunged forward after depressing the brake pedal. The failure had also occurred in reverse while reversing into a parking space, turning the vehicle off, and depressing the ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ford Edge owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Electrical System (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2023 Ford Edge. After a rainstorm, the contact discovered water accumulation in the footwell of the front driver’s side of the vehicle. The vehicle was taken to the dealer where parts of the interior of the vehicle were removed to dry out the interior of the ",
+        "pct": 39,
+        "title": "Electrical System",
+        "blurb": "7 reports (39%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ford Edge. The contact stated while parking and turning the engine off, the vehicle lunged forward after depressing the brake pedal. The failure had also occurred in reverse while reversing into a parking space, turning the vehicle off, and depressing the ",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "3 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact rented a 2023 Ford Edge. The contact stated that on several occasions while driving at various speeds, the brake warning light illuminated, and the vehicle stalled. Additionally, the contact stated that the steering wheel became firm. The vehicle was able to restart a",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "3 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2023 Ford Edge. After a rainstorm, the contact discovered water accumulation in the footwell of the front driver’s side of the vehicle. The vehicle was taken to the dealer where parts of the interior of the vehicle were removed to dry out the interior of the ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ford Edge. The contact stated while parking and turning the engine off, the vehicle lunged forward after depressing the brake pedal. The failure had also occurred in reverse while reversing into a parking space, turning the vehicle off, and depressing the ",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (11%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

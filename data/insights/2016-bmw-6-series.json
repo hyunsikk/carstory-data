@@ -1,0 +1,62 @@
+{
+  "slug": "2016-bmw-6-series",
+  "make": "BMW",
+  "model": "6 Series",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/6%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:50.227Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The dashboard has pulled away from the windshield and is rippling. If it continues it will obstruct my view.  I think it would affect the airbags as well. I've seen another 640 with this same problem at the store. I am available for inspection, I also attached BMWs invoice to sho",
+      "pct": 100
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The dashboard has pulled away from the windshield and is rippling. If it continues it will obstruct my view.  I think it would affect the airbags as well. I've seen another 640 with this same problem at the store. I am available for inspection, I also attached BMWs invoice to sho",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw 6 Series owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Structure (100% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The dashboard has pulled away from the windshield and is rippling. If it continues it will obstruct my view.  I think it would affect the airbags as well. I've seen another 640 with this same problem at the store. I am available for inspection, I also attached BMWs invoice to sho",
+        "pct": 100,
+        "title": "Structure",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The dashboard has pulled away from the windshield and is rippling. If it continues it will obstruct my view.  I think it would affect the airbags as well. I've seen another 640 with this same problem at the store. I am available for inspection, I also attached BMWs invoice to sho",
+        "pct": 100,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

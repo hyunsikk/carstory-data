@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-corolla",
+  "make": "Toyota",
+  "model": "Corolla",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/COROLLA#complaints",
+  "generatedAt": "2026-06-23T16:41:19.436Z",
+  "total": 58,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "On 11/29/23 after 11:30pm, I was in the process of clearing an exit and at the tail end of the exit it felt like the car was \"correcting\" itself and I was unable to stay turning right. The steering wheel felt locked and I was unable to control the car. The car impacted the guardr",
+      "pct": 22
+    },
+    {
+      "component": "STEERING",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 11/29/23 after 11:30pm, I was in the process of clearing an exit and at the tail end of the exit it felt like the car was \"correcting\" itself and I was unable to stay turning right. The steering wheel felt locked and I was unable to control the car. The car impacted the guardr",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "The system that is problematic for this vehicle is the Pre Collision System (PCS). This system is way too sensitive even on the lowest sensitivity setting, and I have experienced the car braking in error on multiple occasions when driving up or down a windy road. When I approach ",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "Experiencing a high-pitched whining/ringing sound from the air conditioning system. It is highly distracting and irritating, and basically prevents the use of some fan speed settings for extended durations due to the pain it causes. Many other Corolla owners are experiencing the ",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Toyota Corolla. The contact stated that while driving at undisclosed speeds and decelerating, the vehicle was jerking abnormally. There were no warning lights illuminated. The vehicle was taken to the dealer however, the dealer was unable to determine the ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Corolla owners report most",
+    "summary": "Across 58 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "On 11/29/23 after 11:30pm, I was in the process of clearing an exit and at the tail end of the exit it felt like the car was \"correcting\" itself and I was unable to stay turning right. The steering wheel felt locked and I was unable to control the car. The car impacted the guardr",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (22%) · 5 crash · 6 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 11/29/23 after 11:30pm, I was in the process of clearing an exit and at the tail end of the exit it felt like the car was \"correcting\" itself and I was unable to stay turning right. The steering wheel felt locked and I was unable to control the car. The car impacted the guardr",
+        "pct": 19,
+        "title": "Steering",
+        "blurb": "11 reports (19%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "The system that is problematic for this vehicle is the Pre Collision System (PCS). This system is way too sensitive even on the lowest sensitivity setting, and I have experienced the car braking in error on multiple occasions when driving up or down a windy road. When I approach ",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "10 reports (17%) · 3 crash · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "Experiencing a high-pitched whining/ringing sound from the air conditioning system. It is highly distracting and irritating, and basically prevents the use of some fan speed settings for extended durations due to the pain it causes. Many other Corolla owners are experiencing the ",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "7 reports (12%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Toyota Corolla. The contact stated that while driving at undisclosed speeds and decelerating, the vehicle was jerking abnormally. There were no warning lights illuminated. The vehicle was taken to the dealer however, the dealer was unable to determine the ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "7 reports (12%) · 1 injured"
+      }
+    ]
+  }
+}

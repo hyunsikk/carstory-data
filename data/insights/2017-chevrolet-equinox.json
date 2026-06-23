@@ -1,0 +1,128 @@
+{
+  "slug": "2017-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-06-23T16:28:22.319Z",
+  "total": 270,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 178,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "DRIVING ON HIGHWAY, MY CAR MAKE A LOUD BANG, IT SAID TRANSMISSION OVERHEATING IDLE ENGINE, ENGINE OVERHEATING, IDLE ENGINE, SERVICE STABILITRACK, SERVICE ANTI LOCK BREAKING SYSTEM, SERVICE POWER STEERING SYSTEM, MY ENGINE LIGHT WAS FLASHING, I WENT TO EXIT THE HIGHWAY TO THE OFF ",
+      "pct": 66
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 32,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET EQUINOX. WHILE DRIVING HIGH SPEEDS, THE VEHICLE SHOOK VIOLENTLY WITHOUT WARNING. THE VEHICLE WAS TAKEN TO KRISTAL AUTO MALL (5200 KINGS HWY, BROOKLYN, NY 11234), BUT THE FAILURE COULD NOT BE DIAGNOSED OR DUPLICATED. THE MANUFACTURER WAS NOTIF",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 20,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT'S SON OWNS A 2017 CHEVROLET EQUINOX. THE CONTACT STATED THAT WHEN THE OIL WARNING GAUGE DECREASED TO ONE PERCENT, THERE WAS A FUEL ODOR IN THE VEHICLE. THE CONTACT NOTIFIED THE DEALER (HUFFINES CHEVROLET PLANO, 1001 COIT ROAD, PLANO, TX), BUT NO LEAKS WERE FOUND. ",
+      "pct": 7
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 19,
+      "crash": 14,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "I WAS TRAVELING AT APPROXIMATELY 60MPH ON A HIGHWAY.  THE VEHICLES IN THE LANE NEXT TO ME WERE STOPPED FOR AN OBSTRUCTION.  A VEHICLE FROM THAT LANE TRAVELED INTO MY LANE RIGHT IN FRONT OF ME.  I COLLIDED WITH THE VEHICLE - I ESTIMATE THE COLLISION TO HAVE OCCURRED AT 30-40MPH.  ",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2017 CHEVROLET EQUINOX. WHILE WAITING AT A RED LIGHT, A FIRE STARTED UNDER THE DASHBOARD. THE CONTACT EXITED THE VEHICLE BEFORE IT BECAME ENGULFED IN FLAMES. THE POLICE DEPARTMENT WAS NOT PRESENT. THE FIRE WAS EXTINGUISHED BY THE FIRE DEPARTMENT. THE VEHIC",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Chevrolet Equinox owners report most",
+    "summary": "Across 270 owner complaints to NHTSA, the most reported area is Engine (66% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 178,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "DRIVING ON HIGHWAY, MY CAR MAKE A LOUD BANG, IT SAID TRANSMISSION OVERHEATING IDLE ENGINE, ENGINE OVERHEATING, IDLE ENGINE, SERVICE STABILITRACK, SERVICE ANTI LOCK BREAKING SYSTEM, SERVICE POWER STEERING SYSTEM, MY ENGINE LIGHT WAS FLASHING, I WENT TO EXIT THE HIGHWAY TO THE OFF ",
+        "pct": 66,
+        "title": "Engine",
+        "blurb": "178 reports (66%) · 3 fire · 1 crash · 5 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 32,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET EQUINOX. WHILE DRIVING HIGH SPEEDS, THE VEHICLE SHOOK VIOLENTLY WITHOUT WARNING. THE VEHICLE WAS TAKEN TO KRISTAL AUTO MALL (5200 KINGS HWY, BROOKLYN, NY 11234), BUT THE FAILURE COULD NOT BE DIAGNOSED OR DUPLICATED. THE MANUFACTURER WAS NOTIF",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "32 reports (12%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 20,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT'S SON OWNS A 2017 CHEVROLET EQUINOX. THE CONTACT STATED THAT WHEN THE OIL WARNING GAUGE DECREASED TO ONE PERCENT, THERE WAS A FUEL ODOR IN THE VEHICLE. THE CONTACT NOTIFIED THE DEALER (HUFFINES CHEVROLET PLANO, 1001 COIT ROAD, PLANO, TX), BUT NO LEAKS WERE FOUND. ",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "20 reports (7%) · 2 fire · 1 crash · 5 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 19,
+        "crash": 14,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "I WAS TRAVELING AT APPROXIMATELY 60MPH ON A HIGHWAY.  THE VEHICLES IN THE LANE NEXT TO ME WERE STOPPED FOR AN OBSTRUCTION.  A VEHICLE FROM THAT LANE TRAVELED INTO MY LANE RIGHT IN FRONT OF ME.  I COLLIDED WITH THE VEHICLE - I ESTIMATE THE COLLISION TO HAVE OCCURRED AT 30-40MPH.  ",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "19 reports (7%) · 14 crash · 8 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2017 CHEVROLET EQUINOX. WHILE WAITING AT A RED LIGHT, A FIRE STARTED UNDER THE DASHBOARD. THE CONTACT EXITED THE VEHICLE BEFORE IT BECAME ENGULFED IN FLAMES. THE POLICE DEPARTMENT WAS NOT PRESENT. THE FIRE WAS EXTINGUISHED BY THE FIRE DEPARTMENT. THE VEHIC",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "17 reports (6%) · 2 fire"
+      }
+    ]
+  }
+}

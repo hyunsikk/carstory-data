@@ -1,0 +1,128 @@
+{
+  "slug": "2019-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-06-23T16:30:00.965Z",
+  "total": 439,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 195,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY WIFE AND I WERE MAKING A LEFT TURN AT AN INTERSECTION WHEN THE VEHICLE STALLED IN THE INTERSECTION WHILE MAKING THE TURN. AN ALERT APPEARED ON THE DASHBOARD \"ANTI-COLLISION ALERT\" FLASHED ON THE DASH AND DISAPPEARED. THEN ANOTHER MESSAGE APPEARED \"DRIVE MODE NOT AVAILABLE\".  A",
+      "pct": 44
+    },
+    {
+      "component": "ENGINE",
+      "count": 104,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FOLLOWED SEMI INTO DEALER SERVICE PARKING LOT.  SEMI TURNED LEFT SO MOVED FORWARD TO JOIN LINE OF CARS INTO SERVICE BAY. WHILE COMING TO STOP, SEMI ON LEFT BACKED UP AND COMING RIGHT FOR ME.  AT MY STOPPING, AUTO ENGINE SHUT OFF TURNED OFF ENGINE AS WAS TRYING TO SHIFT TO REVERSE",
+      "pct": 24
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 67,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 16,
+      "deaths": 0,
+      "sample": "The ecoboost 3.5 engine has a common issue with the cam phasers. My vehicle has had oil changes done, every 9,000 miles and now needs the cam phasers to be replaces. It has 83,000 miles. I believe this is a known defect that Ford is trying to remedy with customer satisfaction cam",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Expedition. The contact stated when she started the vehicle, she would hear rattling sound coming from the vehicle. The contact stated she had the Customer Satisfaction Program: 21B10-S2 service performed. The vehicle was taken to the dealer and the c",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "CAUGHT FIRE AFTER USING FACTORY INSTALLED REMOTE STARTER. A FEW DAYS PRIOR TO THE FIRE, THE CRUISE CONTROL STOPPED WORKING, AFTER THE CRUISE CONTROL STOPPED WORKING, WE RECEIVED TWO WARNING LIGHTS ON THE DASH DISPLAY, SERVICE ADVANCE TRAC AND HILL DECENT CONTROL FAULT. I TOOK PHO",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Ford Expedition owners report most",
+    "summary": "Across 439 owner complaints to NHTSA, the most reported area is Power Train (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 195,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY WIFE AND I WERE MAKING A LEFT TURN AT AN INTERSECTION WHEN THE VEHICLE STALLED IN THE INTERSECTION WHILE MAKING THE TURN. AN ALERT APPEARED ON THE DASHBOARD \"ANTI-COLLISION ALERT\" FLASHED ON THE DASH AND DISAPPEARED. THEN ANOTHER MESSAGE APPEARED \"DRIVE MODE NOT AVAILABLE\".  A",
+        "pct": 44,
+        "title": "Power Train",
+        "blurb": "195 reports (44%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 104,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FOLLOWED SEMI INTO DEALER SERVICE PARKING LOT.  SEMI TURNED LEFT SO MOVED FORWARD TO JOIN LINE OF CARS INTO SERVICE BAY. WHILE COMING TO STOP, SEMI ON LEFT BACKED UP AND COMING RIGHT FOR ME.  AT MY STOPPING, AUTO ENGINE SHUT OFF TURNED OFF ENGINE AS WAS TRYING TO SHIFT TO REVERSE",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "104 reports (24%) · 1 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 67,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 16,
+        "deaths": 0,
+        "sample": "The ecoboost 3.5 engine has a common issue with the cam phasers. My vehicle has had oil changes done, every 9,000 miles and now needs the cam phasers to be replaces. It has 83,000 miles. I believe this is a known defect that Ford is trying to remedy with customer satisfaction cam",
+        "pct": 15,
+        "title": "Seat Belts",
+        "blurb": "67 reports (15%) · 2 fire · 1 crash · 16 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Expedition. The contact stated when she started the vehicle, she would hear rattling sound coming from the vehicle. The contact stated she had the Customer Satisfaction Program: 21B10-S2 service performed. The vehicle was taken to the dealer and the c",
+        "pct": 7,
+        "title": "Engine And Engine Cooling",
+        "blurb": "30 reports (7%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "CAUGHT FIRE AFTER USING FACTORY INSTALLED REMOTE STARTER. A FEW DAYS PRIOR TO THE FIRE, THE CRUISE CONTROL STOPPED WORKING, AFTER THE CRUISE CONTROL STOPPED WORKING, WE RECEIVED TWO WARNING LIGHTS ON THE DASH DISPLAY, SERVICE ADVANCE TRAC AND HILL DECENT CONTROL FAULT. I TOOK PHO",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "17 reports (4%) · 1 fire · 2 injured"
+      }
+    ]
+  }
+}

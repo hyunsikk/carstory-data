@@ -1,0 +1,128 @@
+{
+  "slug": "2023-vinfast-vf-8",
+  "make": "VinFast",
+  "model": "VF 8",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VINFAST/VF%208#complaints",
+  "generatedAt": "2026-06-23T16:46:10.331Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "LANE DEPARTURE",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Major Issues: Vehicle unresponsiveness: Twice in 4 days, the car was unresponsive, requiring a family member to stay in rain and cold weather (very dangerous) and wait for the car to restart(extremely dangerous). Unintended rolling: Once, the car started rolling back when parked ",
+      "pct": 44
+    },
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 4,
+      "sample": "The contact owned a 2023 VINFAST VF 8. The contact stated that while driving at unknown speeds, the steering wheel automatically maneuvered to the right direction, however, the contact was able to regain control of the steering wheel and maneuvered into the correct lane. The cont",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Lane keep assist feature is on by default and will try correct the steering even when it is going in straight line but one of the lane in road is missing or not vissible. This could be mainly in intersections.   I also had an issue where steering wheel adjustment is not working d",
+      "pct": 26
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Major Issues: Vehicle unresponsiveness: Twice in 4 days, the car was unresponsive, requiring a family member to stay in rain and cold weather (very dangerous) and wait for the car to restart(extremely dangerous). Unintended rolling: Once, the car started rolling back when parked ",
+      "pct": 26
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Major Issues: Vehicle unresponsiveness: Twice in 4 days, the car was unresponsive, requiring a family member to stay in rain and cold weather (very dangerous) and wait for the car to restart(extremely dangerous). Unintended rolling: Once, the car started rolling back when parked ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Vinfast Vf 8 owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Lane Departure (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "LANE DEPARTURE",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Major Issues: Vehicle unresponsiveness: Twice in 4 days, the car was unresponsive, requiring a family member to stay in rain and cold weather (very dangerous) and wait for the car to restart(extremely dangerous). Unintended rolling: Once, the car started rolling back when parked ",
+        "pct": 44,
+        "title": "Lane Departure",
+        "blurb": "17 reports (44%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 4,
+        "sample": "The contact owned a 2023 VINFAST VF 8. The contact stated that while driving at unknown speeds, the steering wheel automatically maneuvered to the right direction, however, the contact was able to regain control of the steering wheel and maneuvered into the correct lane. The cont",
+        "pct": 31,
+        "title": "Steering",
+        "blurb": "12 reports (31%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Lane keep assist feature is on by default and will try correct the steering even when it is going in straight line but one of the lane in road is missing or not vissible. This could be mainly in intersections.   I also had an issue where steering wheel adjustment is not working d",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "10 reports (26%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Major Issues: Vehicle unresponsiveness: Twice in 4 days, the car was unresponsive, requiring a family member to stay in rain and cold weather (very dangerous) and wait for the car to restart(extremely dangerous). Unintended rolling: Once, the car started rolling back when parked ",
+        "pct": 26,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (26%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Major Issues: Vehicle unresponsiveness: Twice in 4 days, the car was unresponsive, requiring a family member to stay in rain and cold weather (very dangerous) and wait for the car to restart(extremely dangerous). Unintended rolling: Once, the car started rolling back when parked ",
+        "pct": 10,
+        "title": "Suspension",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

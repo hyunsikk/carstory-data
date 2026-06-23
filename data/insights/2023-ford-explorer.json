@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-06-23T16:30:10.003Z",
+  "total": 97,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ford Explorer. The contact stated there was an unknown part loosened at the front of the vehicle. While driving at unknown speeds, there was an abnormal rattling noise detected from the strut that had become louder over time. There were no warning lights i",
+      "pct": 12
+    },
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I rented a 2023 Ford Explorer. I had many issues with the added safety features while renting it, ultimately resulting in an accident. Firstly, the lane keeping assist did not function properly. In construction zones, back roads, and during rainy weather, the vehicle would jerk v",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Every time i was traveling in sport mode, shifting was delayed & was very rough transition to next gear. Car was not accelerating or decelerating properly. Burning smell came from the engine. Car’s electrical momentarily went haywire. Wrench light came on. This happened within 18",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transmission was very difficult time trying to figure out how to start shifting gears, and when it did I felt very hard shifting. The engine revved up, struggled to rev up when accelerating, held gears, chugged, slipped, it felt extremely lazy, and hard shift. The RPMs were f",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "For a week before 3/19/24, the driver door made increasing crunching noises when opened and closed. On 3/20/24 the driver door would not open and was subsequently left at Dean Sellers Ford for diagnosis and repair. The dealer relayed that there was a repair advisory on this issue",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ford Explorer owners report most",
+    "summary": "Across 97 owner complaints to NHTSA, the most reported area is Suspension (12% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ford Explorer. The contact stated there was an unknown part loosened at the front of the vehicle. While driving at unknown speeds, there was an abnormal rattling noise detected from the strut that had become louder over time. There were no warning lights i",
+        "pct": 12,
+        "title": "Suspension",
+        "blurb": "12 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I rented a 2023 Ford Explorer. I had many issues with the added safety features while renting it, ultimately resulting in an accident. Firstly, the lane keeping assist did not function properly. In construction zones, back roads, and during rainy weather, the vehicle would jerk v",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "12 reports (12%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Every time i was traveling in sport mode, shifting was delayed & was very rough transition to next gear. Car was not accelerating or decelerating properly. Burning smell came from the engine. Car’s electrical momentarily went haywire. Wrench light came on. This happened within 18",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "11 reports (11%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transmission was very difficult time trying to figure out how to start shifting gears, and when it did I felt very hard shifting. The engine revved up, struggled to rev up when accelerating, held gears, chugged, slipped, it felt extremely lazy, and hard shift. The RPMs were f",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "10 reports (10%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "For a week before 3/19/24, the driver door made increasing crunching noises when opened and closed. On 3/20/24 the driver door would not open and was subsequently left at Dean Sellers Ford for diagnosis and repair. The dealer relayed that there was a repair advisory on this issue",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "9 reports (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ford-maverick",
+  "make": "Ford",
+  "model": "Maverick",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FORD/MAVERICK#complaints",
+  "generatedAt": "2026-06-23T16:30:43.854Z",
+  "total": 265,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 94,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The truck shudders when turning off the ICE and switching to electric. It has progressively gotten worse since around 5000 miles. Group research on online forums suggests this is the damper on the flywheel. Because it's progressively getting worse, even at 8000 miles, I am concer",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 77,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Driving 55-60mph, engine dies, power steering is lost, no throttle response,  brake system failure messages every 500-1000ft of driving at any speeds.  Battery terminal melted, wiring harness needs to be replaced to junction box with upgraded part.   Model : 2023 Lariat Maverick ",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 70,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ford Maverick. The contact stated while driving 80 MPH, the transmission inadvertently shifted into neutral(N) and the vehicle lost motive power. Additionally, the instrument panel lights flickered. The contact related the failure to NHTSA Campaign Number:",
+      "pct": 26
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The brakes sporatically cause you to jerk to a stop when you are all almost completely stop (under 5MPH).  This is a dangerous issue when in heavy commuter traffic as the following vehicle may not be prepared for what is a complete emergency stop while other traffic continues to ",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This morning I was driving to work (65mph cruise control, 45 degrees F outside, heated seats ON), out of nowhere I felt myself slowing down right after I went over a railroad track (pretty decent bump) on the highway. As I was slowing down I noticed that my cruise control had tur",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ford Maverick owners report most",
+    "summary": "Across 265 owner complaints to NHTSA, the most reported area is Power Train (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 94,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The truck shudders when turning off the ICE and switching to electric. It has progressively gotten worse since around 5000 miles. Group research on online forums suggests this is the damper on the flywheel. Because it's progressively getting worse, even at 8000 miles, I am concer",
+        "pct": 35,
+        "title": "Power Train",
+        "blurb": "94 reports (35%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 77,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Driving 55-60mph, engine dies, power steering is lost, no throttle response,  brake system failure messages every 500-1000ft of driving at any speeds.  Battery terminal melted, wiring harness needs to be replaced to junction box with upgraded part.   Model : 2023 Lariat Maverick ",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "77 reports (29%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 70,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ford Maverick. The contact stated while driving 80 MPH, the transmission inadvertently shifted into neutral(N) and the vehicle lost motive power. Additionally, the instrument panel lights flickered. The contact related the failure to NHTSA Campaign Number:",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "70 reports (26%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The brakes sporatically cause you to jerk to a stop when you are all almost completely stop (under 5MPH).  This is a dangerous issue when in heavy commuter traffic as the following vehicle may not be prepared for what is a complete emergency stop while other traffic continues to ",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "31 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This morning I was driving to work (65mph cruise control, 45 degrees F outside, heated seats ON), out of nowhere I felt myself slowing down right after I went over a railroad track (pretty decent bump) on the highway. As I was slowing down I noticed that my cruise control had tur",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "28 reports (11%)"
+      }
+    ]
+  }
+}

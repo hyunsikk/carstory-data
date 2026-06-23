@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-wrx",
+  "make": "Subaru",
+  "model": "WRX",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/WRX#complaints",
+  "generatedAt": "2026-06-23T16:40:55.348Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subaru's negligence strikes again with the SAME problem their other cars have had in previous years. The RTV silicone,  a substance utilized to seal various components in the engine block was excessively applied in surplus. Therefore, this RTV ends up clogging essential component",
+      "pct": 63
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car has some type of black silicone inside oil pan. Inside upper pan as well. Also has clogged a screen that oil passed through. I have seen many people online do this pan drop time and time again and still having big chunks blocking its path to engine. I’m afraid of oil deprivat",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Subaru WRX. The contact stated that while his wife was driving at 35 MPH, the vehicle was involved in a front-end collision; however, the air bags did not deploy. The contact stated that there were no illuminating lights. The contact stated that his wife s",
+      "pct": 8
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Infotaiment system goes to a blank screen periodicaly. Sound frm radio works but screen is balnk, no way to reset. Wifi updates are up to date. Whenthis happens it disables the eye sight camera causes a safety concern with automatic branking/collision. When the car sits overnight",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Infotaiment system goes to a blank screen periodicaly. Sound frm radio works but screen is balnk, no way to reset. Wifi updates are up to date. Whenthis happens it disables the eye sight camera causes a safety concern with automatic branking/collision. When the car sits overnight",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Subaru Wrx owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Engine (63% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subaru's negligence strikes again with the SAME problem their other cars have had in previous years. The RTV silicone,  a substance utilized to seal various components in the engine block was excessively applied in surplus. Therefore, this RTV ends up clogging essential component",
+        "pct": 63,
+        "title": "Engine",
+        "blurb": "15 reports (63%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car has some type of black silicone inside oil pan. Inside upper pan as well. Also has clogged a screen that oil passed through. I have seen many people online do this pan drop time and time again and still having big chunks blocking its path to engine. I’m afraid of oil deprivat",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Subaru WRX. The contact stated that while his wife was driving at 35 MPH, the vehicle was involved in a front-end collision; however, the air bags did not deploy. The contact stated that there were no illuminating lights. The contact stated that his wife s",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "2 reports (8%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Infotaiment system goes to a blank screen periodicaly. Sound frm radio works but screen is balnk, no way to reset. Wifi updates are up to date. Whenthis happens it disables the eye sight camera causes a safety concern with automatic branking/collision. When the car sits overnight",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Infotaiment system goes to a blank screen periodicaly. Sound frm radio works but screen is balnk, no way to reset. Wifi updates are up to date. Whenthis happens it disables the eye sight camera causes a safety concern with automatic branking/collision. When the car sits overnight",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

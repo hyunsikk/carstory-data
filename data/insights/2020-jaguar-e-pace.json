@@ -1,0 +1,62 @@
+{
+  "slug": "2020-jaguar-e-pace",
+  "make": "Jaguar",
+  "model": "E-PACE",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/JAGUAR/E-PACE#complaints",
+  "generatedAt": "2026-06-23T16:35:05.957Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine coolant light is on consistently. I had to start taking pictures.  I was told by a service advisor that a recall was just done on the E-Pace. Yet I have never received any documentation at all. This issue has been going on since 2020.  The car cabin has filled with fum",
+      "pct": 100
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine coolant light is on consistently. I had to start taking pictures.  I was told by a service advisor that a recall was just done on the E-Pace. Yet I have never received any documentation at all. This issue has been going on since 2020.  The car cabin has filled with fum",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Jaguar E-Pace owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine coolant light is on consistently. I had to start taking pictures.  I was told by a service advisor that a recall was just done on the E-Pace. Yet I have never received any documentation at all. This issue has been going on since 2020.  The car cabin has filled with fum",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "3 reports (100%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine coolant light is on consistently. I had to start taking pictures.  I was told by a service advisor that a recall was just done on the E-Pace. Yet I have never received any documentation at all. This issue has been going on since 2020.  The car cabin has filled with fum",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

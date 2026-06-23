@@ -1,0 +1,128 @@
+{
+  "slug": "2015-jeep-wrangler",
+  "make": "Jeep",
+  "model": "Wrangler",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/JEEP/WRANGLER#complaints",
+  "generatedAt": "2026-06-23T16:36:14.020Z",
+  "total": 448,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 123,
+      "crash": 1,
+      "fire": 16,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CHECK ENGINE LIGHT FLASHES WHEN GOING UPHILL. DEALER CLAIMS TO BE UNABLE TO READ THE CODE IF ENGINE LIGHT DOES NOT STAY ON. HAS BEEN IN FOR SERVICE 4 TIMES FOR SAME ISSUE. ONCE, DEALER REPLACED A SINGLE ENGINE COIL AFTER READING A P300 MISFIRE CODE. ENGINE LOSES POWER AND FREEWAY",
+      "pct": 27
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 112,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING 55 MILES AN HOUR, THE ABS LIGHT ON THE DASH CAME ON AND THE CAR LIGHT WITH THE SWERVING LINES BEHIND IT ON THE DASH, MY BRAKES LOCKED UP ALMOST CAUSING ME TO CRASH, FINALLY GOT IT ON SIDE OF THE ROAD, RESTARTED IT AND THE LIGHTS ARE STILL LIT UP AND BRAKES STILL ",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 74,
+      "crash": 1,
+      "fire": 10,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON A FOUR LANE HIGHWAY AROUND 2PM. I HAD BEEN DRIVING FOR A SOLID HOUR ON THE SAME HIGHWAY WHEN MY JEEP SUDDENLY ACCELERATED.  THE GAS PEDAL PROCEEDED TO THE FLOOR EVEN WHILE I TAPPED AND PRESSED PUMPING MY BRAKES. I RECALL AN INITIAL ODD FEELING UNDERFOOT PRIOR TO THE CL",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 71,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 JEEP WRANGLER. WHILE THE CONTACT'S VEHICLE WAS STATIONARY, IT WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS DID NOT DEPLOY. THE CONTACT STATED THAT THE DRIVER'S SEAT BELT TENSIONER DID NOT RETRACT, WHICH CAUSED THE CONTACT'S HEAD TO HIT THE WINDSHIEL",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 48,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 JEEP WRANGLER. THE CONTACT DISCOVERED THAT THE DRIVESHAFT WAS EXTREMELY CORRODED AND THAT THE ENTIRE FRAME OF THE VEHICLE, INCLUDING THE NUTS AND BOLTS WERE CORRODED AS WELL. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND STATED THAT THE UNDERCARRI",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Jeep Wrangler owners report most",
+    "summary": "Across 448 owner complaints to NHTSA, the most reported area is Engine (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 123,
+        "crash": 1,
+        "fire": 16,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CHECK ENGINE LIGHT FLASHES WHEN GOING UPHILL. DEALER CLAIMS TO BE UNABLE TO READ THE CODE IF ENGINE LIGHT DOES NOT STAY ON. HAS BEEN IN FOR SERVICE 4 TIMES FOR SAME ISSUE. ONCE, DEALER REPLACED A SINGLE ENGINE COIL AFTER READING A P300 MISFIRE CODE. ENGINE LOSES POWER AND FREEWAY",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "123 reports (27%) · 16 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 112,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING 55 MILES AN HOUR, THE ABS LIGHT ON THE DASH CAME ON AND THE CAR LIGHT WITH THE SWERVING LINES BEHIND IT ON THE DASH, MY BRAKES LOCKED UP ALMOST CAUSING ME TO CRASH, FINALLY GOT IT ON SIDE OF THE ROAD, RESTARTED IT AND THE LIGHTS ARE STILL LIT UP AND BRAKES STILL ",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "112 reports (25%) · 2 fire · 3 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 74,
+        "crash": 1,
+        "fire": 10,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON A FOUR LANE HIGHWAY AROUND 2PM. I HAD BEEN DRIVING FOR A SOLID HOUR ON THE SAME HIGHWAY WHEN MY JEEP SUDDENLY ACCELERATED.  THE GAS PEDAL PROCEEDED TO THE FLOOR EVEN WHILE I TAPPED AND PRESSED PUMPING MY BRAKES. I RECALL AN INITIAL ODD FEELING UNDERFOOT PRIOR TO THE CL",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "74 reports (17%) · 10 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 71,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 JEEP WRANGLER. WHILE THE CONTACT'S VEHICLE WAS STATIONARY, IT WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS DID NOT DEPLOY. THE CONTACT STATED THAT THE DRIVER'S SEAT BELT TENSIONER DID NOT RETRACT, WHICH CAUSED THE CONTACT'S HEAD TO HIT THE WINDSHIEL",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "71 reports (16%) · 10 crash · 11 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 48,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 JEEP WRANGLER. THE CONTACT DISCOVERED THAT THE DRIVESHAFT WAS EXTREMELY CORRODED AND THAT THE ENTIRE FRAME OF THE VEHICLE, INCLUDING THE NUTS AND BOLTS WERE CORRODED AS WELL. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND STATED THAT THE UNDERCARRI",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "48 reports (11%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

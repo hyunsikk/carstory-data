@@ -1,0 +1,128 @@
+{
+  "slug": "2014-dodge-journey",
+  "make": "Dodge",
+  "model": "Journey",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/DODGE/JOURNEY#complaints",
+  "generatedAt": "2026-06-23T16:29:36.060Z",
+  "total": 408,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 104,
+      "crash": 4,
+      "fire": 5,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "THE VEHICLE WILL FAIL TO START INITIALLY.  AFTER SEVERAL ATTEMPTS THE VEHICLE WILL START AND THE CHECK ENGINE LIGHT WILL APPEAR.  ALSO SOMETIMES WHILE DRIVING THE VEHICLE WILL CUT OUT AND THE DASH WILL GO BLANK AND HAVE ALL OF THE WARNING LIGHTS ILLUMINATED, I.E. ABS, AIRBAGS, ES",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 97,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL*  THE CONTACT OWNED A 2014 DODGE JOURNEY. THE CONTACT STATED THAT THE VEHICLE STALLED INTERMITTENTLY ON SEVERAL OCCASIONS. THE CONTACT STATED THAT AFTER WAITING A BRIEF MOMENT, THE VEHICLE WAS ABLE TO BE RESTARTED AND RESUMED NORMAL FUNCTIONED.  THE VEHICLE WAS TAKEN TO THE DE",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 89,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "I WAS DRIVING WITH MY GIRLFRIEND.  WE JUST GOT OVER THE TOP OF A HILL AND GOING DOWN HILL AT ABOUT 35 TO 40 MPH.  THE VEHICLE SHUT OFF.  NO POWER STEERING AND NO BRAKES.  STOPPED 5 FEET FROM A TELEPHONE POLE.  VEHICLE WAS TOWED TO LICCARDI DODGE.  THEY DID NOT FIND ANYTHING WRONG",
+      "pct": 22
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 46,
+      "crash": 16,
+      "fire": 0,
+      "injuries": 22,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 DODGE JOURNEY. THE CONTACT STATED THAT WHILE TRAVELING 40 MPH, ANOTHER VEHICLE CRASHED INTO THE CONTACT'S DRIVER FRONT SIDE. UPON IMPACT, THE AIR BAGS FAILED TO DEPLOY. THE CONTACT SUSTAINED BACK AND KNEE INJURIES. THE VEHICLE WAS NOT DIAGNOSED OR REPA",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 41,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "ON THURSDAY, JULY 3, 2014, I WAS LEAVING THE CITY DRIVING MY NEW 2014 DODGE JOURNEY. AFTER DRIVING FOR ONE MINUTE THE ESC DISPLAY APPEARED AND THE CAR IMMEDIATELY DECELERATED TO THE POINT OF ALMOST CUTTING OFF IN THE MIDDLE OF THE STREET. THIS OCCURRED IN THE MIDDLE OF RUSH HOUR ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Dodge Journey owners report most",
+    "summary": "Across 408 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 104,
+        "crash": 4,
+        "fire": 5,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "THE VEHICLE WILL FAIL TO START INITIALLY.  AFTER SEVERAL ATTEMPTS THE VEHICLE WILL START AND THE CHECK ENGINE LIGHT WILL APPEAR.  ALSO SOMETIMES WHILE DRIVING THE VEHICLE WILL CUT OUT AND THE DASH WILL GO BLANK AND HAVE ALL OF THE WARNING LIGHTS ILLUMINATED, I.E. ABS, AIRBAGS, ES",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "104 reports (25%) · 5 fire · 4 crash · 8 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 97,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL*  THE CONTACT OWNED A 2014 DODGE JOURNEY. THE CONTACT STATED THAT THE VEHICLE STALLED INTERMITTENTLY ON SEVERAL OCCASIONS. THE CONTACT STATED THAT AFTER WAITING A BRIEF MOMENT, THE VEHICLE WAS ABLE TO BE RESTARTED AND RESUMED NORMAL FUNCTIONED.  THE VEHICLE WAS TAKEN TO THE DE",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "97 reports (24%) · 3 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 89,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "I WAS DRIVING WITH MY GIRLFRIEND.  WE JUST GOT OVER THE TOP OF A HILL AND GOING DOWN HILL AT ABOUT 35 TO 40 MPH.  THE VEHICLE SHUT OFF.  NO POWER STEERING AND NO BRAKES.  STOPPED 5 FEET FROM A TELEPHONE POLE.  VEHICLE WAS TOWED TO LICCARDI DODGE.  THEY DID NOT FIND ANYTHING WRONG",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "89 reports (22%) · 9 crash · 8 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 46,
+        "crash": 16,
+        "fire": 0,
+        "injuries": 22,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 DODGE JOURNEY. THE CONTACT STATED THAT WHILE TRAVELING 40 MPH, ANOTHER VEHICLE CRASHED INTO THE CONTACT'S DRIVER FRONT SIDE. UPON IMPACT, THE AIR BAGS FAILED TO DEPLOY. THE CONTACT SUSTAINED BACK AND KNEE INJURIES. THE VEHICLE WAS NOT DIAGNOSED OR REPA",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "46 reports (11%) · 16 crash · 22 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 41,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "ON THURSDAY, JULY 3, 2014, I WAS LEAVING THE CITY DRIVING MY NEW 2014 DODGE JOURNEY. AFTER DRIVING FOR ONE MINUTE THE ESC DISPLAY APPEARED AND THE CAR IMMEDIATELY DECELERATED TO THE POINT OF ALMOST CUTTING OFF IN THE MIDDLE OF THE STREET. THIS OCCURRED IN THE MIDDLE OF RUSH HOUR ",
+        "pct": 10,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "41 reports (10%) · 3 crash · 5 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-toyota-86",
+  "make": "Toyota",
+  "model": "86",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/TOYOTA/86#complaints",
+  "generatedAt": "2026-06-23T16:41:12.341Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Toyota 86. The contact stated while driving 30 MPH with her grandson inside the vehicle, the contact heard a tapping sound coming from engine and the vehicle lost motive power. The contact was able to pull over to the right side of the road while awaiting ",
+      "pct": 30
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TOYOTA KNOWINGLY & WILLFULLY HAS MANUFACTURED AND SOLD DEFECTIVE VEHICLES TO CONSUMERS WITH A KNOWN SAFETY RISK DEFECTIVE FUEL PUMP MAKING THE VEHICLES UNSAFE TO DRIVE, HAVE NOT NOTIFIED CONSUMERS OF THIS MAJOR SAFETY RISK, HAVE NOT COMPENSATED OWNERS FOR THE LACK OF USE & THE DE",
+      "pct": 20
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Right and left strut mounts struts are making noise popping noise when turning the wheel also transmission is very hot in cabin. Back up camera blanks out on hot says",
+      "pct": 10
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Right and left strut mounts struts are making noise popping noise when turning the wheel also transmission is very hot in cabin. Back up camera blanks out on hot says",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My SRS warning light keeps coming on every time I Start my vehicle. THE WARNING LIGHT ON MY DASH BORD IT READS CHECK  SRS AIR BAG SYSTEM.IT HAS BEEN DOING THIS FOR AT LAST 4 WEEKS IT WON'T GO AWAY REGARDLESS.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Toyota 86 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Engine (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Toyota 86. The contact stated while driving 30 MPH with her grandson inside the vehicle, the contact heard a tapping sound coming from engine and the vehicle lost motive power. The contact was able to pull over to the right side of the road while awaiting ",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "3 reports (30%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TOYOTA KNOWINGLY & WILLFULLY HAS MANUFACTURED AND SOLD DEFECTIVE VEHICLES TO CONSUMERS WITH A KNOWN SAFETY RISK DEFECTIVE FUEL PUMP MAKING THE VEHICLES UNSAFE TO DRIVE, HAVE NOT NOTIFIED CONSUMERS OF THIS MAJOR SAFETY RISK, HAVE NOT COMPENSATED OWNERS FOR THE LACK OF USE & THE DE",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (20%) · 1 fire"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Right and left strut mounts struts are making noise popping noise when turning the wheel also transmission is very hot in cabin. Back up camera blanks out on hot says",
+        "pct": 10,
+        "title": "Suspension",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Right and left strut mounts struts are making noise popping noise when turning the wheel also transmission is very hot in cabin. Back up camera blanks out on hot says",
+        "pct": 10,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My SRS warning light keeps coming on every time I Start my vehicle. THE WARNING LIGHT ON MY DASH BORD IT READS CHECK  SRS AIR BAG SYSTEM.IT HAS BEEN DOING THIS FOR AT LAST 4 WEEKS IT WON'T GO AWAY REGARDLESS.",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

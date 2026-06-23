@@ -1,0 +1,128 @@
+{
+  "slug": "2023-lincoln-corsair",
+  "make": "Lincoln",
+  "model": "Corsair",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LINCOLN/CORSAIR#complaints",
+  "generatedAt": "2026-06-23T16:37:41.091Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased car in early January 2024 and on February 18th the vehicle wouldn't start.  Got the vehicle to start after jumping it and drove straight to the dealership to have it checked / repaired.  The car has been in the dealership service bay ever since.  I worked with dealershi",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was getting back into the car, shut the door (at a normal level) and heard a loud bang coming from above me then heard the glass falling onto the cover. Got out and realized it was a spontaneous rupture of the sun roof.",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "* The rear differential failed/broke 12 hours into a 13 hour trip.  There have been recalls for this issue for previous years but not for 2023 models (yet) * This happened on the interstate and we could have been seriously injured or killed with the sudden loss of function if thi",
+      "pct": 8
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Seems to be an electrical problem with the car.  i have had it in for repairs 5xs now cant seem to fix it or cant find the problem.  The entire ADAS system fails at different points. Sometimes i get warnings.  One time entire car went black while driving on highway.  Lincoln clai",
+      "pct": 8
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since leasing the vehicle in February 2024, I have experienced persistent failures in the collision prevention system and other critical safety features. Despite multiple service visits, the issue remains unresolved, with Lincoln attributing the problem to a system update that ha",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Lincoln Corsair owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased car in early January 2024 and on February 18th the vehicle wouldn't start.  Got the vehicle to start after jumping it and drove straight to the dealership to have it checked / repaired.  The car has been in the dealership service bay ever since.  I worked with dealershi",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "6 reports (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was getting back into the car, shut the door (at a normal level) and heard a loud bang coming from above me then heard the glass falling onto the cover. Got out and realized it was a spontaneous rupture of the sun roof.",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "* The rear differential failed/broke 12 hours into a 13 hour trip.  There have been recalls for this issue for previous years but not for 2023 models (yet) * This happened on the interstate and we could have been seriously injured or killed with the sudden loss of function if thi",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Seems to be an electrical problem with the car.  i have had it in for repairs 5xs now cant seem to fix it or cant find the problem.  The entire ADAS system fails at different points. Sometimes i get warnings.  One time entire car went black while driving on highway.  Lincoln clai",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since leasing the vehicle in February 2024, I have experienced persistent failures in the collision prevention system and other critical safety features. Despite multiple service visits, the issue remains unresolved, with Lincoln attributing the problem to a system update that ha",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

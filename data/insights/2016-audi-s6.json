@@ -1,0 +1,128 @@
+{
+  "slug": "2016-audi-s6",
+  "make": "Audi",
+  "model": "S6",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/S6#complaints",
+  "generatedAt": "2026-06-23T16:43:09.701Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TURBOCHARGER(S) FAILURE DUE TO OIL FILTER SCREEN CLOGGING WITH CONTAMINANTS AT 47000 MILES CAUSING TURBOCHARGER BEARING FAILURE DESTROYING THE TURBINE AND COMPRESSOR WHEELS ALONG WITH COMPRESSOR HOUSING AND EXHAUST MANIFOLDS. POSSIBLE ENGINE DAMAGE.     THE VEHICLE OPERATED WHILE",
+      "pct": 68
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE IS SOMETHING WRONG WITH THE WAY THE S6 DOWNSHIFTS WHICH MAKES DRIVING UNSAFE.  A DOWNSHIFT IS FOLLOWED BY ABOUT 1 SECOND OF THE TRANSMISSION NOT BEING ENGAGED (SO NO POWER TO THE WHEELS) AND THEN SUDDENLY THE TRANSMISSION ENGAGED AND THE CAR VIOLENTLY THRUSTS FORWARD. THE I",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS WAS A LOW MILEAGE (9K) LESS THAN 1 YEAR OLD PRISTINE CONDITION AUDI S6.  THE VEHICLE WAS DRIVEN APPROXIMATELY 10 MILES AND THEN PARKED IN A DRIVEWAY WHERE IT WAS TURNED OFF.  THE DRIVER SAT IN THE VEHICLE FOR 5 MINUTES WITH THE ENGINE OFF PRIOR TO EXITING THE VEHICLE.  BETWE",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front passenger-side 6-piston Brembo caliper's (Part No. 20.A989.63) external steel crossover tube failed due to corrosion, specifically where the tubing was covered by a protective rubber sleeve, which trapped moisture and road salt. This led to a catastrophic loss of brake ",
+      "pct": 5
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subject: Formal Complaint Regarding Defective Arnott Front Air Strut  To Whom It May Concern,  I am writing to formally report a significant safety concern regarding a defective Arnott FL front air strut purchased via RockAuto for my 2016 Audi S6 (VIN: [XXX] ).  The air strut fai",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi S6 owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Engine (68% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TURBOCHARGER(S) FAILURE DUE TO OIL FILTER SCREEN CLOGGING WITH CONTAMINANTS AT 47000 MILES CAUSING TURBOCHARGER BEARING FAILURE DESTROYING THE TURBINE AND COMPRESSOR WHEELS ALONG WITH COMPRESSOR HOUSING AND EXHAUST MANIFOLDS. POSSIBLE ENGINE DAMAGE.     THE VEHICLE OPERATED WHILE",
+        "pct": 68,
+        "title": "Engine",
+        "blurb": "13 reports (68%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE IS SOMETHING WRONG WITH THE WAY THE S6 DOWNSHIFTS WHICH MAKES DRIVING UNSAFE.  A DOWNSHIFT IS FOLLOWED BY ABOUT 1 SECOND OF THE TRANSMISSION NOT BEING ENGAGED (SO NO POWER TO THE WHEELS) AND THEN SUDDENLY THE TRANSMISSION ENGAGED AND THE CAR VIOLENTLY THRUSTS FORWARD. THE I",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS WAS A LOW MILEAGE (9K) LESS THAN 1 YEAR OLD PRISTINE CONDITION AUDI S6.  THE VEHICLE WAS DRIVEN APPROXIMATELY 10 MILES AND THEN PARKED IN A DRIVEWAY WHERE IT WAS TURNED OFF.  THE DRIVER SAT IN THE VEHICLE FOR 5 MINUTES WITH THE ENGINE OFF PRIOR TO EXITING THE VEHICLE.  BETWE",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "2 reports (11%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front passenger-side 6-piston Brembo caliper's (Part No. 20.A989.63) external steel crossover tube failed due to corrosion, specifically where the tubing was covered by a protective rubber sleeve, which trapped moisture and road salt. This led to a catastrophic loss of brake ",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subject: Formal Complaint Regarding Defective Arnott Front Air Strut  To Whom It May Concern,  I am writing to formally report a significant safety concern regarding a defective Arnott FL front air strut purchased via RockAuto for my 2016 Audi S6 (VIN: [XXX] ).  The air strut fai",
+        "pct": 5,
+        "title": "Suspension",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

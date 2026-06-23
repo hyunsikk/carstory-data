@@ -1,0 +1,106 @@
+{
+  "slug": "2017-audi-q3",
+  "make": "Audi",
+  "model": "Q3",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/Q3#complaints",
+  "generatedAt": "2026-06-23T16:25:47.526Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I lost control over all the functions on my steering wheel, including the horn and the drivers air bag.   My mechanic told me, that I needed a new \"Clockspring\".  He called Audi to order the part but Audi confirmed that the part is on back order since last May and that they have ",
+      "pct": 29
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Local state inspection/repair shop found both front coil springs broken. Car has approximately 60,000 miles. Cost to repair $1600.00.",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "pistons and/or piston rings cause excessive oil consumption, which can lead to the engine catching on fire. This triggers certain sensors in the car \"EPC\" \"Check engine\"  and \"Turn vehicle off now due to low oil pressure\"  These sensors turn off and on, which is highly risky.   I",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "No steering when car is being driven.",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi Q3 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Air Bags (29% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I lost control over all the functions on my steering wheel, including the horn and the drivers air bag.   My mechanic told me, that I needed a new \"Clockspring\".  He called Audi to order the part but Audi confirmed that the part is on back order since last May and that they have ",
+        "pct": 29,
+        "title": "Air Bags",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Local state inspection/repair shop found both front coil springs broken. Car has approximately 60,000 miles. Cost to repair $1600.00.",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "pistons and/or piston rings cause excessive oil consumption, which can lead to the engine catching on fire. This triggers certain sensors in the car \"EPC\" \"Check engine\"  and \"Turn vehicle off now due to low oil pressure\"  These sensors turn off and on, which is highly risky.   I",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "No steering when car is being driven.",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

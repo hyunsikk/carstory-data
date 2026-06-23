@@ -1,0 +1,40 @@
+{
+  "slug": "2024-audi-a3",
+  "make": "Audi",
+  "model": "A3",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/A3#complaints",
+  "generatedAt": "2026-06-23T16:25:11.484Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "If the car is not driven for 20 minutes per day and the car sits for any length of time the check engine light comes on. The dealership advises it is the 12v battery is run down. According the Audi USA and the service order that the car is operating as designed.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi A3 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "If the car is not driven for 20 minutes per day and the car sits for any length of time the check engine light comes on. The dealership advises it is the 12v battery is run down. According the Audi USA and the service order that the car is operating as designed.",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2014-nissan-quest",
+  "make": "Nissan",
+  "model": "Quest",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/NISSAN/QUEST#complaints",
+  "generatedAt": "2026-06-23T16:45:38.256Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CVT TRANSMISSION GAVE OUT AT 64K MILES POWER TRAIN WARRANTY ONLY GOOD THRU 5/YEAR 69K MILES DEALER REFUSING TO FIX/PAY FOR REPAIR EVEN THOUGH THERE ARE SEVERAL INSTANCES WHEEE THEY HAVE EXTENDED THE WARRANTY TO 10/YEAR 139K MILES ENGINE LIGHT STARTED TO FLICKER AT ABOUT 57K MILES",
+      "pct": 39
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE FOLLOWING HAS HAPPENED 5 TIMES.  EVERYTHING ON THE VEHICLE POWERS OFF, WITHOUT WARNING ~ STEERING, LIGHT,S BRAKES, ETC.  THE VEHICLE SLOWLY STOPS AND NOTHING CAN BE DONE.  (IMMEDIATELY PRIOR, THE FUEL GAUGE SHOWS 1/4 A TANK AND THE TRIP COMPUTER SHOWS 60 MILES LEFT ON THE CUR",
+      "pct": 28
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ELECTRONIC SIDE DOORS DO NOT ADEQUATELY STOP AND RETREAT WHEN A PERSON IS PRESENT IN THE OPENING.  DOORS CONTINUE TO EXERT ENOUGH FORCE TO MOVE A FULL GROWN MAN ONE TO TWO STEPS SIDEWAYS.  WOULD LIKELY CAUSE SIGNIFICANT INJURY TO A YOUNG CHILD.  *TR",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Nissan Quest. The contact stated that while at a red light, once the light turned green, the contact had to depress the accelerator pedal several times, and 5 seconds afterward,s the vehicle accelerated. No warning lights were illuminated; however, the \"Lo",
+      "pct": 6
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Nissan Quest. The contact stated that while at a red light, once the light turned green, the contact had to depress the accelerator pedal several times, and 5 seconds afterward,s the vehicle accelerated. No warning lights were illuminated; however, the \"Lo",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Nissan Quest owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Power Train (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CVT TRANSMISSION GAVE OUT AT 64K MILES POWER TRAIN WARRANTY ONLY GOOD THRU 5/YEAR 69K MILES DEALER REFUSING TO FIX/PAY FOR REPAIR EVEN THOUGH THERE ARE SEVERAL INSTANCES WHEEE THEY HAVE EXTENDED THE WARRANTY TO 10/YEAR 139K MILES ENGINE LIGHT STARTED TO FLICKER AT ABOUT 57K MILES",
+        "pct": 39,
+        "title": "Power Train",
+        "blurb": "7 reports (39%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE FOLLOWING HAS HAPPENED 5 TIMES.  EVERYTHING ON THE VEHICLE POWERS OFF, WITHOUT WARNING ~ STEERING, LIGHT,S BRAKES, ETC.  THE VEHICLE SLOWLY STOPS AND NOTHING CAN BE DONE.  (IMMEDIATELY PRIOR, THE FUEL GAUGE SHOWS 1/4 A TANK AND THE TRIP COMPUTER SHOWS 60 MILES LEFT ON THE CUR",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "5 reports (28%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ELECTRONIC SIDE DOORS DO NOT ADEQUATELY STOP AND RETREAT WHEN A PERSON IS PRESENT IN THE OPENING.  DOORS CONTINUE TO EXERT ENOUGH FORCE TO MOVE A FULL GROWN MAN ONE TO TWO STEPS SIDEWAYS.  WOULD LIKELY CAUSE SIGNIFICANT INJURY TO A YOUNG CHILD.  *TR",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Nissan Quest. The contact stated that while at a red light, once the light turned green, the contact had to depress the accelerator pedal several times, and 5 seconds afterward,s the vehicle accelerated. No warning lights were illuminated; however, the \"Lo",
+        "pct": 6,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Nissan Quest. The contact stated that while at a red light, once the light turned green, the contact had to depress the accelerator pedal several times, and 5 seconds afterward,s the vehicle accelerated. No warning lights were illuminated; however, the \"Lo",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

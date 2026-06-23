@@ -1,0 +1,128 @@
+{
+  "slug": "2021-genesis-gv80",
+  "make": "Genesis",
+  "model": "GV80",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GENESIS/GV80#complaints",
+  "generatedAt": "2026-06-23T16:31:11.242Z",
+  "total": 54,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The infotainment system on my GV80 works for 5 minutes and shuts down. The lane change warning light and front collision warning goes on and off while driving. the back-up camera and warning stopped working. When you park the vehicle, it takes at least it takes 10 minutes to comp",
+      "pct": 22
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Left LED Headlamps & intergral camera sensor assembly has failed due to moisture penetration behind the lenses. In addition to no left headlamps or left front turn signal, we have lost the emergency braking, forward collision warning, the lane departure warning and the lane keepi",
+      "pct": 22
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "PURCHASED BRAND NEW AND WITHIN 1,000 MILES THE CHECK ENGINE LIGHT ILLUMINATED WHILE DRIVING.  TOOK TO DEALER AND THEY DETERMINED IT WAS DUE TO DEFECTIVE FUEL INJECTOR SYSTEM.  BACKORDER ON PARTS, SO THE CARE HAS BEEN IN THE SHOP FOR AS LONG AS WE HAVE OWNED IT.  WONDER IF SIMILAR",
+      "pct": 19
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The infotainment system on my GV80 works for 5 minutes and shuts down. The lane change warning light and front collision warning goes on and off while driving. the back-up camera and warning stopped working. When you park the vehicle, it takes at least it takes 10 minutes to comp",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Genesis GV80. The contact stated while driving 35 mph, the check engine warning light illuminated. The vehicle was taken to the dealer where it was diagnosed however, the mechanic was unable to duplicate the failure. The technician disengaged the check eng",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Genesis Gv80 owners report most",
+    "summary": "Across 54 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The infotainment system on my GV80 works for 5 minutes and shuts down. The lane change warning light and front collision warning goes on and off while driving. the back-up camera and warning stopped working. When you park the vehicle, it takes at least it takes 10 minutes to comp",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "12 reports (22%) · 1 fire"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Left LED Headlamps & intergral camera sensor assembly has failed due to moisture penetration behind the lenses. In addition to no left headlamps or left front turn signal, we have lost the emergency braking, forward collision warning, the lane departure warning and the lane keepi",
+        "pct": 22,
+        "title": "Exterior Lighting",
+        "blurb": "12 reports (22%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "PURCHASED BRAND NEW AND WITHIN 1,000 MILES THE CHECK ENGINE LIGHT ILLUMINATED WHILE DRIVING.  TOOK TO DEALER AND THEY DETERMINED IT WAS DUE TO DEFECTIVE FUEL INJECTOR SYSTEM.  BACKORDER ON PARTS, SO THE CARE HAS BEEN IN THE SHOP FOR AS LONG AS WE HAVE OWNED IT.  WONDER IF SIMILAR",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (19%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The infotainment system on my GV80 works for 5 minutes and shuts down. The lane change warning light and front collision warning goes on and off while driving. the back-up camera and warning stopped working. When you park the vehicle, it takes at least it takes 10 minutes to comp",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (19%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Genesis GV80. The contact stated while driving 35 mph, the check engine warning light illuminated. The vehicle was taken to the dealer where it was diagnosed however, the mechanic was unable to duplicate the failure. The technician disengaged the check eng",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "7 reports (13%)"
+      }
+    ]
+  }
+}

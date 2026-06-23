@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:20.158Z",
+  "total": 184,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 112,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My vehicle came with 4X4 gear box shift on the floor.  I could not get it to move into neutral or 4 low gear. I hardly drove in so it was no big deal so one day I pulled up the boot around the shift and there was a screw blocking the forward movement. It was the same screw that m",
+      "pct": 61
+    },
+    {
+      "component": "ENGINE",
+      "count": 23,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My truck had around 230 miles on it and I experienced a thumping noise from the engine compartment. The thumping disappears once the truck reaches operating temperature and the EGR valve opens. Dodge claims they have no idea what the cause is. Additionally, there is an electrical",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "My truck had around 230 miles on it and I experienced a thumping noise from the engine compartment. The thumping disappears once the truck reaches operating temperature and the EGR valve opens. Dodge claims they have no idea what the cause is. Additionally, there is an electrical",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "hello, on the truck, a review was opened, they took the truck to the dealership, they didn’t even give us anything in return, since they were in california themselves from new york for another 2 weeks, they waited in line, they said to replace the transmission and something light",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle went back to the dealer numerous times and ultimately was surrendered to Chrysler under lemon law. It had ABS braking issues along with trailer brake problems. At about 8000 miles it started having ABS alarms which cause a bunch of other issues that I feel is a serio",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ram 3500 owners report most",
+    "summary": "Across 184 owner complaints to NHTSA, the most reported area is Power Train (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 112,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My vehicle came with 4X4 gear box shift on the floor.  I could not get it to move into neutral or 4 low gear. I hardly drove in so it was no big deal so one day I pulled up the boot around the shift and there was a screw blocking the forward movement. It was the same screw that m",
+        "pct": 61,
+        "title": "Power Train",
+        "blurb": "112 reports (61%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 23,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My truck had around 230 miles on it and I experienced a thumping noise from the engine compartment. The thumping disappears once the truck reaches operating temperature and the EGR valve opens. Dodge claims they have no idea what the cause is. Additionally, there is an electrical",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "23 reports (13%) · 2 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "My truck had around 230 miles on it and I experienced a thumping noise from the engine compartment. The thumping disappears once the truck reaches operating temperature and the EGR valve opens. Dodge claims they have no idea what the cause is. Additionally, there is an electrical",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "22 reports (12%) · 2 fire · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "hello, on the truck, a review was opened, they took the truck to the dealership, they didn’t even give us anything in return, since they were in california themselves from new york for another 2 weeks, they waited in line, they said to replace the transmission and something light",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (8%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle went back to the dealer numerous times and ultimately was surrendered to Chrysler under lemon law. It had ABS braking issues along with trailer brake problems. At about 8000 miles it started having ABS alarms which cause a bunch of other issues that I feel is a serio",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "11 reports (6%) · 1 fire"
+      }
+    ]
+  }
+}

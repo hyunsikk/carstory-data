@@ -1,0 +1,128 @@
+{
+  "slug": "2023-genesis-gv60",
+  "make": "Genesis",
+  "model": "GV60",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/GV60#complaints",
+  "generatedAt": "2026-06-23T16:31:08.208Z",
+  "total": 57,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "We drove ten miles to a local restaurant and after our meal the vehicle reported a 12-volt battery issue. After about a mile the car started to pull the car over as the battery was falling. As we were looking for a safe location to pull over, the car would no longer accelerate an",
+      "pct": 58
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2023 Genesis GV60. The contact stated that after he started the vehicle, the vehicle failed to shift in the intended gear. The contact stated that the ignition switch light flashed. The vehicle was towed to the dealer but was not yet diagnosed. The vehicle wa",
+      "pct": 23
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ISSUE IS WITH THE LEVEL 2 CHARGING, THE CAR STOPS CHARGING AND CAN LEAVE THE CAR UNUSABLE OR WITH LIMITED MILEAGE AVAILABLE. THE CHARGING PORT OVERHEATS AND THE CAR STOPS CHARGING AND WILL NOT RESTART WITHOUT OPERATOR ACTION. THIS IS HAPPENING TO MANY CARS ON THIS PLATFORM. H",
+      "pct": 11
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Navigtion wrong directions  2. The battery charge runs out too quickly *I said several times that the brakes and driver's seat belt were strange, seat belt wasn't locked no tighter If the seat belt did not work, there was no point in wearing it, so I experienced a big disappoi",
+      "pct": 7
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car has malfunctioned under the following circumstances: While attempting to make an unprotected left turn at a traffic light intersection (there is no left turn only light) through active lanes of opposing traffic where there is no median lane and no protective barriers betwe",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis Gv60 owners report most",
+    "summary": "Across 57 owner complaints to NHTSA, the most reported area is Electrical System (58% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "We drove ten miles to a local restaurant and after our meal the vehicle reported a 12-volt battery issue. After about a mile the car started to pull the car over as the battery was falling. As we were looking for a safe location to pull over, the car would no longer accelerate an",
+        "pct": 58,
+        "title": "Electrical System",
+        "blurb": "33 reports (58%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2023 Genesis GV60. The contact stated that after he started the vehicle, the vehicle failed to shift in the intended gear. The contact stated that the ignition switch light flashed. The vehicle was towed to the dealer but was not yet diagnosed. The vehicle wa",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "13 reports (23%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ISSUE IS WITH THE LEVEL 2 CHARGING, THE CAR STOPS CHARGING AND CAN LEAVE THE CAR UNUSABLE OR WITH LIMITED MILEAGE AVAILABLE. THE CHARGING PORT OVERHEATS AND THE CAR STOPS CHARGING AND WILL NOT RESTART WITHOUT OPERATOR ACTION. THIS IS HAPPENING TO MANY CARS ON THIS PLATFORM. H",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (11%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Navigtion wrong directions  2. The battery charge runs out too quickly *I said several times that the brakes and driver's seat belt were strange, seat belt wasn't locked no tighter If the seat belt did not work, there was no point in wearing it, so I experienced a big disappoi",
+        "pct": 7,
+        "title": "Seat Belts",
+        "blurb": "4 reports (7%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car has malfunctioned under the following circumstances: While attempting to make an unprotected left turn at a traffic light intersection (there is no left turn only light) through active lanes of opposing traffic where there is no median lane and no protective barriers betwe",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (4%) · 1 crash"
+      }
+    ]
+  }
+}

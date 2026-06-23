@@ -1,0 +1,84 @@
+{
+  "slug": "2020-audi-s6",
+  "make": "Audi",
+  "model": "S6",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/S6#complaints",
+  "generatedAt": "2026-06-23T16:43:10.242Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2020 Audi S6 has been undriveable since September 27, 2024 due to a backordered recall part (Gateway Control Module). Audi has failed to provide a repair timeframe, making my car unusable for over five months. Audi has refused to provide a loaner vehicle despite the long delay",
+      "pct": 100
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my 2020 Audi S6, the vehicle suddenly lost power and completely shut off in the middle of the road without warning. There were no warning lights or messages beforehand. I was unable to accelerate or steer out of the way, which created a major crash risk for myself a",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my 2020 Audi S6, the vehicle suddenly lost power and completely shut off in the middle of the road without warning. There were no warning lights or messages beforehand. I was unable to accelerate or steer out of the way, which created a major crash risk for myself a",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi S6 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2020 Audi S6 has been undriveable since September 27, 2024 due to a backordered recall part (Gateway Control Module). Audi has failed to provide a repair timeframe, making my car unusable for over five months. Audi has refused to provide a loaner vehicle despite the long delay",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my 2020 Audi S6, the vehicle suddenly lost power and completely shut off in the middle of the road without warning. There were no warning lights or messages beforehand. I was unable to accelerate or steer out of the way, which created a major crash risk for myself a",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my 2020 Audi S6, the vehicle suddenly lost power and completely shut off in the middle of the road without warning. There were no warning lights or messages beforehand. I was unable to accelerate or steer out of the way, which created a major crash risk for myself a",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

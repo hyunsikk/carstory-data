@@ -1,0 +1,128 @@
+{
+  "slug": "2019-land-rover-discovery-sport",
+  "make": "Land Rover",
+  "model": "Discovery Sport",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LAND%20ROVER/DISCOVERY%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:07.107Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While waiting at a light in 2022 our 2019 Land Rover Discovery Sport did not allow gear shift movement warning showed Gearbox alert we had to turn the car off & sit in the middle of traffic. It finally allowed gearshift to work & we then took it to Land Rover in Frisco,TX. Dealer",
+      "pct": 42
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 discovery sport. The turbo charger suddenly failed at 62,000 miles. No prior warning before losing power and loud whining noise began lucky to get to the side of the freeway safely. I Had the turbo charger replaced with new OEM parts by authorized Range Rover repair facility",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Land Rover Discovery Sport. The contact stated while driving at an undisclosed speed, the vehicle stalled. A charging system fault warning light was illuminated. The vehicle was towed. The vehicle was not diagnosed or repaired by an independent mechanic or",
+      "pct": 32
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "08/19/24 Monday  Time: 3:05 pm Picking up daughter from school car completely stop while driving around traffic, started beeping, shift gear knob went down on its own and car stopped in front of school traffic almost causing an accident where I could have been hit. No warning sym",
+      "pct": 26
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When traveling the car does not accelerate properly sometimes losing power.  Feels like engine might turn off.  But removing foot from accelerator (gas pedal), then reapply, gets engine to respond, but very slowly.  No warning messages.",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Land Rover Discovery Sport owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Engine (42% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While waiting at a light in 2022 our 2019 Land Rover Discovery Sport did not allow gear shift movement warning showed Gearbox alert we had to turn the car off & sit in the middle of traffic. It finally allowed gearshift to work & we then took it to Land Rover in Frisco,TX. Dealer",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "8 reports (42%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 discovery sport. The turbo charger suddenly failed at 62,000 miles. No prior warning before losing power and loud whining noise began lucky to get to the side of the freeway safely. I Had the turbo charger replaced with new OEM parts by authorized Range Rover repair facility",
+        "pct": 42,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (42%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Land Rover Discovery Sport. The contact stated while driving at an undisclosed speed, the vehicle stalled. A charging system fault warning light was illuminated. The vehicle was towed. The vehicle was not diagnosed or repaired by an independent mechanic or",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "6 reports (32%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "08/19/24 Monday  Time: 3:05 pm Picking up daughter from school car completely stop while driving around traffic, started beeping, shift gear knob went down on its own and car stopped in front of school traffic almost causing an accident where I could have been hit. No warning sym",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "5 reports (26%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When traveling the car does not accelerate properly sometimes losing power.  Feels like engine might turn off.  But removing foot from accelerator (gas pedal), then reapply, gets engine to respond, but very slowly.  No warning messages.",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-hyundai-nexo",
+  "make": "Hyundai",
+  "model": "Nexo",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HYUNDAI/NEXO#complaints",
+  "generatedAt": "2026-06-23T16:33:40.788Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car does not automatically brake to avoid collision. I have tested the car by going straight into a large object either another car or person in front of my car and it will not brake. In addition the hydrogen sensor is not working properly as I have already been informed of f",
+      "pct": 100
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 22V258000 (Fuel System, Other, Electrical System) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable ",
+      "pct": 50
+    },
+    {
+      "component": "OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 22V258000 (Fuel System, Other, Electrical System) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable ",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car does not automatically brake to avoid collision. I have tested the car by going straight into a large object either another car or person in front of my car and it will not brake. In addition the hydrogen sensor is not working properly as I have already been informed of f",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car does not automatically brake to avoid collision. I have tested the car by going straight into a large object either another car or person in front of my car and it will not brake. In addition the hydrogen sensor is not working properly as I have already been informed of f",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Hyundai Nexo owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car does not automatically brake to avoid collision. I have tested the car by going straight into a large object either another car or person in front of my car and it will not brake. In addition the hydrogen sensor is not working properly as I have already been informed of f",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 22V258000 (Fuel System, Other, Electrical System) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable ",
+        "pct": 50,
+        "title": "Fuel System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 22V258000 (Fuel System, Other, Electrical System) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable ",
+        "pct": 50,
+        "title": "Other",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car does not automatically brake to avoid collision. I have tested the car by going straight into a large object either another car or person in front of my car and it will not brake. In addition the hydrogen sensor is not working properly as I have already been informed of f",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car does not automatically brake to avoid collision. I have tested the car by going straight into a large object either another car or person in front of my car and it will not brake. In addition the hydrogen sensor is not working properly as I have already been informed of f",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

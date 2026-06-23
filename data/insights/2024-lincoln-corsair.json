@@ -1,0 +1,128 @@
+{
+  "slug": "2024-lincoln-corsair",
+  "make": "Lincoln",
+  "model": "Corsair",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/LINCOLN/CORSAIR#complaints",
+  "generatedAt": "2026-06-23T16:37:41.508Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since late 2024, we have received notification via the Lincoln mobile app that \"certain vehicle features have been disabled to conserve battery life\". Those made known via that notice were lack of ability to remotely lock/unlock the vehicle and also lack of ability to remote star",
+      "pct": 56
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 Lincoln Corsair. The contact stated that while driving 35-40 MPH, the contact noticed that another vehicle driving approximately 60 MPH crashed into the vehicle directly behind the contact's vehicle, and then crashed into the contact's vehicle. The contac",
+      "pct": 19
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since [XXX], I had my new car for five months and began receiving pre-collision assist not available and park aid malfunction. I have been receiving these since March. I took it into the dealer and they said that there would be a software update by May 1, 2025, this is the middle",
+      "pct": 19
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since late 2024, we have received notification via the Lincoln mobile app that \"certain vehicle features have been disabled to conserve battery life\". Those made known via that notice were lack of ability to remotely lock/unlock the vehicle and also lack of ability to remote star",
+      "pct": 13
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since [XXX], I had my new car for five months and began receiving pre-collision assist not available and park aid malfunction. I have been receiving these since March. I took it into the dealer and they said that there would be a software update by May 1, 2025, this is the middle",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Lincoln Corsair owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Electrical System (56% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since late 2024, we have received notification via the Lincoln mobile app that \"certain vehicle features have been disabled to conserve battery life\". Those made known via that notice were lack of ability to remotely lock/unlock the vehicle and also lack of ability to remote star",
+        "pct": 56,
+        "title": "Electrical System",
+        "blurb": "9 reports (56%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 Lincoln Corsair. The contact stated that while driving 35-40 MPH, the contact noticed that another vehicle driving approximately 60 MPH crashed into the vehicle directly behind the contact's vehicle, and then crashed into the contact's vehicle. The contac",
+        "pct": 19,
+        "title": "Air Bags",
+        "blurb": "3 reports (19%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since [XXX], I had my new car for five months and began receiving pre-collision assist not available and park aid malfunction. I have been receiving these since March. I took it into the dealer and they said that there would be a software update by May 1, 2025, this is the middle",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since late 2024, we have received notification via the Lincoln mobile app that \"certain vehicle features have been disabled to conserve battery life\". Those made known via that notice were lack of ability to remotely lock/unlock the vehicle and also lack of ability to remote star",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since [XXX], I had my new car for five months and began receiving pre-collision assist not available and park aid malfunction. I have been receiving these since March. I took it into the dealer and they said that there would be a software update by May 1, 2025, this is the middle",
+        "pct": 13,
+        "title": "Lane Departure",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

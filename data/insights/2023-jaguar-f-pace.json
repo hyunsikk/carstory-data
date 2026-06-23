@@ -1,0 +1,62 @@
+{
+  "slug": "2023-jaguar-f-pace",
+  "make": "Jaguar",
+  "model": "F-PACE",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JAGUAR/F-PACE#complaints",
+  "generatedAt": "2026-06-23T16:35:09.992Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yes, Auto emergency braking system disengage without notice, No, No, No",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The center console gear shift has a lever to disengage the current gear to shift into another gear.  However, if the lever isn’t fully pressed, the gear shift will still move, but the car remains in the original gear.  So a driver may believe the shifted from reverse to drive (or",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jaguar F-Pace owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (50% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yes, Auto emergency braking system disengage without notice, No, No, No",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The center console gear shift has a lever to disengage the current gear to shift into another gear.  However, if the lever isn’t fully pressed, the gear shift will still move, but the car remains in the original gear.  So a driver may believe the shifted from reverse to drive (or",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

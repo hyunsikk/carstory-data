@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mercedes-benz-e-class",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MERCEDES-BENZ/E-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:25.994Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had just left home and was about two blocks from my house when the engine stopped running and the word “malfunction” appeared on the display. It would not restart until I hit the off button and then I restarted it. Definite safety issue if I had been on the freeway or a busy st",
+      "pct": 30
+    },
+    {
+      "component": "TIRES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Mercedes-Benz E450 Convertible equipped with Continental Tires, Tire Line: ProContact GX SSR, Tire Size: 245/40/R19, DOT Number: 16YOF989F4623. The contact stated that while driving at an undisclosed speed over a bumpy road surface, the front driver's side",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Mercedes-Benz E450. The contact stated that while driving at an undisclosed speed and merging into traffic, the gear shifter inadvertently shifted into neutral (N). There was no warning light illuminated. The contact stated that the RPM was fluctuating. Th",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2023 Mercedes 450E car was purchased on June 11, 2023 and has 1,750 miles. On 2 to 3 different occasions, I was stopped at a light waiting to make a left turn, fortunately my light was red and not a green permitting turning, which would have meant I would have pulled up and in",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased an E450 Mercedes before reaching my first service appointment while driving my two daughters home from school the car began to shake uncontrollably, lost power, and then the engine light and oil lights came on. The car was towed to the manufacturer dealership for repa",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mercedes-Benz E-Class owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Engine (30% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had just left home and was about two blocks from my house when the engine stopped running and the word “malfunction” appeared on the display. It would not restart until I hit the off button and then I restarted it. Definite safety issue if I had been on the freeway or a busy st",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "7 reports (30%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Mercedes-Benz E450 Convertible equipped with Continental Tires, Tire Line: ProContact GX SSR, Tire Size: 245/40/R19, DOT Number: 16YOF989F4623. The contact stated that while driving at an undisclosed speed over a bumpy road surface, the front driver's side",
+        "pct": 22,
+        "title": "Tires",
+        "blurb": "5 reports (22%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Mercedes-Benz E450. The contact stated that while driving at an undisclosed speed and merging into traffic, the gear shifter inadvertently shifted into neutral (N). There was no warning light illuminated. The contact stated that the RPM was fluctuating. Th",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2023 Mercedes 450E car was purchased on June 11, 2023 and has 1,750 miles. On 2 to 3 different occasions, I was stopped at a light waiting to make a left turn, fortunately my light was red and not a green permitting turning, which would have meant I would have pulled up and in",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased an E450 Mercedes before reaching my first service appointment while driving my two daughters home from school the car began to shake uncontrollably, lost power, and then the engine light and oil lights came on. The car was towed to the manufacturer dealership for repa",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

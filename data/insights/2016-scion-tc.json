@@ -1,0 +1,84 @@
+{
+  "slug": "2016-scion-tc",
+  "make": "Scion",
+  "model": "tC",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/SCION/TC#complaints",
+  "generatedAt": "2026-06-23T16:40:31.968Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 Scion TC. The contact stated while the vehicle was parked, the front driver's side seat belt retractor failed to function as intended. The vehicle was taken to an independent mechanic where it was diagnosed with a failed front driver's side seat belt retra",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a recall on my brakes. I took it to toyota in newnan ga.  they said it would be a few hours and I asked for a rental because it was my only day off and I have 3 kids and errands to run. They then proceded to tell me I dont have a recall. They lied to get out of letting me ",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "STOPPED AT A RED LIGHT AND WAS REAR ENDED. COLLISION REPAIR SHOP NOTED THERE WAS UNIBODY/FRAME DAMAGE BUT WAS NOT TOTALED OUT.  NOW WE CANNOT TRADE IN VEHICLE BECAUSE THE DAMAGE IS SHOWING UP ON THE CARFAX AND NOBODY WANTS TO TOUCH IT.  WE CANNOT GET OUR INSURANCE COMPANY OR THE ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Scion Tc owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Seat Belts (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 Scion TC. The contact stated while the vehicle was parked, the front driver's side seat belt retractor failed to function as intended. The vehicle was taken to an independent mechanic where it was diagnosed with a failed front driver's side seat belt retra",
+        "pct": 17,
+        "title": "Seat Belts",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a recall on my brakes. I took it to toyota in newnan ga.  they said it would be a few hours and I asked for a rental because it was my only day off and I have 3 kids and errands to run. They then proceded to tell me I dont have a recall. They lied to get out of letting me ",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "STOPPED AT A RED LIGHT AND WAS REAR ENDED. COLLISION REPAIR SHOP NOTED THERE WAS UNIBODY/FRAME DAMAGE BUT WAS NOT TOTALED OUT.  NOW WE CANNOT TRADE IN VEHICLE BECAUSE THE DAMAGE IS SHOWING UP ON THE CARFAX AND NOBODY WANTS TO TOUCH IT.  WE CANNOT GET OUR INSURANCE COMPANY OR THE ",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

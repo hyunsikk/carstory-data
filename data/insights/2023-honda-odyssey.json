@@ -1,0 +1,128 @@
+{
+  "slug": "2023-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-06-23T16:32:33.934Z",
+  "total": 84,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 24,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "When the car is on adaptive Cruise Control, going downhill it won't correctly control the speed and keeps on accelerating, Austin hill country at one point I managed to gain up to 20 miles above the set cruise speed limit. I have reported this to the First Texas Honda service dep",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Yesterday we were in our minvan (I had not entered yet and was standing outside the fornt passenger door but wife,  children, and dog were inside. My daughter mashed the button to close the power sliding door on the right side of the van but did not notice that the dogs tail was ",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our AIS has not worked in most of the 3 weeks since we purchased it. We went on (joined) various Odyssey forums and apparently this is a known defect that Honda Corporation is denying (and can't fix). Som think it is a wrong battery in the vehicle issue or defective vehicle charg",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "My child was inside the minivan in the 2nd row and pressed the close door button on the sliding door while holding their other hand on the door jamb near the handle on the interior frame. The door slid closed and smashed their hand hard, automatically latching the door with their",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I always do a full undercarriage inspection of new vehicles we purchase,  even though I am in my 60's. When inspecting this new Odyssey there was unusual amounts of rusting throughout both front wheel hubs. This also was a problem on our 2014 Honda Cr-V we also purchased new. The",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Honda Odyssey owners report most",
+    "summary": "Across 84 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 24,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "When the car is on adaptive Cruise Control, going downhill it won't correctly control the speed and keeps on accelerating, Austin hill country at one point I managed to gain up to 20 miles above the set cruise speed limit. I have reported this to the First Texas Honda service dep",
+        "pct": 29,
+        "title": "Forward Collision Avoidance",
+        "blurb": "24 reports (29%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Yesterday we were in our minvan (I had not entered yet and was standing outside the fornt passenger door but wife,  children, and dog were inside. My daughter mashed the button to close the power sliding door on the right side of the van but did not notice that the dogs tail was ",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "24 reports (29%) · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our AIS has not worked in most of the 3 weeks since we purchased it. We went on (joined) various Odyssey forums and apparently this is a known defect that Honda Corporation is denying (and can't fix). Som think it is a wrong battery in the vehicle issue or defective vehicle charg",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "11 reports (13%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "My child was inside the minivan in the 2nd row and pressed the close door button on the sliding door while holding their other hand on the door jamb near the handle on the interior frame. The door slid closed and smashed their hand hard, automatically latching the door with their",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "10 reports (12%) · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I always do a full undercarriage inspection of new vehicles we purchase,  even though I am in my 60's. When inspecting this new Odyssey there was unusual amounts of rusting throughout both front wheel hubs. This also was a problem on our 2014 Honda Cr-V we also purchased new. The",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "9 reports (11%) · 2 crash · 3 injured"
+      }
+    ]
+  }
+}

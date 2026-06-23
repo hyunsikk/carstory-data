@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-06-23T16:28:24.239Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Started into traffic and vehicle quickly slowed way down and then started to move again. At next light power lost again. Do not remember if warning light came on but it was not there prior to the incident.  Towed to dealer.  Fuel pump replaced.  One month later accelerating to ex",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Equinox. The contact stated that while his wife was driving 40 MPH and attempting to make a left turn, the brake pedal was depressed, but the vehicle failed to respond, causing his wife to make the left turn at 40 MPH uphill. The contact stated t",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Equinox. The contact stated that the check engine warning light was illuminated. The contact was concerned about driving the vehicle. The vehicle was taken to the local dealer, who diagnosed and determined that the air hose was leaking. The deale",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Equinox. The contact stated that while his wife was driving 40 MPH and attempting to make a left turn, the brake pedal was depressed, but the vehicle failed to respond, causing his wife to make the left turn at 40 MPH uphill. The contact stated t",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Traveling on the highway with a speed limit of 70 mph.   Vehicle would not accelerate above 35 mph resulting in the potential to be rear ended and cause an accident.  After three attempts by the GM dealership to repair the vehicle this condition still exists.  I have decided due ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Equinox owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Started into traffic and vehicle quickly slowed way down and then started to move again. At next light power lost again. Do not remember if warning light came on but it was not there prior to the incident.  Towed to dealer.  Fuel pump replaced.  One month later accelerating to ex",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "15 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Equinox. The contact stated that while his wife was driving 40 MPH and attempting to make a left turn, the brake pedal was depressed, but the vehicle failed to respond, causing his wife to make the left turn at 40 MPH uphill. The contact stated t",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "13 reports (21%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Equinox. The contact stated that the check engine warning light was illuminated. The contact was concerned about driving the vehicle. The vehicle was taken to the local dealer, who diagnosed and determined that the air hose was leaking. The deale",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "12 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Equinox. The contact stated that while his wife was driving 40 MPH and attempting to make a left turn, the brake pedal was depressed, but the vehicle failed to respond, causing his wife to make the left turn at 40 MPH uphill. The contact stated t",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "12 reports (20%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Traveling on the highway with a speed limit of 70 mph.   Vehicle would not accelerate above 35 mph resulting in the potential to be rear ended and cause an accident.  After three attempts by the GM dealership to repair the vehicle this condition still exists.  I have decided due ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "8 reports (13%)"
+      }
+    ]
+  }
+}

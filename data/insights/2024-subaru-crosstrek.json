@@ -1,0 +1,128 @@
+{
+  "slug": "2024-subaru-crosstrek",
+  "make": "Subaru",
+  "model": "Crosstrek",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/SUBARU/CROSSTREK#complaints",
+  "generatedAt": "2026-06-23T16:40:40.310Z",
+  "total": 103,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Headlights are extremely dangerous on this model vehicle, the cut off is very sharp and the beam range very restrictive. When going up or down hills vision is almost completely lost. Drivers are lucky to see 10 yards in front of the vehicle at times. Lights are so bright there ar",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I wanted to reach out to you about our new 2024 Crosstrek Wilderness.   Subaru is having many issues with their thin windshields for 2023/2024 Crosstrek windshields.   Our new vehicle has barely 2100 miles and the windshield has cracked in two places. Not from a rock chip and fro",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering power assist deactivated suddenly with no advance warning while driving in traffic.  Warning lamps on dash lit concurrently.  Steering still functional with higher level of driver effort.  Under the circumstances, no real danger.  Curvy road at speed would be dangerous. ",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "- Pre-collision braking has deployed a number of times without cause (no one in front of vehicle, no collision threat at all. Most recently at 35mph, but at up to 55 mph prior. Feel free to inspect. - Brakes are automatically deployed HARD and without the warning that is supposed",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "- Pre-collision braking has deployed a number of times without cause (no one in front of vehicle, no collision threat at all. Most recently at 35mph, but at up to 55 mph prior. Feel free to inspect. - Brakes are automatically deployed HARD and without the warning that is supposed",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Subaru Crosstrek owners report most",
+    "summary": "Across 103 owner complaints to NHTSA, the most reported area is Exterior Lighting (13% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Headlights are extremely dangerous on this model vehicle, the cut off is very sharp and the beam range very restrictive. When going up or down hills vision is almost completely lost. Drivers are lucky to see 10 yards in front of the vehicle at times. Lights are so bright there ar",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "13 reports (13%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I wanted to reach out to you about our new 2024 Crosstrek Wilderness.   Subaru is having many issues with their thin windshields for 2023/2024 Crosstrek windshields.   Our new vehicle has barely 2100 miles and the windshield has cracked in two places. Not from a rock chip and fro",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "11 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering power assist deactivated suddenly with no advance warning while driving in traffic.  Warning lamps on dash lit concurrently.  Steering still functional with higher level of driver effort.  Under the circumstances, no real danger.  Curvy road at speed would be dangerous. ",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "9 reports (9%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "- Pre-collision braking has deployed a number of times without cause (no one in front of vehicle, no collision threat at all. Most recently at 35mph, but at up to 55 mph prior. Feel free to inspect. - Brakes are automatically deployed HARD and without the warning that is supposed",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (9%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "- Pre-collision braking has deployed a number of times without cause (no one in front of vehicle, no collision threat at all. Most recently at 35mph, but at up to 55 mph prior. Feel free to inspect. - Brakes are automatically deployed HARD and without the warning that is supposed",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "8 reports (8%) · 3 crash · 1 injured"
+      }
+    ]
+  }
+}

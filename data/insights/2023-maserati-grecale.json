@@ -1,0 +1,128 @@
+{
+  "slug": "2023-maserati-grecale",
+  "make": "Maserati",
+  "model": "Grecale",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MASERATI/GRECALE#complaints",
+  "generatedAt": "2026-06-23T16:47:18.295Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car would not go into Park. The park button flickered, and a message appeared on the dashboard stating that the vehicle was too fast to be put into Park, even though the car was completely stopped in a parking lot with the brake pedal engaged. After multiple attempts to press",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car would not go into Park. The park button flickered, and a message appeared on the dashboard stating that the vehicle was too fast to be put into Park, even though the car was completely stopped in a parking lot with the brake pedal engaged. After multiple attempts to press",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car would not go into Park. The park button flickered, and a message appeared on the dashboard stating that the vehicle was too fast to be put into Park, even though the car was completely stopped in a parking lot with the brake pedal engaged. After multiple attempts to press",
+      "pct": 25
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Maserati Grecale. The contact stated that the vehicle auto locked with the keys inside. The contact stated that while putting her children and other items inside the vehicle, the doors automatically locked. The contact attempted to use the App to unlock th",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Maserati Grecale. The contact stated while driving at approximately 45 MPH, the vehicle started losing motive power. The coolant warning light was illuminated.  The vehicle was veered to the side of the road and restarted. The vehicle was towed to a dealer",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Maserati Grecale owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Power Train (25% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car would not go into Park. The park button flickered, and a message appeared on the dashboard stating that the vehicle was too fast to be put into Park, even though the car was completely stopped in a parking lot with the brake pedal engaged. After multiple attempts to press",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car would not go into Park. The park button flickered, and a message appeared on the dashboard stating that the vehicle was too fast to be put into Park, even though the car was completely stopped in a parking lot with the brake pedal engaged. After multiple attempts to press",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car would not go into Park. The park button flickered, and a message appeared on the dashboard stating that the vehicle was too fast to be put into Park, even though the car was completely stopped in a parking lot with the brake pedal engaged. After multiple attempts to press",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Maserati Grecale. The contact stated that the vehicle auto locked with the keys inside. The contact stated that while putting her children and other items inside the vehicle, the doors automatically locked. The contact attempted to use the App to unlock th",
+        "pct": 25,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Maserati Grecale. The contact stated while driving at approximately 45 MPH, the vehicle started losing motive power. The coolant warning light was illuminated.  The vehicle was veered to the side of the road and restarted. The vehicle was towed to a dealer",
+        "pct": 25,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

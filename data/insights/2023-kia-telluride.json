@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-telluride",
+  "make": "Kia",
+  "model": "Telluride",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/TELLURIDE#complaints",
+  "generatedAt": "2026-06-23T16:37:04.835Z",
+  "total": 187,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 45,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The KIA Telluride Tow Hitch Harness Module has been responsible for getting humidity and dirt inside and starting a fires.  So, KIA has recalled this issue BACK IN AUGUST, 2022 and told everyone not to park the vehicle inside or near any buildings and expected a solution this Oct",
+      "pct": 24
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield failed on the way home from the dealership after small impact.  Passenger side window developed cracks at 486 odometer miles.  The windshield chip spread beyond repair during the 6-week warranty claim process in which the claim was denied on 3/8/2023.   The side window",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This has happened twice in the same day. We have less than 200 miles in the car. Wile accelerating uphill, the rpm’s drop and the acceleration dies and we have had to turn on hazards as it slows down while we pull over to the side of the road. Then it will turn back on and jerk f",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This has happened twice in the same day. We have less than 200 miles in the car. Wile accelerating uphill, the rpm’s drop and the acceleration dies and we have had to turn on hazards as it slows down while we pull over to the side of the road. Then it will turn back on and jerk f",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have owned the car for 2 months.  For the 3rd time while pulling out into traffic the car refused to accelerate like it was having trouble with transmission(this made it dangerous for me pulling into busy traffic)  For 10 to 20 seconds it would not accelerate and then finally i",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Telluride owners report most",
+    "summary": "Across 187 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 45,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The KIA Telluride Tow Hitch Harness Module has been responsible for getting humidity and dirt inside and starting a fires.  So, KIA has recalled this issue BACK IN AUGUST, 2022 and told everyone not to park the vehicle inside or near any buildings and expected a solution this Oct",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "45 reports (24%) · 1 fire · 3 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield failed on the way home from the dealership after small impact.  Passenger side window developed cracks at 486 odometer miles.  The windshield chip spread beyond repair during the 6-week warranty claim process in which the claim was denied on 3/8/2023.   The side window",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "28 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This has happened twice in the same day. We have less than 200 miles in the car. Wile accelerating uphill, the rpm’s drop and the acceleration dies and we have had to turn on hazards as it slows down while we pull over to the side of the road. Then it will turn back on and jerk f",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "21 reports (11%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This has happened twice in the same day. We have less than 200 miles in the car. Wile accelerating uphill, the rpm’s drop and the acceleration dies and we have had to turn on hazards as it slows down while we pull over to the side of the road. Then it will turn back on and jerk f",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "18 reports (10%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have owned the car for 2 months.  For the 3rd time while pulling out into traffic the car refused to accelerate like it was having trouble with transmission(this made it dangerous for me pulling into busy traffic)  For 10 to 20 seconds it would not accelerate and then finally i",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "14 reports (7%)"
+      }
+    ]
+  }
+}

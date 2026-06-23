@@ -1,0 +1,128 @@
+{
+  "slug": "2018-bmw-x5",
+  "make": "BMW",
+  "model": "X5",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/X5#complaints",
+  "generatedAt": "2026-06-23T16:27:04.814Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR DISPLAYED DRIVETRAIN MALFUNCTION WARNING MESSAGE MULTIPLE TIMES AFTER THE CAR REACHED 10K MILES. THE DRIVETRAIN MALFUNCTION MESSAGE WAS REPORTED TO THE DEALER MULTIPLE TIMES AND DEALER FAILED TO PROVIDE PROPER EXPLANATION AS WELL AS FAILED TO PERMANENTLY FIX THE PROBLEM. ",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving in the number 1 lane (leftmost lane) when the dashboard display indicated there was a transmission fault and warned that I should pull over to a safe spot immediately.  With the vehicle rapidly slowing, I had to maneuver through traffic to the right side of the road",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel system has failed twice resulting in the vehicle shutting down while driving. My safety was put at risk because the vehicle unexpectedly shut down while driving without any warning in the midst of traffic. The problem has been confirmed by the dealer both times and the fuel ",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR DISPLAYED DRIVETRAIN MALFUNCTION WARNING MESSAGE MULTIPLE TIMES AFTER THE CAR REACHED 10K MILES. THE DRIVETRAIN MALFUNCTION MESSAGE WAS REPORTED TO THE DEALER MULTIPLE TIMES AND DEALER FAILED TO PROVIDE PROPER EXPLANATION AS WELL AS FAILED TO PERMANENTLY FIX THE PROBLEM. ",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 BMW X5. The contact stated while his wife was starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the local dealer, where it was diagnosed and determined that the Exhaust Gas Recirculation (EGR) cooling system needed ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw X5 owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR DISPLAYED DRIVETRAIN MALFUNCTION WARNING MESSAGE MULTIPLE TIMES AFTER THE CAR REACHED 10K MILES. THE DRIVETRAIN MALFUNCTION MESSAGE WAS REPORTED TO THE DEALER MULTIPLE TIMES AND DEALER FAILED TO PROVIDE PROPER EXPLANATION AS WELL AS FAILED TO PERMANENTLY FIX THE PROBLEM. ",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "14 reports (21%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving in the number 1 lane (leftmost lane) when the dashboard display indicated there was a transmission fault and warned that I should pull over to a safe spot immediately.  With the vehicle rapidly slowing, I had to maneuver through traffic to the right side of the road",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "10 reports (15%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel system has failed twice resulting in the vehicle shutting down while driving. My safety was put at risk because the vehicle unexpectedly shut down while driving without any warning in the midst of traffic. The problem has been confirmed by the dealer both times and the fuel ",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (15%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR DISPLAYED DRIVETRAIN MALFUNCTION WARNING MESSAGE MULTIPLE TIMES AFTER THE CAR REACHED 10K MILES. THE DRIVETRAIN MALFUNCTION MESSAGE WAS REPORTED TO THE DEALER MULTIPLE TIMES AND DEALER FAILED TO PROVIDE PROPER EXPLANATION AS WELL AS FAILED TO PERMANENTLY FIX THE PROBLEM. ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "9 reports (13%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 BMW X5. The contact stated while his wife was starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the local dealer, where it was diagnosed and determined that the Exhaust Gas Recirculation (EGR) cooling system needed ",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "9 reports (13%)"
+      }
+    ]
+  }
+}

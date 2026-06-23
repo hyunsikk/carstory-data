@@ -1,0 +1,128 @@
+{
+  "slug": "2023-bmw-x3",
+  "make": "BMW",
+  "model": "X3",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X3#complaints",
+  "generatedAt": "2026-06-23T16:26:59.876Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "As I was driving today in the freeway my sunroof exploded. As far as I can tell, It was not caused by rocks or other cars,  it just exploded putting my wife and I in a dangerous situation having to park on the side of the freeway. We first thought someone shot at us. We stopped t",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X3. The contact received notification of NHTSA Campaign Number: 26V056000 (Electrical System) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer had exceeded a r",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On the evening of Wednesday March 6th 2025, as I turned into the street where I live, my car became difficult to steer.  It felt like I had developed a front flat tire on one side, but there was no indication of low tire pressure on the dash.  I was moving around 5 miles an hour ",
+      "pct": 10
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The driver-side front door sometimes gets stuck and cannot be opened from the outside. Additionally, the left rear door cannot be opened from the inside. This issue has been occurring since [provide the earliest date you remember, e.g., “mid-2023”] and happens intermittently. It ",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X3. The contact stated while driving at an undisclosed speed, the vehicle independently accelerated. The contact depressed the brake pedal however, the vehicle independently accelerated. The contact also stated that the failure had previously occurred ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X3 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Structure (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "As I was driving today in the freeway my sunroof exploded. As far as I can tell, It was not caused by rocks or other cars,  it just exploded putting my wife and I in a dangerous situation having to park on the side of the freeway. We first thought someone shot at us. We stopped t",
+        "pct": 30,
+        "title": "Structure",
+        "blurb": "3 reports (30%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X3. The contact received notification of NHTSA Campaign Number: 26V056000 (Electrical System) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer had exceeded a r",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On the evening of Wednesday March 6th 2025, as I turned into the street where I live, my car became difficult to steer.  It felt like I had developed a front flat tire on one side, but there was no indication of low tire pressure on the dash.  I was moving around 5 miles an hour ",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The driver-side front door sometimes gets stuck and cannot be opened from the outside. Additionally, the left rear door cannot be opened from the inside. This issue has been occurring since [provide the earliest date you remember, e.g., “mid-2023”] and happens intermittently. It ",
+        "pct": 10,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X3. The contact stated while driving at an undisclosed speed, the vehicle independently accelerated. The contact depressed the brake pedal however, the vehicle independently accelerated. The contact also stated that the failure had previously occurred ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

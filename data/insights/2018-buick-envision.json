@@ -1,0 +1,128 @@
+{
+  "slug": "2018-buick-envision",
+  "make": "Buick",
+  "model": "Envision",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BUICK/ENVISION#complaints",
+  "generatedAt": "2026-06-23T16:27:24.024Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While we were merging onto the highway, the steering wheel locked! I was going 50 MPH and I couldn't move the steering wheel left or right. We almost got into an accident, but I pulled my hardest on the wheel and was able to pull over. I shut off the car and turned it back on and",
+      "pct": 31
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 BUICK ENVISION.  THE CONTACT STATED THAT THE VEHICLE VIBRATED WHEN DRIVING AT 36 TO 40 MPH AND CAUSED THE STEERING WHEEL TO VIBRATE. THE CONTACT STATED THAT WHEN THE SPEED WAS INCREASED TO 41 MPH, THE VIBRATION STOPPED. THE VEHICLE WAS TAKEN TO PAUL MA",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE HAVE BEEN 2 SEPARATE INCIDENTS OF THE COOLANT HOSE RUPTURING DUE TO THERMOSTAT FAILURE AND FUEL SENSOR WAS BAD CAUSING NOT BEING ABLE TO TO FILL TANK. DEALER SAID NOT UNDER WARRANTY TOOK TO SEPARATE SHOP WHEN IN FACT IT WAS UNDER WARRANTY SO THEN TOOK TO DEALER THEY DO NOT ",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Every time the car auto stops and turns back on the steering locks. So when the car starts you can’t turn the wheel. Also, while driving the car will lock and radio will shut off/ turn on. This happens like 1 to 2x a week. It is available for inspection. It could be very dangerou",
+      "pct": 23
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple Electrical parts became faulty starting with 3 tire sensors, then the front passenger airbag sensor, immediately followed by both rear sensor control modules. Milage at onset was approx 85000. Brought to dealer for dx due to my vehicle applying breaks when it shouldn’t, ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Buick Envision owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Steering (31% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While we were merging onto the highway, the steering wheel locked! I was going 50 MPH and I couldn't move the steering wheel left or right. We almost got into an accident, but I pulled my hardest on the wheel and was able to pull over. I shut off the car and turned it back on and",
+        "pct": 31,
+        "title": "Steering",
+        "blurb": "4 reports (31%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 BUICK ENVISION.  THE CONTACT STATED THAT THE VEHICLE VIBRATED WHEN DRIVING AT 36 TO 40 MPH AND CAUSED THE STEERING WHEEL TO VIBRATE. THE CONTACT STATED THAT WHEN THE SPEED WAS INCREASED TO 41 MPH, THE VIBRATION STOPPED. THE VEHICLE WAS TAKEN TO PAUL MA",
+        "pct": 23,
+        "title": "Suspension",
+        "blurb": "3 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE HAVE BEEN 2 SEPARATE INCIDENTS OF THE COOLANT HOSE RUPTURING DUE TO THERMOSTAT FAILURE AND FUEL SENSOR WAS BAD CAUSING NOT BEING ABLE TO TO FILL TANK. DEALER SAID NOT UNDER WARRANTY TOOK TO SEPARATE SHOP WHEN IN FACT IT WAS UNDER WARRANTY SO THEN TOOK TO DEALER THEY DO NOT ",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "3 reports (23%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Every time the car auto stops and turns back on the steering locks. So when the car starts you can’t turn the wheel. Also, while driving the car will lock and radio will shut off/ turn on. This happens like 1 to 2x a week. It is available for inspection. It could be very dangerou",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "3 reports (23%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple Electrical parts became faulty starting with 3 tire sensors, then the front passenger airbag sensor, immediately followed by both rear sensor control modules. Milage at onset was approx 85000. Brought to dealer for dx due to my vehicle applying breaks when it shouldn’t, ",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

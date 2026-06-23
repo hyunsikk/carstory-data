@@ -1,0 +1,128 @@
+{
+  "slug": "2024-bmw-x1",
+  "make": "BMW",
+  "model": "X1",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/X1#complaints",
+  "generatedAt": "2026-06-23T16:26:57.083Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 19,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Traveling about 35mph with no cars around, the brakes applied, no throttle response, and little steering.  Warning lights illuminated and couldn't move car until turned off ignition and restarted.  Dealer showed no codes and shows no record of it occurring.  This symptom mirrors ",
+      "pct": 63
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stat",
+      "pct": 33
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stat",
+      "pct": 30
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Traveling about 35mph with no cars around, the brakes applied, no throttle response, and little steering.  Warning lights illuminated and couldn't move car until turned off ignition and restarted.  Dealer showed no codes and shows no record of it occurring.  This symptom mirrors ",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have owned the car for nearly 2 years and the rear cross traffic alert has never worked, even when cars and pedestrians are walking behind the vehicle.  BMW says nothing is wrong.  Many other drivers report the exact same issue with their BMW.",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw X1 owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Service Brakes (63% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 19,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Traveling about 35mph with no cars around, the brakes applied, no throttle response, and little steering.  Warning lights illuminated and couldn't move car until turned off ignition and restarted.  Dealer showed no codes and shows no record of it occurring.  This symptom mirrors ",
+        "pct": 63,
+        "title": "Service Brakes",
+        "blurb": "19 reports (63%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stat",
+        "pct": 33,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "10 reports (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stat",
+        "pct": 30,
+        "title": "Hydraulic",
+        "blurb": "9 reports (30%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Traveling about 35mph with no cars around, the brakes applied, no throttle response, and little steering.  Warning lights illuminated and couldn't move car until turned off ignition and restarted.  Dealer showed no codes and shows no record of it occurring.  This symptom mirrors ",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (17%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have owned the car for nearly 2 years and the rear cross traffic alert has never worked, even when cars and pedestrians are walking behind the vehicle.  BMW says nothing is wrong.  Many other drivers report the exact same issue with their BMW.",
+        "pct": 7,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

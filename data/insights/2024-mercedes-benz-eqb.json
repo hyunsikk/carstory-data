@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mercedes-benz-eqb",
+  "make": "Mercedes-Benz",
+  "model": "EQB",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/EQB#complaints",
+  "generatedAt": "2026-06-23T16:38:26.855Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "For two months my EQB has been signaling high voltage when I charge it also now I’m having a problem connecting the plug to charge my car it shows red light has faulty it’s at the shop for a week now and I haven’t gotten updates about my car the cameras as well are turning black ",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is a 2024 Mercedes-Benz EQB 300. Despite the nationwide recall (NHTSA 26V073000) for high-voltage battery fire risk, the manufacturer is providing conflicting and dangerous safety information. I was verbally instructed by dealership representatives to park my vehicle o",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am submitting this complaint regarding a serious safety issue involving my vehicle. For an extended period of time, this vehicle has experienced recurring starting failures. On multiple occasions, the vehicle would not start, requiring service visits to the dealership. Despite ",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is not included in the current high voltage battery recall under NHTSA recall 26V073, as it has a manufacture date of 08/2024 per door jamb sticker, however, page 5 of the NHTSA report explicitly states “A change in the production procedure of our supplier ensures that",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On [XXX] at [XXX], while I was slowly moving my car into a parking spot, the vehicle suddenly stopped for a brief moment and then, within a second, unexpectedly accelerated forward without any input from me. The car jumped onto the pathway and collided with the glass door of the ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Eqb owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "For two months my EQB has been signaling high voltage when I charge it also now I’m having a problem connecting the plug to charge my car it shows red light has faulty it’s at the shop for a week now and I haven’t gotten updates about my car the cameras as well are turning black ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "5 reports (50%) · 3 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is a 2024 Mercedes-Benz EQB 300. Despite the nationwide recall (NHTSA 26V073000) for high-voltage battery fire risk, the manufacturer is providing conflicting and dangerous safety information. I was verbally instructed by dealership representatives to park my vehicle o",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am submitting this complaint regarding a serious safety issue involving my vehicle. For an extended period of time, this vehicle has experienced recurring starting failures. On multiple occasions, the vehicle would not start, requiring service visits to the dealership. Despite ",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is not included in the current high voltage battery recall under NHTSA recall 26V073, as it has a manufacture date of 08/2024 per door jamb sticker, however, page 5 of the NHTSA report explicitly states “A change in the production procedure of our supplier ensures that",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On [XXX] at [XXX], while I was slowly moving my car into a parking spot, the vehicle suddenly stopped for a brief moment and then, within a second, unexpectedly accelerated forward without any input from me. The car jumped onto the pathway and collided with the glass door of the ",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (10%) · 1 crash"
+      }
+    ]
+  }
+}

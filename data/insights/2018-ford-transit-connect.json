@@ -1,0 +1,128 @@
+{
+  "slug": "2018-ford-transit-connect",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/FORD/TRANSIT%20CONNECT#complaints",
+  "generatedAt": "2026-06-23T16:45:07.488Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HAVE TAKEN OUR VEHICLE TO FORD AT LEAST 12 TIMES AND HAVE THE EXTENDED WARRANTY, THEY HAVE SAID NOTHING IS WRONG WITH IT. WE BOUGHT BRAND NEW AND HAVE THREE SETS OF BRAKE PAD PLACED ON THE FRON AND TWO PAIRS ON THE REARS.. WE HAVE GONE THROUGH TWO SETS OF TIRES AND THE FRONT DRIV",
+      "pct": 27
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unexpected power steering failure while driving.  Driver and surrounding vehicles at risk Ford Dealer has reproduced the problem but can't identify the cause There weren't any warning lamps or messages before failure  I own two other Ford Transit Connect vans from 2018, each has ",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Torque Converter failed.  Confirmed by dealer service department.  No warning indicators. Dealer repaired under warranty but it took 3 months from the first phone call.   Looking online at user boards this should be a recall issue.  I was told I could continue to drive it until p",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LOUD NOISE W/VIBRATION AND FOUL ODOR COMING FROM HEATER BLOWER.  DEALERSHIP DISCOVERED A RODENT'S NEST IN THE CLIMATE CONTROL BLOWER MOTOR.  DEALERSHIP INDICATED THAT THERE IS NO REMEDY TO PREVENT RECURRENCE.  DEALERSHIP ALSO MENTIONED THAT THE FORD ESCAPE HAS A HISTORY OF THE SA",
+      "pct": 9
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had been driving my car for a few minutes when I heard a loud pop and my rear window glass shattered. Covered in spider glass cracks and only held in place by the tint. No point of impact visible to show that it had been hit by an object. It was chilly, 43 F, and I had the heat",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ford Transit Connect owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Service Brakes (27% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HAVE TAKEN OUR VEHICLE TO FORD AT LEAST 12 TIMES AND HAVE THE EXTENDED WARRANTY, THEY HAVE SAID NOTHING IS WRONG WITH IT. WE BOUGHT BRAND NEW AND HAVE THREE SETS OF BRAKE PAD PLACED ON THE FRON AND TWO PAIRS ON THE REARS.. WE HAVE GONE THROUGH TWO SETS OF TIRES AND THE FRONT DRIV",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "6 reports (27%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unexpected power steering failure while driving.  Driver and surrounding vehicles at risk Ford Dealer has reproduced the problem but can't identify the cause There weren't any warning lamps or messages before failure  I own two other Ford Transit Connect vans from 2018, each has ",
+        "pct": 23,
+        "title": "Steering",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Torque Converter failed.  Confirmed by dealer service department.  No warning indicators. Dealer repaired under warranty but it took 3 months from the first phone call.   Looking online at user boards this should be a recall issue.  I was told I could continue to drive it until p",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LOUD NOISE W/VIBRATION AND FOUL ODOR COMING FROM HEATER BLOWER.  DEALERSHIP DISCOVERED A RODENT'S NEST IN THE CLIMATE CONTROL BLOWER MOTOR.  DEALERSHIP INDICATED THAT THERE IS NO REMEDY TO PREVENT RECURRENCE.  DEALERSHIP ALSO MENTIONED THAT THE FORD ESCAPE HAS A HISTORY OF THE SA",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had been driving my car for a few minutes when I heard a loud pop and my rear window glass shattered. Covered in spider glass cracks and only held in place by the tint. No point of impact visible to show that it had been hit by an object. It was chilly, 43 F, and I had the heat",
+        "pct": 9,
+        "title": "Visibility",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2015-subaru-brz",
+  "make": "Subaru",
+  "model": "BRZ",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/SUBARU/BRZ#complaints",
+  "generatedAt": "2026-06-23T16:40:34.206Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE SEEMS TO BE LEAKING ENGINE OIL ONTO THE EXHAUST. WHENEVER I DRIVE FOR MORE THAN 5-10 MINUTES, THE SMELL OF BURNING OIL IS OVERWHELMING WHEN THE CAR IS STOPPED. THIS ISSUE HAS BEEN OCCURRING FOR THE PAST 12 MOS., AND I'M CONCERNED ABOUT THE FUTURE POTENTIAL FOR AN ENGIN",
+      "pct": 67
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Seatbelts, both driver and passenger side will remain locked and in the retracted position unable to be fastened if the car is parked facing up a steep hill.  Not until the car is moved to level ground can the seatbelts be put on.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Subaru Brz owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE SEEMS TO BE LEAKING ENGINE OIL ONTO THE EXHAUST. WHENEVER I DRIVE FOR MORE THAN 5-10 MINUTES, THE SMELL OF BURNING OIL IS OVERWHELMING WHEN THE CAR IS STOPPED. THIS ISSUE HAS BEEN OCCURRING FOR THE PAST 12 MOS., AND I'M CONCERNED ABOUT THE FUTURE POTENTIAL FOR AN ENGIN",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Seatbelts, both driver and passenger side will remain locked and in the retracted position unable to be fastened if the car is parked facing up a steep hill.  Not until the car is moved to level ground can the seatbelts be put on.",
+        "pct": 33,
+        "title": "Seat Belts",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-q8",
+  "make": "Audi",
+  "model": "Q8",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/Q8#complaints",
+  "generatedAt": "2026-06-23T16:26:11.733Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE'S START STOP SYSTEM OR TRANSMISSION SEEMS TO BE SLUGGISH LEADING TO VARIOUS BOUTS OF HESITATION ESPECIALLY WHEN SLOWING DOWN AND COASTING AT A SLOW SPEED AND THEN TRYING TO ACCELERATE. THIS WAS ESPECIALLY NOTICEABLE WHEN ATTEMPTING TO TURN LEFT FROM A LEFT TURN LANE A",
+      "pct": 27
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "EVERY TIM TOWING A TRAILER AND HITCH WEIGHT IS OVER 300 LBS ( SPECIFICATION SHOWS 770 LBS MAX, ORIGINAL AUDI HITCH INSTALLED  CAME WITH THE CAR ) THE AUDI LIMITED PRE-SENSE WARNING GOES ON AFTER ~45 MIN DRIVE WITH TRAILER. AFTER THAT NO DISTANCE WARNING OR CRUSE CONTROL (ADAPTIVE",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the vehicle as a CPO, two days (1/28/23)and 200 miles later I got a warning”Electrical system malfunction”. I turned the vehicle off/on and the message reappeared every time. I spoke to the dealership they advised that the issue is know to  abruptly shut down power to",
+      "pct": 19
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for th",
+      "pct": 12
+    },
+    {
+      "component": "GASOLINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for th",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi Q8 owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Engine (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE'S START STOP SYSTEM OR TRANSMISSION SEEMS TO BE SLUGGISH LEADING TO VARIOUS BOUTS OF HESITATION ESPECIALLY WHEN SLOWING DOWN AND COASTING AT A SLOW SPEED AND THEN TRYING TO ACCELERATE. THIS WAS ESPECIALLY NOTICEABLE WHEN ATTEMPTING TO TURN LEFT FROM A LEFT TURN LANE A",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "7 reports (27%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "EVERY TIM TOWING A TRAILER AND HITCH WEIGHT IS OVER 300 LBS ( SPECIFICATION SHOWS 770 LBS MAX, ORIGINAL AUDI HITCH INSTALLED  CAME WITH THE CAR ) THE AUDI LIMITED PRE-SENSE WARNING GOES ON AFTER ~45 MIN DRIVE WITH TRAILER. AFTER THAT NO DISTANCE WARNING OR CRUSE CONTROL (ADAPTIVE",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (19%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the vehicle as a CPO, two days (1/28/23)and 200 miles later I got a warning”Electrical system malfunction”. I turned the vehicle off/on and the message reappeared every time. I spoke to the dealership they advised that the issue is know to  abruptly shut down power to",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for th",
+        "pct": 12,
+        "title": "Fuel System",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for th",
+        "pct": 12,
+        "title": "Gasoline",
+        "blurb": "3 reports (12%)"
+      }
+    ]
+  }
+}

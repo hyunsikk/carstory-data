@@ -1,0 +1,84 @@
+{
+  "slug": "2023-mclaren-artura",
+  "make": "McLaren",
+  "model": "Artura",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MCLAREN/ARTURA#complaints",
+  "generatedAt": "2026-06-23T16:47:02.228Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 McLaren Artura. The contact stated while driving 20 MPH the \"Hybrid System failure, call McLaren Service Center\" message displayed on the instrument panel. The contact stated that the vehicle remained in the dealer's possession for three weeks before the c",
+      "pct": 100
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 McLaren Artura. The contact stated while driving 20 MPH the \"Hybrid System failure, call McLaren Service Center\" message displayed on the instrument panel. The contact stated that the vehicle remained in the dealer's possession for three weeks before the c",
+      "pct": 100
+    },
+    {
+      "component": "HYBRID PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 McLaren Artura. The contact stated while driving 20 MPH the \"Hybrid System failure, call McLaren Service Center\" message displayed on the instrument panel. The contact stated that the vehicle remained in the dealer's possession for three weeks before the c",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mclaren Artura owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 McLaren Artura. The contact stated while driving 20 MPH the \"Hybrid System failure, call McLaren Service Center\" message displayed on the instrument panel. The contact stated that the vehicle remained in the dealer's possession for three weeks before the c",
+        "pct": 100,
+        "title": "Fuel System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 McLaren Artura. The contact stated while driving 20 MPH the \"Hybrid System failure, call McLaren Service Center\" message displayed on the instrument panel. The contact stated that the vehicle remained in the dealer's possession for three weeks before the c",
+        "pct": 100,
+        "title": "Gasoline",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "HYBRID PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 McLaren Artura. The contact stated while driving 20 MPH the \"Hybrid System failure, call McLaren Service Center\" message displayed on the instrument panel. The contact stated that the vehicle remained in the dealer's possession for three weeks before the c",
+        "pct": 100,
+        "title": "Hybrid Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

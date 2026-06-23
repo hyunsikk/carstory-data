@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-corolla",
+  "make": "Toyota",
+  "model": "Corolla",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/COROLLA#complaints",
+  "generatedAt": "2026-06-23T16:41:19.175Z",
+  "total": 71,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The automatic engine shut off failed. Normally when stopped the engine shuts off and restarts when pressing the gas. It did not do that and instead turned the vehicle completely off. I was waiting for traffic at an intersection to make a left hand turn when my vehicles engine shu",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was at a stoplight and the car cut off. Not the normal auto power down feature, there was no power. A message saying press the brake down to restart appeared. Then a message saying steering power low appeared. The check engine light came on. I pressed the break down, and the ve",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The automatic engine shut off failed. Normally when stopped the engine shuts off and restarts when pressing the gas. It did not do that and instead turned the vehicle completely off. I was waiting for traffic at an intersection to make a left hand turn when my vehicles engine shu",
+      "pct": 18
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2023 corolla is having some issue with headlights [Low Beams]. I understood from Toyota that this is an safety feature which is designed as per the rules. This is an good idea and i am not denying it. The issue which i have is the person who is driving this car is not having clea",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The automatic engine shut off failed. Normally when stopped the engine shuts off and restarts when pressing the gas. It did not do that and instead turned the vehicle completely off. I was waiting for traffic at an intersection to make a left hand turn when my vehicles engine shu",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Corolla owners report most",
+    "summary": "Across 71 owner complaints to NHTSA, the most reported area is Steering (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The automatic engine shut off failed. Normally when stopped the engine shuts off and restarts when pressing the gas. It did not do that and instead turned the vehicle completely off. I was waiting for traffic at an intersection to make a left hand turn when my vehicles engine shu",
+        "pct": 23,
+        "title": "Steering",
+        "blurb": "16 reports (23%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was at a stoplight and the car cut off. Not the normal auto power down feature, there was no power. A message saying press the brake down to restart appeared. Then a message saying steering power low appeared. The check engine light came on. I pressed the break down, and the ve",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "13 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The automatic engine shut off failed. Normally when stopped the engine shuts off and restarts when pressing the gas. It did not do that and instead turned the vehicle completely off. I was waiting for traffic at an intersection to make a left hand turn when my vehicles engine shu",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "13 reports (18%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2023 corolla is having some issue with headlights [Low Beams]. I understood from Toyota that this is an safety feature which is designed as per the rules. This is an good idea and i am not denying it. The issue which i have is the person who is driving this car is not having clea",
+        "pct": 15,
+        "title": "Exterior Lighting",
+        "blurb": "11 reports (15%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The automatic engine shut off failed. Normally when stopped the engine shuts off and restarts when pressing the gas. It did not do that and instead turned the vehicle completely off. I was waiting for traffic at an intersection to make a left hand turn when my vehicles engine shu",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "6 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

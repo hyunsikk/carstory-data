@@ -1,0 +1,128 @@
+{
+  "slug": "2016-jeep-wrangler",
+  "make": "Jeep",
+  "model": "Wrangler",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/JEEP/WRANGLER#complaints",
+  "generatedAt": "2026-06-23T16:36:17.249Z",
+  "total": 447,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 126,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "MY JEEP WAS BOUGHT BRAND NEW LESS THAN A MONTH AGO AND WHEN I TAKE MY FOOT OFF THE BRAKE OR PRESS THE BRAKES THERE'S A NOISE. ITS NOT THE SAME NOISE THAT THE CAR WOULD MAKE IF THE BRAKES WHERE BAD. I BROUGHT MY CAR BACK TO THE DEALER THAT I GOT IT FROM AND THEY SAID ALL JEEPS DO ",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 87,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2016 JEEP WRANGLER UNLIMITED WITH 20,000 MILES., TODAY I WAS GOING UP A HILL STOPPED AT A MAILBOX THEN STARTED TO TAKE OFF AND THE MOTOR STALLED WHILE IN DRIVE. IT CASED ME TO ROLL BACK ABOUT 3' BEFOR I COULD HIT THE BRAKE ALMOST CAUSED A ACCIDENT. I THEN RESTARTED THE J",
+      "pct": 19
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 77,
+      "crash": 20,
+      "fire": 1,
+      "injuries": 27,
+      "deaths": 0,
+      "sample": "THIS VEHICLE HAS A POSSIBLE AIR BAG CLOCK SPRING MALFUNCTION..THIS IS A SERIOUS THING BUT THIS IS A 2016 MODEL....NOW WE TRADED IN S 2011 WRANGLER THAT HAD THE SAME PROBLEM.   5 YEARS LATER AND STILL NOT FIXED SO I NEED AN ANSWER...  THE CLOCK SPRING WAS REPLACED ON THE 2011  ABO",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 72,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2016 JEEP WRANGLER UNLIMITED WITH 20,000 MILES., TODAY I WAS GOING UP A HILL STOPPED AT A MAILBOX THEN STARTED TO TAKE OFF AND THE MOTOR STALLED WHILE IN DRIVE. IT CASED ME TO ROLL BACK ABOUT 3' BEFOR I COULD HIT THE BRAKE ALMOST CAUSED A ACCIDENT. I THEN RESTARTED THE J",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 54,
+      "crash": 1,
+      "fire": 7,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY SON CAME HOME FROM SCHOOL TO GET HIS WALLET TO GO FILL UP HIS JEEP WHEN HE CAME OUT BACK OUTSIDE THE FRONT OF HIS JEEP WAS SMOKING, WHEN HE OPENED THE HOOD HE FOUND THE RADIATOR FAN ON FIRE. HE QUICKLY RAN AND GOT THE HOSE AND PUT OUT THE FIRE BUT IT CONTINUED TO SMOKE FOR ABO",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Jeep Wrangler owners report most",
+    "summary": "Across 447 owner complaints to NHTSA, the most reported area is Service Brakes (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 126,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "MY JEEP WAS BOUGHT BRAND NEW LESS THAN A MONTH AGO AND WHEN I TAKE MY FOOT OFF THE BRAKE OR PRESS THE BRAKES THERE'S A NOISE. ITS NOT THE SAME NOISE THAT THE CAR WOULD MAKE IF THE BRAKES WHERE BAD. I BROUGHT MY CAR BACK TO THE DEALER THAT I GOT IT FROM AND THEY SAID ALL JEEPS DO ",
+        "pct": 28,
+        "title": "Service Brakes",
+        "blurb": "126 reports (28%) · 1 fire · 3 crash · 5 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 87,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2016 JEEP WRANGLER UNLIMITED WITH 20,000 MILES., TODAY I WAS GOING UP A HILL STOPPED AT A MAILBOX THEN STARTED TO TAKE OFF AND THE MOTOR STALLED WHILE IN DRIVE. IT CASED ME TO ROLL BACK ABOUT 3' BEFOR I COULD HIT THE BRAKE ALMOST CAUSED A ACCIDENT. I THEN RESTARTED THE J",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "87 reports (19%) · 4 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 77,
+        "crash": 20,
+        "fire": 1,
+        "injuries": 27,
+        "deaths": 0,
+        "sample": "THIS VEHICLE HAS A POSSIBLE AIR BAG CLOCK SPRING MALFUNCTION..THIS IS A SERIOUS THING BUT THIS IS A 2016 MODEL....NOW WE TRADED IN S 2011 WRANGLER THAT HAD THE SAME PROBLEM.   5 YEARS LATER AND STILL NOT FIXED SO I NEED AN ANSWER...  THE CLOCK SPRING WAS REPLACED ON THE 2011  ABO",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "77 reports (17%) · 1 fire · 20 crash · 27 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 72,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2016 JEEP WRANGLER UNLIMITED WITH 20,000 MILES., TODAY I WAS GOING UP A HILL STOPPED AT A MAILBOX THEN STARTED TO TAKE OFF AND THE MOTOR STALLED WHILE IN DRIVE. IT CASED ME TO ROLL BACK ABOUT 3' BEFOR I COULD HIT THE BRAKE ALMOST CAUSED A ACCIDENT. I THEN RESTARTED THE J",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "72 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 54,
+        "crash": 1,
+        "fire": 7,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY SON CAME HOME FROM SCHOOL TO GET HIS WALLET TO GO FILL UP HIS JEEP WHEN HE CAME OUT BACK OUTSIDE THE FRONT OF HIS JEEP WAS SMOKING, WHEN HE OPENED THE HOOD HE FOUND THE RADIATOR FAN ON FIRE. HE QUICKLY RAN AND GOT THE HOSE AND PUT OUT THE FIRE BUT IT CONTINUED TO SMOKE FOR ABO",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "54 reports (12%) · 7 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

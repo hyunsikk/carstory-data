@@ -1,0 +1,128 @@
+{
+  "slug": "2020-chrysler-voyager",
+  "make": "Chrysler",
+  "model": "Voyager",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHRYSLER/VOYAGER#complaints",
+  "generatedAt": "2026-06-23T16:44:58.570Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While drivng with the cruise control engaged and encountering a downhill speed increase of about 5 MPH, the transmission kicks down to engage engine breaking. However as the process starts, first the engine revs and will increase vehicle speed by about 5 MPH. An example is cruise",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was turning left into a parking lot when my 2020 Voyager steering stopped working while it started to show all warning lights and the wipers went on, then it went dead, had to be towed on a flatbed to the dealership, and after 4 weeks with no solution in sight, I decided to bri",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was turning left into a parking lot when my 2020 Voyager steering stopped working while it started to show all warning lights and the wipers went on, then it went dead, had to be towed on a flatbed to the dealership, and after 4 weeks with no solution in sight, I decided to bri",
+      "pct": 17
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When child was adjusting the recline in the driver side middle row bucket seat, the seat broke. The seat no longer stays in any recline position, and the seat no longer latches into place at the base and slides forwards and backwards. A system within the seat has failed. My 9 yea",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Chrysler Voyager. The contact stated that while driving at an undisclosed speed, the contact was not able to brake even though the brake pedal was fully depressed. The contact crashed into some logs because the brakes failed. The air bags did not deploy. T",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Chrysler Voyager owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While drivng with the cruise control engaged and encountering a downhill speed increase of about 5 MPH, the transmission kicks down to engage engine breaking. However as the process starts, first the engine revs and will increase vehicle speed by about 5 MPH. An example is cruise",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "6 reports (50%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was turning left into a parking lot when my 2020 Voyager steering stopped working while it started to show all warning lights and the wipers went on, then it went dead, had to be towed on a flatbed to the dealership, and after 4 weeks with no solution in sight, I decided to bri",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "4 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was turning left into a parking lot when my 2020 Voyager steering stopped working while it started to show all warning lights and the wipers went on, then it went dead, had to be towed on a flatbed to the dealership, and after 4 weeks with no solution in sight, I decided to bri",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When child was adjusting the recline in the driver side middle row bucket seat, the seat broke. The seat no longer stays in any recline position, and the seat no longer latches into place at the base and slides forwards and backwards. A system within the seat has failed. My 9 yea",
+        "pct": 8,
+        "title": "Seats",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Chrysler Voyager. The contact stated that while driving at an undisclosed speed, the contact was not able to brake even though the brake pedal was fully depressed. The contact crashed into some logs because the brakes failed. The air bags did not deploy. T",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "1 report (8%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2016-audi-tt",
+  "make": "Audi",
+  "model": "TT",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/TT#complaints",
+  "generatedAt": "2026-06-23T16:26:19.223Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVER SEAT: THE PLASTIC HOUSING ON BOTH SIDES OF THE DRIVER'S SEAT, NEAR THE HEADREST, HAVE POPPED OPEN AND PULLED AWAY FROM THE SEAT. THE IS THE AREA WHERE THE SIDE AIRBAGS ARE STORED AND DEPLOY FROM DURING A COLLISION.     PASSENGER SEAT: THE PLASTIC HOUSING HAS POPPED/PULLED ",
+      "pct": 100
+    },
+    {
+      "component": "SEATS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVER SEAT: THE PLASTIC HOUSING ON BOTH SIDES OF THE DRIVER'S SEAT, NEAR THE HEADREST, HAVE POPPED OPEN AND PULLED AWAY FROM THE SEAT. THE IS THE AREA WHERE THE SIDE AIRBAGS ARE STORED AND DEPLOY FROM DURING A COLLISION.     PASSENGER SEAT: THE PLASTIC HOUSING HAS POPPED/PULLED ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi Tt owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (100% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVER SEAT: THE PLASTIC HOUSING ON BOTH SIDES OF THE DRIVER'S SEAT, NEAR THE HEADREST, HAVE POPPED OPEN AND PULLED AWAY FROM THE SEAT. THE IS THE AREA WHERE THE SIDE AIRBAGS ARE STORED AND DEPLOY FROM DURING A COLLISION.     PASSENGER SEAT: THE PLASTIC HOUSING HAS POPPED/PULLED ",
+        "pct": 100,
+        "title": "Air Bags",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVER SEAT: THE PLASTIC HOUSING ON BOTH SIDES OF THE DRIVER'S SEAT, NEAR THE HEADREST, HAVE POPPED OPEN AND PULLED AWAY FROM THE SEAT. THE IS THE AREA WHERE THE SIDE AIRBAGS ARE STORED AND DEPLOY FROM DURING A COLLISION.     PASSENGER SEAT: THE PLASTIC HOUSING HAS POPPED/PULLED ",
+        "pct": 100,
+        "title": "Seats",
+        "blurb": "2 reports (100%)"
+      }
+    ]
+  }
+}

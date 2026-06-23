@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-sonata",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/SONATA#complaints",
+  "generatedAt": "2026-06-23T16:34:05.439Z",
+  "total": 83,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 36,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While on the highway, my car suddenly started shaking violently and losing power. I lost steering and was unable to accelerate. I pulled over to the side of the road and the vehicle would not start again. I took it in and a fuel injector was stuck open and it had flooded my engin",
+      "pct": 43
+    },
+    {
+      "component": "ENGINE",
+      "count": 26,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on the freeway, at the speed limit, cruising along. Then all of a sudden, my vehicle starts to decelerate from 65 MPH and I push the gas, thinking I must have let up too much on the pedal. However, that only causes the RPM to drastically rise with NO change in my sp",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on the freeway, at the speed limit, cruising along. Then all of a sudden, my vehicle starts to decelerate from 65 MPH and I push the gas, thinking I must have let up too much on the pedal. However, that only causes the RPM to drastically rise with NO change in my sp",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I approach an intersection to stop my car auto shut off engages. When trying to hit the gas to release my car from auto shut off the emergency auto shut off engages and I must put my car in park. Turn the ignition to off and then crank my car back all the way on. Release the",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On a highway cruising at 70mph with the ACC (Adaptive Cruise Control ) on and following distance set at max a car from another lane turned into my lane and then continued to an off ramp. My car initially braked and then downshifted from 8th to maybe 4th and accelerated hard - sca",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Sonata owners report most",
+    "summary": "Across 83 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 36,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While on the highway, my car suddenly started shaking violently and losing power. I lost steering and was unable to accelerate. I pulled over to the side of the road and the vehicle would not start again. I took it in and a fuel injector was stuck open and it had flooded my engin",
+        "pct": 43,
+        "title": "Fuel/Propulsion System",
+        "blurb": "36 reports (43%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 26,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on the freeway, at the speed limit, cruising along. Then all of a sudden, my vehicle starts to decelerate from 65 MPH and I push the gas, thinking I must have let up too much on the pedal. However, that only causes the RPM to drastically rise with NO change in my sp",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "26 reports (31%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on the freeway, at the speed limit, cruising along. Then all of a sudden, my vehicle starts to decelerate from 65 MPH and I push the gas, thinking I must have let up too much on the pedal. However, that only causes the RPM to drastically rise with NO change in my sp",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "15 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I approach an intersection to stop my car auto shut off engages. When trying to hit the gas to release my car from auto shut off the emergency auto shut off engages and I must put my car in park. Turn the ignition to off and then crank my car back all the way on. Release the",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "12 reports (14%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On a highway cruising at 70mph with the ACC (Adaptive Cruise Control ) on and following distance set at max a car from another lane turned into my lane and then continued to an off ramp. My car initially braked and then downshifted from 8th to maybe 4th and accelerated hard - sca",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (10%) · 1 crash"
+      }
+    ]
+  }
+}

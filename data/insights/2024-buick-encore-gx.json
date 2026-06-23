@@ -1,0 +1,128 @@
+{
+  "slug": "2024-buick-encore-gx",
+  "make": "Buick",
+  "model": "Encore GX",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BUICK/ENCORE%20GX#complaints",
+  "generatedAt": "2026-06-23T16:27:24.013Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Buick Encore GX. The contact received notification of NHTSA Campaign Number: 23V744000 (Electrical System), and the vehicle was taken to the dealer, where the recall repair was performed; however, while driving 30 MPH, the instrument cluster display and th",
+      "pct": 63
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Buick Encore GX. The contact stated that while reversing, the rear-view camera displayed a blurry image, and the rear-view camera later displayed a solid red image. The vehicle was taken to the dealer; however, the contact was informed that there were no i",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issue has happened three times and has been \"repaired\" three times. While driving, the vehicle starts to shake violently. Then the check engine light comes on and the vehicle shuts off. It has happened on extremely busy roads and almost caused major accidents. It has been a p",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issue has happened three times and has been \"repaired\" three times. While driving, the vehicle starts to shake violently. Then the check engine light comes on and the vehicle shuts off. It has happened on extremely busy roads and almost caused major accidents. It has been a p",
+      "pct": 8
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon starting up my car, the instrument panel (showing speed, mileage, warning lights, fuel level, blinkers, etc) was completely blank. The entire dashboard is displayed via illumination. This lasted about an hour. There is an open recall on this exact issue, but my VIN isn't inc",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Buick Encore Gx owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Electrical System (63% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Buick Encore GX. The contact received notification of NHTSA Campaign Number: 23V744000 (Electrical System), and the vehicle was taken to the dealer, where the recall repair was performed; however, while driving 30 MPH, the instrument cluster display and th",
+        "pct": 63,
+        "title": "Electrical System",
+        "blurb": "15 reports (63%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Buick Encore GX. The contact stated that while reversing, the rear-view camera displayed a blurry image, and the rear-view camera later displayed a solid red image. The vehicle was taken to the dealer; however, the contact was informed that there were no i",
+        "pct": 8,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issue has happened three times and has been \"repaired\" three times. While driving, the vehicle starts to shake violently. Then the check engine light comes on and the vehicle shuts off. It has happened on extremely busy roads and almost caused major accidents. It has been a p",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issue has happened three times and has been \"repaired\" three times. While driving, the vehicle starts to shake violently. Then the check engine light comes on and the vehicle shuts off. It has happened on extremely busy roads and almost caused major accidents. It has been a p",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon starting up my car, the instrument panel (showing speed, mileage, warning lights, fuel level, blinkers, etc) was completely blank. The entire dashboard is displayed via illumination. This lasted about an hour. There is an open recall on this exact issue, but my VIN isn't inc",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

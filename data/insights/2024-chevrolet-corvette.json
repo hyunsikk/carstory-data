@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-06-23T16:28:16.349Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On July 1st, I had a defect in the electrical system of my Corvette nearly causing a major accident with several cars and trucks due to a immediate and unexpected loss of engine and propulsion.  I was driving about 75 mph on highway in busy traffic.  Car randomly and without any ",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I got locked in my car while a software update was taking place. I was running errand on a very hot day, I went to exit the car and the infotainment system did not shut off like usual, on the info screen was a very dim notice to start a software update, I hit the start now button",
+      "pct": 21
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Front wheels are defective confirmed by certified GM dealership which causes unsafe operation of vehicle. Even though wheels are in pristine condition GM will not cover replacement wheels under their warranty. I spoke with GM about the service bulletins they put out regarding the",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving, car will falsely and intermittently get random error codes on BUS module; resulting in a false FRUNK or Front Latch Service warning  under Body Control Module code B1A5F or U164F for gateway.    Chevy has found electrical connectors for car built in Nov/Dec 2023 whi",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2024 Corvette included AEB. Window sticker shows AEB included.  Build code shows AEB in build. Car one month old 650 miles. The sales dealership and second GM dealership communications with GM tech reads system as OK. BUT DOES NOT WORK. GM system tech says system reads OK BUT THE",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Corvette owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On July 1st, I had a defect in the electrical system of my Corvette nearly causing a major accident with several cars and trucks due to a immediate and unexpected loss of engine and propulsion.  I was driving about 75 mph on highway in busy traffic.  Car randomly and without any ",
+        "pct": 32,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (32%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I got locked in my car while a software update was taking place. I was running errand on a very hot day, I went to exit the car and the infotainment system did not shut off like usual, on the info screen was a very dim notice to start a software update, I hit the start now button",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "4 reports (21%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Front wheels are defective confirmed by certified GM dealership which causes unsafe operation of vehicle. Even though wheels are in pristine condition GM will not cover replacement wheels under their warranty. I spoke with GM about the service bulletins they put out regarding the",
+        "pct": 11,
+        "title": "Wheels",
+        "blurb": "2 reports (11%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving, car will falsely and intermittently get random error codes on BUS module; resulting in a false FRUNK or Front Latch Service warning  under Body Control Module code B1A5F or U164F for gateway.    Chevy has found electrical connectors for car built in Nov/Dec 2023 whi",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "2 reports (11%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2024 Corvette included AEB. Window sticker shows AEB included.  Build code shows AEB in build. Car one month old 650 miles. The sales dealership and second GM dealership communications with GM tech reads system as OK. BUT DOES NOT WORK. GM system tech says system reads OK BUT THE",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

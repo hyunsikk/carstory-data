@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-sonata",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/SONATA#complaints",
+  "generatedAt": "2026-06-23T16:34:10.864Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This has happened three or four times now while I have been driving. While driving, my electrical system will \"black out\"/\"power down\"/\"shut off.\" Everything on my dashboard turns off/goes black. My lights turn off. It is like my car shuts down for 2-4 seconds, then turns back on",
+      "pct": 38
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Hyundai Sonata. The contact stated while driving at an undisclosed speed and attempting to complete a left turn, the Forward Collision Avoidance system abruptly activated, applying Automatic Emergency Braking, bringing the vehicle to a complete stop. The v",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have gone 3 times to dealer because speedometer was off. They confirmed that the speedometer was off but they couldn't do anything about it. They told me that for this car, there is no VSS and the speedometer gets the speed from the navigation system. The navigation system is o",
+      "pct": 15
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I’m driving 75 MPH, my car slows down and on the dash board it reads 20 MPH LIMIT. I’m on the Expressway and, prayerfully, by putting on my HAZARD BLINKERS, I pull over,  wherever it’s safe, turn car off, restart the car and then it’s fine. PLEASE HELP BECAUSE THIS IS A LIFE T",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving early in the morning while it was still dark outside, the car had what seemed to have been a sudden loss of electrical power. The audio for the radio cut off, then the screen for the radio and speedometer went blank, and the headlights also went out. This all lasted ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Sonata owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Electrical System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This has happened three or four times now while I have been driving. While driving, my electrical system will \"black out\"/\"power down\"/\"shut off.\" Everything on my dashboard turns off/goes black. My lights turn off. It is like my car shuts down for 2-4 seconds, then turns back on",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "15 reports (38%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Hyundai Sonata. The contact stated while driving at an undisclosed speed and attempting to complete a left turn, the Forward Collision Avoidance system abruptly activated, applying Automatic Emergency Braking, bringing the vehicle to a complete stop. The v",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have gone 3 times to dealer because speedometer was off. They confirmed that the speedometer was off but they couldn't do anything about it. They told me that for this car, there is no VSS and the speedometer gets the speed from the navigation system. The navigation system is o",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "6 reports (15%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I’m driving 75 MPH, my car slows down and on the dash board it reads 20 MPH LIMIT. I’m on the Expressway and, prayerfully, by putting on my HAZARD BLINKERS, I pull over,  wherever it’s safe, turn car off, restart the car and then it’s fine. PLEASE HELP BECAUSE THIS IS A LIFE T",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (15%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving early in the morning while it was still dark outside, the car had what seemed to have been a sudden loss of electrical power. The audio for the radio cut off, then the screen for the radio and speedometer went blank, and the headlights also went out. This all lasted ",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (13%)"
+      }
+    ]
+  }
+}

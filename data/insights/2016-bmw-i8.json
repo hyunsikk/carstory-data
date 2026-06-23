@@ -1,0 +1,84 @@
+{
+  "slug": "2016-bmw-i8",
+  "make": "BMW",
+  "model": "i8",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/I8#complaints",
+  "generatedAt": "2026-06-23T16:44:26.710Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High voltage battery assembly cell module temperature sensors  Over time one or more of the high voltage cell modules internal sensors fail its a saftey issue A shut down of the high voltage electrical power would result in loss of propulsion increasing the risk of a crash vechic",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2016 BMW I8   EME  HIGH VOLTAGE BATTERY TEMP SENSORS (NTC SENSORS)  WARNING LIGHTS APPEARED WHILE DRIVING LOSS POWER AND MY HIGH VOLTAGE BATTERY SHUT DOWN  AT THE RED LIGHT BUT WAS ABLE TO RESTART IT AGAIN AD MAKE IT HOME",
+      "pct": 33
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED  PIRELLI P ZERO SUMMER SPORTS 245/40 IN THE REAR AND DROVE ABOUT 300 MILES SINCE, AND THEY LOOK WORN-OUT AND THE CAR SLIPS PRETTY BAD IN THE RAIN. JUST AFTER PURCHASING THE TIRES ON A RAINY DAY ON THE HIGHWAY MY CAR SPUN OUT ALMOST RAN INTO THE MEDIAN. WHO WOULD HAVE ",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw I8 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High voltage battery assembly cell module temperature sensors  Over time one or more of the high voltage cell modules internal sensors fail its a saftey issue A shut down of the high voltage electrical power would result in loss of propulsion increasing the risk of a crash vechic",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2016 BMW I8   EME  HIGH VOLTAGE BATTERY TEMP SENSORS (NTC SENSORS)  WARNING LIGHTS APPEARED WHILE DRIVING LOSS POWER AND MY HIGH VOLTAGE BATTERY SHUT DOWN  AT THE RED LIGHT BUT WAS ABLE TO RESTART IT AGAIN AD MAKE IT HOME",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED  PIRELLI P ZERO SUMMER SPORTS 245/40 IN THE REAR AND DROVE ABOUT 300 MILES SINCE, AND THEY LOOK WORN-OUT AND THE CAR SLIPS PRETTY BAD IN THE RAIN. JUST AFTER PURCHASING THE TIRES ON A RAINY DAY ON THE HIGHWAY MY CAR SPUN OUT ALMOST RAN INTO THE MEDIAN. WHO WOULD HAVE ",
+        "pct": 33,
+        "title": "Tires",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

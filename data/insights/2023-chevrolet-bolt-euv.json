@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-bolt-euv",
+  "make": "Chevrolet",
+  "model": "Bolt EUV",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/BOLT%20EUV#complaints",
+  "generatedAt": "2026-06-23T16:28:00.061Z",
+  "total": 104,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 27,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "First off the Forward Collision Alert doesn't work until your about 1 to 2 feet from impact, no matter which of the 3 settings it's put on. We were so close to impact to the rear of a semi when the service tech was testing it that I was very uncomfortable. The lane assist doesn't",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Bolt EUV. The contact stated that while driving at an undisclosed speed, the speedometer failed to operate at an accurate speed and the energy dropped to a zero percent while accelerating. The contact also stated that while shifted into reverse, ",
+      "pct": 24
+    },
+    {
+      "component": "STEERING",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When I drive the car the steering binds up. After doing some research they are several vehicles that have this issue. The steering does not return to center and you have to make sure you forcibly turn back to center when driving. I have never drove a vehicle that it would not ret",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 13,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was driving on CT Route 2 using super cruise. We came upon a construction zone and the bar on the steering wheel changed from green to red. The car came to a complete stop in the middle of the highway and didn't respond to the accelerator pedal. This is a frightening situation ",
+      "pct": 13
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I just recently got my 2023 BoltEUV and I have discovered that the configuration of the rear end brake lights is dangerous because people expect the lights on the hatch to be the brake lights, but they are actually only running lights at nights. The brake lights and turn signals ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Bolt Euv owners report most",
+    "summary": "Across 104 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 27,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "First off the Forward Collision Alert doesn't work until your about 1 to 2 feet from impact, no matter which of the 3 settings it's put on. We were so close to impact to the rear of a semi when the service tech was testing it that I was very uncomfortable. The lane assist doesn't",
+        "pct": 26,
+        "title": "Forward Collision Avoidance",
+        "blurb": "27 reports (26%) · 4 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Bolt EUV. The contact stated that while driving at an undisclosed speed, the speedometer failed to operate at an accurate speed and the energy dropped to a zero percent while accelerating. The contact also stated that while shifted into reverse, ",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "25 reports (24%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When I drive the car the steering binds up. After doing some research they are several vehicles that have this issue. The steering does not return to center and you have to make sure you forcibly turn back to center when driving. I have never drove a vehicle that it would not ret",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "15 reports (14%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 13,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was driving on CT Route 2 using super cruise. We came upon a construction zone and the bar on the steering wheel changed from green to red. The car came to a complete stop in the middle of the highway and didn't respond to the accelerator pedal. This is a frightening situation ",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "13 reports (13%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I just recently got my 2023 BoltEUV and I have discovered that the configuration of the rear end brake lights is dangerous because people expect the lights on the hatch to be the brake lights, but they are actually only running lights at nights. The brake lights and turn signals ",
+        "pct": 12,
+        "title": "Exterior Lighting",
+        "blurb": "12 reports (12%) · 2 crash"
+      }
+    ]
+  }
+}

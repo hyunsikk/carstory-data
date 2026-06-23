@@ -1,0 +1,128 @@
+{
+  "slug": "2015-hyundai-equus",
+  "make": "Hyundai",
+  "model": "Equus",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/HYUNDAI/EQUUS#complaints",
+  "generatedAt": "2026-06-23T16:45:08.894Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "SEATS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHENEVER IT GETS HOT IN THIS AREA, MY VEHICLE MALFUNCTIONS. FIRST THE DASH BUBBLED AND HAD TO BE REPLACED. THE LEATHER ON THE DRIVER DOOR BUBBLES UP AND HAS BEEN REPLACED.. IT IS BUBBLING AGAIN ON THE DRIVER DOOR BUT IS NOT COVERED BY THE EXTENDED WARRANTY. BOTH HEADRESTS HAVE PO",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MAY 4TH 2019 VEHICLE FOUND DEAD AND WOULD NOT START. NO SIGNS OF ANY BATTERY ISSUES IN THE PAST FEW DAYS. THE VEHICLE WAS TOWED DIRECTLY TO THE SERVICE DEPARTMENT AT EMPIRE HYUNDAI LOCATED IN FALL RIVER, MA. VEHICLE CONFIRMED BY SERVICE DEPARTMENT TO TURN OVER, HOWEVER NO LIGHTS ",
+      "pct": 22
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MAY 4TH 2019 VEHICLE FOUND DEAD AND WOULD NOT START. NO SIGNS OF ANY BATTERY ISSUES IN THE PAST FEW DAYS. THE VEHICLE WAS TOWED DIRECTLY TO THE SERVICE DEPARTMENT AT EMPIRE HYUNDAI LOCATED IN FALL RIVER, MA. VEHICLE CONFIRMED BY SERVICE DEPARTMENT TO TURN OVER, HOWEVER NO LIGHTS ",
+      "pct": 22
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within last two years I've been dealing with random and intermittent headlight flickering/turning off when the light stalk switch is in AUTO mode. Also, the cabin lights flicker and turn off at the same time when headlights do. It is very dangerous when it happens during night dr",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Hyundai Equus. The contact stated that while the vehicle was parked in the garage, there was an unknown liquid leaking from under the hood. The contact received notification of NHTSA Campaign Number: 23V651000 (Services Brakes, Hydraulic) however, the part",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Hyundai Equus owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Seats (22% of reports).",
+    "issues": [
+      {
+        "component": "SEATS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHENEVER IT GETS HOT IN THIS AREA, MY VEHICLE MALFUNCTIONS. FIRST THE DASH BUBBLED AND HAD TO BE REPLACED. THE LEATHER ON THE DRIVER DOOR BUBBLES UP AND HAS BEEN REPLACED.. IT IS BUBBLING AGAIN ON THE DRIVER DOOR BUT IS NOT COVERED BY THE EXTENDED WARRANTY. BOTH HEADRESTS HAVE PO",
+        "pct": 22,
+        "title": "Seats",
+        "blurb": "2 reports (22%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MAY 4TH 2019 VEHICLE FOUND DEAD AND WOULD NOT START. NO SIGNS OF ANY BATTERY ISSUES IN THE PAST FEW DAYS. THE VEHICLE WAS TOWED DIRECTLY TO THE SERVICE DEPARTMENT AT EMPIRE HYUNDAI LOCATED IN FALL RIVER, MA. VEHICLE CONFIRMED BY SERVICE DEPARTMENT TO TURN OVER, HOWEVER NO LIGHTS ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MAY 4TH 2019 VEHICLE FOUND DEAD AND WOULD NOT START. NO SIGNS OF ANY BATTERY ISSUES IN THE PAST FEW DAYS. THE VEHICLE WAS TOWED DIRECTLY TO THE SERVICE DEPARTMENT AT EMPIRE HYUNDAI LOCATED IN FALL RIVER, MA. VEHICLE CONFIRMED BY SERVICE DEPARTMENT TO TURN OVER, HOWEVER NO LIGHTS ",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within last two years I've been dealing with random and intermittent headlight flickering/turning off when the light stalk switch is in AUTO mode. Also, the cabin lights flicker and turn off at the same time when headlights do. It is very dangerous when it happens during night dr",
+        "pct": 11,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Hyundai Equus. The contact stated that while the vehicle was parked in the garage, there was an unknown liquid leaking from under the hood. The contact received notification of NHTSA Campaign Number: 23V651000 (Services Brakes, Hydraulic) however, the part",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

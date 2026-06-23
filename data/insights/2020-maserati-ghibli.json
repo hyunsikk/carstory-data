@@ -1,0 +1,106 @@
+{
+  "slug": "2020-maserati-ghibli",
+  "make": "Maserati",
+  "model": "Ghibli",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MASERATI/GHIBLI#complaints",
+  "generatedAt": "2026-06-23T16:42:53.724Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving around 45mph I began to smell a burning scent. This intensified and smoke began to enter the cabin of the car. I pulled over and called 911. After opening the hood the fire department extinguished a small fire in the engine compartment just forward of the driver ste",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The back up camera does not work in my car. It works on occasion, very rare occasion.  There is an active recall for this same issue with the manufacturer but according to my VIN it’s not included but I’m having same issues as the other cars are having.",
+      "pct": 20
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The back up camera does not work .  It is having the same issues in the current recall for newer models. It works very intermittently. Maybe works one out of 10 - 15 times.",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Maserati Ghibli. The contact stated while driving approximately 40 MPH, the driver’s side sun visor independently lowered, covering a large section of the driver’s side windshield. The contact stated no warning light was illuminated. The contact had taken ",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Maserati Ghibli owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving around 45mph I began to smell a burning scent. This intensified and smoke began to enter the cabin of the car. I pulled over and called 911. After opening the hood the fire department extinguished a small fire in the engine compartment just forward of the driver ste",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "2 reports (40%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The back up camera does not work in my car. It works on occasion, very rare occasion.  There is an active recall for this same issue with the manufacturer but according to my VIN it’s not included but I’m having same issues as the other cars are having.",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The back up camera does not work .  It is having the same issues in the current recall for newer models. It works very intermittently. Maybe works one out of 10 - 15 times.",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Maserati Ghibli. The contact stated while driving approximately 40 MPH, the driver’s side sun visor independently lowered, covering a large section of the driver’s side windshield. The contact stated no warning light was illuminated. The contact had taken ",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

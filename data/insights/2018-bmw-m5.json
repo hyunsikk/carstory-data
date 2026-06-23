@@ -1,0 +1,128 @@
+{
+  "slug": "2018-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/M5#complaints",
+  "generatedAt": "2026-06-23T16:26:50.037Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The coolant tank on my 2018 M5 failed causing a coolant leak. This is a highly documented problem on the forums and mine needed replacement at 22k miles. The bigger issue is the location of the tank because the coolant leaks on the ignition coils and fuel injectors causing failur",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is for the front passenger seat only.The idrive system will give an error for the passenger restraint system and will mention there is a seat belt issue and turn off the airbag. This is intermittent and will happen with or without a passenger. I contacted BMW about it but be",
+      "pct": 25
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is for the front passenger seat only.The idrive system will give an error for the passenger restraint system and will mention there is a seat belt issue and turn off the airbag. This is intermittent and will happen with or without a passenger. I contacted BMW about it but be",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I ALMOST HAD A TERRIBLE ACCIDENT IN MY 2 WEEK OLD 2018 M5 ON THE 1-95 HIGHWAY ON THE NIGHT OF MAY 25, 2018 AT ABOUT 9:45PM. WITHOUT WARNING,  AT ABOUT 65MPH, THE CAR JERKED FOR ABOUT 3SECONDS , KICKED OUT OF DRIVE INTO NEUTRAL AND STARTED DECELERATING. I WAS IN THE MIDDLE LANE SU",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I ALMOST HAD A TERRIBLE ACCIDENT IN MY 2 WEEK OLD 2018 M5 ON THE 1-95 HIGHWAY ON THE NIGHT OF MAY 25, 2018 AT ABOUT 9:45PM. WITHOUT WARNING,  AT ABOUT 65MPH, THE CAR JERKED FOR ABOUT 3SECONDS , KICKED OUT OF DRIVE INTO NEUTRAL AND STARTED DECELERATING. I WAS IN THE MIDDLE LANE SU",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw M5 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The coolant tank on my 2018 M5 failed causing a coolant leak. This is a highly documented problem on the forums and mine needed replacement at 22k miles. The bigger issue is the location of the tank because the coolant leaks on the ignition coils and fuel injectors causing failur",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is for the front passenger seat only.The idrive system will give an error for the passenger restraint system and will mention there is a seat belt issue and turn off the airbag. This is intermittent and will happen with or without a passenger. I contacted BMW about it but be",
+        "pct": 25,
+        "title": "Air Bags",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is for the front passenger seat only.The idrive system will give an error for the passenger restraint system and will mention there is a seat belt issue and turn off the airbag. This is intermittent and will happen with or without a passenger. I contacted BMW about it but be",
+        "pct": 25,
+        "title": "Seat Belts",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I ALMOST HAD A TERRIBLE ACCIDENT IN MY 2 WEEK OLD 2018 M5 ON THE 1-95 HIGHWAY ON THE NIGHT OF MAY 25, 2018 AT ABOUT 9:45PM. WITHOUT WARNING,  AT ABOUT 65MPH, THE CAR JERKED FOR ABOUT 3SECONDS , KICKED OUT OF DRIVE INTO NEUTRAL AND STARTED DECELERATING. I WAS IN THE MIDDLE LANE SU",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I ALMOST HAD A TERRIBLE ACCIDENT IN MY 2 WEEK OLD 2018 M5 ON THE 1-95 HIGHWAY ON THE NIGHT OF MAY 25, 2018 AT ABOUT 9:45PM. WITHOUT WARNING,  AT ABOUT 65MPH, THE CAR JERKED FOR ABOUT 3SECONDS , KICKED OUT OF DRIVE INTO NEUTRAL AND STARTED DECELERATING. I WAS IN THE MIDDLE LANE SU",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-bmw-m8",
+  "make": "BMW",
+  "model": "M8",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/M8#complaints",
+  "generatedAt": "2026-06-23T16:44:05.300Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving, the vehicle immediately went into full unintended acceleration without any input from the accelerator pedal. I removed my foot completely from the pedal, but engine RPM increased to full 7000 rpm’s and the throttle was stuck there. The vehicle surged forward unexpe",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On [XXX]. My car went into unintended acceleration at full throttle of 8000 RPMs.  The engine was stuck at maximum power and would not slow down. My car slide until it hit a curb and was forced to stop. However, the engine was still running at full maximum capacity at full uninte",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On [XXX]. My car went into unintended acceleration at full throttle of 8000 RPMs.  The engine was stuck at maximum power and would not slow down. My car slide until it hit a curb and was forced to stop. However, the engine was still running at full maximum capacity at full uninte",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine misfire and loss of power.  Too to bmw for check up. It was coolant tank leak into injectors. BMW is not replacing the tank as part of recall. It is changing only injectors even though the recall specifically addresses the tank causing the issue. BMW argument is as part of",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving, the vehicle immediately went into full unintended acceleration without any input from the accelerator pedal. I removed my foot completely from the pedal, but engine RPM increased to full 7000 rpm’s and the throttle was stuck there. The vehicle surged forward unexpe",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw M8 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving, the vehicle immediately went into full unintended acceleration without any input from the accelerator pedal. I removed my foot completely from the pedal, but engine RPM increased to full 7000 rpm’s and the throttle was stuck there. The vehicle surged forward unexpe",
+        "pct": 40,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (40%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On [XXX]. My car went into unintended acceleration at full throttle of 8000 RPMs.  The engine was stuck at maximum power and would not slow down. My car slide until it hit a curb and was forced to stop. However, the engine was still running at full maximum capacity at full uninte",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On [XXX]. My car went into unintended acceleration at full throttle of 8000 RPMs.  The engine was stuck at maximum power and would not slow down. My car slide until it hit a curb and was forced to stop. However, the engine was still running at full maximum capacity at full uninte",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine misfire and loss of power.  Too to bmw for check up. It was coolant tank leak into injectors. BMW is not replacing the tank as part of recall. It is changing only injectors even though the recall specifically addresses the tank causing the issue. BMW argument is as part of",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving, the vehicle immediately went into full unintended acceleration without any input from the accelerator pedal. I removed my foot completely from the pedal, but engine RPM increased to full 7000 rpm’s and the throttle was stuck there. The vehicle surged forward unexpe",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-acura-mdx",
+  "make": "Acura",
+  "model": "MDX",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/ACURA/MDX#complaints",
+  "generatedAt": "2026-06-23T16:24:54.437Z",
+  "total": 121,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 38,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the new MDX 2022 on May 27th 2021. On May 31st, while driving on the Interstate 287 at 65mph, the car suddenly stop accelerating. When I pushed the gas pedal, the engine only revved up but the car continued to slow down. I pulled the car on the shoulder lane, shut the",
+      "pct": 31
+    },
+    {
+      "component": "STEERING",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At slow speed our brand new vehicle with only 800 miles the electric power steering system failed causing difficulty manually steering the vehicle and pulling off the roadway. In addition every warning light illuminated on dashboard. Vehicle was towed to Acura of Turnersville in ",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The brakes are not working warning light has flashed several times. In numerous calls and dealer visits Acura has no resolution the say it’s under investigation. There is a service bulletin from May of 2021 but I was never advised of this issue and I am very uncomfortable driving",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The brakes are not working warning light has flashed several times. In numerous calls and dealer visits Acura has no resolution the say it’s under investigation. There is a service bulletin from May of 2021 but I was never advised of this issue and I am very uncomfortable driving",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 17,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving on a 80-mph 3-lane one direction (6 both) toll road, following a Tx State Trooper. About a 1/4 mile ahead of me were two waste disposal trucks. One in the right land and one passing the other in the center lane. The trooper and I pulled into the left lane. As we app",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Acura Mdx owners report most",
+    "summary": "Across 121 owner complaints to NHTSA, the most reported area is Power Train (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 38,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the new MDX 2022 on May 27th 2021. On May 31st, while driving on the Interstate 287 at 65mph, the car suddenly stop accelerating. When I pushed the gas pedal, the engine only revved up but the car continued to slow down. I pulled the car on the shoulder lane, shut the",
+        "pct": 31,
+        "title": "Power Train",
+        "blurb": "38 reports (31%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At slow speed our brand new vehicle with only 800 miles the electric power steering system failed causing difficulty manually steering the vehicle and pulling off the roadway. In addition every warning light illuminated on dashboard. Vehicle was towed to Acura of Turnersville in ",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "18 reports (15%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The brakes are not working warning light has flashed several times. In numerous calls and dealer visits Acura has no resolution the say it’s under investigation. There is a service bulletin from May of 2021 but I was never advised of this issue and I am very uncomfortable driving",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "18 reports (15%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The brakes are not working warning light has flashed several times. In numerous calls and dealer visits Acura has no resolution the say it’s under investigation. There is a service bulletin from May of 2021 but I was never advised of this issue and I am very uncomfortable driving",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "18 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 17,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving on a 80-mph 3-lane one direction (6 both) toll road, following a Tx State Trooper. About a 1/4 mile ahead of me were two waste disposal trucks. One in the right land and one passing the other in the center lane. The trooper and I pulled into the left lane. As we app",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "17 reports (14%) · 1 fire · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

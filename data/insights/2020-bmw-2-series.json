@@ -1,0 +1,128 @@
+{
+  "slug": "2020-bmw-2-series",
+  "make": "BMW",
+  "model": "2 Series",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/2%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:42.309Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I GOT MY CAR IN MAY 2020. I HAVE NEVER HAD ANY ISSUE WITH THE TIRE FOR 8 YEARS OF MY ENTIRE DRIVING HISTORY. BUT FOR THIS CAR, MY TIRE RAN FLAT IN JULY 2020, AFTER RUNNING OVER A SMALL POTHOLE ON A LOCAL ROAD, AND IT RAN FLAT AGAIN IN JAN 2021 AFTER RUNNING A SUPER TINY POTHOLE O",
+      "pct": 50
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A towing company came to pick up the car.  They may have damaged the carriage/axel based on the tire mark they left on our drive way.  The lines were not straight and it looks like they dragged the car.",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1/8/2025 Drive Train Malfunction.  Towed to BMW Dealer.  Dealership determined  a faulty GWS system, Program new system, New center console and battery drained needs replaced.  I was told by the dealership this not normal for a vehicle with 22k miles .  BMW North Amaerica told me",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1/8/2025 Drive Train Malfunction.  Towed to BMW Dealer.  Dealership determined  a faulty GWS system, Program new system, New center console and battery drained needs replaced.  I was told by the dealership this not normal for a vehicle with 22k miles .  BMW North Amaerica told me",
+      "pct": 25
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED A NEW 2020 BMW 230I IN MAY 2020.  ITS FIRST AND ONLY SERVICING WAS ON 12/9/20 FOR A 10,000 MILE OIL CHANGE AND \"MULTI-POINT INSPECTION,\" IN WHICH ONE OF THE INSPECTION ITEMS WAS \"INSPECT SUNROOF OPERATION AND CHECK FOR LEAKS.\"  12/11/20  I WAS DRIVING TO MY OFFICE NOR",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw 2 Series owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Wheels (50% of reports).",
+    "issues": [
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I GOT MY CAR IN MAY 2020. I HAVE NEVER HAD ANY ISSUE WITH THE TIRE FOR 8 YEARS OF MY ENTIRE DRIVING HISTORY. BUT FOR THIS CAR, MY TIRE RAN FLAT IN JULY 2020, AFTER RUNNING OVER A SMALL POTHOLE ON A LOCAL ROAD, AND IT RAN FLAT AGAIN IN JAN 2021 AFTER RUNNING A SUPER TINY POTHOLE O",
+        "pct": 50,
+        "title": "Wheels",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A towing company came to pick up the car.  They may have damaged the carriage/axel based on the tire mark they left on our drive way.  The lines were not straight and it looks like they dragged the car.",
+        "pct": 25,
+        "title": "Suspension",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1/8/2025 Drive Train Malfunction.  Towed to BMW Dealer.  Dealership determined  a faulty GWS system, Program new system, New center console and battery drained needs replaced.  I was told by the dealership this not normal for a vehicle with 22k miles .  BMW North Amaerica told me",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1/8/2025 Drive Train Malfunction.  Towed to BMW Dealer.  Dealership determined  a faulty GWS system, Program new system, New center console and battery drained needs replaced.  I was told by the dealership this not normal for a vehicle with 22k miles .  BMW North Amaerica told me",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED A NEW 2020 BMW 230I IN MAY 2020.  ITS FIRST AND ONLY SERVICING WAS ON 12/9/20 FOR A 10,000 MILE OIL CHANGE AND \"MULTI-POINT INSPECTION,\" IN WHICH ONE OF THE INSPECTION ITEMS WAS \"INSPECT SUNROOF OPERATION AND CHECK FOR LEAKS.\"  12/11/20  I WAS DRIVING TO MY OFFICE NOR",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

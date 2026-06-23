@@ -1,0 +1,128 @@
+{
+  "slug": "2023-bmw-x5",
+  "make": "BMW",
+  "model": "X5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X5#complaints",
+  "generatedAt": "2026-06-23T16:27:05.435Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "11/21~11/24: Transmission shift from D to N while driving and the vehicle lost power. system down and change to Charging Mode, which shows when power off. Need to push the start button couple of times to turn X5 on. These things happen 3 times.  11/28~12/2: BMW service tech updat",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought my 2023 BMW X5 brand new on 1/9/23- was driving through West Pam Beach on the way home from vacation and spilled a little water on my console.  I immediately got a message on the dash that there was something wrong with the drive train.  It then said not to turn off the ",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The vehicle rolled away after the driver exited the vehicle with the transmission in Neutral and the parking brake was not applied.  This negligent design flaw is because BMW has chosen to not revert the vehicle to Park if the door is opened like other car manufacturers. A simple",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My sunroof spontaneously exploded yesterday, which sounded like a loud shotgun blast going off.  Fortunately my vehicle was stopped at the time, but no rocks or debris had hit it to cause this then or previously, and nothing had fallen on it.  No warning or other symptoms prior t",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was accelerating from a green light in ELECTRIC only mode, once nearing 25 mph, felt a single strong jolt that caused acceleration to pause, the Hybrid mode automatically kicked in and acceleration continued under engine power.  Received several warnings and alerts on the displ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X5 owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Power Train (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "11/21~11/24: Transmission shift from D to N while driving and the vehicle lost power. system down and change to Charging Mode, which shows when power off. Need to push the start button couple of times to turn X5 on. These things happen 3 times.  11/28~12/2: BMW service tech updat",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "7 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought my 2023 BMW X5 brand new on 1/9/23- was driving through West Pam Beach on the way home from vacation and spilled a little water on my console.  I immediately got a message on the dash that there was something wrong with the drive train.  It then said not to turn off the ",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "7 reports (25%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The vehicle rolled away after the driver exited the vehicle with the transmission in Neutral and the parking brake was not applied.  This negligent design flaw is because BMW has chosen to not revert the vehicle to Park if the door is opened like other car manufacturers. A simple",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "3 reports (11%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My sunroof spontaneously exploded yesterday, which sounded like a loud shotgun blast going off.  Fortunately my vehicle was stopped at the time, but no rocks or debris had hit it to cause this then or previously, and nothing had fallen on it.  No warning or other symptoms prior t",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was accelerating from a green light in ELECTRIC only mode, once nearing 25 mph, felt a single strong jolt that caused acceleration to pause, the Hybrid mode automatically kicked in and acceleration continued under engine power.  Received several warnings and alerts on the displ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "3 reports (11%)"
+      }
+    ]
+  }
+}

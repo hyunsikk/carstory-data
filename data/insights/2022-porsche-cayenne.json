@@ -1,0 +1,84 @@
+{
+  "slug": "2022-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:47.342Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing a complaint regarding an ongoing and unresolved HVAC odor issue affecting my 2023 Porsche Cayenne S Platinum Edition. Since shortly after taking ownership, the vehicle has consistently produced a strong mildew/musty odor after sitting for several hours. The odor is mo",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Porsche Cayenne. The contact stated that the message that the mileage could not be recorded was intermittently displayed while driving. Additionally, the contact stated that the rearview camera was intermittently inoperable after shifting to reverse(R). Th",
+      "pct": 50
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Porsche Cayenne. The contact stated that the message that the mileage could not be recorded was intermittently displayed while driving. Additionally, the contact stated that the rearview camera was intermittently inoperable after shifting to reverse(R). Th",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Porsche Cayenne owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Visibility (50% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing a complaint regarding an ongoing and unresolved HVAC odor issue affecting my 2023 Porsche Cayenne S Platinum Edition. Since shortly after taking ownership, the vehicle has consistently produced a strong mildew/musty odor after sitting for several hours. The odor is mo",
+        "pct": 50,
+        "title": "Visibility",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Porsche Cayenne. The contact stated that the message that the mileage could not be recorded was intermittently displayed while driving. Additionally, the contact stated that the rearview camera was intermittently inoperable after shifting to reverse(R). Th",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Porsche Cayenne. The contact stated that the message that the mileage could not be recorded was intermittently displayed while driving. Additionally, the contact stated that the rearview camera was intermittently inoperable after shifting to reverse(R). Th",
+        "pct": 50,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-genesis-gv70",
+  "make": "Genesis",
+  "model": "GV70",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GENESIS/GV70#complaints",
+  "generatedAt": "2026-06-23T16:31:09.716Z",
+  "total": 86,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During a road trip, the GV70 only having about 5000 miles, a Check Engine light came on. Cause of said warning was fuel injector malfunction. The car still operated normally. Took in to Dealer repair shop after getting back home from road trip and Dealer had car for over 5 weeks ",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This car had a lack of power since inception. The transmission had a horrible grinding sound during the upshift and down shifting of the transmission. Hyundai Corporation did replace the transmission but the grinding sound is not completely gone. The check engine light is current",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car has now lost power several times, including incident trying to cross multi lane road when it lost power and caused other vehicles to slam on brakes to avoid hitting me. The car lost power while merging onto interstate and vehicles had to avoid my car. It’s lost power just dri",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Genesis GV70. The contact stated while driving at an undisclosed speed and coming to a stop, the vehicle lost motive power and stalled. The vehicle was restarted and operated normally. The vehicle was not taken to the dealer to be diagnosed or repaired. Th",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The location of the sensors for the forward collision, adaptive cruise control and lane departure are located too low in the front grill.  During snow conditions ice and snow cover the sensors and they do not operated properly.  I purchased my vehicle in August 2021 and last wint",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Genesis Gv70 owners report most",
+    "summary": "Across 86 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During a road trip, the GV70 only having about 5000 miles, a Check Engine light came on. Cause of said warning was fuel injector malfunction. The car still operated normally. Took in to Dealer repair shop after getting back home from road trip and Dealer had car for over 5 weeks ",
+        "pct": 28,
+        "title": "Fuel/Propulsion System",
+        "blurb": "24 reports (28%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This car had a lack of power since inception. The transmission had a horrible grinding sound during the upshift and down shifting of the transmission. Hyundai Corporation did replace the transmission but the grinding sound is not completely gone. The check engine light is current",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "18 reports (21%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car has now lost power several times, including incident trying to cross multi lane road when it lost power and caused other vehicles to slam on brakes to avoid hitting me. The car lost power while merging onto interstate and vehicles had to avoid my car. It’s lost power just dri",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "15 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Genesis GV70. The contact stated while driving at an undisclosed speed and coming to a stop, the vehicle lost motive power and stalled. The vehicle was restarted and operated normally. The vehicle was not taken to the dealer to be diagnosed or repaired. Th",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "9 reports (10%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The location of the sensors for the forward collision, adaptive cruise control and lane departure are located too low in the front grill.  During snow conditions ice and snow cover the sensors and they do not operated properly.  I purchased my vehicle in August 2021 and last wint",
+        "pct": 9,
+        "title": "Vehicle Speed Control",
+        "blurb": "8 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

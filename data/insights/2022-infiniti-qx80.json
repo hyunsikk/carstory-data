@@ -1,0 +1,62 @@
+{
+  "slug": "2022-infiniti-qx80",
+  "make": "Infiniti",
+  "model": "QX80",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/INFINITI/QX80#complaints",
+  "generatedAt": "2026-06-23T16:35:03.496Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Full system fault on the center stack display.  The unit turns off completely and/or resets continuously.  The rear parking camera, audio, navigation, etc. is affected when this issue occurs.",
+      "pct": 100
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Full system fault on the center stack display.  The unit turns off completely and/or resets continuously.  The rear parking camera, audio, navigation, etc. is affected when this issue occurs.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Infiniti Qx80 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Full system fault on the center stack display.  The unit turns off completely and/or resets continuously.  The rear parking camera, audio, navigation, etc. is affected when this issue occurs.",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Full system fault on the center stack display.  The unit turns off completely and/or resets continuously.  The rear parking camera, audio, navigation, etc. is affected when this issue occurs.",
+        "pct": 100,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

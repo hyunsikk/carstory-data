@@ -1,0 +1,128 @@
+{
+  "slug": "2024-buick-envision",
+  "make": "Buick",
+  "model": "Envision",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BUICK/ENVISION#complaints",
+  "generatedAt": "2026-06-23T16:27:26.491Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Prior to the first oil change which is recommended at 7500 miles, I check the oil and there was NO oil present on the dip stick...none,  not a drop.  I had to add 1 3/4 quarts to get it in the accepted range.  We took the car for its normal 7500 mile oil change and informed the d",
+      "pct": 44
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving on the freeway at night in intermittently foggy conditions, I attempted to adjust the automatic high-beam controls on the center console screen in the vehicle. During this attempt, as I was selecting to deactivate the auto lighting function, ALL of the vehicle lights",
+      "pct": 33
+    },
+    {
+      "component": "PARKING BRAKE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Buick Envision. The contact stated that while in reverse(R), the vehicle started rolling backwards and independently stopped. There was no warning light illuminated. The vehicle was taken to a local dealer, where an employee suggested disabling the parking",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Description of Safety Defect: While operating the vehicle at approximately  25-30MPH and make a right turn, the vehicle experienced a sudden and total loss of power/engine stall, accompanied by a \"Check Engine\" light and a \"Reduced Engine Power\" notification. This resulted in a n",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "“Loss of vehicle stability”  “Feels like wheels may detach”  “Ride height abnormal”  “Unresolved after multiple repairs”  “Safety risk”",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Buick Envision owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Engine (44% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Prior to the first oil change which is recommended at 7500 miles, I check the oil and there was NO oil present on the dip stick...none,  not a drop.  I had to add 1 3/4 quarts to get it in the accepted range.  We took the car for its normal 7500 mile oil change and informed the d",
+        "pct": 44,
+        "title": "Engine",
+        "blurb": "4 reports (44%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving on the freeway at night in intermittently foggy conditions, I attempted to adjust the automatic high-beam controls on the center console screen in the vehicle. During this attempt, as I was selecting to deactivate the auto lighting function, ALL of the vehicle lights",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "PARKING BRAKE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Buick Envision. The contact stated that while in reverse(R), the vehicle started rolling backwards and independently stopped. There was no warning light illuminated. The vehicle was taken to a local dealer, where an employee suggested disabling the parking",
+        "pct": 11,
+        "title": "Parking Brake",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Description of Safety Defect: While operating the vehicle at approximately  25-30MPH and make a right turn, the vehicle experienced a sudden and total loss of power/engine stall, accompanied by a \"Check Engine\" light and a \"Reduced Engine Power\" notification. This resulted in a n",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "“Loss of vehicle stability”  “Feels like wheels may detach”  “Ride height abnormal”  “Unresolved after multiple repairs”  “Safety risk”",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

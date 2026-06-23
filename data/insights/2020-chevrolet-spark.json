@@ -1,0 +1,128 @@
+{
+  "slug": "2020-chevrolet-spark",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHEVROLET/SPARK#complaints",
+  "generatedAt": "2026-06-23T16:28:44.209Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 7,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2020 CHEVROLET SPARK. THE CONTACT STATED WHILE HER HUSBAND WAS DRIVING AT UNKNOWN SPEED WHEN HE HAD A MEDICAL EVENT WHICH CAUSED HIM TO CRASHED INTO A TREE. THE AIR BAGS DID NOT DEPLOY. THE DRIVER SUSTAINED A FRACTURED BACK AND HEAD INJURIES AND SOUGHT MED",
+      "pct": 37
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our car broke down on 07/08/2021 and went into the shop on 07/12/2021. It was eventually determined the engine had to be replaced. The car was in the shop until 09/02/2021. The following day during a test drive I noticed some minor, unusual response, almost unnoticeable, from the",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Chevrolet Spark. The contact stated that after the vehicle was idle at a red light, while attempting to accelerate, the vehicle stalled. The contact attempted to restart the vehicle several times before the vehicle restarted. There were no warning lights i",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The fuel line or a component which is part of the fuel system was chewed through by a rodent and the gas was pouring out of the rear of the car.  My safety was at risk because if I didn't first smell the gas and then see the dripping gas, something may have sparked and caused the",
+      "pct": 5
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Chevrolet Spark equipped with Kumho Tires, Tire Line: Solus TA31, Tire Size: 185/55/R15, DOT Number: Y0MBYAY1. The contact stated that the driver's and passenger's side front tires and the passenger's side rear tire had chunks of rubber separating from the",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Chevrolet Spark owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Air Bags (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 7,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2020 CHEVROLET SPARK. THE CONTACT STATED WHILE HER HUSBAND WAS DRIVING AT UNKNOWN SPEED WHEN HE HAD A MEDICAL EVENT WHICH CAUSED HIM TO CRASHED INTO A TREE. THE AIR BAGS DID NOT DEPLOY. THE DRIVER SUSTAINED A FRACTURED BACK AND HEAD INJURIES AND SOUGHT MED",
+        "pct": 37,
+        "title": "Air Bags",
+        "blurb": "7 reports (37%) · 6 crash · 10 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our car broke down on 07/08/2021 and went into the shop on 07/12/2021. It was eventually determined the engine had to be replaced. The car was in the shop until 09/02/2021. The following day during a test drive I noticed some minor, unusual response, almost unnoticeable, from the",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "6 reports (32%) · 2 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Chevrolet Spark. The contact stated that after the vehicle was idle at a red light, while attempting to accelerate, the vehicle stalled. The contact attempted to restart the vehicle several times before the vehicle restarted. There were no warning lights i",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The fuel line or a component which is part of the fuel system was chewed through by a rodent and the gas was pouring out of the rear of the car.  My safety was at risk because if I didn't first smell the gas and then see the dripping gas, something may have sparked and caused the",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Chevrolet Spark equipped with Kumho Tires, Tire Line: Solus TA31, Tire Size: 185/55/R15, DOT Number: Y0MBYAY1. The contact stated that the driver's and passenger's side front tires and the passenger's side rear tire had chunks of rubber separating from the",
+        "pct": 5,
+        "title": "Tires",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

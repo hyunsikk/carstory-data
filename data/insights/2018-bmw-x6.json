@@ -1,0 +1,128 @@
+{
+  "slug": "2018-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:20.115Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During operation in DRIVE, the vehicle would shift to PARK, without the control lever being operated. This occurred intermittently, but with greater frequency over time. The safety concern is that it occurred while in traffic and even occurred on an Interstate highway, while at m",
+      "pct": 25
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 BMW X6 equipped with Pirelli Scorpion Verde All Season tires, Tire Size: 255/50/R19, DOT number: UN64P9784417. While his wife was driving 70 MPH, the passenger’s side rear tire delaminated two tread belts and began whipping inside of the wheel well. Due to",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+      "pct": 25
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw X6 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Power Train (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During operation in DRIVE, the vehicle would shift to PARK, without the control lever being operated. This occurred intermittently, but with greater frequency over time. The safety concern is that it occurred while in traffic and even occurred on an Interstate highway, while at m",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 BMW X6 equipped with Pirelli Scorpion Verde All Season tires, Tire Size: 255/50/R19, DOT number: UN64P9784417. While his wife was driving 70 MPH, the passenger’s side rear tire delaminated two tread belts and began whipping inside of the wheel well. Due to",
+        "pct": 25,
+        "title": "Tires",
+        "blurb": "1 report (25%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+        "pct": 25,
+        "title": "Suspension",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE ISSUES WITH THE FRONT SYSTEM AND CAUSES INSTABILITY, ISSUES WITH THE SUSPENSION AND THE EARLY WARNING SYSTEM. NEVER WAS FIXED PROPERLY FROM BMW TENAFLY",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

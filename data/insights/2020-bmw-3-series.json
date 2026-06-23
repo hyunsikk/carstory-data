@@ -1,0 +1,128 @@
+{
+  "slug": "2020-bmw-3-series",
+  "make": "BMW",
+  "model": "3 Series",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/3%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:26.149Z",
+  "total": 51,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW 330i. The contact stated that while he was sleeping, the vehicle was parked outside of the garage and had started itself without the key in the ignition then drove itself and crashed into the aluminum garage door. The contact was aware of the failure w",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 BMW 330I. THE CONTACT STATED THAT THE ENGINE COOLANT LOW WARNING LIGHT ILLUMINATED. THE CONTACT TOOK THE VEHICLE TO RALLYE BMW (1 BRUSH HOLLOW RD, WESTBURY, NY 11590; (516) 393-0000) WHO CONFIRMED THEM THAT THE COOLANT LEVEL WAS LOW. THE DEALER STATED ",
+      "pct": 35
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Car was t-boned by another vehicle at 65-70 MPH (other driver was cited as negligent and responsible for accident)—and other driver’s car caused damage to the BMW and driver (my daughter) due to the side airbags on the BMW not deploying (damage to daughter would have been signifi",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own [XXX]  BMW vehicle affected by a safety recall for a defective engine starter relay that may corrode, overheat, and cause a fire. The recall notice dated November 2025 states the vehicle is not safe to drive, with no remedy available, rendering it unusable and hazardous. Re",
+      "pct": 4
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I have been in the motorcycle industry 1988-2000 and the auto industry since 2000 to current, a break for about 10 years in there.  I am fairly mechanically knowledgeable.    On 8/1/2 was showing a customer a BMW 330I that we had in inventory.  The customer sat in the driver's se",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw 3 Series owners report most",
+    "summary": "Across 51 owner complaints to NHTSA, the most reported area is Electrical System (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW 330i. The contact stated that while he was sleeping, the vehicle was parked outside of the garage and had started itself without the key in the ignition then drove itself and crashed into the aluminum garage door. The contact was aware of the failure w",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "19 reports (37%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 BMW 330I. THE CONTACT STATED THAT THE ENGINE COOLANT LOW WARNING LIGHT ILLUMINATED. THE CONTACT TOOK THE VEHICLE TO RALLYE BMW (1 BRUSH HOLLOW RD, WESTBURY, NY 11590; (516) 393-0000) WHO CONFIRMED THEM THAT THE COOLANT LEVEL WAS LOW. THE DEALER STATED ",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "18 reports (35%) · 2 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Car was t-boned by another vehicle at 65-70 MPH (other driver was cited as negligent and responsible for accident)—and other driver’s car caused damage to the BMW and driver (my daughter) due to the side airbags on the BMW not deploying (damage to daughter would have been signifi",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "5 reports (10%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own [XXX]  BMW vehicle affected by a safety recall for a defective engine starter relay that may corrode, overheat, and cause a fire. The recall notice dated November 2025 states the vehicle is not safe to drive, with no remedy available, rendering it unusable and hazardous. Re",
+        "pct": 4,
+        "title": "Lane Departure",
+        "blurb": "2 reports (4%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I have been in the motorcycle industry 1988-2000 and the auto industry since 2000 to current, a break for about 10 years in there.  I am fairly mechanically knowledgeable.    On 8/1/2 was showing a customer a BMW 330I that we had in inventory.  The customer sat in the driver's se",
+        "pct": 4,
+        "title": "Structure",
+        "blurb": "2 reports (4%) · 1 injured"
+      }
+    ]
+  }
+}

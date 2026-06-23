@@ -1,0 +1,62 @@
+{
+  "slug": "2023-volkswagen-arteon",
+  "make": "Volkswagen",
+  "model": "Arteon",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/ARTEON#complaints",
+  "generatedAt": "2026-06-23T16:45:52.720Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Continental Pro Contact size 245/35 R 20 sidewall blew out with 265 miles on a brand-new car. Blew out leaving a parking lot at a very slow speed. The tire did not hit anything, it just lost all air pressure, and the warning light came on.  Goodyear Tire employee came to the scen",
+      "pct": 85
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on city streets at normal speed during a rainy day.  I turned right from one road to another road, and as I started to accelerate out of the right turn, my driver side front tire blew out and the TPMS started screaming because it read the tire pressure as 0.  I imme",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Arteon owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Tires (85% of reports).",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Continental Pro Contact size 245/35 R 20 sidewall blew out with 265 miles on a brand-new car. Blew out leaving a parking lot at a very slow speed. The tire did not hit anything, it just lost all air pressure, and the warning light came on.  Goodyear Tire employee came to the scen",
+        "pct": 85,
+        "title": "Tires",
+        "blurb": "11 reports (85%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on city streets at normal speed during a rainy day.  I turned right from one road to another road, and as I started to accelerate out of the right turn, my driver side front tire blew out and the TPMS started screaming because it read the tire pressure as 0.  I imme",
+        "pct": 15,
+        "title": "Wheels",
+        "blurb": "2 reports (15%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-subaru-forester",
+  "make": "Subaru",
+  "model": "Forester",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/SUBARU/FORESTER#complaints",
+  "generatedAt": "2026-06-23T16:40:41.339Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger air bag remains off per the indicator when my 5'3\" 100lb wife sits in the seat. The system was inspected at Peoria Subaru in Peoria, AZ and no problem was found.  The service manager told me the factory design is 105 lbs minimum before the air bag is on.  I find no ",
+      "pct": 21
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving down the road and a bottle was thrown out of a vehicle going the opposite direction as me. Upon impact my windshield shattered and sent shards of glass flying into the cabin of my vehicle. The shards of glass were thrown into my face and would have gone into my eyes",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The eyesight system fails on almost a daily basis.  When this happens, multiple safety features shutdown.  Lane assist and departure warning stops working.  Collision avoidance stops working.  Cruise control stops working. Proximity warning alarms stop going off.  The local deale",
+      "pct": 11
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle: 2024 Subaru Forester Touring  Date of Report: [July 3, 2024]  What component or system failed or malfunctioned, and is it available for inspection upon request?  On June 19th, 2024 I noticed the side mirror of my 2024 Subaru Forester Touring has melted. This component is",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Took to Local dealership for 20,000 mile oil change. After the oil change the service advisor informed me of an oil leak on the right side of the engine. He could not confirm where the leak was from. I have scheduled to have it repaired under factory warranty. After researching o",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Subaru Forester owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Air Bags (21% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger air bag remains off per the indicator when my 5'3\" 100lb wife sits in the seat. The system was inspected at Peoria Subaru in Peoria, AZ and no problem was found.  The service manager told me the factory design is 105 lbs minimum before the air bag is on.  I find no ",
+        "pct": 21,
+        "title": "Air Bags",
+        "blurb": "6 reports (21%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving down the road and a bottle was thrown out of a vehicle going the opposite direction as me. Upon impact my windshield shattered and sent shards of glass flying into the cabin of my vehicle. The shards of glass were thrown into my face and would have gone into my eyes",
+        "pct": 18,
+        "title": "Visibility/Wiper",
+        "blurb": "5 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The eyesight system fails on almost a daily basis.  When this happens, multiple safety features shutdown.  Lane assist and departure warning stops working.  Collision avoidance stops working.  Cruise control stops working. Proximity warning alarms stop going off.  The local deale",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle: 2024 Subaru Forester Touring  Date of Report: [July 3, 2024]  What component or system failed or malfunctioned, and is it available for inspection upon request?  On June 19th, 2024 I noticed the side mirror of my 2024 Subaru Forester Touring has melted. This component is",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Took to Local dealership for 20,000 mile oil change. After the oil change the service advisor informed me of an oil leak on the right side of the engine. He could not confirm where the leak was from. I have scheduled to have it repaired under factory warranty. After researching o",
+        "pct": 4,
+        "title": "Engine",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

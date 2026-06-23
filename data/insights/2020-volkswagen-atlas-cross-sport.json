@@ -1,0 +1,128 @@
+{
+  "slug": "2020-volkswagen-atlas-cross-sport",
+  "make": "Volkswagen",
+  "model": "Atlas Cross Sport",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/VOLKSWAGEN/ATLAS%20CROSS%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:45:54.151Z",
+  "total": 99,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 32,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN DRIVING VEHICLE UPON COMING TO A COMPLETED STOP, VARIOUS FAULT MESSAGES ARE DISPLAYED 'ELECTRONIC BRAKE ERROR/DRIVER CONTACT SWITCH ERROR, START/STOP ERROR'. THE CAR DETECTS THAT THE DOOR IS OPEN EVEN THOUGH IT IS COMPLETELY CLOSED WHICH CAUSES PARKING BREAK TO ACTIVATE IMMO",
+      "pct": 32
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE EXPERIENCED AIR BAG DEPLOYMENT ON BOTH SIDES AS A RESULT OF A LOW-SPEED CONTACT WITH A CURB. WE WERE LEAVING A STOP SIGN AT A T INTERSECTION ON A SNOWY ROAD AND THE CAR SLID MAKING THE LEFT TURN AND THE PASSENGER SIDE FRONT WHEEL HIT THE CURB. WE COULD NOT HAVE BEEN TRAVELLING",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OUR ATLAS WILL RANDOMLY SLAM ON ITS BRAKES AS IF AVOIDING A COLLISION ON AN EMPTY ROAD. THE LANE ASSIST WILL ALSO STEER YOU TOWARDS OBSTACLES (LIKE CONSTRUCTION BARRELS) AND FIGHT AS YOUR TRY TO CORRECT ITS ERROR. ISSUES HAVE ALL OCCURRED WHILE IN MOTION TRAVELING DOWN A 2 OR 4 L",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When turning the car on there are sometimes multiple errors: start-stop, driver door contact sensor, acc, and electronic brake. The car beeps very loudly telling me the engine is running (obviously). While driving, with or without current errors, the driver side windows will roll",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2020 Volkswagen Atlas Cross Sport. The contact stated that while driving at 40 mph, he crashed into another vehicle and within seconds, his vehicle's engine compartment caught fire and exploded twice. The vehicle was engulfed in flames when the fire department",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Volkswagen Atlas Cross Sport owners report most",
+    "summary": "Across 99 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 32,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN DRIVING VEHICLE UPON COMING TO A COMPLETED STOP, VARIOUS FAULT MESSAGES ARE DISPLAYED 'ELECTRONIC BRAKE ERROR/DRIVER CONTACT SWITCH ERROR, START/STOP ERROR'. THE CAR DETECTS THAT THE DOOR IS OPEN EVEN THOUGH IT IS COMPLETELY CLOSED WHICH CAUSES PARKING BREAK TO ACTIVATE IMMO",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "32 reports (32%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE EXPERIENCED AIR BAG DEPLOYMENT ON BOTH SIDES AS A RESULT OF A LOW-SPEED CONTACT WITH A CURB. WE WERE LEAVING A STOP SIGN AT A T INTERSECTION ON A SNOWY ROAD AND THE CAR SLID MAKING THE LEFT TURN AND THE PASSENGER SIDE FRONT WHEEL HIT THE CURB. WE COULD NOT HAVE BEEN TRAVELLING",
+        "pct": 19,
+        "title": "Air Bags",
+        "blurb": "19 reports (19%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OUR ATLAS WILL RANDOMLY SLAM ON ITS BRAKES AS IF AVOIDING A COLLISION ON AN EMPTY ROAD. THE LANE ASSIST WILL ALSO STEER YOU TOWARDS OBSTACLES (LIKE CONSTRUCTION BARRELS) AND FIGHT AS YOUR TRY TO CORRECT ITS ERROR. ISSUES HAVE ALL OCCURRED WHILE IN MOTION TRAVELING DOWN A 2 OR 4 L",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "18 reports (18%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When turning the car on there are sometimes multiple errors: start-stop, driver door contact sensor, acc, and electronic brake. The car beeps very loudly telling me the engine is running (obviously). While driving, with or without current errors, the driver side windows will roll",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "15 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2020 Volkswagen Atlas Cross Sport. The contact stated that while driving at 40 mph, he crashed into another vehicle and within seconds, his vehicle's engine compartment caught fire and exploded twice. The vehicle was engulfed in flames when the fire department",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "9 reports (9%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

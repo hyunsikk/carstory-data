@@ -1,0 +1,84 @@
+{
+  "slug": "2023-bmw-x2",
+  "make": "BMW",
+  "model": "X2",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X2#complaints",
+  "generatedAt": "2026-06-23T16:44:12.344Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "-Windshield cracks spontaneously with no impact, while kept in desirable conditions, and while stationary  -Steering wheel clicks at least 3 times when signaling and turning, verified defective at Advantage BMW; dealership GM tried to cover it up-Reported to Advantage BMW General",
+      "pct": 100
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "-Windshield cracks spontaneously with no impact, while kept in desirable conditions, and while stationary  -Steering wheel clicks at least 3 times when signaling and turning, verified defective at Advantage BMW; dealership GM tried to cover it up-Reported to Advantage BMW General",
+      "pct": 100
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "-Windshield cracks spontaneously with no impact, while kept in desirable conditions, and while stationary  -Steering wheel clicks at least 3 times when signaling and turning, verified defective at Advantage BMW; dealership GM tried to cover it up-Reported to Advantage BMW General",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X2 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Steering (100% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "-Windshield cracks spontaneously with no impact, while kept in desirable conditions, and while stationary  -Steering wheel clicks at least 3 times when signaling and turning, verified defective at Advantage BMW; dealership GM tried to cover it up-Reported to Advantage BMW General",
+        "pct": 100,
+        "title": "Steering",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "-Windshield cracks spontaneously with no impact, while kept in desirable conditions, and while stationary  -Steering wheel clicks at least 3 times when signaling and turning, verified defective at Advantage BMW; dealership GM tried to cover it up-Reported to Advantage BMW General",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "-Windshield cracks spontaneously with no impact, while kept in desirable conditions, and while stationary  -Steering wheel clicks at least 3 times when signaling and turning, verified defective at Advantage BMW; dealership GM tried to cover it up-Reported to Advantage BMW General",
+        "pct": 100,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

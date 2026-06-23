@@ -1,0 +1,128 @@
+{
+  "slug": "2019-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/FIESTA#complaints",
+  "generatedAt": "2026-06-23T16:30:30.399Z",
+  "total": 92,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 26,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Fiesta. The contact received notification of NHTSA Campaign Number: 24V951000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time fo",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 21,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The CAR has the defect that it skips the transmission changes, from the first to the second it stays accelerated, it resists the change, it is a danger it stays accelerated until it finally goes to second and lowers the revolutions.  I visited an auto parts store for a scanner an",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 FORD FIESTA. WHILE DRIVING 20 MPH, THE VEHICLE FAILED TO DECELERATE WHEN THE ACCELERATOR PEDAL WAS RELEASED. THE CONTACT STATED THAT THE ENGINE RPMS WERE AT 1,100. WHEN THE BRAKE PEDAL WAS DEPRESSED, THERE WAS A DELAY, THE VEHICLE CONTINUED TO MOVE FOR",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 FORD FIESTA. WHILE DRIVING 20 MPH, THE VEHICLE FAILED TO DECELERATE WHEN THE ACCELERATOR PEDAL WAS RELEASED. THE CONTACT STATED THAT THE ENGINE RPMS WERE AT 1,100. WHEN THE BRAKE PEDAL WAS DEPRESSED, THERE WAS A DELAY, THE VEHICLE CONTINUED TO MOVE FOR",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Fiesta. The contact stated while the vehicle was parked at a gas station, the vehicle rolled forward on its own crashing into another vehicle. No one was injured. No police report was filed. The contact drove the vehicle to a repair facility where the",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Ford Fiesta owners report most",
+    "summary": "Across 92 owner complaints to NHTSA, the most reported area is Back Over Prevention (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 26,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Fiesta. The contact received notification of NHTSA Campaign Number: 24V951000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time fo",
+        "pct": 28,
+        "title": "Back Over Prevention",
+        "blurb": "26 reports (28%) · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 21,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The CAR has the defect that it skips the transmission changes, from the first to the second it stays accelerated, it resists the change, it is a danger it stays accelerated until it finally goes to second and lowers the revolutions.  I visited an auto parts store for a scanner an",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "21 reports (23%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 FORD FIESTA. WHILE DRIVING 20 MPH, THE VEHICLE FAILED TO DECELERATE WHEN THE ACCELERATOR PEDAL WAS RELEASED. THE CONTACT STATED THAT THE ENGINE RPMS WERE AT 1,100. WHEN THE BRAKE PEDAL WAS DEPRESSED, THERE WAS A DELAY, THE VEHICLE CONTINUED TO MOVE FOR",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "11 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 FORD FIESTA. WHILE DRIVING 20 MPH, THE VEHICLE FAILED TO DECELERATE WHEN THE ACCELERATOR PEDAL WAS RELEASED. THE CONTACT STATED THAT THE ENGINE RPMS WERE AT 1,100. WHEN THE BRAKE PEDAL WAS DEPRESSED, THERE WAS A DELAY, THE VEHICLE CONTINUED TO MOVE FOR",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "10 reports (11%) · 1 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Fiesta. The contact stated while the vehicle was parked at a gas station, the vehicle rolled forward on its own crashing into another vehicle. No one was injured. No police report was filed. The contact drove the vehicle to a repair facility where the",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "8 reports (9%) · 1 fire · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mazda-cx-9",
+  "make": "Mazda",
+  "model": "CX-9",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MAZDA/CX-9#complaints",
+  "generatedAt": "2026-06-23T16:38:03.295Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "Chest Clip",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a critical mechanical restraint failure regarding the 5-point harness crotch buckles on the Graco TrioGrow and the Graco TriRide car seats. The red button-release tension on both of these models is engineered with insufficient physical resistance. My toddler is cap",
+      "pct": 17
+    },
+    {
+      "component": "Buckle",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a critical mechanical restraint failure regarding the 5-point harness crotch buckles on the Graco TrioGrow and the Graco TriRide car seats. The red button-release tension on both of these models is engineered with insufficient physical resistance. My toddler is cap",
+      "pct": 17
+    },
+    {
+      "component": "Harness",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a critical mechanical restraint failure regarding the 5-point harness crotch buckles on the Graco TrioGrow and the Graco TriRide car seats. The red button-release tension on both of these models is engineered with insufficient physical resistance. My toddler is cap",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was approaching Breezewood, Pa coming south on 70 into town from Hagerstown.  Traffic comes to a stop awaiting a light that stops the highway traffic before allowing people to proceed through Breezewood and then continue on 70 out of town.  I had plenty of warning as traffic sl",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I brought my vehicle in on 2/22/25 for a brake issue. I had to pump the brakes every time before I stopped to get the brake pedal to work. If I just hit the brakes the pedal would go almost to the floor. Greico Mazda has attempted 4 times to fix this issue with no success and has",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mazda Cx-9 owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Chest Clip (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "Chest Clip",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a critical mechanical restraint failure regarding the 5-point harness crotch buckles on the Graco TrioGrow and the Graco TriRide car seats. The red button-release tension on both of these models is engineered with insufficient physical resistance. My toddler is cap",
+        "pct": 17,
+        "title": "Chest Clip",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "Buckle",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a critical mechanical restraint failure regarding the 5-point harness crotch buckles on the Graco TrioGrow and the Graco TriRide car seats. The red button-release tension on both of these models is engineered with insufficient physical resistance. My toddler is cap",
+        "pct": 17,
+        "title": "Buckle",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "Harness",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a critical mechanical restraint failure regarding the 5-point harness crotch buckles on the Graco TrioGrow and the Graco TriRide car seats. The red button-release tension on both of these models is engineered with insufficient physical resistance. My toddler is cap",
+        "pct": 17,
+        "title": "Harness",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was approaching Breezewood, Pa coming south on 70 into town from Hagerstown.  Traffic comes to a stop awaiting a light that stops the highway traffic before allowing people to proceed through Breezewood and then continue on 70 out of town.  I had plenty of warning as traffic sl",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (17%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I brought my vehicle in on 2/22/25 for a brake issue. I had to pump the brakes every time before I stopped to get the brake pedal to work. If I just hit the brakes the pedal would go almost to the floor. Greico Mazda has attempted 4 times to fix this issue with no success and has",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "2 reports (17%)"
+      }
+    ]
+  }
+}

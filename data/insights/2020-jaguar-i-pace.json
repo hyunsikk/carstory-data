@@ -1,0 +1,128 @@
+{
+  "slug": "2020-jaguar-i-pace",
+  "make": "Jaguar",
+  "model": "I-PACE",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/JAGUAR/I-PACE#complaints",
+  "generatedAt": "2026-06-23T16:45:13.306Z",
+  "total": 38,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving vehicle downhill on a small hill in Palm Springs when multiple error messages appeared in rapid succession on the information display, including 'traction battery fault - safe to drive with caution'. This was immediately followed by \"pull over and stop the car\" but be",
+      "pct": 68
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Several battery cells have failed and have required replacement on at least 3 occasions in this vehicle.  I believe there is a fire risk and that the affected vin range of recall H484 was too narrow.  Please consider widening the range of the recall to include the batch used in t",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving vehicle downhill on a small hill in Palm Springs when multiple error messages appeared in rapid succession on the information display, including 'traction battery fault - safe to drive with caution'. This was immediately followed by \"pull over and stop the car\" but be",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High voltage battery is over heating. Constantly getting messages stating \"Traction Battery Fault Detected\" when charging or when there are days of extreme heats. In addition, when charging, a loud fan like noise is present and car gets really hot. Now my car is stating \"Stop Saf",
+      "pct": 8
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was stopped at a stoplight, waiting to turn left. The light turned green I slowly engaged the accelerator. All occupants in the car felt the car jolt forward then the fault alarms went off. I was able to continue to drive the car safely and returned home.  This is the second ti",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Jaguar I-Pace owners report most",
+    "summary": "Across 38 owner complaints to NHTSA, the most reported area is Electrical System (68% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving vehicle downhill on a small hill in Palm Springs when multiple error messages appeared in rapid succession on the information display, including 'traction battery fault - safe to drive with caution'. This was immediately followed by \"pull over and stop the car\" but be",
+        "pct": 68,
+        "title": "Electrical System",
+        "blurb": "26 reports (68%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Several battery cells have failed and have required replacement on at least 3 occasions in this vehicle.  I believe there is a fire risk and that the affected vin range of recall H484 was too narrow.  Please consider widening the range of the recall to include the batch used in t",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving vehicle downhill on a small hill in Palm Springs when multiple error messages appeared in rapid succession on the information display, including 'traction battery fault - safe to drive with caution'. This was immediately followed by \"pull over and stop the car\" but be",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "4 reports (11%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High voltage battery is over heating. Constantly getting messages stating \"Traction Battery Fault Detected\" when charging or when there are days of extreme heats. In addition, when charging, a loud fan like noise is present and car gets really hot. Now my car is stating \"Stop Saf",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "3 reports (8%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was stopped at a stoplight, waiting to turn left. The light turned green I slowly engaged the accelerator. All occupants in the car felt the car jolt forward then the fault alarms went off. I was able to continue to drive the car safely and returned home.  This is the second ti",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (8%)"
+      }
+    ]
+  }
+}

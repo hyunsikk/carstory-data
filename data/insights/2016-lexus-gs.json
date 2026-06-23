@@ -1,0 +1,84 @@
+{
+  "slug": "2016-lexus-gs",
+  "make": "Lexus",
+  "model": "GS",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/LEXUS/GS#complaints",
+  "generatedAt": "2026-06-23T16:37:17.562Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During highway driving speeds low pressure fuel pump is showing symptoms of issues. Car will cut off while driving and requires 12V battery reset. Low pressure fuel pump will make noise similar to a “ humming “ noise from underneath rear seats of the vehicle.   Lexus corporate is",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am experiencing a persistent and potentially hazardous steering issue with my 2016 Lexus GS 350 AWD (Luxury Package). At highway speeds (typically 60 mph and above), the steering exhibits a distinct \"sticky\" or \"notchy\" sensation around the center position. Specifically, the st",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle is 2016 lexus GS350 showing clear coat failure on the roof on the edges. Door handles and black pillar cover are not both showing discoloration. The head light cover under both headlights have lost its color. A vehicle of this age should not be having paint failure like t",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Lexus Gs owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (20% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During highway driving speeds low pressure fuel pump is showing symptoms of issues. Car will cut off while driving and requires 12V battery reset. Low pressure fuel pump will make noise similar to a “ humming “ noise from underneath rear seats of the vehicle.   Lexus corporate is",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am experiencing a persistent and potentially hazardous steering issue with my 2016 Lexus GS 350 AWD (Luxury Package). At highway speeds (typically 60 mph and above), the steering exhibits a distinct \"sticky\" or \"notchy\" sensation around the center position. Specifically, the st",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle is 2016 lexus GS350 showing clear coat failure on the roof on the edges. Door handles and black pillar cover are not both showing discoloration. The head light cover under both headlights have lost its color. A vehicle of this age should not be having paint failure like t",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

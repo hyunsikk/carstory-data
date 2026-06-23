@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-mirai",
+  "make": "Toyota",
+  "model": "Mirai",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/MIRAI#complaints",
+  "generatedAt": "2026-06-23T16:45:45.212Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Car suppposed to stop itself as it has all sensors. Still car rear ended other car. How was your safety or the safety of others put at risk? Jeopardy. Since accident occured in resi",
+      "pct": 60
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1) Electrical display goes off on its own. While car in motion and driving,Distract me while I’m driving. 2) car does not start. AAA came to jumpstart, but no luck main battery under the car not responding defective battery. 3) fuel system not working properly cannot fill up the ",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Mirai. The contact stated that while driving approximately 60 MPH, the vehicle started losing motive power. The accelerator pedal was depressed, and the vehicle continued to decelerate. The contact stated that while driving approximately 15-20 MPH, ",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Wrong infrastructure was presented to me for the following six years of purchasing the vehicle as the fueling station is always down and malfunctioning which means I cannot drive the car and when I called and spoke to a Mirai agent by the name of [XXX]  to request a rental to go ",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Mirai owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? Car suppposed to stop itself as it has all sensors. Still car rear ended other car. How was your safety or the safety of others put at risk? Jeopardy. Since accident occured in resi",
+        "pct": 60,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (60%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1) Electrical display goes off on its own. While car in motion and driving,Distract me while I’m driving. 2) car does not start. AAA came to jumpstart, but no luck main battery under the car not responding defective battery. 3) fuel system not working properly cannot fill up the ",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Mirai. The contact stated that while driving approximately 60 MPH, the vehicle started losing motive power. The accelerator pedal was depressed, and the vehicle continued to decelerate. The contact stated that while driving approximately 15-20 MPH, ",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Wrong infrastructure was presented to me for the following six years of purchasing the vehicle as the fueling station is always down and malfunctioning which means I cannot drive the car and when I called and spoke to a Mirai agent by the name of [XXX]  to request a rental to go ",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (20%)"
+      }
+    ]
+  }
+}

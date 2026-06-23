@@ -1,0 +1,106 @@
+{
+  "slug": "2019-hyundai-ioniq-electric",
+  "make": "Hyundai",
+  "model": "Ioniq Electric",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HYUNDAI/IONIQ%20ELECTRIC#complaints",
+  "generatedAt": "2026-06-23T16:33:30.843Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE HAD 4 INCIDENTS SO FAR OVER THE LAST MONTH, ALL LASTING UNDER 5 SECONDS. IN EACH CASE, THE REGENERATIVE BRAKING SWITCHES TO A DIFFERENT LEVEL WITHOUT ANY INPUT FROM THE USER. THIS PRESENTS AS WHAT FEELS LIKE A LEVEL 3 (STRONG) BRAKING WHEN NONE WAS ON AND NO FOOT IS NEAR T",
+      "pct": 67
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE HAD 4 INCIDENTS SO FAR OVER THE LAST MONTH, ALL LASTING UNDER 5 SECONDS. IN EACH CASE, THE REGENERATIVE BRAKING SWITCHES TO A DIFFERENT LEVEL WITHOUT ANY INPUT FROM THE USER. THIS PRESENTS AS WHAT FEELS LIKE A LEVEL 3 (STRONG) BRAKING WHEN NONE WAS ON AND NO FOOT IS NEAR T",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS A FOLLOW UP TO COMPLAINT NUMBER 1# 1360258 SUBMITTED IN SEPT. IN PARTICULAR, I HAVE HAD MULTIPLE DEALERS REPLACE A WATER PUMP AND RELATED ASSEMBLIES FOR A TOTAL OF 3 REPLACEMENTS SINCE AUG. THIS WAS THEIR EFFORT TO DEAL WITH THE ELECTRICAL SYSTEM ISSUES THAT HAVE RESULTED",
+      "pct": 33
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THE CAR WAS STOPPED AT A STOP LIGHT WHEN WE WERE STRUCK FROM BEHIND BY A FORD F150.  WE WERE PUSHED INTO THE STOPPED VEHICLE IN FRONT OF US (VERY MINOR DAMAGE IN FRONT).  I WAS IN THE PASSENGER SEAT AND MY HEAD BOUNCED OFF OF THE DASHBOARD.  MY DAUGHTER WAS IN THE SEAT BEHIND THE",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Hyundai Ioniq Electric owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE HAD 4 INCIDENTS SO FAR OVER THE LAST MONTH, ALL LASTING UNDER 5 SECONDS. IN EACH CASE, THE REGENERATIVE BRAKING SWITCHES TO A DIFFERENT LEVEL WITHOUT ANY INPUT FROM THE USER. THIS PRESENTS AS WHAT FEELS LIKE A LEVEL 3 (STRONG) BRAKING WHEN NONE WAS ON AND NO FOOT IS NEAR T",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "4 reports (67%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE HAD 4 INCIDENTS SO FAR OVER THE LAST MONTH, ALL LASTING UNDER 5 SECONDS. IN EACH CASE, THE REGENERATIVE BRAKING SWITCHES TO A DIFFERENT LEVEL WITHOUT ANY INPUT FROM THE USER. THIS PRESENTS AS WHAT FEELS LIKE A LEVEL 3 (STRONG) BRAKING WHEN NONE WAS ON AND NO FOOT IS NEAR T",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS A FOLLOW UP TO COMPLAINT NUMBER 1# 1360258 SUBMITTED IN SEPT. IN PARTICULAR, I HAVE HAD MULTIPLE DEALERS REPLACE A WATER PUMP AND RELATED ASSEMBLIES FOR A TOTAL OF 3 REPLACEMENTS SINCE AUG. THIS WAS THEIR EFFORT TO DEAL WITH THE ELECTRICAL SYSTEM ISSUES THAT HAVE RESULTED",
+        "pct": 33,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THE CAR WAS STOPPED AT A STOP LIGHT WHEN WE WERE STRUCK FROM BEHIND BY A FORD F150.  WE WERE PUSHED INTO THE STOPPED VEHICLE IN FRONT OF US (VERY MINOR DAMAGE IN FRONT).  I WAS IN THE PASSENGER SEAT AND MY HEAD BOUNCED OFF OF THE DASHBOARD.  MY DAUGHTER WAS IN THE SEAT BEHIND THE",
+        "pct": 17,
+        "title": "Seat Belts",
+        "blurb": "1 report (17%) · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

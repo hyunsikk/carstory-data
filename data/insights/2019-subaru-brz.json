@@ -1,0 +1,40 @@
+{
+  "slug": "2019-subaru-brz",
+  "make": "Subaru",
+  "model": "BRZ",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/SUBARU/BRZ#complaints",
+  "generatedAt": "2026-06-23T16:40:35.637Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine hiccups while engine temperature gets enough level. Nothing comes on dashboard but I can definitely felt the car's hiccup very randomly.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Subaru Brz owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine hiccups while engine temperature gets enough level. Nothing comes on dashboard but I can definitely felt the car's hiccup very randomly.",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

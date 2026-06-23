@@ -1,0 +1,128 @@
+{
+  "slug": "2020-infiniti-qx50",
+  "make": "Infiniti",
+  "model": "QX50",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/INFINITI/QX50#complaints",
+  "generatedAt": "2026-06-23T16:34:47.518Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FUEL SMELL COMING FROM THE VEHICLE WHEN PARKIED IN THE GARAGE. HAS BEEN CHECK OUT TWICE. 1 ST TIME INFINITI COULD NOT FIND ANY ISSUE, BUT TOLD ME THEY WERE LOOKING INTO IT UNDER ENGINEERING REVIEW. 2 MONTHS LATER AFTER LIVING WITH THE SMELL BROUGHT IT BACK THEY HAD A INFINITI ENG",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving vehicle, randomly vehicle brakes are applied on their own, causing vehicle to suddenly slow down in traffic. Red warning light appears on the dash. This has occurred 6-7 times over the past 2 years. 3 of the times occurred on the interstate, causing vehicle to drop ",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Day 1 noted car was having issues with irregular RPM's while cruising, and spiking of rpm's during acceleration. while on hwy w/ cruise control activated, \"malfunction\" warning lit on screen and forward propulsion ceased. had to move car to roadside, turn off engine and turn back",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Infiniti QX50. The contact stated that while driving at undisclosed speeds, the vehicle failed to accelerate as intended and lost motive power. There were no warning lights illuminated. No further information was available. The contact received notificatio",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR ABRUPTLY STALLS WHILE DRIVING. HAS OCCURRED 3 TIMES. DRAMATICALLY INCREASING A CHANCE OF COLLISION. NAVIGATION ALWAYS GETS ME LOST. NAVIGATION AND OTHER SCREEN GOES BLACK AND RESTARTS WHILE DRIVING. AUDIO/RADIO COMES ON WHILE DRIVING ON IT'S OWN WHEN I WANT MUSIC OFF. TOUCH S",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Infiniti Qx50 owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FUEL SMELL COMING FROM THE VEHICLE WHEN PARKIED IN THE GARAGE. HAS BEEN CHECK OUT TWICE. 1 ST TIME INFINITI COULD NOT FIND ANY ISSUE, BUT TOLD ME THEY WERE LOOKING INTO IT UNDER ENGINEERING REVIEW. 2 MONTHS LATER AFTER LIVING WITH THE SMELL BROUGHT IT BACK THEY HAD A INFINITI ENG",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "15 reports (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving vehicle, randomly vehicle brakes are applied on their own, causing vehicle to suddenly slow down in traffic. Red warning light appears on the dash. This has occurred 6-7 times over the past 2 years. 3 of the times occurred on the interstate, causing vehicle to drop ",
+        "pct": 23,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (23%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Day 1 noted car was having issues with irregular RPM's while cruising, and spiking of rpm's during acceleration. while on hwy w/ cruise control activated, \"malfunction\" warning lit on screen and forward propulsion ceased. had to move car to roadside, turn off engine and turn back",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Infiniti QX50. The contact stated that while driving at undisclosed speeds, the vehicle failed to accelerate as intended and lost motive power. There were no warning lights illuminated. No further information was available. The contact received notificatio",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR ABRUPTLY STALLS WHILE DRIVING. HAS OCCURRED 3 TIMES. DRAMATICALLY INCREASING A CHANCE OF COLLISION. NAVIGATION ALWAYS GETS ME LOST. NAVIGATION AND OTHER SCREEN GOES BLACK AND RESTARTS WHILE DRIVING. AUDIO/RADIO COMES ON WHILE DRIVING ON IT'S OWN WHEN I WANT MUSIC OFF. TOUCH S",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "4 reports (13%)"
+      }
+    ]
+  }
+}

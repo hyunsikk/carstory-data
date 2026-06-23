@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mazda-cx-30",
+  "make": "Mazda",
+  "model": "CX-30",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MAZDA/CX-30#complaints",
+  "generatedAt": "2026-06-23T16:37:58.501Z",
+  "total": 98,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 49,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2021 Mazda CX-30. The contact stated that the vehicle had failed to start up after multiple attempts with several unknown warning lights illuminated on the instrument panel. The contact stated that an unauthorized independent tow company towed the vehicle to ",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 MAZDA CX-30. THE CONTACT STATED WHILE DRIVING 3 MPH, THE VEHICLE LOSS MOTIVE POWER. THE CONTACT STATED THAT THE LOW VOLTAGE 12-V CHARGE WARNING LIGHT WAS ILLUMINATED. THE CONTACT STATED A BYSTANDER ASSISTED TO JUMP START THE VEHICLE. THE CONTACT CONTIN",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "AFTER TURNING LEFT AT A SIGNALED INTERSECTION ONTO A HIGHWAY THE AUTOMATIC BRAKING ENGAGED AND THE CAR SKIDDED TO A STOP IN THE MIDDLE OF THE LANE. LUCKILY NOBODY WAS BEHIND US. THERE WAS A CAR ABOUT 4 CAR LENGTHS AHEAD THAT WAS GOING THE SAME SPEED AND WAS NOT STOPPED. I PULLED ",
+      "pct": 12
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Manufacturing defect in the windshield glass: distorted/warped windshield glass causing waves/ripples. Result: impaired visibility when operating vehicle and rapid eye fatigue. Google search (forums) indicates that this is a well known issue on several Mazda models. The issue pre",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The automatic braking engaged without warning and without cause.  There was nothing directly in front of the car that was a possible collision threat.  I suffered a neck injury as a result of the force in which the car stopped.  Fortunately the driver behind me was able to stop. ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mazda Cx-30 owners report most",
+    "summary": "Across 98 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 49,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2021 Mazda CX-30. The contact stated that the vehicle had failed to start up after multiple attempts with several unknown warning lights illuminated on the instrument panel. The contact stated that an unauthorized independent tow company towed the vehicle to ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "49 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 MAZDA CX-30. THE CONTACT STATED WHILE DRIVING 3 MPH, THE VEHICLE LOSS MOTIVE POWER. THE CONTACT STATED THAT THE LOW VOLTAGE 12-V CHARGE WARNING LIGHT WAS ILLUMINATED. THE CONTACT STATED A BYSTANDER ASSISTED TO JUMP START THE VEHICLE. THE CONTACT CONTIN",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "13 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "AFTER TURNING LEFT AT A SIGNALED INTERSECTION ONTO A HIGHWAY THE AUTOMATIC BRAKING ENGAGED AND THE CAR SKIDDED TO A STOP IN THE MIDDLE OF THE LANE. LUCKILY NOBODY WAS BEHIND US. THERE WAS A CAR ABOUT 4 CAR LENGTHS AHEAD THAT WAS GOING THE SAME SPEED AND WAS NOT STOPPED. I PULLED ",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (12%) · 4 crash · 4 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Manufacturing defect in the windshield glass: distorted/warped windshield glass causing waves/ripples. Result: impaired visibility when operating vehicle and rapid eye fatigue. Google search (forums) indicates that this is a well known issue on several Mazda models. The issue pre",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "9 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The automatic braking engaged without warning and without cause.  There was nothing directly in front of the car that was a possible collision threat.  I suffered a neck injury as a result of the force in which the car stopped.  Fortunately the driver behind me was able to stop. ",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "8 reports (8%) · 4 crash · 1 injured"
+      }
+    ]
+  }
+}

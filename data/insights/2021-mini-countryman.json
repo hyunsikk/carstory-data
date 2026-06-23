@@ -1,0 +1,84 @@
+{
+  "slug": "2021-mini-countryman",
+  "make": "MINI",
+  "model": "Countryman",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MINI/COUNTRYMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:36.972Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2021 MINI Cooper Countryman S model with John Cooper Works had to have a part replaced, a valve part, that allows the fuel tank to release air from the fuel tank.  I had a message or symbol on the dash with an alert that would come on but then go away.  I took it to the Sewell",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle brakes during turns in the road when it is inappropriate. Has led to braking almost to a stop on the highway in one incident and could possibly cause a rear end collision. It has done this around 30 times in the past year of owning the vehicle and has begun to cause a",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle brakes during turns in the road when it is inappropriate. Has led to braking almost to a stop on the highway in one incident and could possibly cause a rear end collision. It has done this around 30 times in the past year of owning the vehicle and has begun to cause a",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mini Countryman owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2021 MINI Cooper Countryman S model with John Cooper Works had to have a part replaced, a valve part, that allows the fuel tank to release air from the fuel tank.  I had a message or symbol on the dash with an alert that would come on but then go away.  I took it to the Sewell",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle brakes during turns in the road when it is inappropriate. Has led to braking almost to a stop on the highway in one incident and could possibly cause a rear end collision. It has done this around 30 times in the past year of owning the vehicle and has begun to cause a",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle brakes during turns in the road when it is inappropriate. Has led to braking almost to a stop on the highway in one incident and could possibly cause a rear end collision. It has done this around 30 times in the past year of owning the vehicle and has begun to cause a",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

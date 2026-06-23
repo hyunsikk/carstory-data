@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-4-series",
+  "make": "BMW",
+  "model": "4 Series",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/4%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:48.982Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW 430I Convertible. The contact stated while driving 40 MPH, the electrical system suddenly failed, and all the instrument panel lights turned black. There were no warning lights illuminated. The contact veered to the side of the road and restarted the v",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component that malfunctioned is the engine starter relay, which is subject to an open BMW/NHTSA safety recall (issued September 2025) due to potential corrosion causing overheating, short circuits, and vehicle fire risk. The recall specifically advises parking the vehicle out",
+      "pct": 20
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The seat belt retractor keeps breaking, dealer fixed it once, broke after two days, dealer did not want to fix again, arguing for over a year, finally they fixed it supposedly, it broke again in less than a week.  Dealer refuses to fix the problem saying that they will not cover ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW 430I. The contact stated while stopped at a traffic light, the light turned green; however, when the accelerator pedal was depressed, the vehicle failed to respond as intended. The contact stated that the power train warning light was illuminated. The ",
+      "pct": 7
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Pirelli Cinturato 7 all season 225/40R19 I found front and rear bump side wall tires and miles driven 5300 miles. I’m very concern about this issues",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw 4 Series owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW 430I Convertible. The contact stated while driving 40 MPH, the electrical system suddenly failed, and all the instrument panel lights turned black. There were no warning lights illuminated. The contact veered to the side of the road and restarted the v",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "6 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component that malfunctioned is the engine starter relay, which is subject to an open BMW/NHTSA safety recall (issued September 2025) due to potential corrosion causing overheating, short circuits, and vehicle fire risk. The recall specifically advises parking the vehicle out",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The seat belt retractor keeps breaking, dealer fixed it once, broke after two days, dealer did not want to fix again, arguing for over a year, finally they fixed it supposedly, it broke again in less than a week.  Dealer refuses to fix the problem saying that they will not cover ",
+        "pct": 20,
+        "title": "Seat Belts",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW 430I. The contact stated while stopped at a traffic light, the light turned green; however, when the accelerator pedal was depressed, the vehicle failed to respond as intended. The contact stated that the power train warning light was illuminated. The ",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Pirelli Cinturato 7 all season 225/40R19 I found front and rear bump side wall tires and miles driven 5300 miles. I’m very concern about this issues",
+        "pct": 7,
+        "title": "Tires",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2022-bmw-3-series",
+  "make": "BMW",
+  "model": "3 Series",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/3%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:25.929Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Approached my parked car and noticed a 2.5-inch gash in the sidewall of the tire.  No warning light in dashboard.  Tire pressure remained at recommended pressure.  Previous driving was on 35 mph local roads with optimal driving conditions--clear weather and no road hazards.  Drov",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "car had 1,645 miles rear left axle broke. Car would not move. Had this occurred on a highway I easily could have been rear ended. Part must have been defective, Dealer replaced the part left rear CV joint but not the right, nor did the dealer confirm both rear axles were not from",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw 3 Series owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Tires (50% of reports).",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Approached my parked car and noticed a 2.5-inch gash in the sidewall of the tire.  No warning light in dashboard.  Tire pressure remained at recommended pressure.  Previous driving was on 35 mph local roads with optimal driving conditions--clear weather and no road hazards.  Drov",
+        "pct": 50,
+        "title": "Tires",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "car had 1,645 miles rear left axle broke. Car would not move. Had this occurred on a highway I easily could have been rear ended. Part must have been defective, Dealer replaced the part left rear CV joint but not the right, nor did the dealer confirm both rear axles were not from",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

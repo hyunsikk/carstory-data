@@ -1,0 +1,128 @@
+{
+  "slug": "2018-cadillac-cts",
+  "make": "Cadillac",
+  "model": "CTS",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CADILLAC/CTS#complaints",
+  "generatedAt": "2026-06-23T16:27:42.223Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY 2018 CADILLAC CTS BETWEEN 50-60MPH AND I LIGHTLY TAPPED ON THE GAS AND THE CAR STARTED SHAKING AND VIBRATING. FELT LIKE IT COULD BE A TRANSMISSION OR A ENGINE MISFIRE. MY CARS TRANSMISSION ALSO SHIFTS VERY VERY ROUGH KINDLY JERKY WHICH CREATES A UNSAFE ENVIRONMEN",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? From 2018. The uauto start/stop system has failed 3 times.  How was your safety or the safety of others put at risk? These components failing subjects the driver and surroundings to",
+      "pct": 38
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The airbag system failed to deploy during a single-vehicle accident in which the car left the service road and struck a tree. The vehicle sustained significant front-end damage.  The driver lost consciousness or experienced disorientation and was unable to recall the events leadi",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY 2018 CADILLAC CTS BETWEEN 50-60MPH AND I LIGHTLY TAPPED ON THE GAS AND THE CAR STARTED SHAKING AND VIBRATING. FELT LIKE IT COULD BE A TRANSMISSION OR A ENGINE MISFIRE. MY CARS TRANSMISSION ALSO SHIFTS VERY VERY ROUGH KINDLY JERKY WHICH CREATES A UNSAFE ENVIRONMEN",
+      "pct": 13
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CADILLAC DAYTIME RUNNING LIGHTS AND HEADLIGHTS EXCEED AMERICAN MEDICAL ASSOCIATION EYE SAFETY REQUIREMENTS OF 3000K COLOR TEMPERATURE OR LESS.  THE CADILLAC LIGHTS ARE DAMAGING THE EYES OF DRIVERS OF ONCOMING VEHICLES AND OF PEDESTRIANS.  THE GLARE CAUSED BY THE CADILLAC LIGH",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Cadillac Cts owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Power Train (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY 2018 CADILLAC CTS BETWEEN 50-60MPH AND I LIGHTLY TAPPED ON THE GAS AND THE CAR STARTED SHAKING AND VIBRATING. FELT LIKE IT COULD BE A TRANSMISSION OR A ENGINE MISFIRE. MY CARS TRANSMISSION ALSO SHIFTS VERY VERY ROUGH KINDLY JERKY WHICH CREATES A UNSAFE ENVIRONMEN",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? From 2018. The uauto start/stop system has failed 3 times.  How was your safety or the safety of others put at risk? These components failing subjects the driver and surroundings to",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The airbag system failed to deploy during a single-vehicle accident in which the car left the service road and struck a tree. The vehicle sustained significant front-end damage.  The driver lost consciousness or experienced disorientation and was unable to recall the events leadi",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "1 report (13%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY 2018 CADILLAC CTS BETWEEN 50-60MPH AND I LIGHTLY TAPPED ON THE GAS AND THE CAR STARTED SHAKING AND VIBRATING. FELT LIKE IT COULD BE A TRANSMISSION OR A ENGINE MISFIRE. MY CARS TRANSMISSION ALSO SHIFTS VERY VERY ROUGH KINDLY JERKY WHICH CREATES A UNSAFE ENVIRONMEN",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CADILLAC DAYTIME RUNNING LIGHTS AND HEADLIGHTS EXCEED AMERICAN MEDICAL ASSOCIATION EYE SAFETY REQUIREMENTS OF 3000K COLOR TEMPERATURE OR LESS.  THE CADILLAC LIGHTS ARE DAMAGING THE EYES OF DRIVERS OF ONCOMING VEHICLES AND OF PEDESTRIANS.  THE GLARE CAUSED BY THE CADILLAC LIGH",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

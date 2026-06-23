@@ -1,0 +1,128 @@
+{
+  "slug": "2016-audi-a5",
+  "make": "Audi",
+  "model": "A5",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/A5#complaints",
+  "generatedAt": "2026-06-23T16:25:20.457Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 AUDI A5. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V229000 (ENGINE AND ENGINE COOLING); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECA",
+      "pct": 43
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 AUDI A5. WHILE THE CONTACT WAS MAKING A THREE POINT TURN WITH THE SHIFTER IN THE REVERSE POSITION, THE VEHICLE ABRUPTLY ACCELERATED FORWARD AND MOVED APPROXIMATELY 3 TO 5 FEET WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. THE CONTACT ALSO INDICATED THAT TH",
+      "pct": 29
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On August 3, 2025, my wife and I came home from dinner and I couldn’t get out of the driver’s side door.   I took it to Naples Audi where I bought the car and delt with its Assistant Service Manager and Service Advisor.  Audi estimated the repair to be over $1,300.  I called Audi",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car went into limp mode and check engine light came on.",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electromechanical steering rack has gone out. Had this completely failed while driving myself and others could be put in serious harm of a collision or crash. There are many online complaints and issues with the audi steering racks. No other warnings then it just went out at the ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi A5 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Engine (43% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 AUDI A5. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V229000 (ENGINE AND ENGINE COOLING); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECA",
+        "pct": 43,
+        "title": "Engine",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 AUDI A5. WHILE THE CONTACT WAS MAKING A THREE POINT TURN WITH THE SHIFTER IN THE REVERSE POSITION, THE VEHICLE ABRUPTLY ACCELERATED FORWARD AND MOVED APPROXIMATELY 3 TO 5 FEET WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. THE CONTACT ALSO INDICATED THAT TH",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On August 3, 2025, my wife and I came home from dinner and I couldn’t get out of the driver’s side door.   I took it to Naples Audi where I bought the car and delt with its Assistant Service Manager and Service Advisor.  Audi estimated the repair to be over $1,300.  I called Audi",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car went into limp mode and check engine light came on.",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electromechanical steering rack has gone out. Had this completely failed while driving myself and others could be put in serious harm of a collision or crash. There are many online complaints and issues with the audi steering racks. No other warnings then it just went out at the ",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2022-toyota-c-hr",
+  "make": "Toyota",
+  "model": "C-HR",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/C-HR#complaints",
+  "generatedAt": "2026-06-23T16:41:16.674Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Noise from the front end. Took vehicle to Toyota for diagnosis. Cvt transmission sneeds replacing",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota C-Hr owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Noise from the front end. Took vehicle to Toyota for diagnosis. Cvt transmission sneeds replacing",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "2 reports (100%)"
+      }
+    ]
+  }
+}

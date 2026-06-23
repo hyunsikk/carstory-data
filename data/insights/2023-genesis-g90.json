@@ -1,0 +1,106 @@
+{
+  "slug": "2023-genesis-g90",
+  "make": "Genesis",
+  "model": "G90",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/G90#complaints",
+  "generatedAt": "2026-06-23T16:31:04.803Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Seatbelt disengage on its own. I noticed my seatbelt disengaged the other day while I was in a drive thru. I was not driving at the moment I was waiting in the line. I know the seatbelt had been latched prior to it unlatching. I mentioned it to my husband and he said the same thi",
+      "pct": 40
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PROBLEM: It has happened multiple times (about 20-25 times since the purchase of the vehicle in November 2022), always while having the engine running from a stop (variable stop length); when pressing the gas pedal to re-initiate the running, the car doesn't respond to the pressu",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Similar to the GV80 issue, when the vehicle decelerates from 80 to 70 there is a loud whining noise coming from the vehicle.",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "on Thursday 10/24/2024 I went to use my car which was parked in my garage and although the car was unlocked none of the doors would open. The car was completely dead and I had used it just several days before. Nothing would open doors, trunk no response from the key fob. A tow tr",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis G90 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Seat Belts (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Seatbelt disengage on its own. I noticed my seatbelt disengaged the other day while I was in a drive thru. I was not driving at the moment I was waiting in the line. I know the seatbelt had been latched prior to it unlatching. I mentioned it to my husband and he said the same thi",
+        "pct": 40,
+        "title": "Seat Belts",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PROBLEM: It has happened multiple times (about 20-25 times since the purchase of the vehicle in November 2022), always while having the engine running from a stop (variable stop length); when pressing the gas pedal to re-initiate the running, the car doesn't respond to the pressu",
+        "pct": 40,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Similar to the GV80 issue, when the vehicle decelerates from 80 to 70 there is a loud whining noise coming from the vehicle.",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "on Thursday 10/24/2024 I went to use my car which was parked in my garage and although the car was unlocked none of the doors would open. The car was completely dead and I had used it just several days before. Nothing would open doors, trunk no response from the key fob. A tow tr",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%) · 1 crash"
+      }
+    ]
+  }
+}

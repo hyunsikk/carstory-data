@@ -1,0 +1,128 @@
+{
+  "slug": "2021-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:56.848Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Lincoln Navigator. The contact received notification of NHTSA Campaign Number: 22V346000 (Engine) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the rec",
+      "pct": 27
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within one week of delivery of this new vehicle, the transmission began slipping out of gear and the car loses power for 30-40 seconds in the middle of driving.  Shift System Fault, Transmission failure, and PowerTrain Malfunction are the errors coming up on the screen- even afte",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Lincoln Navigator. The contact stated that while operating the vehicle, the power steering suddenly malfunctioned causing the steering wheel to become very difficult the turn in either direction. Additionally, the instrument panel display became distorted ",
+      "pct": 12
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Lincoln Navigator. The contact received notification of NHTSA campaign numbers: 22V250000 (Visibility) and 22V346000 (Engine) however, the parts to do the recall repairs were unavailable. The local dealer was contacted and it was confirmed that parts were ",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Lincoln Navigator. The contact stated that while operating the vehicle, the power steering suddenly malfunctioned causing the steering wheel to become very difficult the turn in either direction. Additionally, the instrument panel display became distorted ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Lincoln Navigator owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Engine (27% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Lincoln Navigator. The contact received notification of NHTSA Campaign Number: 22V346000 (Engine) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the rec",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "7 reports (27%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within one week of delivery of this new vehicle, the transmission began slipping out of gear and the car loses power for 30-40 seconds in the middle of driving.  Shift System Fault, Transmission failure, and PowerTrain Malfunction are the errors coming up on the screen- even afte",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Lincoln Navigator. The contact stated that while operating the vehicle, the power steering suddenly malfunctioned causing the steering wheel to become very difficult the turn in either direction. Additionally, the instrument panel display became distorted ",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Lincoln Navigator. The contact received notification of NHTSA campaign numbers: 22V250000 (Visibility) and 22V346000 (Engine) however, the parts to do the recall repairs were unavailable. The local dealer was contacted and it was confirmed that parts were ",
+        "pct": 12,
+        "title": "Visibility/Wiper",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Lincoln Navigator. The contact stated that while operating the vehicle, the power steering suddenly malfunctioned causing the steering wheel to become very difficult the turn in either direction. Additionally, the instrument panel display became distorted ",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

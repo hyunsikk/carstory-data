@@ -1,0 +1,128 @@
+{
+  "slug": "2019-nissan-nv200",
+  "make": "Nissan",
+  "model": "NV200",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/NISSAN/NV200#complaints",
+  "generatedAt": "2026-06-23T16:45:37.715Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Nissan NV200. The contact received notification of NHTSA Campaign Number: 25V676000 (Fuel System, Gasoline), and the vehicle was taken to the dealer for the recall repair; however, the dealer informed the contact that the interior of the modified vehicle n",
+      "pct": 33
+    },
+    {
+      "component": "GASOLINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Nissan NV200. The contact received notification of NHTSA Campaign Number: 25V676000 (Fuel System, Gasoline), and the vehicle was taken to the dealer for the recall repair; however, the dealer informed the contact that the interior of the modified vehicle n",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving 75MPH down the interstate when out of nowhere my engine started acting funny. It started to slow down and then the check engine light came on. As we were exiting the engine started stuttering. We were able to get it to a gas station. It was towed to a mechanic where",
+      "pct": 17
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Nissan NV200 equipped with Michelin Tires, Tire Line: Agilis Cross Climate C-Metric, Tire Size 185/60/R15C.  The contact received notification of NHTSA Campaign Number: 25T008000(Tires); however, the part to do the recall repair was not yet available.  The",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was on my way back from Michigan, heading toward Utah, and around Chicago the transmission started giving me issues. I was informed by a transmission company that I would be able to make it out to Utah, but we only made it to South Dakota and the transmission was blown. I had t",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Nissan Nv200 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Fuel System (33% of reports).",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Nissan NV200. The contact received notification of NHTSA Campaign Number: 25V676000 (Fuel System, Gasoline), and the vehicle was taken to the dealer for the recall repair; however, the dealer informed the contact that the interior of the modified vehicle n",
+        "pct": 33,
+        "title": "Fuel System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Nissan NV200. The contact received notification of NHTSA Campaign Number: 25V676000 (Fuel System, Gasoline), and the vehicle was taken to the dealer for the recall repair; however, the dealer informed the contact that the interior of the modified vehicle n",
+        "pct": 33,
+        "title": "Gasoline",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving 75MPH down the interstate when out of nowhere my engine started acting funny. It started to slow down and then the check engine light came on. As we were exiting the engine started stuttering. We were able to get it to a gas station. It was towed to a mechanic where",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Nissan NV200 equipped with Michelin Tires, Tire Line: Agilis Cross Climate C-Metric, Tire Size 185/60/R15C.  The contact received notification of NHTSA Campaign Number: 25T008000(Tires); however, the part to do the recall repair was not yet available.  The",
+        "pct": 17,
+        "title": "Tires",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was on my way back from Michigan, heading toward Utah, and around Chicago the transmission started giving me issues. I was informed by a transmission company that I would be able to make it out to Utah, but we only made it to South Dakota and the transmission was blown. I had t",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

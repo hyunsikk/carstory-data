@@ -1,0 +1,128 @@
+{
+  "slug": "2023-dodge-challenger",
+  "make": "Dodge",
+  "model": "Challenger",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/DODGE/CHALLENGER#complaints",
+  "generatedAt": "2026-06-23T16:29:18.680Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "It's not only related to my particular car. I moved to the US two years ago and was surprised how INSAINLY DANGEROUS driver side mirrors all of the American cars have. There is always a HUGE blind spot. People keep saying that if I adjust my mirrors properly there will be no prob",
+      "pct": 31
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At less than 1000 miles on the odometer, my brakes were seizing up after the car was parked in the carport for a week without being driven. When I would go to back the car up, the brakes were stuck. After they popped loose and I started driving down the road we heard a clunking n",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The computer system has a malfunction I'm driving it says shifter service the shifter starts blinking red car wipers goes on car will shut off in traffic into anti theft mode and ask fir code and will not start it has happened 3 times or more within 30 days the has been in the sh",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The computer system has a malfunction I'm driving it says shifter service the shifter starts blinking red car wipers goes on car will shut off in traffic into anti theft mode and ask fir code and will not start it has happened 3 times or more within 30 days the has been in the sh",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is an issue with Chassis rigidity and a manufacturing defect. Causing windshield breakage due to torsional forces, chassis load and unload.  Here's my case: 2023 Dodge Challenger R/T - 5.7 / 6 speed manual.   This car was purchased new [XXX], it's now broken two OEM Mopar wi",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Dodge Challenger owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Visibility/Wiper (31% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "It's not only related to my particular car. I moved to the US two years ago and was surprised how INSAINLY DANGEROUS driver side mirrors all of the American cars have. There is always a HUGE blind spot. People keep saying that if I adjust my mirrors properly there will be no prob",
+        "pct": 31,
+        "title": "Visibility/Wiper",
+        "blurb": "12 reports (31%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At less than 1000 miles on the odometer, my brakes were seizing up after the car was parked in the carport for a week without being driven. When I would go to back the car up, the brakes were stuck. After they popped loose and I started driving down the road we heard a clunking n",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The computer system has a malfunction I'm driving it says shifter service the shifter starts blinking red car wipers goes on car will shut off in traffic into anti theft mode and ask fir code and will not start it has happened 3 times or more within 30 days the has been in the sh",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "5 reports (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The computer system has a malfunction I'm driving it says shifter service the shifter starts blinking red car wipers goes on car will shut off in traffic into anti theft mode and ask fir code and will not start it has happened 3 times or more within 30 days the has been in the sh",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is an issue with Chassis rigidity and a manufacturing defect. Causing windshield breakage due to torsional forces, chassis load and unload.  Here's my case: 2023 Dodge Challenger R/T - 5.7 / 6 speed manual.   This car was purchased new [XXX], it's now broken two OEM Mopar wi",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

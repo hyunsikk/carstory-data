@@ -1,0 +1,84 @@
+{
+  "slug": "2020-infiniti-q60",
+  "make": "Infiniti",
+  "model": "Q60",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/INFINITI/Q60#complaints",
+  "generatedAt": "2026-06-23T16:34:41.248Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Airbag sensor light has been On/Off. After a passenger is seated on the passenger side, light goes off. A day or two later, light comes back on.",
+      "pct": 50
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Airbag sensor light has been On/Off. After a passenger is seated on the passenger side, light goes off. A day or two later, light comes back on.",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2020 Infiniti Q60. The contact stated that while driving at 65 MPH during a rainstorm and attempting to change lanes, the vehicle inadvertently accelerated, prompting the contact to attempt to slow the vehicle. As a result, the vehicle hydroplaned to the left,",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Infiniti Q60 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Airbag sensor light has been On/Off. After a passenger is seated on the passenger side, light goes off. A day or two later, light comes back on.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Airbag sensor light has been On/Off. After a passenger is seated on the passenger side, light goes off. A day or two later, light comes back on.",
+        "pct": 50,
+        "title": "Seats",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2020 Infiniti Q60. The contact stated that while driving at 65 MPH during a rainstorm and attempting to change lanes, the vehicle inadvertently accelerated, prompting the contact to attempt to slow the vehicle. As a result, the vehicle hydroplaned to the left,",
+        "pct": 50,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (50%) · 1 crash"
+      }
+    ]
+  }
+}

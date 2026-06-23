@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-taos",
+  "make": "Volkswagen",
+  "model": "Taos",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/TAOS#complaints",
+  "generatedAt": "2026-06-23T16:42:10.769Z",
+  "total": 97,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 40,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within the first 24 hours of picking up this new car warnings for 3000rpm max appeared, engine overheating and potential damage to engine components appears and engine functioning was decreased, exhaust control malfaction message,  and electronic engine control message with assoc",
+      "pct": 41
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving on the freeway driver cutt me off  I had to apply the brakes fast car brakes did not stop the car   smooth the brakes grabbed and locked up causing the car to skid off the road  did not respond when applied during an emergency to avoid collision.  Excessive brake dust and",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within the first 24 hours of picking up this new car warnings for 3000rpm max appeared, engine overheating and potential damage to engine components appears and engine functioning was decreased, exhaust control malfaction message,  and electronic engine control message with assoc",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact rented a 2023 Volkswagen Taos. The contact stated that while the vehicle was in drive with the brake pedal depressed and entering the garage, he released the brake pedal and the vehicle rolled and stalled. Additionally, the vehicle failed to start. The contact had to ",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the 2023 Taos SE at the beginning of may. When accelerating on the highway, the ACC light and engine light came on and the car started rapidly decelerating. Lane assist, cruise control and ACC were not able to be used. I managed to pull to the side of the road, and wa",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Taos owners report most",
+    "summary": "Across 97 owner complaints to NHTSA, the most reported area is Engine (41% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 40,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within the first 24 hours of picking up this new car warnings for 3000rpm max appeared, engine overheating and potential damage to engine components appears and engine functioning was decreased, exhaust control malfaction message,  and electronic engine control message with assoc",
+        "pct": 41,
+        "title": "Engine",
+        "blurb": "40 reports (41%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving on the freeway driver cutt me off  I had to apply the brakes fast car brakes did not stop the car   smooth the brakes grabbed and locked up causing the car to skid off the road  did not respond when applied during an emergency to avoid collision.  Excessive brake dust and",
+        "pct": 32,
+        "title": "Service Brakes",
+        "blurb": "31 reports (32%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within the first 24 hours of picking up this new car warnings for 3000rpm max appeared, engine overheating and potential damage to engine components appears and engine functioning was decreased, exhaust control malfaction message,  and electronic engine control message with assoc",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "21 reports (22%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact rented a 2023 Volkswagen Taos. The contact stated that while the vehicle was in drive with the brake pedal depressed and entering the garage, he released the brake pedal and the vehicle rolled and stalled. Additionally, the vehicle failed to start. The contact had to ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "12 reports (12%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the 2023 Taos SE at the beginning of may. When accelerating on the highway, the ACC light and engine light came on and the car started rapidly decelerating. Lane assist, cruise control and ACC were not able to be used. I managed to pull to the side of the road, and wa",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (9%)"
+      }
+    ]
+  }
+}

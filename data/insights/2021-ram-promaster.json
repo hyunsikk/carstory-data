@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ram-promaster",
+  "make": "Ram",
+  "model": "ProMaster",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/RAM/PROMASTER#complaints",
+  "generatedAt": "2026-06-23T16:40:22.891Z",
+  "total": 101,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 20,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ram Promaster 2500. The contact stated that while parking the vehicle, the back-over prevention camera failed to operate as needed. The vehicle was turned off and restarted. The vehicle was diagnosed by the dealer and the failure was stated as a manufactur",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "August 6, 2021  NHTSA Safety Issue ID: 21V3960000   As a first-time purchaser of an RV, what I had hoped would be an answer to some of my life’s difficulties has turned out to be a nightmare. I walked into nothing less than a predatory vehicle purchasing experience with General R",
+      "pct": 19
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Blind Spot Detector is not working. The van can be inspected upon request. This is a large vehicle and blind spot detection is an extremely important safety feature. A Dodge dealer found the following stored codes: U1700-87, c100B29, and c100e29 - I don't know if these are bl",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ram Promaster. The contact received notification of NHTSA Campaign Number: 23V301000 (Power Train) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reas",
+      "pct": 11
+    },
+    {
+      "component": "WHEELS",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The driver side lugs keep coming off even when torqued correctly.  It causes the vehicle to put pressure on the small stems which are breaking off or sheared off due to the heat and pressure.   Vehicle wobbles immediately making the vehicel unsafe to drive.  Several drivers have ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ram Promaster owners report most",
+    "summary": "Across 101 owner complaints to NHTSA, the most reported area is Back Over Prevention (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 20,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ram Promaster 2500. The contact stated that while parking the vehicle, the back-over prevention camera failed to operate as needed. The vehicle was turned off and restarted. The vehicle was diagnosed by the dealer and the failure was stated as a manufactur",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "20 reports (20%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "August 6, 2021  NHTSA Safety Issue ID: 21V3960000   As a first-time purchaser of an RV, what I had hoped would be an answer to some of my life’s difficulties has turned out to be a nightmare. I walked into nothing less than a predatory vehicle purchasing experience with General R",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "19 reports (19%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Blind Spot Detector is not working. The van can be inspected upon request. This is a large vehicle and blind spot detection is an extremely important safety feature. A Dodge dealer found the following stored codes: U1700-87, c100B29, and c100e29 - I don't know if these are bl",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "14 reports (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ram Promaster. The contact received notification of NHTSA Campaign Number: 23V301000 (Power Train) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reas",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "11 reports (11%) · 1 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The driver side lugs keep coming off even when torqued correctly.  It causes the vehicle to put pressure on the small stems which are breaking off or sheared off due to the heat and pressure.   Vehicle wobbles immediately making the vehicel unsafe to drive.  Several drivers have ",
+        "pct": 7,
+        "title": "Wheels",
+        "blurb": "7 reports (7%)"
+      }
+    ]
+  }
+}

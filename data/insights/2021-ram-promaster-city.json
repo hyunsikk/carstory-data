@@ -1,0 +1,106 @@
+{
+  "slug": "2021-ram-promaster-city",
+  "make": "Ram",
+  "model": "ProMaster City",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/RAM/PROMASTER%20CITY#complaints",
+  "generatedAt": "2026-06-23T16:40:26.384Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine oil leak at the oil filter. The oil filter monting surface has a defect (not flat) allowing oil to push out. It is currently available for inspection, but it is scheduled to been seen by the dealer to be replaced under warranty.  Safety - issue was noticed before enough da",
+      "pct": 60
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ram Promaster City. The contact had initially received a recall notice for NHTSA Campaign Number: 21V728000 (Exterior Lighting). He then called the dealer and was informed that there was an additional recall on the vehicle for NHTSA Campaign Number: 21V699",
+      "pct": 20
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ram Promaster City. The contact had initially received a recall notice for NHTSA Campaign Number: 21V728000 (Exterior Lighting). He then called the dealer and was informed that there was an additional recall on the vehicle for NHTSA Campaign Number: 21V699",
+      "pct": 20
+    },
+    {
+      "component": "EQUIPMENT",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Two instances of rooftop tent opening without human interaction.   Incident 1 // 9-17-21:  Vehicle was parked and the front drivers side latch (attached photo) opened due to gusts of wind.     Incident 2 // 9-19-21:  When driving approximately 65 mph (cruise control) on Interstat",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ram Promaster City owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (60% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine oil leak at the oil filter. The oil filter monting surface has a defect (not flat) allowing oil to push out. It is currently available for inspection, but it is scheduled to been seen by the dealer to be replaced under warranty.  Safety - issue was noticed before enough da",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ram Promaster City. The contact had initially received a recall notice for NHTSA Campaign Number: 21V728000 (Exterior Lighting). He then called the dealer and was informed that there was an additional recall on the vehicle for NHTSA Campaign Number: 21V699",
+        "pct": 20,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ram Promaster City. The contact had initially received a recall notice for NHTSA Campaign Number: 21V728000 (Exterior Lighting). He then called the dealer and was informed that there was an additional recall on the vehicle for NHTSA Campaign Number: 21V699",
+        "pct": 20,
+        "title": "Seat Belts",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "EQUIPMENT",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Two instances of rooftop tent opening without human interaction.   Incident 1 // 9-17-21:  Vehicle was parked and the front drivers side latch (attached photo) opened due to gusts of wind.     Incident 2 // 9-19-21:  When driving approximately 65 mph (cruise control) on Interstat",
+        "pct": 20,
+        "title": "Equipment",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

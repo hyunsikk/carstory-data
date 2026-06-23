@@ -1,0 +1,128 @@
+{
+  "slug": "2014-hyundai-accent",
+  "make": "Hyundai",
+  "model": "Accent",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/HYUNDAI/ACCENT#complaints",
+  "generatedAt": "2026-06-23T16:32:56.971Z",
+  "total": 79,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Las luz de ABS comenzó a verse encendida en el Dashboard en ocasiones la de ABS junto a la de Emergencia. Lleve el auto a inspeccionar en el diagnostico resultó que el problema posiblemente podría estar en el HECU. Me indican que lo llevara en esos días porque al ser algo complej",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE 1ST STOPPED 2 WEEKS AGO AT A RED LIGHT.  I SAY \"STOPPED\" BECAUSE THAT IS EXACTLY WHAT IT DID \"STOP,\" NO WARNING LIGHT OR SIGNAL. IT SIMPLY STOPPED. HAD TO GET PUSHED OFF THE ROAD. STARTED AFTER 15-20 MIN. TOOK IT TO MECHANIC, FOUND NOTHING WRONG. SENSORS, GAS, ELECTRIC",
+      "pct": 23
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 12,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Hyundai Accent. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 11,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "I BOUGHT MY CAR IN FEB 2014, SINCE THAT THE ELECTRONIC STABILITY CONTROL (ESC) INDICATOR HAS COME ON SEVERAL TIMES WHILE DRIVING. WHEN THE ESC IS ON, THE OTHER INDICATORS AIR BAG WARNING LIGHT, ABS, PARKING BRAKE & BRAKE FLUID WARNING LIGHT, LOW TIRE PRESSURE TELLTALE AND ELECTRO",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT MY CAR IN FEB 2014, SINCE THAT THE ELECTRONIC STABILITY CONTROL (ESC) INDICATOR HAS COME ON SEVERAL TIMES WHILE DRIVING. WHEN THE ESC IS ON, THE OTHER INDICATORS AIR BAG WARNING LIGHT, ABS, PARKING BRAKE & BRAKE FLUID WARNING LIGHT, LOW TIRE PRESSURE TELLTALE AND ELECTRO",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Hyundai Accent owners report most",
+    "summary": "Across 79 owner complaints to NHTSA, the most reported area is Service Brakes (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Las luz de ABS comenzó a verse encendida en el Dashboard en ocasiones la de ABS junto a la de Emergencia. Lleve el auto a inspeccionar en el diagnostico resultó que el problema posiblemente podría estar en el HECU. Me indican que lo llevara en esos días porque al ser algo complej",
+        "pct": 32,
+        "title": "Service Brakes",
+        "blurb": "25 reports (32%) · 5 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE 1ST STOPPED 2 WEEKS AGO AT A RED LIGHT.  I SAY \"STOPPED\" BECAUSE THAT IS EXACTLY WHAT IT DID \"STOP,\" NO WARNING LIGHT OR SIGNAL. IT SIMPLY STOPPED. HAD TO GET PUSHED OFF THE ROAD. STARTED AFTER 15-20 MIN. TOOK IT TO MECHANIC, FOUND NOTHING WRONG. SENSORS, GAS, ELECTRIC",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "18 reports (23%) · 2 fire"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 12,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Hyundai Accent. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+        "pct": 15,
+        "title": "Hydraulic",
+        "blurb": "12 reports (15%) · 2 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 11,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "I BOUGHT MY CAR IN FEB 2014, SINCE THAT THE ELECTRONIC STABILITY CONTROL (ESC) INDICATOR HAS COME ON SEVERAL TIMES WHILE DRIVING. WHEN THE ESC IS ON, THE OTHER INDICATORS AIR BAG WARNING LIGHT, ABS, PARKING BRAKE & BRAKE FLUID WARNING LIGHT, LOW TIRE PRESSURE TELLTALE AND ELECTRO",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "11 reports (14%) · 9 crash · 11 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT MY CAR IN FEB 2014, SINCE THAT THE ELECTRONIC STABILITY CONTROL (ESC) INDICATOR HAS COME ON SEVERAL TIMES WHILE DRIVING. WHEN THE ESC IS ON, THE OTHER INDICATORS AIR BAG WARNING LIGHT, ABS, PARKING BRAKE & BRAKE FLUID WARNING LIGHT, LOW TIRE PRESSURE TELLTALE AND ELECTRO",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "8 reports (10%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-kia-rio",
+  "make": "Kia",
+  "model": "Rio",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/KIA/RIO#complaints",
+  "generatedAt": "2026-06-23T16:36:38.361Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Kia Rio. The contact stated that he was a former service technician and that while driving and stopping at a stoplight, the traffic light turned green and the contact depressed the accelerator pedal however, the vehicle idled and stalled for a few seconds ",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 3,
+      "sample": "Yes my son bought this car last year I have been checking since January there has still been no recalls on his particular car he was in a car accident and unfortunately him and his passengers were all killed. I have contacted an attorney who has sent an inspector they said initia",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "marker lights on the right side won't work both went off line and licence light same side is out same time and bulbs ,fuse replaced and still not working the kia service will not fix in kia of manharttan  in kansas andi have 68,000 miles and they didn't offer a basic warrantty to",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There has not been an incident yet but i don’t know who else to talk to. I am a FedEx Delivery driver and driver the largest Delivery truck made for FedEx and am fine with it ask day. However, the steering on my car is down right dangerous. My car drifts all over the road. It is ",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I CALLED THE DEALERSHIP ABOUT MY BRAKE PROBLEM FIVE DAYS AGO ABOUT THE BRAKES GOING   DOWN TO THE FLOOR ALMOST  I WAS TOLD BY THE SERVICE MANAGER THAT WAS A SAFETY ISSUE SO HE GAVE ME THEIR ROADSIDE ASSISTANCE NUMBER YOBE PICKED UP THEY DID ON FRIDAY MORNING 9/25/20 THE CAR WAS D",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Kia Rio owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Power Train (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Kia Rio. The contact stated that he was a former service technician and that while driving and stopping at a stoplight, the traffic light turned green and the contact depressed the accelerator pedal however, the vehicle idled and stalled for a few seconds ",
+        "pct": 19,
+        "title": "Power Train",
+        "blurb": "5 reports (19%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 3,
+        "sample": "Yes my son bought this car last year I have been checking since January there has still been no recalls on his particular car he was in a car accident and unfortunately him and his passengers were all killed. I have contacted an attorney who has sent an inspector they said initia",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "5 reports (19%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "marker lights on the right side won't work both went off line and licence light same side is out same time and bulbs ,fuse replaced and still not working the kia service will not fix in kia of manharttan  in kansas andi have 68,000 miles and they didn't offer a basic warrantty to",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "4 reports (15%) · 3 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There has not been an incident yet but i don’t know who else to talk to. I am a FedEx Delivery driver and driver the largest Delivery truck made for FedEx and am fine with it ask day. However, the steering on my car is down right dangerous. My car drifts all over the road. It is ",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I CALLED THE DEALERSHIP ABOUT MY BRAKE PROBLEM FIVE DAYS AGO ABOUT THE BRAKES GOING   DOWN TO THE FLOOR ALMOST  I WAS TOLD BY THE SERVICE MANAGER THAT WAS A SAFETY ISSUE SO HE GAVE ME THEIR ROADSIDE ASSISTANCE NUMBER YOBE PICKED UP THEY DID ON FRIDAY MORNING 9/25/20 THE CAR WAS D",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "3 reports (12%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-lincoln-aviator",
+  "make": "Lincoln",
+  "model": "Aviator",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LINCOLN/AVIATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:39.364Z",
+  "total": 96,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED THE AUTO ON AUG 24, 2019. I HAVE ENCOUNTERED 5 ISSUES WITH THE VEHICLE SO FAR - 3 MECHANICAL AND 2, COSMETIC. I'LL FOCUS ON THE MECHANICAL. BESIDE THE PENDING RECALL, I AM EXPERIENCING THE FOLLOWING:  1) THE PASSENGER SEAT IN FRONT ROW LACKS THE MOTOR FOR THE MASSAGE ",
+      "pct": 39
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Built at Chicago Plant October 2019 purchased Sept 30, 2020.    Multiple and ongoing instances where back up camera when put into reverse goes to a blue screen and you cannot see what is behind you in the back up camera. it also cant assist in advising you there is oncoming traff",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE HAS 4960 MILES AND THE TRANSMISSION STARTED TO SLOW DOWN AS IF  I WAS DRIVING A STICK SHIFT CAR, THEN 2 OR 3 DAYS LATER BEGAN TO KICK AND LOSE POWER WHEN INCREASING SPEED AFTER A STOP SIGN.  DEALER DIAGNOSED AN INTERNAL FAILURE ON THE TRANSMISSION AND IT NEEDS TO BE RE",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WITH MY CAR IN PARK, I HAVE SHIFTED TO DRIVE AND REVERSE, AND WHILE MAINTAINING MY FOOT ON THE BRAKE AFTER TRANSFERRING TO DRIVE OR REVERSE THE CAR HAS MOVED BY ITSELF BY APPROXIMATELY 3 FEET BEFORE COMING TO A STOP. EACH TIME THIS HAS HAPPENED I WAS ON A LEVEL SURFACE. THE DEALE",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AWD, Adaptive Cruise Control, infoTrac, and Collisiom assistance lights continue going off while on freeways. Have brought in several times in less than a year and I can’t imagine that the ABS module is the issue as they reinstalled and it didn’t work along with replacement of nu",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lincoln Aviator owners report most",
+    "summary": "Across 96 owner complaints to NHTSA, the most reported area is Electrical System (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED THE AUTO ON AUG 24, 2019. I HAVE ENCOUNTERED 5 ISSUES WITH THE VEHICLE SO FAR - 3 MECHANICAL AND 2, COSMETIC. I'LL FOCUS ON THE MECHANICAL. BESIDE THE PENDING RECALL, I AM EXPERIENCING THE FOLLOWING:  1) THE PASSENGER SEAT IN FRONT ROW LACKS THE MOTOR FOR THE MASSAGE ",
+        "pct": 39,
+        "title": "Electrical System",
+        "blurb": "37 reports (39%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Built at Chicago Plant October 2019 purchased Sept 30, 2020.    Multiple and ongoing instances where back up camera when put into reverse goes to a blue screen and you cannot see what is behind you in the back up camera. it also cant assist in advising you there is oncoming traff",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "16 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE HAS 4960 MILES AND THE TRANSMISSION STARTED TO SLOW DOWN AS IF  I WAS DRIVING A STICK SHIFT CAR, THEN 2 OR 3 DAYS LATER BEGAN TO KICK AND LOSE POWER WHEN INCREASING SPEED AFTER A STOP SIGN.  DEALER DIAGNOSED AN INTERNAL FAILURE ON THE TRANSMISSION AND IT NEEDS TO BE RE",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "15 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WITH MY CAR IN PARK, I HAVE SHIFTED TO DRIVE AND REVERSE, AND WHILE MAINTAINING MY FOOT ON THE BRAKE AFTER TRANSFERRING TO DRIVE OR REVERSE THE CAR HAS MOVED BY ITSELF BY APPROXIMATELY 3 FEET BEFORE COMING TO A STOP. EACH TIME THIS HAS HAPPENED I WAS ON A LEVEL SURFACE. THE DEALE",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "9 reports (9%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AWD, Adaptive Cruise Control, infoTrac, and Collisiom assistance lights continue going off while on freeways. Have brought in several times in less than a year and I can’t imagine that the ABS module is the issue as they reinstalled and it didn’t work along with replacement of nu",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (8%)"
+      }
+    ]
+  }
+}

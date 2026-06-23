@@ -1,0 +1,128 @@
+{
+  "slug": "2023-genesis-gv80",
+  "make": "Genesis",
+  "model": "GV80",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/GV80#complaints",
+  "generatedAt": "2026-06-23T16:31:11.572Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In rare circumstances, the user may be able to initiate navigation using the built-in infotainment system while the vehicle is already in motion. Other safeguards already exist within the Genesis maps system to prevent the driver from starting navigation while driving. This softw",
+      "pct": 29
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car engine stalled multiple times after a stop. Once car did that right after light turned green and I tried to accelerate. Almost causing accident by getting hit by behind.  Also did it in parking lot, what happens the gages stop showing information and only the miles driven on ",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electronic traction control system fails to deliver power correctly when the vehicle is passing over icy ruts. The system incorrectly delivers additional power to wheels that have lost grip causing unpredictable driving behavior, which startles the driver. Even when Snow mode is ",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front Windshield has an indentation the size of a golf ball below the seal and above the hood and cracks that extend 12- 18 \" beyond the golf ball size indentation. There was no other vehicle, no rock, traveling below the speed limit at 55 on a Friday afternoon on Route 12 fr",
+      "pct": 9
+    },
+    {
+      "component": "SEATS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Genesis GV80. The contact stated that upon trying to reposition the front passenger’s side seat, the seat unable to be moved or adjusted. After several attempts to adjust the front passenger’s seat, the seat moved freely from side to side, stopping extreme",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis Gv80 owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In rare circumstances, the user may be able to initiate navigation using the built-in infotainment system while the vehicle is already in motion. Other safeguards already exist within the Genesis maps system to prevent the driver from starting navigation while driving. This softw",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "10 reports (29%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car engine stalled multiple times after a stop. Once car did that right after light turned green and I tried to accelerate. Almost causing accident by getting hit by behind.  Also did it in parking lot, what happens the gages stop showing information and only the miles driven on ",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electronic traction control system fails to deliver power correctly when the vehicle is passing over icy ruts. The system incorrectly delivers additional power to wheels that have lost grip causing unpredictable driving behavior, which startles the driver. Even when Snow mode is ",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front Windshield has an indentation the size of a golf ball below the seal and above the hood and cracks that extend 12- 18 \" beyond the golf ball size indentation. There was no other vehicle, no rock, traveling below the speed limit at 55 on a Friday afternoon on Route 12 fr",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "3 reports (9%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Genesis GV80. The contact stated that upon trying to reposition the front passenger’s side seat, the seat unable to be moved or adjusted. After several attempts to adjust the front passenger’s seat, the seat moved freely from side to side, stopping extreme",
+        "pct": 9,
+        "title": "Seats",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

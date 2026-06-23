@@ -1,0 +1,62 @@
+{
+  "slug": "2018-subaru-wrx-sti",
+  "make": "Subaru",
+  "model": "WRX STI",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/SUBARU/WRX%20STI#complaints",
+  "generatedAt": "2026-06-23T16:40:57.189Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2018 SUBARU WRX STI. WHILE THE CONTACT'S SON WAS DRIVING 5-10 MPH, A 2009 CHEVROLET HHR T-BONED HIS VEHICLE AND PUSHED IT 60 FEET. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE DRIVER SUSTAINED HEAD INJURIES AND THE PASSENGER SUSTAINED NECK INJURIES. M",
+      "pct": 50
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS AN ISSUE REGARDING THE HEADLIGHT HOUSING. FOR UNKNOWN REASONS PART OF IT SEEMS TO BE MELTING FROM THE INSIDE. THIS TO ME CAN BE A SAFETY OR EVEN FIRE HAZARD.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Subaru Wrx Sti owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2018 SUBARU WRX STI. WHILE THE CONTACT'S SON WAS DRIVING 5-10 MPH, A 2009 CHEVROLET HHR T-BONED HIS VEHICLE AND PUSHED IT 60 FEET. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE DRIVER SUSTAINED HEAD INJURIES AND THE PASSENGER SUSTAINED NECK INJURIES. M",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS AN ISSUE REGARDING THE HEADLIGHT HOUSING. FOR UNKNOWN REASONS PART OF IT SEEMS TO BE MELTING FROM THE INSIDE. THIS TO ME CAN BE A SAFETY OR EVEN FIRE HAZARD.",
+        "pct": 50,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

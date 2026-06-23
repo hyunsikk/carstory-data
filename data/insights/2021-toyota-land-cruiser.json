@@ -1,0 +1,40 @@
+{
+  "slug": "2021-toyota-land-cruiser",
+  "make": "Toyota",
+  "model": "Land Cruiser",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/LAND%20CRUISER#complaints",
+  "generatedAt": "2026-06-23T16:41:25.028Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Water pump failed at under 60k, but was just over 60k miles when I brought into Toyota Dealer (Rudy Luther, Minnetonka MN). Toyota denied claim and won’t stand behind a water pump failure. This part doesn’t have any maintenance needed per manufacture documentation within the mile",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Toyota Land Cruiser owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Water pump failed at under 60k, but was just over 60k miles when I brought into Toyota Dealer (Rudy Luther, Minnetonka MN). Toyota denied claim and won’t stand behind a water pump failure. This part doesn’t have any maintenance needed per manufacture documentation within the mile",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

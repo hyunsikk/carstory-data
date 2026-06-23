@@ -1,0 +1,128 @@
+{
+  "slug": "2021-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-06-23T16:31:55.945Z",
+  "total": 204,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 57,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Honda Acord. The contact stated that while driving, the brakes engaged inadvertently without warning. Additionally, the vehicle slowed down while approaching the pedestrian crossing. The local dealer was called, and an appointment was scheduled however, th",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 48,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Automatic braking has initiated for no reason, at least four times almost causing accidents, car radio sometimes will no shut off, seems to be some type of electrical problem, I have had both issues looked at by dealer who states they cannot find a problem with this vehicle, ther",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 27,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "While driving in heavy rain on interstate, vehicle experienced lack of power and flashing check engine light. Driver was unable to maintain speed. Pulled off at next exit and turned off. Roadside assistance was contacted immediately after pulling off. Vehicle restarted and ran no",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 26,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 HONDA ACCORD. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE VIEW OUT OF THE FRONT WINDSHIELD WAS VERY DISTORTED. ADDITIONALLY, THE BRAKE PEDAL HESITATED TO OPERATE CORRECTLY WHEN DEPRESSED. THE VEHICLE WAS TAKEN TO TAMERON HONDA (1675 MO",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am writing to complain about Honda's handling of another safety related recall.  I was told months ago that repairs would start in April 2024 for the defect passenger seat airbag sensor.  Today I received a new notice claiming that they will not have parts for this recall for n",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Honda Accord owners report most",
+    "summary": "Across 204 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 57,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Honda Acord. The contact stated that while driving, the brakes engaged inadvertently without warning. Additionally, the vehicle slowed down while approaching the pedestrian crossing. The local dealer was called, and an appointment was scheduled however, th",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "57 reports (28%) · 7 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 48,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Automatic braking has initiated for no reason, at least four times almost causing accidents, car radio sometimes will no shut off, seems to be some type of electrical problem, I have had both issues looked at by dealer who states they cannot find a problem with this vehicle, ther",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "48 reports (24%) · 1 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 27,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "While driving in heavy rain on interstate, vehicle experienced lack of power and flashing check engine light. Driver was unable to maintain speed. Pulled off at next exit and turned off. Roadside assistance was contacted immediately after pulling off. Vehicle restarted and ran no",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "27 reports (13%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 26,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 HONDA ACCORD. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE VIEW OUT OF THE FRONT WINDSHIELD WAS VERY DISTORTED. ADDITIONALLY, THE BRAKE PEDAL HESITATED TO OPERATE CORRECTLY WHEN DEPRESSED. THE VEHICLE WAS TAKEN TO TAMERON HONDA (1675 MO",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "26 reports (13%) · 3 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am writing to complain about Honda's handling of another safety related recall.  I was told months ago that repairs would start in April 2024 for the defect passenger seat airbag sensor.  Today I received a new notice claiming that they will not have parts for this recall for n",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "14 reports (7%)"
+      }
+    ]
+  }
+}

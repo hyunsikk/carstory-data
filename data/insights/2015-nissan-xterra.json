@@ -1,0 +1,128 @@
+{
+  "slug": "2015-nissan-xterra",
+  "make": "Nissan",
+  "model": "Xterra",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/NISSAN/XTERRA#complaints",
+  "generatedAt": "2026-06-23T16:45:39.770Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NISSAN XTERRA 2015 PURCHASED ON 3/14/2015.  ODOMETER AT 4200 MILES.    VEHICLE HAS LOSS OF POWER FOR APPROXIMATELY 30 SECONDS.  VDC DASH INDICATOR TURNS ON.  SOMETIMES ACCOMPANIED BY METALLIC GRINDING NOISE AS IF THE ABS SYSTEM HAS TURNED ON.  THIS HAS OCCURRED SEVERAL TIMES ALWA",
+      "pct": 60
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Nissan Xterra. The contact stated that while the vehicle was parked with the emergency  brake activated, the emergency brake button was stuck. The vehicle was taken to the dealer, and it was diagnosed that the axles were leaking oil and needed to be replac",
+      "pct": 30
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear passenger side door will not open from the inside or outside. This is apparently a widespread problem for Nissan Xterra rear doors. It creates a safety problem as passengers cannot leave the vehicle in case of an accident.",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Leaf spring snapped. Large piece of metal was found in the road. Rear shocks were replaced under warranty several years prior. Known weak point of xterras. Dealer replacement costs were astronomical so I upgraded the equipment for the same cost and did the work myself as I am now",
+      "pct": 10
+    },
+    {
+      "component": "PARKING BRAKE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Nissan Xterra. The contact stated that while the vehicle was parked with the emergency  brake activated, the emergency brake button was stuck. The vehicle was taken to the dealer, and it was diagnosed that the axles were leaking oil and needed to be replac",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Nissan Xterra owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (60% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NISSAN XTERRA 2015 PURCHASED ON 3/14/2015.  ODOMETER AT 4200 MILES.    VEHICLE HAS LOSS OF POWER FOR APPROXIMATELY 30 SECONDS.  VDC DASH INDICATOR TURNS ON.  SOMETIMES ACCOMPANIED BY METALLIC GRINDING NOISE AS IF THE ABS SYSTEM HAS TURNED ON.  THIS HAS OCCURRED SEVERAL TIMES ALWA",
+        "pct": 60,
+        "title": "Power Train",
+        "blurb": "6 reports (60%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Nissan Xterra. The contact stated that while the vehicle was parked with the emergency  brake activated, the emergency brake button was stuck. The vehicle was taken to the dealer, and it was diagnosed that the axles were leaking oil and needed to be replac",
+        "pct": 30,
+        "title": "Suspension",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear passenger side door will not open from the inside or outside. This is apparently a widespread problem for Nissan Xterra rear doors. It creates a safety problem as passengers cannot leave the vehicle in case of an accident.",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Leaf spring snapped. Large piece of metal was found in the road. Rear shocks were replaced under warranty several years prior. Known weak point of xterras. Dealer replacement costs were astronomical so I upgraded the equipment for the same cost and did the work myself as I am now",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "PARKING BRAKE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Nissan Xterra. The contact stated that while the vehicle was parked with the emergency  brake activated, the emergency brake button was stuck. The vehicle was taken to the dealer, and it was diagnosed that the axles were leaking oil and needed to be replac",
+        "pct": 10,
+        "title": "Parking Brake",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

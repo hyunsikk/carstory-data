@@ -1,0 +1,40 @@
+{
+  "slug": "2022-toyota-supra",
+  "make": "Toyota",
+  "model": "Supra",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/SUPRA#complaints",
+  "generatedAt": "2026-06-23T16:41:30.573Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My windshield glass cracked while I wasn’t even driving it. I was told it was due to a rock chip, but I could find no evidence of it. Toyota refused to cover under warranty, so I had it replaced at a total cost of over $900.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Supra owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Visibility/Wiper (100% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My windshield glass cracked while I wasn’t even driving it. I was told it was due to a rock chip, but I could find no evidence of it. Toyota refused to cover under warranty, so I had it replaced at a total cost of over $900.",
+        "pct": 100,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

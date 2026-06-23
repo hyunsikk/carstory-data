@@ -1,0 +1,128 @@
+{
+  "slug": "2021-cadillac-ct5",
+  "make": "Cadillac",
+  "model": "CT5",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CADILLAC/CT5#complaints",
+  "generatedAt": "2026-06-23T16:27:38.325Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When approaching a stopping vehicle the brake pedal became extremely hard to press and I could not brake enough to stop and had a collision. Come to find out that the ABS computer and the main ECU weren't communicating correctly which turned off the assisted braking, assisted ste",
+      "pct": 37
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Currently my passenger door and my rear driver side door do not open from the outside. I already had to have my driver side door handle replaced for the same issue, now three out of four of my handles have failed. If an accident were to occur no one would be able to access the pa",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Service transmission message showed up on dash. Dealer stated after performance test found P17A5 code for shift control. The dealer stated that the gear shift assembly needed to be replaced and if not, that the car could get stuck in gear which I feel is a safety risk.  My vehicl",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "There was no indication that the Automatic Braking System, Air Bags and Seatbelts were not working properly.  In August 12, 2021, I was in an auto accident where I rear-ended another dodge car.  The air bags did not deploy and Onstar was not notified.  I believe I hit the steerin",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "There was no indication that the Automatic Braking System, Air Bags and Seatbelts were not working properly.  In August 12, 2021, I was in an auto accident where I rear-ended another dodge car.  The air bags did not deploy and Onstar was not notified.  I believe I hit the steerin",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Cadillac Ct5 owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Electrical System (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When approaching a stopping vehicle the brake pedal became extremely hard to press and I could not brake enough to stop and had a collision. Come to find out that the ABS computer and the main ECU weren't communicating correctly which turned off the assisted braking, assisted ste",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "7 reports (37%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Currently my passenger door and my rear driver side door do not open from the outside. I already had to have my driver side door handle replaced for the same issue, now three out of four of my handles have failed. If an accident were to occur no one would be able to access the pa",
+        "pct": 16,
+        "title": "Structure",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Service transmission message showed up on dash. Dealer stated after performance test found P17A5 code for shift control. The dealer stated that the gear shift assembly needed to be replaced and if not, that the car could get stuck in gear which I feel is a safety risk.  My vehicl",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "There was no indication that the Automatic Braking System, Air Bags and Seatbelts were not working properly.  In August 12, 2021, I was in an auto accident where I rear-ended another dodge car.  The air bags did not deploy and Onstar was not notified.  I believe I hit the steerin",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "2 reports (11%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "There was no indication that the Automatic Braking System, Air Bags and Seatbelts were not working properly.  In August 12, 2021, I was in an auto accident where I rear-ended another dodge car.  The air bags did not deploy and Onstar was not notified.  I believe I hit the steerin",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (11%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

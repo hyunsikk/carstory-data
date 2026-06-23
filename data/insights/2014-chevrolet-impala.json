@@ -1,0 +1,128 @@
+{
+  "slug": "2014-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-06-23T16:28:31.523Z",
+  "total": 630,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 220,
+      "crash": 1,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BATTERY LEAKED DOWN THE FRAME AND WAS EATING THE 2 TRANY COOLER ALUMINUM LINES. AUTONATION CHEVROLET SUPERSTITION SPRINGS IN MESA, AZ PUT  A NEW BATTERY AND 2 NEW TRANY COOLER LINES ON, BUT AFTER THE 4TH ATTEMPT CAN NOT GET ALL OF THE ACID CLEANED UP. ENGINE CRADLE STILL HAS NO P",
+      "pct": 35
+    },
+    {
+      "component": "STEERING",
+      "count": 137,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AT 55 MPH ON A SLIPPERY RIGHT HAND SIDE CURVE (SPEED LIMIT IS 65 MPH) VEHICLE UNDER-STEERED AND LOST TRACTION COMPLETELY, WITHOUT TOUCHING THE BRAKES, IT STARTED TO SLOW DOWN AND SKIDDED TO THE OUTSIDE OF THE CURVE (TO THE LEFT). I TRIED TO GET IT BACK TO THE DRIVING LANE, IT STA",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 104,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT 70 MPH VEHICLE SLOWED ON ITS OWN. VEHICLE INFORMATION CENTER READ \"STABILITRAK AND ENGINE POWER IS REDUCED\". GOT YELLOW TRACTION CONTROL SYSTEM LIGHT ON THE INSTRUMENT PANEL WITH A \"MALFUNCTION INDICATOR LIGHT\" BELOW THE SPEEDOMETER.ENGINE RUNNING ROUGH AT ASHLAND, VA EXIT.ENG",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 90,
+      "crash": 6,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AT 55 MPH ON A SLIPPERY RIGHT HAND SIDE CURVE (SPEED LIMIT IS 65 MPH) VEHICLE UNDER-STEERED AND LOST TRACTION COMPLETELY, WITHOUT TOUCHING THE BRAKES, IT STARTED TO SLOW DOWN AND SKIDDED TO THE OUTSIDE OF THE CURVE (TO THE LEFT). I TRIED TO GET IT BACK TO THE DRIVING LANE, IT STA",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 56,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AT 70 MPH VEHICLE SLOWED ON ITS OWN. VEHICLE INFORMATION CENTER READ \"STABILITRAK AND ENGINE POWER IS REDUCED\". GOT YELLOW TRACTION CONTROL SYSTEM LIGHT ON THE INSTRUMENT PANEL WITH A \"MALFUNCTION INDICATOR LIGHT\" BELOW THE SPEEDOMETER.ENGINE RUNNING ROUGH AT ASHLAND, VA EXIT.ENG",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Chevrolet Impala owners report most",
+    "summary": "Across 630 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 220,
+        "crash": 1,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BATTERY LEAKED DOWN THE FRAME AND WAS EATING THE 2 TRANY COOLER ALUMINUM LINES. AUTONATION CHEVROLET SUPERSTITION SPRINGS IN MESA, AZ PUT  A NEW BATTERY AND 2 NEW TRANY COOLER LINES ON, BUT AFTER THE 4TH ATTEMPT CAN NOT GET ALL OF THE ACID CLEANED UP. ENGINE CRADLE STILL HAS NO P",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "220 reports (35%) · 5 fire · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 137,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AT 55 MPH ON A SLIPPERY RIGHT HAND SIDE CURVE (SPEED LIMIT IS 65 MPH) VEHICLE UNDER-STEERED AND LOST TRACTION COMPLETELY, WITHOUT TOUCHING THE BRAKES, IT STARTED TO SLOW DOWN AND SKIDDED TO THE OUTSIDE OF THE CURVE (TO THE LEFT). I TRIED TO GET IT BACK TO THE DRIVING LANE, IT STA",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "137 reports (22%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 104,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT 70 MPH VEHICLE SLOWED ON ITS OWN. VEHICLE INFORMATION CENTER READ \"STABILITRAK AND ENGINE POWER IS REDUCED\". GOT YELLOW TRACTION CONTROL SYSTEM LIGHT ON THE INSTRUMENT PANEL WITH A \"MALFUNCTION INDICATOR LIGHT\" BELOW THE SPEEDOMETER.ENGINE RUNNING ROUGH AT ASHLAND, VA EXIT.ENG",
+        "pct": 17,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "104 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 90,
+        "crash": 6,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AT 55 MPH ON A SLIPPERY RIGHT HAND SIDE CURVE (SPEED LIMIT IS 65 MPH) VEHICLE UNDER-STEERED AND LOST TRACTION COMPLETELY, WITHOUT TOUCHING THE BRAKES, IT STARTED TO SLOW DOWN AND SKIDDED TO THE OUTSIDE OF THE CURVE (TO THE LEFT). I TRIED TO GET IT BACK TO THE DRIVING LANE, IT STA",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "90 reports (14%) · 2 fire · 6 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 56,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AT 70 MPH VEHICLE SLOWED ON ITS OWN. VEHICLE INFORMATION CENTER READ \"STABILITRAK AND ENGINE POWER IS REDUCED\". GOT YELLOW TRACTION CONTROL SYSTEM LIGHT ON THE INSTRUMENT PANEL WITH A \"MALFUNCTION INDICATOR LIGHT\" BELOW THE SPEEDOMETER.ENGINE RUNNING ROUGH AT ASHLAND, VA EXIT.ENG",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "56 reports (9%) · 3 fire · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

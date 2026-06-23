@@ -1,0 +1,128 @@
+{
+  "slug": "2020-porsche-macan",
+  "make": "Porsche",
+  "model": "Macan",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/PORSCHE/MACAN#complaints",
+  "generatedAt": "2026-06-23T16:39:51.486Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The 2020 (and possibly 2019) Porsche Macan passenger (right) side headlight (low beam only) is failing.  About four months ago the right headlight on my Macan went out and after taking to the dealer, I was informed that the critical headlight failed (the car was less than five ye",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2020 PORSCHE MACAN FROM DELIVERY NEW ON  10/2/2020 HAS EXPERIENCED FAILURE OF BACK-UP CAMERA SYSTEM (A DOT REQUIRED PIECE OF SAFETY EQUIPMENT). MANY TRIPS TO DEALER, BEING TOLD IT IS SOFTWARE PROBLEM AND I SHOULD JUST WAIT A FEW YEARS FOR A FIX AS PORSCHE HAS NONE AND REFUSES ",
+      "pct": 26
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the rear view (and front and side) cameras work intermittently.  This makes parking very difficult and when backing out of the driveway you cannot see if there is an object in the vehicle's path.  Issue started several months ago and has been getting progressively worse (more fre",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The 2020 Macan developed extreme shakes with 14,000 miles. I had to replace rear brakes and rotors at 14,000 and fronts brakes and rotors at 21,000 at a cost of $3,000.00. Porsche has denied payment for these defective parts. They should recall and fix this ridiculous brake and r",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was involved in an accident October 12, 2021 in which the passenger side of my car was hit. The damage was from the front passenger door to the rear bumper. The total damage to date 02/18/2022 is approximately $25K. In the incident - not one single air bag deployed. I suffered ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Porsche Macan owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Exterior Lighting (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The 2020 (and possibly 2019) Porsche Macan passenger (right) side headlight (low beam only) is failing.  About four months ago the right headlight on my Macan went out and after taking to the dealer, I was informed that the critical headlight failed (the car was less than five ye",
+        "pct": 43,
+        "title": "Exterior Lighting",
+        "blurb": "10 reports (43%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2020 PORSCHE MACAN FROM DELIVERY NEW ON  10/2/2020 HAS EXPERIENCED FAILURE OF BACK-UP CAMERA SYSTEM (A DOT REQUIRED PIECE OF SAFETY EQUIPMENT). MANY TRIPS TO DEALER, BEING TOLD IT IS SOFTWARE PROBLEM AND I SHOULD JUST WAIT A FEW YEARS FOR A FIX AS PORSCHE HAS NONE AND REFUSES ",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "6 reports (26%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the rear view (and front and side) cameras work intermittently.  This makes parking very difficult and when backing out of the driveway you cannot see if there is an object in the vehicle's path.  Issue started several months ago and has been getting progressively worse (more fre",
+        "pct": 9,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The 2020 Macan developed extreme shakes with 14,000 miles. I had to replace rear brakes and rotors at 14,000 and fronts brakes and rotors at 21,000 at a cost of $3,000.00. Porsche has denied payment for these defective parts. They should recall and fix this ridiculous brake and r",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was involved in an accident October 12, 2021 in which the passenger side of my car was hit. The damage was from the front passenger door to the rear bumper. The total damage to date 02/18/2022 is approximately $25K. In the incident - not one single air bag deployed. I suffered ",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "2 reports (9%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

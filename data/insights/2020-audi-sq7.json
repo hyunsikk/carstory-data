@@ -1,0 +1,84 @@
+{
+  "slug": "2020-audi-sq7",
+  "make": "Audi",
+  "model": "SQ7",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/SQ7#complaints",
+  "generatedAt": "2026-06-23T16:43:21.879Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2020 Audi SQ7 has a recall for the backup camera malfunctioning. The recall is 90TV according to Audi. My vehicle has been at the Audi Dealer in Brentwood, TN for 2 weeks now because their software update that is supposed to fix the vehicle is not working. According to the Ser",
+      "pct": 50
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2020 Audi SQ7 has a recall for the backup camera malfunctioning. The recall is 90TV according to Audi. My vehicle has been at the Audi Dealer in Brentwood, TN for 2 weeks now because their software update that is supposed to fix the vehicle is not working. According to the Ser",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We are told by Audi dealer service that our entire water pump system is defective and needs to be replaced at a cost of $5000+. We've had Audis subject to past recall and class action settlements. This is an ongoing, known issue for Audi for over a decade. Frustratingly, our 2020",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi Sq7 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2020 Audi SQ7 has a recall for the backup camera malfunctioning. The recall is 90TV according to Audi. My vehicle has been at the Audi Dealer in Brentwood, TN for 2 weeks now because their software update that is supposed to fix the vehicle is not working. According to the Ser",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2020 Audi SQ7 has a recall for the backup camera malfunctioning. The recall is 90TV according to Audi. My vehicle has been at the Audi Dealer in Brentwood, TN for 2 weeks now because their software update that is supposed to fix the vehicle is not working. According to the Ser",
+        "pct": 50,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We are told by Audi dealer service that our entire water pump system is defective and needs to be replaced at a cost of $5000+. We've had Audis subject to past recall and class action settlements. This is an ongoing, known issue for Audi for over a decade. Frustratingly, our 2020",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

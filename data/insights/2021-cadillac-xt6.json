@@ -1,0 +1,128 @@
+{
+  "slug": "2021-cadillac-xt6",
+  "make": "Cadillac",
+  "model": "XT6",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CADILLAC/XT6#complaints",
+  "generatedAt": "2026-06-23T16:27:56.263Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT6.The contact stated that while reversing, the rear-view camera displayed his vehicle instead of other vehicles nearby. There were no warning lights illuminated. The contact received notification of NHTSA Campaign Number: 22V709000 (Back Over Pr",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car started and ran at idle for 5 minutes.  10 minutes later when attempting to restart, the engine churned for several seconds then ran for about 2 seconds and cut out.  \"Press to Start\" button remained showing green and would not respond to being pressed.  The car was stationar",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's check engine light came on late afternoon and then started with a delayed turn over, but not actually starting thr following day.  The vehicle had to be towed to the dealership.    The technician and service advisor commented immediately that it is likely the fuel p",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The problem is the fuel pump control module is faulty and broke twice now.  The car was purchased in 2021, new. Within months the fuel pump control module failed while I was driving in traffic, in an elementary school zone with children all around.  I tried to drive through an in",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECALL FOR CABLE FOR VISION SYSTEM REPAIRED 5/28/2025.  ON 6/29/25 SAME ISSUES OCCURED.  TOOK TO DEALER 7/18/25.  DEALER CONFIRMED CABLE REPLACED.  ATTEMPTED TO REPROGRAM VIDEO PROCESSING CENTER SEVERAL TIMES ( I WAS AT DEALER 7 HOURS).  DEALER INDICATED THAT THE VIDEO PROCESSING",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Cadillac Xt6 owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Back Over Prevention (24% of reports).",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT6.The contact stated that while reversing, the rear-view camera displayed his vehicle instead of other vehicles nearby. There were no warning lights illuminated. The contact received notification of NHTSA Campaign Number: 22V709000 (Back Over Pr",
+        "pct": 24,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (24%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car started and ran at idle for 5 minutes.  10 minutes later when attempting to restart, the engine churned for several seconds then ran for about 2 seconds and cut out.  \"Press to Start\" button remained showing green and would not respond to being pressed.  The car was stationar",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "4 reports (24%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's check engine light came on late afternoon and then started with a delayed turn over, but not actually starting thr following day.  The vehicle had to be towed to the dealership.    The technician and service advisor commented immediately that it is likely the fuel p",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The problem is the fuel pump control module is faulty and broke twice now.  The car was purchased in 2021, new. Within months the fuel pump control module failed while I was driving in traffic, in an elementary school zone with children all around.  I tried to drive through an in",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECALL FOR CABLE FOR VISION SYSTEM REPAIRED 5/28/2025.  ON 6/29/25 SAME ISSUES OCCURED.  TOOK TO DEALER 7/18/25.  DEALER CONFIRMED CABLE REPLACED.  ATTEMPTED TO REPROGRAM VIDEO PROCESSING CENTER SEVERAL TIMES ( I WAS AT DEALER 7 HOURS).  DEALER INDICATED THAT THE VIDEO PROCESSING",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (12%)"
+      }
+    ]
+  }
+}

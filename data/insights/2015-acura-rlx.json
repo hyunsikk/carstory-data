@@ -1,0 +1,128 @@
+{
+  "slug": "2015-acura-rlx",
+  "make": "Acura",
+  "model": "RLX",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/ACURA/RLX#complaints",
+  "generatedAt": "2026-06-23T16:24:58.781Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I MAKE A LEFT TURN, MY WHEELS AND STEERING WHEEL GET OUT OF SYNC AND THIS CAUSES THE CAR TO TEMPORARILY BECOME HARD TO STEER. AT THIS POINT, THE CAR DOESN'T RESPOND TO NORMAL STEERING GESTURES. IT FEELS AS IF THE CAR IS GOING TO VEER OUT OF THE LANE AND IT DOESN'T RESPOND FO",
+      "pct": 64
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A MOANING OR RUBBING NOISE IS HEARD FROM THE REAR WHEN DRIVING STRAIGHT AND MAKIN SMALL SIDE-TO-SIDE TURNING MOVEMENTS AND WHEN YOU MAKE A SMALL TURN IT FISH TAIL SO U HAVE TO SLOW DOWN AND LET THE WHEELS CATCH UP. WITH THE REAR P-AWS ACTUATORS. I FELL THIS SHOULD BE A RECALL FOR",
+      "pct": 18
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The paint job on my car is fading on the hood, roof top and tail gate.",
+      "pct": 9
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Component: Headlight Light blew out probably due to the moisture in the headlight assembly  The Exterior lighting on 2014-2015 Acura RLX has a recall NHTSA ID Number 10106777, 10108484 & 10115754 for film backing material inside the headlights may delaminate, which may result in ",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 ACURA RLX. THE CONTACT STATED THAT WHILE DRIVING, THERE WAS A KNOCKING SOUND COMING FROM THE ENGINE COMPARTMENT PRIOR TO THE VEHICLE STALLING. THE CONTACT WAS UNABLE TO RESTART THE VEHICLE. THE VEHICLE WAS TOWED TO DUVAL ACURA LOCATED AT 11225 ATLANTIC",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Acura Rlx owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Steering (64% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I MAKE A LEFT TURN, MY WHEELS AND STEERING WHEEL GET OUT OF SYNC AND THIS CAUSES THE CAR TO TEMPORARILY BECOME HARD TO STEER. AT THIS POINT, THE CAR DOESN'T RESPOND TO NORMAL STEERING GESTURES. IT FEELS AS IF THE CAR IS GOING TO VEER OUT OF THE LANE AND IT DOESN'T RESPOND FO",
+        "pct": 64,
+        "title": "Steering",
+        "blurb": "7 reports (64%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A MOANING OR RUBBING NOISE IS HEARD FROM THE REAR WHEN DRIVING STRAIGHT AND MAKIN SMALL SIDE-TO-SIDE TURNING MOVEMENTS AND WHEN YOU MAKE A SMALL TURN IT FISH TAIL SO U HAVE TO SLOW DOWN AND LET THE WHEELS CATCH UP. WITH THE REAR P-AWS ACTUATORS. I FELL THIS SHOULD BE A RECALL FOR",
+        "pct": 18,
+        "title": "Suspension",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The paint job on my car is fading on the hood, roof top and tail gate.",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Component: Headlight Light blew out probably due to the moisture in the headlight assembly  The Exterior lighting on 2014-2015 Acura RLX has a recall NHTSA ID Number 10106777, 10108484 & 10115754 for film backing material inside the headlights may delaminate, which may result in ",
+        "pct": 9,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 ACURA RLX. THE CONTACT STATED THAT WHILE DRIVING, THERE WAS A KNOCKING SOUND COMING FROM THE ENGINE COMPARTMENT PRIOR TO THE VEHICLE STALLING. THE CONTACT WAS UNABLE TO RESTART THE VEHICLE. THE VEHICLE WAS TOWED TO DUVAL ACURA LOCATED AT 11225 ATLANTIC",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

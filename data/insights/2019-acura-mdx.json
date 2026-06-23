@@ -1,0 +1,128 @@
+{
+  "slug": "2019-acura-mdx",
+  "make": "Acura",
+  "model": "MDX",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/ACURA/MDX#complaints",
+  "generatedAt": "2026-06-23T16:24:53.776Z",
+  "total": 179,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 46,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING APPROX. 40 MPH AND SLOWING TO TURN INTO GAS STATION, THE CAR COMPLETELY TURNED OFF. I WAS UNABLE TO PUT CAR IN NEUTRAL OR GET OFF OF ROAD. TOW TRUCK CALLED AND HAD TO BE DRUG ONTO FLATBED. GARAGE REPLACED BATTERY AND STILL UNABLE TO START. NEEDED TO REPLACE TIMING B",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING APPROX. 40 MPH AND SLOWING TO TURN INTO GAS STATION, THE CAR COMPLETELY TURNED OFF. I WAS UNABLE TO PUT CAR IN NEUTRAL OR GET OFF OF ROAD. TOW TRUCK CALLED AND HAD TO BE DRUG ONTO FLATBED. GARAGE REPLACED BATTERY AND STILL UNABLE TO START. NEEDED TO REPLACE TIMING B",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 30,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TRANSMISSION IS CONSTANTLY SLAMMING INTO 4TH GEAR AND HAS BEEN TO THE DEALERSHIP 3 TIMES.  CORPORATE HAS EVEN EVALUATED IN AND HAS DEEMED IT TO BE \"WITHIN SPECIFICATION\".  THE TRANSMISSION IS GOING TO BREAK DOWN WHILE DRIVING AND POSE A SAFETY HAZARD.  IT FEELS AS IF THE MOUNTS A",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 30,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Acura MDX. The contact stated that occasionally while accelerating, at a stop, or while driving, the vehicle lost motive power and stalled. While driving at approximately 50 MPH, the vehicle unintendedly accelerated to 80 MPH. Additionally, while driving a",
+      "pct": 17
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Acura MDX. The contact stated that he recurringly experienced failures with the instrument panel brightness being dimmed and then not displaying properly as needed. The contact turned off and restarted the vehicle and the instrument panel operated as desig",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Acura Mdx owners report most",
+    "summary": "Across 179 owner complaints to NHTSA, the most reported area is Engine (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 46,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING APPROX. 40 MPH AND SLOWING TO TURN INTO GAS STATION, THE CAR COMPLETELY TURNED OFF. I WAS UNABLE TO PUT CAR IN NEUTRAL OR GET OFF OF ROAD. TOW TRUCK CALLED AND HAD TO BE DRUG ONTO FLATBED. GARAGE REPLACED BATTERY AND STILL UNABLE TO START. NEEDED TO REPLACE TIMING B",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "46 reports (26%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING APPROX. 40 MPH AND SLOWING TO TURN INTO GAS STATION, THE CAR COMPLETELY TURNED OFF. I WAS UNABLE TO PUT CAR IN NEUTRAL OR GET OFF OF ROAD. TOW TRUCK CALLED AND HAD TO BE DRUG ONTO FLATBED. GARAGE REPLACED BATTERY AND STILL UNABLE TO START. NEEDED TO REPLACE TIMING B",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "37 reports (21%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 30,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TRANSMISSION IS CONSTANTLY SLAMMING INTO 4TH GEAR AND HAS BEEN TO THE DEALERSHIP 3 TIMES.  CORPORATE HAS EVEN EVALUATED IN AND HAS DEEMED IT TO BE \"WITHIN SPECIFICATION\".  THE TRANSMISSION IS GOING TO BREAK DOWN WHILE DRIVING AND POSE A SAFETY HAZARD.  IT FEELS AS IF THE MOUNTS A",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "30 reports (17%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 30,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Acura MDX. The contact stated that occasionally while accelerating, at a stop, or while driving, the vehicle lost motive power and stalled. While driving at approximately 50 MPH, the vehicle unintendedly accelerated to 80 MPH. Additionally, while driving a",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "30 reports (17%) · 1 fire"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Acura MDX. The contact stated that he recurringly experienced failures with the instrument panel brightness being dimmed and then not displaying properly as needed. The contact turned off and restarted the vehicle and the instrument panel operated as desig",
+        "pct": 12,
+        "title": "Fuel System",
+        "blurb": "21 reports (12%)"
+      }
+    ]
+  }
+}

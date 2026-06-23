@@ -1,0 +1,128 @@
+{
+  "slug": "2019-acura-tlx",
+  "make": "Acura",
+  "model": "TLX",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/ACURA/TLX#complaints",
+  "generatedAt": "2026-06-23T16:25:02.458Z",
+  "total": 90,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I LIVE IN COLORADO AND USE PADDLE DOWN SHIFT TO GEAR DOWN FOR SLOWING ON DECLINES. WHEN I DO THAT, THE CAR ACELERARES FOR A FEW SECONDS BEFORE SLOWING DOWN. THIS IS A VERY DANGEROUS SITUATION BECAUSE YOU BELIEVE YOU ARE SLOWING TO AVOID RUNNING INTO THE CAR IN FRONT AND INSTEAD Y",
+      "pct": 34
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 ACURA TLX 2.4L.  PURCHASED BRAND NEW LESS THAN A MONTH AGO WITH LESS THAN 900 MILES ON THE VEHICLE.  SUDDEN EMISSIONS PROBLEM AND PARKING BRAKE CHECK ENGINE LIGHTS FLASHING AFTER VEHICLE HAS BEEN SITTING/PARKED.  THIS HAS HAPPENED REPEATEDLY AND SEEMS TO BE A KNOWN PROBLEM T",
+      "pct": 16
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Acura TLX. The contact stated that while driving 40 MPH, the parking assist fault warning light illuminated, and the emergency automatic braking system engaged. The contact attempted to turn off and restart the vehicle however, the vehicle failed to engage",
+      "pct": 14
+    },
+    {
+      "component": "GASOLINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Acura TLX. The contact stated that while driving 40 MPH, the parking assist fault warning light illuminated, and the emergency automatic braking system engaged. The contact attempted to turn off and restart the vehicle however, the vehicle failed to engage",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 12,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2019 Acura TLX. The contact stated while driving approximately 65 MPH, the contact was hearing an abnormal ticking noise. The contact stated the check engine warning was illuminated and the fuel gauge showed a decrease in fuel level. The contact stated she obs",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Acura Tlx owners report most",
+    "summary": "Across 90 owner complaints to NHTSA, the most reported area is Engine (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I LIVE IN COLORADO AND USE PADDLE DOWN SHIFT TO GEAR DOWN FOR SLOWING ON DECLINES. WHEN I DO THAT, THE CAR ACELERARES FOR A FEW SECONDS BEFORE SLOWING DOWN. THIS IS A VERY DANGEROUS SITUATION BECAUSE YOU BELIEVE YOU ARE SLOWING TO AVOID RUNNING INTO THE CAR IN FRONT AND INSTEAD Y",
+        "pct": 34,
+        "title": "Engine",
+        "blurb": "31 reports (34%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 ACURA TLX 2.4L.  PURCHASED BRAND NEW LESS THAN A MONTH AGO WITH LESS THAN 900 MILES ON THE VEHICLE.  SUDDEN EMISSIONS PROBLEM AND PARKING BRAKE CHECK ENGINE LIGHTS FLASHING AFTER VEHICLE HAS BEEN SITTING/PARKED.  THIS HAS HAPPENED REPEATEDLY AND SEEMS TO BE A KNOWN PROBLEM T",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (16%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Acura TLX. The contact stated that while driving 40 MPH, the parking assist fault warning light illuminated, and the emergency automatic braking system engaged. The contact attempted to turn off and restart the vehicle however, the vehicle failed to engage",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "13 reports (14%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Acura TLX. The contact stated that while driving 40 MPH, the parking assist fault warning light illuminated, and the emergency automatic braking system engaged. The contact attempted to turn off and restart the vehicle however, the vehicle failed to engage",
+        "pct": 14,
+        "title": "Gasoline",
+        "blurb": "13 reports (14%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 12,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2019 Acura TLX. The contact stated while driving approximately 65 MPH, the contact was hearing an abnormal ticking noise. The contact stated the check engine warning was illuminated and the fuel gauge showed a decrease in fuel level. The contact stated she obs",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "12 reports (13%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

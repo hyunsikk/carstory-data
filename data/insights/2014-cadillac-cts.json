@@ -1,0 +1,128 @@
+{
+  "slug": "2014-cadillac-cts",
+  "make": "Cadillac",
+  "model": "CTS",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/CADILLAC/CTS#complaints",
+  "generatedAt": "2026-06-23T16:27:42.844Z",
+  "total": 144,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 84,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING A 2014 CADILLAC CTS ON 04/27/14, IN FREMONT, CA.     VEHICLE CONFIGURATION:  2014 CTS 3.6L RWD PERFORMANCE.   VIN, TO THE BEST OF MY KNOWLEDGE:  1G6AS5S39E0[XXX]    THE INCIDENT OCCURRED AT APPROXIMATELY 11AM.    THE PLANNED TRAVEL ROUTE WAS AS FOLLOWS:  FREMONT CAD",
+      "pct": 58
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 CADILLAC CTS. WHILE DRIVING 60 MPH, THE STEERING BECAME DIFFICULT TO MANEUVER AND THE PASSENGER SIDE OF THE VEHICLE DROPPED DOWNWARD WITHOUT WARNING. IN ADDITION  THE WINDSHIELD FRACTURED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TURNED CAR ON AFTER PARKING AT A LOT. REVERSED TO EXIT AND THEN SUDDENLY, A WARNING LIGHT CAME ON STATING \"POWER STEERING. DRIVE CAREFULLY\". POWER STEERING WENT OFF ENTIRELY. IT WAS EXTREMELY HARD TO MOVE THE STEERING WHEEL. COULD BARELY GET CAR BACK INTO PARKING SPOT. TURNED ENG",
+      "pct": 9
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING A 2014 CADILLAC CTS ON 04/27/14, IN FREMONT, CA.     VEHICLE CONFIGURATION:  2014 CTS 3.6L RWD PERFORMANCE.   VIN, TO THE BEST OF MY KNOWLEDGE:  1G6AS5S39E0[XXX]    THE INCIDENT OCCURRED AT APPROXIMATELY 11AM.    THE PLANNED TRAVEL ROUTE WAS AS FOLLOWS:  FREMONT CAD",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 CADILLAC CTS. WHILE DRIVING APPROXIMATELY 30 MPH, THE STABILIZER CONTROL WARNING INDICATOR ILLUMINATED AS A MESSAGE DISPLAYED 'REDUCE ENGINE CAPACITY'. THERE WAS A REDUCTION IN THE ENGINE POWER AND THE VEHICLE THEN STALLED. THE VEHICLE FAILED TO RESTAR",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Cadillac Cts owners report most",
+    "summary": "Across 144 owner complaints to NHTSA, the most reported area is Power Train (58% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 84,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING A 2014 CADILLAC CTS ON 04/27/14, IN FREMONT, CA.     VEHICLE CONFIGURATION:  2014 CTS 3.6L RWD PERFORMANCE.   VIN, TO THE BEST OF MY KNOWLEDGE:  1G6AS5S39E0[XXX]    THE INCIDENT OCCURRED AT APPROXIMATELY 11AM.    THE PLANNED TRAVEL ROUTE WAS AS FOLLOWS:  FREMONT CAD",
+        "pct": 58,
+        "title": "Power Train",
+        "blurb": "84 reports (58%) · 1 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 CADILLAC CTS. WHILE DRIVING 60 MPH, THE STEERING BECAME DIFFICULT TO MANEUVER AND THE PASSENGER SIDE OF THE VEHICLE DROPPED DOWNWARD WITHOUT WARNING. IN ADDITION  THE WINDSHIELD FRACTURED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT",
+        "pct": 11,
+        "title": "Suspension",
+        "blurb": "16 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TURNED CAR ON AFTER PARKING AT A LOT. REVERSED TO EXIT AND THEN SUDDENLY, A WARNING LIGHT CAME ON STATING \"POWER STEERING. DRIVE CAREFULLY\". POWER STEERING WENT OFF ENTIRELY. IT WAS EXTREMELY HARD TO MOVE THE STEERING WHEEL. COULD BARELY GET CAR BACK INTO PARKING SPOT. TURNED ENG",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "13 reports (9%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING A 2014 CADILLAC CTS ON 04/27/14, IN FREMONT, CA.     VEHICLE CONFIGURATION:  2014 CTS 3.6L RWD PERFORMANCE.   VIN, TO THE BEST OF MY KNOWLEDGE:  1G6AS5S39E0[XXX]    THE INCIDENT OCCURRED AT APPROXIMATELY 11AM.    THE PLANNED TRAVEL ROUTE WAS AS FOLLOWS:  FREMONT CAD",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "13 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 CADILLAC CTS. WHILE DRIVING APPROXIMATELY 30 MPH, THE STABILIZER CONTROL WARNING INDICATOR ILLUMINATED AS A MESSAGE DISPLAYED 'REDUCE ENGINE CAPACITY'. THERE WAS A REDUCTION IN THE ENGINE POWER AND THE VEHICLE THEN STALLED. THE VEHICLE FAILED TO RESTAR",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "8 reports (6%)"
+      }
+    ]
+  }
+}

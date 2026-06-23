@@ -1,0 +1,128 @@
+{
+  "slug": "2014-volkswagen-eos",
+  "make": "Volkswagen",
+  "model": "Eos",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/VOLKSWAGEN/EOS#complaints",
+  "generatedAt": "2026-06-23T16:45:57.433Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2014 VOLKSWAGEN EOS. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V078000 (AIR BAGS); HOWEVER, THE PART NEEDED TO PERFORM THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TI",
+      "pct": 78
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1) The flip up backup camera, yes it is available for inspection. I do have intentions to try and fix it like all the others unless asked to wait.  2) we bought a car with a backup camera for the safety of our 19 year old and others around her after she has crashed her car going ",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Clockspring is a recalled item… Took the car in for repair in early February. They (Little Rock Volkswagen) said them and continue to say the part is on back order (and there is over 4000 on back order) and cannot tell me when the part will be in. I called VW corporate and fi",
+      "pct": 5
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT APPROX. 30 MPH <1 MILE FROM HOME THE TRANSMISSION SUDDENLY DOWNSHIFTED INTO FIRST GEAR, AND MY WIFE WAS THROWN INTO THE STEERING WHEEL AS THE SEATBELT DID NOT CATCH.  THE CAR WAS DRIVEN HOME AT 10 MPH AND PARKED.  I DROVE IT AROUND THE BLOCK APPROX. 30 MINUTES LA",
+      "pct": 5
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When pushing the driver side seat belt into the buckle, it instantly unlatched buckles. Yea it can be inspected.  If in a car accident the driver could be seriously injured or fatally injured.  I contacted Germain Westerville, Ohio who informed me it’s not under warranty and it w",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Volkswagen Eos owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Air Bags (78% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2014 VOLKSWAGEN EOS. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V078000 (AIR BAGS); HOWEVER, THE PART NEEDED TO PERFORM THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TI",
+        "pct": 78,
+        "title": "Air Bags",
+        "blurb": "31 reports (78%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1) The flip up backup camera, yes it is available for inspection. I do have intentions to try and fix it like all the others unless asked to wait.  2) we bought a car with a backup camera for the safety of our 19 year old and others around her after she has crashed her car going ",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "4 reports (10%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Clockspring is a recalled item… Took the car in for repair in early February. They (Little Rock Volkswagen) said them and continue to say the part is on back order (and there is over 4000 on back order) and cannot tell me when the part will be in. I called VW corporate and fi",
+        "pct": 5,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (5%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT APPROX. 30 MPH <1 MILE FROM HOME THE TRANSMISSION SUDDENLY DOWNSHIFTED INTO FIRST GEAR, AND MY WIFE WAS THROWN INTO THE STEERING WHEEL AS THE SEATBELT DID NOT CATCH.  THE CAR WAS DRIVEN HOME AT 10 MPH AND PARKED.  I DROVE IT AROUND THE BLOCK APPROX. 30 MINUTES LA",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "2 reports (5%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When pushing the driver side seat belt into the buckle, it instantly unlatched buckles. Yea it can be inspected.  If in a car accident the driver could be seriously injured or fatally injured.  I contacted Germain Westerville, Ohio who informed me it’s not under warranty and it w",
+        "pct": 3,
+        "title": "Seat Belts",
+        "blurb": "1 report (3%)"
+      }
+    ]
+  }
+}

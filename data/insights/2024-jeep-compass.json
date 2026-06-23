@@ -1,0 +1,128 @@
+{
+  "slug": "2024-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T16:35:43.418Z",
+  "total": 47,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 22,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving the car will randomly active automatic emergency braking, which is especially dangerous on the highway. Lane departure has pulled me to the wrong lane, or will randomly become unavailable. Blind spot monitoring occasionally doesn’t work, or will also randomly become ",
+      "pct": 47
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Thursday October 3rd I was driving in stop and go city traffic. After accelerating to leave from a light my jeep died in the middle of the intersection. Total loss of power and slammed to a stop almost causing the person behind me to hit me. It started I drove it back to work.",
+      "pct": 36
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving the car will randomly active automatic emergency braking, which is especially dangerous on the highway. Lane departure has pulled me to the wrong lane, or will randomly become unavailable. Blind spot monitoring occasionally doesn’t work, or will also randomly become ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Thursday October 3rd I was driving in stop and go city traffic. After accelerating to leave from a light my jeep died in the middle of the intersection. Total loss of power and slammed to a stop almost causing the person behind me to hit me. It started I drove it back to work.",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Jeep Compass. The contact stated that while in stop and go traffic, with the A/C activated, the contact smelled a strong odor in the cabin of the vehicle. The contact then observed smoke coming from the passenger’s side of the engine compartment under the ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Jeep Compass owners report most",
+    "summary": "Across 47 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 22,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving the car will randomly active automatic emergency braking, which is especially dangerous on the highway. Lane departure has pulled me to the wrong lane, or will randomly become unavailable. Blind spot monitoring occasionally doesn’t work, or will also randomly become ",
+        "pct": 47,
+        "title": "Forward Collision Avoidance",
+        "blurb": "22 reports (47%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Thursday October 3rd I was driving in stop and go city traffic. After accelerating to leave from a light my jeep died in the middle of the intersection. Total loss of power and slammed to a stop almost causing the person behind me to hit me. It started I drove it back to work.",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "17 reports (36%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving the car will randomly active automatic emergency braking, which is especially dangerous on the highway. Lane departure has pulled me to the wrong lane, or will randomly become unavailable. Blind spot monitoring occasionally doesn’t work, or will also randomly become ",
+        "pct": 17,
+        "title": "Lane Departure",
+        "blurb": "8 reports (17%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Thursday October 3rd I was driving in stop and go city traffic. After accelerating to leave from a light my jeep died in the middle of the intersection. Total loss of power and slammed to a stop almost causing the person behind me to hit me. It started I drove it back to work.",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "6 reports (13%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Jeep Compass. The contact stated that while in stop and go traffic, with the A/C activated, the contact smelled a strong odor in the cabin of the vehicle. The contact then observed smoke coming from the passenger’s side of the engine compartment under the ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "6 reports (13%) · 1 crash"
+      }
+    ]
+  }
+}

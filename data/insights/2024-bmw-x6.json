@@ -1,0 +1,106 @@
+{
+  "slug": "2024-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:23.761Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X6. The contact received notification of NHTSA Campaign Number: 23V44000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact called another lo",
+      "pct": 122
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X6. The contact received notification of NHTSA Campaign Number: 23V44000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact called another lo",
+      "pct": 67
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X6. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Service Brakes, Hydraulic); however, the part to do the recall repair was unavailable. The contact stated that the manufactur",
+      "pct": 56
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The braking system of my 2024 BMW X6 (VIN: [XXX] ) is critically malfunctioning due to the unresolved safety recall 24V-104. The Integrated Brake System has failed, resulting in warning lamps and error messages on the dashboard. This has also caused essential safety systems, such",
+      "pct": 22
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw X6 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Service Brakes (122% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X6. The contact received notification of NHTSA Campaign Number: 23V44000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact called another lo",
+        "pct": 122,
+        "title": "Service Brakes",
+        "blurb": "11 reports (122%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X6. The contact received notification of NHTSA Campaign Number: 23V44000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact called another lo",
+        "pct": 67,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "6 reports (67%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X6. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Service Brakes, Hydraulic); however, the part to do the recall repair was unavailable. The contact stated that the manufactur",
+        "pct": 56,
+        "title": "Hydraulic",
+        "blurb": "5 reports (56%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The braking system of my 2024 BMW X6 (VIN: [XXX] ) is critically malfunctioning due to the unresolved safety recall 24V-104. The Integrated Brake System has failed, resulting in warning lamps and error messages on the dashboard. This has also caused essential safety systems, such",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (22%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-gr86",
+  "make": "Toyota",
+  "model": "GR86",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/GR86#complaints",
+  "generatedAt": "2026-06-23T16:41:21.354Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Toyota GR86. The contact was at a complete stop when the vehicle exploded into flames. The contact was able to exit the vehicle safely before the vehicle was completed destroyed. The fire department arrived on the scene and extinguished the fire. The poli",
+      "pct": 62
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There are multiple incidents and confirmed by many different owners across the nation.  Toyota GR86 / Subaru BRZ when there is strong sunlight direct towards the taillights, the turn signals (rear)  will not operate and hyperflash at the front signal lights  This is a safety haza",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine on my GR86 failed when I was accelerating onto a freeway. This has been confirmed by the dealership and the car is in need of a short or long block repair. The vehicle has just over 9000 miles on it and the manufacturer and the dealership are refusing to cover this und",
+      "pct": 5
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My daughters were involved in a highway accident on 2-4-2023 when their rear passenger tire came apart. The vehicle is a 2022 Toyota gr86 premium, came with Michelin Pilot Sport 4 tire, was purchased new in August 2022 and had 3008 miles on the odometer just after the accident.",
+      "pct": 5
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There are multiple incidents and confirmed by many different owners across the nation.  Toyota GR86 / Subaru BRZ when there is strong sunlight direct towards the taillights, the turn signals (rear)  will not operate and hyperflash at the front signal lights  This is a safety haza",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Gr86 owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Engine (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Toyota GR86. The contact was at a complete stop when the vehicle exploded into flames. The contact was able to exit the vehicle safely before the vehicle was completed destroyed. The fire department arrived on the scene and extinguished the fire. The poli",
+        "pct": 62,
+        "title": "Engine",
+        "blurb": "13 reports (62%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There are multiple incidents and confirmed by many different owners across the nation.  Toyota GR86 / Subaru BRZ when there is strong sunlight direct towards the taillights, the turn signals (rear)  will not operate and hyperflash at the front signal lights  This is a safety haza",
+        "pct": 24,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (24%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine on my GR86 failed when I was accelerating onto a freeway. This has been confirmed by the dealership and the car is in need of a short or long block repair. The vehicle has just over 9000 miles on it and the manufacturer and the dealership are refusing to cover this und",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My daughters were involved in a highway accident on 2-4-2023 when their rear passenger tire came apart. The vehicle is a 2022 Toyota gr86 premium, came with Michelin Pilot Sport 4 tire, was purchased new in August 2022 and had 3008 miles on the odometer just after the accident.",
+        "pct": 5,
+        "title": "Tires",
+        "blurb": "1 report (5%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There are multiple incidents and confirmed by many different owners across the nation.  Toyota GR86 / Subaru BRZ when there is strong sunlight direct towards the taillights, the turn signals (rear)  will not operate and hyperflash at the front signal lights  This is a safety haza",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

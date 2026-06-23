@@ -1,0 +1,84 @@
+{
+  "slug": "2016-scion-fr-s",
+  "make": "Scion",
+  "model": "FR-S",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/SCION/FR-S#complaints",
+  "generatedAt": "2026-06-23T16:40:29.684Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There was a recall on the power train system for the 2016 Scion frs models and mines just failed. I was never notified about this recall. Can the recall be reopened",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THROW OUT BEARING FAILING AT 48,500 MILES. DEALER REFUSED TO COVER REPAIR. THIS IS A KNOWN ISSUE FOR WHICH THERE IS A DEALER TSB WITH A REVISED PART AND BETTER GREASE THAT DOES NOT DRY OUT. ISSUE IS REVEALED BY SQUEALING SOUND AT START UP, WHICH DEALER REPLICATED AND CONFIRMED IS",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HIGH PRESSURE FUEL PUMP NOISE AT IDLE COULD BE INDICATIVE OF MALFUNCTION",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Scion Fr-S owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There was a recall on the power train system for the 2016 Scion frs models and mines just failed. I was never notified about this recall. Can the recall be reopened",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THROW OUT BEARING FAILING AT 48,500 MILES. DEALER REFUSED TO COVER REPAIR. THIS IS A KNOWN ISSUE FOR WHICH THERE IS A DEALER TSB WITH A REVISED PART AND BETTER GREASE THAT DOES NOT DRY OUT. ISSUE IS REVEALED BY SQUEALING SOUND AT START UP, WHICH DEALER REPLICATED AND CONFIRMED IS",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HIGH PRESSURE FUEL PUMP NOISE AT IDLE COULD BE INDICATIVE OF MALFUNCTION",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

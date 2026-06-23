@@ -1,0 +1,128 @@
+{
+  "slug": "2016-lincoln-mkc",
+  "make": "Lincoln",
+  "model": "MKC",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/LINCOLN/MKC#complaints",
+  "generatedAt": "2026-06-23T16:37:42.695Z",
+  "total": 76,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 40,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 LINCOLN MKC. THE CONTACT STATED THAT THE VEHICLE STALLED WHILE DRIVING AND \"SHIFT SYSTEM FAULT\" APPEARED ON THE INSTRUMENT PANEL. THE VEHICLE WAS TOWED TO JOHNSON'S BROTHER LINCOLN (7455 S GENERAL BRUCE DR, TEMPLE, TX 76502, (254) 773-5257) TO BE DIAGN",
+      "pct": 53
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN ACCELERATING FROM A COAST THE VEHICLE JERKS AND BANGS INTO GEAR. AT TIMES IT FEELS LIKE THE VEHICLE WAS HIT FROM BEHIND. THIS HAPPENS ANYTIME WHETHER ON A CITY STREET OR HIGHWAY IN TRAFFIC CONDITIONS. FORD FIELD SERVICE ENGINEER WAS ABLE TO DUPLICATE THIS CONCERN BUT SAID IT",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In 2019 I bought a used 2016 Lincoln MKC Reserve 2.0 Ecoboost Engine w 34K miles. In 4 years I've  driven 11,400K miles. A few weeks ago my vehicle would not start. I had a tow to a Ford Retailer because the Service Tech at a Lincoln Retailer informed me they were backed up havin",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 Lincoln MKC. The contact stated upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer where it was diagnosed that there was a coolant leak into cylinder #3 and the engine block needed to be replaced. The",
+      "pct": 9
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 Lincoln MKC. The contact stated while reversing, the rearview camera image was distorted or black. There was no warning light illuminated. The dealer was notified of the failure. The vehicle was not diagnosed or repaired. The manufacturer was not notified ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Lincoln Mkc owners report most",
+    "summary": "Across 76 owner complaints to NHTSA, the most reported area is Engine (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 40,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 LINCOLN MKC. THE CONTACT STATED THAT THE VEHICLE STALLED WHILE DRIVING AND \"SHIFT SYSTEM FAULT\" APPEARED ON THE INSTRUMENT PANEL. THE VEHICLE WAS TOWED TO JOHNSON'S BROTHER LINCOLN (7455 S GENERAL BRUCE DR, TEMPLE, TX 76502, (254) 773-5257) TO BE DIAGN",
+        "pct": 53,
+        "title": "Engine",
+        "blurb": "40 reports (53%) · 5 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN ACCELERATING FROM A COAST THE VEHICLE JERKS AND BANGS INTO GEAR. AT TIMES IT FEELS LIKE THE VEHICLE WAS HIT FROM BEHIND. THIS HAPPENS ANYTIME WHETHER ON A CITY STREET OR HIGHWAY IN TRAFFIC CONDITIONS. FORD FIELD SERVICE ENGINEER WAS ABLE TO DUPLICATE THIS CONCERN BUT SAID IT",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "11 reports (14%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In 2019 I bought a used 2016 Lincoln MKC Reserve 2.0 Ecoboost Engine w 34K miles. In 4 years I've  driven 11,400K miles. A few weeks ago my vehicle would not start. I had a tow to a Ford Retailer because the Service Tech at a Lincoln Retailer informed me they were backed up havin",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "10 reports (13%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 Lincoln MKC. The contact stated upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer where it was diagnosed that there was a coolant leak into cylinder #3 and the engine block needed to be replaced. The",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "7 reports (9%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 Lincoln MKC. The contact stated while reversing, the rearview camera image was distorted or black. There was no warning light illuminated. The dealer was notified of the failure. The vehicle was not diagnosed or repaired. The manufacturer was not notified ",
+        "pct": 5,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (5%)"
+      }
+    ]
+  }
+}

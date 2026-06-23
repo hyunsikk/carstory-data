@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chrysler-300",
+  "make": "Chrysler",
+  "model": "300",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHRYSLER/300#complaints",
+  "generatedAt": "2026-06-23T16:29:06.047Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the Chrysler 300 touring of May 23, 2023. This was suppose to be brand new. After, a week, the car was having issues in the steering and I had too report the car dealership because they were giving me a hard time but finally, after, reaching out to corporate, the car ",
+      "pct": 50
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was backing out of my friend's driveway and hit a pole. My sensors did not beep at me indicating that there was something behind me. I realize I should have paid more attention but the sensors should have warned me.",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was backing out of my friend's driveway and hit a pole. My sensors did not beep at me indicating that there was something behind me. I realize I should have paid more attention but the sensors should have warned me.",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My son was in a car accident where he was cut off but able to come to a stop and then he was rear ended which cause his car to hit the car in front of him. His head hit the steering wheel and knocked him unconscious briefly. The airbags did not deploy and there is now a notificat",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chrysler 300. The contact stated that while the vehicle was parked, the contact became aware that the passenger’s side fender was not installed properly. The contact was constantly snapping the fender back into place. The vehicle was not diagnosed or repai",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chrysler 300 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Service Brakes (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the Chrysler 300 touring of May 23, 2023. This was suppose to be brand new. After, a week, the car was having issues in the steering and I had too report the car dealership because they were giving me a hard time but finally, after, reaching out to corporate, the car ",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was backing out of my friend's driveway and hit a pole. My sensors did not beep at me indicating that there was something behind me. I realize I should have paid more attention but the sensors should have warned me.",
+        "pct": 17,
+        "title": "Lane Departure",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was backing out of my friend's driveway and hit a pole. My sensors did not beep at me indicating that there was something behind me. I realize I should have paid more attention but the sensors should have warned me.",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My son was in a car accident where he was cut off but able to come to a stop and then he was rear ended which cause his car to hit the car in front of him. His head hit the steering wheel and knocked him unconscious briefly. The airbags did not deploy and there is now a notificat",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chrysler 300. The contact stated that while the vehicle was parked, the contact became aware that the passenger’s side fender was not installed properly. The contact was constantly snapping the fender back into place. The vehicle was not diagnosed or repai",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

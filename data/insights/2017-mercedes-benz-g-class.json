@@ -1,0 +1,106 @@
+{
+  "slug": "2017-mercedes-benz-g-class",
+  "make": "Mercedes-Benz",
+  "model": "G-Class",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/MERCEDES-BENZ/G-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:28.539Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DUE TO A TRACTION CONTROL SOFTWARE ERROR IN MANUFACTURING, AND PERHAPS OTHER ERRORS THAT TRIGGER ERROR CODES, MY CAR WITH ONLY 650 MILES IS UNDRIVEABLE AND UNSAFE. A REPLACEMENT MODULE MUST BE BUILT IN GERMANY WHICH WILL TAKE OVER ONE MONTH TO BE SENT TO THE U.S. DEALERSHIP,AS WE",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA  Please consider this a formal complaint against Mercedes-Benz for completely defective ABS and EPS systems which control handling, dynamic stability, and anti-lock braking. The “Defective” designation is theirs, rather than a notice to service or that the systems were",
+      "pct": 25
+    },
+    {
+      "component": "AIR",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA  Please consider this a formal complaint against Mercedes-Benz for completely defective ABS and EPS systems which control handling, dynamic stability, and anti-lock braking. The “Defective” designation is theirs, rather than a notice to service or that the systems were",
+      "pct": 25
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PLEASE CONSIDER THIS A FORMAL COMPLAINT AGAINST MERCEDES-BENZ FOR ONGOING SENSOR AND BACKUP CAMERA SAFETY FAILURES. REAR CAMERAS AND SENSORS CONTINUE INTERMITTENT FAILURE EVEN AFTER YEARS OF SERVICE BY MERCEDES BENZ AND HAVE ACTUALLY CAUSED 1 ACCIDENT. FULL EXPLANATION AND DOCUME",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Mercedes-Benz G-Class owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electronic Stability Control (Esc) (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DUE TO A TRACTION CONTROL SOFTWARE ERROR IN MANUFACTURING, AND PERHAPS OTHER ERRORS THAT TRIGGER ERROR CODES, MY CAR WITH ONLY 650 MILES IS UNDRIVEABLE AND UNSAFE. A REPLACEMENT MODULE MUST BE BUILT IN GERMANY WHICH WILL TAKE OVER ONE MONTH TO BE SENT TO THE U.S. DEALERSHIP,AS WE",
+        "pct": 50,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA  Please consider this a formal complaint against Mercedes-Benz for completely defective ABS and EPS systems which control handling, dynamic stability, and anti-lock braking. The “Defective” designation is theirs, rather than a notice to service or that the systems were",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "AIR",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA  Please consider this a formal complaint against Mercedes-Benz for completely defective ABS and EPS systems which control handling, dynamic stability, and anti-lock braking. The “Defective” designation is theirs, rather than a notice to service or that the systems were",
+        "pct": 25,
+        "title": "Air",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PLEASE CONSIDER THIS A FORMAL COMPLAINT AGAINST MERCEDES-BENZ FOR ONGOING SENSOR AND BACKUP CAMERA SAFETY FAILURES. REAR CAMERAS AND SENSORS CONTINUE INTERMITTENT FAILURE EVEN AFTER YEARS OF SERVICE BY MERCEDES BENZ AND HAVE ACTUALLY CAUSED 1 ACCIDENT. FULL EXPLANATION AND DOCUME",
+        "pct": 25,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

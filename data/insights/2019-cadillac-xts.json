@@ -1,0 +1,128 @@
+{
+  "slug": "2019-cadillac-xts",
+  "make": "Cadillac",
+  "model": "XTS",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CADILLAC/XTS#complaints",
+  "generatedAt": "2026-06-23T16:27:58.408Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "currently experiencing transmission shuddering — likely due to a torque converter issue. This was confirmed by an experienced mechanic at the dealership of Cadillac.  After doing deep research I’ve learned is documented in Technical Service Bulletins such as TSB 18-NA-355 and 19-",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "currently experiencing transmission shuddering — likely due to a torque converter issue. This was confirmed by an experienced mechanic at the dealership of Cadillac.  After doing deep research I’ve learned is documented in Technical Service Bulletins such as TSB 18-NA-355 and 19-",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger present module in seat isn’t working with air bag. Per Cadillac passenger seat module is inside the seat and needs replaced.",
+      "pct": 20
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger present module in seat isn’t working with air bag. Per Cadillac passenger seat module is inside the seat and needs replaced.",
+      "pct": 20
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The tire tech at Walmart was attempting to remove the tire when the side wall just blew out on my Yokohama 245 /40 20 tire.",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Cadillac Xts owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Power Train (20% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "currently experiencing transmission shuddering — likely due to a torque converter issue. This was confirmed by an experienced mechanic at the dealership of Cadillac.  After doing deep research I’ve learned is documented in Technical Service Bulletins such as TSB 18-NA-355 and 19-",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "currently experiencing transmission shuddering — likely due to a torque converter issue. This was confirmed by an experienced mechanic at the dealership of Cadillac.  After doing deep research I’ve learned is documented in Technical Service Bulletins such as TSB 18-NA-355 and 19-",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger present module in seat isn’t working with air bag. Per Cadillac passenger seat module is inside the seat and needs replaced.",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger present module in seat isn’t working with air bag. Per Cadillac passenger seat module is inside the seat and needs replaced.",
+        "pct": 20,
+        "title": "Seats",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The tire tech at Walmart was attempting to remove the tire when the side wall just blew out on my Yokohama 245 /40 20 tire.",
+        "pct": 20,
+        "title": "Tires",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

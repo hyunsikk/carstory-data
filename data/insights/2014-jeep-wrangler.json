@@ -1,0 +1,128 @@
+{
+  "slug": "2014-jeep-wrangler",
+  "make": "Jeep",
+  "model": "Wrangler",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/JEEP/WRANGLER#complaints",
+  "generatedAt": "2026-06-23T16:36:14.515Z",
+  "total": 644,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 321,
+      "crash": 0,
+      "fire": 15,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 JEEP WRANGLER. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, THE MALFUNCTION ENGINE LIGHT ILLUMINATED. THE CONTACT TOOK THE VEHICLE TO THE DEALER, WHO PERFORMED A DIAGNOSTIC TEST THAT DETERMINED THAT THE STAR CASE SOFTWARE WAS DEFECTIVE. THE STAR CASE ",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 88,
+      "crash": 5,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 JEEP WRANGLER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER HAD EXECEEDED A REASONABLE TIME FOR THE REPAIR. THE DEALER ADVISED THAT THEY ONLY RECEIVED ONE PART PER MONTH AND THE PART RECEIVED FOR THE MONTH HAD BEEN USED. THE MANUFACTURER WAS NOT CONTA",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 80,
+      "crash": 1,
+      "fire": 9,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 JEEP WRANGLER. THE CONTACT STATED THAT THE HORN WOULD NOT WORK AND THE ALARM WOULD RANDOMLY ACTIVATE. THE VEHICLE WAS TAKEN TO THE DEALER AND THE TECHNICIAN DIAGNOSED THAT THERE WAS A STATIC ELECTRICITY PROBLEM. THE MANUFACTURER WAS NOTIFIED OF THE FAI",
+      "pct": 12
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 69,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "INCIDENT: WHILE STOPPING IN TRAFFIC WITH THE FOOT FIRMLY ON THE BRAKE MY JEEP HAD AN UNINTENDED ACCELERATION CAUSING A REAR IN CRASH. THIS UNINTENDED ACCELERATION HAPPEN BEFORE ON A TRIP TO TENNESSEE IN JUNE BUT WAS THOUGHT TO BE THE FLOOR MAT WHICH NOW IS KNOWN NOT TO BE THE CAS",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 64,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WENT TO STOP AT LIGHT, HIT THE BRAKE IT WAS HARD AND DID NOT ENGAGE, I STOPPED BECAUSE I HIT THE CAR IN FRONT OF ME. BRAKES NEVER ENGAGED, PULLED THE EMERGENCY BRAKE BEFORE EXITING THE VEHICLE TO CHECK ON THE PEOPLE IN THE CAR IN FRONT OF ME AND THE BRAKES SEEMED TO LET OUT AIR A",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Jeep Wrangler owners report most",
+    "summary": "Across 644 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 321,
+        "crash": 0,
+        "fire": 15,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 JEEP WRANGLER. THE CONTACT STATED THAT WHILE DRIVING 55 MPH, THE MALFUNCTION ENGINE LIGHT ILLUMINATED. THE CONTACT TOOK THE VEHICLE TO THE DEALER, WHO PERFORMED A DIAGNOSTIC TEST THAT DETERMINED THAT THE STAR CASE SOFTWARE WAS DEFECTIVE. THE STAR CASE ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "321 reports (50%) · 15 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 88,
+        "crash": 5,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 JEEP WRANGLER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER HAD EXECEEDED A REASONABLE TIME FOR THE REPAIR. THE DEALER ADVISED THAT THEY ONLY RECEIVED ONE PART PER MONTH AND THE PART RECEIVED FOR THE MONTH HAD BEEN USED. THE MANUFACTURER WAS NOT CONTA",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "88 reports (14%) · 2 fire · 5 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 80,
+        "crash": 1,
+        "fire": 9,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 JEEP WRANGLER. THE CONTACT STATED THAT THE HORN WOULD NOT WORK AND THE ALARM WOULD RANDOMLY ACTIVATE. THE VEHICLE WAS TAKEN TO THE DEALER AND THE TECHNICIAN DIAGNOSED THAT THERE WAS A STATIC ELECTRICITY PROBLEM. THE MANUFACTURER WAS NOTIFIED OF THE FAI",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "80 reports (12%) · 9 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 69,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "INCIDENT: WHILE STOPPING IN TRAFFIC WITH THE FOOT FIRMLY ON THE BRAKE MY JEEP HAD AN UNINTENDED ACCELERATION CAUSING A REAR IN CRASH. THIS UNINTENDED ACCELERATION HAPPEN BEFORE ON A TRIP TO TENNESSEE IN JUNE BUT WAS THOUGHT TO BE THE FLOOR MAT WHICH NOW IS KNOWN NOT TO BE THE CAS",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "69 reports (11%) · 7 crash · 6 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 64,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WENT TO STOP AT LIGHT, HIT THE BRAKE IT WAS HARD AND DID NOT ENGAGE, I STOPPED BECAUSE I HIT THE CAR IN FRONT OF ME. BRAKES NEVER ENGAGED, PULLED THE EMERGENCY BRAKE BEFORE EXITING THE VEHICLE TO CHECK ON THE PEOPLE IN THE CAR IN FRONT OF ME AND THE BRAKES SEEMED TO LET OUT AIR A",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "64 reports (10%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

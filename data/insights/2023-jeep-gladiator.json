@@ -1,0 +1,128 @@
+{
+  "slug": "2023-jeep-gladiator",
+  "make": "Jeep",
+  "model": "Gladiator",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JEEP/GLADIATOR#complaints",
+  "generatedAt": "2026-06-23T16:35:48.038Z",
+  "total": 50,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving and my vehicle came up and said I had an issue with the electrical power steering assist system and was going to shut off. I was waiting at a red light the vehicle put itself in park and shut down. I restarted the vehicle and it would not move out of park or any of th",
+      "pct": 28
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This truck shakes (trembles) usually at highway speeds triggered only when there is an irregularity on the pavement, it continues doing that even after I pass the irregularity, until I reduce the speed. My truck has only 2103 miles on it, I have not driven it off roads or any ext",
+      "pct": 24
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving and my vehicle came up and said I had an issue with the electrical power steering assist system and was going to shut off. I was waiting at a red light the vehicle put itself in park and shut down. I restarted the vehicle and it would not move out of park or any of th",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving and my vehicle came up and said I had an issue with the electrical power steering assist system and was going to shut off. I was waiting at a red light the vehicle put itself in park and shut down. I restarted the vehicle and it would not move out of park or any of th",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Every single time I try to fill my gas tank, at any gas station, the gas pours out and shoots up fast out of the tank fill hole. I have even slowed down filling, and when I hear it getting close coming up the pipe, I let of the pump handle and it will still come up and splash out",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jeep Gladiator owners report most",
+    "summary": "Across 50 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving and my vehicle came up and said I had an issue with the electrical power steering assist system and was going to shut off. I was waiting at a red light the vehicle put itself in park and shut down. I restarted the vehicle and it would not move out of park or any of th",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "14 reports (28%) · 1 fire"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This truck shakes (trembles) usually at highway speeds triggered only when there is an irregularity on the pavement, it continues doing that even after I pass the irregularity, until I reduce the speed. My truck has only 2103 miles on it, I have not driven it off roads or any ext",
+        "pct": 24,
+        "title": "Suspension",
+        "blurb": "12 reports (24%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving and my vehicle came up and said I had an issue with the electrical power steering assist system and was going to shut off. I was waiting at a red light the vehicle put itself in park and shut down. I restarted the vehicle and it would not move out of park or any of th",
+        "pct": 18,
+        "title": "Steering",
+        "blurb": "9 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving and my vehicle came up and said I had an issue with the electrical power steering assist system and was going to shut off. I was waiting at a red light the vehicle put itself in park and shut down. I restarted the vehicle and it would not move out of park or any of th",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "7 reports (14%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Every single time I try to fill my gas tank, at any gas station, the gas pours out and shoots up fast out of the tank fill hole. I have even slowed down filling, and when I hear it getting close coming up the pipe, I let of the pump handle and it will still come up and splash out",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (14%)"
+      }
+    ]
+  }
+}

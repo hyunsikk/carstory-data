@@ -1,0 +1,128 @@
+{
+  "slug": "2019-gmc-canyon",
+  "make": "GMC",
+  "model": "Canyon",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/GMC/CANYON#complaints",
+  "generatedAt": "2026-06-23T16:31:22.237Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Formal Complaint to NHTSA: 2019 GMC Canyon Transmission Issue To Whom It May Concern at the National Highway Traffic Safety Administration (NHTSA): I am writing to formally report a recurring and dangerous transmission issue in my 2019 GMC Canyon, and to request that NHTSA open a",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Wednesday September 22nd at approximately 9:45 pm. My 2019 GMC Canyon was parked on my street and caught fire and was destroyed for no known reason. The fire department came ruled the cause as un known. The cabin and the bed were totally destroyed.   Appears to be no issue to ",
+      "pct": 31
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 GMC Canyon. The contact stated while driving 60 MPH, the vehicle stalled and failed to restart. There was an abnormal scratching noise detected. The check engine warning light was illuminated. The vehicle was towed to the local dealer, where it was diagnos",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Wednesday September 22nd at approximately 9:45 pm. My 2019 GMC Canyon was parked on my street and caught fire and was destroyed for no known reason. The fire department came ruled the cause as un known. The cabin and the bed were totally destroyed.   Appears to be no issue to ",
+      "pct": 19
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 GMC Canyon. The contact stated that while driving at undisclosed speeds and making a right turn, the steering wheel seized. The contact continued to drive, and the steering wheel seized again. There were no warning lights illuminated. The local dealer was ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Gmc Canyon owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Power Train (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Formal Complaint to NHTSA: 2019 GMC Canyon Transmission Issue To Whom It May Concern at the National Highway Traffic Safety Administration (NHTSA): I am writing to formally report a recurring and dangerous transmission issue in my 2019 GMC Canyon, and to request that NHTSA open a",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "6 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Wednesday September 22nd at approximately 9:45 pm. My 2019 GMC Canyon was parked on my street and caught fire and was destroyed for no known reason. The fire department came ruled the cause as un known. The cabin and the bed were totally destroyed.   Appears to be no issue to ",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "5 reports (31%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 GMC Canyon. The contact stated while driving 60 MPH, the vehicle stalled and failed to restart. There was an abnormal scratching noise detected. The check engine warning light was illuminated. The vehicle was towed to the local dealer, where it was diagnos",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Wednesday September 22nd at approximately 9:45 pm. My 2019 GMC Canyon was parked on my street and caught fire and was destroyed for no known reason. The fire department came ruled the cause as un known. The cabin and the bed were totally destroyed.   Appears to be no issue to ",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (19%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 GMC Canyon. The contact stated that while driving at undisclosed speeds and making a right turn, the steering wheel seized. The contact continued to drive, and the steering wheel seized again. There were no warning lights illuminated. The local dealer was ",
+        "pct": 6,
+        "title": "Steering",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

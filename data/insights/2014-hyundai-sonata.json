@@ -1,0 +1,128 @@
+{
+  "slug": "2014-hyundai-sonata",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/HYUNDAI/SONATA#complaints",
+  "generatedAt": "2026-06-23T16:34:08.303Z",
+  "total": 739,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 297,
+      "crash": 6,
+      "fire": 25,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "AT APPROXIMATELY 5PM ON OCTOBER 10TH 2014 I PULLED OUT OF A PARKING LOT IN HARRISBURG, NC.  WHEN THE CAR REACHED 15 MPH IT DID NOT SHIFT (THE CAR IS EQUIPPED WITH AUTOMATIC TRANSMISSION WITH SHIFTRONIC MANUAL CONTROLS) AND I HAD TO SHIFT THE CAR MANUALLY INTO SECOND GEAR AND EACH",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 134,
+      "crash": 1,
+      "fire": 9,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR BATTERY GOES DEAD,UNABLE TO START CAR, COULD HAPPEN AT ANY TIME.  THIS HAS HAPPENED 3 TIMES.  THE DEALER HAS NO IDEA WHY.  EVEN HYUNDAI CORP DOES NOT HAVE ANY ANSWERS.  THE CAR HAS BEEN BACK TO THE DEALER FOR DAYS AT A TIME WITH NO RESOLUTION.  I FEEL THIS IS A SAFETY CONCERN",
+      "pct": 18
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 119,
+      "crash": 1,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I NOTICED THAT MY BLINKERS WERE WORKING BUT I COULD NOT HEAR THEM AND MY SEAT BELT DID THE SAME. I WENT TO THE MORGAN HYUNDAI DEALERSHIP. THEY FOUND THAT THE VEHICLE WAS NOT MAKING CHIME SOUNDS CAUSED BY INSUFFICIENT VOLUME COMING FROM CHIME IN BCM.THEY ORDERED THE MODULE TO CORR",
+      "pct": 16
+    },
+    {
+      "component": "STEERING",
+      "count": 63,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE NEW SONATA IS A SAFETY HAZARD WHEN DRIVING DOWN THE FREEWAY. IT WILL NOT STAY IN A STRAIGHT LINE. IT IS CONSTANTLY MOVING OR FADING RIGHT TO LEFT. HYUNDAI DEALERSHIP RESPONDS ITS BUILT TO GO TO THE RIGHT INCASE YOU FALL ASLEEP. I HAVE DONE SOME RESEARCH TO FIND THE SONATA HAS",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 60,
+      "crash": 7,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "AS RPTD TO HYUNDAI MOTOR AMER. (HMA) VIA CUST. CARE LINE & PRELIMINARY INVESTIGATION RPT.  VEHICLE:  2014 HYUNDAI SONATA SE 2.0T SEDAN   DETAILS OF INCIDENT:  INCIDENT OCCURRED WHILE PARKING THE VEHICLE IN PARKING LOT. PARKING SPOT: PERPENDICULAR PARKING (PARK BETWEEN PAINTED LIN",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Hyundai Sonata owners report most",
+    "summary": "Across 739 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 297,
+        "crash": 6,
+        "fire": 25,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "AT APPROXIMATELY 5PM ON OCTOBER 10TH 2014 I PULLED OUT OF A PARKING LOT IN HARRISBURG, NC.  WHEN THE CAR REACHED 15 MPH IT DID NOT SHIFT (THE CAR IS EQUIPPED WITH AUTOMATIC TRANSMISSION WITH SHIFTRONIC MANUAL CONTROLS) AND I HAD TO SHIFT THE CAR MANUALLY INTO SECOND GEAR AND EACH",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "297 reports (40%) · 25 fire · 6 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 134,
+        "crash": 1,
+        "fire": 9,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR BATTERY GOES DEAD,UNABLE TO START CAR, COULD HAPPEN AT ANY TIME.  THIS HAS HAPPENED 3 TIMES.  THE DEALER HAS NO IDEA WHY.  EVEN HYUNDAI CORP DOES NOT HAVE ANY ANSWERS.  THE CAR HAS BEEN BACK TO THE DEALER FOR DAYS AT A TIME WITH NO RESOLUTION.  I FEEL THIS IS A SAFETY CONCERN",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "134 reports (18%) · 9 fire · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 119,
+        "crash": 1,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I NOTICED THAT MY BLINKERS WERE WORKING BUT I COULD NOT HEAR THEM AND MY SEAT BELT DID THE SAME. I WENT TO THE MORGAN HYUNDAI DEALERSHIP. THEY FOUND THAT THE VEHICLE WAS NOT MAKING CHIME SOUNDS CAUSED BY INSUFFICIENT VOLUME COMING FROM CHIME IN BCM.THEY ORDERED THE MODULE TO CORR",
+        "pct": 16,
+        "title": "Exterior Lighting",
+        "blurb": "119 reports (16%) · 5 fire · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 63,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE NEW SONATA IS A SAFETY HAZARD WHEN DRIVING DOWN THE FREEWAY. IT WILL NOT STAY IN A STRAIGHT LINE. IT IS CONSTANTLY MOVING OR FADING RIGHT TO LEFT. HYUNDAI DEALERSHIP RESPONDS ITS BUILT TO GO TO THE RIGHT INCASE YOU FALL ASLEEP. I HAVE DONE SOME RESEARCH TO FIND THE SONATA HAS",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "63 reports (9%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 60,
+        "crash": 7,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "AS RPTD TO HYUNDAI MOTOR AMER. (HMA) VIA CUST. CARE LINE & PRELIMINARY INVESTIGATION RPT.  VEHICLE:  2014 HYUNDAI SONATA SE 2.0T SEDAN   DETAILS OF INCIDENT:  INCIDENT OCCURRED WHILE PARKING THE VEHICLE IN PARKING LOT. PARKING SPOT: PERPENDICULAR PARKING (PARK BETWEEN PAINTED LIN",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "60 reports (8%) · 3 fire · 7 crash · 3 injured"
+      }
+    ]
+  }
+}

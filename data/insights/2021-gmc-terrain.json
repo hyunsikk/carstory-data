@@ -1,0 +1,128 @@
+{
+  "slug": "2021-gmc-terrain",
+  "make": "GMC",
+  "model": "Terrain",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GMC/TERRAIN#complaints",
+  "generatedAt": "2026-06-23T16:31:41.361Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving car starting from a red light/getting on freeway or after making turn from a stop light when accelerating between 45 and 60 car shakes when shifting. Problem is getting worse. Car only has 6000 miles on it. I reported it to local gmc dealer and I was told GM is aware",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car has revved high rpm's since purchase, with multiple attempts to get it resolved . Since then, the steering wheel has jerked out of my hand's multiple times, unexpecting, causing the car to jerk while being stopped. The car has also not budged in the middle of traffic whil",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I dropped my son off at school and he mistakenly took my car keys into school with him, and somehow I was able to drive all the way home, 4.5 miles, with no key in the car and no warning to stating the remote wasn't in the car. The issue with this is if I'd driven further, perhap",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "i WAS GOING  TO MY SONS HOME WHICH IS LOCATED ON  A  STEEP DOWHILL STREET WITH SEVERAL TURNS, ONE OF THER ALMOST 90 DEGREES.aS i STARTED TO DESEND THE HILL AND  GAIN SPEED, I DEPRESSED THE FOOT BRAKE.  iT DID NOT RESPOND AT ALL.   AS I CONTINUED TO GAIN  SPEED AND COMING UP ON  T",
+      "pct": 16
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was backing out of a parking spot when I came in contact with a vehicle going east bound in the parking lot the contact was on the rear right side of my vehicle before I could do anything my vehicle sped up and proceeded to go forward jump a curb I had my foot on the brakes whe",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Gmc Terrain owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Power Train (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving car starting from a red light/getting on freeway or after making turn from a stop light when accelerating between 45 and 60 car shakes when shifting. Problem is getting worse. Car only has 6000 miles on it. I reported it to local gmc dealer and I was told GM is aware",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "8 reports (26%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car has revved high rpm's since purchase, with multiple attempts to get it resolved . Since then, the steering wheel has jerked out of my hand's multiple times, unexpecting, causing the car to jerk while being stopped. The car has also not budged in the middle of traffic whil",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "8 reports (26%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I dropped my son off at school and he mistakenly took my car keys into school with him, and somehow I was able to drive all the way home, 4.5 miles, with no key in the car and no warning to stating the remote wasn't in the car. The issue with this is if I'd driven further, perhap",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "7 reports (23%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "i WAS GOING  TO MY SONS HOME WHICH IS LOCATED ON  A  STEEP DOWHILL STREET WITH SEVERAL TURNS, ONE OF THER ALMOST 90 DEGREES.aS i STARTED TO DESEND THE HILL AND  GAIN SPEED, I DEPRESSED THE FOOT BRAKE.  iT DID NOT RESPOND AT ALL.   AS I CONTINUED TO GAIN  SPEED AND COMING UP ON  T",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "5 reports (16%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was backing out of a parking spot when I came in contact with a vehicle going east bound in the parking lot the contact was on the rear right side of my vehicle before I could do anything my vehicle sped up and proceeded to go forward jump a curb I had my foot on the brakes whe",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (10%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

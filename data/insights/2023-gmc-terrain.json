@@ -1,0 +1,128 @@
+{
+  "slug": "2023-gmc-terrain",
+  "make": "GMC",
+  "model": "Terrain",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GMC/TERRAIN#complaints",
+  "generatedAt": "2026-06-23T16:31:41.691Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At stop light turning right, the car stalled, cut on and cut back off, cut on and back off with about 30 cars behind me. Sputtering. On the dash board it said “Engine power reduced”. I had to be pushed out a main highway by police, and thankfully my [XXX]  daughter wasn’t in the ",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a 2023 GMC Terrian SLE brand new 14 months ago. It has 30,000 miles on it. I was driving down [XXX] and the car turned off. No warning signs! Not to mention The car had no power! I couldn’t even put on my emergency flashers! Me and my 3 year old son luckily were able to ",
+      "pct": 34
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's husband owns a 2023 GMC Terrain. The contact stated while driving from a complete stop at the traffic light, the vehicle shut off inadvertently. The contact was able to pull to the side of the road. The contact pressed the Push to Start button several times, and the",
+      "pct": 20
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 GMC Terrain. The contact stated while driving at an undisclosed speed, the vehicle was shaking and independently shifted into neutral. In addition, the check engine warning light illuminated, and the vehicle lost motive power. The vehicle was taken to the ",
+      "pct": 14
+    },
+    {
+      "component": "GASOLINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 GMC Terrain. The contact stated while driving at an undisclosed speed, the vehicle was shaking and independently shifted into neutral. In addition, the check engine warning light illuminated, and the vehicle lost motive power. The vehicle was taken to the ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Gmc Terrain owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (40% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At stop light turning right, the car stalled, cut on and cut back off, cut on and back off with about 30 cars behind me. Sputtering. On the dash board it said “Engine power reduced”. I had to be pushed out a main highway by police, and thankfully my [XXX]  daughter wasn’t in the ",
+        "pct": 40,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a 2023 GMC Terrian SLE brand new 14 months ago. It has 30,000 miles on it. I was driving down [XXX] and the car turned off. No warning signs! Not to mention The car had no power! I couldn’t even put on my emergency flashers! Me and my 3 year old son luckily were able to ",
+        "pct": 34,
+        "title": "Engine",
+        "blurb": "12 reports (34%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's husband owns a 2023 GMC Terrain. The contact stated while driving from a complete stop at the traffic light, the vehicle shut off inadvertently. The contact was able to pull to the side of the road. The contact pressed the Push to Start button several times, and the",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "7 reports (20%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 GMC Terrain. The contact stated while driving at an undisclosed speed, the vehicle was shaking and independently shifted into neutral. In addition, the check engine warning light illuminated, and the vehicle lost motive power. The vehicle was taken to the ",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "5 reports (14%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 GMC Terrain. The contact stated while driving at an undisclosed speed, the vehicle was shaking and independently shifted into neutral. In addition, the check engine warning light illuminated, and the vehicle lost motive power. The vehicle was taken to the ",
+        "pct": 14,
+        "title": "Gasoline",
+        "blurb": "5 reports (14%)"
+      }
+    ]
+  }
+}

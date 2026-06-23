@@ -1,0 +1,106 @@
+{
+  "slug": "2014-audi-rs5",
+  "make": "Audi",
+  "model": "RS5",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/AUDI/RS5#complaints",
+  "generatedAt": "2026-06-23T16:43:29.099Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2014 AUDI RS5 WITH 20,000 MILES W. SHUDDERING OF BRAKES.  ON OCT 3. 2015 MY LOCAL MECHANIC TOOK ALL WHEELS OFF AND WE INSPECTED THE BRAKES.  VISUALLY WE SAW NO PROBLEMS, NO SIGNS OF OVERHEATING, OR CONCERNS.  HE SUGGESTED I TAKE IT TO THE DEALER.  ON OCTOBER 9, 2015 I TOOK MY CAR",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light illuminated on several occasions indicating the catalyst efficiency is below the threshold. The vehicle has not been repaired and is available for inspection. Audi dealership has inspected the car and said that the catalytic converters are bad and need to b",
+      "pct": 20
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light illuminated on several occasions indicating the catalyst efficiency is below the threshold. The vehicle has not been repaired and is available for inspection. Audi dealership has inspected the car and said that the catalytic converters are bad and need to b",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FUELING ISSUES THAT CANNOT BE DIAGNOSED BY AUDI. REPLACED ENTIRE FUELING SYSTEM (PUMPS, MODULES, SENSORS, ETC)AND ISSUE STILL PERSISTS. CAR INTERMITTENTLY HESITATES AND STALLS AT IDLE AND UNDER LOAD. CAR STALLED ON INTERSTATE AND NEARLY CAUSED A REAR END COLLISION AT 80 MPH. THIS",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Audi Rs5 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Service Brakes (40% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2014 AUDI RS5 WITH 20,000 MILES W. SHUDDERING OF BRAKES.  ON OCT 3. 2015 MY LOCAL MECHANIC TOOK ALL WHEELS OFF AND WE INSPECTED THE BRAKES.  VISUALLY WE SAW NO PROBLEMS, NO SIGNS OF OVERHEATING, OR CONCERNS.  HE SUGGESTED I TAKE IT TO THE DEALER.  ON OCTOBER 9, 2015 I TOOK MY CAR",
+        "pct": 40,
+        "title": "Service Brakes",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light illuminated on several occasions indicating the catalyst efficiency is below the threshold. The vehicle has not been repaired and is available for inspection. Audi dealership has inspected the car and said that the catalytic converters are bad and need to b",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light illuminated on several occasions indicating the catalyst efficiency is below the threshold. The vehicle has not been repaired and is available for inspection. Audi dealership has inspected the car and said that the catalytic converters are bad and need to b",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FUELING ISSUES THAT CANNOT BE DIAGNOSED BY AUDI. REPLACED ENTIRE FUELING SYSTEM (PUMPS, MODULES, SENSORS, ETC)AND ISSUE STILL PERSISTS. CAR INTERMITTENTLY HESITATES AND STALLS AT IDLE AND UNDER LOAD. CAR STALLED ON INTERSTATE AND NEARLY CAUSED A REAR END COLLISION AT 80 MPH. THIS",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

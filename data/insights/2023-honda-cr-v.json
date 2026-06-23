@@ -1,0 +1,128 @@
+{
+  "slug": "2023-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:13.625Z",
+  "total": 499,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 317,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I bought a brand new 2023 CRV Hybrid Sport and am having issues with the steering.  When at speeds greater than 20 mph , the steering becomes stiff and hard to maneuver. It makes it impossible to swerve out of the way of a dangerous life threatening situation in front of a driver",
+      "pct": 64
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 36,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "On highway this Honda CR-V was hit by another vehicle 2013 doge at right rear side. Other car was sliding on the road , crossing the lanes and hitting the CR-V. Side airbags were deployed immediately during primary collision. CR-V didn’t stop after that. It turned left from right",
+      "pct": 7
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 30,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On highway this Honda CR-V was hit by another vehicle 2013 doge at right rear side. Other car was sliding on the road , crossing the lanes and hitting the CR-V. Side airbags were deployed immediately during primary collision. CR-V didn’t stop after that. It turned left from right",
+      "pct": 6
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 27,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "I was pulling up to the Subway sandwich shop to pick up my lunch. I was approaching from their back ally (coming from Walgreens next door) so I could not have been going faster than a few miles per hour. As I approached the parking space the car started speeding up so I turned ri",
+      "pct": 5
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new Honda CR-V 20223. 2 safety issues were observed: vibrating hood and vibrating driver side rear mirror. Both were confirmed by Honda representative on 5/18/2023. I have recorded footage of hood vibration. [1] For hood, when driving at highway speed (60+mph), hood visibly",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Honda Cr-V owners report most",
+    "summary": "Across 499 owner complaints to NHTSA, the most reported area is Steering (64% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 317,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I bought a brand new 2023 CRV Hybrid Sport and am having issues with the steering.  When at speeds greater than 20 mph , the steering becomes stiff and hard to maneuver. It makes it impossible to swerve out of the way of a dangerous life threatening situation in front of a driver",
+        "pct": 64,
+        "title": "Steering",
+        "blurb": "317 reports (64%) · 5 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 36,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "On highway this Honda CR-V was hit by another vehicle 2013 doge at right rear side. Other car was sliding on the road , crossing the lanes and hitting the CR-V. Side airbags were deployed immediately during primary collision. CR-V didn’t stop after that. It turned left from right",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "36 reports (7%) · 2 crash · 5 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 30,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On highway this Honda CR-V was hit by another vehicle 2013 doge at right rear side. Other car was sliding on the road , crossing the lanes and hitting the CR-V. Side airbags were deployed immediately during primary collision. CR-V didn’t stop after that. It turned left from right",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "30 reports (6%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 27,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "I was pulling up to the Subway sandwich shop to pick up my lunch. I was approaching from their back ally (coming from Walgreens next door) so I could not have been going faster than a few miles per hour. As I approached the parking space the car started speeding up so I turned ri",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "27 reports (5%) · 7 crash · 9 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new Honda CR-V 20223. 2 safety issues were observed: vibrating hood and vibrating driver side rear mirror. Both were confirmed by Honda representative on 5/18/2023. I have recorded footage of hood vibration. [1] For hood, when driving at highway speed (60+mph), hood visibly",
+        "pct": 5,
+        "title": "Visibility/Wiper",
+        "blurb": "25 reports (5%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2023-subaru-wrx",
+  "make": "Subaru",
+  "model": "WRX",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/WRX#complaints",
+  "generatedAt": "2026-06-23T16:40:55.379Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle has a hand brake built into the vehicle and at 25,000 miles my hand brake started to fail and wouldn’t hold the car in place. I had it repaired under warranty and the whole emergency/handbrake assembly was replaced, I looked at it and tested it before I left the dealer",
+      "pct": 29
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a potential safety-related defect involving the front suspension of my 2023 Subaru WRX. After installing aftermarket lowering springs, I began noticing loud popping, clicking, and cracking noises from the front struts during low-speed turns and uneven road surfaces",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I would just like to complain about the excess Rtv on the engine oil pan that has been demonstrated on numerous videos of people opening up the oil drain pan and finding chunks of Rtv blocking some of the engine oil pickup tube. I have not opened up my oil drain pan due to cost. ",
+      "pct": 29
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was heading to work on a  stretch of road. I was traveling at about 45-50mph. A car pulled out in front of me and we had an accident. The airbags in the older Subaru of the person who collided with me went off and mine did not. Surprisingly. My head was slammed against the B pi",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Subaru Wrx owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Service Brakes (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle has a hand brake built into the vehicle and at 25,000 miles my hand brake started to fail and wouldn’t hold the car in place. I had it repaired under warranty and the whole emergency/handbrake assembly was replaced, I looked at it and tested it before I left the dealer",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "2 reports (29%) · 1 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a potential safety-related defect involving the front suspension of my 2023 Subaru WRX. After installing aftermarket lowering springs, I began noticing loud popping, clicking, and cracking noises from the front struts during low-speed turns and uneven road surfaces",
+        "pct": 29,
+        "title": "Suspension",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I would just like to complain about the excess Rtv on the engine oil pan that has been demonstrated on numerous videos of people opening up the oil drain pan and finding chunks of Rtv blocking some of the engine oil pickup tube. I have not opened up my oil drain pan due to cost. ",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was heading to work on a  stretch of road. I was traveling at about 45-50mph. A car pulled out in front of me and we had an accident. The airbags in the older Subaru of the person who collided with me went off and mine did not. Surprisingly. My head was slammed against the B pi",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%) · 1 crash"
+      }
+    ]
+  }
+}

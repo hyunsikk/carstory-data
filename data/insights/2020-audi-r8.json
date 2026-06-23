@@ -1,0 +1,40 @@
+{
+  "slug": "2020-audi-r8",
+  "make": "Audi",
+  "model": "R8",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/R8#complaints",
+  "generatedAt": "2026-06-23T16:26:15.359Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT THIS CAR AT THE DEALERSHIP FAIR AND SQUARE AND THEY  DIDNT DELIVER IT TO ME",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi R8 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT THIS CAR AT THE DEALERSHIP FAIR AND SQUARE AND THEY  DIDNT DELIVER IT TO ME",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

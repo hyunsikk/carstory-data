@@ -1,0 +1,128 @@
+{
+  "slug": "2017-buick-encore",
+  "make": "Buick",
+  "model": "Encore",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BUICK/ENCORE#complaints",
+  "generatedAt": "2026-06-23T16:27:21.039Z",
+  "total": 87,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "APRX 6AM TUESDAY JULY 18, 2017, APRX 5:45 AM, WITH NO KEY FOB IN MY WIFE'S OR MY POSSESSION AND NO ONE WITHIN 30 FEET OF THE CARE PARKED IN THE GARAGE, THE 2017 BUICK ENCORE STARTED ON ITS OWN. THE CAR WAS STATIONARY AND PARKED IN THE GARAGE SINCE APRX 7:00 PM MONDAY EVENING THE ",
+      "pct": 39
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 13,
+      "crash": 9,
+      "fire": 1,
+      "injuries": 27,
+      "deaths": 0,
+      "sample": "I HAD JUST LEASED THIS CAR, DROVE LESS THAN 2 MILES FROM HOME WHEN MY BRAKES FAILED.  I APPLIED BRAKES TO STOP, BUT THE CAR WOULD NOT STOP, IT SLOWED TO 14 MPH - KEPT MOVING UNTIL I SLAMMED INTO TRUCK APPROX 3-400' AHEAD OF ME, HAD PLENTY OF ROOM TO STOP. PRETENSIONER FAILED - DR",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DROPPING MY KIDS TO SCHOOL. I WAS IN LINE OF DROP OFF. I STOPPED MY CAR PUT MY CAR IN PARK AND REMOVED MY FOOT FROM BRAKE. SUDDENLY I NOTICED THAT MY CAR WAS MOVING JUST LIKE IN THE SPEED OF NEUTAL. I PUSHED THE BRAKES HARD BECAUSE MY CAR WAS ABOUT TO HIT THE CAR INFRONT OF",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE WIPER BLADES FAILED TO WORK DURING A WET HEAVY SNOW FALL. THE WIPERS REMOVED THE SNOW VERY WELL ON THE UP STROKE BUT ON THE DOWN STROKE THE WIPERS PACKED THE SNOW ON THE COWLING UNTIL IT GOT TO A POINT THAT THE WIPERS COULD NOT COMPLETE THE CYCLE AND THEY WOULD STOP WORKING. ",
+      "pct": 9
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 8,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I HAD JUST LEASED THIS CAR, DROVE LESS THAN 2 MILES FROM HOME WHEN MY BRAKES FAILED.  I APPLIED BRAKES TO STOP, BUT THE CAR WOULD NOT STOP, IT SLOWED TO 14 MPH - KEPT MOVING UNTIL I SLAMMED INTO TRUCK APPROX 3-400' AHEAD OF ME, HAD PLENTY OF ROOM TO STOP. PRETENSIONER FAILED - DR",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Buick Encore owners report most",
+    "summary": "Across 87 owner complaints to NHTSA, the most reported area is Engine (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "APRX 6AM TUESDAY JULY 18, 2017, APRX 5:45 AM, WITH NO KEY FOB IN MY WIFE'S OR MY POSSESSION AND NO ONE WITHIN 30 FEET OF THE CARE PARKED IN THE GARAGE, THE 2017 BUICK ENCORE STARTED ON ITS OWN. THE CAR WAS STATIONARY AND PARKED IN THE GARAGE SINCE APRX 7:00 PM MONDAY EVENING THE ",
+        "pct": 39,
+        "title": "Engine",
+        "blurb": "34 reports (39%) · 3 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 13,
+        "crash": 9,
+        "fire": 1,
+        "injuries": 27,
+        "deaths": 0,
+        "sample": "I HAD JUST LEASED THIS CAR, DROVE LESS THAN 2 MILES FROM HOME WHEN MY BRAKES FAILED.  I APPLIED BRAKES TO STOP, BUT THE CAR WOULD NOT STOP, IT SLOWED TO 14 MPH - KEPT MOVING UNTIL I SLAMMED INTO TRUCK APPROX 3-400' AHEAD OF ME, HAD PLENTY OF ROOM TO STOP. PRETENSIONER FAILED - DR",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "13 reports (15%) · 1 fire · 9 crash · 27 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DROPPING MY KIDS TO SCHOOL. I WAS IN LINE OF DROP OFF. I STOPPED MY CAR PUT MY CAR IN PARK AND REMOVED MY FOOT FROM BRAKE. SUDDENLY I NOTICED THAT MY CAR WAS MOVING JUST LIKE IN THE SPEED OF NEUTAL. I PUSHED THE BRAKES HARD BECAUSE MY CAR WAS ABOUT TO HIT THE CAR INFRONT OF",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "9 reports (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE WIPER BLADES FAILED TO WORK DURING A WET HEAVY SNOW FALL. THE WIPERS REMOVED THE SNOW VERY WELL ON THE UP STROKE BUT ON THE DOWN STROKE THE WIPERS PACKED THE SNOW ON THE COWLING UNTIL IT GOT TO A POINT THAT THE WIPERS COULD NOT COMPLETE THE CYCLE AND THEY WOULD STOP WORKING. ",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "8 reports (9%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 8,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I HAD JUST LEASED THIS CAR, DROVE LESS THAN 2 MILES FROM HOME WHEN MY BRAKES FAILED.  I APPLIED BRAKES TO STOP, BUT THE CAR WOULD NOT STOP, IT SLOWED TO 14 MPH - KEPT MOVING UNTIL I SLAMMED INTO TRUCK APPROX 3-400' AHEAD OF ME, HAD PLENTY OF ROOM TO STOP. PRETENSIONER FAILED - DR",
+        "pct": 9,
+        "title": "Seat Belts",
+        "blurb": "8 reports (9%) · 1 fire · 3 crash · 3 injured"
+      }
+    ]
+  }
+}

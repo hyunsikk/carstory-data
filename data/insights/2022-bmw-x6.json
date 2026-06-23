@@ -1,0 +1,84 @@
+{
+  "slug": "2022-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:22.918Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear sensor system design on the X6 does not work as described and the complaint was acknowledged by our BMW dealer “with nothing they can do”. When backing up out of a parking space, it does not alert for persons walking or driving by behind you unless they are only inches a",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear sensor system design on the X6 does not work as described and the complaint was acknowledged by our BMW dealer “with nothing they can do”. When backing up out of a parking space, it does not alert for persons walking or driving by behind you unless they are only inches a",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2022 BMW X6. CONSUMER WRITES IN REGARD TO DEFECTIVE BRAKE DESIGN. THE CONSUMER WAS PERPLEXED ON HOW BMW MADE THEIR DETERMINATION IF THE VEHICLE WAS NEVER EXAMINED.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X6 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Lane Departure (33% of reports).",
+    "issues": [
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear sensor system design on the X6 does not work as described and the complaint was acknowledged by our BMW dealer “with nothing they can do”. When backing up out of a parking space, it does not alert for persons walking or driving by behind you unless they are only inches a",
+        "pct": 33,
+        "title": "Lane Departure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear sensor system design on the X6 does not work as described and the complaint was acknowledged by our BMW dealer “with nothing they can do”. When backing up out of a parking space, it does not alert for persons walking or driving by behind you unless they are only inches a",
+        "pct": 33,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2022 BMW X6. CONSUMER WRITES IN REGARD TO DEFECTIVE BRAKE DESIGN. THE CONSUMER WAS PERPLEXED ON HOW BMW MADE THEIR DETERMINATION IF THE VEHICLE WAS NEVER EXAMINED.",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

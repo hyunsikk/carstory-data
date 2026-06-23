@@ -1,0 +1,62 @@
+{
+  "slug": "2019-bmw-6-series",
+  "make": "BMW",
+  "model": "6 Series",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/6%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:51.812Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was making a strange noise when the starter was engaged.  The local BMW dealer discovered the starter motor bolts had \"backed themselves out\" of their mounting, which resulted in the starter motor shifting.  The shift resulted in the starter motor contacting the transmiss",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 BMW GT640I ON THREE DIFFERENT OCCASIONS HAS STOPPED ABRUPTLY. 1) ON THE FREEWAY DRIVING MY VEHICLE STOPPED AS IF I HIT SOMETHING CAR RESTARTED SECONDS LATER. 2) DRIVING DOWN THE STREET VEHICLE CONTROL PANEL STATED OBSTRUCTION BUT NOTHING WAS AROUND THE VEHICLE, VEHICLE STOPP",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw 6 Series owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was making a strange noise when the starter was engaged.  The local BMW dealer discovered the starter motor bolts had \"backed themselves out\" of their mounting, which resulted in the starter motor shifting.  The shift resulted in the starter motor contacting the transmiss",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 BMW GT640I ON THREE DIFFERENT OCCASIONS HAS STOPPED ABRUPTLY. 1) ON THE FREEWAY DRIVING MY VEHICLE STOPPED AS IF I HIT SOMETHING CAR RESTARTED SECONDS LATER. 2) DRIVING DOWN THE STREET VEHICLE CONTROL PANEL STATED OBSTRUCTION BUT NOTHING WAS AROUND THE VEHICLE, VEHICLE STOPP",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

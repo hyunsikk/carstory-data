@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-maverick",
+  "make": "Ford",
+  "model": "Maverick",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/MAVERICK#complaints",
+  "generatedAt": "2026-06-23T16:30:41.164Z",
+  "total": 142,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 40,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since the date of purchase (10/29/21) I am unable to change/set FM stations.  Apps (ie: iHeart, Spotify) and voice command work intermittently.  Apps will not work unless phone is plugged in.  911 assist will not work if not paired and connected to a Bluetooth enabled and compati",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 36,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving down road at 45 mph as usual. Car suddenly shudders and as I pull to a stop car is stuck in neutral. Will not receive gas. Suddenly lurches into first gear, almost making me hit who is in front of me. I pull into center lane and the car is frozen and won't move. I restart",
+      "pct": 25
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The 2022 Ford Maverick has a design flaw the harms the environment and places driver and passengers at risk.  Specifically the vehicle does not have a metal skid plate which places the Evap System at risk for damage. If the system is damaged the vehicle is still driveable, but do",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle was purchased in 2021 with a 3 year 36k mile warranty. At 39k miles the truck has started to shut off randomly while driving. It has put us in very dangerous situations and it happens multiple times every day. The vehicle will be driving down the road and suddenly sh",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Mavericks with Integrated Trailer Brake Controllers are not sending any voltage to the trailer brakes when the brake pedal is pressed. Customers are at risk of not having the anticipated additional braking ability of their trailers and will be putting the entire braking load on t",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ford Maverick owners report most",
+    "summary": "Across 142 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 40,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since the date of purchase (10/29/21) I am unable to change/set FM stations.  Apps (ie: iHeart, Spotify) and voice command work intermittently.  Apps will not work unless phone is plugged in.  911 assist will not work if not paired and connected to a Bluetooth enabled and compati",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "40 reports (28%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 36,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving down road at 45 mph as usual. Car suddenly shudders and as I pull to a stop car is stuck in neutral. Will not receive gas. Suddenly lurches into first gear, almost making me hit who is in front of me. I pull into center lane and the car is frozen and won't move. I restart",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "36 reports (25%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The 2022 Ford Maverick has a design flaw the harms the environment and places driver and passengers at risk.  Specifically the vehicle does not have a metal skid plate which places the Evap System at risk for damage. If the system is damaged the vehicle is still driveable, but do",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "14 reports (10%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle was purchased in 2021 with a 3 year 36k mile warranty. At 39k miles the truck has started to shut off randomly while driving. It has put us in very dangerous situations and it happens multiple times every day. The vehicle will be driving down the road and suddenly sh",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "14 reports (10%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Mavericks with Integrated Trailer Brake Controllers are not sending any voltage to the trailer brakes when the brake pedal is pressed. Customers are at risk of not having the anticipated additional braking ability of their trailers and will be putting the entire braking load on t",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "11 reports (8%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

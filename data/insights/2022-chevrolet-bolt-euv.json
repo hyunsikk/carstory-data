@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-bolt-euv",
+  "make": "Chevrolet",
+  "model": "Bolt EUV",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/BOLT%20EUV#complaints",
+  "generatedAt": "2026-06-23T16:27:58.602Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The steering feels like it's grinding when reaching 60mph. If the wheel is turned left of center, roughly between 11 o'clock and 12 o'clock it will start grinding. If moved from that position, the grinding stops. GM says the part is out of warranty. The vehicle has 41,000 miles a",
+      "pct": 38
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Generally when driving a a slow speed and truing a corner the vehicle will suddenly speed up to about 15 miles per hour.  Over the last 2.5 hears this has happened about 30 times.  On at lease three (3) occasions a passenger has been with me and can confirm this has happened.  Ea",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Bolt EUV. The contact stated that while driving at an undisclosed speed, the electrical system became inoperable. The contact stated that the seat belt warning chime failed to function when the seat belt was not fastened. Additionally, the instru",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Generally when driving a a slow speed and truing a corner the vehicle will suddenly speed up to about 15 miles per hour.  Over the last 2.5 hears this has happened about 30 times.  On at lease three (3) occasions a passenger has been with me and can confirm this has happened.  Ea",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Firstly, day/night sensor failure caused failure in left front headlamp turn signal system. This was repaired successfully.  Secondly, Airbag system failure that I saw was a common problem across many vehicles.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Chevrolet Bolt Euv owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Steering (38% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The steering feels like it's grinding when reaching 60mph. If the wheel is turned left of center, roughly between 11 o'clock and 12 o'clock it will start grinding. If moved from that position, the grinding stops. GM says the part is out of warranty. The vehicle has 41,000 miles a",
+        "pct": 38,
+        "title": "Steering",
+        "blurb": "8 reports (38%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Generally when driving a a slow speed and truing a corner the vehicle will suddenly speed up to about 15 miles per hour.  Over the last 2.5 hears this has happened about 30 times.  On at lease three (3) occasions a passenger has been with me and can confirm this has happened.  Ea",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Bolt EUV. The contact stated that while driving at an undisclosed speed, the electrical system became inoperable. The contact stated that the seat belt warning chime failed to function when the seat belt was not fastened. Additionally, the instru",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Generally when driving a a slow speed and truing a corner the vehicle will suddenly speed up to about 15 miles per hour.  Over the last 2.5 hears this has happened about 30 times.  On at lease three (3) occasions a passenger has been with me and can confirm this has happened.  Ea",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Firstly, day/night sensor failure caused failure in left front headlamp turn signal system. This was repaired successfully.  Secondly, Airbag system failure that I saw was a common problem across many vehicles.",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

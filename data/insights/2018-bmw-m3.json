@@ -1,0 +1,84 @@
+{
+  "slug": "2018-bmw-m3",
+  "make": "BMW",
+  "model": "M3",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/M3#complaints",
+  "generatedAt": "2026-06-23T16:26:44.931Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel tank started leaking gasoline on the driver's side of the car. I only noticed because of the strong smell of gasoline and slipping a puddle of gas. I feel that my safety was at risk if I was to drive around with gasoline leaking out of the car that could have caused an explo",
+      "pct": 75
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CRANK HUB WILL BE PRONE TO SPIN AND THEREFORE WILL DESTROY ENGINE WHICH WILL REQUIRE A FULL ENGINE REPLACEMENT.  *TR",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CRANK HUB WILL BE PRONE TO SPIN AND THEREFORE WILL DESTROY ENGINE WHICH WILL REQUIRE A FULL ENGINE REPLACEMENT.  *TR",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw M3 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (75% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel tank started leaking gasoline on the driver's side of the car. I only noticed because of the strong smell of gasoline and slipping a puddle of gas. I feel that my safety was at risk if I was to drive around with gasoline leaking out of the car that could have caused an explo",
+        "pct": 75,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (75%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CRANK HUB WILL BE PRONE TO SPIN AND THEREFORE WILL DESTROY ENGINE WHICH WILL REQUIRE A FULL ENGINE REPLACEMENT.  *TR",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CRANK HUB WILL BE PRONE TO SPIN AND THEREFORE WILL DESTROY ENGINE WHICH WILL REQUIRE A FULL ENGINE REPLACEMENT.  *TR",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

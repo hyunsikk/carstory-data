@@ -1,0 +1,106 @@
+{
+  "slug": "2021-hyundai-veloster",
+  "make": "Hyundai",
+  "model": "Veloster",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HYUNDAI/VELOSTER#complaints",
+  "generatedAt": "2026-06-23T16:34:28.887Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "LANE DEPARTURE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Blind spot warning system does not work correctly when using any wheel or tire other than the OEM supplied wheel and tire. The mirror light will stay on when there is no car in the blind spot or will fail to detect when there is a car there.   The system works correctly with the ",
+      "pct": 64
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "No warning lights came on during the whole time this happened ...  purchased this car with 98 miles on it.... I had the car for 7 days .. mind you i did not use the special features of the car like launch control or NGrin Shifting ... i did not take the car past 4k RPM as per the",
+      "pct": 27
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Around 6000 miles the steering wheel froze while coming from a long highway trip and tried to veer me across 3 lanes into a wall. Had to man handle it off the roadway up the off ramp. Turned the car off, then turned it back on, and it was like nothing happened. Took it to the dea",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "No warning lights came on during the whole time this happened ...  purchased this car with 98 miles on it.... I had the car for 7 days .. mind you i did not use the special features of the car like launch control or NGrin Shifting ... i did not take the car past 4k RPM as per the",
+      "pct": 18
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Hyundai Veloster owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Lane Departure (64% of reports).",
+    "issues": [
+      {
+        "component": "LANE DEPARTURE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Blind spot warning system does not work correctly when using any wheel or tire other than the OEM supplied wheel and tire. The mirror light will stay on when there is no car in the blind spot or will fail to detect when there is a car there.   The system works correctly with the ",
+        "pct": 64,
+        "title": "Lane Departure",
+        "blurb": "7 reports (64%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "No warning lights came on during the whole time this happened ...  purchased this car with 98 miles on it.... I had the car for 7 days .. mind you i did not use the special features of the car like launch control or NGrin Shifting ... i did not take the car past 4k RPM as per the",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "3 reports (27%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Around 6000 miles the steering wheel froze while coming from a long highway trip and tried to veer me across 3 lanes into a wall. Had to man handle it off the roadway up the off ramp. Turned the car off, then turned it back on, and it was like nothing happened. Took it to the dea",
+        "pct": 18,
+        "title": "Steering",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "No warning lights came on during the whole time this happened ...  purchased this car with 98 miles on it.... I had the car for 7 days .. mind you i did not use the special features of the car like launch control or NGrin Shifting ... i did not take the car past 4k RPM as per the",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (18%)"
+      }
+    ]
+  }
+}

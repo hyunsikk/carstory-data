@@ -1,0 +1,128 @@
+{
+  "slug": "2022-lexus-nx",
+  "make": "Lexus",
+  "model": "NX",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LEXUS/NX#complaints",
+  "generatedAt": "2026-06-23T16:37:29.753Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On two occasions the car has locked us out. The auxiliary battery fails which does not allow the electric door locks to operate. It’s necessary to follow a manual procedure to unlock the driver door so the hood can be opened and the auxiliary battery can be charged and the car ju",
+      "pct": 25
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My front driver tire flew off as I was exiting the expressway 8-7-22. The tire and wheel continued on to go through another vehicle’s windshield,  Crash # 23080049 was filed by NV Highway Patrol Trooper E Thallon # 347.The car had 6300 miles at the time of the accident.  It had i",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2022 Lexus NX. The driver's side mirror shakes excessively and consistently. It is a serious safety concern because at night there is blurry lights reflecting and makes seeing cars difficult. It is also a safety concern because during the day you cannot see the distance ",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel door does not open. Mis-aligned door does not open.   Car has been back to the dealer twice for this problem.  Both times we were told the entire assembly was replaced and both times the door was still visibly mis-aligned.   See photos attached",
+      "pct": 6
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A 3 cars collision involves this vehicle accelerating while my mom was holding on to the brake pedal.    She was pulling into our home driveway, when suddenly it accelerate and hit my sister Prius and my dad's Rav4.  See photos.  No one pull into the driveway with their foot on t",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Lexus Nx owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On two occasions the car has locked us out. The auxiliary battery fails which does not allow the electric door locks to operate. It’s necessary to follow a manual procedure to unlock the driver door so the hood can be opened and the auxiliary battery can be charged and the car ju",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "4 reports (25%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My front driver tire flew off as I was exiting the expressway 8-7-22. The tire and wheel continued on to go through another vehicle’s windshield,  Crash # 23080049 was filed by NV Highway Patrol Trooper E Thallon # 347.The car had 6300 miles at the time of the accident.  It had i",
+        "pct": 13,
+        "title": "Wheels",
+        "blurb": "2 reports (13%) · 1 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2022 Lexus NX. The driver's side mirror shakes excessively and consistently. It is a serious safety concern because at night there is blurry lights reflecting and makes seeing cars difficult. It is also a safety concern because during the day you cannot see the distance ",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel door does not open. Mis-aligned door does not open.   Car has been back to the dealer twice for this problem.  Both times we were told the entire assembly was replaced and both times the door was still visibly mis-aligned.   See photos attached",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A 3 cars collision involves this vehicle accelerating while my mom was holding on to the brake pedal.    She was pulling into our home driveway, when suddenly it accelerate and hit my sister Prius and my dad's Rav4.  See photos.  No one pull into the driveway with their foot on t",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "1 report (6%) · 1 crash"
+      }
+    ]
+  }
+}

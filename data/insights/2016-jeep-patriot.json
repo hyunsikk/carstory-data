@@ -1,0 +1,128 @@
+{
+  "slug": "2016-jeep-patriot",
+  "make": "Jeep",
+  "model": "Patriot",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/JEEP/PATRIOT#complaints",
+  "generatedAt": "2026-06-23T16:45:20.622Z",
+  "total": 452,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 222,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 JEEP PATRIOT. THE CONTACT STATED THAT THE ENGINE WARNING LIGHT REMAINED ILLUMINATED AND THE VEHICLE SWERVED TO THE LEFT WHILE DRIVING. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTIC TESTING. THE VIN WAS NOT AVAILABLE. THE MANUFACTURER WAS NOT NOTIF",
+      "pct": 49
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 96,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT MY 2016 JEEP PATRIOT NEW. IT HAS 20,000 MILES. THE ABS AND TRACTION CONTROL LIGHT IS ON. CRUISE CONTROL STOPPED WORKING. WINDSHIELD WIPERS MAKE POPPING NOISE WHEN ON. WHEN AT A STOP THE ENGINE MAKES A RATTLING SOUND. WHEN ACCELERATION IT MAKES A WEIRD NOISE AND TAKES FOR",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 74,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON A BUSY 5 LANE MAIN ROAD THROUGH THE CENTER OF TOWN AND DEPRESSED THE CLUTCH AND BRAKE PREPARING TO STOP AT A RED LIGHT.  THE CLUTCH POPPED LOOSE AND WAS DISABLED.  IT NO LONGER HAD ANY FORCE AGAINST IT BUT COULD BE FREELY MOVED THROUGHOUT ITS RANGE OF MOTION WITH",
+      "pct": 16
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 47,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT MY 2016 JEEP PATRIOT NEW. IT HAS 20,000 MILES. THE ABS AND TRACTION CONTROL LIGHT IS ON. CRUISE CONTROL STOPPED WORKING. WINDSHIELD WIPERS MAKE POPPING NOISE WHEN ON. WHEN AT A STOP THE ENGINE MAKES A RATTLING SOUND. WHEN ACCELERATION IT MAKES A WEIRD NOISE AND TAKES FOR",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 40,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "JEEP IN MOTION, ENGINE STALLS AT VARIES SPEEDS MULTIPLE TIMES IN A ROW. HEADED STRAIGHT OR TURNING, HAD TO CALL TOW TRUCK BUT AFTER 20 MINUTES I TRIED TO TURN OVER MY JEEP AND IT STARTED.  THIS HAPPENED 3 DIFFERENT TIMES BEFORE ARRIVING HOME.  KEPT CALL CENTER REP. ON PHONE UNTIL",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Jeep Patriot owners report most",
+    "summary": "Across 452 owner complaints to NHTSA, the most reported area is Engine (49% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 222,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 JEEP PATRIOT. THE CONTACT STATED THAT THE ENGINE WARNING LIGHT REMAINED ILLUMINATED AND THE VEHICLE SWERVED TO THE LEFT WHILE DRIVING. THE VEHICLE WAS TAKEN TO THE DEALER FOR DIAGNOSTIC TESTING. THE VIN WAS NOT AVAILABLE. THE MANUFACTURER WAS NOT NOTIF",
+        "pct": 49,
+        "title": "Engine",
+        "blurb": "222 reports (49%) · 2 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 96,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT MY 2016 JEEP PATRIOT NEW. IT HAS 20,000 MILES. THE ABS AND TRACTION CONTROL LIGHT IS ON. CRUISE CONTROL STOPPED WORKING. WINDSHIELD WIPERS MAKE POPPING NOISE WHEN ON. WHEN AT A STOP THE ENGINE MAKES A RATTLING SOUND. WHEN ACCELERATION IT MAKES A WEIRD NOISE AND TAKES FOR",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "96 reports (21%) · 2 fire · 3 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 74,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON A BUSY 5 LANE MAIN ROAD THROUGH THE CENTER OF TOWN AND DEPRESSED THE CLUTCH AND BRAKE PREPARING TO STOP AT A RED LIGHT.  THE CLUTCH POPPED LOOSE AND WAS DISABLED.  IT NO LONGER HAD ANY FORCE AGAINST IT BUT COULD BE FREELY MOVED THROUGHOUT ITS RANGE OF MOTION WITH",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "74 reports (16%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 47,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT MY 2016 JEEP PATRIOT NEW. IT HAS 20,000 MILES. THE ABS AND TRACTION CONTROL LIGHT IS ON. CRUISE CONTROL STOPPED WORKING. WINDSHIELD WIPERS MAKE POPPING NOISE WHEN ON. WHEN AT A STOP THE ENGINE MAKES A RATTLING SOUND. WHEN ACCELERATION IT MAKES A WEIRD NOISE AND TAKES FOR",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "47 reports (10%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 40,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "JEEP IN MOTION, ENGINE STALLS AT VARIES SPEEDS MULTIPLE TIMES IN A ROW. HEADED STRAIGHT OR TURNING, HAD TO CALL TOW TRUCK BUT AFTER 20 MINUTES I TRIED TO TURN OVER MY JEEP AND IT STARTED.  THIS HAPPENED 3 DIFFERENT TIMES BEFORE ARRIVING HOME.  KEPT CALL CENTER REP. ON PHONE UNTIL",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "40 reports (9%)"
+      }
+    ]
+  }
+}

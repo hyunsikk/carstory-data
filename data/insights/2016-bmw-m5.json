@@ -1,0 +1,40 @@
+{
+  "slug": "2016-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/M5#complaints",
+  "generatedAt": "2026-06-23T16:26:48.447Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The leather on the dashboard is coming off the glue.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw M5 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The leather on the dashboard is coming off the glue.",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

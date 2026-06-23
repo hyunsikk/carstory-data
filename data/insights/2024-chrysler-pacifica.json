@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chrysler-pacifica",
+  "make": "Chrysler",
+  "model": "Pacifica",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHRYSLER/PACIFICA#complaints",
+  "generatedAt": "2026-06-23T16:29:11.774Z",
+  "total": 36,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1st time:  I was exiting my driveway and dash presented with no torque and a picture of a turtle came up saying power issues. Running on hybrid engine at this time.  Pushed down on gas and no power.  I turned van off waited a few minutes, restarted,  gas engine came on along with",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle was purchased on 1/8/2025.  On 1/13/2025, the vehicle had to be towed to the dealer because the transmission wouldn't shift to park.  Dealer performed a software update to correct the issue.  On 1/21/2025, the vehicle had to be towed to a dealer because the transmissi",
+      "pct": 22
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chrysler Pacifica. The contact received notification of NHTSA Campaign Number: 25V302000 (Air Bags); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1st time:  I was exiting my driveway and dash presented with no torque and a picture of a turtle came up saying power issues. Running on hybrid engine at this time.  Pushed down on gas and no power.  I turned van off waited a few minutes, restarted,  gas engine came on along with",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Adaptive cruise control slammed on brakes at least five times when nothing there in front or on the sides.  First time I ended up with whiplash…now I hear it start to stop and I  override system by speeding up.  It also sometimes gets so close to car in front without braking so I",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chrysler Pacifica owners report most",
+    "summary": "Across 36 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1st time:  I was exiting my driveway and dash presented with no torque and a picture of a turtle came up saying power issues. Running on hybrid engine at this time.  Pushed down on gas and no power.  I turned van off waited a few minutes, restarted,  gas engine came on along with",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "10 reports (28%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle was purchased on 1/8/2025.  On 1/13/2025, the vehicle had to be towed to the dealer because the transmission wouldn't shift to park.  Dealer performed a software update to correct the issue.  On 1/21/2025, the vehicle had to be towed to a dealer because the transmissi",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "8 reports (22%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chrysler Pacifica. The contact received notification of NHTSA Campaign Number: 25V302000 (Air Bags); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "8 reports (22%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1st time:  I was exiting my driveway and dash presented with no torque and a picture of a turtle came up saying power issues. Running on hybrid engine at this time.  Pushed down on gas and no power.  I turned van off waited a few minutes, restarted,  gas engine came on along with",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "6 reports (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Adaptive cruise control slammed on brakes at least five times when nothing there in front or on the sides.  First time I ended up with whiplash…now I hear it start to stop and I  override system by speeding up.  It also sometimes gets so close to car in front without braking so I",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

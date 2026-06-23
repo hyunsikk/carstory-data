@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-06-23T16:29:52.601Z",
+  "total": 89,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "As I was driving home with about 5 minutes to go, in my brand new (2 week old)2023 Ford Escape, I smelled something burning. I pulled over and saw smoke so I turned off the car and got out. As I got out of the car I looked under and saw fire. I got away from the car and as I did,",
+      "pct": 42
+    },
+    {
+      "component": "ENGINE",
+      "count": 28,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At approximately 1,000 miles on 2 separate occasions while traveling on the interstate, roughly 10 minutes apart, an audible chime and visual alert within the speedometer cluster appeared “engine coolant over temperature” for approximately 10 seconds. The temperature gauge within",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "3 times, either merging on the highway or full throttle, vehicle screams overheat warning with wrench light for a couple of seconds and disappears. No limp mode or smoke at all. And coolant level is at MAX. No clue is this some sort of glitch or engine failure? Vehicles drives am",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After reviewing my owner’s manual on my newly purchased vehicle, I was shocked at how quickly and unexpectedly I was propelled from 75mph to 105mph because of a new-to-me feature on this model. I was surprised and moreover shocked that a system like this is mass-produced and sold",
+      "pct": 11
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "engine light came on took it into dealership. they said it was evap system then fixed it. picked car up in a wednesday by the friday, light came on again. took back into dealership, they didn’t detect any leaks.. said they were going to put in a canister purge solenoid. found out",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ford Escape owners report most",
+    "summary": "Across 89 owner complaints to NHTSA, the most reported area is Electrical System (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "As I was driving home with about 5 minutes to go, in my brand new (2 week old)2023 Ford Escape, I smelled something burning. I pulled over and saw smoke so I turned off the car and got out. As I got out of the car I looked under and saw fire. I got away from the car and as I did,",
+        "pct": 42,
+        "title": "Electrical System",
+        "blurb": "37 reports (42%) · 2 fire · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 28,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At approximately 1,000 miles on 2 separate occasions while traveling on the interstate, roughly 10 minutes apart, an audible chime and visual alert within the speedometer cluster appeared “engine coolant over temperature” for approximately 10 seconds. The temperature gauge within",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "28 reports (31%) · 2 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "3 times, either merging on the highway or full throttle, vehicle screams overheat warning with wrench light for a couple of seconds and disappears. No limp mode or smoke at all. And coolant level is at MAX. No clue is this some sort of glitch or engine failure? Vehicles drives am",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "18 reports (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After reviewing my owner’s manual on my newly purchased vehicle, I was shocked at how quickly and unexpectedly I was propelled from 75mph to 105mph because of a new-to-me feature on this model. I was surprised and moreover shocked that a system like this is mass-produced and sold",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (11%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "engine light came on took it into dealership. they said it was evap system then fixed it. picked car up in a wednesday by the friday, light came on again. took back into dealership, they didn’t detect any leaks.. said they were going to put in a canister purge solenoid. found out",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (8%) · 1 fire"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2016-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:10.874Z",
+  "total": 387,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 99,
+      "crash": 6,
+      "fire": 3,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "VIBRATION AT IDLE IN GEAR.  I FOUND THE VIBRATION ON THE SECOND DAY I GOT THE CAR WITH ONLY ABOUT 100 MILES ON IT. IT VIBRATES AT IDLE IN GEAR. IT ONLY HAPPENS WHEN THE CAR IS AT 600-700 RPM. WHEN I TURN ON THE HEATER TO MAX SO IT GOES TO 800 RPM, THE VIBRATION STOPS. BUT ONCE TH",
+      "pct": 26
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 65,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE CABIN OF MY BRAND NEW VEHICLE FILLS WITH GAS FUMES RANDOMLY WHILE THE ENGINE IS RUNNING.  THE FUMES FILL THE CABIN WHILE IDLING, STARTING, AND DRIVING DOWN THE ROAD. THE FUMES ARE VERY STRONG AND I DO NOT FEEL SAFE DRIVING THIS VEHICLE FOR ANY DISTANCE.  THE HONDA DEALERSHIP ",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 63,
+      "crash": 5,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CAR OPERATES ON A KEYLESS IGNITION, AND USES PUSH BUTTON START. THE ISSUE IS, ONCE THE CAR IS RUNNING, IT WILL STAY RUNNING WITHOUT THE COMPUTER FAB KEY IN THE CAR.   THIS IS A SAFETY HAZARD, I CAN LEAVE THE DOOR OPEN AND WALK OUT OF THE CAR WITH THE KEY IN HAND AND IT STAYS ",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 45,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "NTSB: 2016 HONDA CRV: CONSUMER STATED THE CAR WILL STOP WHILE IN DRIVE, AND IT WILL ALSO KEEP MOVING WITH THE ENGINE STOPPED WITHOUT SOMEONE DRIVING. *SS  THE CONSUMER STATED HE WAS ABLE TO BRING THE VEHICLE TO A STANDSTILL ON A SLOP., WHILE THE VEHICLE WAS STILL IN DRIVE, HE WAS",
+      "pct": 12
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 32,
+      "crash": 16,
+      "fire": 0,
+      "injuries": 18,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2016 HONDA CR-V. WHILE REVERSING AT 10 MPH, ANOTHER VEHICLE CRASHED INTO THE REAR DRIVER SIDE OF THE CONTACT'S VEHICLE. THE CONTACT'S VEHICLE FLIPPED OVER ON THE PASSENGER SIDE WITHOUT WARNING. THE SIDE AIR BAGS DEPLOYED AND A POLICE REPORT WAS FILED. THE ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Honda Cr-V owners report most",
+    "summary": "Across 387 owner complaints to NHTSA, the most reported area is Engine (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 99,
+        "crash": 6,
+        "fire": 3,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "VIBRATION AT IDLE IN GEAR.  I FOUND THE VIBRATION ON THE SECOND DAY I GOT THE CAR WITH ONLY ABOUT 100 MILES ON IT. IT VIBRATES AT IDLE IN GEAR. IT ONLY HAPPENS WHEN THE CAR IS AT 600-700 RPM. WHEN I TURN ON THE HEATER TO MAX SO IT GOES TO 800 RPM, THE VIBRATION STOPS. BUT ONCE TH",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "99 reports (26%) · 3 fire · 6 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 65,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE CABIN OF MY BRAND NEW VEHICLE FILLS WITH GAS FUMES RANDOMLY WHILE THE ENGINE IS RUNNING.  THE FUMES FILL THE CABIN WHILE IDLING, STARTING, AND DRIVING DOWN THE ROAD. THE FUMES ARE VERY STRONG AND I DO NOT FEEL SAFE DRIVING THIS VEHICLE FOR ANY DISTANCE.  THE HONDA DEALERSHIP ",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "65 reports (17%) · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 63,
+        "crash": 5,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CAR OPERATES ON A KEYLESS IGNITION, AND USES PUSH BUTTON START. THE ISSUE IS, ONCE THE CAR IS RUNNING, IT WILL STAY RUNNING WITHOUT THE COMPUTER FAB KEY IN THE CAR.   THIS IS A SAFETY HAZARD, I CAN LEAVE THE DOOR OPEN AND WALK OUT OF THE CAR WITH THE KEY IN HAND AND IT STAYS ",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "63 reports (16%) · 2 fire · 5 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 45,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "NTSB: 2016 HONDA CRV: CONSUMER STATED THE CAR WILL STOP WHILE IN DRIVE, AND IT WILL ALSO KEEP MOVING WITH THE ENGINE STOPPED WITHOUT SOMEONE DRIVING. *SS  THE CONSUMER STATED HE WAS ABLE TO BRING THE VEHICLE TO A STANDSTILL ON A SLOP., WHILE THE VEHICLE WAS STILL IN DRIVE, HE WAS",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "45 reports (12%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 32,
+        "crash": 16,
+        "fire": 0,
+        "injuries": 18,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2016 HONDA CR-V. WHILE REVERSING AT 10 MPH, ANOTHER VEHICLE CRASHED INTO THE REAR DRIVER SIDE OF THE CONTACT'S VEHICLE. THE CONTACT'S VEHICLE FLIPPED OVER ON THE PASSENGER SIDE WITHOUT WARNING. THE SIDE AIR BAGS DEPLOYED AND A POLICE REPORT WAS FILED. THE ",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "32 reports (8%) · 16 crash · 18 injured"
+      }
+    ]
+  }
+}

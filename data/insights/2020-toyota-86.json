@@ -1,0 +1,62 @@
+{
+  "slug": "2020-toyota-86",
+  "make": "Toyota",
+  "model": "86",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/86#complaints",
+  "generatedAt": "2026-06-23T16:41:12.654Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Note:  even though this is a Toyota vehicle, it has a Subaru Boxer 4 engine.   This issue has happened twice this year, once at a stoplight back on May 20 and again Oct. 16 while in line at a Chic Filet.  In both cases pressing the brake harder helped keep me from moving forward.",
+      "pct": 100
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Note:  even though this is a Toyota vehicle, it has a Subaru Boxer 4 engine.   This issue has happened twice this year, once at a stoplight back on May 20 and again Oct. 16 while in line at a Chic Filet.  In both cases pressing the brake harder helped keep me from moving forward.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Toyota 86 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Note:  even though this is a Toyota vehicle, it has a Subaru Boxer 4 engine.   This issue has happened twice this year, once at a stoplight back on May 20 and again Oct. 16 while in line at a Chic Filet.  In both cases pressing the brake harder helped keep me from moving forward.",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Note:  even though this is a Toyota vehicle, it has a Subaru Boxer 4 engine.   This issue has happened twice this year, once at a stoplight back on May 20 and again Oct. 16 while in line at a Chic Filet.  In both cases pressing the brake harder helped keep me from moving forward.",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

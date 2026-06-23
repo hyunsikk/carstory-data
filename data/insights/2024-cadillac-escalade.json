@@ -1,0 +1,128 @@
+{
+  "slug": "2024-cadillac-escalade",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CADILLAC/ESCALADE#complaints",
+  "generatedAt": "2026-06-23T16:27:48.403Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I started my Escalade and 5 minutes later I lost power which as the entire vehicle had no power. So I left it alone for an hour or so in my garage and I started up again and this time didn’t loose power. Everything appeared normal and working again. Than the next day I started it",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car started with a rough idle and a check engine light. It was also louder than normal. Driving down the main road approaching a light on the brakes. the light turned green and when I went to hit the gas the car died in the middle of the road. Car would not restart. OBD code ",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1.What component or system failed or malfunctioned, and is it available for inspection upon request? •The primary issue was with the vehicle’s software system, which was incompletely updated on 9/13/24. This has caused the safety features to malfunction. Additionally, the parking",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I started my Escalade and 5 minutes later I lost power which as the entire vehicle had no power. So I left it alone for an hour or so in my garage and I started up again and this time didn’t loose power. Everything appeared normal and working again. Than the next day I started it",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Cadillac Escalade. The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Cadillac Escalade owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I started my Escalade and 5 minutes later I lost power which as the entire vehicle had no power. So I left it alone for an hour or so in my garage and I started up again and this time didn’t loose power. Everything appeared normal and working again. Than the next day I started it",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "26 reports (67%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car started with a rough idle and a check engine light. It was also louder than normal. Driving down the main road approaching a light on the brakes. the light turned green and when I went to hit the gas the car died in the middle of the road. Car would not restart. OBD code ",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1.What component or system failed or malfunctioned, and is it available for inspection upon request? •The primary issue was with the vehicle’s software system, which was incompletely updated on 9/13/24. This has caused the safety features to malfunction. Additionally, the parking",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (13%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I started my Escalade and 5 minutes later I lost power which as the entire vehicle had no power. So I left it alone for an hour or so in my garage and I started up again and this time didn’t loose power. Everything appeared normal and working again. Than the next day I started it",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "5 reports (13%) · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Cadillac Escalade. The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer ",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

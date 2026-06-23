@@ -1,0 +1,106 @@
+{
+  "slug": "2019-jaguar-f-type",
+  "make": "Jaguar",
+  "model": "F-TYPE",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/JAGUAR/F-TYPE#complaints",
+  "generatedAt": "2026-06-23T16:35:13.153Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle: 2019 Jaguar F-Type Purchase Date: September 2018 Component/System: Engine – Fuel Injection / Powertrain Mileage at Most Recent Failure: 20,763  Description:  My 2019 Jaguar F-Type has experienced recurring engine issues related to fuel injector failures, causing safety r",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle: 2019 Jaguar F-Type Purchase Date: September 2018 Component/System: Engine – Fuel Injection / Powertrain Mileage at Most Recent Failure: 20,763  Description:  My 2019 Jaguar F-Type has experienced recurring engine issues related to fuel injector failures, causing safety r",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle: 2019 Jaguar F-Type Purchase Date: September 2018 Component/System: Engine – Fuel Injection / Powertrain Mileage at Most Recent Failure: 20,763  Description:  My 2019 Jaguar F-Type has experienced recurring engine issues related to fuel injector failures, causing safety r",
+      "pct": 67
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a known issue with a piece inside of the drivers side headlight assembly causing the DRL and blinker to be very dim to where it is difficult to see in the daylight.  The known failure is a piece inside called the Oculator.  It apparently burns and melts causing the led l",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Jaguar F-Type owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (67% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle: 2019 Jaguar F-Type Purchase Date: September 2018 Component/System: Engine – Fuel Injection / Powertrain Mileage at Most Recent Failure: 20,763  Description:  My 2019 Jaguar F-Type has experienced recurring engine issues related to fuel injector failures, causing safety r",
+        "pct": 67,
+        "title": "Power Train",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle: 2019 Jaguar F-Type Purchase Date: September 2018 Component/System: Engine – Fuel Injection / Powertrain Mileage at Most Recent Failure: 20,763  Description:  My 2019 Jaguar F-Type has experienced recurring engine issues related to fuel injector failures, causing safety r",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle: 2019 Jaguar F-Type Purchase Date: September 2018 Component/System: Engine – Fuel Injection / Powertrain Mileage at Most Recent Failure: 20,763  Description:  My 2019 Jaguar F-Type has experienced recurring engine issues related to fuel injector failures, causing safety r",
+        "pct": 67,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a known issue with a piece inside of the drivers side headlight assembly causing the DRL and blinker to be very dim to where it is difficult to see in the daylight.  The known failure is a piece inside called the Oculator.  It apparently burns and melts causing the led l",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

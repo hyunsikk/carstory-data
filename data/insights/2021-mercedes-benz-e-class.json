@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mercedes-benz-e-class",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MERCEDES-BENZ/E-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:25.013Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 MERCEDES-BENZ E450. THE CONTACT STATED THAT WHILE STATIONARY, THE INSTRUMENT PANEL DISPLAYED A MESSAGE INDICATING THAT THE VEHICLE HAD CRASHED. AFTER THE MESSAGE WAS DISPLAYED, THE VEHICLE LOSS MOTIVE POWER. THE VEHICLE WAS TOWED TO MERCEDES-BENZ OF FR",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT THIS CAR ON 12/12/2021 AND TWO WEEKS AFTER THAT, THE CAR HAD WARNING MESSAGE ON DASHBOARD \"COOLANT TOO HOT, STOP THE VEHICLE\" ON THE HIGHWAY -NJ TUNPIKE. IT STARTED SLOWING DOWN ON ITS OWN TO BELOW 20MPH, NEARLY KILLED ME WHILE I TRIED TO PULL IT OVER. THEN THE DEALER SE",
+      "pct": 32
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When in reverse, sometimes the rearview camera image does not come and and the parking sensors do not work.   An inoperative rearview camera display and/or parking sensors can reduce the driver’s view and awareness of what is behind the vehicle, increasing the risk of a crash.  T",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine is misfiring and not powering correctly during driving. Car is failing to take off and today almost caused an accident due to the car would not pull off from the traffic light with oncoming traffic due to loss of power.  Safety was at risk due to an accident was almost",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Mercedes E350, with 22,000 miles suffered a catastrophic transmission failure while driving on the highway. I managed to exit the highway but the car could not be moved and left me stranded.",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mercedes-Benz E-Class owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Electrical System (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 MERCEDES-BENZ E450. THE CONTACT STATED THAT WHILE STATIONARY, THE INSTRUMENT PANEL DISPLAYED A MESSAGE INDICATING THAT THE VEHICLE HAD CRASHED. AFTER THE MESSAGE WAS DISPLAYED, THE VEHICLE LOSS MOTIVE POWER. THE VEHICLE WAS TOWED TO MERCEDES-BENZ OF FR",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "7 reports (37%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT THIS CAR ON 12/12/2021 AND TWO WEEKS AFTER THAT, THE CAR HAD WARNING MESSAGE ON DASHBOARD \"COOLANT TOO HOT, STOP THE VEHICLE\" ON THE HIGHWAY -NJ TUNPIKE. IT STARTED SLOWING DOWN ON ITS OWN TO BELOW 20MPH, NEARLY KILLED ME WHILE I TRIED TO PULL IT OVER. THEN THE DEALER SE",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "6 reports (32%) · 1 fire"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When in reverse, sometimes the rearview camera image does not come and and the parking sensors do not work.   An inoperative rearview camera display and/or parking sensors can reduce the driver’s view and awareness of what is behind the vehicle, increasing the risk of a crash.  T",
+        "pct": 16,
+        "title": "Back Over Prevention",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine is misfiring and not powering correctly during driving. Car is failing to take off and today almost caused an accident due to the car would not pull off from the traffic light with oncoming traffic due to loss of power.  Safety was at risk due to an accident was almost",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Mercedes E350, with 22,000 miles suffered a catastrophic transmission failure while driving on the highway. I managed to exit the highway but the car could not be moved and left me stranded.",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/GENESIS/G70#complaints",
+  "generatedAt": "2026-06-23T16:30:57.367Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have been trying to get a dealership to service our recall for months. We were told they don't do them at a few Genesis dealerships in the area and then one told they don't  have the the parts and to check back with them and that was months ago and the still don't have what's ",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Genesis G70. The contact stated that while driving at an undisclosed speed, the traction control, ABS, Auto Hold, and motion sensor warning lights were illuminated. The vehicle was not diagnosed or repaired. The dealer was notified of the failure and an ap",
+      "pct": 17
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On or about May 2022, and after on 8,000 miles driven, noticed severe \"chunking\", or tread peeling, on both front tires of my 2020 Genesis G70 purchased October 2020 from Genesis Puerto Rico, located at Plaza Las Americas, San Juan, Puerto Rico. The tread on both tires was coming",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 2/17/2026 I was driving from my home to a fast food restaurant one mile away from my home. After picking up the food I dropped the food off about 3 miles down the road to my family member at their work and drove the 3.3 miles back from my family members work to my home. I arri",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Genesis G70. The contact received notification of NHTSA Campaign Number: 24V191000 (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of ti",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Genesis G70 owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have been trying to get a dealership to service our recall for months. We were told they don't do them at a few Genesis dealerships in the area and then one told they don't  have the the parts and to check back with them and that was months ago and the still don't have what's ",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (25%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Genesis G70. The contact stated that while driving at an undisclosed speed, the traction control, ABS, Auto Hold, and motion sensor warning lights were illuminated. The vehicle was not diagnosed or repaired. The dealer was notified of the failure and an ap",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "2 reports (17%) · 1 fire"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On or about May 2022, and after on 8,000 miles driven, noticed severe \"chunking\", or tread peeling, on both front tires of my 2020 Genesis G70 purchased October 2020 from Genesis Puerto Rico, located at Plaza Las Americas, San Juan, Puerto Rico. The tread on both tires was coming",
+        "pct": 17,
+        "title": "Tires",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 2/17/2026 I was driving from my home to a fast food restaurant one mile away from my home. After picking up the food I dropped the food off about 3 miles down the road to my family member at their work and drove the 3.3 miles back from my family members work to my home. I arri",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "1 report (8%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Genesis G70. The contact received notification of NHTSA Campaign Number: 24V191000 (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of ti",
+        "pct": 8,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

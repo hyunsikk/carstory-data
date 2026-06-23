@@ -1,0 +1,128 @@
+{
+  "slug": "2024-bmw-x3",
+  "make": "BMW",
+  "model": "X3",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/X3#complaints",
+  "generatedAt": "2026-06-23T16:27:02.275Z",
+  "total": 32,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The digital instrument cluster that displays the speedometer and other information will occasionally not illuminate when the car is started leaving the driver unable to know how fast they are going. This is so dangerous. This has happened to me at least 4 times in the past 6 mont",
+      "pct": 22
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There are no audible alerts and insufficient visual alerts to indicate when cross traffic is approaching from the rear left or rear right of the vehicle while backing up. The functionality only works when there is a blind spot to the immediate right or left of the vehicle. This i",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My vehicle doesn't warn me about rear cross-traffic or it stops for emergency. I paid for this option. Delaer checked the system and reassured me that everything is working. I have to backup to a busy street a few times a day and this system is not protecting me and I am afraid t",
+      "pct": 13
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X3. The contact stated that while making a left turn at 20 MPH, a warning chime sounded followed by an alert on the instrument panel which indicated that the rear passenger’s side door had opened with a child strapped in a car seat by the door. The con",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was entering 4-lane highway from a side street. While accelerating, the engine suddenly stopped.  The dashboard went black, except for a red outline of the car.  In the second or two that I was looking for a place to get off the highway, the car restarted, and all indicators re",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw X3 owners report most",
+    "summary": "Across 32 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The digital instrument cluster that displays the speedometer and other information will occasionally not illuminate when the car is started leaving the driver unable to know how fast they are going. This is so dangerous. This has happened to me at least 4 times in the past 6 mont",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "7 reports (22%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There are no audible alerts and insufficient visual alerts to indicate when cross traffic is approaching from the rear left or rear right of the vehicle while backing up. The functionality only works when there is a blind spot to the immediate right or left of the vehicle. This i",
+        "pct": 19,
+        "title": "Back Over Prevention",
+        "blurb": "6 reports (19%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My vehicle doesn't warn me about rear cross-traffic or it stops for emergency. I paid for this option. Delaer checked the system and reassured me that everything is working. I have to backup to a busy street a few times a day and this system is not protecting me and I am afraid t",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (13%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X3. The contact stated that while making a left turn at 20 MPH, a warning chime sounded followed by an alert on the instrument panel which indicated that the rear passenger’s side door had opened with a child strapped in a car seat by the door. The con",
+        "pct": 13,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was entering 4-lane highway from a side street. While accelerating, the engine suddenly stopped.  The dashboard went black, except for a red outline of the car.  In the second or two that I was looking for a place to get off the highway, the car restarted, and all indicators re",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "3 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

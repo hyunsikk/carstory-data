@@ -1,0 +1,106 @@
+{
+  "slug": "2022-fiat-500x",
+  "make": "Fiat",
+  "model": "500X",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FIAT/500X#complaints",
+  "generatedAt": "2026-06-23T16:42:43.866Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 50
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On multiple occasions, my 2022 Fiat, while cruising at 55 mph, crests a hill and begins down when the engine increases from 2000 rpm to 4200 rpm and speed increases 9-10 mph almost immediately. A driver is caught unaware and must brake back to the normal speed limit. No other veh",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Fiat 500x owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 50,
+        "title": "Seat Belts",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On multiple occasions, my 2022 Fiat, while cruising at 55 mph, crests a hill and begins down when the engine increases from 2000 rpm to 4200 rpm and speed increases 9-10 mph almost immediately. A driver is caught unaware and must brake back to the normal speed limit. No other veh",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

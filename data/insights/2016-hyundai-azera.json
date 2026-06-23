@@ -1,0 +1,128 @@
+{
+  "slug": "2016-hyundai-azera",
+  "make": "Hyundai",
+  "model": "Azera",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/HYUNDAI/AZERA#complaints",
+  "generatedAt": "2026-06-23T16:33:08.180Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2016 HYUNDAI AZERA. WHILE THE VEHICLE WAS STOPPED, IT BEGAN TO ACCELERATE INDEPENDENTLY AND CRASHED INTO A TRAIN. THE BRAKE PEDAL WAS DEPRESSED, BUT THE VEHICLE DID NOT RESPOND. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS FILED AND THERE WERE NO INJUR",
+      "pct": 23
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE STEERING SEEMS TO \"LOCK\" OR STICK IN POSITION WHILE DRIVING. IT SOMETIME TAKES CONSIDERABLE FORCE TO MAKE THE STEERING TURN,. THE ACTION NEEDED TO \"BREAK\" THE STEERING FREE CAUSES THE VEHICLE TO SWERVE.  AT HIGHWAY SPEED, ESPECIALLY UNDER SLIPPERY CONDITIONS, THIS COULD CAUSE",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Moonroof- I opened my moonroof and when I tried to close it, the sunshade would not retract - it is hanging - causing me not to be able to see the back window when looking through my rear view mirror.  I brought to a body shop and they said it is a design flaw.  Now they want $1,",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine overheating without Engine light or any other safety alerts until Engine finally failed",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 Hyundai Azera. The contact stated that the heating system was inoperable. The vehicle was taken to two Goodyear Auto Repair Shops, where it was diagnosed with a head gasket leak. One of the Goodyear facilities replaced the thermostat and the radiator. The ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Hyundai Azera owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Air Bags (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2016 HYUNDAI AZERA. WHILE THE VEHICLE WAS STOPPED, IT BEGAN TO ACCELERATE INDEPENDENTLY AND CRASHED INTO A TRAIN. THE BRAKE PEDAL WAS DEPRESSED, BUT THE VEHICLE DID NOT RESPOND. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS FILED AND THERE WERE NO INJUR",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "3 reports (23%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE STEERING SEEMS TO \"LOCK\" OR STICK IN POSITION WHILE DRIVING. IT SOMETIME TAKES CONSIDERABLE FORCE TO MAKE THE STEERING TURN,. THE ACTION NEEDED TO \"BREAK\" THE STEERING FREE CAUSES THE VEHICLE TO SWERVE.  AT HIGHWAY SPEED, ESPECIALLY UNDER SLIPPERY CONDITIONS, THIS COULD CAUSE",
+        "pct": 23,
+        "title": "Steering",
+        "blurb": "3 reports (23%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Moonroof- I opened my moonroof and when I tried to close it, the sunshade would not retract - it is hanging - causing me not to be able to see the back window when looking through my rear view mirror.  I brought to a body shop and they said it is a design flaw.  Now they want $1,",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine overheating without Engine light or any other safety alerts until Engine finally failed",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 Hyundai Azera. The contact stated that the heating system was inoperable. The vehicle was taken to two Goodyear Auto Repair Shops, where it was diagnosed with a head gasket leak. One of the Goodyear facilities replaced the thermostat and the radiator. The ",
+        "pct": 8,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2016-toyota-mirai",
+  "make": "Toyota",
+  "model": "Mirai",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/TOYOTA/MIRAI#complaints",
+  "generatedAt": "2026-06-23T16:45:43.344Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "HYDROGEN VEHICLE NOT RELIABLE IN Orange County, CA. ALSO THE VEHICLE MILAGE IS EXTREMELY POOR, HAVING TO FILL UP ABOUT EVERY 2-3 DAYS. LESS THAN 150 MILES PER TANK EASILY. VEHICLE CONSISTENTLY HAS TO BE TOWED WHEN STATIONS ARE DOWN. HYDROGEN STATIONS WERE DOWN MOST OF APRIL, TOYO",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR LOSS ACCELERATION TWICE DURING DRIVING.     ACCELERATION ISSUE WAS REPORTED TO TOYOTA IN OCT 2018  ACCELERATION ISSUE WAS REPORTED TO TOYOTA IN MAR 2019    I HAVE EMAIL DOCUMENTATION THAT THE CAR WAS TAKEN TO LONGO TOYOTA TO REVIEW, TOYOTA MOTOR NORTH AMERICA (TMNA) WAS ASKED",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Toyota Mirai owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "HYDROGEN VEHICLE NOT RELIABLE IN Orange County, CA. ALSO THE VEHICLE MILAGE IS EXTREMELY POOR, HAVING TO FILL UP ABOUT EVERY 2-3 DAYS. LESS THAN 150 MILES PER TANK EASILY. VEHICLE CONSISTENTLY HAS TO BE TOWED WHEN STATIONS ARE DOWN. HYDROGEN STATIONS WERE DOWN MOST OF APRIL, TOYO",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%) · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR LOSS ACCELERATION TWICE DURING DRIVING.     ACCELERATION ISSUE WAS REPORTED TO TOYOTA IN OCT 2018  ACCELERATION ISSUE WAS REPORTED TO TOYOTA IN MAR 2019    I HAVE EMAIL DOCUMENTATION THAT THE CAR WAS TAKEN TO LONGO TOYOTA TO REVIEW, TOYOTA MOTOR NORTH AMERICA (TMNA) WAS ASKED",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-sportage",
+  "make": "Kia",
+  "model": "Sportage",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/SPORTAGE#complaints",
+  "generatedAt": "2026-06-23T16:37:00.524Z",
+  "total": 179,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 42,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "One week after buying the brand new 2023 Kia Sportage, 6 warning signs popped up on the screen. They were to \"Check the Forward Collision System,\" \"Check the Bind Spot System,\" and 4 more of the safety features. In addition, the Check Engine light turning on, other warning signs ",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 35,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "My warning light & description for check AWD/4WD started coming on after the first road trip. It then came on everytime I drove the vehicle. Now the dealership service department is dealing with the main KIA maintenance to determine why the light comes on every time the vehicle i",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "One week after buying the brand new 2023 Kia Sportage, 6 warning signs popped up on the screen. They were to \"Check the Forward Collision System,\" \"Check the Bind Spot System,\" and 4 more of the safety features. In addition, the Check Engine light turning on, other warning signs ",
+      "pct": 19
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 24,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "For the two months I have had my car I have had problems with indicators going off on my dashboard warning to check various parts of the driver’s assistance system. I took it to the dealership three times and was told they cannot help because when they had the car for three days ",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Numerous times our AWD system has failed to work at all and reverts to standard FWD, even while actively driving down the highway in a blizzard! KIA has had it in the shop a minimum of three times for this same issue since we bought it earlier this summer. Now that winter has com",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Sportage owners report most",
+    "summary": "Across 179 owner complaints to NHTSA, the most reported area is Electrical System (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 42,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "One week after buying the brand new 2023 Kia Sportage, 6 warning signs popped up on the screen. They were to \"Check the Forward Collision System,\" \"Check the Bind Spot System,\" and 4 more of the safety features. In addition, the Check Engine light turning on, other warning signs ",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "42 reports (23%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 35,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "My warning light & description for check AWD/4WD started coming on after the first road trip. It then came on everytime I drove the vehicle. Now the dealership service department is dealing with the main KIA maintenance to determine why the light comes on every time the vehicle i",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "35 reports (20%) · 8 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "One week after buying the brand new 2023 Kia Sportage, 6 warning signs popped up on the screen. They were to \"Check the Forward Collision System,\" \"Check the Bind Spot System,\" and 4 more of the safety features. In addition, the Check Engine light turning on, other warning signs ",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "34 reports (19%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 24,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "For the two months I have had my car I have had problems with indicators going off on my dashboard warning to check various parts of the driver’s assistance system. I took it to the dealership three times and was told they cannot help because when they had the car for three days ",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "24 reports (13%) · 7 crash · 4 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Numerous times our AWD system has failed to work at all and reverts to standard FWD, even while actively driving down the highway in a blizzard! KIA has had it in the shop a minimum of three times for this same issue since we bought it earlier this summer. Now that winter has com",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "17 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

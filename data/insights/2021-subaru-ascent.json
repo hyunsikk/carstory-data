@@ -1,0 +1,128 @@
+{
+  "slug": "2021-subaru-ascent",
+  "make": "Subaru",
+  "model": "Ascent",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/SUBARU/ASCENT#complaints",
+  "generatedAt": "2026-06-23T16:40:35.276Z",
+  "total": 96,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT 1667 MILES ON MY BRAND NEW SUBARU ASCENT THE BATTERY WAS COMPLETELY DRAINED WHILE MY WIFE WAS OUT SHOPPING. THE BATTERY NEEDED TO BE REPLACED. NO CHARGE TO ME, HOWEVER AT 1667 MILES THAT IS AN ISSUE. THERE IS A DEAD SUBARU ASCENT BATTERY CLUB THAT N FACEBOOK DEDICATED TO THIS ",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When operating the 2021 Ascent, I experience intermittent problems at various shift-points in the CVT and at various RPMs.  The transmission seems to shudder and slip between shift-points, and the shuddering sensation is so severe that it transfers up through the steering column ",
+      "pct": 17
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WANDERS ON THE HIGHWAY.  WHEN PASSING A VEHICLE ON THE ROAD THE LANE CENTERING ASSIST TRIES TO HUG THE CENTERLINE AND THE DRIVER MUST KEEP PULLING HE VEHICLE BACK TO THE CENTER OF THE PASSING LANE.  A SHORT LAPSE OF STEERING COULD PULL THE VEHICLE INTO THE SIDE OF THE VEH",
+      "pct": 16
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OUR WINDSHIELD ALREADY HAS NUMEROUS CHIPS AND ONE CRACK THAT WE REPAIRED.  WE HAVE ONLY HAD THIS CAR SINCE OCTOBER BUT IT SEEMS LIKE THE WINDSHIELD IS VERY BRITTLE.  WE HAVE HAD SOME WINTER WEATHER LATELY SO THERE WAS EXCESSIVE JUNK IN THE ROAD AND SAND BUT OUR OTHER VEHICLES HAV",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I found a lot of oil leaking from the oil filter cup and that would splash all around the filter area. I brought the car at the dealership and they have replaced the filter  but when I checked after few days ( smoke was coming out of the hood) there was oil all over again. I boug",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Subaru Ascent owners report most",
+    "summary": "Across 96 owner complaints to NHTSA, the most reported area is Electrical System (18% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT 1667 MILES ON MY BRAND NEW SUBARU ASCENT THE BATTERY WAS COMPLETELY DRAINED WHILE MY WIFE WAS OUT SHOPPING. THE BATTERY NEEDED TO BE REPLACED. NO CHARGE TO ME, HOWEVER AT 1667 MILES THAT IS AN ISSUE. THERE IS A DEAD SUBARU ASCENT BATTERY CLUB THAT N FACEBOOK DEDICATED TO THIS ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "17 reports (18%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When operating the 2021 Ascent, I experience intermittent problems at various shift-points in the CVT and at various RPMs.  The transmission seems to shudder and slip between shift-points, and the shuddering sensation is so severe that it transfers up through the steering column ",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "16 reports (17%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WANDERS ON THE HIGHWAY.  WHEN PASSING A VEHICLE ON THE ROAD THE LANE CENTERING ASSIST TRIES TO HUG THE CENTERLINE AND THE DRIVER MUST KEEP PULLING HE VEHICLE BACK TO THE CENTER OF THE PASSING LANE.  A SHORT LAPSE OF STEERING COULD PULL THE VEHICLE INTO THE SIDE OF THE VEH",
+        "pct": 16,
+        "title": "Lane Departure",
+        "blurb": "15 reports (16%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OUR WINDSHIELD ALREADY HAS NUMEROUS CHIPS AND ONE CRACK THAT WE REPAIRED.  WE HAVE ONLY HAD THIS CAR SINCE OCTOBER BUT IT SEEMS LIKE THE WINDSHIELD IS VERY BRITTLE.  WE HAVE HAD SOME WINTER WEATHER LATELY SO THERE WAS EXCESSIVE JUNK IN THE ROAD AND SAND BUT OUR OTHER VEHICLES HAV",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "14 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I found a lot of oil leaking from the oil filter cup and that would splash all around the filter area. I brought the car at the dealership and they have replaced the filter  but when I checked after few days ( smoke was coming out of the hood) there was oil all over again. I boug",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "9 reports (9%) · 1 fire"
+      }
+    ]
+  }
+}

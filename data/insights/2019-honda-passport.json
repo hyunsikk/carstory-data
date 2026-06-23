@@ -1,0 +1,128 @@
+{
+  "slug": "2019-honda-passport",
+  "make": "Honda",
+  "model": "Passport",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/PASSPORT#complaints",
+  "generatedAt": "2026-06-23T16:32:41.901Z",
+  "total": 267,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 84,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE RETURNED TODAY FOR THE THIRD TIME. SAME ISSUES: WILL NOT COME OUT OF PARK, 10 WARNINGS. LET VEHICLE RUN ABOUT 15 MINUTES, TURN OFF, GO INSIDE FOR ABOUT 15 MINUTES, RESTART VEHICLE, 7 WARNINGS AND NOW CAN GET INTO DRIVE. ONE ADDED ISSUE: AT THE DEALERSHIP WHEN CLOSING THE ",
+      "pct": 31
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 50,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN DRIVING THIS VEHICLE ON A TWO LANE ROAD, THE VEHICLE WILL GIVE FALSE FORWARD COLLISION ALERTS FROM ONCOMING VEHICLES IN THE OPPOSING LANE.  WHEN DRIVING ON A FOUR LANE HIGHWAY WITH ADAPTIVE CRUISE CONTROL ENGAGED, VEHICLES DRIVING SLOWER IN THE LANE TO YOUR LEFT WILL CAUSE T",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 48,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WITH LESS THAN 1000 MILES.  ENGINE STALLED DURING MOTION APPROX 70 MPH.  FORCED TO PULL OVER AND RESTART ENGINE BUT WAS UNABLE TO PUT INTO DRIVE BUT AFTER A MINUTE WAS SUCCESSFUL IN STARTING.  ENGINE STALLED TWO MORE TIMES AFTER AND EACH TIME MORE ERRORS WERE REPORTED ON ",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE RETURNED TODAY FOR THE THIRD TIME. SAME ISSUES: WILL NOT COME OUT OF PARK, 10 WARNINGS. LET VEHICLE RUN ABOUT 15 MINUTES, TURN OFF, GO INSIDE FOR ABOUT 15 MINUTES, RESTART VEHICLE, 7 WARNINGS AND NOW CAN GET INTO DRIVE. ONE ADDED ISSUE: AT THE DEALERSHIP WHEN CLOSING THE ",
+      "pct": 9
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 24,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Honda Passport. The contact stated that while at a stop light, the fuel saving feature activated; however, the vehicle would not restart after releasing the brake pedal. The contact manually restarted the vehicle and continued driving. The vehicle was take",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Honda Passport owners report most",
+    "summary": "Across 267 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 84,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE RETURNED TODAY FOR THE THIRD TIME. SAME ISSUES: WILL NOT COME OUT OF PARK, 10 WARNINGS. LET VEHICLE RUN ABOUT 15 MINUTES, TURN OFF, GO INSIDE FOR ABOUT 15 MINUTES, RESTART VEHICLE, 7 WARNINGS AND NOW CAN GET INTO DRIVE. ONE ADDED ISSUE: AT THE DEALERSHIP WHEN CLOSING THE ",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "84 reports (31%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 50,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN DRIVING THIS VEHICLE ON A TWO LANE ROAD, THE VEHICLE WILL GIVE FALSE FORWARD COLLISION ALERTS FROM ONCOMING VEHICLES IN THE OPPOSING LANE.  WHEN DRIVING ON A FOUR LANE HIGHWAY WITH ADAPTIVE CRUISE CONTROL ENGAGED, VEHICLES DRIVING SLOWER IN THE LANE TO YOUR LEFT WILL CAUSE T",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "50 reports (19%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 48,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WITH LESS THAN 1000 MILES.  ENGINE STALLED DURING MOTION APPROX 70 MPH.  FORCED TO PULL OVER AND RESTART ENGINE BUT WAS UNABLE TO PUT INTO DRIVE BUT AFTER A MINUTE WAS SUCCESSFUL IN STARTING.  ENGINE STALLED TWO MORE TIMES AFTER AND EACH TIME MORE ERRORS WERE REPORTED ON ",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "48 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE RETURNED TODAY FOR THE THIRD TIME. SAME ISSUES: WILL NOT COME OUT OF PARK, 10 WARNINGS. LET VEHICLE RUN ABOUT 15 MINUTES, TURN OFF, GO INSIDE FOR ABOUT 15 MINUTES, RESTART VEHICLE, 7 WARNINGS AND NOW CAN GET INTO DRIVE. ONE ADDED ISSUE: AT THE DEALERSHIP WHEN CLOSING THE ",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "25 reports (9%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 24,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Honda Passport. The contact stated that while at a stop light, the fuel saving feature activated; however, the vehicle would not restart after releasing the brake pedal. The contact manually restarted the vehicle and continued driving. The vehicle was take",
+        "pct": 9,
+        "title": "Fuel System",
+        "blurb": "24 reports (9%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

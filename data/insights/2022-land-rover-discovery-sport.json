@@ -1,0 +1,106 @@
+{
+  "slug": "2022-land-rover-discovery-sport",
+  "make": "Land Rover",
+  "model": "Discovery Sport",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LAND%20ROVER/DISCOVERY%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:07.525Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Started car, placed transmission in 'reverse' and backed up into a public thoroughfare zone thinking enough time was alloted to place vehicle in 'drive' and merge into traffic. Car would not go into 'drive' nor would it go back into 'reverse' let alone 'neutral. So after realizin",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear cameras(3) no access from menu. Shows a red circle crossed out on menu. Car available for inspection.  Backing vehical warning system was working in reverse, accompanied by hazard proximity beeping, but abruptly stopped working after a thorough cleaning.  Suspect water in ca",
+      "pct": 33
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear cameras(3) no access from menu. Shows a red circle crossed out on menu. Car available for inspection.  Backing vehical warning system was working in reverse, accompanied by hazard proximity beeping, but abruptly stopped working after a thorough cleaning.  Suspect water in ca",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear cameras(3) no access from menu. Shows a red circle crossed out on menu. Car available for inspection.  Backing vehical warning system was working in reverse, accompanied by hazard proximity beeping, but abruptly stopped working after a thorough cleaning.  Suspect water in ca",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Land Rover Discovery Sport owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Started car, placed transmission in 'reverse' and backed up into a public thoroughfare zone thinking enough time was alloted to place vehicle in 'drive' and merge into traffic. Car would not go into 'drive' nor would it go back into 'reverse' let alone 'neutral. So after realizin",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear cameras(3) no access from menu. Shows a red circle crossed out on menu. Car available for inspection.  Backing vehical warning system was working in reverse, accompanied by hazard proximity beeping, but abruptly stopped working after a thorough cleaning.  Suspect water in ca",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear cameras(3) no access from menu. Shows a red circle crossed out on menu. Car available for inspection.  Backing vehical warning system was working in reverse, accompanied by hazard proximity beeping, but abruptly stopped working after a thorough cleaning.  Suspect water in ca",
+        "pct": 33,
+        "title": "Lane Departure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear cameras(3) no access from menu. Shows a red circle crossed out on menu. Car available for inspection.  Backing vehical warning system was working in reverse, accompanied by hazard proximity beeping, but abruptly stopped working after a thorough cleaning.  Suspect water in ca",
+        "pct": 33,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

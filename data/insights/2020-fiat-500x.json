@@ -1,0 +1,84 @@
+{
+  "slug": "2020-fiat-500x",
+  "make": "Fiat",
+  "model": "500X",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/FIAT/500X#complaints",
+  "generatedAt": "2026-06-23T16:42:43.497Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have an open recall related to the activation system for the airbags. I have not had an event related to the recall at this time, however I am stationed in South Korea as an active duty member. My car is with me in South Korea, and there are no Fiat dealerships in country.   I ",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DE EL MAP SENSOR. _SE PRO7EDIO A REEMPLAZAR EL MAP SENSOR. CODIGO VOLVIO A PRESENTARSE. DIAGNOST7CO INDICA QUE SI EL CODIGO VULVE REEMPLAZAR EL THROTTLE. SE PR~CEDIO . REEMPLAZAR EL THRTTLE DE LA UNIDAD. SE PROCEDIO A CORRER UNIDAD. UNIDAD NO VOLVIO A PRESENTAR CONDICION. UNIDAD ",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DE EL MAP SENSOR. _SE PRO7EDIO A REEMPLAZAR EL MAP SENSOR. CODIGO VOLVIO A PRESENTARSE. DIAGNOST7CO INDICA QUE SI EL CODIGO VULVE REEMPLAZAR EL THROTTLE. SE PR~CEDIO . REEMPLAZAR EL THRTTLE DE LA UNIDAD. SE PROCEDIO A CORRER UNIDAD. UNIDAD NO VOLVIO A PRESENTAR CONDICION. UNIDAD ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Fiat 500x owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have an open recall related to the activation system for the airbags. I have not had an event related to the recall at this time, however I am stationed in South Korea as an active duty member. My car is with me in South Korea, and there are no Fiat dealerships in country.   I ",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DE EL MAP SENSOR. _SE PRO7EDIO A REEMPLAZAR EL MAP SENSOR. CODIGO VOLVIO A PRESENTARSE. DIAGNOST7CO INDICA QUE SI EL CODIGO VULVE REEMPLAZAR EL THROTTLE. SE PR~CEDIO . REEMPLAZAR EL THRTTLE DE LA UNIDAD. SE PROCEDIO A CORRER UNIDAD. UNIDAD NO VOLVIO A PRESENTAR CONDICION. UNIDAD ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DE EL MAP SENSOR. _SE PRO7EDIO A REEMPLAZAR EL MAP SENSOR. CODIGO VOLVIO A PRESENTARSE. DIAGNOST7CO INDICA QUE SI EL CODIGO VULVE REEMPLAZAR EL THROTTLE. SE PR~CEDIO . REEMPLAZAR EL THRTTLE DE LA UNIDAD. SE PROCEDIO A CORRER UNIDAD. UNIDAD NO VOLVIO A PRESENTAR CONDICION. UNIDAD ",
+        "pct": 50,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

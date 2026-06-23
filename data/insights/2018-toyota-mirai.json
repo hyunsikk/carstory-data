@@ -1,0 +1,84 @@
+{
+  "slug": "2018-toyota-mirai",
+  "make": "Toyota",
+  "model": "Mirai",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/TOYOTA/MIRAI#complaints",
+  "generatedAt": "2026-06-23T16:45:43.724Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own a 2018 Toyota Mirai in California financed through Toyota Financial.  The vehicle relies on hydrogen fuel, but hydrogen stations in California are frequently unavailable or offline. Many stations are closed or out of fuel for extended periods.  In addition, the price of hyd",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On several occasions the Toyota Mirai would slam on the brakes on its own while at a considerable speed with no other cars around. It was very scary and concerning traveling at high speeds and the brakes being applied abruptly automatically.",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On several occasions the Toyota Mirai would slam on the brakes on its own while at a considerable speed with no other cars around. It was very scary and concerning traveling at high speeds and the brakes being applied abruptly automatically.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Toyota Mirai owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own a 2018 Toyota Mirai in California financed through Toyota Financial.  The vehicle relies on hydrogen fuel, but hydrogen stations in California are frequently unavailable or offline. Many stations are closed or out of fuel for extended periods.  In addition, the price of hyd",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On several occasions the Toyota Mirai would slam on the brakes on its own while at a considerable speed with no other cars around. It was very scary and concerning traveling at high speeds and the brakes being applied abruptly automatically.",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On several occasions the Toyota Mirai would slam on the brakes on its own while at a considerable speed with no other cars around. It was very scary and concerning traveling at high speeds and the brakes being applied abruptly automatically.",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

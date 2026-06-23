@@ -1,0 +1,128 @@
+{
+  "slug": "2017-audi-q5",
+  "make": "Audi",
+  "model": "Q5",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/Q5#complaints",
+  "generatedAt": "2026-06-23T16:25:58.196Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 AUDI Q5. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V229000 (ENGINE AND ENGINE COOLING); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECA",
+      "pct": 45
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CHECK ENGINE FUEL SYSTEM ALARM WARNING LIGHT - WITH CAUTION TO DRIVE BELOW 35 MPH AND IMMEDIATELY TO SERVICE CENTER. SERVICE CENTER SAYS THEY FOUND NOTHING WRONG. THEN READ AP REPORT ON FUEL CLOGGING AND FIRES. THIS VEHICLE HAD A PREVIOUS RECALL BUT WE NEVER GOT A WARNING OR LETT",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON THURSDAY MARCH 16TH APPROX AROUND 6 PM, I WAS DRIVING BACK HOME FROM WORK. WHEN I TRIED TO STOP THE CAR AT A STOP LIGHT (DRIVING APPROX 40-45 MILES/HR SPEED ON A STRAIGHT ROAD) BY PUSHING THE BREAK PEDAL THE VEHICLE SLOWED DOWN, BUT FAILED TO STOP COMPLETELY AND CONTINUED TO R",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECEIVED A RECALL RELATED TO ELECTRIC COOLANT PUMP IN JUNE.  PARTS NOT AVAILABLE.  CALLED MY DEALER PRINCETON AUDI AND NO HELP.  RECEIVED SECOND NOTICE REGARDING THIS IN SEPTEMBER, THAT AUDI HAD AN 'INTERIM FIX\" AND ADVISED ME TO CONTACT PRINCETON AUDI AGAIN.  I DID, BUT THEY DID",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1st occurrence(9/17/21): While traveling the power steering failed. I stopped roadside to check to make sure there were no issues with tires. I resumed traveling and found steering to be stiff and over steer(feeling as if the wheels tilted) when turning left or right. After stopp",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi Q5 owners report most",
+    "summary": "Across 42 owner complaints to NHTSA, the most reported area is Engine (45% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 AUDI Q5. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V229000 (ENGINE AND ENGINE COOLING); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECA",
+        "pct": 45,
+        "title": "Engine",
+        "blurb": "19 reports (45%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CHECK ENGINE FUEL SYSTEM ALARM WARNING LIGHT - WITH CAUTION TO DRIVE BELOW 35 MPH AND IMMEDIATELY TO SERVICE CENTER. SERVICE CENTER SAYS THEY FOUND NOTHING WRONG. THEN READ AP REPORT ON FUEL CLOGGING AND FIRES. THIS VEHICLE HAD A PREVIOUS RECALL BUT WE NEVER GOT A WARNING OR LETT",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (12%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON THURSDAY MARCH 16TH APPROX AROUND 6 PM, I WAS DRIVING BACK HOME FROM WORK. WHEN I TRIED TO STOP THE CAR AT A STOP LIGHT (DRIVING APPROX 40-45 MILES/HR SPEED ON A STRAIGHT ROAD) BY PUSHING THE BREAK PEDAL THE VEHICLE SLOWED DOWN, BUT FAILED TO STOP COMPLETELY AND CONTINUED TO R",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECEIVED A RECALL RELATED TO ELECTRIC COOLANT PUMP IN JUNE.  PARTS NOT AVAILABLE.  CALLED MY DEALER PRINCETON AUDI AND NO HELP.  RECEIVED SECOND NOTICE REGARDING THIS IN SEPTEMBER, THAT AUDI HAD AN 'INTERIM FIX\" AND ADVISED ME TO CONTACT PRINCETON AUDI AGAIN.  I DID, BUT THEY DID",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1st occurrence(9/17/21): While traveling the power steering failed. I stopped roadside to check to make sure there were no issues with tires. I resumed traveling and found steering to be stiff and over steer(feeling as if the wheels tilted) when turning left or right. After stopp",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

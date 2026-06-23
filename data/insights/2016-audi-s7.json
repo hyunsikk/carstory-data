@@ -1,0 +1,128 @@
+{
+  "slug": "2016-audi-s7",
+  "make": "Audi",
+  "model": "S7",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/S7#complaints",
+  "generatedAt": "2026-06-23T16:43:11.816Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BITURBO FAILURE CAUSED ENGINE TO TURN OFF WITHOUT WARNING AT HIGHWAY SPEEDS. NO POWER. I HAD TO MERGE THROUGH TWO LANES TO THE SHOULDER WITHOUT POWER. CAR WOULD NOT RESTART. I WAS TOLD BY THE DEALER THAT THIS IS A KNOWN PROBLEM AND THAT SOME HAVE BEEN ON FIRE. NEED TO REPLACE THE",
+      "pct": 73
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was driving perfectly fine until last week heading to drop my kids to school and the vehicle stopped on the middle of the street. I had no previous issues or notice. I had multiple warnings on the dashboard and now the car won't crank. I have seen several post with people",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "EXPERIENCED TURBOCHARGER FAILURE WHEN COMING TO A STOP AFTER GETTING OFF THE INTERSTATE AFTER APPROXIMATE 2.5 HOURS OF DRIVING. ENGINE DIED AS CAR SLOWED DOWN SO SUSPECT THE TURBOS FAILED WHILE DRIVING BUT RAM AIR FROM INTERSTATE SPEEDS WAS ADEQUATE TO MAINTAIN THE ENGINE UNTIL I",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Carvana sold me a 2016 Audi S7 (VIN [XXX] ) with what was later discovered to be an odometer discrepancy. I submitted a formal complaint to the Ohio Attorney General, and Carvana subsequently issued a refund.  However, after refunding me, I learned that Carvana resold the vehicle",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was driving perfectly fine until last week heading to drop my kids to school and the vehicle stopped on the middle of the street. I had no previous issues or notice. I had multiple warnings on the dashboard and now the car won't crank. I have seen several post with people",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi S7 owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Engine (73% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BITURBO FAILURE CAUSED ENGINE TO TURN OFF WITHOUT WARNING AT HIGHWAY SPEEDS. NO POWER. I HAD TO MERGE THROUGH TWO LANES TO THE SHOULDER WITHOUT POWER. CAR WOULD NOT RESTART. I WAS TOLD BY THE DEALER THAT THIS IS A KNOWN PROBLEM AND THAT SOME HAVE BEEN ON FIRE. NEED TO REPLACE THE",
+        "pct": 73,
+        "title": "Engine",
+        "blurb": "11 reports (73%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was driving perfectly fine until last week heading to drop my kids to school and the vehicle stopped on the middle of the street. I had no previous issues or notice. I had multiple warnings on the dashboard and now the car won't crank. I have seen several post with people",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "3 reports (20%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "EXPERIENCED TURBOCHARGER FAILURE WHEN COMING TO A STOP AFTER GETTING OFF THE INTERSTATE AFTER APPROXIMATE 2.5 HOURS OF DRIVING. ENGINE DIED AS CAR SLOWED DOWN SO SUSPECT THE TURBOS FAILED WHILE DRIVING BUT RAM AIR FROM INTERSTATE SPEEDS WAS ADEQUATE TO MAINTAIN THE ENGINE UNTIL I",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Carvana sold me a 2016 Audi S7 (VIN [XXX] ) with what was later discovered to be an odometer discrepancy. I submitted a formal complaint to the Ohio Attorney General, and Carvana subsequently issued a refund.  However, after refunding me, I learned that Carvana resold the vehicle",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (7%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was driving perfectly fine until last week heading to drop my kids to school and the vehicle stopped on the middle of the street. I had no previous issues or notice. I had multiple warnings on the dashboard and now the car won't crank. I have seen several post with people",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

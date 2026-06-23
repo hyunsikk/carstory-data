@@ -1,0 +1,128 @@
+{
+  "slug": "2017-nissan-nv",
+  "make": "Nissan",
+  "model": "NV",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/NISSAN/NV#complaints",
+  "generatedAt": "2026-06-23T16:45:39.903Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 NISSAN NV. WHILE DRIVING 45 MPH AND MAKING A LEFT TURN, THE STEERING WHEEL SEIZED. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS TAKEN TO TOWN CENTER NISSAN (2310 BARRETT LAKES BLVD, KENNESAW, GA 30144, (770) 423-9691) WHERE IT WAS DIAG",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The motor developed rod knock as the vehicle was traveling down the highway. The low oil pressure light came on along with an audible warning.  This vehicle has previously been repaired by the dealer for the same issue at 97,273 miles (the engine needed to be replaced).  This iss",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Nissan NV. The contact stated that while driving approximately 40 MPH around a curve, the brake pedal was depressed and the front tires seized for several seconds, causing the vehicle to slide on the road. The vehicle was not diagnosed or repaired by an in",
+      "pct": 20
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Nissan NV. The contact stated that while driving approximately 40 MPH around a curve, the brake pedal was depressed and the front tires seized for several seconds, causing the vehicle to slide on the road. The vehicle was not diagnosed or repaired by an in",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Passenger seat heater heating element burned through foam cushions of bottom of seat. Contacting bottom steel seat support. Cabin filled with smoke and forced me to pull vehicle over on side of road. Smoke stopped after vehicle was turned off and seat was inspected. Visible burn ",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Nissan Nv owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Steering (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 NISSAN NV. WHILE DRIVING 45 MPH AND MAKING A LEFT TURN, THE STEERING WHEEL SEIZED. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS TAKEN TO TOWN CENTER NISSAN (2310 BARRETT LAKES BLVD, KENNESAW, GA 30144, (770) 423-9691) WHERE IT WAS DIAG",
+        "pct": 40,
+        "title": "Steering",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The motor developed rod knock as the vehicle was traveling down the highway. The low oil pressure light came on along with an audible warning.  This vehicle has previously been repaired by the dealer for the same issue at 97,273 miles (the engine needed to be replaced).  This iss",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Nissan NV. The contact stated that while driving approximately 40 MPH around a curve, the brake pedal was depressed and the front tires seized for several seconds, causing the vehicle to slide on the road. The vehicle was not diagnosed or repaired by an in",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Nissan NV. The contact stated that while driving approximately 40 MPH around a curve, the brake pedal was depressed and the front tires seized for several seconds, causing the vehicle to slide on the road. The vehicle was not diagnosed or repaired by an in",
+        "pct": 20,
+        "title": "Hydraulic",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Passenger seat heater heating element burned through foam cushions of bottom of seat. Contacting bottom steel seat support. Cabin filled with smoke and forced me to pull vehicle over on side of road. Smoke stopped after vehicle was turned off and seat was inspected. Visible burn ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%) · 1 fire"
+      }
+    ]
+  }
+}

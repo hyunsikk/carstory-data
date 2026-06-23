@@ -1,0 +1,106 @@
+{
+  "slug": "2015-lexus-rc",
+  "make": "Lexus",
+  "model": "RC",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/LEXUS/RC#complaints",
+  "generatedAt": "2026-06-23T16:37:29.974Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel is leaking from high-pressure fuel pump seeping from the fuel pump. The fuel pump was split in half gas was covering everything. As you can see in the photos, fuel is squirting out of the fuel pump.",
+      "pct": 40
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "09/09/2015 LIEN REPORTED. ORIGINAL COLOR IS MOLTEN PEARL. NOW IS SILVER. - NOT IN THE RECORD. (BMW-BARRINGTON) VIN# [XXX]  TITLE [XXX]  WANT TO BUY THIS CAR. THE PRICE IS $33000. THIS IS VIOLATION. PLEASE HELP INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA)",
+      "pct": 20
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Lexus RC 350. The contact stated that after starting the vehicle, it ran for a short while before suddenly hesitating and stalling. All attempts to restart the vehicle failed. No warning lights were illuminated. The vehicle was not taken to the dealer or a",
+      "pct": 20
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Lexus RC 350. The contact stated that after starting the vehicle, it ran for a short while before suddenly hesitating and stalling. All attempts to restart the vehicle failed. No warning lights were illuminated. The vehicle was not taken to the dealer or a",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Lexus Rc owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (40% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel is leaking from high-pressure fuel pump seeping from the fuel pump. The fuel pump was split in half gas was covering everything. As you can see in the photos, fuel is squirting out of the fuel pump.",
+        "pct": 40,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "09/09/2015 LIEN REPORTED. ORIGINAL COLOR IS MOLTEN PEARL. NOW IS SILVER. - NOT IN THE RECORD. (BMW-BARRINGTON) VIN# [XXX]  TITLE [XXX]  WANT TO BUY THIS CAR. THE PRICE IS $33000. THIS IS VIOLATION. PLEASE HELP INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA)",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Lexus RC 350. The contact stated that after starting the vehicle, it ran for a short while before suddenly hesitating and stalling. All attempts to restart the vehicle failed. No warning lights were illuminated. The vehicle was not taken to the dealer or a",
+        "pct": 20,
+        "title": "Fuel System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Lexus RC 350. The contact stated that after starting the vehicle, it ran for a short while before suddenly hesitating and stalling. All attempts to restart the vehicle failed. No warning lights were illuminated. The vehicle was not taken to the dealer or a",
+        "pct": 20,
+        "title": "Gasoline",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

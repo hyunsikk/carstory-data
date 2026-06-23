@@ -1,0 +1,128 @@
+{
+  "slug": "2019-mercedes-benz-e-class",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/MERCEDES-BENZ/E-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:24.954Z",
+  "total": 54,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Central digital driver cluster and lighting behind all speedo/tachometer randomly turns off while driving unexpectedly then fades back on.  - can not see control indicators for adaptive cruise control when display fades out - can not see what gear the transmission is in when disp",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Mercedes-Benz E450. The contact stated while driving at various speeds and depressing the accelerator pedal, the vehicle hesitated while responding. Additionally, the contact stated that the transmission was slipping. The check engine warning light was ill",
+      "pct": 17
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CAR DOES NOT DETECT A PROPERLY FASTENED SEATBELT SOMETIMES AND THE SEATBELT WILL NOT ADJUST AUTOMATICALLY EVEN WHEN PROPERLY FASTENED. INTERMITTENT ISSUE. LOOKS LIKE OTHER MODELS HAVE HAD RECALLS RELATED TO SIMILAR COMPLAINTS. HTTPS://WWW.CONSUMERAFFAIRS.COM/NEWS/MERCEDES-BEN",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Mercedes-Benz E450. The contact stated that while reversing, the rearview camera failed to display an image of the rear of the vehicle, compromising the back over prevention system. No warning lights were illuminated. The vehicle was taken to the dealer, w",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "DRIVING AT 75 MPH, CAR SUDDENLY DECELERATED TO APPROX 45MPH WITHOUT WARNING.  A TRIANGLE WITH RED IMAGE OF THE CAR'S REAR APPEARED ON SCREEN.  I GRADUALLY INCREASED SPEED BACK UP TO 70 MPH AND SAME PROBLEM OCCURRED. CAR IS 2 YRS OLD WITH 7200 MILES ON IT.  M-B DEALERSHIP HAS THE ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Mercedes-Benz E-Class owners report most",
+    "summary": "Across 54 owner complaints to NHTSA, the most reported area is Electrical System (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Central digital driver cluster and lighting behind all speedo/tachometer randomly turns off while driving unexpectedly then fades back on.  - can not see control indicators for adaptive cruise control when display fades out - can not see what gear the transmission is in when disp",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "11 reports (20%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Mercedes-Benz E450. The contact stated while driving at various speeds and depressing the accelerator pedal, the vehicle hesitated while responding. Additionally, the contact stated that the transmission was slipping. The check engine warning light was ill",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "9 reports (17%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CAR DOES NOT DETECT A PROPERLY FASTENED SEATBELT SOMETIMES AND THE SEATBELT WILL NOT ADJUST AUTOMATICALLY EVEN WHEN PROPERLY FASTENED. INTERMITTENT ISSUE. LOOKS LIKE OTHER MODELS HAVE HAD RECALLS RELATED TO SIMILAR COMPLAINTS. HTTPS://WWW.CONSUMERAFFAIRS.COM/NEWS/MERCEDES-BEN",
+        "pct": 17,
+        "title": "Seat Belts",
+        "blurb": "9 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Mercedes-Benz E450. The contact stated that while reversing, the rearview camera failed to display an image of the rear of the vehicle, compromising the back over prevention system. No warning lights were illuminated. The vehicle was taken to the dealer, w",
+        "pct": 9,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "DRIVING AT 75 MPH, CAR SUDDENLY DECELERATED TO APPROX 45MPH WITHOUT WARNING.  A TRIANGLE WITH RED IMAGE OF THE CAR'S REAR APPEARED ON SCREEN.  I GRADUALLY INCREASED SPEED BACK UP TO 70 MPH AND SAME PROBLEM OCCURRED. CAR IS 2 YRS OLD WITH 7200 MILES ON IT.  M-B DEALERSHIP HAS THE ",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "4 reports (7%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

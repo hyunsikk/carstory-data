@@ -1,0 +1,62 @@
+{
+  "slug": "2015-bmw-m3",
+  "make": "BMW",
+  "model": "M3",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BMW/M3#complaints",
+  "generatedAt": "2026-06-23T16:26:43.803Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel tank top weld has failed, and is actively leaking fuel. This is likely to cause ignition of the vehicle during use and poses a threat to the lives of passengers and other drivers on the road as well as emissions failure.  The failed weld was confirmed by independent Bmw tech",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CRANK HUB SPUN TIMING SPROCKET CAUSING VALVES TO IMPACT PISTON AND CATASTROPHIC ENGINE FAILURE. QUOTED MORE THAN $10K OUT OF POCKET TO REPAIR. THIS IS CAUSED DUE TO POOR CRANK HUB DESIGN. CAR COMPANIES HAVE BEEN USING KEYED CRANKHUBS FOR GENERATIONS BUT BMW DECIDED TO NOT USED A ",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Bmw M3 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel tank top weld has failed, and is actively leaking fuel. This is likely to cause ignition of the vehicle during use and poses a threat to the lives of passengers and other drivers on the road as well as emissions failure.  The failed weld was confirmed by independent Bmw tech",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CRANK HUB SPUN TIMING SPROCKET CAUSING VALVES TO IMPACT PISTON AND CATASTROPHIC ENGINE FAILURE. QUOTED MORE THAN $10K OUT OF POCKET TO REPAIR. THIS IS CAUSED DUE TO POOR CRANK HUB DESIGN. CAR COMPANIES HAVE BEEN USING KEYED CRANKHUBS FOR GENERATIONS BUT BMW DECIDED TO NOT USED A ",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

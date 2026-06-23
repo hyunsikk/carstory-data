@@ -1,0 +1,40 @@
+{
+  "slug": "2018-lexus-gs",
+  "make": "Lexus",
+  "model": "GS",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LEXUS/GS#complaints",
+  "generatedAt": "2026-06-23T16:37:17.950Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lexus GS350. The contact stated while the vehicle was parked, the windshield cracked without impact. The vehicle was taken to an independent mechanic and the contact was informed that the failure was due to a defect in the windshield being glued on one sid",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lexus Gs owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Visibility (50% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lexus GS350. The contact stated while the vehicle was parked, the windshield cracked without impact. The vehicle was taken to an independent mechanic and the contact was informed that the failure was due to a defect in the windshield being glued on one sid",
+        "pct": 50,
+        "title": "Visibility",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

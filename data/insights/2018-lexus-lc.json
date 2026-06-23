@@ -1,0 +1,40 @@
+{
+  "slug": "2018-lexus-lc",
+  "make": "Lexus",
+  "model": "LC",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LEXUS/LC#complaints",
+  "generatedAt": "2026-06-23T16:37:21.634Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Door handle failure. Well known issue. Internal door actuator commonly fails, causing you to be unable to open the door whether you are inside or outside the vehicle. Repair is also rather expensive.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lexus Lc owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Structure (50% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Door handle failure. Well known issue. Internal door actuator commonly fails, causing you to be unable to open the door whether you are inside or outside the vehicle. Repair is also rather expensive.",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

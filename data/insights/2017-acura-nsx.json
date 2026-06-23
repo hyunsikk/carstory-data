@@ -1,0 +1,128 @@
+{
+  "slug": "2017-acura-nsx",
+  "make": "Acura",
+  "model": "NSX",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/ACURA/NSX#complaints",
+  "generatedAt": "2026-06-23T16:24:52.946Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is 2017 Acura NSX with VIN 19UNC1B08HY000777. My vehicle experienced a fuel pump module failure identical to the known defect under Recall 23V-858, but my VIN is not currently included in the recall. I believe it should be. This is a significant safety matter, as I fac",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "EVERY TIME YOU ACCELERATE IT MAKES A LOAD RATTLING NOISE & THE A.C.  WORKS WHEN IT WANTS TO ..",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "0",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "0",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR HAS LOST POWER A COUPLE OF TIMES.  WHEN THE CAR'S BATTERY GOES DEAD, YOU CANNOT CLOSE EITHER DOOR ON THIS CAR.  IF YOU HAVE BAD WEATHER THERE IS A GOOD CHANCE THE INTERIOR OF THIS CAR WILL GET DAMAGED.  THERE IS AN ONE INCH GAP BETWEEN THE DOOR AND THE BODY OF THE CAR.  T",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Acura Nsx owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is 2017 Acura NSX with VIN 19UNC1B08HY000777. My vehicle experienced a fuel pump module failure identical to the known defect under Recall 23V-858, but my VIN is not currently included in the recall. I believe it should be. This is a significant safety matter, as I fac",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "EVERY TIME YOU ACCELERATE IT MAKES A LOAD RATTLING NOISE & THE A.C.  WORKS WHEN IT WANTS TO ..",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "0",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "0",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR HAS LOST POWER A COUPLE OF TIMES.  WHEN THE CAR'S BATTERY GOES DEAD, YOU CANNOT CLOSE EITHER DOOR ON THIS CAR.  IF YOU HAVE BAD WEATHER THERE IS A GOOD CHANCE THE INTERIOR OF THIS CAR WILL GET DAMAGED.  THERE IS AN ONE INCH GAP BETWEEN THE DOOR AND THE BODY OF THE CAR.  T",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

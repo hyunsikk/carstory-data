@@ -1,0 +1,40 @@
+{
+  "slug": "2015-audi-s4",
+  "make": "Audi",
+  "model": "S4",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/AUDI/S4#complaints",
+  "generatedAt": "2026-06-23T16:43:04.210Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The R&R valve/oil separator unit failed on my 2015 Audi S4 at approximately 71,000 miles.  This unit, when fails, can mix the oil and anti-freeze which can seize the engine.  I was able to catch the problem before engine failure.  Minneapolis Audi repaired the vehicle this week, ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Audi S4 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The R&R valve/oil separator unit failed on my 2015 Audi S4 at approximately 71,000 miles.  This unit, when fails, can mix the oil and anti-freeze which can seize the engine.  I was able to catch the problem before engine failure.  Minneapolis Audi repaired the vehicle this week, ",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

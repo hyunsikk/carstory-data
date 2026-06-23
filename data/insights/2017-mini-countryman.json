@@ -1,0 +1,128 @@
+{
+  "slug": "2017-mini-countryman",
+  "make": "MINI",
+  "model": "Countryman",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/MINI/COUNTRYMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:35.556Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 3/24/22 I was driving on the highway at approximately 1:30am my car made a loud noise and dropped down a bit on the front passenger side. At the same there was a cloud of smoke that came up from the same side. I pulled my car slowly off into the breakdown lane. Got out of my c",
+      "pct": 29
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Grinding noise near the front axis especially during tight corners when parking. Mechanics looked at it and saying the steering gear issue.",
+      "pct": 14
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contacts wife owns a 2017 Mini Cooper Countryman. The contact stated that on multiple occasions, the vehicle stalled while refueling. The contact stated that the vehicle made abnormal sounds while restarting, and often took 30-seconds to start operating normally. Additionally",
+      "pct": 14
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contacts wife owns a 2017 Mini Cooper Countryman. The contact stated that on multiple occasions, the vehicle stalled while refueling. The contact stated that the vehicle made abnormal sounds while restarting, and often took 30-seconds to start operating normally. Additionally",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 3/24/22 I was driving on the highway at approximately 1:30am my car made a loud noise and dropped down a bit on the front passenger side. At the same there was a cloud of smoke that came up from the same side. I pulled my car slowly off into the breakdown lane. Got out of my c",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Mini Countryman owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 3/24/22 I was driving on the highway at approximately 1:30am my car made a loud noise and dropped down a bit on the front passenger side. At the same there was a cloud of smoke that came up from the same side. I pulled my car slowly off into the breakdown lane. Got out of my c",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "2 reports (29%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Grinding noise near the front axis especially during tight corners when parking. Mechanics looked at it and saying the steering gear issue.",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contacts wife owns a 2017 Mini Cooper Countryman. The contact stated that on multiple occasions, the vehicle stalled while refueling. The contact stated that the vehicle made abnormal sounds while restarting, and often took 30-seconds to start operating normally. Additionally",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contacts wife owns a 2017 Mini Cooper Countryman. The contact stated that on multiple occasions, the vehicle stalled while refueling. The contact stated that the vehicle made abnormal sounds while restarting, and often took 30-seconds to start operating normally. Additionally",
+        "pct": 14,
+        "title": "Gasoline",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 3/24/22 I was driving on the highway at approximately 1:30am my car made a loud noise and dropped down a bit on the front passenger side. At the same there was a cloud of smoke that came up from the same side. I pulled my car slowly off into the breakdown lane. Got out of my c",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "1 report (14%) · 1 fire"
+      }
+    ]
+  }
+}

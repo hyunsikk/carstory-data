@@ -1,0 +1,128 @@
+{
+  "slug": "2016-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:14.842Z",
+  "total": 133,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 28,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1ST ALIGNMENT AND TIRE ROTATION @1800MILES \"TOE SET\", ANOTHER ROTATE THEN OFF SET BALL JOINT BECAUSE IT DEVELOPED A \"PULL\" AND \"CLIMBED CROWN\", 3RD ROTATION, WAS TOLD NO MORE ALIGNMENT AVAILABLE WITHIN SPECS, 3,800 MILES NEEDS ROTATION DUE TO OUTER TIRE WEAR, SHIMMY ON MINOR ROAD",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DEAD PEDAL. FROM A DEAD STOP IF YOU STAB THE ACCELERATOR PEDAL AS IN A EMERGENCY SITUATION THERE IS A 2-3 SECOND DELAY BEFORE POWER IS APPLIED TO THE DRIVETRAIN. I FEEL THIS IS A VERY DANGEROUS SITUATION AND RAM SHOULD HAVE TO REPROGRAM THESE TRUCKS TO APPLY POWER WHEN CALLED FOR",
+      "pct": 16
+    },
+    {
+      "component": "WHEELS",
+      "count": 20,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NEXEN TIRES RODIAN LT HRX 235/80/R17 ON A NEW DODGE RAM 3500 HAD 14,000 MI WHEN DISCOVERED PIN HOLES IN THE SIDE WALL WHICH CANNOT BE REPAIRED, SPLITTING  VISIBLE BETWEEN THE TREADS AND TIRES CONTINUOUSLY  LOOSING AIR. NO BLOW-OUT HAS YET OCCURRED RESULTING IN BODILY INJURY. THE ",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE TRUCK WAS LOADED WITH APPROXIMATELY 1,400 POUNDS OF HAY IN THE BED. THE VEHICLE WAS STOPPED ON A SLIGHT INCLINE TOWARD THE REAR. IT WAS PLACED INTO PARK AS WITNESSED BY THE 2 PASSENGERS. THE VEHICLE WAS STATIONARY AS THE DRIVER EXITED THE VEHICLE AND CLOSED THE DOOR. A COUPLE",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OEM TRAILER BRAKE CONTROLLER BARELY WORKS.  TRIED WITH ALL 4 SETTINGS (TRAILER TOWING SHOULD HAVE NEEDED \"ELECTRIC HEAVY\" SETTING)  HAD TO TURN THE GAIN ALL THE WAY UP TO GET THE BRAKES TO ENGAGE, PULLING AN EMPTY TRAILER.  SHOULD BE ABLE TO COMPLETELY LOCK THE TRAILER BRAKES ON ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Ram 3500 owners report most",
+    "summary": "Across 133 owner complaints to NHTSA, the most reported area is Steering (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 28,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1ST ALIGNMENT AND TIRE ROTATION @1800MILES \"TOE SET\", ANOTHER ROTATE THEN OFF SET BALL JOINT BECAUSE IT DEVELOPED A \"PULL\" AND \"CLIMBED CROWN\", 3RD ROTATION, WAS TOLD NO MORE ALIGNMENT AVAILABLE WITHIN SPECS, 3,800 MILES NEEDS ROTATION DUE TO OUTER TIRE WEAR, SHIMMY ON MINOR ROAD",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "28 reports (21%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DEAD PEDAL. FROM A DEAD STOP IF YOU STAB THE ACCELERATOR PEDAL AS IN A EMERGENCY SITUATION THERE IS A 2-3 SECOND DELAY BEFORE POWER IS APPLIED TO THE DRIVETRAIN. I FEEL THIS IS A VERY DANGEROUS SITUATION AND RAM SHOULD HAVE TO REPROGRAM THESE TRUCKS TO APPLY POWER WHEN CALLED FOR",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "21 reports (16%) · 1 fire"
+      },
+      {
+        "component": "WHEELS",
+        "count": 20,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NEXEN TIRES RODIAN LT HRX 235/80/R17 ON A NEW DODGE RAM 3500 HAD 14,000 MI WHEN DISCOVERED PIN HOLES IN THE SIDE WALL WHICH CANNOT BE REPAIRED, SPLITTING  VISIBLE BETWEEN THE TREADS AND TIRES CONTINUOUSLY  LOOSING AIR. NO BLOW-OUT HAS YET OCCURRED RESULTING IN BODILY INJURY. THE ",
+        "pct": 15,
+        "title": "Wheels",
+        "blurb": "20 reports (15%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE TRUCK WAS LOADED WITH APPROXIMATELY 1,400 POUNDS OF HAY IN THE BED. THE VEHICLE WAS STOPPED ON A SLIGHT INCLINE TOWARD THE REAR. IT WAS PLACED INTO PARK AS WITNESSED BY THE 2 PASSENGERS. THE VEHICLE WAS STATIONARY AS THE DRIVER EXITED THE VEHICLE AND CLOSED THE DOOR. A COUPLE",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "19 reports (14%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OEM TRAILER BRAKE CONTROLLER BARELY WORKS.  TRIED WITH ALL 4 SETTINGS (TRAILER TOWING SHOULD HAVE NEEDED \"ELECTRIC HEAVY\" SETTING)  HAD TO TURN THE GAIN ALL THE WAY UP TO GET THE BRAKES TO ENGAGE, PULLING AN EMPTY TRAILER.  SHOULD BE ABLE TO COMPLETELY LOCK THE TRAILER BRAKES ON ",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "12 reports (9%) · 3 crash"
+      }
+    ]
+  }
+}

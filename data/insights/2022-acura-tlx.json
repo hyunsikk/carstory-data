@@ -1,0 +1,128 @@
+{
+  "slug": "2022-acura-tlx",
+  "make": "Acura",
+  "model": "TLX",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/ACURA/TLX#complaints",
+  "generatedAt": "2026-06-23T16:25:04.467Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While accelerating from 0 to 40 miles per hour, I experienced a loud bang come from the car. Turns out the splines were stripped between my transmission and transfer case. This was due to the drive shaft spinning while in park mode, as well as an opening between the transmission ",
+      "pct": 29
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "All the dashboard lights began blinking on the dashboard while I was driving about 30mph. The steering wheel began to get stif. I pulled over immediately and the steering wheel locked completely. I turned the car off and back after about 10 min and I was able to drive home. Lucki",
+      "pct": 24
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I got new tires and an alignment performed and ever since the car has pulled to the right. The car has been to the dealer for 6 alignments due to the car veering to the right. They swapped the wheels from another car to ensure it wasn’t the new tires and the problem still occurre",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is a 2022 Acura TLX A-Spec with 20,000 miles on it. I bought it certified from an Acura dealer October of 2022 at 7,600 miles. I started to have an issue with the driving experience recently. I took it in to my closet dealer and they stated that the problem was the rot",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I’m Owner of a Acura model: TXL Year:2022, VIN: [XXX]  I send my car after 7 days of purchase to the dealer because the car wasn’t started and all the dash light start blinking. Dealer said that this was not warranty cover because I tint the windshield and this create some humidi",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Acura Tlx owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Power Train (29% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While accelerating from 0 to 40 miles per hour, I experienced a loud bang come from the car. Turns out the splines were stripped between my transmission and transfer case. This was due to the drive shaft spinning while in park mode, as well as an opening between the transmission ",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "6 reports (29%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "All the dashboard lights began blinking on the dashboard while I was driving about 30mph. The steering wheel began to get stif. I pulled over immediately and the steering wheel locked completely. I turned the car off and back after about 10 min and I was able to drive home. Lucki",
+        "pct": 24,
+        "title": "Steering",
+        "blurb": "5 reports (24%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I got new tires and an alignment performed and ever since the car has pulled to the right. The car has been to the dealer for 6 alignments due to the car veering to the right. They swapped the wheels from another car to ensure it wasn’t the new tires and the problem still occurre",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is a 2022 Acura TLX A-Spec with 20,000 miles on it. I bought it certified from an Acura dealer October of 2022 at 7,600 miles. I started to have an issue with the driving experience recently. I took it in to my closet dealer and they stated that the problem was the rot",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I’m Owner of a Acura model: TXL Year:2022, VIN: [XXX]  I send my car after 7 days of purchase to the dealer because the car wasn’t started and all the dash light start blinking. Dealer said that this was not warranty cover because I tint the windshield and this create some humidi",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "3 reports (14%)"
+      }
+    ]
+  }
+}

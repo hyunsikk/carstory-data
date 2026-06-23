@@ -1,0 +1,106 @@
+{
+  "slug": "2021-audi-sq7",
+  "make": "Audi",
+  "model": "SQ7",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/SQ7#complaints",
+  "generatedAt": "2026-06-23T16:43:22.103Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi SQ7. The contact stated that while driving at undisclosed speeds, the instrument cluster became inoperable. Additionally, the contact stated that the failure was intermittent. There were no warning lights illuminated. The contact received notification",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car started over heating at 39,000 miles with the warning that “coolant temperature too high, let engine run with vehicle stationary.” Took it to the dealer for repairs and they said it’s a bad thermostat and water pump which requires the entire front end to be disassembled t",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sporadic failures of saftey systems by driver warning -Adaptive vehicle assistance Predictive regulation restricted -Audi adaptive light malfunction -Audi pre sense system malfunction -Adaptive vehicle assistance restricted This has happened since new and told by Audi no fix for ",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The presense and parking and lane change and rear warning lights go on. Have had the sensors changed and recalibrated. Been to dealership 3 times without a solution. Not sure if the system is functioning or not as is sporadic",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi Sq7 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi SQ7. The contact stated that while driving at undisclosed speeds, the instrument cluster became inoperable. Additionally, the contact stated that the failure was intermittent. There were no warning lights illuminated. The contact received notification",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car started over heating at 39,000 miles with the warning that “coolant temperature too high, let engine run with vehicle stationary.” Took it to the dealer for repairs and they said it’s a bad thermostat and water pump which requires the entire front end to be disassembled t",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sporadic failures of saftey systems by driver warning -Adaptive vehicle assistance Predictive regulation restricted -Audi adaptive light malfunction -Audi pre sense system malfunction -Adaptive vehicle assistance restricted This has happened since new and told by Audi no fix for ",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The presense and parking and lane change and rear warning lights go on. Have had the sensors changed and recalibrated. Been to dealership 3 times without a solution. Not sure if the system is functioning or not as is sporadic",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

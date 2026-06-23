@@ -1,0 +1,128 @@
+{
+  "slug": "2015-porsche-boxster",
+  "make": "Porsche",
+  "model": "Boxster",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/PORSCHE/BOXSTER#complaints",
+  "generatedAt": "2026-06-23T16:39:42.132Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 PORSCHE BOXSTER. WHILE DRIVING AT A LOW SPEED, THERE WAS A VIOLENT VIBRATION AND NOISE NEAR THE FRONT END OF THE VEHICLE WITHOUT WARNING. THE  VEHICLE WAS TAKEN TO PORSCHE JACKSONVILLE (904-725-9155, LOCATED AT 10100 ATLANTIC BLVD, JACKSONVILLE, FL 322",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Porsche Boxster. The contact stated that the vehicle rental app TURO informed him that the vehicle was included in NHTSA Campaign Number: 21V679000 (Power Train). The dealer was then notified about the recall and the contact was informed that parts were no",
+      "pct": 33
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STRONG VIBRATION AND NOISE IN FRONT END STEERING, SUSPENSION AND WHEELS AT HIGHER STEERING ANGLES AND SLOW SPEED MOTION. THIS OCCURS IN DRIVEWAYS, PARKING LOTS AND SHARP TURNS ONTO CITY STREETS AND HAS BEEN CONTINUALLY PRESENT SINCE I PURCHASED THIS VEHICLE, AND REPORTED IT TO TH",
+      "pct": 33
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STRONG VIBRATION AND NOISE IN FRONT END STEERING, SUSPENSION AND WHEELS AT HIGHER STEERING ANGLES AND SLOW SPEED MOTION. THIS OCCURS IN DRIVEWAYS, PARKING LOTS AND SHARP TURNS ONTO CITY STREETS AND HAS BEEN CONTINUALLY PRESENT SINCE I PURCHASED THIS VEHICLE, AND REPORTED IT TO TH",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 PORSCHE BOXSTER. WHILE DRIVING AT A LOW SPEED, THERE WAS A VIOLENT VIBRATION AND NOISE NEAR THE FRONT END OF THE VEHICLE WITHOUT WARNING. THE  VEHICLE WAS TAKEN TO PORSCHE JACKSONVILLE (904-725-9155, LOCATED AT 10100 ATLANTIC BLVD, JACKSONVILLE, FL 322",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Porsche Boxster owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Suspension (67% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 PORSCHE BOXSTER. WHILE DRIVING AT A LOW SPEED, THERE WAS A VIOLENT VIBRATION AND NOISE NEAR THE FRONT END OF THE VEHICLE WITHOUT WARNING. THE  VEHICLE WAS TAKEN TO PORSCHE JACKSONVILLE (904-725-9155, LOCATED AT 10100 ATLANTIC BLVD, JACKSONVILLE, FL 322",
+        "pct": 67,
+        "title": "Suspension",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Porsche Boxster. The contact stated that the vehicle rental app TURO informed him that the vehicle was included in NHTSA Campaign Number: 21V679000 (Power Train). The dealer was then notified about the recall and the contact was informed that parts were no",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STRONG VIBRATION AND NOISE IN FRONT END STEERING, SUSPENSION AND WHEELS AT HIGHER STEERING ANGLES AND SLOW SPEED MOTION. THIS OCCURS IN DRIVEWAYS, PARKING LOTS AND SHARP TURNS ONTO CITY STREETS AND HAS BEEN CONTINUALLY PRESENT SINCE I PURCHASED THIS VEHICLE, AND REPORTED IT TO TH",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STRONG VIBRATION AND NOISE IN FRONT END STEERING, SUSPENSION AND WHEELS AT HIGHER STEERING ANGLES AND SLOW SPEED MOTION. THIS OCCURS IN DRIVEWAYS, PARKING LOTS AND SHARP TURNS ONTO CITY STREETS AND HAS BEEN CONTINUALLY PRESENT SINCE I PURCHASED THIS VEHICLE, AND REPORTED IT TO TH",
+        "pct": 33,
+        "title": "Wheels",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 PORSCHE BOXSTER. WHILE DRIVING AT A LOW SPEED, THERE WAS A VIOLENT VIBRATION AND NOISE NEAR THE FRONT END OF THE VEHICLE WITHOUT WARNING. THE  VEHICLE WAS TAKEN TO PORSCHE JACKSONVILLE (904-725-9155, LOCATED AT 10100 ATLANTIC BLVD, JACKSONVILLE, FL 322",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

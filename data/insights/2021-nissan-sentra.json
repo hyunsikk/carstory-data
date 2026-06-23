@@ -1,0 +1,128 @@
+{
+  "slug": "2021-nissan-sentra",
+  "make": "Nissan",
+  "model": "Sentra",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/SENTRA#complaints",
+  "generatedAt": "2026-06-23T16:39:31.241Z",
+  "total": 127,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 39,
+      "crash": 11,
+      "fire": 1,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Nissan Sentra. The contact stated while driving 20 MPH, she heard an abnormal bumping sound coming from underneath the vehicle and the steering wheel became difficult to maneuver, causing the contact to almost lose control of the vehicle. The contact did n",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 38,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Car will not start. Unexplained battery depletion. Trunk will not close when car is not on. Awful customer service at ORR Nissan in Shreveport Louisiana  Address: 1240 E Bert Kouns, Shreveport Louisiana, 71105  Their entire operations need to be shut down. Bunch of incompetent dr",
+      "pct": 30
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 36,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Suddenly the battery ran out on Tuesday, July 6, 2021, 18 days after I bought the car.  The car did not want to start from the beeper.  When I got into the car to start it, my battery was completely drained.  A roadside service technician starts the car with a battery booster.  O",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 23,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "My car has been hacked.  I know the hacker was able to get my VIN number bec he hacked my computer also (and I had to enter the information to setup autopay etc through my finance company).  The hacker has been messing with the brakes which makes me afraid that it will force me i",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am writing to file a formal complaint against  Koeppel Nissan regarding their refusal to service my vehicle for a factory safety recall (tie rod replacement) and additional services upon request such as; clogged drain(water inside car doors), wheel alignment, evaporator core le",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Sentra owners report most",
+    "summary": "Across 127 owner complaints to NHTSA, the most reported area is Steering (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 39,
+        "crash": 11,
+        "fire": 1,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Nissan Sentra. The contact stated while driving 20 MPH, she heard an abnormal bumping sound coming from underneath the vehicle and the steering wheel became difficult to maneuver, causing the contact to almost lose control of the vehicle. The contact did n",
+        "pct": 31,
+        "title": "Steering",
+        "blurb": "39 reports (31%) · 1 fire · 11 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 38,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Car will not start. Unexplained battery depletion. Trunk will not close when car is not on. Awful customer service at ORR Nissan in Shreveport Louisiana  Address: 1240 E Bert Kouns, Shreveport Louisiana, 71105  Their entire operations need to be shut down. Bunch of incompetent dr",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "38 reports (30%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 36,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Suddenly the battery ran out on Tuesday, July 6, 2021, 18 days after I bought the car.  The car did not want to start from the beeper.  When I got into the car to start it, my battery was completely drained.  A roadside service technician starts the car with a battery booster.  O",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "36 reports (28%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 23,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "My car has been hacked.  I know the hacker was able to get my VIN number bec he hacked my computer also (and I had to enter the information to setup autopay etc through my finance company).  The hacker has been messing with the brakes which makes me afraid that it will force me i",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "23 reports (18%) · 1 fire · 7 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am writing to file a formal complaint against  Koeppel Nissan regarding their refusal to service my vehicle for a factory safety recall (tie rod replacement) and additional services upon request such as; clogged drain(water inside car doors), wheel alignment, evaporator core le",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "7 reports (6%)"
+      }
+    ]
+  }
+}

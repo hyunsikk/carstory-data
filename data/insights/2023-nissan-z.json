@@ -1,0 +1,84 @@
+{
+  "slug": "2023-nissan-z",
+  "make": "Nissan",
+  "model": "Z",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/Z#complaints",
+  "generatedAt": "2026-06-23T16:39:35.985Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel smell in garage. Shop confirmed fuel system leak in engine compartment.",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Nissan Z. The contact stated that while her son was driving at an undisclosed speed, upon coming to an abrupt stop, the hood suddenly popped open; obstructing the driver's view, prompting him to pull over to the shoulder of the roadway. The message \"Collis",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Nissan Z. The contact stated that while her son was driving at an undisclosed speed, upon coming to an abrupt stop, the hood suddenly popped open; obstructing the driver's view, prompting him to pull over to the shoulder of the roadway. The message \"Collis",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Z owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel smell in garage. Shop confirmed fuel system leak in engine compartment.",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Nissan Z. The contact stated that while her son was driving at an undisclosed speed, upon coming to an abrupt stop, the hood suddenly popped open; obstructing the driver's view, prompting him to pull over to the shoulder of the roadway. The message \"Collis",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Nissan Z. The contact stated that while her son was driving at an undisclosed speed, upon coming to an abrupt stop, the hood suddenly popped open; obstructing the driver's view, prompting him to pull over to the shoulder of the roadway. The message \"Collis",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

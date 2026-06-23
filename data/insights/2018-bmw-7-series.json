@@ -1,0 +1,128 @@
+{
+  "slug": "2018-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:34.159Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Apparently BMW models like mine have been having the coolant expansion tanks leaking between 60 and 70 thousand miles. This causes the coolant levels to drop and causes engine failures.",
+      "pct": 29
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 BMW 740i. The contact stated when he was starting his vehicle a warning for \"chassis\" was illuminated. The contact stated that the vehicle was leaning. The contact stated that the driver side of the vehicle was raised from the road by about 4 inches and th",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 BMW 750I. The contact stated that while driving at various speeds, the engine overheated with the temperature gauge indicating that the engine was hot(H) with the check engine warning light illuminated. The vehicle was taken to an independent mechanic wher",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dashboard display randomly flickers and blinks while driving  Seatbelt notification chime rings even when the passenger seat is empty.",
+      "pct": 14
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dashboard display randomly flickers and blinks while driving  Seatbelt notification chime rings even when the passenger seat is empty.",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw 7 Series owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Engine (29% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Apparently BMW models like mine have been having the coolant expansion tanks leaking between 60 and 70 thousand miles. This causes the coolant levels to drop and causes engine failures.",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 BMW 740i. The contact stated when he was starting his vehicle a warning for \"chassis\" was illuminated. The contact stated that the vehicle was leaning. The contact stated that the driver side of the vehicle was raised from the road by about 4 inches and th",
+        "pct": 29,
+        "title": "Suspension",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 BMW 750I. The contact stated that while driving at various speeds, the engine overheated with the temperature gauge indicating that the engine was hot(H) with the check engine warning light illuminated. The vehicle was taken to an independent mechanic wher",
+        "pct": 14,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dashboard display randomly flickers and blinks while driving  Seatbelt notification chime rings even when the passenger seat is empty.",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dashboard display randomly flickers and blinks while driving  Seatbelt notification chime rings even when the passenger seat is empty.",
+        "pct": 14,
+        "title": "Seat Belts",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

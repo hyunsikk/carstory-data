@@ -1,0 +1,128 @@
+{
+  "slug": "2014-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T16:35:37.494Z",
+  "total": 306,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 91,
+      "crash": 12,
+      "fire": 1,
+      "injuries": 18,
+      "deaths": 0,
+      "sample": "AIRBAGS FAILED TO DEPLOY-  DURING A HEAD-ON COLLISION AT 40 MPH IN THE OPPOSING VEHICLE TRAVELING AT APPROXIMATELY 15 MILES AN HOUR, AND TOTAL DESTRUCTION OF THE FRONT END OF THE VEHICLE THE AIRBAGS FAILED TO DEPLOY. ADDITIONAL INJURIES WERE SUSTAINED TO THIS FAILURE. NO RECALL N",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 91,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "VEHICLE WAS DRIVEN AT 60 MPH ON INTERSTATE. VEHICLE'S ENGINE STALLED CAUSING SUDDEN DROP IN SPEED TO 25 MILES MPH. VEHICLE WAS THEN PULLED TO A COMPLETE STOP, PLACED IN PARK, THEN TURNED OFF. ONCE THE VEHICLE WAS RESTARTED ENGINE LIGHT WAS ILLUMINATED. VEHICLE WAS THEN DRIVEN OFF",
+      "pct": 30
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 53,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 JEEP COMPASS. WHILE DRIVING 55 MPH, THE REAR PASSENGER SIDE SEAT BELT SEIZED. THE CONTACT HAD TO CUT THE SEAT BELT OFF OF HER DAUGHTER. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WA",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 35,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT MY CAR 2/5/14, BRAND SPANKING NEW (ONLY 35 MILES ON IT). I WAS STOPPED AT A STOP LIGHT AT NIGHT FAR AWAY FROM MY HOME WAITING FOR IT TO TURN GREEN. AT THIS POINT THE CAR HAS ABOUT 365 MILES ON IT. THE CAR JERKED A FEW TIMES BUT SOUNDED LIKE IT WAS ABOUT TO TAKE OFF, LIKE",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 JEEP COMPASS.  THE CONTACT STATED THAT WHILE TRAVELING 40 MPH, THE EMERGENCY LIGHT ILLUMINATED ON THE INSTRUMENT PANEL.  THE FAILURE RECURRED ON SEVERAL OCCASIONS.  THE MANUFACTURER WAS CONTACTED AND DID NOT OFFER A REMEDY.  THE VEHICLE WAS NOT TAKEN T",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Jeep Compass owners report most",
+    "summary": "Across 306 owner complaints to NHTSA, the most reported area is Air Bags (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 91,
+        "crash": 12,
+        "fire": 1,
+        "injuries": 18,
+        "deaths": 0,
+        "sample": "AIRBAGS FAILED TO DEPLOY-  DURING A HEAD-ON COLLISION AT 40 MPH IN THE OPPOSING VEHICLE TRAVELING AT APPROXIMATELY 15 MILES AN HOUR, AND TOTAL DESTRUCTION OF THE FRONT END OF THE VEHICLE THE AIRBAGS FAILED TO DEPLOY. ADDITIONAL INJURIES WERE SUSTAINED TO THIS FAILURE. NO RECALL N",
+        "pct": 30,
+        "title": "Air Bags",
+        "blurb": "91 reports (30%) · 1 fire · 12 crash · 18 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 91,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "VEHICLE WAS DRIVEN AT 60 MPH ON INTERSTATE. VEHICLE'S ENGINE STALLED CAUSING SUDDEN DROP IN SPEED TO 25 MILES MPH. VEHICLE WAS THEN PULLED TO A COMPLETE STOP, PLACED IN PARK, THEN TURNED OFF. ONCE THE VEHICLE WAS RESTARTED ENGINE LIGHT WAS ILLUMINATED. VEHICLE WAS THEN DRIVEN OFF",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "91 reports (30%) · 4 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 53,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 JEEP COMPASS. WHILE DRIVING 55 MPH, THE REAR PASSENGER SIDE SEAT BELT SEIZED. THE CONTACT HAD TO CUT THE SEAT BELT OFF OF HER DAUGHTER. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WA",
+        "pct": 17,
+        "title": "Seat Belts",
+        "blurb": "53 reports (17%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 35,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT MY CAR 2/5/14, BRAND SPANKING NEW (ONLY 35 MILES ON IT). I WAS STOPPED AT A STOP LIGHT AT NIGHT FAR AWAY FROM MY HOME WAITING FOR IT TO TURN GREEN. AT THIS POINT THE CAR HAS ABOUT 365 MILES ON IT. THE CAR JERKED A FEW TIMES BUT SOUNDED LIKE IT WAS ABOUT TO TAKE OFF, LIKE",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "35 reports (11%) · 2 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 JEEP COMPASS.  THE CONTACT STATED THAT WHILE TRAVELING 40 MPH, THE EMERGENCY LIGHT ILLUMINATED ON THE INSTRUMENT PANEL.  THE FAILURE RECURRED ON SEVERAL OCCASIONS.  THE MANUFACTURER WAS CONTACTED AND DID NOT OFFER A REMEDY.  THE VEHICLE WAS NOT TAKEN T",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "35 reports (11%) · 1 fire · 1 crash"
+      }
+    ]
+  }
+}

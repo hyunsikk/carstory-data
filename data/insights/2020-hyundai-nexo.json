@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-nexo",
+  "make": "Hyundai",
+  "model": "Nexo",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/NEXO#complaints",
+  "generatedAt": "2026-06-23T16:33:41.160Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Starting March 29, 2021 fuel cell failure when pressing the accelerator, started out as an intermittent failure. Over the period of two weeks while waiting for an appointment to get the vehicle in for repair the problem increased in infrequency. When the vehicle was delivered to ",
+      "pct": 71
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PLEASE SEE ATTACH FOR DETAILS  1. Component or System Involved The Fuel Cell System and Accelerator Pedal Control System are suspected to have malfunctioned. The issue is characterized by the vehicle's failure to respond to input from the accelerator pedal, particularly at speeds",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received a safety recall on this car via mail. I brought it to the dealership service center in van nuys, ca, to which they said no recall currently exists on this car. A month later, I’m now experiencing a sensor of the fuel cell system failure. In addition, the CarPlay functi",
+      "pct": 29
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 24V761000000 (Fuel system, Other, Fuel/Propulsion System); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonab",
+      "pct": 14
+    },
+    {
+      "component": "OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 24V761000000 (Fuel system, Other, Fuel/Propulsion System); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonab",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Hyundai Nexo owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (71% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Starting March 29, 2021 fuel cell failure when pressing the accelerator, started out as an intermittent failure. Over the period of two weeks while waiting for an appointment to get the vehicle in for repair the problem increased in infrequency. When the vehicle was delivered to ",
+        "pct": 71,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (71%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PLEASE SEE ATTACH FOR DETAILS  1. Component or System Involved The Fuel Cell System and Accelerator Pedal Control System are suspected to have malfunctioned. The issue is characterized by the vehicle's failure to respond to input from the accelerator pedal, particularly at speeds",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received a safety recall on this car via mail. I brought it to the dealership service center in van nuys, ca, to which they said no recall currently exists on this car. A month later, I’m now experiencing a sensor of the fuel cell system failure. In addition, the CarPlay functi",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 24V761000000 (Fuel system, Other, Fuel/Propulsion System); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonab",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Hyundai Nexo. The contact received notification of NHTSA Campaign Number: 24V761000000 (Fuel system, Other, Fuel/Propulsion System); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonab",
+        "pct": 14,
+        "title": "Other",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

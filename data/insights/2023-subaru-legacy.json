@@ -1,0 +1,128 @@
+{
+  "slug": "2023-subaru-legacy",
+  "make": "Subaru",
+  "model": "Legacy",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/LEGACY#complaints",
+  "generatedAt": "2026-06-23T16:40:46.290Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Subaru Legacy. The contact stated that while driving at various speeds, the forward collision avoidance warning system would independently be active without an obstacle in front of the vehicle; the \"Obstacle Detected\" warning message would appear on the in",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My wife is a petite woman, 4 feet 7 inches, 85pounds clothed. We bought the car March 29, 2023 and drove home, and the passenger airbag worked properly thru April 2. Behavior after that became erratic, passenger airbag sometimes on, sometimes not. Became more erratic and brought ",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "All electronic instrument panels failed to power on upon ignition. Vehicle was drive-able, but all key information provided by instrument panel was not available: such as actual speed, gear selection, engine RPMs, backup cameras. Additionally, infotainment system was not availabl",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Accorn fell on windshield. At 14,000 miles windshield cracked. Was driving approximately 35MPH",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Subaru Legacy. The contact stated that when she entered her vehicle, she noticed that there was a crack in the windshield down by windshield wiper on the driver's side. The contact stated that the crack had begun to expand up the windshield and stopped app",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Subaru Legacy owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Subaru Legacy. The contact stated that while driving at various speeds, the forward collision avoidance warning system would independently be active without an obstacle in front of the vehicle; the \"Obstacle Detected\" warning message would appear on the in",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (20%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My wife is a petite woman, 4 feet 7 inches, 85pounds clothed. We bought the car March 29, 2023 and drove home, and the passenger airbag worked properly thru April 2. Behavior after that became erratic, passenger airbag sometimes on, sometimes not. Became more erratic and brought ",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "2 reports (20%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "All electronic instrument panels failed to power on upon ignition. Vehicle was drive-able, but all key information provided by instrument panel was not available: such as actual speed, gear selection, engine RPMs, backup cameras. Additionally, infotainment system was not availabl",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Accorn fell on windshield. At 14,000 miles windshield cracked. Was driving approximately 35MPH",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Subaru Legacy. The contact stated that when she entered her vehicle, she noticed that there was a crack in the windshield down by windshield wiper on the driver's side. The contact stated that the crack had begun to expand up the windshield and stopped app",
+        "pct": 10,
+        "title": "Visibility",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

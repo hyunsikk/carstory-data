@@ -1,0 +1,128 @@
+{
+  "slug": "2021-buick-encore",
+  "make": "Buick",
+  "model": "Encore",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BUICK/ENCORE#complaints",
+  "generatedAt": "2026-06-23T16:27:21.736Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Already had turbo go on this car once back in July 2022. Mechanic replaced turbo with another one (used with 20,000 miles on it) due to the turbo for this car being on backorder. Now my car is throwing P0299 after about 20,000 more miles being put on the used turbo and a P0420 co",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Had an oil change done 6/13/22. 6/21/22 Temp gauge rose to 3/4 mark, AC shut off, car really hot under hood, loss of power, car threw crankshaft position sensor code which we replaced. Had the temp gauge do it few more times from 6/21/22 to 8/13/22 when temp gauge did the same th",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Buick Encore. The contact stated that while driving at an undisclosed speed, the brake pedal was firm while depressed. The contact had to slam on the brake pedal to stop the vehicle. The contact stated that the Hill Assist message was displayed. The brake ",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "NOTHING AIR BAGS DEPLOYED WAS LEAVING A PARKING LOT STARTED WENT TO DRIVE OFF !! BANG 2000 BOUNDS OF PRESSURE IN MY FACE! MY WHOLE BODY!! IT WAS A RENTAL !!   LOOK INTO THIS  VECHICAIL !HAIR BURNT!  FRIED WIRE SMELL STILL ON MY BURNT JACKET!!  LOOK INTO THIS WITH GREAT CONCERN AS",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "NOTHING AIR BAGS DEPLOYED WAS LEAVING A PARKING LOT STARTED WENT TO DRIVE OFF !! BANG 2000 BOUNDS OF PRESSURE IN MY FACE! MY WHOLE BODY!! IT WAS A RENTAL !!   LOOK INTO THIS  VECHICAIL !HAIR BURNT!  FRIED WIRE SMELL STILL ON MY BURNT JACKET!!  LOOK INTO THIS WITH GREAT CONCERN AS",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Buick Encore owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Already had turbo go on this car once back in July 2022. Mechanic replaced turbo with another one (used with 20,000 miles on it) due to the turbo for this car being on backorder. Now my car is throwing P0299 after about 20,000 more miles being put on the used turbo and a P0420 co",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Had an oil change done 6/13/22. 6/21/22 Temp gauge rose to 3/4 mark, AC shut off, car really hot under hood, loss of power, car threw crankshaft position sensor code which we replaced. Had the temp gauge do it few more times from 6/21/22 to 8/13/22 when temp gauge did the same th",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Buick Encore. The contact stated that while driving at an undisclosed speed, the brake pedal was firm while depressed. The contact had to slam on the brake pedal to stop the vehicle. The contact stated that the Hill Assist message was displayed. The brake ",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "NOTHING AIR BAGS DEPLOYED WAS LEAVING A PARKING LOT STARTED WENT TO DRIVE OFF !! BANG 2000 BOUNDS OF PRESSURE IN MY FACE! MY WHOLE BODY!! IT WAS A RENTAL !!   LOOK INTO THIS  VECHICAIL !HAIR BURNT!  FRIED WIRE SMELL STILL ON MY BURNT JACKET!!  LOOK INTO THIS WITH GREAT CONCERN AS",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "1 report (11%) · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "NOTHING AIR BAGS DEPLOYED WAS LEAVING A PARKING LOT STARTED WENT TO DRIVE OFF !! BANG 2000 BOUNDS OF PRESSURE IN MY FACE! MY WHOLE BODY!! IT WAS A RENTAL !!   LOOK INTO THIS  VECHICAIL !HAIR BURNT!  FRIED WIRE SMELL STILL ON MY BURNT JACKET!!  LOOK INTO THIS WITH GREAT CONCERN AS",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "1 report (11%) · 1 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2023-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:56.892Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact rented a 2023 Lincoln Navigator. The contact stated that while driving at 65 MPH, the electronic systems became inoperable. The backup camera was inoperable. There were no warning lights illuminated. The contact called for Roadside Assistance. The local dealer was not",
+      "pct": 67
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact rented a 2023 Lincoln Navigator. The contact stated that while driving at 65 MPH, the electronic systems became inoperable. The backup camera was inoperable. There were no warning lights illuminated. The contact called for Roadside Assistance. The local dealer was not",
+      "pct": 33
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the car starts the head lights run through a series of motion checks, they go left, right down and then back up.  We run into an issue every few weeks where the headlights stay in the down position.  This happened with our car and a loaner we received from the dealership. I ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We buy used 2023 Lincoln Navigator with only 2937 miles and the running boards opens and close by it self and the most dangerous that the car doesn’t start whenever it wants I have 3 times already it just doesn’t start so I don’t know what to do",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Lincoln Navigator owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact rented a 2023 Lincoln Navigator. The contact stated that while driving at 65 MPH, the electronic systems became inoperable. The backup camera was inoperable. There were no warning lights illuminated. The contact called for Roadside Assistance. The local dealer was not",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "4 reports (67%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact rented a 2023 Lincoln Navigator. The contact stated that while driving at 65 MPH, the electronic systems became inoperable. The backup camera was inoperable. There were no warning lights illuminated. The contact called for Roadside Assistance. The local dealer was not",
+        "pct": 33,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the car starts the head lights run through a series of motion checks, they go left, right down and then back up.  We run into an issue every few weeks where the headlights stay in the down position.  This happened with our car and a loaner we received from the dealership. I ",
+        "pct": 17,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We buy used 2023 Lincoln Navigator with only 2937 miles and the running boards opens and close by it self and the most dangerous that the car doesn’t start whenever it wants I have 3 times already it just doesn’t start so I don’t know what to do",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

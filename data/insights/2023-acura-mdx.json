@@ -1,0 +1,128 @@
+{
+  "slug": "2023-acura-mdx",
+  "make": "Acura",
+  "model": "MDX",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/ACURA/MDX#complaints",
+  "generatedAt": "2026-06-23T16:24:52.593Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Acura MDX. The contact stated that while driving at various speeds, the brake pedal was spongy whenever depressed. The contact stated that the brake pedal would depress to the floorboard. There was no warning light illuminated. Due to the failure, the cont",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "-Alerts for all safety systems going offline appeared. Also said AWD is not working. Car would turn off with on push of ignition.  -tailgate went haywire. When opening it just went up and down and halfway. Had to push it close Both issues went away, for now, after several restart",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The automatic transmission on the vehicle failed without warning. Vehicle was driven on the highway without issues; exited highway to a city street, stopped at a stop light, and turned onto another street. Upon turn onto another street, transmission did not upshift as it should; ",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "-Alerts for all safety systems going offline appeared. Also said AWD is not working. Car would turn off with on push of ignition.  -tailgate went haywire. When opening it just went up and down and halfway. Had to push it close Both issues went away, for now, after several restart",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving to town with family, drove over train tracks and all warning lights on dash came on and power steering was lost. I was going about 30 mpg and barely able to steer the vehicle to shoulder of road in a populated neighborhood. My wife and kids were really scared and i w",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Acura Mdx owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Service Brakes (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Acura MDX. The contact stated that while driving at various speeds, the brake pedal was spongy whenever depressed. The contact stated that the brake pedal would depress to the floorboard. There was no warning light illuminated. Due to the failure, the cont",
+        "pct": 24,
+        "title": "Service Brakes",
+        "blurb": "8 reports (24%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "-Alerts for all safety systems going offline appeared. Also said AWD is not working. Car would turn off with on push of ignition.  -tailgate went haywire. When opening it just went up and down and halfway. Had to push it close Both issues went away, for now, after several restart",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "8 reports (24%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The automatic transmission on the vehicle failed without warning. Vehicle was driven on the highway without issues; exited highway to a city street, stopped at a stop light, and turned onto another street. Upon turn onto another street, transmission did not upshift as it should; ",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "-Alerts for all safety systems going offline appeared. Also said AWD is not working. Car would turn off with on push of ignition.  -tailgate went haywire. When opening it just went up and down and halfway. Had to push it close Both issues went away, for now, after several restart",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving to town with family, drove over train tracks and all warning lights on dash came on and power steering was lost. I was going about 30 mpg and barely able to steer the vehicle to shoulder of road in a populated neighborhood. My wife and kids were really scared and i w",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "4 reports (12%)"
+      }
+    ]
+  }
+}

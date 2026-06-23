@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-crown",
+  "make": "Toyota",
+  "model": "Crown",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/CROWN#complaints",
+  "generatedAt": "2026-06-23T16:41:18.569Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Unable to select Drive when car is moving from the neutral position especially if going through automatic car wash . I've had to stop the car totally to be able to move the car from neutral to drive. I also had to put the car in Park at times from neutral to get the car to shift ",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Transmission  Vehicle did not respond to acceleration when I turned onto a feeder street causing us to almost be hit  Problem did not reproduce when I took it to dealership to be corrected.  Please note that the 23 Highlander with this exact engine had this exact problem and I've",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On September 16,  2024 at approximately 13:20 my mother was driving her 2023 Toyota Crown in the parking lot of the post office and she was slowing down to park in a parking spot when all of a sudden the vehicle lunged, surges, jerks ,speeds forward all on the cars own with no ph",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon assessment of substantial amounts of wind noise emanating from driver’s door (while driving at 45mph or higher), I noticed that air is entering the cabin through the door (you can feel it coming out the inside door handle).  The dealership has been unable to determine the ca",
+      "pct": 17
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Toyota Crown. The contact stated that while driving at 50 MPH, the driver’s side window was vibrating abnormally. The vehicle was taken to the dealer but was not diagnosed or repaired. The manufacturer was made aware of the failure. The failure mileage was",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Crown owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Unable to select Drive when car is moving from the neutral position especially if going through automatic car wash . I've had to stop the car totally to be able to move the car from neutral to drive. I also had to put the car in Park at times from neutral to get the car to shift ",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "6 reports (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Transmission  Vehicle did not respond to acceleration when I turned onto a feeder street causing us to almost be hit  Problem did not reproduce when I took it to dealership to be corrected.  Please note that the 23 Highlander with this exact engine had this exact problem and I've",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "4 reports (22%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On September 16,  2024 at approximately 13:20 my mother was driving her 2023 Toyota Crown in the parking lot of the post office and she was slowing down to park in a parking spot when all of a sudden the vehicle lunged, surges, jerks ,speeds forward all on the cars own with no ph",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "3 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon assessment of substantial amounts of wind noise emanating from driver’s door (while driving at 45mph or higher), I noticed that air is entering the cabin through the door (you can feel it coming out the inside door handle).  The dealership has been unable to determine the ca",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "3 reports (17%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Toyota Crown. The contact stated that while driving at 50 MPH, the driver’s side window was vibrating abnormally. The vehicle was taken to the dealer but was not diagnosed or repaired. The manufacturer was made aware of the failure. The failure mileage was",
+        "pct": 11,
+        "title": "Visibility",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

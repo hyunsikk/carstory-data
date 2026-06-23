@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-trailblazer",
+  "make": "Chevrolet",
+  "model": "TrailBlazer",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/TRAILBLAZER#complaints",
+  "generatedAt": "2026-06-23T16:44:47.732Z",
+  "total": 176,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within 3 months of owning the vehicle I started to hear a crackling sound coming from the passenger speaker in the door.  At first it was loud and I thought someone hit me.  It did it several times and then stopped.  It has happened about a dozen times since I have owned the vehi",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 35,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle began to give the error Shift to Park when the vehicle was in park and after the power was shut off. Because of this I cannot safely turn off the vehicle because it cannot recognize it's in park and will run the battery down whenever I use the vehicle. This problem ha",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 32,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Trailblazer. The contact stated that while driving at an undisclosed speed, the AUTO-STOP was not functioning properly. Additionally, the doors would not unlock on two separate occasions. Additionally, the keyless ignition button would not turn o",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 31,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN PARKING OR ABOUT TO MOVE AND YOU PUT FOOT ON BRAKE AND GET INTO A GEAR A LOUD AUDIBLE POPPING NOISE COMES THROUGH THE STEREO SYSTEM.  IT IS VERY LOUD AND NOT BASED ON HOW LOW OR HIGH THE VOLUME OF THE STEREO IS SET.  THERE IS A THREAD ON TRAILBLAZERTALK.COM ABOUT IT NOW.  HT",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had a smell of gasoline inside and under hood of 2021 Trailblazer LT 1.3l. Took to Chevrolet dealer.Confirmed gas odor. Gas was leaking from fuel rail.Sevice manager said it was pouring out. Found out GM has Service bulliten for this PIP5765 that covers both Chevy Trailblazer w",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Trailblazer owners report most",
+    "summary": "Across 176 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within 3 months of owning the vehicle I started to hear a crackling sound coming from the passenger speaker in the door.  At first it was loud and I thought someone hit me.  It did it several times and then stopped.  It has happened about a dozen times since I have owned the vehi",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "37 reports (21%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 35,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle began to give the error Shift to Park when the vehicle was in park and after the power was shut off. Because of this I cannot safely turn off the vehicle because it cannot recognize it's in park and will run the battery down whenever I use the vehicle. This problem ha",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "35 reports (20%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 32,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Trailblazer. The contact stated that while driving at an undisclosed speed, the AUTO-STOP was not functioning properly. Additionally, the doors would not unlock on two separate occasions. Additionally, the keyless ignition button would not turn o",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "32 reports (18%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 31,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN PARKING OR ABOUT TO MOVE AND YOU PUT FOOT ON BRAKE AND GET INTO A GEAR A LOUD AUDIBLE POPPING NOISE COMES THROUGH THE STEREO SYSTEM.  IT IS VERY LOUD AND NOT BASED ON HOW LOW OR HIGH THE VOLUME OF THE STEREO IS SET.  THERE IS A THREAD ON TRAILBLAZERTALK.COM ABOUT IT NOW.  HT",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "31 reports (18%) · 1 fire · 4 crash · 3 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had a smell of gasoline inside and under hood of 2021 Trailblazer LT 1.3l. Took to Chevrolet dealer.Confirmed gas odor. Gas was leaking from fuel rail.Sevice manager said it was pouring out. Found out GM has Service bulliten for this PIP5765 that covers both Chevy Trailblazer w",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "16 reports (9%)"
+      }
+    ]
+  }
+}

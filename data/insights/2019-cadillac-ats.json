@@ -1,0 +1,106 @@
+{
+  "slug": "2019-cadillac-ats",
+  "make": "Cadillac",
+  "model": "ATS",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CADILLAC/ATS#complaints",
+  "generatedAt": "2026-06-23T16:27:35.062Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has an issue where it intermittently throws errors, loses power, accelerates on its own, and is difficult to steer.  I purchased it with 12,800 miles in it and it has been having this issue since then and no one has been able to fix it.  It appears from maintenance record",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has an issue where it intermittently throws errors, loses power, accelerates on its own, and is difficult to steer.  I purchased it with 12,800 miles in it and it has been having this issue since then and no one has been able to fix it.  It appears from maintenance record",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has an issue where it intermittently throws errors, loses power, accelerates on its own, and is difficult to steer.  I purchased it with 12,800 miles in it and it has been having this issue since then and no one has been able to fix it.  It appears from maintenance record",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE STOPPED ITSELF WHEN I WAS AT A COMPLETE STOP AT A TRAFFIC SIGNAL.  AFTER A FEW MINUTES I WAS ABLE TO START THE ENGINE AGAIN.  IT DID THIS THREE TIMES IN THE SPACE OF AN HOUR. ALWAYS AT A COMPLETE STOP.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Cadillac Ats owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Steering (50% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has an issue where it intermittently throws errors, loses power, accelerates on its own, and is difficult to steer.  I purchased it with 12,800 miles in it and it has been having this issue since then and no one has been able to fix it.  It appears from maintenance record",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has an issue where it intermittently throws errors, loses power, accelerates on its own, and is difficult to steer.  I purchased it with 12,800 miles in it and it has been having this issue since then and no one has been able to fix it.  It appears from maintenance record",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has an issue where it intermittently throws errors, loses power, accelerates on its own, and is difficult to steer.  I purchased it with 12,800 miles in it and it has been having this issue since then and no one has been able to fix it.  It appears from maintenance record",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE STOPPED ITSELF WHEN I WAS AT A COMPLETE STOP AT A TRAFFIC SIGNAL.  AFTER A FEW MINUTES I WAS ABLE TO START THE ENGINE AGAIN.  IT DID THIS THREE TIMES IN THE SPACE OF AN HOUR. ALWAYS AT A COMPLETE STOP.",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2015-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BMW/M5#complaints",
+  "generatedAt": "2026-06-23T16:26:48.082Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DOOR LOCKS.  PASSENGER DOORS DO NOT UNLOCK FROM INSIDE WHEN PULLING DOOR HANDLES.  CANNOT UNLOCK MANUALLY. MUST PRESS BUTTON ON DASH TO UNLOCK. VEHICLE NOT IN MOTION.",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING DOWN THE ROAD WHEN MY BMW M5 STARTED TO JUMP AND THE RPM'S NEEDLE STARTED TO JUMP UP AND DOWN AND LEAVING ME STRANDED IN THE MIDDLE OF THE ROAD. CAR DISPLAYED MESSAGES THAT SAID 'FUEL SUPPLY- FULL DRIVE PERFORMANCE NOT AVAILABLE DRIVE MODERATELY ' AND ANOTHER 'DRIVE",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING DOWN THE ROAD WHEN MY BMW M5 STARTED TO JUMP AND THE RPM'S NEEDLE STARTED TO JUMP UP AND DOWN AND LEAVING ME STRANDED IN THE MIDDLE OF THE ROAD. CAR DISPLAYED MESSAGES THAT SAID 'FUEL SUPPLY- FULL DRIVE PERFORMANCE NOT AVAILABLE DRIVE MODERATELY ' AND ANOTHER 'DRIVE",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CARS BRAKES KEEP SCREECHING LOUD. I REACHED OUT TO BMW AND THEY STATED THAT THE BRAKES KEEP SCREECHING BECAUSE THIS CAR IS A PERFORMANCE VEHICLE BUT SOMEONE WHO WORKS AT BMW TOLD ME THAT ITS NOT TRUE AND THAT BMW MADE A MISTAKE WHEN BUILDING THE CAR AND THAT I AM NOT THE FIRS",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Bmw M5 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DOOR LOCKS.  PASSENGER DOORS DO NOT UNLOCK FROM INSIDE WHEN PULLING DOOR HANDLES.  CANNOT UNLOCK MANUALLY. MUST PRESS BUTTON ON DASH TO UNLOCK. VEHICLE NOT IN MOTION.",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING DOWN THE ROAD WHEN MY BMW M5 STARTED TO JUMP AND THE RPM'S NEEDLE STARTED TO JUMP UP AND DOWN AND LEAVING ME STRANDED IN THE MIDDLE OF THE ROAD. CAR DISPLAYED MESSAGES THAT SAID 'FUEL SUPPLY- FULL DRIVE PERFORMANCE NOT AVAILABLE DRIVE MODERATELY ' AND ANOTHER 'DRIVE",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING DOWN THE ROAD WHEN MY BMW M5 STARTED TO JUMP AND THE RPM'S NEEDLE STARTED TO JUMP UP AND DOWN AND LEAVING ME STRANDED IN THE MIDDLE OF THE ROAD. CAR DISPLAYED MESSAGES THAT SAID 'FUEL SUPPLY- FULL DRIVE PERFORMANCE NOT AVAILABLE DRIVE MODERATELY ' AND ANOTHER 'DRIVE",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CARS BRAKES KEEP SCREECHING LOUD. I REACHED OUT TO BMW AND THEY STATED THAT THE BRAKES KEEP SCREECHING BECAUSE THIS CAR IS A PERFORMANCE VEHICLE BUT SOMEONE WHO WORKS AT BMW TOLD ME THAT ITS NOT TRUE AND THAT BMW MADE A MISTAKE WHEN BUILDING THE CAR AND THAT I AM NOT THE FIRS",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

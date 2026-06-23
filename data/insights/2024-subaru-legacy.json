@@ -1,0 +1,128 @@
+{
+  "slug": "2024-subaru-legacy",
+  "make": "Subaru",
+  "model": "Legacy",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/SUBARU/LEGACY#complaints",
+  "generatedAt": "2026-06-23T16:40:46.951Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Apparently the wiring is made of soy based product causing mice to chew it. The power steering was compromise along with many electrical components , luckily I was not on the road when this happened the thought that I would be on the road frightens me. When I went to the dealer, ",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Apparently the wiring is made of soy based product causing mice to chew it. The power steering was compromise along with many electrical components , luckily I was not on the road when this happened the thought that I would be on the road frightens me. When I went to the dealer, ",
+      "pct": 27
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Front Windshield cracks easily. Vehicle is only 7 months old and the front windshield has been cracked four separate times due to small rock impact. I just had the windshield replaced with a new Subaru OEM front windshield and three days later it was hit by a small pebble and cra",
+      "pct": 27
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When my wife (who weighs under 99 pounds) is seated in the front passenger seat the indicator light for the passenger airbags does not always show that the airbags are on.  When I sit in the front passenger seat the indicator light always shows that the airbags are on.  The car w",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "All Safety features stopped working while driving multiple times and loading feature pops up on the display screen. Speakers will go mute randomly, no sound will emit including phone calls. Automatic stop feature has engaged on the interstate multiple times, locking breaks (This ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Subaru Legacy owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Apparently the wiring is made of soy based product causing mice to chew it. The power steering was compromise along with many electrical components , luckily I was not on the road when this happened the thought that I would be on the road frightens me. When I went to the dealer, ",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "5 reports (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Apparently the wiring is made of soy based product causing mice to chew it. The power steering was compromise along with many electrical components , luckily I was not on the road when this happened the thought that I would be on the road frightens me. When I went to the dealer, ",
+        "pct": 27,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (27%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Front Windshield cracks easily. Vehicle is only 7 months old and the front windshield has been cracked four separate times due to small rock impact. I just had the windshield replaced with a new Subaru OEM front windshield and three days later it was hit by a small pebble and cra",
+        "pct": 27,
+        "title": "Visibility/Wiper",
+        "blurb": "4 reports (27%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When my wife (who weighs under 99 pounds) is seated in the front passenger seat the indicator light for the passenger airbags does not always show that the airbags are on.  When I sit in the front passenger seat the indicator light always shows that the airbags are on.  The car w",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "All Safety features stopped working while driving multiple times and loading feature pops up on the display screen. Speakers will go mute randomly, no sound will emit including phone calls. Automatic stop feature has engaged on the interstate multiple times, locking breaks (This ",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

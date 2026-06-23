@@ -1,0 +1,40 @@
+{
+  "slug": "2022-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:55.748Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Primary Symptom: Pronounced, abnormal vibration felt specifically through the driver or passenger seat frame and floorboard. Operating Conditions: Vibration starts at 45 mph and is most severe between 55-65 mph. Also can be felt at idle when vehicle is in P or N or D. Safety Risk",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Porsche Panamera owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Seats (100% of reports).",
+    "issues": [
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Primary Symptom: Pronounced, abnormal vibration felt specifically through the driver or passenger seat frame and floorboard. Operating Conditions: Vibration starts at 45 mph and is most severe between 55-65 mph. Also can be felt at idle when vehicle is in P or N or D. Safety Risk",
+        "pct": 100,
+        "title": "Seats",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

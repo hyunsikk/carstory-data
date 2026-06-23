@@ -1,0 +1,128 @@
+{
+  "slug": "2021-porsche-taycan",
+  "make": "Porsche",
+  "model": "Taycan",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/PORSCHE/TAYCAN#complaints",
+  "generatedAt": "2026-06-23T16:39:57.083Z",
+  "total": 69,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A HIGHWAY AT ABOUT 60 MPH, THE A WARNING MESSAGE APPEARED STATING \"ELECTRICAL SYSTEM ERROR / PARK VEHICLE IN A SAFE PLACE.\" FORTUNATELY WAS ABLE TO MANEUVER VEHICLE TO THE SHOULDER BEFORE LOSING RESPONSIVENESS. VEHICLE THEN WENT INTO PARK STATUS WITH NO ABILITY T",
+      "pct": 54
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A HIGHWAY AT ABOUT 60 MPH, THE A WARNING MESSAGE APPEARED STATING \"ELECTRICAL SYSTEM ERROR / PARK VEHICLE IN A SAFE PLACE.\" FORTUNATELY WAS ABLE TO MANEUVER VEHICLE TO THE SHOULDER BEFORE LOSING RESPONSIVENESS. VEHICLE THEN WENT INTO PARK STATUS WITH NO ABILITY T",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A HIGHWAY AT ABOUT 60 MPH, THE A WARNING MESSAGE APPEARED STATING \"ELECTRICAL SYSTEM ERROR / PARK VEHICLE IN A SAFE PLACE.\" FORTUNATELY WAS ABLE TO MANEUVER VEHICLE TO THE SHOULDER BEFORE LOSING RESPONSIVENESS. VEHICLE THEN WENT INTO PARK STATUS WITH NO ABILITY T",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle is fully electric, and it uses regeneration while braking. With regeneration on, the braking distance is much shorter than without. The driver does NOT have any means to turn regeneration off while braking.  In some instances, the first time the braking system is eng",
+      "pct": 12
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I continuously get 2 messages when I start the car: \"Rear Cross Traffic Alert Not Available\" and \"ParkAssist not available\".  The biggest problem is that when this happens, the rear camera does not work while in reverse. This has caused several near accidents for me. I took it ba",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Porsche Taycan owners report most",
+    "summary": "Across 69 owner complaints to NHTSA, the most reported area is Electrical System (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A HIGHWAY AT ABOUT 60 MPH, THE A WARNING MESSAGE APPEARED STATING \"ELECTRICAL SYSTEM ERROR / PARK VEHICLE IN A SAFE PLACE.\" FORTUNATELY WAS ABLE TO MANEUVER VEHICLE TO THE SHOULDER BEFORE LOSING RESPONSIVENESS. VEHICLE THEN WENT INTO PARK STATUS WITH NO ABILITY T",
+        "pct": 54,
+        "title": "Electrical System",
+        "blurb": "37 reports (54%) · 2 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A HIGHWAY AT ABOUT 60 MPH, THE A WARNING MESSAGE APPEARED STATING \"ELECTRICAL SYSTEM ERROR / PARK VEHICLE IN A SAFE PLACE.\" FORTUNATELY WAS ABLE TO MANEUVER VEHICLE TO THE SHOULDER BEFORE LOSING RESPONSIVENESS. VEHICLE THEN WENT INTO PARK STATUS WITH NO ABILITY T",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "16 reports (23%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A HIGHWAY AT ABOUT 60 MPH, THE A WARNING MESSAGE APPEARED STATING \"ELECTRICAL SYSTEM ERROR / PARK VEHICLE IN A SAFE PLACE.\" FORTUNATELY WAS ABLE TO MANEUVER VEHICLE TO THE SHOULDER BEFORE LOSING RESPONSIVENESS. VEHICLE THEN WENT INTO PARK STATUS WITH NO ABILITY T",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "11 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle is fully electric, and it uses regeneration while braking. With regeneration on, the braking distance is much shorter than without. The driver does NOT have any means to turn regeneration off while braking.  In some instances, the first time the braking system is eng",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "8 reports (12%) · 2 crash"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I continuously get 2 messages when I start the car: \"Rear Cross Traffic Alert Not Available\" and \"ParkAssist not available\".  The biggest problem is that when this happens, the rear camera does not work while in reverse. This has caused several near accidents for me. I took it ba",
+        "pct": 7,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (7%) · 1 crash"
+      }
+    ]
+  }
+}

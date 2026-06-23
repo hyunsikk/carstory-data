@@ -1,0 +1,128 @@
+{
+  "slug": "2017-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:45.311Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Porsche and VW has a drainage issues with certain model vehicles. The drainage plug is set in the trunk near the battery, main system cpu and amplifier. Water gets drain into the lower compartment of the trunk and causes electrical issues with the vehicle. It's been a design flaw",
+      "pct": 27
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OVERNIGHT FUEL PRESSURE LOSS RESULTS IN EXTENDED CRANK CYCLE. DESPITE 6 SERVICE VISITS BETWEEN TWO CHICAGOLAND AREA PORSCHE DEALERSHIPS, THE VEHICLE HAS NOT BEEN SATISFACTORILY REPAIRED. FUEL PRESSURE LOSS WAS CONFIRMED ON MULTIPLE OCCASIONS BY THE SEMERSKY'S PORSCHE EXCHANGE IN ",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Broken and loosened timing chain cover bolts resulting in leaking oil onto drive components, belts and tires/brakes. This recall was done for the Macan and not the Cayenne. Ours was covered under factory extended warranty. That said, this is criminal. Porsche needs to be investig",
+      "pct": 20
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The two headlights have appeared to have condensation due to sealing problem of the headlight. When the light bulbs and beam heat up the air with moisture, it will leave water inside of the headlight cover. This will increase the safety risks when we were driving on the road. The",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Passenger side dash board leather cover has pulled away from dash - thus creating a safety issue with the airbag.  Porsche has examined the damage and recommended a repair but will not cover the cost - but did advise that in the event of a accident - they do see a potential probl",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Porsche Cayenne owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Electrical System (27% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Porsche and VW has a drainage issues with certain model vehicles. The drainage plug is set in the trunk near the battery, main system cpu and amplifier. Water gets drain into the lower compartment of the trunk and causes electrical issues with the vehicle. It's been a design flaw",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "4 reports (27%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OVERNIGHT FUEL PRESSURE LOSS RESULTS IN EXTENDED CRANK CYCLE. DESPITE 6 SERVICE VISITS BETWEEN TWO CHICAGOLAND AREA PORSCHE DEALERSHIPS, THE VEHICLE HAS NOT BEEN SATISFACTORILY REPAIRED. FUEL PRESSURE LOSS WAS CONFIRMED ON MULTIPLE OCCASIONS BY THE SEMERSKY'S PORSCHE EXCHANGE IN ",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Broken and loosened timing chain cover bolts resulting in leaking oil onto drive components, belts and tires/brakes. This recall was done for the Macan and not the Cayenne. Ours was covered under factory extended warranty. That said, this is criminal. Porsche needs to be investig",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The two headlights have appeared to have condensation due to sealing problem of the headlight. When the light bulbs and beam heat up the air with moisture, it will leave water inside of the headlight cover. This will increase the safety risks when we were driving on the road. The",
+        "pct": 20,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Passenger side dash board leather cover has pulled away from dash - thus creating a safety issue with the airbag.  Porsche has examined the damage and recommended a repair but will not cover the cost - but did advise that in the event of a accident - they do see a potential probl",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

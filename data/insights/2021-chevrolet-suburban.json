@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-suburban",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/SUBURBAN#complaints",
+  "generatedAt": "2026-06-23T16:28:51.320Z",
+  "total": 175,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 74,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Suburban. The contact stated while driving approximately 75-80 mph, the lifter collapsed and the contact heard the engine rattling. The contact pulled over and contacted the manufacturer, who provided a tow to the dealer. The dealer diagnosed the",
+      "pct": 42
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drove up to a stoplight 4th car in a turn lane, came to complete stop. Some cars closed ranks a little further so i released my foot off the brake and moved up a few more feet and stopped again. The car then accelerated with brake fully depressed  and wouldn't stop. I then put ge",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "My vehicle died unexpectedly in the middle of the road while backing out of my driveway with cars coming and going around me.  It would not start up again nor could I put it in neutral to move it out of the way. I’ve learned my 2021 Suburban has a defective high pressure fuel mod",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "This evening while driving the windshield wipers started (while the wipers were in the off position).  When using the turning signal it speeds up to approximately 3 times the normal speed.  The display says the back hatch is open and the cargo light is on (the back hatch is close",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 11,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car suddenly swerved, loud knocking started. Multiple system failures started flashing. Forward collision, ECS, traction control, the car was vibrating, jerky. I have multiple videos as well. The dealership literally told me they’d seen a ton of these when I called immediately an",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Suburban owners report most",
+    "summary": "Across 175 owner complaints to NHTSA, the most reported area is Engine (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 74,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Suburban. The contact stated while driving approximately 75-80 mph, the lifter collapsed and the contact heard the engine rattling. The contact pulled over and contacted the manufacturer, who provided a tow to the dealer. The dealer diagnosed the",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "74 reports (42%) · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drove up to a stoplight 4th car in a turn lane, came to complete stop. Some cars closed ranks a little further so i released my foot off the brake and moved up a few more feet and stopped again. The car then accelerated with brake fully depressed  and wouldn't stop. I then put ge",
+        "pct": 19,
+        "title": "Power Train",
+        "blurb": "33 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "My vehicle died unexpectedly in the middle of the road while backing out of my driveway with cars coming and going around me.  It would not start up again nor could I put it in neutral to move it out of the way. I’ve learned my 2021 Suburban has a defective high pressure fuel mod",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "21 reports (12%) · 1 fire · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "This evening while driving the windshield wipers started (while the wipers were in the off position).  When using the turning signal it speeds up to approximately 3 times the normal speed.  The display says the back hatch is open and the cargo light is on (the back hatch is close",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "17 reports (10%) · 1 fire · 4 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 11,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car suddenly swerved, loud knocking started. Multiple system failures started flashing. Forward collision, ECS, traction control, the car was vibrating, jerky. I have multiple videos as well. The dealership literally told me they’d seen a ton of these when I called immediately an",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "11 reports (6%) · 2 crash"
+      }
+    ]
+  }
+}

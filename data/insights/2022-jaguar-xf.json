@@ -1,0 +1,84 @@
+{
+  "slug": "2022-jaguar-xf",
+  "make": "Jaguar",
+  "model": "XF",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JAGUAR/XF#complaints",
+  "generatedAt": "2026-06-23T16:35:27.379Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car stalls and jumps out of gear at takeoff leaving us in the middle of the intersection having to turn the car off and restarting it as cars are trying to go around, also car accelerates too high rpm when taking off at low speed",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car stalls and jumps out of gear at takeoff leaving us in the middle of the intersection having to turn the car off and restarting it as cars are trying to go around, also car accelerates too high rpm when taking off at low speed",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car pulls to the right very hard where I have to hold the steering wheel with both hands.  It also pulls to the left very hard and again I have to hold the steering wheel with both hands.  It's not out of line.  It feels as though its in the power steering which I am a bit con",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Jaguar Xf owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car stalls and jumps out of gear at takeoff leaving us in the middle of the intersection having to turn the car off and restarting it as cars are trying to go around, also car accelerates too high rpm when taking off at low speed",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car stalls and jumps out of gear at takeoff leaving us in the middle of the intersection having to turn the car off and restarting it as cars are trying to go around, also car accelerates too high rpm when taking off at low speed",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car pulls to the right very hard where I have to hold the steering wheel with both hands.  It also pulls to the left very hard and again I have to hold the steering wheel with both hands.  It's not out of line.  It feels as though its in the power steering which I am a bit con",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

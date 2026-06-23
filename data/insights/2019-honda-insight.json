@@ -1,0 +1,128 @@
+{
+  "slug": "2019-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-06-23T16:32:25.868Z",
+  "total": 95,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 17,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA INSIGHT. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE COLLISION AVOIDANCE SENSOR ACTIVATED WHICH CAUSED THE AUTOMATIC BRAKING SYSTEM TO ABRUPTLY STOP THE VEHICLE. THE VEHICLE WAS TAKEN TO POHANKA HONDA LOCATED AT 1772 RITCHIE STAT",
+      "pct": 18
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Honda Insight. The contact stated while driving 45 MPH, the check engine warning light and several other unknown warning lights illuminated, and the vehicle decelerated. The contact was able to drive the vehicle to the residence; however, the failure persi",
+      "pct": 16
+    },
+    {
+      "component": "GASOLINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Honda Insight. The contact stated while driving 45 MPH, the check engine warning light and several other unknown warning lights illuminated, and the vehicle decelerated. The contact was able to drive the vehicle to the residence; however, the failure persi",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE HAVE A NEW 2019 HONDA INSIGHT WITH 176 TOTAL MILES ON IT.  THIS MORNING, ON LEAVING COSTCO IN SALEM OREGON,THERE WAS AN ELECTRICAL PROBLEM WHICH PREVENTED USE OF TURN SIGNALS, LIGHTS AND OTHER SYSTEMS.  THIS PERSISTED FOR THE FOUR MILE DRIVE HOME.  AFTER PARKING THE CAR, UNLOA",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CMBS HAS MISTAKENLY ACTIVATED AT HIGHWAY SPEEDS TWICE NOW IN LESS THAN 1000 MILES DRIVEN. THE CMBS HAS CAUSED MY CAR TO BREAK SHARPLY, FOR JUST A SECOND, REDUCING SPEED BY ABOUT 5-10 MPH, WHEN THERE WAS NO REASON FOR IT TO DO SO. THERE WAS NO PRECIPITATION AND THERE WAS NO OB",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Honda Insight owners report most",
+    "summary": "Across 95 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (18% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 17,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA INSIGHT. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE COLLISION AVOIDANCE SENSOR ACTIVATED WHICH CAUSED THE AUTOMATIC BRAKING SYSTEM TO ABRUPTLY STOP THE VEHICLE. THE VEHICLE WAS TAKEN TO POHANKA HONDA LOCATED AT 1772 RITCHIE STAT",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "17 reports (18%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Honda Insight. The contact stated while driving 45 MPH, the check engine warning light and several other unknown warning lights illuminated, and the vehicle decelerated. The contact was able to drive the vehicle to the residence; however, the failure persi",
+        "pct": 16,
+        "title": "Fuel System",
+        "blurb": "15 reports (16%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Honda Insight. The contact stated while driving 45 MPH, the check engine warning light and several other unknown warning lights illuminated, and the vehicle decelerated. The contact was able to drive the vehicle to the residence; however, the failure persi",
+        "pct": 16,
+        "title": "Gasoline",
+        "blurb": "15 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE HAVE A NEW 2019 HONDA INSIGHT WITH 176 TOTAL MILES ON IT.  THIS MORNING, ON LEAVING COSTCO IN SALEM OREGON,THERE WAS AN ELECTRICAL PROBLEM WHICH PREVENTED USE OF TURN SIGNALS, LIGHTS AND OTHER SYSTEMS.  THIS PERSISTED FOR THE FOUR MILE DRIVE HOME.  AFTER PARKING THE CAR, UNLOA",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "12 reports (13%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CMBS HAS MISTAKENLY ACTIVATED AT HIGHWAY SPEEDS TWICE NOW IN LESS THAN 1000 MILES DRIVEN. THE CMBS HAS CAUSED MY CAR TO BREAK SHARPLY, FOR JUST A SECOND, REDUCING SPEED BY ABOUT 5-10 MPH, WHEN THERE WAS NO REASON FOR IT TO DO SO. THERE WAS NO PRECIPITATION AND THERE WAS NO OB",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "12 reports (13%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

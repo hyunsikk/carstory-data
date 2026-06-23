@@ -1,0 +1,128 @@
+{
+  "slug": "2018-lincoln-mkt",
+  "make": "Lincoln",
+  "model": "MKT",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LINCOLN/MKT#complaints",
+  "generatedAt": "2026-06-23T16:37:44.902Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lincoln MKT. The contact stated while driving at an undisclosed speed, the exterior windshield trim on the driver's side door detached. After some time, the exterior windshield trim on the passenger's side door also detached. The vehicle was taken to the d",
+      "pct": 43
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car started to hesitate, then when I stopped at a light it started running rough like it wanted to stall. Then the engine light started blinking. Vehicle was towed to dealership. All fuel injectors, spark plugs, and ignition coils replaced.",
+      "pct": 14
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The problem is with the rear camera alerts. Sometimes, when I am backing up, it does not alert me when a person is walking in back of my car or sometimes it is a moving vehicle,  and I am in reverse and slowly backing up. All of a sudden I see them right there in back of me so I ",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NAVIGATOR SYSTEM, BLUETOOTH SYSTEM, ARE DISCONNECTED ALL THE TIME, IN THE MIDDLE OF ANY TRIP.",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NAVIGATOR SYSTEM, BLUETOOTH SYSTEM, ARE DISCONNECTED ALL THE TIME, IN THE MIDDLE OF ANY TRIP.",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lincoln Mkt owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Structure (43% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lincoln MKT. The contact stated while driving at an undisclosed speed, the exterior windshield trim on the driver's side door detached. After some time, the exterior windshield trim on the passenger's side door also detached. The vehicle was taken to the d",
+        "pct": 43,
+        "title": "Structure",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car started to hesitate, then when I stopped at a light it started running rough like it wanted to stall. Then the engine light started blinking. Vehicle was towed to dealership. All fuel injectors, spark plugs, and ignition coils replaced.",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The problem is with the rear camera alerts. Sometimes, when I am backing up, it does not alert me when a person is walking in back of my car or sometimes it is a moving vehicle,  and I am in reverse and slowly backing up. All of a sudden I see them right there in back of me so I ",
+        "pct": 14,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NAVIGATOR SYSTEM, BLUETOOTH SYSTEM, ARE DISCONNECTED ALL THE TIME, IN THE MIDDLE OF ANY TRIP.",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NAVIGATOR SYSTEM, BLUETOOTH SYSTEM, ARE DISCONNECTED ALL THE TIME, IN THE MIDDLE OF ANY TRIP.",
+        "pct": 14,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

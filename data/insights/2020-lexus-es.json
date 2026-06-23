@@ -1,0 +1,106 @@
+{
+  "slug": "2020-lexus-es",
+  "make": "Lexus",
+  "model": "ES",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LEXUS/ES#complaints",
+  "generatedAt": "2026-06-23T16:37:17.059Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Lexus ES350. The contact received notification of NHTSA Campaign Number: 23V865000 (Air Bags); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repai",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Lexus ES 350. The contact stated that while his father was driving at 35-37 MPH down a hill, he applied the brake pedal, but the brakes failed to respond. The contact continued to pump the brake pedal. The driver moved the gear shifter, attempting to slow ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2020 Lexus ES 350. The contact stated while the contact's wife was driving at an undisclosed speed, the vehicle independently pulled to the right. The contact's wife had no control of the steering wheel. The contact stated that the vehicle made a hard right tu",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "• Frequent Battery Replacements: My vehicle is now on its third battery within a five-year lifespan. The previous owner replaced the battery two years ago when the vehicle was only two years old, and I recently had to replace it again. • Unacceptable Battery Lifespan: No vehicle ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lexus Es owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Lexus ES350. The contact received notification of NHTSA Campaign Number: 23V865000 (Air Bags); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repai",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "8 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Lexus ES 350. The contact stated that while his father was driving at 35-37 MPH down a hill, he applied the brake pedal, but the brakes failed to respond. The contact continued to pump the brake pedal. The driver moved the gear shifter, attempting to slow ",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "2 reports (13%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2020 Lexus ES 350. The contact stated while the contact's wife was driving at an undisclosed speed, the vehicle independently pulled to the right. The contact's wife had no control of the steering wheel. The contact stated that the vehicle made a hard right tu",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "• Frequent Battery Replacements: My vehicle is now on its third battery within a five-year lifespan. The previous owner replaced the battery two years ago when the vehicle was only two years old, and I recently had to replace it again. • Unacceptable Battery Lifespan: No vehicle ",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

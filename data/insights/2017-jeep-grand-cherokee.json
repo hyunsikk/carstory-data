@@ -1,0 +1,128 @@
+{
+  "slug": "2017-jeep-grand-cherokee",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/JEEP/GRAND%20CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T16:35:57.700Z",
+  "total": 360,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 99,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WE WERE SOLD A RUSTED BRAND NEW CAR BY HUFFINES JEEP DEALERSHIP IN LEWISVILLE, TX. WE IDENTIFIED THE RUST IN THE CAR WITHIN 3 WEEKS ( AND LESS THAN 700 MILES)  AND TOOK IT BACK TO THE DEALERSHIP AND THEY DENIED HELPING US OUT AND REFUSED TO REPLACE THE CAR FOR US AND THE ONLY OPT",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 87,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I STOPPED ON MY DRIVEWAY WHICH IS AT ABOUT A 20 DEGREE ANGLE. PLACED THE VEHICLE IN PARK AND LEFT THE ENGINE RUNNING. I DID NOT APPLY THE PARKING BRAKE. I EXITED THE VEHICLE IN ORDER TO CHANGE DRIVERS AND LEFT THE DOOR OPEN. THE VEHICLE STARTED TO ROLL BACKWARDS SLOWLY. I JUMPED ",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 86,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2017 GRAND CHEROKEE SUMMIT HAS A \"GREMLIN\" IN THAT THE POWER PASSENGER REAR WINDOW, AND POWER LIFTGATE WILL OPEN ON THEIR OWN AND ONE DOESN'T KNOW WHEN IT WILL HAPPEN, AND THIS HAS HAPPENED MORE THAN ONCE WITH REAR WINDOW.  ALSO, LANE ASSIST IS NOW MALFUNCTIONING.  DEALER CAN NOT",
+      "pct": 24
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE DOESN'T SHIFT GEARS PROPERLY WHEN MOVING.   IT MOSTLY HAPPENS ON A REGULAR STREETS IN DAY-TO-DAY DRIVING I'VE NOT NOTICED IT AT HIGHER SPEEDS. THE RPMS GO UP REALLY REALLY HIGH AND YESTERDAY WHEN I WAS GETTING ONTO A SMALLER HIGHWAY FROM A MAIN HIGHWAY IT'S SLID INTO ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 29,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "18 DAYS AFTER PURCHASING MY GRAND CHEROKEE THE CAR SUDDENLY FELT LIKE IT WAS DRAGGING SOMETHING AND HAVING A DIFFICULT TIME MOVING.  IT FELT LIKE THE EMERGENCY BRAKE WAS ON, BUT THE WAS NOT LIGHT INDICATOR.    WHEN WE PULLED OVER THE WHEELS WERE RED HOT AND WHEN WE DROPPED WATER ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Jeep Grand Cherokee owners report most",
+    "summary": "Across 360 owner complaints to NHTSA, the most reported area is Engine (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 99,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WE WERE SOLD A RUSTED BRAND NEW CAR BY HUFFINES JEEP DEALERSHIP IN LEWISVILLE, TX. WE IDENTIFIED THE RUST IN THE CAR WITHIN 3 WEEKS ( AND LESS THAN 700 MILES)  AND TOOK IT BACK TO THE DEALERSHIP AND THEY DENIED HELPING US OUT AND REFUSED TO REPLACE THE CAR FOR US AND THE ONLY OPT",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "99 reports (28%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 87,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I STOPPED ON MY DRIVEWAY WHICH IS AT ABOUT A 20 DEGREE ANGLE. PLACED THE VEHICLE IN PARK AND LEFT THE ENGINE RUNNING. I DID NOT APPLY THE PARKING BRAKE. I EXITED THE VEHICLE IN ORDER TO CHANGE DRIVERS AND LEFT THE DOOR OPEN. THE VEHICLE STARTED TO ROLL BACKWARDS SLOWLY. I JUMPED ",
+        "pct": 24,
+        "title": "Power Train",
+        "blurb": "87 reports (24%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 86,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2017 GRAND CHEROKEE SUMMIT HAS A \"GREMLIN\" IN THAT THE POWER PASSENGER REAR WINDOW, AND POWER LIFTGATE WILL OPEN ON THEIR OWN AND ONE DOESN'T KNOW WHEN IT WILL HAPPEN, AND THIS HAS HAPPENED MORE THAN ONCE WITH REAR WINDOW.  ALSO, LANE ASSIST IS NOW MALFUNCTIONING.  DEALER CAN NOT",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "86 reports (24%) · 3 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE DOESN'T SHIFT GEARS PROPERLY WHEN MOVING.   IT MOSTLY HAPPENS ON A REGULAR STREETS IN DAY-TO-DAY DRIVING I'VE NOT NOTICED IT AT HIGHER SPEEDS. THE RPMS GO UP REALLY REALLY HIGH AND YESTERDAY WHEN I WAS GETTING ONTO A SMALLER HIGHWAY FROM A MAIN HIGHWAY IT'S SLID INTO ",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "30 reports (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 29,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "18 DAYS AFTER PURCHASING MY GRAND CHEROKEE THE CAR SUDDENLY FELT LIKE IT WAS DRAGGING SOMETHING AND HAVING A DIFFICULT TIME MOVING.  IT FELT LIKE THE EMERGENCY BRAKE WAS ON, BUT THE WAS NOT LIGHT INDICATOR.    WHEN WE PULLED OVER THE WHEELS WERE RED HOT AND WHEN WE DROPPED WATER ",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "29 reports (8%) · 5 crash · 4 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2024-jaguar-i-pace",
+  "make": "Jaguar",
+  "model": "I-PACE",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/JAGUAR/I-PACE#complaints",
+  "generatedAt": "2026-06-23T16:45:13.881Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact called about failures with 2024 Jaguar I-Pace vehicles. The contact stated that on four separate occasion had experienced failures with Waymo powered Jaguar vehicles. The contact stated that while exiting a one-way circle, a Waymo vehicle started driving towards her v",
+      "pct": 92
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SAFETY INCIDENTS  1. Highway Limp Mode Failure — May 2026 & June 2026 While driving on the highway in summer conditions with my infant in the vehicle, the car has entered limp mode twice without warning, reducing speed to a maximum of 2mph. This left us stranded in live traffic l",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SAFETY INCIDENTS  1. Highway Limp Mode Failure — May 2026 & June 2026 While driving on the highway in summer conditions with my infant in the vehicle, the car has entered limp mode twice without warning, reducing speed to a maximum of 2mph. This left us stranded in live traffic l",
+      "pct": 8
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "How was your safety or the safety of others put at risk? On multiple occasions, the vehicle crossed solid white lines during active traffic, made illegal turning maneuvers at intersections without yielding properly, and consistently camped in the passing lane at speeds below the ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Jaguar I-Pace owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Electrical System (92% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact called about failures with 2024 Jaguar I-Pace vehicles. The contact stated that on four separate occasion had experienced failures with Waymo powered Jaguar vehicles. The contact stated that while exiting a one-way circle, a Waymo vehicle started driving towards her v",
+        "pct": 92,
+        "title": "Electrical System",
+        "blurb": "11 reports (92%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SAFETY INCIDENTS  1. Highway Limp Mode Failure — May 2026 & June 2026 While driving on the highway in summer conditions with my infant in the vehicle, the car has entered limp mode twice without warning, reducing speed to a maximum of 2mph. This left us stranded in live traffic l",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SAFETY INCIDENTS  1. Highway Limp Mode Failure — May 2026 & June 2026 While driving on the highway in summer conditions with my infant in the vehicle, the car has entered limp mode twice without warning, reducing speed to a maximum of 2mph. This left us stranded in live traffic l",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "How was your safety or the safety of others put at risk? On multiple occasions, the vehicle crossed solid white lines during active traffic, made illegal turning maneuvers at intersections without yielding properly, and consistently camped in the passing lane at speeds below the ",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

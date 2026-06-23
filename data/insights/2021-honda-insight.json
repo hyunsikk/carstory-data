@@ -1,0 +1,128 @@
+{
+  "slug": "2021-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-06-23T16:32:27.134Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had 6 times where the collision warning has slammed on the brakes when there is no vehicles on the road in front of me. This is very dangerous when vehicles are behind you. I'm afraid that this car is going to cause a reck and get me and my wife hurt.  A device that is sup",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON TWO OCCASIONS I'VE HAD A BRAKE SYSTEM PROBLEM EROR MESSAGE POP UP ON MY HOME SCREEN INSIDE OF THE CAR AND ON THE HONDALINK APP 12/09/2020 AND ON 12/18/2020. I WAS LEAVING WORK ON BOTH INCIDENTS. THE MESSAGE READS: THE BRAKE SYSTEM HAS A PROBLEM OR THE BRAKE FLUID MAY BE LOW. I",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Honda Insight. The contact stated while driving at 55 mph, a deer jumped in front of the vehicle causing the contact to hit the deer but none of the air bags deployed. The contact mentioned that the automatic brakes were engaged during the incident. No one",
+      "pct": 13
+    },
+    {
+      "component": "SEATS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Summary American Honda Motor Co., Inc. (Honda) is recalling certain 2021 model year Insight vehicles. A capacitor in the printed circuit board of the front passenger seat weight sensor may crack and lead to an internal short circuit from the exposure to environmental humidity.  S",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE PURCHASED THE VEHICLE ON 1/23/21. ON 2/4/21, I WAS DRIVING IN DOBSON, NC, WHEN THE POWER CONTROL UNIT (PCU) MALFUNCTIONED, LEADING TO LOSS OF POWER STEERING AND BRAKES. WHEN I STARTED THE CAR, THE WARNING LIGHTS CAME ON. I TURNED THE CAR OFF AND THEN RESTARTED IT WITHOUT WARNI",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Honda Insight owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had 6 times where the collision warning has slammed on the brakes when there is no vehicles on the road in front of me. This is very dangerous when vehicles are behind you. I'm afraid that this car is going to cause a reck and get me and my wife hurt.  A device that is sup",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON TWO OCCASIONS I'VE HAD A BRAKE SYSTEM PROBLEM EROR MESSAGE POP UP ON MY HOME SCREEN INSIDE OF THE CAR AND ON THE HONDALINK APP 12/09/2020 AND ON 12/18/2020. I WAS LEAVING WORK ON BOTH INCIDENTS. THE MESSAGE READS: THE BRAKE SYSTEM HAS A PROBLEM OR THE BRAKE FLUID MAY BE LOW. I",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Honda Insight. The contact stated while driving at 55 mph, a deer jumped in front of the vehicle causing the contact to hit the deer but none of the air bags deployed. The contact mentioned that the automatic brakes were engaged during the incident. No one",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "3 reports (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Summary American Honda Motor Co., Inc. (Honda) is recalling certain 2021 model year Insight vehicles. A capacitor in the printed circuit board of the front passenger seat weight sensor may crack and lead to an internal short circuit from the exposure to environmental humidity.  S",
+        "pct": 13,
+        "title": "Seats",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE PURCHASED THE VEHICLE ON 1/23/21. ON 2/4/21, I WAS DRIVING IN DOBSON, NC, WHEN THE POWER CONTROL UNIT (PCU) MALFUNCTIONED, LEADING TO LOSS OF POWER STEERING AND BRAKES. WHEN I STARTED THE CAR, THE WARNING LIGHTS CAME ON. I TURNED THE CAR OFF AND THEN RESTARTED IT WITHOUT WARNI",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "3 reports (13%)"
+      }
+    ]
+  }
+}

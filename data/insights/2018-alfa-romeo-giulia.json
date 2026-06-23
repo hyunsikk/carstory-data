@@ -1,0 +1,128 @@
+{
+  "slug": "2018-alfa-romeo-giulia",
+  "make": "Alfa Romeo",
+  "model": "Giulia",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/ALFA%20ROMEO/GIULIA#complaints",
+  "generatedAt": "2026-06-23T16:42:45.849Z",
+  "total": 83,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Under certain condition's the vehicle will stop running without warning.  More specifically, when the outside temperature is hot, combined with a fuel level which is at or below 1/4 but not empty, the car will quit running.  It has resulted in my being stranded along the roadside",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle presenting significant life-threatening system-wide failures while driving.  These catastrophic system failures result in the vehicle becoming immediately undrivable without warning placing passengers at significant risk, particularly when traveling at high speeds (e.g., ",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CLIMATE CONTROL SYSTEM HAS MALFUNCTIONED SINCE I PURCHASED THE VEHICLE.  HOT AIR BLOWS OUT THE DRIVER'S SIDE REGULARLY, AND ALFA ROMEO, AND THE DEALERSHIP I ACQUIRED IT FROM, J STAR MOTORS IN ANAHEIM, CA., DON'T APPEAR INTERESTED IN CORRECTING THE PROBLEM, EVEN AFTER FOUR VIS",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "AUTOMATIC EMERGENCY BREAKING OCCURRED WITH NO WARNING ON A ROAD, THAT WHILE LANES WERE CLOSED DUE TO CONSTRUCTION, HAD NO OBSERVABLE OBSTRUCTIONS INCLUDING STEEL PLATES, ETC.  THE WARNING OCCURRED A FRACTION OF A SECOND PRIOR TO THE BRAKING AND I ONLY NOTICED IT IN RETROSPECT.  T",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I RECENTLY PURCHASED THIS 2018 ALFA ROMEO GUILIA USED.  I WAS NOT TOTALLY FAMILIAR WITH THE FUEL SYSTEM WARNING, AND I BELIEVED I HAD AT LEAST 20-25 MILES OF FUEL REMAINING.  I MAY HAVE MISCALCULATED MY MILEAGE, BUT IN ANY EVENT, I RAN OUT OF FUEL (I WAS CLOSE TO A GAS STATION AS",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Alfa Romeo Giulia owners report most",
+    "summary": "Across 83 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Under certain condition's the vehicle will stop running without warning.  More specifically, when the outside temperature is hot, combined with a fuel level which is at or below 1/4 but not empty, the car will quit running.  It has resulted in my being stranded along the roadside",
+        "pct": 37,
+        "title": "Fuel/Propulsion System",
+        "blurb": "31 reports (37%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle presenting significant life-threatening system-wide failures while driving.  These catastrophic system failures result in the vehicle becoming immediately undrivable without warning placing passengers at significant risk, particularly when traveling at high speeds (e.g., ",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "20 reports (24%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CLIMATE CONTROL SYSTEM HAS MALFUNCTIONED SINCE I PURCHASED THE VEHICLE.  HOT AIR BLOWS OUT THE DRIVER'S SIDE REGULARLY, AND ALFA ROMEO, AND THE DEALERSHIP I ACQUIRED IT FROM, J STAR MOTORS IN ANAHEIM, CA., DON'T APPEAR INTERESTED IN CORRECTING THE PROBLEM, EVEN AFTER FOUR VIS",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "19 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "AUTOMATIC EMERGENCY BREAKING OCCURRED WITH NO WARNING ON A ROAD, THAT WHILE LANES WERE CLOSED DUE TO CONSTRUCTION, HAD NO OBSERVABLE OBSTRUCTIONS INCLUDING STEEL PLATES, ETC.  THE WARNING OCCURRED A FRACTION OF A SECOND PRIOR TO THE BRAKING AND I ONLY NOTICED IT IN RETROSPECT.  T",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "8 reports (10%) · 1 fire · 4 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I RECENTLY PURCHASED THIS 2018 ALFA ROMEO GUILIA USED.  I WAS NOT TOTALLY FAMILIAR WITH THE FUEL SYSTEM WARNING, AND I BELIEVED I HAD AT LEAST 20-25 MILES OF FUEL REMAINING.  I MAY HAVE MISCALCULATED MY MILEAGE, BUT IN ANY EVENT, I RAN OUT OF FUEL (I WAS CLOSE TO A GAS STATION AS",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "8 reports (10%)"
+      }
+    ]
+  }
+}

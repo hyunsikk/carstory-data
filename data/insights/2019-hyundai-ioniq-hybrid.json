@@ -1,0 +1,128 @@
+{
+  "slug": "2019-hyundai-ioniq-hybrid",
+  "make": "Hyundai",
+  "model": "Ioniq Hybrid",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HYUNDAI/IONIQ%20HYBRID#complaints",
+  "generatedAt": "2026-06-23T16:33:36.569Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "One morning, my father turned on the car. It was still in Park. He and my mom heard a noise, as if my dad was pushing on the gas pedal, but he was not. They turned off the car, turned it on again, and everything seemed fine.  After driving for a bit, my father was back home and p",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Hyundai Ioniq. The contact stated that while attempting to park into her son's parking pad, the vehicle independently accelerated reverse while in the reverse(R) position. The vehicle initially hit a gutter on the side of the house; as the vehicle continue",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "One morning, my father turned on the car. It was still in Park. He and my mom heard a noise, as if my dad was pushing on the gas pedal, but he was not. They turned off the car, turned it on again, and everything seemed fine.  After driving for a bit, my father was back home and p",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FOR THE SECOND COLD MORNING THIS YEAR MY IONIQ STALLED. I WAS PARKED IN MY DRIVEWAY.  TEMPERATURE WAS -3F, I PRESS THE POWER BUTTON, CAR TRIED TO START AND STALLED THREE TIMES IN A ROW THEN GOT A CHECK HYBRID SYSTEM WARNING MESSAGE. I TURNED THE CAR OFF THEN ON AGAIN AND IT START",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Hyundai Ioniq. The contact stated that while attempting to park into her son's parking pad, the vehicle independently accelerated reverse while in the reverse(R) position. The vehicle initially hit a gutter on the side of the house; as the vehicle continue",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Hyundai Ioniq Hybrid owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "One morning, my father turned on the car. It was still in Park. He and my mom heard a noise, as if my dad was pushing on the gas pedal, but he was not. They turned off the car, turned it on again, and everything seemed fine.  After driving for a bit, my father was back home and p",
+        "pct": 38,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (38%) · 1 fire · 3 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Hyundai Ioniq. The contact stated that while attempting to park into her son's parking pad, the vehicle independently accelerated reverse while in the reverse(R) position. The vehicle initially hit a gutter on the side of the house; as the vehicle continue",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "4 reports (25%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "One morning, my father turned on the car. It was still in Park. He and my mom heard a noise, as if my dad was pushing on the gas pedal, but he was not. They turned off the car, turned it on again, and everything seemed fine.  After driving for a bit, my father was back home and p",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "3 reports (19%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FOR THE SECOND COLD MORNING THIS YEAR MY IONIQ STALLED. I WAS PARKED IN MY DRIVEWAY.  TEMPERATURE WAS -3F, I PRESS THE POWER BUTTON, CAR TRIED TO START AND STALLED THREE TIMES IN A ROW THEN GOT A CHECK HYBRID SYSTEM WARNING MESSAGE. I TURNED THE CAR OFF THEN ON AGAIN AND IT START",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Hyundai Ioniq. The contact stated that while attempting to park into her son's parking pad, the vehicle independently accelerated reverse while in the reverse(R) position. The vehicle initially hit a gutter on the side of the house; as the vehicle continue",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

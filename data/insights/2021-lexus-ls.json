@@ -1,0 +1,106 @@
+{
+  "slug": "2021-lexus-ls",
+  "make": "Lexus",
+  "model": "LS",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LEXUS/LS#complaints",
+  "generatedAt": "2026-06-23T16:37:23.888Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle has the V6 twin turbo engine that’s been recalled on other years and models and was diagnosed with an internal engine failure. The mechanic at the dealership couldn’t figure out the problem so an expert TAS Lexus specialist was called in and couldn’t figure out the pro",
+      "pct": 20
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Both headlight assemblies on a 2021 Lexus LS 500 show external lens delamination, along with visible condensation inside the sealed units. The vehicle has been garage kept, has not been involved in any accidents, and has no external damage to the headlight assemblies.  The outer ",
+      "pct": 20
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OEM Bridgestone Turanza EL440 RFT 245/45 R20  These tires have not retained recommended air pressure for more than a few weeks at a time since new. Inspection earlier this year by a Bridgestone dealer found no problem with a tire that had lost 5 psi in a week. The tire subsequent",
+      "pct": 20
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car slipped because of tread wear on the inner side of all four tires. Car has manufacturer installed tires.",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Lexus Ls owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (20% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle has the V6 twin turbo engine that’s been recalled on other years and models and was diagnosed with an internal engine failure. The mechanic at the dealership couldn’t figure out the problem so an expert TAS Lexus specialist was called in and couldn’t figure out the pro",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Both headlight assemblies on a 2021 Lexus LS 500 show external lens delamination, along with visible condensation inside the sealed units. The vehicle has been garage kept, has not been involved in any accidents, and has no external damage to the headlight assemblies.  The outer ",
+        "pct": 20,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OEM Bridgestone Turanza EL440 RFT 245/45 R20  These tires have not retained recommended air pressure for more than a few weeks at a time since new. Inspection earlier this year by a Bridgestone dealer found no problem with a tire that had lost 5 psi in a week. The tire subsequent",
+        "pct": 20,
+        "title": "Tires",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car slipped because of tread wear on the inner side of all four tires. Car has manufacturer installed tires.",
+        "pct": 20,
+        "title": "Wheels",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

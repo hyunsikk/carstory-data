@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-a5",
+  "make": "Audi",
+  "model": "A5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/A5#complaints",
+  "generatedAt": "2026-06-23T16:25:24.935Z",
+  "total": 60,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 41,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Where I am currently living, speed is measured on the roads in km/h. My vehicle allows the speedometer digital display screen (Audi virtual cockpit) to be switched to display MPH or km/h. When working correctly, the speedometer should display the speed with digits and an analog s",
+      "pct": 68
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The MMI screen in my 2020 Audi A5 Sportback randomly reboots while driving, with no consistent pattern. These reboots occur regardless of whether a phone is connected—via USB-C, Bluetooth, or not connected at all. The issue is highly distracting and often occurs during critical m",
+      "pct": 25
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Complaint Summary Component: Electrical System / Infotainment (MMI) Vehicle: 2020 Audi A5 Make/Model/Year: Audi A5, 2020 Frequency of Issue: Ongoing, multiple times per week Safety Concern: Yes  Description of the Problem: I am experiencing ongoing and repeated spontaneous reboot",
+      "pct": 5
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "Communication system: The telephone microphone works intermittently and fails while the seat belt is fastened. The car is equipped with telephone microphones in the driver's seatbelt and on the roof, under the rearview mirror. The microphone system works when the seatbelt is NOT ",
+      "pct": 3
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Starting early 2025 with no changes or modifications or warning - the MMI system in my 2020 Audi A5 began spontanously rebooting. It appears to be rebooting regardless use or radio, CarPlay, or nothing - even after the recent factory reset. Reboots appear to occur at random - som",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi A5 owners report most",
+    "summary": "Across 60 owner complaints to NHTSA, the most reported area is Electrical System (68% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 41,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Where I am currently living, speed is measured on the roads in km/h. My vehicle allows the speedometer digital display screen (Audi virtual cockpit) to be switched to display MPH or km/h. When working correctly, the speedometer should display the speed with digits and an analog s",
+        "pct": 68,
+        "title": "Electrical System",
+        "blurb": "41 reports (68%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The MMI screen in my 2020 Audi A5 Sportback randomly reboots while driving, with no consistent pattern. These reboots occur regardless of whether a phone is connected—via USB-C, Bluetooth, or not connected at all. The issue is highly distracting and often occurs during critical m",
+        "pct": 25,
+        "title": "Back Over Prevention",
+        "blurb": "15 reports (25%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Complaint Summary Component: Electrical System / Infotainment (MMI) Vehicle: 2020 Audi A5 Make/Model/Year: Audi A5, 2020 Frequency of Issue: Ongoing, multiple times per week Safety Concern: Yes  Description of the Problem: I am experiencing ongoing and repeated spontaneous reboot",
+        "pct": 5,
+        "title": "Lane Departure",
+        "blurb": "3 reports (5%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "Communication system: The telephone microphone works intermittently and fails while the seat belt is fastened. The car is equipped with telephone microphones in the driver's seatbelt and on the roof, under the rearview mirror. The microphone system works when the seatbelt is NOT ",
+        "pct": 3,
+        "title": "Seat Belts",
+        "blurb": "2 reports (3%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Starting early 2025 with no changes or modifications or warning - the MMI system in my 2020 Audi A5 began spontanously rebooting. It appears to be rebooting regardless use or radio, CarPlay, or nothing - even after the recent factory reset. Reboots appear to occur at random - som",
+        "pct": 2,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (2%)"
+      }
+    ]
+  }
+}

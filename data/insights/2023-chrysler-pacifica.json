@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chrysler-pacifica",
+  "make": "Chrysler",
+  "model": "Pacifica",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHRYSLER/PACIFICA#complaints",
+  "generatedAt": "2026-06-23T16:29:10.085Z",
+  "total": 132,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 44,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Engine Light and the \"A\" warning light stay on while driving.  2. It's unsafe with family in the car; fear it will shut off on the highway.  3. yes, the dealer has agreed its a defeated part causing the engine to light to come on 4. No warning lights before driving a car for a",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 38,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2023 Pacifica with around 3k miles. I purchased brand new. In the few months that I have owned the vehicle, it has turned off about 5 times while driving. It loses all power. Engine, power, etc completely dies. I need to restart the vehicle, wait for start-up, and then I",
+      "pct": 29
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact rented a 2023 Chrysler Pacifica. The contact stated that while driving at an undisclosed speed and stopped in traffic, the accelerator pedal was depressed; however, the vehicle failed to accelerate. The contact shifted the transmission into park(P) and attempted to sh",
+      "pct": 26
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chrysler Pacifica. The contact received notification of NHTSA Campaign Number: 25V302000 (AIR BAGS); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a re",
+      "pct": 23
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving at highway speed the vehicle flashed a vehicle and I’ll shut down sign. A red turtle flashed and the vehicle began to decelerate. Had to pull over to a less than safe sand shoulder. Had highway speed traffic directly behind me. Dealership pulled codes related to the",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chrysler Pacifica owners report most",
+    "summary": "Across 132 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 44,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Engine Light and the \"A\" warning light stay on while driving.  2. It's unsafe with family in the car; fear it will shut off on the highway.  3. yes, the dealer has agreed its a defeated part causing the engine to light to come on 4. No warning lights before driving a car for a",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "44 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 38,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2023 Pacifica with around 3k miles. I purchased brand new. In the few months that I have owned the vehicle, it has turned off about 5 times while driving. It loses all power. Engine, power, etc completely dies. I need to restart the vehicle, wait for start-up, and then I",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "38 reports (29%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact rented a 2023 Chrysler Pacifica. The contact stated that while driving at an undisclosed speed and stopped in traffic, the accelerator pedal was depressed; however, the vehicle failed to accelerate. The contact shifted the transmission into park(P) and attempted to sh",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "34 reports (26%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chrysler Pacifica. The contact received notification of NHTSA Campaign Number: 25V302000 (AIR BAGS); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a re",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "31 reports (23%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving at highway speed the vehicle flashed a vehicle and I’ll shut down sign. A red turtle flashed and the vehicle began to decelerate. Had to pull over to a less than safe sand shoulder. Had highway speed traffic directly behind me. Dealership pulled codes related to the",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (11%)"
+      }
+    ]
+  }
+}

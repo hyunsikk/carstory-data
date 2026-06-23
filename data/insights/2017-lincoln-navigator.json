@@ -1,0 +1,128 @@
+{
+  "slug": "2017-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:55.285Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Lincoln Navigator. The contact stated when starting the vehicle, the vehicle lost brake functionality. The brake fluid warning light illuminated. The vehicle was taken to the local dealer to be diagnosed. The contact was informed that the brake master cyli",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is a 2017 Lincoln Navigator. The Backup Camera works maybe 50% of the times that I attempt to back up. I understand that Lincoln has a recall on other Lincoln vehicles for this issue, but not for the Navigator.  The Cross Traffic Alert does not work. In combination, at",
+      "pct": 17
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Lincoln Navigator. The contact stated when starting the vehicle, the vehicle lost brake functionality. The brake fluid warning light illuminated. The vehicle was taken to the local dealer to be diagnosed. The contact was informed that the brake master cyli",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "F THE TURN SIGNAL CONTROL ARM IS MOVED PARTIALLY IN ANY DIRECTION, AND IMMEDIATELY MOVED INTO THE FULLY OPPOSITE DIRECTION, THE TURN SIGNALS WILL BE DISABLED.    IF THE OPERATOR ADJUSTS THE HIGH BEAMS, OR SIMPLY MAKES A MISTAKE WHEN TRYING TO SIGNAL, (BY SELECTING THE WRONG DIREC",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Lincoln Navigator. The contact received notification of NHTSA Campaign Numbers: 22V150000 (Service Brakes, Hydraulic) and 22V648000 (Visibility, Electrical System); however, the parts to do the recall repair were not yet available. The local dealer was con",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Lincoln Navigator owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Service Brakes (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Lincoln Navigator. The contact stated when starting the vehicle, the vehicle lost brake functionality. The brake fluid warning light illuminated. The vehicle was taken to the local dealer to be diagnosed. The contact was informed that the brake master cyli",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "10 reports (33%) · 1 crash"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is a 2017 Lincoln Navigator. The Backup Camera works maybe 50% of the times that I attempt to back up. I understand that Lincoln has a recall on other Lincoln vehicles for this issue, but not for the Navigator.  The Cross Traffic Alert does not work. In combination, at",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Lincoln Navigator. The contact stated when starting the vehicle, the vehicle lost brake functionality. The brake fluid warning light illuminated. The vehicle was taken to the local dealer to be diagnosed. The contact was informed that the brake master cyli",
+        "pct": 17,
+        "title": "Hydraulic",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "F THE TURN SIGNAL CONTROL ARM IS MOVED PARTIALLY IN ANY DIRECTION, AND IMMEDIATELY MOVED INTO THE FULLY OPPOSITE DIRECTION, THE TURN SIGNALS WILL BE DISABLED.    IF THE OPERATOR ADJUSTS THE HIGH BEAMS, OR SIMPLY MAKES A MISTAKE WHEN TRYING TO SIGNAL, (BY SELECTING THE WRONG DIREC",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "4 reports (13%) · 1 fire"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Lincoln Navigator. The contact received notification of NHTSA Campaign Numbers: 22V150000 (Service Brakes, Hydraulic) and 22V648000 (Visibility, Electrical System); however, the parts to do the recall repair were not yet available. The local dealer was con",
+        "pct": 13,
+        "title": "Visibility",
+        "blurb": "4 reports (13%)"
+      }
+    ]
+  }
+}

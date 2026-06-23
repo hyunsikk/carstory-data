@@ -1,0 +1,128 @@
+{
+  "slug": "2016-kia-soul",
+  "make": "Kia",
+  "model": "Soul",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/KIA/SOUL#complaints",
+  "generatedAt": "2026-06-23T16:36:54.423Z",
+  "total": 798,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 544,
+      "crash": 4,
+      "fire": 28,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "MY CAR IS 2016, ITS 18 MONTHS OLD HAS 19K MILES AND THE ONLY THING DONE TO THE CAR WAS OIL CHANGES WHICH WERE PERFORMED AT THE DEALER WHERE I BOUGHT MY CAR. ON JAN 19, 2018 MY CAR STOP WORKING WHILE DRIVING 45 MILES AN HOUR ON THE STREET. IT HAPPENED ON NW 36TH STREET GOING EAST ",
+      "pct": 68
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 104,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 KIA SOUL. WHILE DRIVING APPROXIMATELY 25 MPH, A KNOCKING SOUND WAS HEARD FROM THE ENGINE COMPARTMENT AND THE VEHICLE LOST POWER. THE VEHICLE WAS DRIVEN TO GERALD KIA OF NAPERVILLE (1661 AURORA AVE, NAPERVILLE, IL 60540) WHERE IT WAS DETERMINED THAT THE",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 79,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I EXPERIENCE INTERMITTENT HESITATION WHEN PRESSING ON THE ACCELERATOR.  IT FEELS LIKE THE CAR ISN'T DOWNSHIFTING CORRECTLY OR ISN'T GETTING ENOUGH FUEL IN ORDER TO PICK UP SPEED. I TOOK THE CAR TO THE KIA DEALER SERVICE DEPARTMENT AND THEY SAID THEY DIDN'T FIND ANY PROBLEMS AND C",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 63,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SINCE DAY ONE, MY KIA LOOSE COMMUNICATION WITH GAS PEDAL TO TRANSMISSION OR COMPUTER.FROM STOP I ACCELERATE, AND IF FOR ANY REASON I OUGHT TO RELEASE THE GAS PEDAL, THE TRANSMISSION ACT LIKE IT IS IN NEUTRAL GEAR,AFTER ACCELERATE TWO OR THREE TIMES IT ACCELERATE ABRUPTLY.IT ACT E",
+      "pct": 8
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 57,
+      "crash": 1,
+      "fire": 7,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "DRIVING THIS CAR HIGH SPEEDS (FREEWAY) FOR LONGER PERIODS OF TIME (30 MINUTES OR MORE PER DAY) FOR MORE THAN 3 CONSECUTIVE DAYS AFFECTS MY OVERALL HEALTH AND ABILITY TO DRIVE THE CAR. IT GET CHRONIC HEADACHES, TROUBLE CONCENTRATING, SLEEPING PROBLEMS, DIZZINESS, FORGETFULNESS, EX",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Kia Soul owners report most",
+    "summary": "Across 798 owner complaints to NHTSA, the most reported area is Engine (68% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 544,
+        "crash": 4,
+        "fire": 28,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "MY CAR IS 2016, ITS 18 MONTHS OLD HAS 19K MILES AND THE ONLY THING DONE TO THE CAR WAS OIL CHANGES WHICH WERE PERFORMED AT THE DEALER WHERE I BOUGHT MY CAR. ON JAN 19, 2018 MY CAR STOP WORKING WHILE DRIVING 45 MILES AN HOUR ON THE STREET. IT HAPPENED ON NW 36TH STREET GOING EAST ",
+        "pct": 68,
+        "title": "Engine",
+        "blurb": "544 reports (68%) · 28 fire · 4 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 104,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 KIA SOUL. WHILE DRIVING APPROXIMATELY 25 MPH, A KNOCKING SOUND WAS HEARD FROM THE ENGINE COMPARTMENT AND THE VEHICLE LOST POWER. THE VEHICLE WAS DRIVEN TO GERALD KIA OF NAPERVILLE (1661 AURORA AVE, NAPERVILLE, IL 60540) WHERE IT WAS DETERMINED THAT THE",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "104 reports (13%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 79,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I EXPERIENCE INTERMITTENT HESITATION WHEN PRESSING ON THE ACCELERATOR.  IT FEELS LIKE THE CAR ISN'T DOWNSHIFTING CORRECTLY OR ISN'T GETTING ENOUGH FUEL IN ORDER TO PICK UP SPEED. I TOOK THE CAR TO THE KIA DEALER SERVICE DEPARTMENT AND THEY SAID THEY DIDN'T FIND ANY PROBLEMS AND C",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "79 reports (10%) · 4 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 63,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SINCE DAY ONE, MY KIA LOOSE COMMUNICATION WITH GAS PEDAL TO TRANSMISSION OR COMPUTER.FROM STOP I ACCELERATE, AND IF FOR ANY REASON I OUGHT TO RELEASE THE GAS PEDAL, THE TRANSMISSION ACT LIKE IT IS IN NEUTRAL GEAR,AFTER ACCELERATE TWO OR THREE TIMES IT ACCELERATE ABRUPTLY.IT ACT E",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "63 reports (8%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 57,
+        "crash": 1,
+        "fire": 7,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "DRIVING THIS CAR HIGH SPEEDS (FREEWAY) FOR LONGER PERIODS OF TIME (30 MINUTES OR MORE PER DAY) FOR MORE THAN 3 CONSECUTIVE DAYS AFFECTS MY OVERALL HEALTH AND ABILITY TO DRIVE THE CAR. IT GET CHRONIC HEADACHES, TROUBLE CONCENTRATING, SLEEPING PROBLEMS, DIZZINESS, FORGETFULNESS, EX",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "57 reports (7%) · 7 fire · 1 crash · 5 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2017-maserati-ghibli",
+  "make": "Maserati",
+  "model": "Ghibli",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/MASERATI/GHIBLI#complaints",
+  "generatedAt": "2026-06-23T16:42:52.497Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER 365 IGNITION FLASH RECALL, THE CAR STARTED TO FAIL TO ACCELERATE PROPERLY ON DEMAND WHILE IN MOTION ON A HIGHWAY. I FELT LIKE THE GEARS WERE SLIPPING, DID NOT ENGAGE THE PROPER GEAR ON ACCELERATION. CAUSING THE CAR TO LOOSE SPEED INSTEAD OF INCREASING SPEED. DEALERSHIP CONF",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A RECALL LETTER DATED MAY 18, 2018 RECALL#18V-173    MY VEHICLE WHEN BEING OPERATED AT SPEEDS OF APPROXIMATELY 2 MILES PER HOUR (LOW ENGINE RPM), WHICH CAN BE ENCOUNTERED DURING HEAVY STOP-AND-GO (BUMPER-TO-BUMPER) TRAFFIC CONDITIONS, CAUSES THE ENGINE TO SHUT DOWN.    THE",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "POWER TRUNK DOES NOT HAVE SAFETY STOP SENSOR. MY WIFE WAS GRABBING THINGS FROM THE TRUNK WHEN THE TRUNK LID STARTED CLOSING AND DOES NOT STOP WHEN IT WAS CLOSING ON HER HEAD. SHE WAS ABLE TO FORCE HERSELF OUT AND THE TRUNK LID CONTINUED TO CLOSE. THIS IS A MAJOR SAFETY CONCERN AS",
+      "pct": 29
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 MASERATI GHIBLI. WHILE DRIVING APPROXIMATELY 5 MPH, THERE WAS A SUDDEN LOSS OF POWER AND THE BRAKES FAILED TO ENGAGE WHEN THE BRAKE PEDAL WAS DEPRESSED. AS A RESULT, THE CONTACT CRASHED INTO THE REAR OF THE PRECEDING VEHICLE. A POLICE REPORT WAS FILED.",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE COMPLAINING TO THE DEALER SINCE I BOUGHT THE CAR ABOUT NOISE ON THE STEERING WHEEL AND TRANSMISSION. THE CAR SINCE PURCHASED ON 2016 HAS BEEN OUT FOR SERVICE 62 DAYS. I REPORTED SEVERAL TIMES A LOUD KLUNK NOISE ON THE STEERING AND ON THE , TOOK IT TO REPAIR. TOOK THE CAR T",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Maserati Ghibli owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER 365 IGNITION FLASH RECALL, THE CAR STARTED TO FAIL TO ACCELERATE PROPERLY ON DEMAND WHILE IN MOTION ON A HIGHWAY. I FELT LIKE THE GEARS WERE SLIPPING, DID NOT ENGAGE THE PROPER GEAR ON ACCELERATION. CAUSING THE CAR TO LOOSE SPEED INSTEAD OF INCREASING SPEED. DEALERSHIP CONF",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "7 reports (33%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A RECALL LETTER DATED MAY 18, 2018 RECALL#18V-173    MY VEHICLE WHEN BEING OPERATED AT SPEEDS OF APPROXIMATELY 2 MILES PER HOUR (LOW ENGINE RPM), WHICH CAN BE ENCOUNTERED DURING HEAVY STOP-AND-GO (BUMPER-TO-BUMPER) TRAFFIC CONDITIONS, CAUSES THE ENGINE TO SHUT DOWN.    THE",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "7 reports (33%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "POWER TRUNK DOES NOT HAVE SAFETY STOP SENSOR. MY WIFE WAS GRABBING THINGS FROM THE TRUNK WHEN THE TRUNK LID STARTED CLOSING AND DOES NOT STOP WHEN IT WAS CLOSING ON HER HEAD. SHE WAS ABLE TO FORCE HERSELF OUT AND THE TRUNK LID CONTINUED TO CLOSE. THIS IS A MAJOR SAFETY CONCERN AS",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "6 reports (29%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 MASERATI GHIBLI. WHILE DRIVING APPROXIMATELY 5 MPH, THERE WAS A SUDDEN LOSS OF POWER AND THE BRAKES FAILED TO ENGAGE WHEN THE BRAKE PEDAL WAS DEPRESSED. AS A RESULT, THE CONTACT CRASHED INTO THE REAR OF THE PRECEDING VEHICLE. A POLICE REPORT WAS FILED.",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "3 reports (14%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE COMPLAINING TO THE DEALER SINCE I BOUGHT THE CAR ABOUT NOISE ON THE STEERING WHEEL AND TRANSMISSION. THE CAR SINCE PURCHASED ON 2016 HAS BEEN OUT FOR SERVICE 62 DAYS. I REPORTED SEVERAL TIMES A LOUD KLUNK NOISE ON THE STEERING AND ON THE , TOOK IT TO REPAIR. TOOK THE CAR T",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "3 reports (14%) · 1 fire · 1 crash"
+      }
+    ]
+  }
+}

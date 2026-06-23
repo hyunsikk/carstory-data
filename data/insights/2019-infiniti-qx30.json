@@ -1,0 +1,84 @@
+{
+  "slug": "2019-infiniti-qx30",
+  "make": "Infiniti",
+  "model": "QX30",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/INFINITI/QX30#complaints",
+  "generatedAt": "2026-06-23T16:45:10.834Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The accelerator position sensor and the related wiring is defective.  It loses power during acceleration and does not accelerate properly.  My safety and the safety of others is at risk because it has lost power while in 65-70 mph traffic which almost caused an accident.  The dea",
+      "pct": 67
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The accelerator position sensor and the related wiring is defective.  It loses power during acceleration and does not accelerate properly.  My safety and the safety of others is at risk because it has lost power while in 65-70 mph traffic which almost caused an accident.  The dea",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I HYDROPLANED MY VEHICLE WHILE DRIVE BETWEEN 55-60 MPH OF INTERSTATE 10 IN HOUSTON, TX ON 11/28/2020. I SLIDE ACROSS FOUR LANES AND FRONT END COLLIDED WITH A CONCRETE BARRIER. NOT ONE OF MY AIRBAGS DEPLOYED. THE FRAME WAS BENT AND RIPPED NEXT TO THE SENSORS AND I REPORTED THIS TO",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Infiniti Qx30 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The accelerator position sensor and the related wiring is defective.  It loses power during acceleration and does not accelerate properly.  My safety and the safety of others is at risk because it has lost power while in 65-70 mph traffic which almost caused an accident.  The dea",
+        "pct": 67,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (67%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The accelerator position sensor and the related wiring is defective.  It loses power during acceleration and does not accelerate properly.  My safety and the safety of others is at risk because it has lost power while in 65-70 mph traffic which almost caused an accident.  The dea",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I HYDROPLANED MY VEHICLE WHILE DRIVE BETWEEN 55-60 MPH OF INTERSTATE 10 IN HOUSTON, TX ON 11/28/2020. I SLIDE ACROSS FOUR LANES AND FRONT END COLLIDED WITH A CONCRETE BARRIER. NOT ONE OF MY AIRBAGS DEPLOYED. THE FRAME WAS BENT AND RIPPED NEXT TO THE SENSORS AND I REPORTED THIS TO",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

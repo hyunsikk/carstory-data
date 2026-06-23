@@ -1,0 +1,128 @@
+{
+  "slug": "2017-bmw-3-series",
+  "make": "BMW",
+  "model": "3 Series",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/3%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:23.323Z",
+  "total": 70,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING THE CAR WITH TWO PASSENGERS AND THE CAR SUDDENLY BECAME TOTALLY UNRESPONSIVE. I MANAGED TO COAST TO THE SHOULDER OF THE ROAD ON A VERY BUSY STREET. I CONTACTED BMW AND REPORTED THE PROBLEM. THE YELLOW ENGINE LIGHT WAS ON AND IT WAS STUCK IN PARK. I COULD NOT GET IT ",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE THE CAR WAS PLUGGED IN OVERNIGHT IN THE GARAGE, (IT IS A HYBRID), A TERRIBLE ODOR WAS RELEASED AND CARBON MONOXIDE WAS DETECTED. FIRE DEPARTMENT WAS CALLED TWICE (THIS OCCURRED TWO NIGHTS IN A ROW) AND DETECTED HIGH LEVELS OF CO FROM INSIDE THE CAR AND FROM THE HOOD. WE NEE",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High Pressure Fuel Pump started going out on 15 April 2021 while under manufacturer warranty.  Took to Moss Motors BMW in Lafayette LA.  BMW found High Pressure Fuel pump issue, replaced fuel rail and sensors.   Check Engine Light came back on 21 May 2021.  Took to BMW of Mobile ",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 BMW 330I. The contact stated while driving approximately 70 MPH, the check engine warning light and \"Stop Immediately\" message was displayed. The contact pulled off the highway and noticed white smoke coming from underneath the hood. The contact safely pla",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE WAS IN MOTION ON THE HIGHWAY ON THE LEFT LANE OF TRAFFIC AT A SPEED OF 65MPH IN \"EDRIVE\" MODE.  AS EXPECTED, IT SHIFTED FROM ELECTRIC TO COMBUSTION ENGINE AT 65MPH THOUGH THE AT THIS POINT THE CAR STARTED COASTING, AS IF IT WAS IN NEUTRAL, EVEN THOUGH THE INDICATOR ON",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw 3 Series owners report most",
+    "summary": "Across 70 owner complaints to NHTSA, the most reported area is Engine (40% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING THE CAR WITH TWO PASSENGERS AND THE CAR SUDDENLY BECAME TOTALLY UNRESPONSIVE. I MANAGED TO COAST TO THE SHOULDER OF THE ROAD ON A VERY BUSY STREET. I CONTACTED BMW AND REPORTED THE PROBLEM. THE YELLOW ENGINE LIGHT WAS ON AND IT WAS STUCK IN PARK. I COULD NOT GET IT ",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "28 reports (40%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE THE CAR WAS PLUGGED IN OVERNIGHT IN THE GARAGE, (IT IS A HYBRID), A TERRIBLE ODOR WAS RELEASED AND CARBON MONOXIDE WAS DETECTED. FIRE DEPARTMENT WAS CALLED TWICE (THIS OCCURRED TWO NIGHTS IN A ROW) AND DETECTED HIGH LEVELS OF CO FROM INSIDE THE CAR AND FROM THE HOOD. WE NEE",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "9 reports (13%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High Pressure Fuel Pump started going out on 15 April 2021 while under manufacturer warranty.  Took to Moss Motors BMW in Lafayette LA.  BMW found High Pressure Fuel pump issue, replaced fuel rail and sensors.   Check Engine Light came back on 21 May 2021.  Took to BMW of Mobile ",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (10%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 BMW 330I. The contact stated while driving approximately 70 MPH, the check engine warning light and \"Stop Immediately\" message was displayed. The contact pulled off the highway and noticed white smoke coming from underneath the hood. The contact safely pla",
+        "pct": 6,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (6%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE WAS IN MOTION ON THE HIGHWAY ON THE LEFT LANE OF TRAFFIC AT A SPEED OF 65MPH IN \"EDRIVE\" MODE.  AS EXPECTED, IT SHIFTED FROM ELECTRIC TO COMBUSTION ENGINE AT 65MPH THOUGH THE AT THIS POINT THE CAR STARTED COASTING, AS IF IT WAS IN NEUTRAL, EVEN THOUGH THE INDICATOR ON",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "4 reports (6%)"
+      }
+    ]
+  }
+}

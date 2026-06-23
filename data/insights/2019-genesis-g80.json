@@ -1,0 +1,128 @@
+{
+  "slug": "2019-genesis-g80",
+  "make": "Genesis",
+  "model": "G80",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/GENESIS/G80#complaints",
+  "generatedAt": "2026-06-23T16:30:59.790Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Genesis G80. The contact stated that upon the vehicle sitting for as little as 24 hours, the AGM battery would abnormally drain, describing the issue as parasitic electrical drain. After having the battery recharged, the failure would recur. No warning lig",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recall number 1 from 2022 was just complete at Homer Skelton Hyundai in Olive Branch Mississippi on around [XXX]. Now this 2024 recall which is major involving over 30,000 vehicles as of today with the fire hazard is very very suspect. I received a letter 5 months ago and have no",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS INVOLVED IN AN AUTO ACCIDENT.  THE FRONT DRIVER SIDE QUARTER PANEL WAS HIT.  NO AIRBAGS DEPLOYED IN EITHER CAR.  IMMEDIATELY UPON THE COLLISION, I TRIED TO STOP THE CAR, BUT IT ACCELERATED ON IT'S OWN.  THE CAR WOULD NOT STOP.  I MADE A SPLIT DECISION TO PULL INTO A PARKING",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I WAS INVOLVED IN AN AUTO ACCIDENT.  THE FRONT DRIVER SIDE QUARTER PANEL WAS HIT.  NO AIRBAGS DEPLOYED IN EITHER CAR.  IMMEDIATELY UPON THE COLLISION, I TRIED TO STOP THE CAR, BUT IT ACCELERATED ON IT'S OWN.  THE CAR WOULD NOT STOP.  I MADE A SPLIT DECISION TO PULL INTO A PARKING",
+      "pct": 8
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE IS A RECALL I LEARNED THROUGH MY OWN RESEARCH HEARING ABOUT IT THROUGH THE NEWS MEDIA.  MANUFACTURER RECALL NUMBER006G  NHTSA RECALL NUMBER21V160000    I HAVE NOT BEEN NOTIFIED BY THE MANUFACTURER OR DEALER ABOUT A PROBLEM. I DID ASK ABOUT IT ON A ROUTINE SERVICE CALL. AND ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Genesis G80 owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Electrical System (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Genesis G80. The contact stated that upon the vehicle sitting for as little as 24 hours, the AGM battery would abnormally drain, describing the issue as parasitic electrical drain. After having the battery recharged, the failure would recur. No warning lig",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "7 reports (27%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recall number 1 from 2022 was just complete at Homer Skelton Hyundai in Olive Branch Mississippi on around [XXX]. Now this 2024 recall which is major involving over 30,000 vehicles as of today with the fire hazard is very very suspect. I received a letter 5 months ago and have no",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS INVOLVED IN AN AUTO ACCIDENT.  THE FRONT DRIVER SIDE QUARTER PANEL WAS HIT.  NO AIRBAGS DEPLOYED IN EITHER CAR.  IMMEDIATELY UPON THE COLLISION, I TRIED TO STOP THE CAR, BUT IT ACCELERATED ON IT'S OWN.  THE CAR WOULD NOT STOP.  I MADE A SPLIT DECISION TO PULL INTO A PARKING",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "5 reports (19%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I WAS INVOLVED IN AN AUTO ACCIDENT.  THE FRONT DRIVER SIDE QUARTER PANEL WAS HIT.  NO AIRBAGS DEPLOYED IN EITHER CAR.  IMMEDIATELY UPON THE COLLISION, I TRIED TO STOP THE CAR, BUT IT ACCELERATED ON IT'S OWN.  THE CAR WOULD NOT STOP.  I MADE A SPLIT DECISION TO PULL INTO A PARKING",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (8%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE IS A RECALL I LEARNED THROUGH MY OWN RESEARCH HEARING ABOUT IT THROUGH THE NEWS MEDIA.  MANUFACTURER RECALL NUMBER006G  NHTSA RECALL NUMBER21V160000    I HAVE NOT BEEN NOTIFIED BY THE MANUFACTURER OR DEALER ABOUT A PROBLEM. I DID ASK ABOUT IT ON A ROUTINE SERVICE CALL. AND ",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

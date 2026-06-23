@@ -1,0 +1,128 @@
+{
+  "slug": "2021-gmc-canyon",
+  "make": "GMC",
+  "model": "Canyon",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GMC/CANYON#complaints",
+  "generatedAt": "2026-06-23T16:31:23.365Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 GMC Canyon. The contact stated while driving 6 MPH and going over a speed bump, the contact heard an abnormal knocking sound emanating from the driver’s side suspension. No warning lights were illuminated. The vehicle was taken to the dealer, who determine",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I was involved in a MVA with another car. The other car had all their airbags deploy after they struck me. None of my airbags deployed.  I was hit in the right front corner ahead of my right tire. The secondary impact was to my right side between my rear passenger door and rear t",
+      "pct": 20
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 GMC Canyon. The contact stated that while driving at various speeds, the driver’s side low beam headlight failed to illuminate as intended. No warning light was illuminated. In addition, the contact stated that upon further inspection, an unknown electrica",
+      "pct": 10
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 GMC Canyon. The contact stated that while reversing, the back over prevention screen image was solid blue, and there was no image displayed, creating a visibility hazard for the driver. The vehicle was taken to the local dealer, and it was determined that ",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The electric power steering motor stopped working while driving on the highway. The vehicle was almost impossible to control and almost caused me to enter the oncoming lane of traffic.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Gmc Canyon owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 GMC Canyon. The contact stated while driving 6 MPH and going over a speed bump, the contact heard an abnormal knocking sound emanating from the driver’s side suspension. No warning lights were illuminated. The vehicle was taken to the dealer, who determine",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I was involved in a MVA with another car. The other car had all their airbags deploy after they struck me. None of my airbags deployed.  I was hit in the right front corner ahead of my right tire. The secondary impact was to my right side between my rear passenger door and rear t",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "2 reports (20%) · 2 crash · 5 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 GMC Canyon. The contact stated that while driving at various speeds, the driver’s side low beam headlight failed to illuminate as intended. No warning light was illuminated. In addition, the contact stated that upon further inspection, an unknown electrica",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 GMC Canyon. The contact stated that while reversing, the back over prevention screen image was solid blue, and there was no image displayed, creating a visibility hazard for the driver. The vehicle was taken to the local dealer, and it was determined that ",
+        "pct": 10,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The electric power steering motor stopped working while driving on the highway. The vehicle was almost impossible to control and almost caused me to enter the oncoming lane of traffic.",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

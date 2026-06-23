@@ -1,0 +1,106 @@
+{
+  "slug": "2023-mercedes-benz-metris",
+  "make": "Mercedes-Benz",
+  "model": "Metris",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MERCEDES-BENZ/METRIS#complaints",
+  "generatedAt": "2026-06-23T16:45:34.489Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The power steering randomly fails in the vehicle and works again when the vehicle is restarted.   Here is the link to Mercedes's inspection:    [XXX]   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "This incident happened to an employee driving a mercedes metris for work. The metris was involved in a multi car accident. The driver reported that the steering wheel \"took over\" and would not let them maneuver out of the way to avoid a vehicle that had rear ended the vehicle in ",
+      "pct": 50
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "This incident happened to an employee driving a mercedes metris for work. The metris was involved in a multi car accident. The driver reported that the steering wheel \"took over\" and would not let them maneuver out of the way to avoid a vehicle that had rear ended the vehicle in ",
+      "pct": 50
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "This incident happened to an employee driving a mercedes metris for work. The metris was involved in a multi car accident. The driver reported that the steering wheel \"took over\" and would not let them maneuver out of the way to avoid a vehicle that had rear ended the vehicle in ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mercedes-Benz Metris owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Steering (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The power steering randomly fails in the vehicle and works again when the vehicle is restarted.   Here is the link to Mercedes's inspection:    [XXX]   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "This incident happened to an employee driving a mercedes metris for work. The metris was involved in a multi car accident. The driver reported that the steering wheel \"took over\" and would not let them maneuver out of the way to avoid a vehicle that had rear ended the vehicle in ",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%) · 1 crash · 4 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "This incident happened to an employee driving a mercedes metris for work. The metris was involved in a multi car accident. The driver reported that the steering wheel \"took over\" and would not let them maneuver out of the way to avoid a vehicle that had rear ended the vehicle in ",
+        "pct": 50,
+        "title": "Seat Belts",
+        "blurb": "1 report (50%) · 1 crash · 4 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "This incident happened to an employee driving a mercedes metris for work. The metris was involved in a multi car accident. The driver reported that the steering wheel \"took over\" and would not let them maneuver out of the way to avoid a vehicle that had rear ended the vehicle in ",
+        "pct": 50,
+        "title": "Lane Departure",
+        "blurb": "1 report (50%) · 1 crash · 4 injured"
+      }
+    ]
+  }
+}

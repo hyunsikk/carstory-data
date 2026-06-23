@@ -1,0 +1,84 @@
+{
+  "slug": "2014-audi-rs7",
+  "make": "Audi",
+  "model": "RS7",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/AUDI/RS7#complaints",
+  "generatedAt": "2026-06-23T16:43:36.764Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOTH TURBOS BECAME STARVED OF OIL AND DISINTEGRATED. ACCORDING TO SERVICE PERSONNEL, THE CAUSE WAS DUE TO A CLOGGED OIL SCREEN FILTERING OIL TO THE TURBOS. THE CAR HAD BEEN SERVICED REGULARLY AND PRECISELY PER AUDI FACTORY SCHEDULE. THE CAR WAS IN MOTION WHEN IT LOST POWER AND ST",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOTH TURBOS BECAME STARVED OF OIL AND DISINTEGRATED. ACCORDING TO SERVICE PERSONNEL, THE CAUSE WAS DUE TO A CLOGGED OIL SCREEN FILTERING OIL TO THE TURBOS. THE CAR HAD BEEN SERVICED REGULARLY AND PRECISELY PER AUDI FACTORY SCHEDULE. THE CAR WAS IN MOTION WHEN IT LOST POWER AND ST",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOTH TURBOS BECAME STARVED OF OIL AND DISINTEGRATED. ACCORDING TO SERVICE PERSONNEL, THE CAUSE WAS DUE TO A CLOGGED OIL SCREEN FILTERING OIL TO THE TURBOS. THE CAR HAD BEEN SERVICED REGULARLY AND PRECISELY PER AUDI FACTORY SCHEDULE. THE CAR WAS IN MOTION WHEN IT LOST POWER AND ST",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Audi Rs7 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOTH TURBOS BECAME STARVED OF OIL AND DISINTEGRATED. ACCORDING TO SERVICE PERSONNEL, THE CAUSE WAS DUE TO A CLOGGED OIL SCREEN FILTERING OIL TO THE TURBOS. THE CAR HAD BEEN SERVICED REGULARLY AND PRECISELY PER AUDI FACTORY SCHEDULE. THE CAR WAS IN MOTION WHEN IT LOST POWER AND ST",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "5 reports (100%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOTH TURBOS BECAME STARVED OF OIL AND DISINTEGRATED. ACCORDING TO SERVICE PERSONNEL, THE CAUSE WAS DUE TO A CLOGGED OIL SCREEN FILTERING OIL TO THE TURBOS. THE CAR HAD BEEN SERVICED REGULARLY AND PRECISELY PER AUDI FACTORY SCHEDULE. THE CAR WAS IN MOTION WHEN IT LOST POWER AND ST",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOTH TURBOS BECAME STARVED OF OIL AND DISINTEGRATED. ACCORDING TO SERVICE PERSONNEL, THE CAUSE WAS DUE TO A CLOGGED OIL SCREEN FILTERING OIL TO THE TURBOS. THE CAR HAD BEEN SERVICED REGULARLY AND PRECISELY PER AUDI FACTORY SCHEDULE. THE CAR WAS IN MOTION WHEN IT LOST POWER AND ST",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

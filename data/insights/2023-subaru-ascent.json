@@ -1,0 +1,128 @@
+{
+  "slug": "2023-subaru-ascent",
+  "make": "Subaru",
+  "model": "Ascent",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/ASCENT#complaints",
+  "generatedAt": "2026-06-23T16:40:34.508Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own a Subaru 2023 Ascent ([XXX]) that I purchased in December 2022. Since I got the car, the car has been nothing but a headache and has been full of issues. The car was making a squeaking noise from the break from the day we got it. I took it to the dealer (within a month, 600",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subaru Eyesight will turn off randomly while driving or while parked (turn the vehicle off, unlock the door, sit for a minute or two and when restarting the vehicle, eyesight indicator is orange - off.  Example - getting fuel at a full service gas station.  Yes the vehicle is ava",
+      "pct": 15
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2023 Subaru Ascent Touring.  Front windshield easily cracked from minor rock strikes 3 times within 20 months.  Replacement with Subarus OEM glasses twice already within 3 months.  Now a new crack needs repair or potential replacement.  Defective windshield that cannot withhold m",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Only 3500 miles on new 2023 Subaru ASCENT and it won\"t start. I have had to give it a boost four times already, anytime I need to use it. I check to make sure there are no lights left on. Just staying parked from one day to the next and it won\"t start. I have an appointment at th",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Only 3500 miles on new 2023 Subaru ASCENT and it won\"t start. I have had to give it a boost four times already, anytime I need to use it. I check to make sure there are no lights left on. Just staying parked from one day to the next and it won\"t start. I have an appointment at th",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Subaru Ascent owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Service Brakes (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own a Subaru 2023 Ascent ([XXX]) that I purchased in December 2022. Since I got the car, the car has been nothing but a headache and has been full of issues. The car was making a squeaking noise from the break from the day we got it. I took it to the dealer (within a month, 600",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "9 reports (23%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subaru Eyesight will turn off randomly while driving or while parked (turn the vehicle off, unlock the door, sit for a minute or two and when restarting the vehicle, eyesight indicator is orange - off.  Example - getting fuel at a full service gas station.  Yes the vehicle is ava",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2023 Subaru Ascent Touring.  Front windshield easily cracked from minor rock strikes 3 times within 20 months.  Replacement with Subarus OEM glasses twice already within 3 months.  Now a new crack needs repair or potential replacement.  Defective windshield that cannot withhold m",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Only 3500 miles on new 2023 Subaru ASCENT and it won\"t start. I have had to give it a boost four times already, anytime I need to use it. I check to make sure there are no lights left on. Just staying parked from one day to the next and it won\"t start. I have an appointment at th",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "3 reports (8%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Only 3500 miles on new 2023 Subaru ASCENT and it won\"t start. I have had to give it a boost four times already, anytime I need to use it. I check to make sure there are no lights left on. Just staying parked from one day to the next and it won\"t start. I have an appointment at th",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "3 reports (8%) · 1 fire"
+      }
+    ]
+  }
+}

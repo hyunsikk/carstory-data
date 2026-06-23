@@ -1,0 +1,62 @@
+{
+  "slug": "2015-jaguar-xk",
+  "make": "Jaguar",
+  "model": "XK",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/JAGUAR/XK#complaints",
+  "generatedAt": "2026-06-23T16:45:13.950Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My wife parked the car in the garage and we noticed a puddle of gas below the car.  After determining that we had a real issue we had it towed to an independent service provider.  After inspection by the mechanic he noted that the plastic retainer clip on the fuel pump flange (Ja",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN PASSENGER IS SEATED IN PASSENGER SEAT, THE 'PASSENGER AIRBAG OFF\" LIGHT SPORATICALLY ILLUMINATES.  THIS MEANS THAT THE PASSENGER IS NOT PROTECTED BY AIRBAGS IF A COLLISION OCCURS.  IT DOES NOT SEEM TO MATTER IF THE VEHICLE IS STATIONARY OR NOT.  THIS MALFUNCTION HAS BEEN VER",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Jaguar Xk owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My wife parked the car in the garage and we noticed a puddle of gas below the car.  After determining that we had a real issue we had it towed to an independent service provider.  After inspection by the mechanic he noted that the plastic retainer clip on the fuel pump flange (Ja",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN PASSENGER IS SEATED IN PASSENGER SEAT, THE 'PASSENGER AIRBAG OFF\" LIGHT SPORATICALLY ILLUMINATES.  THIS MEANS THAT THE PASSENGER IS NOT PROTECTED BY AIRBAGS IF A COLLISION OCCURS.  IT DOES NOT SEEM TO MATTER IF THE VEHICLE IS STATIONARY OR NOT.  THIS MALFUNCTION HAS BEEN VER",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

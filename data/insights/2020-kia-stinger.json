@@ -1,0 +1,128 @@
+{
+  "slug": "2020-kia-stinger",
+  "make": "Kia",
+  "model": "Stinger",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/KIA/STINGER#complaints",
+  "generatedAt": "2026-06-23T16:37:01.607Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FUEL LINE CONNECTION WITHIN THE ENGINE COMPARTMENT HAD A LOCK/COVER THAT WAS NOT SEATED/ATTACHED. ISSUE WAS DISCOVERED AFTER DOING A THOROUGH LOOK OVER OF A NEWLY PURCHASED VEHICLE IN WHICH A LOOSE NUT WAS FOUND IN THE TRUNK. UPON REMOVAL OF THE PLASTIC ENGINE COVER NEXT TO THE N",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FUEL LINE CONNECTION WITHIN THE ENGINE COMPARTMENT HAD A LOCK/COVER THAT WAS NOT SEATED/ATTACHED. ISSUE WAS DISCOVERED AFTER DOING A THOROUGH LOOK OVER OF A NEWLY PURCHASED VEHICLE IN WHICH A LOOSE NUT WAS FOUND IN THE TRUNK. UPON REMOVAL OF THE PLASTIC ENGINE COVER NEXT TO THE N",
+      "pct": 38
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Kia Stinger. The contact stated that while driving at various speeds, the vehicle would jerk and hesitate upon depression of the accelerator pedal as the check engine light appeared on the instrument panel. One day while at a stop sign, the vehicle stalled",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a Failure of the Remedy for NHTSA Recall 23V634000 (Kia Recall SC281). The original recall attempted to \"fix\" a High-Pressure Fuel Pump (HPFP) issue via a software update to the Engine Control Unit (ECU). This remedy has failed. My vehicle is currently experiencing",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving to work and the steering wheel just looked up and got really stiff and hard to control which was really dangerous. Prior to the I could just be sitting idle and the steering wheel would just start moving by itself out of nowhere.",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Kia Stinger owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (38% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FUEL LINE CONNECTION WITHIN THE ENGINE COMPARTMENT HAD A LOCK/COVER THAT WAS NOT SEATED/ATTACHED. ISSUE WAS DISCOVERED AFTER DOING A THOROUGH LOOK OVER OF A NEWLY PURCHASED VEHICLE IN WHICH A LOOSE NUT WAS FOUND IN THE TRUNK. UPON REMOVAL OF THE PLASTIC ENGINE COVER NEXT TO THE N",
+        "pct": 38,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FUEL LINE CONNECTION WITHIN THE ENGINE COMPARTMENT HAD A LOCK/COVER THAT WAS NOT SEATED/ATTACHED. ISSUE WAS DISCOVERED AFTER DOING A THOROUGH LOOK OVER OF A NEWLY PURCHASED VEHICLE IN WHICH A LOOSE NUT WAS FOUND IN THE TRUNK. UPON REMOVAL OF THE PLASTIC ENGINE COVER NEXT TO THE N",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "6 reports (38%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Kia Stinger. The contact stated that while driving at various speeds, the vehicle would jerk and hesitate upon depression of the accelerator pedal as the check engine light appeared on the instrument panel. One day while at a stop sign, the vehicle stalled",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "5 reports (31%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a Failure of the Remedy for NHTSA Recall 23V634000 (Kia Recall SC281). The original recall attempted to \"fix\" a High-Pressure Fuel Pump (HPFP) issue via a software update to the Engine Control Unit (ECU). This remedy has failed. My vehicle is currently experiencing",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving to work and the steering wheel just looked up and got really stiff and hard to control which was really dangerous. Prior to the I could just be sitting idle and the steering wheel would just start moving by itself out of nowhere.",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

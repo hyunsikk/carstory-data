@@ -1,0 +1,128 @@
+{
+  "slug": "2017-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/FORD/FLEX#complaints",
+  "generatedAt": "2026-06-23T16:45:02.960Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD FLEX. THE CONTACT STATED THAT WHILE TRAVELING AT 45 MPH, SHE DEPRESSED THE BRAKE PEDAL AS SHE HEARD APPROACHING POLICE SIRENS. AS THE CONTACT CAME TO A COMPLETE STOP, SHE WAS HIT FROM BEHIND BY ANOTHER VEHICLE AND WAS THRUST INTO THE MIDDLE OF AN ",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Component or System Failed: The rearview/backup camera system has failed. The image consistently displays upside down when the camera activates, and at times the camera does not turn on at all. The system remains installed in the vehicle and is available for inspection upon reque",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD FLEX. THE CONTACT STATED WHILE DRIVING AT NIGHT, SHE NOTICED THAT THE WINDSHIELD SHOWED DISTORTED VIEWS OF ABNORMAL OBJECTS. THE VEHICLE WAS TAKEN TO A CORWIN FORD LOCATED AT 1225 AUTO PLEX WAY, PASCO, WA 99301) FOR REPAIRS HOWEVER, THE CONTACT WA",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello,  I recently submitted a safety complaint regarding my 2017 Ford Flex. The complaint number is XXX.  I would like to add additional information that I forgot to include in the original report.  The vehicle’s power liftgate has intermittently opened on its own while the vehi",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON MONDAY, SEPT 28, 2020 AT APPROXIMATELY 10:30 AM WHILE DRIVING SOUTHBOUND ON INTERSTATE 5 (JUST BEFORE THE WEST MOUNTAIN VIEW OVERPASS IN FIREBAUGH CA) DOING 70 MPH, THE CAR BEGAN FISHTAILING ERRATICALLY - SWERVING BETWEEN LANES. FORTUNATELY, THE DRIVER WAS ABLE TO MANEUVER THE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Ford Flex owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Suspension (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD FLEX. THE CONTACT STATED THAT WHILE TRAVELING AT 45 MPH, SHE DEPRESSED THE BRAKE PEDAL AS SHE HEARD APPROACHING POLICE SIRENS. AS THE CONTACT CAME TO A COMPLETE STOP, SHE WAS HIT FROM BEHIND BY ANOTHER VEHICLE AND WAS THRUST INTO THE MIDDLE OF AN ",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "13 reports (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Component or System Failed: The rearview/backup camera system has failed. The image consistently displays upside down when the camera activates, and at times the camera does not turn on at all. The system remains installed in the vehicle and is available for inspection upon reque",
+        "pct": 13,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (13%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD FLEX. THE CONTACT STATED WHILE DRIVING AT NIGHT, SHE NOTICED THAT THE WINDSHIELD SHOWED DISTORTED VIEWS OF ABNORMAL OBJECTS. THE VEHICLE WAS TAKEN TO A CORWIN FORD LOCATED AT 1225 AUTO PLEX WAY, PASCO, WA 99301) FOR REPAIRS HOWEVER, THE CONTACT WA",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello,  I recently submitted a safety complaint regarding my 2017 Ford Flex. The complaint number is XXX.  I would like to add additional information that I forgot to include in the original report.  The vehicle’s power liftgate has intermittently opened on its own while the vehi",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "3 reports (8%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON MONDAY, SEPT 28, 2020 AT APPROXIMATELY 10:30 AM WHILE DRIVING SOUTHBOUND ON INTERSTATE 5 (JUST BEFORE THE WEST MOUNTAIN VIEW OVERPASS IN FIREBAUGH CA) DOING 70 MPH, THE CAR BEGAN FISHTAILING ERRATICALLY - SWERVING BETWEEN LANES. FORTUNATELY, THE DRIVER WAS ABLE TO MANEUVER THE",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "3 reports (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-gmc-yukon",
+  "make": "GMC",
+  "model": "Yukon",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/GMC/YUKON#complaints",
+  "generatedAt": "2026-06-23T16:31:47.197Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 GMC YUKON. THE CONTACT STATED THAT WHILE OPERATING THE VEHICLE THE FRONT SEAT DRIVER AND PASSENGER HAD BECOME ILL AND SUFFERED DIZZINESS AND LIGHT HEADINESS AND THE PASSENGER ALSO SUFFER BREATHING PROBLEMS WHICH REQUIRED MEDICAL TREATMENT. THE VEHICLE ",
+      "pct": 52
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE STATIONARY IN CAR WASH AND WHILE MANUALLY USING HANDHELD AT FRONT OF VEHICLE TOWARDS VEHICLE GRILL, BACK OF VEHICLE OPENED/LIFTED.  HAS NOW HAPPENED MULTIPLE TIMES AND DEALER HAS MADE NO REPAIR, BUT DISCONNECTED EXTERIOR SENSOR AT GATE (WHERE YOU KICK UNDER VEHICLE TO REL",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission failed while driving down the road. Trasmission reved up while driving and would not go faster then the car started slowing down. Thank goodness this was not on an interstate or it could have caused an accident. Check engine light came on as I was getting to the shou",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Received a message on driver information system that states service trailer brake system.   When towing a trailer, the trailer brakes are inoperable and pose a safety risk in the event of a sudden brake event.  GM apparently has a service bulletin published for this message which",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 GMC YUKON DENALI. 6408 MILES. DRIVING DOWN THE HIGHWAY AT NORMAL SPEED A WARNING APPEARS THAT SAYS SERVICE POWER STEERING. IMMEDIATELY LOST POWER STEERING ON THE VEHICLE AND BY THE TIME WE GOT IT TO THE OFF RAMP THE STEERING WAS COMPLETELY LOCKED IN THE STRAIGHT POSITION. VE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Gmc Yukon owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Engine (52% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 GMC YUKON. THE CONTACT STATED THAT WHILE OPERATING THE VEHICLE THE FRONT SEAT DRIVER AND PASSENGER HAD BECOME ILL AND SUFFERED DIZZINESS AND LIGHT HEADINESS AND THE PASSENGER ALSO SUFFER BREATHING PROBLEMS WHICH REQUIRED MEDICAL TREATMENT. THE VEHICLE ",
+        "pct": 52,
+        "title": "Engine",
+        "blurb": "25 reports (52%) · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE STATIONARY IN CAR WASH AND WHILE MANUALLY USING HANDHELD AT FRONT OF VEHICLE TOWARDS VEHICLE GRILL, BACK OF VEHICLE OPENED/LIFTED.  HAS NOW HAPPENED MULTIPLE TIMES AND DEALER HAS MADE NO REPAIR, BUT DISCONNECTED EXTERIOR SENSOR AT GATE (WHERE YOU KICK UNDER VEHICLE TO REL",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "9 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission failed while driving down the road. Trasmission reved up while driving and would not go faster then the car started slowing down. Thank goodness this was not on an interstate or it could have caused an accident. Check engine light came on as I was getting to the shou",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "8 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Received a message on driver information system that states service trailer brake system.   When towing a trailer, the trailer brakes are inoperable and pose a safety risk in the event of a sudden brake event.  GM apparently has a service bulletin published for this message which",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "4 reports (8%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 GMC YUKON DENALI. 6408 MILES. DRIVING DOWN THE HIGHWAY AT NORMAL SPEED A WARNING APPEARS THAT SAYS SERVICE POWER STEERING. IMMEDIATELY LOST POWER STEERING ON THE VEHICLE AND BY THE TIME WE GOT IT TO THE OFF RAMP THE STEERING WAS COMPLETELY LOCKED IN THE STRAIGHT POSITION. VE",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "4 reports (8%)"
+      }
+    ]
+  }
+}

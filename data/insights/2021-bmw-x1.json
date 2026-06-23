@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-x1",
+  "make": "BMW",
+  "model": "X1",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/X1#complaints",
+  "generatedAt": "2026-06-23T16:26:54.710Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X1. The contact stated that while driving at approximately 65 mph, another vehicle crashed into the front passenger side of the vehicle. The contact mentioned the air bags failed to deploy from the intensity of the vehicle. A police report was filed. T",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was displaying these messages: Frontal Collision Warning System:  Malfunction, Brake intervention not available. Visual and acoustic ️ warnings active. Consult service center. Daytime Pedestrian Warning reduced:Brake intervention not possible, but visual and acoustic warn",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was displaying these messages: Frontal Collision Warning System:  Malfunction, Brake intervention not available. Visual and acoustic ️ warnings active. Consult service center. Daytime Pedestrian Warning reduced:Brake intervention not possible, but visual and acoustic warn",
+      "pct": 33
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At approximately 20,000 miles, the vehicle was inspected by an authorized dealer due to abnormal noises from the front suspension when turning the steering wheel. The dealer confirmed abnormal noise from the front struts when the wheels were turned while the vehicle was on a lift",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At approximately 20,000 miles, the vehicle was inspected by an authorized dealer due to abnormal noises from the front suspension when turning the steering wheel. The dealer confirmed abnormal noise from the front struts when the wheels were turned while the vehicle was on a lift",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw X1 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Air Bags (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X1. The contact stated that while driving at approximately 65 mph, another vehicle crashed into the front passenger side of the vehicle. The contact mentioned the air bags failed to deploy from the intensity of the vehicle. A police report was filed. T",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "2 reports (33%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was displaying these messages: Frontal Collision Warning System:  Malfunction, Brake intervention not available. Visual and acoustic ️ warnings active. Consult service center. Daytime Pedestrian Warning reduced:Brake intervention not possible, but visual and acoustic warn",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was displaying these messages: Frontal Collision Warning System:  Malfunction, Brake intervention not available. Visual and acoustic ️ warnings active. Consult service center. Daytime Pedestrian Warning reduced:Brake intervention not possible, but visual and acoustic warn",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At approximately 20,000 miles, the vehicle was inspected by an authorized dealer due to abnormal noises from the front suspension when turning the steering wheel. The dealer confirmed abnormal noise from the front struts when the wheels were turned while the vehicle was on a lift",
+        "pct": 17,
+        "title": "Suspension",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At approximately 20,000 miles, the vehicle was inspected by an authorized dealer due to abnormal noises from the front suspension when turning the steering wheel. The dealer confirmed abnormal noise from the front struts when the wheels were turned while the vehicle was on a lift",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

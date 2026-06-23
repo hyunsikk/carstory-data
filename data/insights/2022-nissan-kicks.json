@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-kicks",
+  "make": "Nissan",
+  "model": "Kicks",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/KICKS#complaints",
+  "generatedAt": "2026-06-23T16:39:16.252Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nisan Kicks. The contact stated that the parking assist would alarm the driver that they were coming close to something or someone. When the power assist was activated, the vehicle would suddenly stop as if the vehicle was about to crash into an object or ",
+      "pct": 23
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Kicks. The contact stated while driving at 65 MPH, the steering wheel turned all the way to the left independently. The contact stated that upon steering, the steering wheel veered to the right and he lost control of the vehicle. The vehicle veered ",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new 2022 Nissan Kicks S, I was driving home from picking it up at the dealership with only 14 miles on the odometer when I was stopped at a red light and the car shuddered and stalled. The battery and oil dash lights came on. I had to place the car into Park, turn it off, a",
+      "pct": 18
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Not sure what causes this failure in the Kicks but if there is any wind at all when driving over 45 mph and/or traveling on a Highway, Interstate the steering becomes super sloppy and the car is difficult to control and maintain lanes in moderate wind conditions. You have to grip",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger door of the vehicle is stuck and unable to open. It is currently in the body shop as they will need to cut into the door to fix the issue. It has gotten stuck previously but has been able to be opened, this time it will not open know matter how much effort is put in",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Nissan Kicks owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nisan Kicks. The contact stated that the parking assist would alarm the driver that they were coming close to something or someone. When the power assist was activated, the vehicle would suddenly stop as if the vehicle was about to crash into an object or ",
+        "pct": 23,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Kicks. The contact stated while driving at 65 MPH, the steering wheel turned all the way to the left independently. The contact stated that upon steering, the steering wheel veered to the right and he lost control of the vehicle. The vehicle veered ",
+        "pct": 23,
+        "title": "Steering",
+        "blurb": "5 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new 2022 Nissan Kicks S, I was driving home from picking it up at the dealership with only 14 miles on the odometer when I was stopped at a red light and the car shuddered and stalled. The battery and oil dash lights came on. I had to place the car into Park, turn it off, a",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "4 reports (18%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Not sure what causes this failure in the Kicks but if there is any wind at all when driving over 45 mph and/or traveling on a Highway, Interstate the steering becomes super sloppy and the car is difficult to control and maintain lanes in moderate wind conditions. You have to grip",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger door of the vehicle is stuck and unable to open. It is currently in the body shop as they will need to cut into the door to fix the issue. It has gotten stuck previously but has been able to be opened, this time it will not open know matter how much effort is put in",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

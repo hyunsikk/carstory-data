@@ -1,0 +1,40 @@
+{
+  "slug": "2021-acura-nsx",
+  "make": "Acura",
+  "model": "NSX",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/ACURA/NSX#complaints",
+  "generatedAt": "2026-06-23T16:24:53.685Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UNKNOWN",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Acura Nsx owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UNKNOWN",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

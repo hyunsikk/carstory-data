@@ -1,0 +1,128 @@
+{
+  "slug": "2020-acura-rdx",
+  "make": "Acura",
+  "model": "RDX",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ACURA/RDX#complaints",
+  "generatedAt": "2026-06-23T16:24:58.104Z",
+  "total": 338,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 83,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear windshield shattered while parked in my drive way. Vehicle was not being driven. I have read several reports of this happening to other Acura rdx. I have contacted the dealership and Acura who have both told me I need to pay out of pocket to get this fixed. This is an Acura ",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 51,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 ACURA RDX. WHILE THE CONTACT WAS PASSING A VEHICLE ACCELERATING AT 45 MPH, THE VEHICLE SUDDENLY LOST POWER AND THE CHECK ENGINE INDICATOR FLASHED. THE VEHICLE WENT INTO LIMP MODE AND SLOWED DOWN TO ONLY 10 MPH. WHEN THE CONTACT PULLED OVER AND RESTARTE",
+      "pct": 15
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When this RDX’s weight distribution shifts/flexes from turning out of a driveway or any parking entrance with an incline/decline the panoramic moonroof makes a popping sound across the rear of the moonroof. This occurs from both rear corners of the moonroof. The moonroof frame ma",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 24,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 ACURA RDX. THE CONTACT STATED THAT AFTER THE VEHICLE WAS PARKED FOR AWHILE, THE BRAKES WOULD SQUEAK WHEN THE BRAKE PEDAL WAS DEPRESSED. THE FAILURE OCCURRED THE DAY AFTER THE VEHICLE WAS PURCHASED. THE VEHICLE WAS TAKEN TO THE DEALER AND WAS INFORMED T",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 ACURA RDX. THE CONTACT STATED WHILE DRIVING 35 MPH, WHILE DEPRESSING THE ACCELERATOR PEDAL THE VEHICLE FAILED TO ACCELERATE. THE CONTACT STATED SEVERAL UNKNOWN WARNING LIGHTS WERE ILLUMINATED. THE CONTACT WAS ABLE TO PARK ON THE SIDE OF THE ROAD AND ST",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Acura Rdx owners report most",
+    "summary": "Across 338 owner complaints to NHTSA, the most reported area is Visibility/Wiper (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 83,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear windshield shattered while parked in my drive way. Vehicle was not being driven. I have read several reports of this happening to other Acura rdx. I have contacted the dealership and Acura who have both told me I need to pay out of pocket to get this fixed. This is an Acura ",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "83 reports (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 51,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 ACURA RDX. WHILE THE CONTACT WAS PASSING A VEHICLE ACCELERATING AT 45 MPH, THE VEHICLE SUDDENLY LOST POWER AND THE CHECK ENGINE INDICATOR FLASHED. THE VEHICLE WENT INTO LIMP MODE AND SLOWED DOWN TO ONLY 10 MPH. WHEN THE CONTACT PULLED OVER AND RESTARTE",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "51 reports (15%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When this RDX’s weight distribution shifts/flexes from turning out of a driveway or any parking entrance with an incline/decline the panoramic moonroof makes a popping sound across the rear of the moonroof. This occurs from both rear corners of the moonroof. The moonroof frame ma",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "24 reports (7%) · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 24,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 ACURA RDX. THE CONTACT STATED THAT AFTER THE VEHICLE WAS PARKED FOR AWHILE, THE BRAKES WOULD SQUEAK WHEN THE BRAKE PEDAL WAS DEPRESSED. THE FAILURE OCCURRED THE DAY AFTER THE VEHICLE WAS PURCHASED. THE VEHICLE WAS TAKEN TO THE DEALER AND WAS INFORMED T",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "24 reports (7%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 ACURA RDX. THE CONTACT STATED WHILE DRIVING 35 MPH, WHILE DEPRESSING THE ACCELERATOR PEDAL THE VEHICLE FAILED TO ACCELERATE. THE CONTACT STATED SEVERAL UNKNOWN WARNING LIGHTS WERE ILLUMINATED. THE CONTACT WAS ABLE TO PARK ON THE SIDE OF THE ROAD AND ST",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "22 reports (7%) · 1 fire · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

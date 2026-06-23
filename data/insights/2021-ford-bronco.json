@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-bronco",
+  "make": "Ford",
+  "model": "Bronco",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/BRONCO#complaints",
+  "generatedAt": "2026-06-23T16:29:40.043Z",
+  "total": 213,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 67,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Without any warning lamps, messages or any other symptoms, lost acceleration power going roughly 45mph. I was traveling on a rural road, but this could have caused a serious accident if this would’ve happened in traffic or a highway. Dealer diagnosed a dropped valve in 2.7L engin",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Wiper Motor or electrical controlling the Wiper Motor. When the two high wiper blade settings are selected, the wipers run for around 30-40 seconds, then slow down and eventually stop. You can watch it happen. This has happened while having snow and rain on my windshield. In ",
+      "pct": 13
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Bronco. The contact stated that while driving at an undisclosed speed, the vehicle was lopsided due to the driver's side front suspension measuring 38.25 inches from the ground while the passenger's side rear suspension measured 40.5 inches from the g",
+      "pct": 11
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ford has a recall for rearview camera issues.  They say my VIN# is not included yet I have the same problem   After backing up in 4-Low has ended, the back camera stays on when moving forward.   The recall notice that I am not suposed to need is 22C27.   I have experienced this i",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 19,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Flat Towing my 2021 Ford Bronco with 2.7 V6 engine. After connecting my Bronco to the motorhome and putting it in the tow mode the following will occur.  About 45 mins after turning the ignition off and closing the doors the EBB (Electronic Brake Boost) in the Bronco shuts down l",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Bronco owners report most",
+    "summary": "Across 213 owner complaints to NHTSA, the most reported area is Engine (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 67,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Without any warning lamps, messages or any other symptoms, lost acceleration power going roughly 45mph. I was traveling on a rural road, but this could have caused a serious accident if this would’ve happened in traffic or a highway. Dealer diagnosed a dropped valve in 2.7L engin",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "67 reports (31%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Wiper Motor or electrical controlling the Wiper Motor. When the two high wiper blade settings are selected, the wipers run for around 30-40 seconds, then slow down and eventually stop. You can watch it happen. This has happened while having snow and rain on my windshield. In ",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "28 reports (13%) · 1 fire"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Bronco. The contact stated that while driving at an undisclosed speed, the vehicle was lopsided due to the driver's side front suspension measuring 38.25 inches from the ground while the passenger's side rear suspension measured 40.5 inches from the g",
+        "pct": 11,
+        "title": "Suspension",
+        "blurb": "24 reports (11%) · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ford has a recall for rearview camera issues.  They say my VIN# is not included yet I have the same problem   After backing up in 4-Low has ended, the back camera stays on when moving forward.   The recall notice that I am not suposed to need is 22C27.   I have experienced this i",
+        "pct": 11,
+        "title": "Back Over Prevention",
+        "blurb": "23 reports (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 19,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Flat Towing my 2021 Ford Bronco with 2.7 V6 engine. After connecting my Bronco to the motorhome and putting it in the tow mode the following will occur.  About 45 mins after turning the ignition off and closing the doors the EBB (Electronic Brake Boost) in the Bronco shuts down l",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "19 reports (9%) · 3 crash · 3 injured"
+      }
+    ]
+  }
+}

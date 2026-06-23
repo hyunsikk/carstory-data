@@ -1,0 +1,128 @@
+{
+  "slug": "2019-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-06-23T16:29:51.213Z",
+  "total": 547,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 284,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
+      "pct": 52
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 116,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 86,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "https://static.nhtsa.gov/odi/tsbs/2019/MC-10169807-0001.pdf  My coolant is leaking into my cylinder.  Making my car misfire and have P0301 code. Cylinder and spark plugs have been replaced. But error is still coming and coolant get lower every day.  This needs to be recalled as m",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
+      "pct": 7
+    },
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT THE CAR MARCH 20TH BRAND NEW. ON APRIL 14TH I WAS DRIVING IT HOME AND THE ENGINE STOPPED WORKING. ALL WARNING LIGHTS WERE FLASHING AND THE CAR JUST STOPPED WORKING IN THE MIDDLE OF THE ROAD.  I COULD NOT GET IT STARTED AND WHEN I FINALLY DID IT WOULDN'T MOVE AND I COULD ",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Ford Escape owners report most",
+    "summary": "Across 547 owner complaints to NHTSA, the most reported area is Engine (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 284,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
+        "pct": 52,
+        "title": "Engine",
+        "blurb": "284 reports (52%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 116,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "116 reports (21%) · 6 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 86,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "https://static.nhtsa.gov/odi/tsbs/2019/MC-10169807-0001.pdf  My coolant is leaking into my cylinder.  Making my car misfire and have P0301 code. Cylinder and spark plugs have been replaced. But error is still coming and coolant get lower every day.  This needs to be recalled as m",
+        "pct": 16,
+        "title": "Engine And Engine Cooling",
+        "blurb": "86 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "37 reports (7%) · 4 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT THE CAR MARCH 20TH BRAND NEW. ON APRIL 14TH I WAS DRIVING IT HOME AND THE ENGINE STOPPED WORKING. ALL WARNING LIGHTS WERE FLASHING AND THE CAR JUST STOPPED WORKING IN THE MIDDLE OF THE ROAD.  I COULD NOT GET IT STARTED AND WHEN I FINALLY DID IT WOULDN'T MOVE AND I COULD ",
+        "pct": 3,
+        "title": "Steering",
+        "blurb": "16 reports (3%)"
+      }
+    ]
+  }
+}

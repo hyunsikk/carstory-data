@@ -1,0 +1,84 @@
+{
+  "slug": "2019-audi-s4",
+  "make": "Audi",
+  "model": "S4",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/S4#complaints",
+  "generatedAt": "2026-06-23T16:43:05.307Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I don't know because dealer will not allow me to inspect engine or send me a response to what caused failure. Seems by the sounds coming from the top end of the motor most likely cause is that rocker arm (or possibly a valve train)component failed, noise coming from top end. Of c",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 AUDI S4. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE BRAKES LOCKED UP. THE ABS WARNING LIGHT WAS ILLUMINATED. THE AUDI PRE-SENSE MESSAGE WAS ALSO DISPLAYED. THE VEHICLE WAS TAKEN TO FLETCHER JONES AUDI (1523 W. NORTH AVE, CHICAGO, I",
+      "pct": 50
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 AUDI S4. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE BRAKES LOCKED UP. THE ABS WARNING LIGHT WAS ILLUMINATED. THE AUDI PRE-SENSE MESSAGE WAS ALSO DISPLAYED. THE VEHICLE WAS TAKEN TO FLETCHER JONES AUDI (1523 W. NORTH AVE, CHICAGO, I",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi S4 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I don't know because dealer will not allow me to inspect engine or send me a response to what caused failure. Seems by the sounds coming from the top end of the motor most likely cause is that rocker arm (or possibly a valve train)component failed, noise coming from top end. Of c",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 AUDI S4. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE BRAKES LOCKED UP. THE ABS WARNING LIGHT WAS ILLUMINATED. THE AUDI PRE-SENSE MESSAGE WAS ALSO DISPLAYED. THE VEHICLE WAS TAKEN TO FLETCHER JONES AUDI (1523 W. NORTH AVE, CHICAGO, I",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 AUDI S4. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, THE BRAKES LOCKED UP. THE ABS WARNING LIGHT WAS ILLUMINATED. THE AUDI PRE-SENSE MESSAGE WAS ALSO DISPLAYED. THE VEHICLE WAS TAKEN TO FLETCHER JONES AUDI (1523 W. NORTH AVE, CHICAGO, I",
+        "pct": 50,
+        "title": "Lane Departure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

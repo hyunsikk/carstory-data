@@ -1,0 +1,128 @@
+{
+  "slug": "2019-alfa-romeo-stelvio",
+  "make": "Alfa Romeo",
+  "model": "Stelvio",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/ALFA%20ROMEO/STELVIO#complaints",
+  "generatedAt": "2026-06-23T16:42:47.762Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Alfa Romeo Stelvio. The contact received notification of NHTSA Campaign Number: 25V586000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of",
+      "pct": 35
+    },
+    {
+      "component": "GASOLINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Alfa Romeo Stelvio. The contact received notification of NHTSA Campaign Number: 25V586000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of",
+      "pct": 35
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A HIGHWAY AROUND 3 AM IN DARK ENVIRONMENT, GOING AT 63MPH, THE VEHICLE COMPLETELY SHUT OFF IN LESS THAN 1 SECOND WITH NO WARNING AT ALL. BRAKES FAILED, STEERING FAILED, ENGINE SHUT OFF, ALL GAUGES INCLUDING SPEEDOMETER AND TACHOMETER STOPPED FUNCTIONING, ALL ELEC",
+      "pct": 32
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received Safety Recall 25V-586 regarding the fuel pump defect on my 2019 Alfa Romeo Stelvio. The notice states that the vehicle can lose drive power without warning, which could lead to a crash. However, the letter also says that the remedy for this condition is not currently a",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED MY CAR IN JAN. 2020.  ON JUNE 21, 2020, I AWOKE TO MY ALARM GOING OFF.  I TRIED TO USE MY KEY FOB TO TURN THAT ALARM OFF AND IT DID. NOT WORK.  THE ALARM STOPPED AND I HAD TO USE THE HARD KEY TO ENTER MY CAR.  THE CAR WOULD NOT START AND I HAD TO GET A JUMP FROM AAA. ",
+      "pct": 19
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Alfa Romeo Stelvio owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Fuel System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Alfa Romeo Stelvio. The contact received notification of NHTSA Campaign Number: 25V586000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of",
+        "pct": 35,
+        "title": "Fuel System",
+        "blurb": "11 reports (35%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Alfa Romeo Stelvio. The contact received notification of NHTSA Campaign Number: 25V586000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of",
+        "pct": 35,
+        "title": "Gasoline",
+        "blurb": "11 reports (35%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A HIGHWAY AROUND 3 AM IN DARK ENVIRONMENT, GOING AT 63MPH, THE VEHICLE COMPLETELY SHUT OFF IN LESS THAN 1 SECOND WITH NO WARNING AT ALL. BRAKES FAILED, STEERING FAILED, ENGINE SHUT OFF, ALL GAUGES INCLUDING SPEEDOMETER AND TACHOMETER STOPPED FUNCTIONING, ALL ELEC",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "10 reports (32%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received Safety Recall 25V-586 regarding the fuel pump defect on my 2019 Alfa Romeo Stelvio. The notice states that the vehicle can lose drive power without warning, which could lead to a crash. However, the letter also says that the remedy for this condition is not currently a",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED MY CAR IN JAN. 2020.  ON JUNE 21, 2020, I AWOKE TO MY ALARM GOING OFF.  I TRIED TO USE MY KEY FOB TO TURN THAT ALARM OFF AND IT DID. NOT WORK.  THE ALARM STOPPED AND I HAD TO USE THE HARD KEY TO ENTER MY CAR.  THE CAR WOULD NOT START AND I HAD TO GET A JUMP FROM AAA. ",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "6 reports (19%) · 1 fire"
+      }
+    ]
+  }
+}

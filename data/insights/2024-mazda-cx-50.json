@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mazda-cx-50",
+  "make": "Mazda",
+  "model": "CX-50",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MAZDA/CX-50#complaints",
+  "generatedAt": "2026-06-23T16:38:01.786Z",
+  "total": 29,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mazda CX-50. The contact stated that while opening the doors, the door stop detent had failed, causing the door to rapidly close and swing back, and making contact with the occupants. Both the contact and the wife sustained leg bruises, and the wife sustai",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mazda CX-50. The contact stated that while reversing at approximately 2 MPH into a parking slot, the rear back up sensor warning was illuminated. The contact stated that the sensor was designed to alert the driver whenever the vehicle was too close to an o",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This feature is only able to be turned off by going through 3 or 4 submenus in settings. This is extremely distracting while driving at highway speeds and poses a safety risk. This change does not persist every time you restart the car like other safety features such as lane keep",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mazda CX-50. The contact stated that while reversing at approximately 2 MPH into a parking slot, the rear back up sensor warning was illuminated. The contact stated that the sensor was designed to alert the driver whenever the vehicle was too close to an o",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle was dormant overnight and caught fire. Battery disintegrated and fire tore across the entire engine compartment and front end. Fire department conducted investigation and determined mechanical failure. Showed no signs of issue before hand was driven shortly the night befo",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mazda Cx-50 owners report most",
+    "summary": "Across 29 owner complaints to NHTSA, the most reported area is Structure (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mazda CX-50. The contact stated that while opening the doors, the door stop detent had failed, causing the door to rapidly close and swing back, and making contact with the occupants. Both the contact and the wife sustained leg bruises, and the wife sustai",
+        "pct": 21,
+        "title": "Structure",
+        "blurb": "6 reports (21%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mazda CX-50. The contact stated that while reversing at approximately 2 MPH into a parking slot, the rear back up sensor warning was illuminated. The contact stated that the sensor was designed to alert the driver whenever the vehicle was too close to an o",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "4 reports (14%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This feature is only able to be turned off by going through 3 or 4 submenus in settings. This is extremely distracting while driving at highway speeds and poses a safety risk. This change does not persist every time you restart the car like other safety features such as lane keep",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (14%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mazda CX-50. The contact stated that while reversing at approximately 2 MPH into a parking slot, the rear back up sensor warning was illuminated. The contact stated that the sensor was designed to alert the driver whenever the vehicle was too close to an o",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "4 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle was dormant overnight and caught fire. Battery disintegrated and fire tore across the entire engine compartment and front end. Fire department conducted investigation and determined mechanical failure. Showed no signs of issue before hand was driven shortly the night befo",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "3 reports (10%) · 1 fire"
+      }
+    ]
+  }
+}

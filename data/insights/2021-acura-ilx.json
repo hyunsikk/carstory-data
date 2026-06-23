@@ -1,0 +1,128 @@
+{
+  "slug": "2021-acura-ilx",
+  "make": "Acura",
+  "model": "ILX",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/ACURA/ILX#complaints",
+  "generatedAt": "2026-06-23T16:24:45.895Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a severe and hazardous safety defect in my 2021 Acura ILX involving water intrusion into the headlight assembly, resulting in electrical failure of critical lighting and signaling components. Due to an apparent manufacturing defect in the headlight sealing, moistur",
+      "pct": 27
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle continues to accelerate when I press the gas pedal, and it sometimes makes clicking noises from underneath during acceleration. Occasionally, it veers to one side even when I keep the steering wheel straight. At times, it gives a warning and vibrates as if I'm merging ",
+      "pct": 27
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Acura ILX. The contact stated while attempting to park the vehicle, the airbag deployed without impact which resulted in the contact crashing into a pole. The contact sustained a hurt knee and headaches that required medical treatment. The vehicle was towe",
+      "pct": 18
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Acura ILX. The contact stated that while driving at an undisclosed speed, he became aware that the white lines on the road appeared curved through the windshield. The contact then noticed that the windshield was distorted. The vehicle was taken to the deal",
+      "pct": 9
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "It is Acura ILX 2021. The current mileage is 17,480.   What component or system failed or malfunctioned, and is it available for inspection upon request? *Driveshaft/suspension is broken after inspection.  How was your safety or the safety of others put at risk? *Intense shaking ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Acura Ilx owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Exterior Lighting (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a severe and hazardous safety defect in my 2021 Acura ILX involving water intrusion into the headlight assembly, resulting in electrical failure of critical lighting and signaling components. Due to an apparent manufacturing defect in the headlight sealing, moistur",
+        "pct": 27,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (27%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle continues to accelerate when I press the gas pedal, and it sometimes makes clicking noises from underneath during acceleration. Occasionally, it veers to one side even when I keep the steering wheel straight. At times, it gives a warning and vibrates as if I'm merging ",
+        "pct": 27,
+        "title": "Lane Departure",
+        "blurb": "3 reports (27%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Acura ILX. The contact stated while attempting to park the vehicle, the airbag deployed without impact which resulted in the contact crashing into a pole. The contact sustained a hurt knee and headaches that required medical treatment. The vehicle was towe",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "2 reports (18%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Acura ILX. The contact stated that while driving at an undisclosed speed, he became aware that the white lines on the road appeared curved through the windshield. The contact then noticed that the windshield was distorted. The vehicle was taken to the deal",
+        "pct": 9,
+        "title": "Visibility",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "It is Acura ILX 2021. The current mileage is 17,480.   What component or system failed or malfunctioned, and is it available for inspection upon request? *Driveshaft/suspension is broken after inspection.  How was your safety or the safety of others put at risk? *Intense shaking ",
+        "pct": 9,
+        "title": "Suspension",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

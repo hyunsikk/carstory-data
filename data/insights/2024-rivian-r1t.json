@@ -1,0 +1,128 @@
+{
+  "slug": "2024-rivian-r1t",
+  "make": "Rivian",
+  "model": "R1T",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/RIVIAN/R1T#complaints",
+  "generatedAt": "2026-06-23T16:40:28.397Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While traveling at highway speed on Interstate 95, the vehicle experienced a complete and sudden loss of propulsion. The vehicle would not respond to the Vehicle Restart function. The driver was able to safely pull to the shoulder from the right lane. The vehicle was towed to a R",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicles Steering wheel shakes when traveling over 20mph. Dealer has reproduced the problem multiple times but insists it’s a “design limitation”. The shaking can cause loss of control of the vehicle. Dealer refuses to investigate further. This has been occurring since day of pur",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The entertainment and gauge cluster displays begin to slow down and stutter, eventually leading to a full reboot.  This causes the ADAS view, as well as the blind spot cameras, and reverse camera to display a still image, even while the vehicle is moving, or display no image at a",
+      "pct": 14
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The entertainment and gauge cluster displays begin to slow down and stutter, eventually leading to a full reboot.  This causes the ADAS view, as well as the blind spot cameras, and reverse camera to display a still image, even while the vehicle is moving, or display no image at a",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I believed my car had a problem with the seals of the windows allowing severe wind noise.  After attempted repair the problem persisted and, on closer inspection, it became evident that the driver side door is mis-installed and crooked.  Rivian attempted to reprair this and only ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Rivian R1t owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (14% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While traveling at highway speed on Interstate 95, the vehicle experienced a complete and sudden loss of propulsion. The vehicle would not respond to the Vehicle Restart function. The driver was able to safely pull to the shoulder from the right lane. The vehicle was towed to a R",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicles Steering wheel shakes when traveling over 20mph. Dealer has reproduced the problem multiple times but insists it’s a “design limitation”. The shaking can cause loss of control of the vehicle. Dealer refuses to investigate further. This has been occurring since day of pur",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The entertainment and gauge cluster displays begin to slow down and stutter, eventually leading to a full reboot.  This causes the ADAS view, as well as the blind spot cameras, and reverse camera to display a still image, even while the vehicle is moving, or display no image at a",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The entertainment and gauge cluster displays begin to slow down and stutter, eventually leading to a full reboot.  This causes the ADAS view, as well as the blind spot cameras, and reverse camera to display a still image, even while the vehicle is moving, or display no image at a",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I believed my car had a problem with the seals of the windows allowing severe wind noise.  After attempted repair the problem persisted and, on closer inspection, it became evident that the driver side door is mis-installed and crooked.  Rivian attempted to reprair this and only ",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

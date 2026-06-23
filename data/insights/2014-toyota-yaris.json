@@ -1,0 +1,84 @@
+{
+  "slug": "2014-toyota-yaris",
+  "make": "Toyota",
+  "model": "Yaris",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/TOYOTA/YARIS#complaints",
+  "generatedAt": "2026-06-23T16:41:39.342Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I RENTED THIS VEHICLE AT A MAJOR AIRPORT 2 DAYS BEFORE THE ACCIDENT. IT WAS CLOSE TO 4 PM WHEN I ENTERED THE HOTEL PARKING LOT AT 5 MPH AND SLOWED EVEN MORE WHEN I ENTERED THE PARKING SPACE IN FRONT OF MY HOTEL ROOM. I WAS ALMOST PARKED AND HAD MY FOOT ON THE BRAKE TO MAKE A COMP",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I RENTED A 2014 TOYOTA YARIS FROM FOX RENT A CAR AT THE ORLANDO, FL AIRPORT ON 2/26/14.  THE CAR HAD SEVEN MILES ON IT.  AFTER DRIVING TWO BLOCKS THE CAR JUST STARED TO COAST. I PUMPED THE ACCELERATOR PEDAL BUT THERE WAS NO RESPONSE. THE ENGINE DIDN'T SPEED UP, THE CAR JUST KEPT ",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I RENTED A 2014 TOYOTA YARIS FROM FOX RENT A CAR AT THE ORLANDO, FL AIRPORT ON 2/26/14.  THE CAR HAD SEVEN MILES ON IT.  AFTER DRIVING TWO BLOCKS THE CAR JUST STARED TO COAST. I PUMPED THE ACCELERATOR PEDAL BUT THERE WAS NO RESPONSE. THE ENGINE DIDN'T SPEED UP, THE CAR JUST KEPT ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Toyota Yaris owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Structure (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I RENTED THIS VEHICLE AT A MAJOR AIRPORT 2 DAYS BEFORE THE ACCIDENT. IT WAS CLOSE TO 4 PM WHEN I ENTERED THE HOTEL PARKING LOT AT 5 MPH AND SLOWED EVEN MORE WHEN I ENTERED THE PARKING SPACE IN FRONT OF MY HOTEL ROOM. I WAS ALMOST PARKED AND HAD MY FOOT ON THE BRAKE TO MAKE A COMP",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I RENTED A 2014 TOYOTA YARIS FROM FOX RENT A CAR AT THE ORLANDO, FL AIRPORT ON 2/26/14.  THE CAR HAD SEVEN MILES ON IT.  AFTER DRIVING TWO BLOCKS THE CAR JUST STARED TO COAST. I PUMPED THE ACCELERATOR PEDAL BUT THERE WAS NO RESPONSE. THE ENGINE DIDN'T SPEED UP, THE CAR JUST KEPT ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I RENTED A 2014 TOYOTA YARIS FROM FOX RENT A CAR AT THE ORLANDO, FL AIRPORT ON 2/26/14.  THE CAR HAD SEVEN MILES ON IT.  AFTER DRIVING TWO BLOCKS THE CAR JUST STARED TO COAST. I PUMPED THE ACCELERATOR PEDAL BUT THERE WAS NO RESPONSE. THE ENGINE DIDN'T SPEED UP, THE CAR JUST KEPT ",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

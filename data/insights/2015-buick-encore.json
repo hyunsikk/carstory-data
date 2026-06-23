@@ -1,0 +1,128 @@
+{
+  "slug": "2015-buick-encore",
+  "make": "Buick",
+  "model": "Encore",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BUICK/ENCORE#complaints",
+  "generatedAt": "2026-06-23T16:27:21.086Z",
+  "total": 122,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 30,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE BRAKING TO STOP FOR A TRAFFIC LIGHT ON A BUSY 45 MPH SPEED LIMIT ROAD, THE ENGINE STOPPED RUNNING.  I SHIFTED INTO PARK TO RESTART IT.  ENTIRE ELECTRICAL SYSTEM WAS DEAD EXCEPT POWER SEATS AND DOOR LOCKS.  ENGINE WOULD NOT START AND NO OTHER ELECTRICAL RELATED EQUIPMENT WOR",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 27,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON FREEWAY, APPROX 74 MPH IN A 75 ZONE. ABOUT 1.5 HOURS IN TO A 2.5 HOUR TRIP. ALL SYSTEMS WERE FUNCTIONING AND NO WARNING LIGHTS WERE ON.   CAR SUDDENLY LOST POWER ON GAS PEDAL , POWER STEERING LIGHT CAME ON, CHECK ENGINE LIGHT CAME ON , ALL GAUGES ARE FUNCTIONING ERRATI",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ALONG AT APPROX. 55 MPH ON A MAIN HIWAY SLOWED TO APPROX. 40 MPH TO MAKE A TURN, WHEN SUDDENLY THE ENGINE STOPPED OPERATING. EVERYTHING SHUT DOWN, NO STEERING, NO BRAKES. ON STAR DID NOT RESPOND, CAR WAS DISABLED ABOUT 5-7 MINUTES, TRIED TO START SEVERAL TIME WITH THE KEY",
+      "pct": 22
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 21,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "NEW BUICK 2015 ENCORE  1.   APPYING BRAKES WHEN BACKING OUT OF GARAGE CREATES A SHRILL SQUEAL.    2.   WHEN SLOWING FOR THE STOP SIGN AT THE END OF THE STREET, APPLYING BRAKES MAKES A   MOANING SOUND AND SLIGHT VIBRATION.  3.   WHEN I APPLY BRAKES TO SLOW DOWN AT ABOUT 5 MPH SUCH",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 16,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "GENERAL MOTORS  NEVER NOTIFIED ME OF A RECALL ON MY 2015 BUICK ENCORE IN SEPT 2016.  I FOUND OUT ABOUT THE RECALL BY READING IT IN THE NEWSPAPER. IT INVOLVED THE AIR BAG.  I CALLED MY LOCAL DEALER AND THEY MADE THE REPAIR.  I CALLED GM AND ASKED WHY THEY DIDN'T NOTIFY ME. THEY HA",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Buick Encore owners report most",
+    "summary": "Across 122 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 30,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE BRAKING TO STOP FOR A TRAFFIC LIGHT ON A BUSY 45 MPH SPEED LIMIT ROAD, THE ENGINE STOPPED RUNNING.  I SHIFTED INTO PARK TO RESTART IT.  ENTIRE ELECTRICAL SYSTEM WAS DEAD EXCEPT POWER SEATS AND DOOR LOCKS.  ENGINE WOULD NOT START AND NO OTHER ELECTRICAL RELATED EQUIPMENT WOR",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "30 reports (25%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 27,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON FREEWAY, APPROX 74 MPH IN A 75 ZONE. ABOUT 1.5 HOURS IN TO A 2.5 HOUR TRIP. ALL SYSTEMS WERE FUNCTIONING AND NO WARNING LIGHTS WERE ON.   CAR SUDDENLY LOST POWER ON GAS PEDAL , POWER STEERING LIGHT CAME ON, CHECK ENGINE LIGHT CAME ON , ALL GAUGES ARE FUNCTIONING ERRATI",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "27 reports (22%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ALONG AT APPROX. 55 MPH ON A MAIN HIWAY SLOWED TO APPROX. 40 MPH TO MAKE A TURN, WHEN SUDDENLY THE ENGINE STOPPED OPERATING. EVERYTHING SHUT DOWN, NO STEERING, NO BRAKES. ON STAR DID NOT RESPOND, CAR WAS DISABLED ABOUT 5-7 MINUTES, TRIED TO START SEVERAL TIME WITH THE KEY",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "27 reports (22%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 21,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "NEW BUICK 2015 ENCORE  1.   APPYING BRAKES WHEN BACKING OUT OF GARAGE CREATES A SHRILL SQUEAL.    2.   WHEN SLOWING FOR THE STOP SIGN AT THE END OF THE STREET, APPLYING BRAKES MAKES A   MOANING SOUND AND SLIGHT VIBRATION.  3.   WHEN I APPLY BRAKES TO SLOW DOWN AT ABOUT 5 MPH SUCH",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "21 reports (17%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 16,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "GENERAL MOTORS  NEVER NOTIFIED ME OF A RECALL ON MY 2015 BUICK ENCORE IN SEPT 2016.  I FOUND OUT ABOUT THE RECALL BY READING IT IN THE NEWSPAPER. IT INVOLVED THE AIR BAG.  I CALLED MY LOCAL DEALER AND THEY MADE THE REPAIR.  I CALLED GM AND ASKED WHY THEY DIDN'T NOTIFY ME. THEY HA",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "16 reports (13%) · 2 crash · 3 injured"
+      }
+    ]
+  }
+}

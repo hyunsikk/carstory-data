@@ -1,0 +1,128 @@
+{
+  "slug": "2017-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-06-23T16:28:36.520Z",
+  "total": 715,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 253,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THE CAR WAS PARKED AND OFF IN OUR DRIVEWAY FOR 15 MINUTES -HORN STARTED WENT OUT SAW SMOKE CALLED 911 AND BY THE TIME BACK AT FRONT DOOR FLAMES FROM FRONT END. FIRE DEPARTMENT CAME AND PUT OUT FIRE -CAR TOTALED. WORRIED ABOUT SPONTANEOUS COMBUSTION ESPECIALLY IF CAR PARKED IN GAR",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 170,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET MALIBU HYBRID. THE CONTACT ACTIVATED THE LEFT TURN SIGNAL AND IT FAILED TO TURN OFF AND CONTINUED BLINKING ONCE THE TURN WAS COMPLETED. THE CONTACT HAD TO MANUALLY TURN OFF THE BLINKER. ONE DEALER WAS NOTIFIED AND WAS UNABLE TO REPLICATE AND ",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 142,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER MUCH RESEARCH I HAVE FOUND OUT THAT THE TRANSMISSION THAT IS IN THE 2017 MALIBU, WHICH IS THE 6T40, IS NOT RATED TO BE IN THIS VEHICLE. THE 6T40 IS RATED AT 177LB-FT TORQUE, THE MALIBU HAS 184LB-FT.     GMAUTHORITY.COM/BLOG/GM/GM-TRANSMISSIONS/MH8/    THIS LINK IS THE PAGE ",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 136,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET MALIBU. ON SEVERAL DIFFERENT OCCASIONS, WHILE AT A STOP LIGHT, THE ENGINE RPMS WOULD SUDDENLY INCREASE AND THE VEHICLE ATTEMPTED TO SURGE FORWARD. THE DRIVER HAD TO DEPRESS HARD ON THE BRAKE PEDAL IN ORDER TO STOP THE VEHICLE FROM SURGING FOR",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 69,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "ON FRIDAY DECEMBER 29, 2017 AS WE WERE DRIVING HOME WE ALMOST RE-ENDED ANOTHER VEHICLE IN A CITY STREET AT THE SPEED OF 55 MPH DUE TO CAR BRAKES LOCKING AND HARD TO PRESS DOWN, LUCKILY HARD WE WERE ABLE FO BRAKE BY PUSHING HARD ENOUGH. ALSO SENSOR HAVE FAILED TWICE- THREE TIMES I",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Chevrolet Malibu owners report most",
+    "summary": "Across 715 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 253,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THE CAR WAS PARKED AND OFF IN OUR DRIVEWAY FOR 15 MINUTES -HORN STARTED WENT OUT SAW SMOKE CALLED 911 AND BY THE TIME BACK AT FRONT DOOR FLAMES FROM FRONT END. FIRE DEPARTMENT CAME AND PUT OUT FIRE -CAR TOTALED. WORRIED ABOUT SPONTANEOUS COMBUSTION ESPECIALLY IF CAR PARKED IN GAR",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "253 reports (35%) · 2 fire · 3 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 170,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET MALIBU HYBRID. THE CONTACT ACTIVATED THE LEFT TURN SIGNAL AND IT FAILED TO TURN OFF AND CONTINUED BLINKING ONCE THE TURN WAS COMPLETED. THE CONTACT HAD TO MANUALLY TURN OFF THE BLINKER. ONE DEALER WAS NOTIFIED AND WAS UNABLE TO REPLICATE AND ",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "170 reports (24%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 142,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER MUCH RESEARCH I HAVE FOUND OUT THAT THE TRANSMISSION THAT IS IN THE 2017 MALIBU, WHICH IS THE 6T40, IS NOT RATED TO BE IN THIS VEHICLE. THE 6T40 IS RATED AT 177LB-FT TORQUE, THE MALIBU HAS 184LB-FT.     GMAUTHORITY.COM/BLOG/GM/GM-TRANSMISSIONS/MH8/    THIS LINK IS THE PAGE ",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "142 reports (20%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 136,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET MALIBU. ON SEVERAL DIFFERENT OCCASIONS, WHILE AT A STOP LIGHT, THE ENGINE RPMS WOULD SUDDENLY INCREASE AND THE VEHICLE ATTEMPTED TO SURGE FORWARD. THE DRIVER HAD TO DEPRESS HARD ON THE BRAKE PEDAL IN ORDER TO STOP THE VEHICLE FROM SURGING FOR",
+        "pct": 19,
+        "title": "Vehicle Speed Control",
+        "blurb": "136 reports (19%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 69,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "ON FRIDAY DECEMBER 29, 2017 AS WE WERE DRIVING HOME WE ALMOST RE-ENDED ANOTHER VEHICLE IN A CITY STREET AT THE SPEED OF 55 MPH DUE TO CAR BRAKES LOCKING AND HARD TO PRESS DOWN, LUCKILY HARD WE WERE ABLE FO BRAKE BY PUSHING HARD ENOUGH. ALSO SENSOR HAVE FAILED TWICE- THREE TIMES I",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "69 reports (10%) · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

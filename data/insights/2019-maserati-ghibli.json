@@ -1,0 +1,62 @@
+{
+  "slug": "2019-maserati-ghibli",
+  "make": "Maserati",
+  "model": "Ghibli",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/MASERATI/GHIBLI#complaints",
+  "generatedAt": "2026-06-23T16:42:53.107Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Maserati Ghibli. The contact stated while driving approximately 40 MPH, the vehicle drove over a dip in the roadway and the rear end swayed from left to right. The contact stated that at higher speeds the swaying made the vehicle more unstable. The contact",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's girlfriend owns a 2019 Maserati Ghibli. The contact stated that while driving at low speeds, the transmission would inadvertently shift into Neutral or Park, or the engine would shut off. Upon research, the contact related the failure to an engine software malfuncti",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Maserati Ghibli owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Suspension (50% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Maserati Ghibli. The contact stated while driving approximately 40 MPH, the vehicle drove over a dip in the roadway and the rear end swayed from left to right. The contact stated that at higher speeds the swaying made the vehicle more unstable. The contact",
+        "pct": 50,
+        "title": "Suspension",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's girlfriend owns a 2019 Maserati Ghibli. The contact stated that while driving at low speeds, the transmission would inadvertently shift into Neutral or Park, or the engine would shut off. Upon research, the contact related the failure to an engine software malfuncti",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

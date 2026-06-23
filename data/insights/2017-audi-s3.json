@@ -1,0 +1,128 @@
+{
+  "slug": "2017-audi-s3",
+  "make": "Audi",
+  "model": "S3",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/S3#complaints",
+  "generatedAt": "2026-06-23T16:43:03.208Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Audi S3. The contact received NHTSA Campaign Number: 21V198000 (Air Bags). The owner contacted a local dealer to set up a recall appointment. The contact set the appointment and was told by the dealer that the parts would be ordered and that the dealer wou",
+      "pct": 56
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "transmission failed after going over a small pothole at 20mph, after which engine revved up than slammed into high gear and jerked the car forward, car has been towed to dealership for inspection, transmission light came on",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "transmission failed after going over a small pothole at 20mph, after which engine revved up than slammed into high gear and jerked the car forward, car has been towed to dealership for inspection, transmission light came on",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER PURCHASING A 2017 AUDI S3 I IMMEDIATELY ENCOUNTERED HORRIBLE CHATTERING OF THE WIPER BLADES IN MY VERY FIRST DRIVE IN THE RAIN.  I HAVE SUBSEQUENTLY TAKEN MY CAR TO THE AUDI DEALERSHIP TO ADDRESS THIS ISSUE 10+ OCCASIONS.  THIS CHATTERING AND SKIPPING OF THE WIPER BLADES IS",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE FREEWAY AT 70 MPH WHEN MY SUNROOF EXPLODED FOR NO APPARENT REASON.    I WAS VERY FORTUNATE TO HAVE NOT HAD AN ACCIDENT AS IT SOUNDED LIKE A GUN HAD GONE OFF IN MY CAR.    I SPOKE WITH MY INSURANCE AGENT AND HE TOLD ME TO CALL AUDI BECAUSE IT IS A KNOWN PROBLE",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi S3 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Air Bags (56% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Audi S3. The contact received NHTSA Campaign Number: 21V198000 (Air Bags). The owner contacted a local dealer to set up a recall appointment. The contact set the appointment and was told by the dealer that the parts would be ordered and that the dealer wou",
+        "pct": 56,
+        "title": "Air Bags",
+        "blurb": "5 reports (56%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "transmission failed after going over a small pothole at 20mph, after which engine revved up than slammed into high gear and jerked the car forward, car has been towed to dealership for inspection, transmission light came on",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "transmission failed after going over a small pothole at 20mph, after which engine revved up than slammed into high gear and jerked the car forward, car has been towed to dealership for inspection, transmission light came on",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER PURCHASING A 2017 AUDI S3 I IMMEDIATELY ENCOUNTERED HORRIBLE CHATTERING OF THE WIPER BLADES IN MY VERY FIRST DRIVE IN THE RAIN.  I HAVE SUBSEQUENTLY TAKEN MY CAR TO THE AUDI DEALERSHIP TO ADDRESS THIS ISSUE 10+ OCCASIONS.  THIS CHATTERING AND SKIPPING OF THE WIPER BLADES IS",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE FREEWAY AT 70 MPH WHEN MY SUNROOF EXPLODED FOR NO APPARENT REASON.    I WAS VERY FORTUNATE TO HAVE NOT HAD AN ACCIDENT AS IT SOUNDED LIKE A GUN HAD GONE OFF IN MY CAR.    I SPOKE WITH MY INSURANCE AGENT AND HE TOLD ME TO CALL AUDI BECAUSE IT IS A KNOWN PROBLE",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mercedes-benz-eqs",
+  "make": "Mercedes-Benz",
+  "model": "EQS",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MERCEDES-BENZ/EQS#complaints",
+  "generatedAt": "2026-06-23T16:38:27.862Z",
+  "total": 63,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 31,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "At approximately 10:30 p.m. on January 8, 2023 I, and three passengers (my wife, and another couple), were completing a one hour drive returning from an event in southern California. We traveled on the freeways as we headed home. The speeds on those freeways average between 65 an",
+      "pct": 49
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "At approximately 10:30 p.m. on January 8, 2023 I, and three passengers (my wife, and another couple), were completing a one hour drive returning from an event in southern California. We traveled on the freeways as we headed home. The speeds on those freeways average between 65 an",
+      "pct": 32
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "At approximately 10:30 p.m. on January 8, 2023 I, and three passengers (my wife, and another couple), were completing a one hour drive returning from an event in southern California. We traveled on the freeways as we headed home. The speeds on those freeways average between 65 an",
+      "pct": 29
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "We were driving locally, and the car stopped abruptly for no reason. There was no one and nothing in front of it, no animal around, and no reason for the stop. Had there been someone behind us, we would have had a big problem. We called the salesperson at the dealership only  to ",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I recently noticed that the charging port is showing signs of melting, which is both concerning and potentially hazardous. This issue is affecting the functionality and safety of my vehicle, and I am deeply disappointed that such a problem has occurred. The charging port is a cri",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mercedes-Benz Eqs owners report most",
+    "summary": "Across 63 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (49% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 31,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "At approximately 10:30 p.m. on January 8, 2023 I, and three passengers (my wife, and another couple), were completing a one hour drive returning from an event in southern California. We traveled on the freeways as we headed home. The speeds on those freeways average between 65 an",
+        "pct": 49,
+        "title": "Forward Collision Avoidance",
+        "blurb": "31 reports (49%) · 1 fire · 3 crash · 11 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "At approximately 10:30 p.m. on January 8, 2023 I, and three passengers (my wife, and another couple), were completing a one hour drive returning from an event in southern California. We traveled on the freeways as we headed home. The speeds on those freeways average between 65 an",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "20 reports (32%) · 1 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "At approximately 10:30 p.m. on January 8, 2023 I, and three passengers (my wife, and another couple), were completing a one hour drive returning from an event in southern California. We traveled on the freeways as we headed home. The speeds on those freeways average between 65 an",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "18 reports (29%) · 3 crash · 7 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "We were driving locally, and the car stopped abruptly for no reason. There was no one and nothing in front of it, no animal around, and no reason for the stop. Had there been someone behind us, we would have had a big problem. We called the salesperson at the dealership only  to ",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (6%) · 2 crash · 7 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I recently noticed that the charging port is showing signs of melting, which is both concerning and potentially hazardous. This issue is affecting the functionality and safety of my vehicle, and I am deeply disappointed that such a problem has occurred. The charging port is a cri",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (5%)"
+      }
+    ]
+  }
+}

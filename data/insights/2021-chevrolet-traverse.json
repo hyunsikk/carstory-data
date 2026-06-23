@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-06-23T16:28:56.308Z",
+  "total": 84,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2021 Chevy Traverse LT. The stereo touch screen keeps completely freezing. We've brought it to the dealer who told us it was working fine. Its frozen twice. Once we had to pull the fuse out to reset it for it to work. Vehicle has a rattle at startup and suspension squeak",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "With just 1,085 miles on a new 2021 Chevrolet Traverse RS the 9 speed automatic transmission began to fail.  It feels as if it skips and there is a distinct shudder as it shifts in the higher gears.  The transmission also appears to labor as the vehicle ascends even the smallest ",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Traverse. The contact stated that upon depression of the accelerator pedal, there was an abnormal, clicking sound and a fuel exhaust odor coming from the vehicle. There was no warning light illuminated. The contact had taken the vehicle to the de",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 CHEVROLET TRAVERSE. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THERE WAS AN GRINDING AND SQUEALING SOUND COMING FROM THE BRAKES. THE VEHICLE WAS TAKEN TO TROPICAL CHEVROLET (8880 BISCAYNE BLVD, MIAMI SHORES, FL 33138) WHERE THEY INFORMED ",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "KNOWN ISSUE: Chevy Traverse owners may experience a condition wherein the front exhaust pipe on their crossover separates from the mounting bracket, resulting in damage to the pipe. Now, General Motors has issued new Special Coverage that addresses this issue.  NEW ISSUE: Rear ex",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Traverse owners report most",
+    "summary": "Across 84 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2021 Chevy Traverse LT. The stereo touch screen keeps completely freezing. We've brought it to the dealer who told us it was working fine. Its frozen twice. Once we had to pull the fuse out to reset it for it to work. Vehicle has a rattle at startup and suspension squeak",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "22 reports (26%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "With just 1,085 miles on a new 2021 Chevrolet Traverse RS the 9 speed automatic transmission began to fail.  It feels as if it skips and there is a distinct shudder as it shifts in the higher gears.  The transmission also appears to labor as the vehicle ascends even the smallest ",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "13 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Traverse. The contact stated that upon depression of the accelerator pedal, there was an abnormal, clicking sound and a fuel exhaust odor coming from the vehicle. There was no warning light illuminated. The contact had taken the vehicle to the de",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "10 reports (12%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 CHEVROLET TRAVERSE. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THERE WAS AN GRINDING AND SQUEALING SOUND COMING FROM THE BRAKES. THE VEHICLE WAS TAKEN TO TROPICAL CHEVROLET (8880 BISCAYNE BLVD, MIAMI SHORES, FL 33138) WHERE THEY INFORMED ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "9 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "KNOWN ISSUE: Chevy Traverse owners may experience a condition wherein the front exhaust pipe on their crossover separates from the mounting bracket, resulting in damage to the pipe. Now, General Motors has issued new Special Coverage that addresses this issue.  NEW ISSUE: Rear ex",
+        "pct": 7,
+        "title": "Engine And Engine Cooling",
+        "blurb": "6 reports (7%)"
+      }
+    ]
+  }
+}

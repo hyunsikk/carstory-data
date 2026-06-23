@@ -1,0 +1,40 @@
+{
+  "slug": "2021-audi-s5",
+  "make": "Audi",
+  "model": "S5",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/S5#complaints",
+  "generatedAt": "2026-06-23T16:43:07.914Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi S5. The contact received notification of NHTSA Campaign Number: 21V295000 (Suspension) however, the part to do the recall repair was not yet available. The contact took the vehicle to the local dealer and it was confirmed that the part was not yet ava",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi S5 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Suspension (100% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi S5. The contact received notification of NHTSA Campaign Number: 21V295000 (Suspension) however, the part to do the recall repair was not yet available. The contact took the vehicle to the local dealer and it was confirmed that the part was not yet ava",
+        "pct": 100,
+        "title": "Suspension",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

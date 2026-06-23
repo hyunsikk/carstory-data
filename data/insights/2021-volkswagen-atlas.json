@@ -1,0 +1,128 @@
+{
+  "slug": "2021-volkswagen-atlas",
+  "make": "Volkswagen",
+  "model": "Atlas",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VOLKSWAGEN/ATLAS#complaints",
+  "generatedAt": "2026-06-23T16:41:48.791Z",
+  "total": 438,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 139,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON THURSDAY, OCTOBER 29TH, I STARTED MY CAR AFTER IT HAD BEEN PARKED OUTSIDE FOR SEVERAL DAYS IN THE RAIN.  AFTER BACKING MY CAR OUT OF THE DRIVEWAY AND THEN PROPELLING FORWARD,  WATER (EASILY 1.5-2 CUPS) CAME OUT OF THE REAR VIEW MIRROR ONTO THE PANELING BELOW.  THE WATER CAME O",
+      "pct": 32
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 95,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Check engine light came on, windows were going down 1/8 of the way on their own, parking brake goes on automatically while engine is on while driving and pressing on brake, cannot utilize any controls on driver door. Dealer checked and it is the door harness that is on backorder.",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 77,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is the second Volkswagen Atlas we have purchased after the first had the exact same code P2047 Evap system issues. This Atlas is brand new and it only took 3,000 miles for it to start having system issues. During driving with cruise control enabled the vehicle kicked itself ",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 67,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY WIFE'S 2021 ATLAS CRUISE CONTROL HAS NOT WORKED SINCE WE PURCHASED THE VEHICLE IN JULY 2020. WHEN STARTING THE VEHICLE VIA REMOTE START (APP OR REMOTE) IT DISABLES THE ENTIRE FRONT END COLLISION SYSTEM AND THE CRUISE DOES NOT WORK. IT HAS BEEN IN THE SHOP OVER 3 WEEKS IN TOTAL",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 63,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I BOUGHT MY VEHICLE AROUND THREE WEEKS AGO.  IT IS A BRAND NEW 2021 VW ATLAS.  TWO DAYS AGO THE AIRBAG LIGHT CAME ON THE DASH INDICATING THAT THERE IS A PROBLEM/ISSUE WITH THE DRIVERS SIDE AIRBAG.  MY HUSBAND NOTICED THE ISSUE FIRST AND SAID THAT IT OCCURRED WHEN HE STARTED THE C",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Volkswagen Atlas owners report most",
+    "summary": "Across 438 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 139,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON THURSDAY, OCTOBER 29TH, I STARTED MY CAR AFTER IT HAD BEEN PARKED OUTSIDE FOR SEVERAL DAYS IN THE RAIN.  AFTER BACKING MY CAR OUT OF THE DRIVEWAY AND THEN PROPELLING FORWARD,  WATER (EASILY 1.5-2 CUPS) CAME OUT OF THE REAR VIEW MIRROR ONTO THE PANELING BELOW.  THE WATER CAME O",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "139 reports (32%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 95,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Check engine light came on, windows were going down 1/8 of the way on their own, parking brake goes on automatically while engine is on while driving and pressing on brake, cannot utilize any controls on driver door. Dealer checked and it is the door harness that is on backorder.",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "95 reports (22%) · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 77,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is the second Volkswagen Atlas we have purchased after the first had the exact same code P2047 Evap system issues. This Atlas is brand new and it only took 3,000 miles for it to start having system issues. During driving with cruise control enabled the vehicle kicked itself ",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "77 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 67,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY WIFE'S 2021 ATLAS CRUISE CONTROL HAS NOT WORKED SINCE WE PURCHASED THE VEHICLE IN JULY 2020. WHEN STARTING THE VEHICLE VIA REMOTE START (APP OR REMOTE) IT DISABLES THE ENTIRE FRONT END COLLISION SYSTEM AND THE CRUISE DOES NOT WORK. IT HAS BEEN IN THE SHOP OVER 3 WEEKS IN TOTAL",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "67 reports (15%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 63,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I BOUGHT MY VEHICLE AROUND THREE WEEKS AGO.  IT IS A BRAND NEW 2021 VW ATLAS.  TWO DAYS AGO THE AIRBAG LIGHT CAME ON THE DASH INDICATING THAT THERE IS A PROBLEM/ISSUE WITH THE DRIVERS SIDE AIRBAG.  MY HUSBAND NOTICED THE ISSUE FIRST AND SAID THAT IT OCCURRED WHEN HE STARTED THE C",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "63 reports (14%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

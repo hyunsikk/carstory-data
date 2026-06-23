@@ -1,0 +1,128 @@
+{
+  "slug": "2021-lincoln-corsair",
+  "make": "Lincoln",
+  "model": "Corsair",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LINCOLN/CORSAIR#complaints",
+  "generatedAt": "2026-06-23T16:37:40.552Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I took my car in on 2/22/23 to fix the second back up camera recall. However on the night of 2/23/23 the whole screen went blue when put in reverse, and on the morning of 2/24/23 just the rear camera went blue. In both cases I fixed the issue by turning off and restarting the car",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Went to unlock vehicle but found it was unlocked. Tried to start car and noticed there was nothing in the car that worked, interior lights, dashboard monitors, all computer functions were out and could not open the rear hatch. Called Lincoln assist and they sent AAA. They tested ",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Lincoln Corsair. The contact stated that while driving at various speeds, the vehicle would not immediately accelerate while depressing the accelerator pedal. The vehicle was taken to the local dealer who diagnosed that the transmission was faulty and need",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Went to unlock vehicle but found it was unlocked. Tried to start car and noticed there was nothing in the car that worked, interior lights, dashboard monitors, all computer functions were out and could not open the rear hatch. Called Lincoln assist and they sent AAA. They tested ",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Went to unlock vehicle but found it was unlocked. Tried to start car and noticed there was nothing in the car that worked, interior lights, dashboard monitors, all computer functions were out and could not open the rear hatch. Called Lincoln assist and they sent AAA. They tested ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Lincoln Corsair owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Back Over Prevention (26% of reports).",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I took my car in on 2/22/23 to fix the second back up camera recall. However on the night of 2/23/23 the whole screen went blue when put in reverse, and on the morning of 2/24/23 just the rear camera went blue. In both cases I fixed the issue by turning off and restarting the car",
+        "pct": 26,
+        "title": "Back Over Prevention",
+        "blurb": "9 reports (26%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Went to unlock vehicle but found it was unlocked. Tried to start car and noticed there was nothing in the car that worked, interior lights, dashboard monitors, all computer functions were out and could not open the rear hatch. Called Lincoln assist and they sent AAA. They tested ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Lincoln Corsair. The contact stated that while driving at various speeds, the vehicle would not immediately accelerate while depressing the accelerator pedal. The vehicle was taken to the local dealer who diagnosed that the transmission was faulty and need",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Went to unlock vehicle but found it was unlocked. Tried to start car and noticed there was nothing in the car that worked, interior lights, dashboard monitors, all computer functions were out and could not open the rear hatch. Called Lincoln assist and they sent AAA. They tested ",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Went to unlock vehicle but found it was unlocked. Tried to start car and noticed there was nothing in the car that worked, interior lights, dashboard monitors, all computer functions were out and could not open the rear hatch. Called Lincoln assist and they sent AAA. They tested ",
+        "pct": 6,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (6%)"
+      }
+    ]
+  }
+}

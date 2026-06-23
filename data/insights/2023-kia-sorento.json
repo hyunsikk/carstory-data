@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-sorento",
+  "make": "Kia",
+  "model": "Sorento",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/SORENTO#complaints",
+  "generatedAt": "2026-06-23T16:36:47.891Z",
+  "total": 103,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 32,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "My passenger interior dash and glove box trim are melted. I’ve had it checked out by Kia, however they do not see where an origin could have come from. The day i noticed it, my vehicle had been hit on the front right passenger fender. The melting looked to be electrical or caused",
+      "pct": 31
+    },
+    {
+      "component": "ENGINE",
+      "count": 26,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This vehicle has four drive modes… when in eco mode and pulling onto a road with a steep grade the car lacks power to safely drive. This only happens in eco mode. I have tested 4 times and got the same result. The hesitation lasts for about 3 seconds with that gas pedal fully dep",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia Sorento. The contact stated while driving 70 MPH, the vehicle independently decelerated with the transmission error warning light illuminated. The contact was able to push the vehicle to the side of the roadway. The vehicle was towed to the dealer. The",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have only had the Kia Sorento for a few months and bought it brand new.  While driving normally, one of the collision warning indicators came on while switching lanes and then nearly every alarm in the car cycled continuously.  These audible and visual alarms were highly distra",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia Sorento. The contact stated while driving 70 MPH, the vehicle independently decelerated with the transmission error warning light illuminated. The contact was able to push the vehicle to the side of the roadway. The vehicle was towed to the dealer. The",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Sorento owners report most",
+    "summary": "Across 103 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 32,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "My passenger interior dash and glove box trim are melted. I’ve had it checked out by Kia, however they do not see where an origin could have come from. The day i noticed it, my vehicle had been hit on the front right passenger fender. The melting looked to be electrical or caused",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "32 reports (31%) · 1 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 26,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This vehicle has four drive modes… when in eco mode and pulling onto a road with a steep grade the car lacks power to safely drive. This only happens in eco mode. I have tested 4 times and got the same result. The hesitation lasts for about 3 seconds with that gas pedal fully dep",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "26 reports (25%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia Sorento. The contact stated while driving 70 MPH, the vehicle independently decelerated with the transmission error warning light illuminated. The contact was able to push the vehicle to the side of the roadway. The vehicle was towed to the dealer. The",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "17 reports (17%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have only had the Kia Sorento for a few months and bought it brand new.  While driving normally, one of the collision warning indicators came on while switching lanes and then nearly every alarm in the car cycled continuously.  These audible and visual alarms were highly distra",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (12%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia Sorento. The contact stated while driving 70 MPH, the vehicle independently decelerated with the transmission error warning light illuminated. The contact was able to push the vehicle to the side of the roadway. The vehicle was towed to the dealer. The",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "11 reports (11%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

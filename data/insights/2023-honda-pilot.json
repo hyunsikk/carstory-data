@@ -1,0 +1,128 @@
+{
+  "slug": "2023-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HONDA/PILOT#complaints",
+  "generatedAt": "2026-06-23T16:32:45.977Z",
+  "total": 111,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "According to the dealership, there was a battery failure, a wheel sensor failure, and possibly other things going on as well.  The car was rendered useless. ABS stopped working, multiple transmission failures, traction control failures, power steering failures, brake failures, to",
+      "pct": 22
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle is reporting an error on the display. \"Supplemental restraint system problem. See your dealer\" a quick Google search in Honda Pilots forum confirms numerous vehicles experienced this same issue. Seems like we have multiple failures for tge air bag or restraint systems",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When traveling on the road I live, the Pilot will slam its breaks on, I assume this is the automatic breaking system, but the issue is, there will be nothing on or near the road. No cars, pedestrians , nothing. Just my pilot. The speed limit is about 45MPH and it will slam the br",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "- There is a clicking noise coming from the steering column area after the vehicle has been driven on the highway for approximately 15 minutes and the vehicle engine has been warmed up. The noise can be heard at low speeds, such as pulling up into a driveway, or turning the steer",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle was purchased 7/1/2023. It is a 2023 Honda Pilot. 8 days after the purchase (OD mileage: 332), on a major highway, all mechanical systems in the vehicle failed within 2 minutes of each other. The engine, brakes, electrical, airbags, AWD, all of the ADAS systems, etc. ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Honda Pilot owners report most",
+    "summary": "Across 111 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "According to the dealership, there was a battery failure, a wheel sensor failure, and possibly other things going on as well.  The car was rendered useless. ABS stopped working, multiple transmission failures, traction control failures, power steering failures, brake failures, to",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "24 reports (22%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle is reporting an error on the display. \"Supplemental restraint system problem. See your dealer\" a quick Google search in Honda Pilots forum confirms numerous vehicles experienced this same issue. Seems like we have multiple failures for tge air bag or restraint systems",
+        "pct": 17,
+        "title": "Seat Belts",
+        "blurb": "19 reports (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When traveling on the road I live, the Pilot will slam its breaks on, I assume this is the automatic breaking system, but the issue is, there will be nothing on or near the road. No cars, pedestrians , nothing. Just my pilot. The speed limit is about 45MPH and it will slam the br",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "17 reports (15%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "- There is a clicking noise coming from the steering column area after the vehicle has been driven on the highway for approximately 15 minutes and the vehicle engine has been warmed up. The noise can be heard at low speeds, such as pulling up into a driveway, or turning the steer",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "16 reports (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle was purchased 7/1/2023. It is a 2023 Honda Pilot. 8 days after the purchase (OD mileage: 332), on a major highway, all mechanical systems in the vehicle failed within 2 minutes of each other. The engine, brakes, electrical, airbags, AWD, all of the ADAS systems, etc. ",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "15 reports (14%)"
+      }
+    ]
+  }
+}

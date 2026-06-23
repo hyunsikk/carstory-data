@@ -1,0 +1,128 @@
+{
+  "slug": "2019-volkswagen-arteon",
+  "make": "Volkswagen",
+  "model": "Arteon",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/VOLKSWAGEN/ARTEON#complaints",
+  "generatedAt": "2026-06-23T16:45:51.222Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Volkswagen Arteon equipped with Continental tires, Tire line: ProContact TX, Tire Size: 245/35/R20, DOT number: (N/A). The contact stated that on several occasions at different intervals while driving at various speeds, the driver’s and passenger’s side fr",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Volkswagen has issued an interim safety recall for certain VW vehicles. We believe this also incorporates VW Arteon.  The Passenger Occupant Detection System (PODS) detects a malfunction, switches off the passenger airbag, displays an Airbag error and renders the passenger seat i",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Volkswagen has issued an interim safety recall for certain VW vehicles. We believe this also incorporates VW Arteon.  The Passenger Occupant Detection System (PODS) detects a malfunction, switches off the passenger airbag, displays an Airbag error and renders the passenger seat i",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sunroof blew out at 70mph making a sound like a gunshot from within the car. Nothing externally or internally hit the glass. Sunscreen protected the passengers as 75% of the glass blew out and scratched the roof, trunk and back panels of the car traveling at highway speed. Car wa",
+      "pct": 14
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear view camera will occasionally not work. The first symptom is that the touchscreen instrument panel displays a pop-up dialog, randomly while driving, that says, \"ParkPilot is not available right now.\" This dialog needs to be cleared by pressing \"OK\" before the rest of the",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Volkswagen Arteon owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Tires (29% of reports).",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Volkswagen Arteon equipped with Continental tires, Tire line: ProContact TX, Tire Size: 245/35/R20, DOT number: (N/A). The contact stated that on several occasions at different intervals while driving at various speeds, the driver’s and passenger’s side fr",
+        "pct": 29,
+        "title": "Tires",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Volkswagen has issued an interim safety recall for certain VW vehicles. We believe this also incorporates VW Arteon.  The Passenger Occupant Detection System (PODS) detects a malfunction, switches off the passenger airbag, displays an Airbag error and renders the passenger seat i",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Volkswagen has issued an interim safety recall for certain VW vehicles. We believe this also incorporates VW Arteon.  The Passenger Occupant Detection System (PODS) detects a malfunction, switches off the passenger airbag, displays an Airbag error and renders the passenger seat i",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sunroof blew out at 70mph making a sound like a gunshot from within the car. Nothing externally or internally hit the glass. Sunscreen protected the passengers as 75% of the glass blew out and scratched the roof, trunk and back panels of the car traveling at highway speed. Car wa",
+        "pct": 14,
+        "title": "Visibility",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear view camera will occasionally not work. The first symptom is that the touchscreen instrument panel displays a pop-up dialog, randomly while driving, that says, \"ParkPilot is not available right now.\" This dialog needs to be cleared by pressing \"OK\" before the rest of the",
+        "pct": 14,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T16:35:43.351Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failure or malfunctioned, and is it available for inspection upon request? When I started my vehicle I noticed that my navigation screen was black, and then when I put the vehicle in drive and slowed down to make a turn, the engine shut off while I was dr",
+      "pct": 29
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In the past 5 days my car has died/lost all power while in drive, driving down the road. The first time that it happened I was driving down and alley. I brought the car to a complete stop and put the car in park. I hit the push button start and it shut off completely. I was able ",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failure or malfunctioned, and is it available for inspection upon request? When I started my vehicle I noticed that my navigation screen was black, and then when I put the vehicle in drive and slowed down to make a turn, the engine shut off while I was dr",
+      "pct": 16
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On my way to work this morning 4:30 ish the same way I always take. My car decided to drive itself, every light on the middle console lit up, and the dashboard. I was going 50 when my car completely lost control while I tapped my brakes no response its locked, my steering wheel l",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Compass. The contact stated that while driving at various speeds and attempting to accelerate, the vehicle would suddenly jerk, shake, and vibrate. Also, while at a stop light with the auto stop/start activated to save fuel, the vehicle did not automa",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jeep Compass owners report most",
+    "summary": "Across 45 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failure or malfunctioned, and is it available for inspection upon request? When I started my vehicle I noticed that my navigation screen was black, and then when I put the vehicle in drive and slowed down to make a turn, the engine shut off while I was dr",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "13 reports (29%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In the past 5 days my car has died/lost all power while in drive, driving down the road. The first time that it happened I was driving down and alley. I brought the car to a complete stop and put the car in park. I hit the push button start and it shut off completely. I was able ",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (16%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failure or malfunctioned, and is it available for inspection upon request? When I started my vehicle I noticed that my navigation screen was black, and then when I put the vehicle in drive and slowed down to make a turn, the engine shut off while I was dr",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "7 reports (16%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On my way to work this morning 4:30 ish the same way I always take. My car decided to drive itself, every light on the middle console lit up, and the dashboard. I was going 50 when my car completely lost control while I tapped my brakes no response its locked, my steering wheel l",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "6 reports (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Compass. The contact stated that while driving at various speeds and attempting to accelerate, the vehicle would suddenly jerk, shake, and vibrate. Also, while at a stop light with the auto stop/start activated to save fuel, the vehicle did not automa",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "6 reports (13%)"
+      }
+    ]
+  }
+}

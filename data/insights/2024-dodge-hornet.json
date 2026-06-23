@@ -1,0 +1,128 @@
+{
+  "slug": "2024-dodge-hornet",
+  "make": "Dodge",
+  "model": "Hornet",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/DODGE/HORNET#complaints",
+  "generatedAt": "2026-06-23T16:45:00.232Z",
+  "total": 59,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 Dodge Hornet. The contact stated that while driving at an undisclosed speed, he observed brown smoke emanating from the vent in the interior of the vehicle, prompting him to pull to the shoulder of the roadway. After which, upon exiting the vehicle, he ob",
+      "pct": 42
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 17,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We Purchased the Dodge Hornet GT on 04/17/2024 drove it home and parked it. My Husband tried to drive it on 04/18/2024 and the steering failed and the dash board lit up with: Service Power steering, Drive mode unavailable, Park sense disabled, Service Engine, Auto Dim High Beams ",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car operates as if the start stop function is on when it has been turned off. The car idles erratically it launches when driving. The car pulls back while driving and putters. I have been scared to drive the car due to the way it erratically drives. The check engine light has",
+      "pct": 19
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We Purchased the Dodge Hornet GT on 04/17/2024 drove it home and parked it. My Husband tried to drive it on 04/18/2024 and the steering failed and the dash board lit up with: Service Power steering, Drive mode unavailable, Park sense disabled, Service Engine, Auto Dim High Beams ",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle was leased as a new vehicle with 665 miles on the odometer. Immediately upon driving home, I tried activating the ACC (Adaptive Cruise Control) feature on the highway and received a \"Highway Assist Unavailable Service Required\" error message. The vehicle was taken bac",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Dodge Hornet owners report most",
+    "summary": "Across 59 owner complaints to NHTSA, the most reported area is Electrical System (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 Dodge Hornet. The contact stated that while driving at an undisclosed speed, he observed brown smoke emanating from the vent in the interior of the vehicle, prompting him to pull to the shoulder of the roadway. After which, upon exiting the vehicle, he ob",
+        "pct": 42,
+        "title": "Electrical System",
+        "blurb": "25 reports (42%) · 2 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 17,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We Purchased the Dodge Hornet GT on 04/17/2024 drove it home and parked it. My Husband tried to drive it on 04/18/2024 and the steering failed and the dash board lit up with: Service Power steering, Drive mode unavailable, Park sense disabled, Service Engine, Auto Dim High Beams ",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "17 reports (29%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car operates as if the start stop function is on when it has been turned off. The car idles erratically it launches when driving. The car pulls back while driving and putters. I have been scared to drive the car due to the way it erratically drives. The check engine light has",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "11 reports (19%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We Purchased the Dodge Hornet GT on 04/17/2024 drove it home and parked it. My Husband tried to drive it on 04/18/2024 and the steering failed and the dash board lit up with: Service Power steering, Drive mode unavailable, Park sense disabled, Service Engine, Auto Dim High Beams ",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "9 reports (15%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle was leased as a new vehicle with 665 miles on the odometer. Immediately upon driving home, I tried activating the ACC (Adaptive Cruise Control) feature on the highway and received a \"Highway Assist Unavailable Service Required\" error message. The vehicle was taken bac",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (10%)"
+      }
+    ]
+  }
+}

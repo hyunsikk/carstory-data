@@ -1,0 +1,128 @@
+{
+  "slug": "2017-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-06-23T16:32:31.210Z",
+  "total": 38,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BRAND NEW CAR 2017 HONDA ODYSSEY WITH LESS THAN 300 MILES DRIVING ON A WINDING ROAD UPHILL AND THE CHECK ENGINE LIGHT STARTS FLASHING. MANUAL ADVISES TO PULL OVER TO TURN OFF AND LET THE CAR COOL DOWN. DID THAT AND THEN THE VEHICLE STABILITY ASSIST LIGHT ALSO GOES ON. CAR STARTS ",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE WAS IN MOTION ON A STREET AND NORMALLY DECELERATING FROM 30 MPH TOWARDS A STOP LIGHT. WITHOUT WARNING THE CAR SUDDENLY DECELERATED AND STALLED THE ENGINE. IT WAS AS IF THE TRANSMISSION SHIFTED INTO PARK. THIS HAPPENED THREE OTHER TIMES AND EVENTUALLY, THE CAR WOULD NO",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER RAINSTORM, THE FOLLOWING HAPPENED:  - TURN SIGNALS DO NOT WORK  - ALARM WILL NOT ARM/DISARM  - POWER LOCKS NO LONGER WORK  - POWER SLIDING DOORS NO LONGER WORK    CALLED HONDA TO TELL THEM THAT MY VEHICLE IS EXPERIENCING BEHAVIOR DOCUMENTED IN SERVICE BULLETIN 08-078 | ELET",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT 25,000 MILES ON MY HONDA WHEN I APPLIED THE BRAKES THE FRONT END STARTED SHAKING SEVERELY, TOKE THE CAR TO THE HONDA DEALER FOR SERVICE, THEY TOLD ME THAT THE BRAKE PADS GOT HOT THE FIXED THE PADS COST $200 ANOTHER 25,000 MILES SURE ENOUGH THE SAME PROBLEM THIS TIME I COMPLAIN",
+      "pct": 8
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon coming to a complete stop in the left turn lane and waiting for the red light to change, the sliding rear passenger side door automatically opened without prompt or warning. The door had just been opened and closed while the car was stopped, however the door opened even thou",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Honda Odyssey owners report most",
+    "summary": "Across 38 owner complaints to NHTSA, the most reported area is Engine (26% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BRAND NEW CAR 2017 HONDA ODYSSEY WITH LESS THAN 300 MILES DRIVING ON A WINDING ROAD UPHILL AND THE CHECK ENGINE LIGHT STARTS FLASHING. MANUAL ADVISES TO PULL OVER TO TURN OFF AND LET THE CAR COOL DOWN. DID THAT AND THEN THE VEHICLE STABILITY ASSIST LIGHT ALSO GOES ON. CAR STARTS ",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "10 reports (26%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE WAS IN MOTION ON A STREET AND NORMALLY DECELERATING FROM 30 MPH TOWARDS A STOP LIGHT. WITHOUT WARNING THE CAR SUDDENLY DECELERATED AND STALLED THE ENGINE. IT WAS AS IF THE TRANSMISSION SHIFTED INTO PARK. THIS HAPPENED THREE OTHER TIMES AND EVENTUALLY, THE CAR WOULD NO",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "7 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER RAINSTORM, THE FOLLOWING HAPPENED:  - TURN SIGNALS DO NOT WORK  - ALARM WILL NOT ARM/DISARM  - POWER LOCKS NO LONGER WORK  - POWER SLIDING DOORS NO LONGER WORK    CALLED HONDA TO TELL THEM THAT MY VEHICLE IS EXPERIENCING BEHAVIOR DOCUMENTED IN SERVICE BULLETIN 08-078 | ELET",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "6 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT 25,000 MILES ON MY HONDA WHEN I APPLIED THE BRAKES THE FRONT END STARTED SHAKING SEVERELY, TOKE THE CAR TO THE HONDA DEALER FOR SERVICE, THEY TOLD ME THAT THE BRAKE PADS GOT HOT THE FIXED THE PADS COST $200 ANOTHER 25,000 MILES SURE ENOUGH THE SAME PROBLEM THIS TIME I COMPLAIN",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "3 reports (8%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon coming to a complete stop in the left turn lane and waiting for the red light to change, the sliding rear passenger side door automatically opened without prompt or warning. The door had just been opened and closed while the car was stopped, however the door opened even thou",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "2 reports (5%)"
+      }
+    ]
+  }
+}

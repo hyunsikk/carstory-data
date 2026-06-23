@@ -1,0 +1,128 @@
+{
+  "slug": "2021-hyundai-santa-fe",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HYUNDAI/SANTA%20FE#complaints",
+  "generatedAt": "2026-06-23T16:33:54.679Z",
+  "total": 158,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 48,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a new 2021 Hyundai Santa Fe SEL in January 2021. The vehicle occasionally will not shift out of first gear unless you slow down to almost a stop and then accelerate again. It began within the first month or two of owning. Hyundai has had it in the shop three times.  Two ",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "It's only been less than a month, since I bought this car and I've driven ~500 miles. Now when I was driving the car yesterday it just stopped in the middle of the road all of a sudden for no reason. After getting the car towed to the service center, they are reporting that there",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 29,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car would not start; battery was too low to activate lights or locks, let alone starter. An attempted jumper cable connection to an older car was insufficient to make the motor turn, even after just running the assist car while connected for 20+ minutes. A subsequent jump from th",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE FORWARD COLLISION SYSTEM IS AUTOMATICALLY BEING ACTIVATED WITHOUT ANY CAR OR OBJECT NEAR THE FRONT OF THE VEHICLE.  IT HAPPENED 3 TIMES WHILE ON THE FREEWAY AND HIGHWAY.  THE SYSTEM AUTOMATICALLY SLAMS ON THE BRAKES, THE VEHICLE SWERVES A LITTLE TO LEFT AND RIGHT DUE TO THE S",
+      "pct": 11
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car would not start; battery was too low to activate lights or locks, let alone starter. An attempted jumper cable connection to an older car was insufficient to make the motor turn, even after just running the assist car while connected for 20+ minutes. A subsequent jump from th",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Hyundai Santa Fe owners report most",
+    "summary": "Across 158 owner complaints to NHTSA, the most reported area is Power Train (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 48,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a new 2021 Hyundai Santa Fe SEL in January 2021. The vehicle occasionally will not shift out of first gear unless you slow down to almost a stop and then accelerate again. It began within the first month or two of owning. Hyundai has had it in the shop three times.  Two ",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "48 reports (30%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "It's only been less than a month, since I bought this car and I've driven ~500 miles. Now when I was driving the car yesterday it just stopped in the middle of the road all of a sudden for no reason. After getting the car towed to the service center, they are reporting that there",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "35 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 29,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car would not start; battery was too low to activate lights or locks, let alone starter. An attempted jumper cable connection to an older car was insufficient to make the motor turn, even after just running the assist car while connected for 20+ minutes. A subsequent jump from th",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "29 reports (18%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE FORWARD COLLISION SYSTEM IS AUTOMATICALLY BEING ACTIVATED WITHOUT ANY CAR OR OBJECT NEAR THE FRONT OF THE VEHICLE.  IT HAPPENED 3 TIMES WHILE ON THE FREEWAY AND HIGHWAY.  THE SYSTEM AUTOMATICALLY SLAMS ON THE BRAKES, THE VEHICLE SWERVES A LITTLE TO LEFT AND RIGHT DUE TO THE S",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "18 reports (11%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car would not start; battery was too low to activate lights or locks, let alone starter. An attempted jumper cable connection to an older car was insufficient to make the motor turn, even after just running the assist car while connected for 20+ minutes. A subsequent jump from th",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (5%)"
+      }
+    ]
+  }
+}

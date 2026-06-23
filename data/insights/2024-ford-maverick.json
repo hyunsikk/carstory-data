@@ -1,0 +1,128 @@
+{
+  "slug": "2024-ford-maverick",
+  "make": "Ford",
+  "model": "Maverick",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/FORD/MAVERICK#complaints",
+  "generatedAt": "2026-06-23T16:30:41.920Z",
+  "total": 64,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown, My 2024 Ford Maverick has now twice got stuck in reverse (shifter indicates it is in reverse) though the dash shows park and I was unable to start the truck after removing my key and waiting a few moments it would act normal and let me start my truck. The last time it ha",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon exiting my garage I always stop to close the door.  My driveway has incline.  I begin to roll back, hit the breaks several times with no engagement, begin pumping the brake pedal several times, no response.  Continued to roll in reverse going across the street and hit neighb",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am having trouble with the gas pedal. When you push the gas petal it makes a sound under neath the Hood. The car does want to move and when I push the gas pedal again it sounds real bad. There is something wrong. Also when you push the button to lock and unlock it makes a sound",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "New 2024 Ford Maverick. 12,000 miles.  At around 10K miles, a factory recall regarding the firmware driving the brake light system was performed. This has 'broken' the factory installed trailer braking system that applies braking to an attached trailer with electric brakes. This ",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Ford Maverick. The contact stated that while driving approximately 50 MPH and making a left turn,  the steering wheel became difficult to turn a causing the driver to crash into a field fence with barbed wire at a 90-degree angle, where it came to a stop. ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Ford Maverick owners report most",
+    "summary": "Across 64 owner complaints to NHTSA, the most reported area is Power Train (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown, My 2024 Ford Maverick has now twice got stuck in reverse (shifter indicates it is in reverse) though the dash shows park and I was unable to start the truck after removing my key and waiting a few moments it would act normal and let me start my truck. The last time it ha",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "16 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon exiting my garage I always stop to close the door.  My driveway has incline.  I begin to roll back, hit the breaks several times with no engagement, begin pumping the brake pedal several times, no response.  Continued to roll in reverse going across the street and hit neighb",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "12 reports (19%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am having trouble with the gas pedal. When you push the gas petal it makes a sound under neath the Hood. The car does want to move and when I push the gas pedal again it sounds real bad. There is something wrong. Also when you push the button to lock and unlock it makes a sound",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "8 reports (13%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "New 2024 Ford Maverick. 12,000 miles.  At around 10K miles, a factory recall regarding the firmware driving the brake light system was performed. This has 'broken' the factory installed trailer braking system that applies braking to an attached trailer with electric brakes. This ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "7 reports (11%) · 3 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Ford Maverick. The contact stated that while driving approximately 50 MPH and making a left turn,  the steering wheel became difficult to turn a causing the driver to crash into a field fence with barbed wire at a 90-degree angle, where it came to a stop. ",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "7 reports (11%) · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

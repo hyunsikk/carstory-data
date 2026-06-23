@@ -1,0 +1,128 @@
+{
+  "slug": "2016-scion-im",
+  "make": "Scion",
+  "model": "iM",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/SCION/IM#complaints",
+  "generatedAt": "2026-06-23T16:40:31.080Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TRANSMISSION BEGAN SLIPPING WHILE ON THE HIGHWAY LESS THAN 25 MILES AFTER SERVICE AT TOYOTA DEALERSHIP. THE CLUTCH THEN DEGRADED OVER LESS THAN 500 MILES TO THE POINT WHERE VEHICLE WAS BARELY DRIVABLE AND DID NOT TRANSMIT ENOUGH POWER TO GO UP HILLS AT ALL.    TOYOTA SERVICE TECH",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The horn on the vehicle began to operate intermittently and now it does not work at all.  This is a major safety issue as I have several near misses with other drivers turning into my travel lane without signaling and nearly causing an accident.  I have no way of preventing an in",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL-  PURCHASE 2016 SCION IM BRAND NEW A FEW MONTHS AGO.  I NOTICED A PAINT DETAIL ON THE TOP OF THE HATCHBACK DOOR INSIDE WAS DONE POORLY.",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicles car horn no longer works, this is safety manufacturer defect that should be reported and fixed by the manufacturer. I was driving the vehicle and could not honk to other vehicles thus creating a safety hazard.",
+      "pct": 8
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicles car horn no longer works, this is safety manufacturer defect that should be reported and fixed by the manufacturer. I was driving the vehicle and could not honk to other vehicles thus creating a safety hazard.",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Scion Im owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Power Train (42% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TRANSMISSION BEGAN SLIPPING WHILE ON THE HIGHWAY LESS THAN 25 MILES AFTER SERVICE AT TOYOTA DEALERSHIP. THE CLUTCH THEN DEGRADED OVER LESS THAN 500 MILES TO THE POINT WHERE VEHICLE WAS BARELY DRIVABLE AND DID NOT TRANSMIT ENOUGH POWER TO GO UP HILLS AT ALL.    TOYOTA SERVICE TECH",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "5 reports (42%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The horn on the vehicle began to operate intermittently and now it does not work at all.  This is a major safety issue as I have several near misses with other drivers turning into my travel lane without signaling and nearly causing an accident.  I have no way of preventing an in",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL-  PURCHASE 2016 SCION IM BRAND NEW A FEW MONTHS AGO.  I NOTICED A PAINT DETAIL ON THE TOP OF THE HATCHBACK DOOR INSIDE WAS DONE POORLY.",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicles car horn no longer works, this is safety manufacturer defect that should be reported and fixed by the manufacturer. I was driving the vehicle and could not honk to other vehicles thus creating a safety hazard.",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicles car horn no longer works, this is safety manufacturer defect that should be reported and fixed by the manufacturer. I was driving the vehicle and could not honk to other vehicles thus creating a safety hazard.",
+        "pct": 8,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

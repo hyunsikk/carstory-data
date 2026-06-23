@@ -1,0 +1,128 @@
+{
+  "slug": "2014-ram-1500",
+  "make": "Ram",
+  "model": "1500",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/RAM/1500#complaints",
+  "generatedAt": "2026-06-23T16:40:15.149Z",
+  "total": 1731,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 485,
+      "crash": 21,
+      "fire": 1,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 DODGE RAM 1500. THE CONTACT STATED WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE WOULD DRIFT FROM SIDE TO SIDE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE VEHICLE WAS OUT OF LINE BUT THEY WERE UNABLE TO ALTER IT. THE MANUFA",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 300,
+      "crash": 2,
+      "fire": 14,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "WE WERE DRIVING OUR NEW TRUCK (ONLY 13 DAYS OLD) AND CAME UP BEHIND A CAR GOING 25MPH IN A 50MPH ZONE.  WE SLOWLY ACCELERATED THE TRUCK TO PASS THE VEHICLE.  DURING THIS ACCELERATION, WE SAW LARGE AMOUNTS OF WHITE SMOKE COMING FROM BOTH TAILPIPES.  THEN A BRIEF SINGLE CHIME START",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 241,
+      "crash": 9,
+      "fire": 6,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "THERE IS A CONTINUOUS UNKNOWN ELECTRICAL DRAW CAUSING THE BATTERY TO DRAIN TO THE POINT THE VEHICLE WILL NOT START. AN ELECTRICAL SURGE WILL CAUSE THE ELECTRIC SUSPENSION TO ACTIVATE ALONG WITH THE CONSOLE CLUSTER AFTER THE VEHICLE HAS BEEN TURNED OFF. THE VEHICLE HAS BEEN BACK T",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 211,
+      "crash": 2,
+      "fire": 7,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "CHECK ENGINE LIGHT CAME ON.  THAT WAS 9/24/14.  THE CHECK ENGINE LIGHT HAS BEEN THROUGH A MYRIAD OF \"FIXES\".  IT IS NOW 02/03/15 (5 1/2 MONTHS) - THE CHECK ENGINE LIGHT IS STILL ON AND THE DEALERSHIP HAS IT IN FOR \"REPAIR\".  THE WARRANTY REQUIRES THAT THE VEHICLE NOT BE DRIVEN WH",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 191,
+      "crash": 23,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "THE NEW RAM TRUCKS USE A DIAL LIKE SHIFTER THAT CHRYSLER IS CALLING THE \"ROTARY SHIFTER\" IN WHICH THE DRIVER USES TO SELECT THE TRANSMISSION POSITION FROM PARK OR DRIVE. THE SYSTEM IS CAUSING SAFETY ISSUES IN CONFUSING DRIVERS THINKING THAT THEY ARE LOOKING FOR THE WINDSHIELD WIP",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Ram 1500 owners report most",
+    "summary": "Across 1,731 owner complaints to NHTSA, the most reported area is Steering (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 485,
+        "crash": 21,
+        "fire": 1,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 DODGE RAM 1500. THE CONTACT STATED WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE WOULD DRIFT FROM SIDE TO SIDE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE VEHICLE WAS OUT OF LINE BUT THEY WERE UNABLE TO ALTER IT. THE MANUFA",
+        "pct": 28,
+        "title": "Steering",
+        "blurb": "485 reports (28%) · 1 fire · 21 crash · 9 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 300,
+        "crash": 2,
+        "fire": 14,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "WE WERE DRIVING OUR NEW TRUCK (ONLY 13 DAYS OLD) AND CAME UP BEHIND A CAR GOING 25MPH IN A 50MPH ZONE.  WE SLOWLY ACCELERATED THE TRUCK TO PASS THE VEHICLE.  DURING THIS ACCELERATION, WE SAW LARGE AMOUNTS OF WHITE SMOKE COMING FROM BOTH TAILPIPES.  THEN A BRIEF SINGLE CHIME START",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "300 reports (17%) · 14 fire · 2 crash · 12 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 241,
+        "crash": 9,
+        "fire": 6,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "THERE IS A CONTINUOUS UNKNOWN ELECTRICAL DRAW CAUSING THE BATTERY TO DRAIN TO THE POINT THE VEHICLE WILL NOT START. AN ELECTRICAL SURGE WILL CAUSE THE ELECTRIC SUSPENSION TO ACTIVATE ALONG WITH THE CONSOLE CLUSTER AFTER THE VEHICLE HAS BEEN TURNED OFF. THE VEHICLE HAS BEEN BACK T",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "241 reports (14%) · 6 fire · 9 crash · 6 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 211,
+        "crash": 2,
+        "fire": 7,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "CHECK ENGINE LIGHT CAME ON.  THAT WAS 9/24/14.  THE CHECK ENGINE LIGHT HAS BEEN THROUGH A MYRIAD OF \"FIXES\".  IT IS NOW 02/03/15 (5 1/2 MONTHS) - THE CHECK ENGINE LIGHT IS STILL ON AND THE DEALERSHIP HAS IT IN FOR \"REPAIR\".  THE WARRANTY REQUIRES THAT THE VEHICLE NOT BE DRIVEN WH",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "211 reports (12%) · 7 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 191,
+        "crash": 23,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "THE NEW RAM TRUCKS USE A DIAL LIKE SHIFTER THAT CHRYSLER IS CALLING THE \"ROTARY SHIFTER\" IN WHICH THE DRIVER USES TO SELECT THE TRANSMISSION POSITION FROM PARK OR DRIVE. THE SYSTEM IS CAUSING SAFETY ISSUES IN CONFUSING DRIVERS THINKING THAT THEY ARE LOOKING FOR THE WINDSHIELD WIP",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "191 reports (11%) · 23 crash · 7 injured"
+      }
+    ]
+  }
+}

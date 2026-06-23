@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-a6-allroad",
+  "make": "Audi",
+  "model": "A6 allroad",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/A6%20ALLROAD#complaints",
+  "generatedAt": "2026-06-23T16:43:00.943Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My electrical system failed and the car died on the freeway. This is now recognized as a chronic problem- a software bug in the 48 volt mild hybrid system- with several Audi models, including this A6 Allroad. The bug apparently damages the vehicles alternator, which must then be ",
+      "pct": 75
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the interstate, I received a warning about an electrical system malfunction. As I neared my home, I received warnings about transmission failure, suspension malfunction, steering malfunction, sensor failure, and more. After a tow to the dealership I was told it i",
+      "pct": 25
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This vehicle has an automatic opening/closure feature for the rear trunk/hatchback door.  It's activated by putting one's foot under a sensor under the rear fender.  This is fine for opening the door but it also closes the hatchback door with considerable force.  The feature can ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2020 All Road. Received message driving close to my home to contact service due to electrical malfunction and made it to my driveway. This was on a Sunday and no service center was available. Car lost its HVAC and auto stop mechanism on the way home and parked it in the ",
+      "pct": 13
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2020 All Road. Received message driving close to my home to contact service due to electrical malfunction and made it to my driveway. This was on a Sunday and no service center was available. Car lost its HVAC and auto stop mechanism on the way home and parked it in the ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi A6 Allroad owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Electrical System (75% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My electrical system failed and the car died on the freeway. This is now recognized as a chronic problem- a software bug in the 48 volt mild hybrid system- with several Audi models, including this A6 Allroad. The bug apparently damages the vehicles alternator, which must then be ",
+        "pct": 75,
+        "title": "Electrical System",
+        "blurb": "6 reports (75%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the interstate, I received a warning about an electrical system malfunction. As I neared my home, I received warnings about transmission failure, suspension malfunction, steering malfunction, sensor failure, and more. After a tow to the dealership I was told it i",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This vehicle has an automatic opening/closure feature for the rear trunk/hatchback door.  It's activated by putting one's foot under a sensor under the rear fender.  This is fine for opening the door but it also closes the hatchback door with considerable force.  The feature can ",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "1 report (13%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2020 All Road. Received message driving close to my home to contact service due to electrical malfunction and made it to my driveway. This was on a Sunday and no service center was available. Car lost its HVAC and auto stop mechanism on the way home and parked it in the ",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2020 All Road. Received message driving close to my home to contact service due to electrical malfunction and made it to my driveway. This was on a Sunday and no service center was available. Car lost its HVAC and auto stop mechanism on the way home and parked it in the ",
+        "pct": 13,
+        "title": "Lane Departure",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:55.625Z",
+  "total": 47,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STARTING AT 20,000 MILES I STARTED ASKING THE DEALER TO CHECK THE TRANSMISSION ON MY VEHICLE. VERY OFTEN THE TRANSMISSION SHIFTS VERY HARD TO THE POINT YOU HEAR AND YOU FEEL LIKE SOMEONE HIT YOUR CAR ( USUALLY FROM 1ST TO 3RD GEAR ) AND ALSO WHEN YOU SHIFT IT TO REVERSE IT SLIPS.",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lincoln Navigator. The contact stated that there was a loud rattle, rough idle, and loss of power during acceleration after starting the vehicle. The vehicle was taken to the dealer and diagnosed that there was a cold start rattle on the eco-boost engine r",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BACK LIFTGATE OPENS RANDOMENLY. DEALER HAS REPLACED TWO PARTS INVOLVED AND HAPPENED AGAIN YESTERDAY. SEEMS TO BE WHEN YOU SHUT ONE OF THE FRONT DOORS FIRMLY AND LOCK THE CAR W KEYFOB TWICE. I SUSPECT THE AIR PRESSURE FROM SHUTTING DOOR AND KEYFOB ACTION CAUSE THIS. BUT PROBLEM PE",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STARTED VEHICLE AND WENT TO ADJUST STEERING WHEEL I PUSHED THE DOWN BUTTON TO LOWER AND STEERING WHEEL DROPPED. STEERING WHEEL IS NO LONGER ABLE TO ADJUST UP OR DOWN ONLY FORWARD AND BACKWARD. WHEN PUSHING THE UP/DOWN BUTTON A GRINDING SOUND OCCURS. WHEN DRIVING STEERING WHEEL FE",
+      "pct": 11
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear backup camera is not working when you put the vehicle in reverse. I was told it was an issue with the camera, they replaced the camera - which I paid for - and its still not working! Then they said its not the camera - again, I paid for a NEW camera, and they still have ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lincoln Navigator owners report most",
+    "summary": "Across 47 owner complaints to NHTSA, the most reported area is Power Train (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STARTING AT 20,000 MILES I STARTED ASKING THE DEALER TO CHECK THE TRANSMISSION ON MY VEHICLE. VERY OFTEN THE TRANSMISSION SHIFTS VERY HARD TO THE POINT YOU HEAR AND YOU FEEL LIKE SOMEONE HIT YOUR CAR ( USUALLY FROM 1ST TO 3RD GEAR ) AND ALSO WHEN YOU SHIFT IT TO REVERSE IT SLIPS.",
+        "pct": 36,
+        "title": "Power Train",
+        "blurb": "17 reports (36%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lincoln Navigator. The contact stated that there was a loud rattle, rough idle, and loss of power during acceleration after starting the vehicle. The vehicle was taken to the dealer and diagnosed that there was a cold start rattle on the eco-boost engine r",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "11 reports (23%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BACK LIFTGATE OPENS RANDOMENLY. DEALER HAS REPLACED TWO PARTS INVOLVED AND HAPPENED AGAIN YESTERDAY. SEEMS TO BE WHEN YOU SHUT ONE OF THE FRONT DOORS FIRMLY AND LOCK THE CAR W KEYFOB TWICE. I SUSPECT THE AIR PRESSURE FROM SHUTTING DOOR AND KEYFOB ACTION CAUSE THIS. BUT PROBLEM PE",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "8 reports (17%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STARTED VEHICLE AND WENT TO ADJUST STEERING WHEEL I PUSHED THE DOWN BUTTON TO LOWER AND STEERING WHEEL DROPPED. STEERING WHEEL IS NO LONGER ABLE TO ADJUST UP OR DOWN ONLY FORWARD AND BACKWARD. WHEN PUSHING THE UP/DOWN BUTTON A GRINDING SOUND OCCURS. WHEN DRIVING STEERING WHEEL FE",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "5 reports (11%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear backup camera is not working when you put the vehicle in reverse. I was told it was an issue with the camera, they replaced the camera - which I paid for - and its still not working! Then they said its not the camera - again, I paid for a NEW camera, and they still have ",
+        "pct": 6,
+        "title": "Back Over Prevention",
+        "blurb": "3 reports (6%)"
+      }
+    ]
+  }
+}

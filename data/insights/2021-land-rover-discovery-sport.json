@@ -1,0 +1,106 @@
+{
+  "slug": "2021-land-rover-discovery-sport",
+  "make": "Land Rover",
+  "model": "Discovery Sport",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LAND%20ROVER/DISCOVERY%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:07.507Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Major misfires in the engine cylinders at 56800 miles. I bought the car from Willis Auto in Des Moines Ia in October of 2021 Brand new. I am the one and only driver/owner of this vehicle. I came out of my home in Omaha Ne on or about [XXX], to which I attempted to drive my vehicl",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has a transmission problem. The vehicle will shut off at a stop and will come out of gear. I have been sitting at a traffic light and when the light turns green the car will not move (it goes back into neutral). When this happens I have to turn the engine off and rest",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The ignition does not turn on or the car will not power on with the key. The car has been at the dealership for a month and they have been unable to repair what is clearly an electronic problem with the vehicle.   The power button in the ignition does not power up and the vehicle",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The ignition does not turn on or the car will not power on with the key. The car has been at the dealership for a month and they have been unable to repair what is clearly an electronic problem with the vehicle.   The power button in the ignition does not power up and the vehicle",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Land Rover Discovery Sport owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Major misfires in the engine cylinders at 56800 miles. I bought the car from Willis Auto in Des Moines Ia in October of 2021 Brand new. I am the one and only driver/owner of this vehicle. I came out of my home in Omaha Ne on or about [XXX], to which I attempted to drive my vehicl",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has a transmission problem. The vehicle will shut off at a stop and will come out of gear. I have been sitting at a traffic light and when the light turns green the car will not move (it goes back into neutral). When this happens I have to turn the engine off and rest",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The ignition does not turn on or the car will not power on with the key. The car has been at the dealership for a month and they have been unable to repair what is clearly an electronic problem with the vehicle.   The power button in the ignition does not power up and the vehicle",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The ignition does not turn on or the car will not power on with the key. The car has been at the dealership for a month and they have been unable to repair what is clearly an electronic problem with the vehicle.   The power button in the ignition does not power up and the vehicle",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

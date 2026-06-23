@@ -1,0 +1,128 @@
+{
+  "slug": "2024-nissan-rogue",
+  "make": "Nissan",
+  "model": "Rogue",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/NISSAN/ROGUE#complaints",
+  "generatedAt": "2026-06-23T16:39:32.143Z",
+  "total": 165,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 49,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "As I was driving yesterday car jump down to 5 mph. Message came on engine malfunction power reduced service now. Thank god no cars was behind me. I pulled over turned the car off then put it back on. It did run but engine was loud. Today on my way to work car engine is loud and c",
+      "pct": 30
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 39,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "As I was driving yesterday car jump down to 5 mph. Message came on engine malfunction power reduced service now. Thank god no cars was behind me. I pulled over turned the car off then put it back on. It did run but engine was loud. Today on my way to work car engine is loud and c",
+      "pct": 24
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "rear tailgate window exploded for no reason.  i work for a fleet company and we have had this happen on at least 8 nissan rogues some in winter some in summer.  Glass being blown out is extremely frightening while driving and could increase the risk of a crash.  its also a safety",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car was purchased band new on June 11, 2024.  The day after purchase, the screen went blank and there is no backup camera, and has occurred every day.  This is a safety issue for me.  Had the car in to the service department twice. Nissan approved replacing the screen unit, howev",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Nissan Rogue. The contact stated while driving at various speeds with the cruise control activated, the \"Slippery Road\" message would appear on the instrument panel even though the contact was not driving in inclement weather. The contact stated that the c",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Nissan Rogue owners report most",
+    "summary": "Across 165 owner complaints to NHTSA, the most reported area is Engine (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 49,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "As I was driving yesterday car jump down to 5 mph. Message came on engine malfunction power reduced service now. Thank god no cars was behind me. I pulled over turned the car off then put it back on. It did run but engine was loud. Today on my way to work car engine is loud and c",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "49 reports (30%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 39,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "As I was driving yesterday car jump down to 5 mph. Message came on engine malfunction power reduced service now. Thank god no cars was behind me. I pulled over turned the car off then put it back on. It did run but engine was loud. Today on my way to work car engine is loud and c",
+        "pct": 24,
+        "title": "Power Train",
+        "blurb": "39 reports (24%) · 2 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "rear tailgate window exploded for no reason.  i work for a fleet company and we have had this happen on at least 8 nissan rogues some in winter some in summer.  Glass being blown out is extremely frightening while driving and could increase the risk of a crash.  its also a safety",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "21 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car was purchased band new on June 11, 2024.  The day after purchase, the screen went blank and there is no backup camera, and has occurred every day.  This is a safety issue for me.  Had the car in to the service department twice. Nissan approved replacing the screen unit, howev",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "17 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Nissan Rogue. The contact stated while driving at various speeds with the cruise control activated, the \"Slippery Road\" message would appear on the instrument panel even though the contact was not driving in inclement weather. The contact stated that the c",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "10 reports (6%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

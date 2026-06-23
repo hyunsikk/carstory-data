@@ -1,0 +1,128 @@
+{
+  "slug": "2020-acura-mdx",
+  "make": "Acura",
+  "model": "MDX",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ACURA/MDX#complaints",
+  "generatedAt": "2026-06-23T16:24:53.079Z",
+  "total": 205,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 77,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Acura MDX. The contact stated while driving 30-35 MPH, the accelerator pedal was depressed but the vehicle failed to respond and would not move. There were several unknown warning lights illuminated. The contact stated that after depressing the drive butto",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car was stopped at a light with idle auto on. The car shut off and switched into neutral  with check engines lights on the dash. I was not able to switch the car to drive. I had to restart the car. This has happened twice in 2 weeks at busy intersections. I have brought the ca",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT HIGHWAY SPEEDS WITH THE ADAPTIVE CRUISE CONTROL ENGAGED, THE VEHICLE DETECTS VEHICLES TO THE RIGHT (SAME DIRECTION OF TRAVEL) OR AT TIMES VEHICLES TO THE LEFT (OPPOSITE DIRECTION OF TRAVEL) AND ABRUPTLY APPLIED BACKING. NO VEHICLES WILL ACTUALLY BE IN LANE OF TRA",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. (JULY 8, 2020) ON 1 OCCASION WITHIN A SHORT TIME AFTER PURCHASING MDX, I FLOORED THE GAS PEDAL ON THE HIGHWAY AS WHEN PASSING ANOTHER CAR, LET OFF THE GAS PEDAL AND THE ENGINE KEPT RUNNING AS THOUGH THE GAS PEDAL WAS STILL FLOORED. REPORTED IT TO DEALER AND THEY SAID THEY COUL",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While at a stoplight, my car notified me of many sensors having \"problems\" From my understanding, it relates to the front camera located on the windshield. I am unable to use these additional safety features since the problem arose earlier this week.   Had this gone out while I w",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Acura Mdx owners report most",
+    "summary": "Across 205 owner complaints to NHTSA, the most reported area is Engine (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 77,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Acura MDX. The contact stated while driving 30-35 MPH, the accelerator pedal was depressed but the vehicle failed to respond and would not move. There were several unknown warning lights illuminated. The contact stated that after depressing the drive butto",
+        "pct": 38,
+        "title": "Engine",
+        "blurb": "77 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car was stopped at a light with idle auto on. The car shut off and switched into neutral  with check engines lights on the dash. I was not able to switch the car to drive. I had to restart the car. This has happened twice in 2 weeks at busy intersections. I have brought the ca",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "37 reports (18%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT HIGHWAY SPEEDS WITH THE ADAPTIVE CRUISE CONTROL ENGAGED, THE VEHICLE DETECTS VEHICLES TO THE RIGHT (SAME DIRECTION OF TRAVEL) OR AT TIMES VEHICLES TO THE LEFT (OPPOSITE DIRECTION OF TRAVEL) AND ABRUPTLY APPLIED BACKING. NO VEHICLES WILL ACTUALLY BE IN LANE OF TRA",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "34 reports (17%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. (JULY 8, 2020) ON 1 OCCASION WITHIN A SHORT TIME AFTER PURCHASING MDX, I FLOORED THE GAS PEDAL ON THE HIGHWAY AS WHEN PASSING ANOTHER CAR, LET OFF THE GAS PEDAL AND THE ENGINE KEPT RUNNING AS THOUGH THE GAS PEDAL WAS STILL FLOORED. REPORTED IT TO DEALER AND THEY SAID THEY COUL",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "20 reports (10%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While at a stoplight, my car notified me of many sensors having \"problems\" From my understanding, it relates to the front camera located on the windshield. I am unable to use these additional safety features since the problem arose earlier this week.   Had this gone out while I w",
+        "pct": 7,
+        "title": "Lane Departure",
+        "blurb": "15 reports (7%)"
+      }
+    ]
+  }
+}

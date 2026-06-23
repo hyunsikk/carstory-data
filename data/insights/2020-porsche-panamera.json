@@ -1,0 +1,84 @@
+{
+  "slug": "2020-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:55.030Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Received a recall notice from Porsche yesterday regarding a potential wiring problem with the climate control coolant pump that, under certain humid conditions, could result in an electrical short and engine fire.  In the notice, they recommend “out of an abundance of caution” to",
+      "pct": 40
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Adaptive Cruise Control keeps faulting randomly and triggering the seatbelt warning ️.  Also when the adaptive cruise control fails the cruise control disengaes altogether.  This is very dangerous when driving. I have taken this car to the dealership 4 times within 2 months f",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Received a recall notice from Porsche yesterday regarding a potential wiring problem with the climate control coolant pump that, under certain humid conditions, could result in an electrical short and engine fire.  In the notice, they recommend “out of an abundance of caution” to",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Porsche Panamera owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (40% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Received a recall notice from Porsche yesterday regarding a potential wiring problem with the climate control coolant pump that, under certain humid conditions, could result in an electrical short and engine fire.  In the notice, they recommend “out of an abundance of caution” to",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Adaptive Cruise Control keeps faulting randomly and triggering the seatbelt warning ️.  Also when the adaptive cruise control fails the cruise control disengaes altogether.  This is very dangerous when driving. I have taken this car to the dealership 4 times within 2 months f",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Received a recall notice from Porsche yesterday regarding a potential wiring problem with the climate control coolant pump that, under certain humid conditions, could result in an electrical short and engine fire.  In the notice, they recommend “out of an abundance of caution” to",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2015-audi-q3",
+  "make": "Audi",
+  "model": "Q3",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/AUDI/Q3#complaints",
+  "generatedAt": "2026-06-23T16:25:50.993Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 AUDI Q3. THE CONTACT STATED THAT THE SUN ROOF WOULD CONTINUE TO CLOSE EVEN WHEN THE VEHICLE WAS TURNED OFF. THE CONTACT WAS MADE AWARE OF NHTSA CAMPAIGN NUMBER: 15V2000000 (VISIBILITY). THE VEHICLE WAS TAKEN TO THE DEALER. THE TECHNICIAN VERIFIED THAT ",
+      "pct": 36
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2015 Q3 IS HAVING THE SAME PROBLEM TIMING CHAIN FAILURE LINED IN THE 2019 RECALL FOR MODELS FROM 2008-2014. MY 2015 HAS ABOUT 51,000 MILES AND SHOULD NOT BE HAVING THIS ISSUE ACCORDING TO SEVERAL MECHANICS AND MY AUDI REPRESENTATIVE COULD NOT PROVIDE ME ANY INFORMATION OTHER T",
+      "pct": 23
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Clock Spring is not functioning in our 2015 Audi Q3. The horn is non-functioning and we were told by the Audi dealership, after waiting for that part for three months, that there is a 50-50 chance that the driver air bag will not deploy and the cruise control is not working. ",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving and the car went out of control.  I had the steering wheel straight, but the rear end started to fishtail in and out of the oncoming lane of traffic. As this happened I had to quickly jerk the steering wheel to get it out of the other lane of oncoming traffic. I had",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Audi Q3 2015 started with  The TPMS on  and the traction skid symbol also lit up on dashboard. I brought it to Audi of Warwick, Rhode Island and they did a diagnostic testing on it and found that it was the all-wheel-drive control module on a lot of 2015 Q3 is just like mine h",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Audi Q3 owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Engine (36% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 AUDI Q3. THE CONTACT STATED THAT THE SUN ROOF WOULD CONTINUE TO CLOSE EVEN WHEN THE VEHICLE WAS TURNED OFF. THE CONTACT WAS MADE AWARE OF NHTSA CAMPAIGN NUMBER: 15V2000000 (VISIBILITY). THE VEHICLE WAS TAKEN TO THE DEALER. THE TECHNICIAN VERIFIED THAT ",
+        "pct": 36,
+        "title": "Engine",
+        "blurb": "8 reports (36%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2015 Q3 IS HAVING THE SAME PROBLEM TIMING CHAIN FAILURE LINED IN THE 2019 RECALL FOR MODELS FROM 2008-2014. MY 2015 HAS ABOUT 51,000 MILES AND SHOULD NOT BE HAVING THIS ISSUE ACCORDING TO SEVERAL MECHANICS AND MY AUDI REPRESENTATIVE COULD NOT PROVIDE ME ANY INFORMATION OTHER T",
+        "pct": 23,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Clock Spring is not functioning in our 2015 Audi Q3. The horn is non-functioning and we were told by the Audi dealership, after waiting for that part for three months, that there is a 50-50 chance that the driver air bag will not deploy and the cruise control is not working. ",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving and the car went out of control.  I had the steering wheel straight, but the rear end started to fishtail in and out of the oncoming lane of traffic. As this happened I had to quickly jerk the steering wheel to get it out of the other lane of oncoming traffic. I had",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Audi Q3 2015 started with  The TPMS on  and the traction skid symbol also lit up on dashboard. I brought it to Audi of Warwick, Rhode Island and they did a diagnostic testing on it and found that it was the all-wheel-drive control module on a lot of 2015 Q3 is just like mine h",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

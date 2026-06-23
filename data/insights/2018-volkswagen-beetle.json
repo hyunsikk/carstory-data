@@ -1,0 +1,128 @@
+{
+  "slug": "2018-volkswagen-beetle",
+  "make": "Volkswagen",
+  "model": "Beetle",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/VOLKSWAGEN/BEETLE#complaints",
+  "generatedAt": "2026-06-23T16:41:45.481Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Volkswagen Beetle. The contact received notification of NHTSA Campaign Number: 24V834000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a re",
+      "pct": 44
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE WINDOW KEEPS SHUTTERING UP & DOWN AFTER GETTING IN THE CAR AND SHUTTING THE DOOR WITH IGNITION ON.. THE WINDOW DOESN'T CLOSE ALL THE WAY, AND THE AUTO DOOR LOCK DOESN'T WORK. THE WINDOW SHUTTERS UP & DOWN ALL ON ITS OWN. BROUGHT CAR TO DEALERSHIP THEY REPLACED THE DOOR LOCK. ",
+      "pct": 31
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Volkswagen Beetle. The contact stated while driving 40-50 MPH, the vehicle started jerking and there was smoke coming from underneath the hood of the vehicle before the vehicle stalled. The contact stated that several unknown warning lights were illuminate",
+      "pct": 6
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Volkswagen Beetle. The contact stated while driving 40-50 MPH, the vehicle started jerking and there was smoke coming from underneath the hood of the vehicle before the vehicle stalled. The contact stated that several unknown warning lights were illuminate",
+      "pct": 6
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've owned this car for nearly two years. On April 3, 2025, I took my car to Niello VW. A service person told me he'd just had a VW Beetle with the same problem, just the passenger's side. Since there was nothing jamming the glide rails, there was no reason for the seat to be stu",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Volkswagen Beetle owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Air Bags (44% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Volkswagen Beetle. The contact received notification of NHTSA Campaign Number: 24V834000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a re",
+        "pct": 44,
+        "title": "Air Bags",
+        "blurb": "7 reports (44%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE WINDOW KEEPS SHUTTERING UP & DOWN AFTER GETTING IN THE CAR AND SHUTTING THE DOOR WITH IGNITION ON.. THE WINDOW DOESN'T CLOSE ALL THE WAY, AND THE AUTO DOOR LOCK DOESN'T WORK. THE WINDOW SHUTTERS UP & DOWN ALL ON ITS OWN. BROUGHT CAR TO DEALERSHIP THEY REPLACED THE DOOR LOCK. ",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "5 reports (31%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Volkswagen Beetle. The contact stated while driving 40-50 MPH, the vehicle started jerking and there was smoke coming from underneath the hood of the vehicle before the vehicle stalled. The contact stated that several unknown warning lights were illuminate",
+        "pct": 6,
+        "title": "Fuel System",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Volkswagen Beetle. The contact stated while driving 40-50 MPH, the vehicle started jerking and there was smoke coming from underneath the hood of the vehicle before the vehicle stalled. The contact stated that several unknown warning lights were illuminate",
+        "pct": 6,
+        "title": "Gasoline",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've owned this car for nearly two years. On April 3, 2025, I took my car to Niello VW. A service person told me he'd just had a VW Beetle with the same problem, just the passenger's side. Since there was nothing jamming the glide rails, there was no reason for the seat to be stu",
+        "pct": 6,
+        "title": "Seats",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

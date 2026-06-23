@@ -1,0 +1,62 @@
+{
+  "slug": "2024-bmw-x4",
+  "make": "BMW",
+  "model": "X4",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/X4#complaints",
+  "generatedAt": "2026-06-23T16:44:18.820Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We had snow this afternoon and my wife drove the car home from work.  We live on a private road and have a steep driveway.  I had her park the car in the road while I plowed the driveway.  There was only 1-2” of snow on the ground.  My wife existed the car.  It appeared to be off",
+      "pct": 50
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact called on behalf of her daughter, who owns a 2024 BMW X4. The contact stated that while attempting to leave a parking lot driving 5 MPH, there was a loud glass shattering sound coming from the sunroof of the vehicle. The contact immediately pulled over and inspected t",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw X4 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Power Train (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We had snow this afternoon and my wife drove the car home from work.  We live on a private road and have a steep driveway.  I had her park the car in the road while I plowed the driveway.  There was only 1-2” of snow on the ground.  My wife existed the car.  It appeared to be off",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%) · 1 crash"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact called on behalf of her daughter, who owns a 2024 BMW X4. The contact stated that while attempting to leave a parking lot driving 5 MPH, there was a loud glass shattering sound coming from the sunroof of the vehicle. The contact immediately pulled over and inspected t",
+        "pct": 50,
+        "title": "Visibility",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

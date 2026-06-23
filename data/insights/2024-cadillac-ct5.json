@@ -1,0 +1,62 @@
+{
+  "slug": "2024-cadillac-ct5",
+  "make": "Cadillac",
+  "model": "CT5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CADILLAC/CT5#complaints",
+  "generatedAt": "2026-06-23T16:27:39.277Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "Air bags did not deploy in bad car accident. Safety issue.",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "issue with all doors and trunk moldings - after heavy rain or after washing the car, the frames inside all doors and trunk have water. This will cause rust and body rot over time. Spoke with the dealer yesterday regarding this issue and was told that all cars have issues and I am",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Cadillac Ct5 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "Air bags did not deploy in bad car accident. Safety issue.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "issue with all doors and trunk moldings - after heavy rain or after washing the car, the frames inside all doors and trunk have water. This will cause rust and body rot over time. Spoke with the dealer yesterday regarding this issue and was told that all cars have issues and I am",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

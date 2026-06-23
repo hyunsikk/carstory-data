@@ -1,0 +1,128 @@
+{
+  "slug": "2022-alfa-romeo-stelvio",
+  "make": "Alfa Romeo",
+  "model": "Stelvio",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/ALFA%20ROMEO/STELVIO#complaints",
+  "generatedAt": "2026-06-23T16:42:48.771Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A recall was issued for a disrupted connector on the front buckle switch hall effect sensor that may cause the air bag to not deploy during a crash. This seems to be an important safety concern. However all dealers in my area (Los Angeles) either do not have the part(s) to repair",
+      "pct": 50
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A recall was issued for a disrupted connector on the front buckle switch hall effect sensor that may cause the air bag to not deploy during a crash. This seems to be an important safety concern. However all dealers in my area (Los Angeles) either do not have the part(s) to repair",
+      "pct": 50
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rearview camera system stopped functioning on about 2/29/2024.  At around the same time, the front proximity sensor began to intermittently falsely indicate an object in the vehicle's path when there is no object, including when the vehicle is traveling at speed in the roadwa",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rearview camera system stopped functioning on about 2/29/2024.  At around the same time, the front proximity sensor began to intermittently falsely indicate an object in the vehicle's path when there is no object, including when the vehicle is traveling at speed in the roadwa",
+      "pct": 25
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rearview camera system stopped functioning on about 2/29/2024.  At around the same time, the front proximity sensor began to intermittently falsely indicate an object in the vehicle's path when there is no object, including when the vehicle is traveling at speed in the roadwa",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Alfa Romeo Stelvio owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A recall was issued for a disrupted connector on the front buckle switch hall effect sensor that may cause the air bag to not deploy during a crash. This seems to be an important safety concern. However all dealers in my area (Los Angeles) either do not have the part(s) to repair",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A recall was issued for a disrupted connector on the front buckle switch hall effect sensor that may cause the air bag to not deploy during a crash. This seems to be an important safety concern. However all dealers in my area (Los Angeles) either do not have the part(s) to repair",
+        "pct": 50,
+        "title": "Seat Belts",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rearview camera system stopped functioning on about 2/29/2024.  At around the same time, the front proximity sensor began to intermittently falsely indicate an object in the vehicle's path when there is no object, including when the vehicle is traveling at speed in the roadwa",
+        "pct": 50,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rearview camera system stopped functioning on about 2/29/2024.  At around the same time, the front proximity sensor began to intermittently falsely indicate an object in the vehicle's path when there is no object, including when the vehicle is traveling at speed in the roadwa",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rearview camera system stopped functioning on about 2/29/2024.  At around the same time, the front proximity sensor began to intermittently falsely indicate an object in the vehicle's path when there is no object, including when the vehicle is traveling at speed in the roadwa",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

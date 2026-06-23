@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-rav4",
+  "make": "Toyota",
+  "model": "RAV4",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/RAV4#complaints",
+  "generatedAt": "2026-06-23T16:41:29.240Z",
+  "total": 135,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Yesterday  I drove an hour in the rain for the first time in my brand new 2023 rav4. I pulled into a parking lot, put it in park and all of the sudden my car starting stuttering/jerking/jolting the whole car, the rpm's were fluttering up and down between 2-3, the car engine turne",
+      "pct": 26
+    },
+    {
+      "component": "STEERING",
+      "count": 25,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yesterday  I drove an hour in the rain for the first time in my brand new 2023 rav4. I pulled into a parking lot, put it in park and all of the sudden my car starting stuttering/jerking/jolting the whole car, the rpm's were fluttering up and down between 2-3, the car engine turne",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yesterday  I drove an hour in the rain for the first time in my brand new 2023 rav4. I pulled into a parking lot, put it in park and all of the sudden my car starting stuttering/jerking/jolting the whole car, the rpm's were fluttering up and down between 2-3, the car engine turne",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "As I was entering a covered parking structure, I came to a complete stop at the entrance of the gate to obtain my parking ticket. I was driving very slow less than 5 mph, and engaged the brakes as to stop to get my parking ticket before entering the parking garage. I have my foot",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I paid for option on my vehicle but it was not installed in the factory. The software shows to be installed on my car. I alerted the sales person numerous times.  I told the car had to be moving faster than 40 miles per hour to activate the pre- collision system  and it still doe",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Rav4 owners report most",
+    "summary": "Across 135 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Yesterday  I drove an hour in the rain for the first time in my brand new 2023 rav4. I pulled into a parking lot, put it in park and all of the sudden my car starting stuttering/jerking/jolting the whole car, the rpm's were fluttering up and down between 2-3, the car engine turne",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "35 reports (26%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 25,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yesterday  I drove an hour in the rain for the first time in my brand new 2023 rav4. I pulled into a parking lot, put it in park and all of the sudden my car starting stuttering/jerking/jolting the whole car, the rpm's were fluttering up and down between 2-3, the car engine turne",
+        "pct": 19,
+        "title": "Steering",
+        "blurb": "25 reports (19%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yesterday  I drove an hour in the rain for the first time in my brand new 2023 rav4. I pulled into a parking lot, put it in park and all of the sudden my car starting stuttering/jerking/jolting the whole car, the rpm's were fluttering up and down between 2-3, the car engine turne",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "22 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "As I was entering a covered parking structure, I came to a complete stop at the entrance of the gate to obtain my parking ticket. I was driving very slow less than 5 mph, and engaged the brakes as to stop to get my parking ticket before entering the parking garage. I have my foot",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "15 reports (11%) · 1 fire · 6 crash · 3 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I paid for option on my vehicle but it was not installed in the factory. The software shows to be installed on my car. I alerted the sales person numerous times.  I told the car had to be moving faster than 40 miles per hour to activate the pre- collision system  and it still doe",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (9%) · 2 crash"
+      }
+    ]
+  }
+}

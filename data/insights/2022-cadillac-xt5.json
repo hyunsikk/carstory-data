@@ -1,0 +1,128 @@
+{
+  "slug": "2022-cadillac-xt5",
+  "make": "Cadillac",
+  "model": "XT5",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CADILLAC/XT5#complaints",
+  "generatedAt": "2026-06-23T16:27:53.877Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was backing out of a parking space in reverse as I have done multiple times and the second I took my foot off the brake pedal to go into reverse, my car shot out at a high speed and hit a parked car on the other side of the street.  Not realizing that there was an auto malfunct",
+      "pct": 22
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Cadillac XT5. The contact stated that the back-over prevention camera lines were very faint. The contact was unable to see the guidelines or the markings. There were no warning lights illuminated. The vehicle was taken to the local dealer, who was unable t",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was backing out of a parking space in reverse as I have done multiple times and the second I took my foot off the brake pedal to go into reverse, my car shot out at a high speed and hit a parked car on the other side of the street.  Not realizing that there was an auto malfunct",
+      "pct": 22
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving using turn by turn directions and it told me to turn and I turned too soon and hit a telephone pole, front center. The airbags did not deploy and onstar did not recognize crash. I heard nothing from anyone. I called 911 to get  the police to come and a wrecker drive",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving using turn by turn directions and it told me to turn and I turned too soon and hit a telephone pole, front center. The airbags did not deploy and onstar did not recognize crash. I heard nothing from anyone. I called 911 to get  the police to come and a wrecker drive",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Cadillac Xt5 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Air Bags (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was backing out of a parking space in reverse as I have done multiple times and the second I took my foot off the brake pedal to go into reverse, my car shot out at a high speed and hit a parked car on the other side of the street.  Not realizing that there was an auto malfunct",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "2 reports (22%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Cadillac XT5. The contact stated that the back-over prevention camera lines were very faint. The contact was unable to see the guidelines or the markings. There were no warning lights illuminated. The vehicle was taken to the local dealer, who was unable t",
+        "pct": 22,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was backing out of a parking space in reverse as I have done multiple times and the second I took my foot off the brake pedal to go into reverse, my car shot out at a high speed and hit a parked car on the other side of the street.  Not realizing that there was an auto malfunct",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "2 reports (22%) · 1 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving using turn by turn directions and it told me to turn and I turned too soon and hit a telephone pole, front center. The airbags did not deploy and onstar did not recognize crash. I heard nothing from anyone. I called 911 to get  the police to come and a wrecker drive",
+        "pct": 11,
+        "title": "Lane Departure",
+        "blurb": "1 report (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving using turn by turn directions and it told me to turn and I turned too soon and hit a telephone pole, front center. The airbags did not deploy and onstar did not recognize crash. I heard nothing from anyone. I called 911 to get  the police to come and a wrecker drive",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (11%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

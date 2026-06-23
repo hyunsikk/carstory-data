@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-06-23T16:28:15.655Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Corvette. The contact stated that while the vehicle was in reverse(R), the transmission failed to engage as the gear indicator light began to flash and the service transmission message was displayed on the instrument panel. After multiple attempt",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The vehicle has had rear and front camera failure within 72 hours of me buying it (91 miles); and I let my sales guy know, we decided to bring it by the dealership one day when it is malfunctioning. I got it to act up that Saturday 3/18/23 with 123 miles, and it showed 2 DTC's (B",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Normal driving conditions while in Z-mode in moderate traffic, an audible bang was heard, however there was no immediate issue. A few minutes later the Check Engine Light, ABS, Traction Control and other lights appear on dash.   Once lights appear, brakes fail and no longer slow ",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The reverse camera works intermittently, but fails more often than it works properly. Able to reset by shutting car off and leaving door open for 90 seconds, then restarting. Works for that ignition/drive cycle but then becomes unreliable again after next startup.  Car is a week ",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Component/System: Fuel System – Fuel Filler / Left-Side Radiator and Cooling Fan Assembly (subject to NHTSA Recall 25V536). What happened: On June 15, 2024, I was refueling my 2023 Chevrolet Corvette Z06 at a BP gas station in Phillipsburg, New Jersey. As I removed the fuel pump ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Corvette owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Power Train (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Corvette. The contact stated that while the vehicle was in reverse(R), the transmission failed to engage as the gear indicator light began to flash and the service transmission message was displayed on the instrument panel. After multiple attempt",
+        "pct": 27,
+        "title": "Power Train",
+        "blurb": "6 reports (27%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The vehicle has had rear and front camera failure within 72 hours of me buying it (91 miles); and I let my sales guy know, we decided to bring it by the dealership one day when it is malfunctioning. I got it to act up that Saturday 3/18/23 with 123 miles, and it showed 2 DTC's (B",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "5 reports (23%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Normal driving conditions while in Z-mode in moderate traffic, an audible bang was heard, however there was no immediate issue. A few minutes later the Check Engine Light, ABS, Traction Control and other lights appear on dash.   Once lights appear, brakes fail and no longer slow ",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The reverse camera works intermittently, but fails more often than it works properly. Able to reset by shutting car off and leaving door open for 90 seconds, then restarting. Works for that ignition/drive cycle but then becomes unreliable again after next startup.  Car is a week ",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Component/System: Fuel System – Fuel Filler / Left-Side Radiator and Cooling Fan Assembly (subject to NHTSA Recall 25V536). What happened: On June 15, 2024, I was refueling my 2023 Chevrolet Corvette Z06 at a BP gas station in Phillipsburg, New Jersey. As I removed the fuel pump ",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "1 report (5%) · 1 fire · 1 injured"
+      }
+    ]
+  }
+}

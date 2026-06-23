@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-corolla-cross",
+  "make": "Toyota",
+  "model": "Corolla Cross",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/COROLLA%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:45:42.195Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle stalls intermittently when it comes to a full stop. This problem still exists and last occurred on June 27, 2022. The vehicle has an intermittent issue (unpredictable with months, or minutes in between). Weather and road conditions have varied. Location has varied as",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I experienced 4 near-death experiences by this car. 1. 10/14/23 Car caught on fire. Car was parked and turned off. Everything inside was shut off. When I stepped out the car, the engine was still running but it sounded loud like a lawnmower. I went back into the car and turned it",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Vehicle message flashes up: \"Voltage abnormality Steering Power Low\" and car shuts off entirely while driving!!!! A quick Google yields scores of other people experiencing the same problem, many of them bringing in the car to the dealership with no fix made! Only 5,000 miles on t",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "I am writing to complain about a serious safety defect in my 2022 Toyota Corolla Cross (VIN [XXX] ). On August 11, 2023, I recently received a letter from Toyota stating that the passenger airbag in my car may not deploy as designed in the event of a crash. This is a serious safe",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was on my way back home from work. I stopped at a red light, when my car suddenly shut off and started making a noise and then the monitor said: engine failure and power steering low. I could not move the steering wheel. Everyone was honking at me because I was in the middle of",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Corolla Cross owners report most",
+    "summary": "Across 42 owner complaints to NHTSA, the most reported area is Engine (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle stalls intermittently when it comes to a full stop. This problem still exists and last occurred on June 27, 2022. The vehicle has an intermittent issue (unpredictable with months, or minutes in between). Weather and road conditions have varied. Location has varied as",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "13 reports (31%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I experienced 4 near-death experiences by this car. 1. 10/14/23 Car caught on fire. Car was parked and turned off. Everything inside was shut off. When I stepped out the car, the engine was still running but it sounded loud like a lawnmower. I went back into the car and turned it",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "7 reports (17%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Vehicle message flashes up: \"Voltage abnormality Steering Power Low\" and car shuts off entirely while driving!!!! A quick Google yields scores of other people experiencing the same problem, many of them bringing in the car to the dealership with no fix made! Only 5,000 miles on t",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "7 reports (17%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "I am writing to complain about a serious safety defect in my 2022 Toyota Corolla Cross (VIN [XXX] ). On August 11, 2023, I recently received a letter from Toyota stating that the passenger airbag in my car may not deploy as designed in the event of a crash. This is a serious safe",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "6 reports (14%) · 5 crash · 9 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was on my way back home from work. I stopped at a red light, when my car suddenly shut off and started making a noise and then the monitor said: engine failure and power steering low. I could not move the steering wheel. Everyone was honking at me because I was in the middle of",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "6 reports (14%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

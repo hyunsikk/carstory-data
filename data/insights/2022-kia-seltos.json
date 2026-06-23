@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-seltos",
+  "make": "Kia",
+  "model": "Seltos",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/SELTOS#complaints",
+  "generatedAt": "2026-06-23T16:36:45.557Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a brand new 2022 Kia Seltos a month and a half ago at Monroeville Kia dealership. On December 11, the car started manifesting a transmission temperature overheating problem in the middle of traffic. Once the transmission overheated, the engine lost power. I was driving i",
+      "pct": 52
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a brand new 2022 Kia Seltos a month and a half ago at Monroeville Kia dealership. On December 11, the car started manifesting a transmission temperature overheating problem in the middle of traffic. Once the transmission overheated, the engine lost power. I was driving i",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Seltos. The contact received notification of NHTSA Campaign Number: 25V099000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for ",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car is giving codes C162604/ C164202 stating there is an issue with the electric stability control as well as lane keeping assistance.   Emergency break lines came on (abs) as well.  There was no incidents before this happened. This was a previous issue with the 2021 Kia Seltos t",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "We purchased a new factory 2022 Kia Seltos for our child, because of its 6 standard airbags and its other safety features.  Our child was in a vehicle accident on Black Friday were he hit his head and suffered a severe head concussion.  It was a frontal crash and none of the airb",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia Seltos owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Engine (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a brand new 2022 Kia Seltos a month and a half ago at Monroeville Kia dealership. On December 11, the car started manifesting a transmission temperature overheating problem in the middle of traffic. Once the transmission overheated, the engine lost power. I was driving i",
+        "pct": 52,
+        "title": "Engine",
+        "blurb": "34 reports (52%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a brand new 2022 Kia Seltos a month and a half ago at Monroeville Kia dealership. On December 11, the car started manifesting a transmission temperature overheating problem in the middle of traffic. Once the transmission overheated, the engine lost power. I was driving i",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "10 reports (15%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Seltos. The contact received notification of NHTSA Campaign Number: 25V099000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for ",
+        "pct": 12,
+        "title": "Engine And Engine Cooling",
+        "blurb": "8 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car is giving codes C162604/ C164202 stating there is an issue with the electric stability control as well as lane keeping assistance.   Emergency break lines came on (abs) as well.  There was no incidents before this happened. This was a previous issue with the 2021 Kia Seltos t",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "7 reports (11%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "We purchased a new factory 2022 Kia Seltos for our child, because of its 6 standard airbags and its other safety features.  Our child was in a vehicle accident on Black Friday were he hit his head and suffered a severe head concussion.  It was a frontal crash and none of the airb",
+        "pct": 5,
+        "title": "Air Bags",
+        "blurb": "3 reports (5%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-lincoln-continental",
+  "make": "Lincoln",
+  "model": "Continental",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LINCOLN/CONTINENTAL#complaints",
+  "generatedAt": "2026-06-23T16:37:39.608Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2018 LINCOLN CONTINENTAL. CONSUMER WRITES IN REGARDS TO DOOR LATCH SAFETY RECALL. *LD  *TR *DT  CONSUMER FEELS HE WAS SOLD A DEFECTIVE VEHICLE WHICH COMMITTED VIOLATIONS IN HIS SALES TRANSACTION, PURCHASE DATE 02/07/19. MANUFACTURE  AND DEALER WAS CONTACTED AND THEY SAID THEY WER",
+      "pct": 25
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lincoln Continental. The contact received notification of NHTSA Campaign Number: 22V644000 (Back Over Prevention) however, the part to do the recall repair was unavailable. The contact stated that the rear-view camera was foggy from the day the vehicle was",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INSTRUMENT CLUSTER DEPROGRAMS ITSELF, INTERIOR LIGHTING STOPPED WORKING, FOLDING EXTERIOR MIRRORS FOLD THEMSELVES WITHOUT COMMAND TO DO SO,REAR VIEW MIRROR CHANGES IT SETTING WITHOUT COMMAND, HUD FLASHES MULTICOLOR LIGHTS ONTO WINDSHIELD VIEWING AREA, APPROACH LIGHTING STOPPED WO",
+      "pct": 19
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When rotating tires 12/22/2023, upon removal of the right front tire, it was discovered that the inner sidewall had split open about midway between the tread and the wheel rim, for a distance of about one foot.  There was no advance warning of this, and no warnings or messages di",
+      "pct": 6
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE WIPER AND WASHERS DO NOT OPERATE AS INTENDED. OPERATION IS SPORADIC. WASHERS DO NOT RESPOND TO THE CONTROL. THEY TURN ON BY THEMSELVES, USUALLY AFTER STARTING THE CAR AND WILL EMPTY THE WASHER FLUID RESERVOIR. THE WIPERS DO NOT RESPOND TO THE CONTROLS. THEY TOO MAY TURN ON AT",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lincoln Continental owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Latches/Locks/Linkages (25% of reports).",
+    "issues": [
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2018 LINCOLN CONTINENTAL. CONSUMER WRITES IN REGARDS TO DOOR LATCH SAFETY RECALL. *LD  *TR *DT  CONSUMER FEELS HE WAS SOLD A DEFECTIVE VEHICLE WHICH COMMITTED VIOLATIONS IN HIS SALES TRANSACTION, PURCHASE DATE 02/07/19. MANUFACTURE  AND DEALER WAS CONTACTED AND THEY SAID THEY WER",
+        "pct": 25,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "4 reports (25%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lincoln Continental. The contact received notification of NHTSA Campaign Number: 22V644000 (Back Over Prevention) however, the part to do the recall repair was unavailable. The contact stated that the rear-view camera was foggy from the day the vehicle was",
+        "pct": 25,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INSTRUMENT CLUSTER DEPROGRAMS ITSELF, INTERIOR LIGHTING STOPPED WORKING, FOLDING EXTERIOR MIRRORS FOLD THEMSELVES WITHOUT COMMAND TO DO SO,REAR VIEW MIRROR CHANGES IT SETTING WITHOUT COMMAND, HUD FLASHES MULTICOLOR LIGHTS ONTO WINDSHIELD VIEWING AREA, APPROACH LIGHTING STOPPED WO",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When rotating tires 12/22/2023, upon removal of the right front tire, it was discovered that the inner sidewall had split open about midway between the tread and the wheel rim, for a distance of about one foot.  There was no advance warning of this, and no warnings or messages di",
+        "pct": 6,
+        "title": "Tires",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE WIPER AND WASHERS DO NOT OPERATE AS INTENDED. OPERATION IS SPORADIC. WASHERS DO NOT RESPOND TO THE CONTROL. THEY TURN ON BY THEMSELVES, USUALLY AFTER STARTING THE CAR AND WILL EMPTY THE WASHER FLUID RESERVOIR. THE WIPERS DO NOT RESPOND TO THE CONTROLS. THEY TOO MAY TURN ON AT",
+        "pct": 6,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

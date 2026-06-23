@@ -1,0 +1,128 @@
+{
+  "slug": "2020-honda-passport",
+  "make": "Honda",
+  "model": "Passport",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HONDA/PASSPORT#complaints",
+  "generatedAt": "2026-06-23T16:32:38.504Z",
+  "total": 89,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 30,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 HONDA PASSPORT. THE CONTACT STATED THAT THE FRONT RADAR SYSTEM AND THE COLLISION AVOIDANCE SYSTEM WAS SENSING OTHER OBJECTS AND ABRUPTLY SLOWING THE VEHICLE DOWN ALMOST TO A COMPLETE STOP. THE CONTACT TURNED OFF THE FEATURE SO IT WOULD NOT ENGAGE IN ER",
+      "pct": 34
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVER DISTRACTIONS CAUSED BY A REPEAT INFOTAINMENT SYSTEM FAILURE AND LOUD SPEAKER POPPING NOISES. SPECIFICALLY, MULTIPLE TIMES A TRIP WHILE DRIVING, THE INFOTAINMENT SYSTEM GOES THROUGH THE FOLLOWING CYCLE; SPEAKERS POP LOUDLY (EVEN IF THE SOUND IS OFF), THEN THE INFOTAINMENT S",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "With the Idle-Stop activated, the engine shut down while stopped at a red light.  However, when I disengaged the brake and tried to push the gas pedal to start, the car did not restart.  It went \"dead.\"  I had to attempt to restart the car, and it took multiple attempts to get it",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 HONDA PASSPORT. THE CONTACT STATED THAT THE FRONT RADAR SYSTEM AND THE COLLISION AVOIDANCE SYSTEM WAS SENSING OTHER OBJECTS AND ABRUPTLY SLOWING THE VEHICLE DOWN ALMOST TO A COMPLETE STOP. THE CONTACT TURNED OFF THE FEATURE SO IT WOULD NOT ENGAGE IN ER",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CMBS ISSUE. failed with error message on screen.  Randomly the breaking system turns on with no one around me on side roads going 50  A Car could be behind me with no one in front and it forcefully stops.  Had to pull over to avoid being hit from behind.  Have had to pull off to ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Honda Passport owners report most",
+    "summary": "Across 89 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 30,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 HONDA PASSPORT. THE CONTACT STATED THAT THE FRONT RADAR SYSTEM AND THE COLLISION AVOIDANCE SYSTEM WAS SENSING OTHER OBJECTS AND ABRUPTLY SLOWING THE VEHICLE DOWN ALMOST TO A COMPLETE STOP. THE CONTACT TURNED OFF THE FEATURE SO IT WOULD NOT ENGAGE IN ER",
+        "pct": 34,
+        "title": "Forward Collision Avoidance",
+        "blurb": "30 reports (34%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVER DISTRACTIONS CAUSED BY A REPEAT INFOTAINMENT SYSTEM FAILURE AND LOUD SPEAKER POPPING NOISES. SPECIFICALLY, MULTIPLE TIMES A TRIP WHILE DRIVING, THE INFOTAINMENT SYSTEM GOES THROUGH THE FOLLOWING CYCLE; SPEAKERS POP LOUDLY (EVEN IF THE SOUND IS OFF), THEN THE INFOTAINMENT S",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "26 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "With the Idle-Stop activated, the engine shut down while stopped at a red light.  However, when I disengaged the brake and tried to push the gas pedal to start, the car did not restart.  It went \"dead.\"  I had to attempt to restart the car, and it took multiple attempts to get it",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "15 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 HONDA PASSPORT. THE CONTACT STATED THAT THE FRONT RADAR SYSTEM AND THE COLLISION AVOIDANCE SYSTEM WAS SENSING OTHER OBJECTS AND ABRUPTLY SLOWING THE VEHICLE DOWN ALMOST TO A COMPLETE STOP. THE CONTACT TURNED OFF THE FEATURE SO IT WOULD NOT ENGAGE IN ER",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "9 reports (10%) · 1 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CMBS ISSUE. failed with error message on screen.  Randomly the breaking system turns on with no one around me on side roads going 50  A Car could be behind me with no one in front and it forcefully stops.  Had to pull over to avoid being hit from behind.  Have had to pull off to ",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "5 reports (6%)"
+      }
+    ]
+  }
+}

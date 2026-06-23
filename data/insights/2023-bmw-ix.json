@@ -1,0 +1,128 @@
+{
+  "slug": "2023-bmw-ix",
+  "make": "BMW",
+  "model": "iX",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/IX#complaints",
+  "generatedAt": "2026-06-23T16:26:43.174Z",
+  "total": 37,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW iX. The contact stated that while his wife was driving at an undisclosed speed, another vehicle crashed into the front and rear passenger side of the vehicle without warning. The air bags failed to deploy. No injuries were sustained. No medical attenti",
+      "pct": 32
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When overtaking a car on a freeway that is on my right side, occasionally the car, without warning and with no information displayed, my car will suddenly brake for no reason about 3 to 5 mph.  I use the accelerator pedal immediately to return to the original speed.  This has hap",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW IX. The contact stated while driving approximately 35 MPH, the vehicle suddenly lost motive power. During the failure, the message \"Malfunction, Pull Over\" was displayed. Approximately 20 minutes later, the contact was able to restart the vehicle howev",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMX IX. The contact stated that while driving the vehicle at approximately 5 MPH while attempting to pull into a parking space the vehicle suddenly experienced unintended acceleration and accelerated forward crashing into the rear of a second vehicle. The ",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle automatically lost power, shut down, and came to a complete stop in the middle of the road. During the shut down, I was unable to accelerate, brake, or steer the vehicle to the side of the road to a safe stopping location.  The vehicle computer appeared to take over a",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw Ix owners report most",
+    "summary": "Across 37 owner complaints to NHTSA, the most reported area is Air Bags (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW iX. The contact stated that while his wife was driving at an undisclosed speed, another vehicle crashed into the front and rear passenger side of the vehicle without warning. The air bags failed to deploy. No injuries were sustained. No medical attenti",
+        "pct": 32,
+        "title": "Air Bags",
+        "blurb": "12 reports (32%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When overtaking a car on a freeway that is on my right side, occasionally the car, without warning and with no information displayed, my car will suddenly brake for no reason about 3 to 5 mph.  I use the accelerator pedal immediately to return to the original speed.  This has hap",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (22%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW IX. The contact stated while driving approximately 35 MPH, the vehicle suddenly lost motive power. During the failure, the message \"Malfunction, Pull Over\" was displayed. Approximately 20 minutes later, the contact was able to restart the vehicle howev",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "7 reports (19%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMX IX. The contact stated that while driving the vehicle at approximately 5 MPH while attempting to pull into a parking space the vehicle suddenly experienced unintended acceleration and accelerated forward crashing into the rear of a second vehicle. The ",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (8%) · 3 crash · 5 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle automatically lost power, shut down, and came to a complete stop in the middle of the road. During the shut down, I was unable to accelerate, brake, or steer the vehicle to the side of the road to a safe stopping location.  The vehicle computer appeared to take over a",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (5%)"
+      }
+    ]
+  }
+}

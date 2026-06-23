@@ -1,0 +1,128 @@
+{
+  "slug": "2020-cadillac-escalade",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CADILLAC/ESCALADE#complaints",
+  "generatedAt": "2026-06-23T16:27:45.389Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Scary, driving with my 3 kids. Engine lights and hazard lights saying pull over. Loud sound coming from the hood. We immediately pulled over. Dealership and private Mechanic told us we need a new engine. We just spent $15k on a new transmission. Dealership won’t help us, said our",
+      "pct": 46
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR STARTS BUT WILL NOT GO INTO DRIVE OR REVERSE.  UPON RESTARTING THE CAR, IT MAY OR MAY NOT GO WORK. WHEN IT DOES WORK THE CAR WILL NOT SHIFT INTO A HIGHER GEAR.",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Cadillac Escalade. The contact stated while driving 50 MPH, there was an abnormal knocking sound coming from the engine compartment, before the vehicle lost motive power. The contact was able to pull over to the shoulder of the roadway, where the vehicle f",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle stops unexpectedly in parking lots (5-10mph) and on freeways (70-76mph). Speed ranges from 5 - 75 mph. Unexpected braking occurs for no reason. There are typically no obstructions or vehicles in front of the vehicle. It is most concerning when the vehicle automatically ap",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is the component that failed  Parts Passenger Side Instrument Panel Wiring Harness Junction Block GM Part # 84114433 Component combustion Yes, the burning of the component has been confirmed Not checked - Just replace the component only No warning lights appeared",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Cadillac Escalade owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Engine (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Scary, driving with my 3 kids. Engine lights and hazard lights saying pull over. Loud sound coming from the hood. We immediately pulled over. Dealership and private Mechanic told us we need a new engine. We just spent $15k on a new transmission. Dealership won’t help us, said our",
+        "pct": 46,
+        "title": "Engine",
+        "blurb": "6 reports (46%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR STARTS BUT WILL NOT GO INTO DRIVE OR REVERSE.  UPON RESTARTING THE CAR, IT MAY OR MAY NOT GO WORK. WHEN IT DOES WORK THE CAR WILL NOT SHIFT INTO A HIGHER GEAR.",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Cadillac Escalade. The contact stated while driving 50 MPH, there was an abnormal knocking sound coming from the engine compartment, before the vehicle lost motive power. The contact was able to pull over to the shoulder of the roadway, where the vehicle f",
+        "pct": 15,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle stops unexpectedly in parking lots (5-10mph) and on freeways (70-76mph). Speed ranges from 5 - 75 mph. Unexpected braking occurs for no reason. There are typically no obstructions or vehicles in front of the vehicle. It is most concerning when the vehicle automatically ap",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (15%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is the component that failed  Parts Passenger Side Instrument Panel Wiring Harness Junction Block GM Part # 84114433 Component combustion Yes, the burning of the component has been confirmed Not checked - Just replace the component only No warning lights appeared",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "1 report (8%) · 1 fire · 1 crash"
+      }
+    ]
+  }
+}

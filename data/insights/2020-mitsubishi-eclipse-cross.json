@@ -1,0 +1,106 @@
+{
+  "slug": "2020-mitsubishi-eclipse-cross",
+  "make": "Mitsubishi",
+  "model": "Eclipse Cross",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MITSUBISHI/ECLIPSE%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:38:49.084Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's son owned a 2020 Mitsubishi Eclipse Cross. The contact stated that while driving at an undisclosed speed, the steering wheel seized and the vehicle lost motive power.  The contact's son was able to restart the vehicle, drove to a local convenience store, and parked ",
+      "pct": 40
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I hit a deer head on going 70 miles per hour and the air bags never deployed",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My soda bottle engaged the electronic emergency park brake while driving. The emergency brake will not release causing me not to be able to drive the vehicle.",
+      "pct": 20
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE PANORAMIC SUNROOF WILL NOT OPEN. I CAN HEAR THE MOTOR HOWEVER THE INTERIOR OR EXTERIOR SUNROOF WILL NOT OPEN  AND THE SHIFTER DOES NOT STAY IN DRIVE. MY SISTER AND I WERE ON THE INTERSTATE AND SHE HANDED ME A DRINK AND HIT THE SHIFTER AND IT SLID INTO NEUTRAL WITHOUT PUSHING ",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mitsubishi Eclipse Cross owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's son owned a 2020 Mitsubishi Eclipse Cross. The contact stated that while driving at an undisclosed speed, the steering wheel seized and the vehicle lost motive power.  The contact's son was able to restart the vehicle, drove to a local convenience store, and parked ",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "2 reports (40%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I hit a deer head on going 70 miles per hour and the air bags never deployed",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My soda bottle engaged the electronic emergency park brake while driving. The emergency brake will not release causing me not to be able to drive the vehicle.",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE PANORAMIC SUNROOF WILL NOT OPEN. I CAN HEAR THE MOTOR HOWEVER THE INTERIOR OR EXTERIOR SUNROOF WILL NOT OPEN  AND THE SHIFTER DOES NOT STAY IN DRIVE. MY SISTER AND I WERE ON THE INTERSTATE AND SHE HANDED ME A DRINK AND HIT THE SHIFTER AND IT SLID INTO NEUTRAL WITHOUT PUSHING ",
+        "pct": 20,
+        "title": "Seats",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

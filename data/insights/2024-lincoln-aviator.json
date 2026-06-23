@@ -1,0 +1,62 @@
+{
+  "slug": "2024-lincoln-aviator",
+  "make": "Lincoln",
+  "model": "Aviator",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/LINCOLN/AVIATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:38.635Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle was already in for service once for this issue and is going back a second time the rear camera when backing up randomly starts to flicker and go crazy, and sometimes blanking out. The first fix replaced the camera to no avail. It seems to happen randomly, but about 50",
+      "pct": 40
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In addition to the recall for the C-pillar appliques and window division bars (NHTSA ID Number: 25V407000), the chrome trim piece directly below the window also suffers from insufficient adhesive bonding. See the photo below. It came lose while driving at high speeds.",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Lincoln Aviator owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle was already in for service once for this issue and is going back a second time the rear camera when backing up randomly starts to flicker and go crazy, and sometimes blanking out. The first fix replaced the camera to no avail. It seems to happen randomly, but about 50",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In addition to the recall for the C-pillar appliques and window division bars (NHTSA ID Number: 25V407000), the chrome trim piece directly below the window also suffers from insufficient adhesive bonding. See the photo below. It came lose while driving at high speeds.",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

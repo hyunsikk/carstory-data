@@ -1,0 +1,106 @@
+{
+  "slug": "2016-bmw-z4",
+  "make": "BMW",
+  "model": "Z4",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/Z4#complaints",
+  "generatedAt": "2026-06-23T16:27:11.277Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW Z4. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonabl",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW Z4. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonabl",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 BMW Z4. THE CONTACT STATED THAT WHILE HIS WIFE WAS STOPPED AND THE BRAKE PEDAL WAS DEPRESSED AN UNKNOWN NOISE WAS HEARD AS, THE VEHICLE ACCELERATED OUT OF CONTROL AND CRASHED INTO THE REAR OF THE VEHICLE IN FRONT CAUSING THAT VEHICLE TO CRASHED INTO TH",
+      "pct": 25
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ABOUT 20% OF TIME, DRIVER SIDE SEAT BELT JAMS, WILL NOT RELEASE FROM RECESS/RETAINER BEHIND SEAT WITHOUT USING MY HAND FOR COUPLE MINUTES TO JIGGLE ENOUGH. NO PROBLEM ONCE I GET IT TO RELEASE. THEN FITS IN CONNECTOR AND ALSO RELEASES OK. TWO LOCAL DEALERS UNABLE TO FIX. ONE EVEN ",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw Z4 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Engine And Engine Cooling (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW Z4. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonabl",
+        "pct": 25,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW Z4. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonabl",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 BMW Z4. THE CONTACT STATED THAT WHILE HIS WIFE WAS STOPPED AND THE BRAKE PEDAL WAS DEPRESSED AN UNKNOWN NOISE WAS HEARD AS, THE VEHICLE ACCELERATED OUT OF CONTROL AND CRASHED INTO THE REAR OF THE VEHICLE IN FRONT CAUSING THAT VEHICLE TO CRASHED INTO TH",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ABOUT 20% OF TIME, DRIVER SIDE SEAT BELT JAMS, WILL NOT RELEASE FROM RECESS/RETAINER BEHIND SEAT WITHOUT USING MY HAND FOR COUPLE MINUTES TO JIGGLE ENOUGH. NO PROBLEM ONCE I GET IT TO RELEASE. THEN FITS IN CONNECTOR AND ALSO RELEASES OK. TWO LOCAL DEALERS UNABLE TO FIX. ONE EVEN ",
+        "pct": 25,
+        "title": "Seat Belts",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

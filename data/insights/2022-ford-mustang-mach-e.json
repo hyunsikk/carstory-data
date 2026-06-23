@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-mustang-mach-e",
+  "make": "Ford",
+  "model": "Mustang Mach-E",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/MUSTANG%20MACH-E#complaints",
+  "generatedAt": "2026-06-23T16:30:47.772Z",
+  "total": 125,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 71,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The HVBJB subassembly in ALL Ford Mach-e vehicles has known defects with under-designed main contactors that are known to fail under normal charging and driving conditions as outlined in current open Ford recall notice for my vehicle 22S41. Unfortunately, the internal damage to c",
+      "pct": 57
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 26,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Mustang. The contact stated while pulling into a parking spot at approximately 2 MPH and had not yet placed the vehicle in park, the vehicle had an unintended acceleration. The contact stated no warning light was illuminated. The vehicle crashed into ",
+      "pct": 21
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 18,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was pulling into my garage, steering with my left hand, making a slow, tight left turn from the drive way into the perpendicular garage. As the steering wheel turned, I believe my left palm hit the cruise control button and activated the adaptive cruise control. The vehicle sud",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 18,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Mustang. The contact stated while pulling into a parking spot at approximately 2 MPH and had not yet placed the vehicle in park, the vehicle had an unintended acceleration. The contact stated no warning light was illuminated. The vehicle crashed into ",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The HVBJB subassembly in ALL Ford Mach-e vehicles has known defects with under-designed main contactors that are known to fail under normal charging and driving conditions as outlined in current open Ford recall notice for my vehicle 22S41. Unfortunately, the internal damage to c",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ford Mustang Mach-E owners report most",
+    "summary": "Across 125 owner complaints to NHTSA, the most reported area is Electrical System (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 71,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The HVBJB subassembly in ALL Ford Mach-e vehicles has known defects with under-designed main contactors that are known to fail under normal charging and driving conditions as outlined in current open Ford recall notice for my vehicle 22S41. Unfortunately, the internal damage to c",
+        "pct": 57,
+        "title": "Electrical System",
+        "blurb": "71 reports (57%) · 5 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 26,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Mustang. The contact stated while pulling into a parking spot at approximately 2 MPH and had not yet placed the vehicle in park, the vehicle had an unintended acceleration. The contact stated no warning light was illuminated. The vehicle crashed into ",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "26 reports (21%) · 3 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 18,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was pulling into my garage, steering with my left hand, making a slow, tight left turn from the drive way into the perpendicular garage. As the steering wheel turned, I believe my left palm hit the cruise control button and activated the adaptive cruise control. The vehicle sud",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "18 reports (14%) · 3 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 18,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Mustang. The contact stated while pulling into a parking spot at approximately 2 MPH and had not yet placed the vehicle in park, the vehicle had an unintended acceleration. The contact stated no warning light was illuminated. The vehicle crashed into ",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "18 reports (14%) · 4 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The HVBJB subassembly in ALL Ford Mach-e vehicles has known defects with under-designed main contactors that are known to fail under normal charging and driving conditions as outlined in current open Ford recall notice for my vehicle 22S41. Unfortunately, the internal damage to c",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "17 reports (14%)"
+      }
+    ]
+  }
+}

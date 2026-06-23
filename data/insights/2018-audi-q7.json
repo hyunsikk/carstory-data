@@ -1,0 +1,128 @@
+{
+  "slug": "2018-audi-q7",
+  "make": "Audi",
+  "model": "Q7",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/Q7#complaints",
+  "generatedAt": "2026-06-23T16:26:07.140Z",
+  "total": 138,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN ATTEMPTING TO CROSSOVER A BUSY INTERSECTION, AND TRYING TO DETERMINE THE DISTANCE BETWEEN THE ONCOMING TRAFFIC AND MYSELF, THE 2018 AUDI Q7, HAS A HESITATION BEFORE THE VEHICLE STARTS IT ACCELERATION.  I HAVE HAD TWO OCCASIONS WHERE THE VEHICLE JUST WOULD START A SLOW ACCELE",
+      "pct": 25
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Warning light comes on stating front left side marker light is not working. However, light is on. Warning continues to come and ding non-stop despite the light working correctly. Searching the internet shows that this has happened to thousands of people. Audi is trying to charge ",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle was maintained by Audi/VW for 60000 miles under a service contract. While changing my snow tires I noticed the spring was broken. My wife did claim she heard a rattling in the back of the car, this must have been it. I’ve found multiple complaints from different owne",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE 2018 AUDI Q7 HAS BEEN IN FOR SERVICE THREE TIMES SINCE I LEASED THE CAR ON 9/11/2017.  MY INITIAL INQUIRY RELATED TO TECHNOLOGY ISSUES WAS BACK ON DECEMBER 22, 2017 THAT WAS SHORTLY FOLLOWED UP BY A SERVICE APPOINTMENT.  AFTER YOUR TEAM ASSESSED THE ISSUE AND ALLEGEDLY RESET ",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2018 AUDIO Q. CONSUMER WRITES IN REGARDS TO PARKING BRAKE MALFUNCTION. *LD    THE CONSUMER WAS INFORMED THAT THE VEHICLE MUST BE PUT IN TO NEUTRAL AND SELECT THE \"P\" FOR PARKING. THE CONSUMER STATED THE EMERGENCY BRAKE WAS NOT ACTIVATED BECAUSE THE VEHICLE WAS ON LEVEL LAND. THE ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi Q7 owners report most",
+    "summary": "Across 138 owner complaints to NHTSA, the most reported area is Engine (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN ATTEMPTING TO CROSSOVER A BUSY INTERSECTION, AND TRYING TO DETERMINE THE DISTANCE BETWEEN THE ONCOMING TRAFFIC AND MYSELF, THE 2018 AUDI Q7, HAS A HESITATION BEFORE THE VEHICLE STARTS IT ACCELERATION.  I HAVE HAD TWO OCCASIONS WHERE THE VEHICLE JUST WOULD START A SLOW ACCELE",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "35 reports (25%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Warning light comes on stating front left side marker light is not working. However, light is on. Warning continues to come and ding non-stop despite the light working correctly. Searching the internet shows that this has happened to thousands of people. Audi is trying to charge ",
+        "pct": 17,
+        "title": "Exterior Lighting",
+        "blurb": "23 reports (17%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle was maintained by Audi/VW for 60000 miles under a service contract. While changing my snow tires I noticed the spring was broken. My wife did claim she heard a rattling in the back of the car, this must have been it. I’ve found multiple complaints from different owne",
+        "pct": 12,
+        "title": "Suspension",
+        "blurb": "16 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE 2018 AUDI Q7 HAS BEEN IN FOR SERVICE THREE TIMES SINCE I LEASED THE CAR ON 9/11/2017.  MY INITIAL INQUIRY RELATED TO TECHNOLOGY ISSUES WAS BACK ON DECEMBER 22, 2017 THAT WAS SHORTLY FOLLOWED UP BY A SERVICE APPOINTMENT.  AFTER YOUR TEAM ASSESSED THE ISSUE AND ALLEGEDLY RESET ",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "16 reports (12%) · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2018 AUDIO Q. CONSUMER WRITES IN REGARDS TO PARKING BRAKE MALFUNCTION. *LD    THE CONSUMER WAS INFORMED THAT THE VEHICLE MUST BE PUT IN TO NEUTRAL AND SELECT THE \"P\" FOR PARKING. THE CONSUMER STATED THE EMERGENCY BRAKE WAS NOT ACTIVATED BECAUSE THE VEHICLE WAS ON LEVEL LAND. THE ",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "12 reports (9%) · 2 crash"
+      }
+    ]
+  }
+}

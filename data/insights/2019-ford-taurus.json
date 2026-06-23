@@ -1,0 +1,128 @@
+{
+  "slug": "2019-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/TAURUS#complaints",
+  "generatedAt": "2026-06-23T16:30:51.697Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Taurus. The contact stated that on several occasions while in reverse(R), the back over prevention screen was black. Additionally, the Blind Spot Warning indicators on both mirrors became inoperable. The vehicle was taken to a dealer where it was diag",
+      "pct": 36
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Taurus. The contact stated that on several occasions while in reverse(R), the back over prevention screen was black. Additionally, the Blind Spot Warning indicators on both mirrors became inoperable. The vehicle was taken to a dealer where it was diag",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Taurus. The contact stated that the heater and air conditioning system failed to operate as needed. The vehicle was taken to the dealer, who determined that the water pump was leaking coolant. The dealer replaced the water pump. The manufacturer was m",
+      "pct": 18
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The windshield wiper system has malfunctioned and appears to have an electrical issue. The wipers only activate on the highest speed setting and cannot be reduced to lower speeds unless the system is completely turned off. At times, the wipers also fail to activate entirely when ",
+      "pct": 9
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Taurus. The contact stated that while in reverse(R); the rear-view camera displayed a blank or distorted image. The contact later received notifications of NHTSA Campaign Numbers: 25V611000 (Structure) and 25V695000 (Back Over Prevention); however, th",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Ford Taurus owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Back Over Prevention (36% of reports).",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Taurus. The contact stated that on several occasions while in reverse(R), the back over prevention screen was black. Additionally, the Blind Spot Warning indicators on both mirrors became inoperable. The vehicle was taken to a dealer where it was diag",
+        "pct": 36,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (36%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Taurus. The contact stated that on several occasions while in reverse(R), the back over prevention screen was black. Additionally, the Blind Spot Warning indicators on both mirrors became inoperable. The vehicle was taken to a dealer where it was diag",
+        "pct": 18,
+        "title": "Lane Departure",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Taurus. The contact stated that the heater and air conditioning system failed to operate as needed. The vehicle was taken to the dealer, who determined that the water pump was leaking coolant. The dealer replaced the water pump. The manufacturer was m",
+        "pct": 18,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The windshield wiper system has malfunctioned and appears to have an electrical issue. The wipers only activate on the highest speed setting and cannot be reduced to lower speeds unless the system is completely turned off. At times, the wipers also fail to activate entirely when ",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Taurus. The contact stated that while in reverse(R); the rear-view camera displayed a blank or distorted image. The contact later received notifications of NHTSA Campaign Numbers: 25V611000 (Structure) and 25V695000 (Back Over Prevention); however, th",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

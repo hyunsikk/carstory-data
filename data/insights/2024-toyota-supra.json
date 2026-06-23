@@ -1,0 +1,40 @@
+{
+  "slug": "2024-toyota-supra",
+  "make": "Toyota",
+  "model": "Supra",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/SUPRA#complaints",
+  "generatedAt": "2026-06-23T16:41:32.007Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "PARKING BRAKE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Manual transmission vehicle.  The electric parking brake can automatically release when letting the clutch out with the vehicle in neutral if the brake and gas were recently touched.  This YouTube video clearly describes the problem: [XXX]   This can present a roll away hazard wh",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Supra owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Parking Brake (100% of reports).",
+    "issues": [
+      {
+        "component": "PARKING BRAKE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Manual transmission vehicle.  The electric parking brake can automatically release when letting the clutch out with the vehicle in neutral if the brake and gas were recently touched.  This YouTube video clearly describes the problem: [XXX]   This can present a roll away hazard wh",
+        "pct": 100,
+        "title": "Parking Brake",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

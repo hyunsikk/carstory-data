@@ -1,0 +1,106 @@
+{
+  "slug": "2021-audi-a7",
+  "make": "Audi",
+  "model": "A7",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/A7#complaints",
+  "generatedAt": "2026-06-23T16:25:34.344Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The first time, while driving at 50-55mph, the engine decelerated suddenly.  After about 10-15 seconds struggles with the gas pedal and brake pedal, the car accelerated normally.  I pulled safely to side of the road to shut off the engine and start again. Things seemed to work li",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At first, the yellow electrical system malfunction warning light came on.  After a short time of driving, the light turned red, and very shortly after than (within five minutes as I was trying to drive the vehicle to the dealership for repair), all of the electrical systems in th",
+      "pct": 40
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The virtual cockpit (dashboard) went completely black except for an exclamation point. Speed, warning symbols, engine temp etc were not visible. Dealers has confirmed the issue and is currently trying to remedy the situation. The danger was not knowing how fast I was traveling.",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi A7. The contact stated while driving 70 MPH with the cruise control activated, the vehicle unexpectedly decelerated. The vehicle was taken to the dealer. The dealer informed the contact that the speed control software needed to be reprogrammed. The so",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi A7 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (40% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The first time, while driving at 50-55mph, the engine decelerated suddenly.  After about 10-15 seconds struggles with the gas pedal and brake pedal, the car accelerated normally.  I pulled safely to side of the road to shut off the engine and start again. Things seemed to work li",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At first, the yellow electrical system malfunction warning light came on.  After a short time of driving, the light turned red, and very shortly after than (within five minutes as I was trying to drive the vehicle to the dealership for repair), all of the electrical systems in th",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The virtual cockpit (dashboard) went completely black except for an exclamation point. Speed, warning symbols, engine temp etc were not visible. Dealers has confirmed the issue and is currently trying to remedy the situation. The danger was not knowing how fast I was traveling.",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi A7. The contact stated while driving 70 MPH with the cruise control activated, the vehicle unexpectedly decelerated. The vehicle was taken to the dealer. The dealer informed the contact that the speed control software needed to be reprogrammed. The so",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

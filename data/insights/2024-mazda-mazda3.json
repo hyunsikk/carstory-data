@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mazda-mazda3",
+  "make": "Mazda",
+  "model": "Mazda3",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MAZDA/MAZDA3#complaints",
+  "generatedAt": "2026-06-23T16:38:05.770Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2024 Mazda Mazda3. The contact stated that while driving at 55–60 mph, the windshield wipers continued to stay in the on position and failed to turn off. The parking brake engaged without application and turned on and off. All the electrical systems malfuncti",
+      "pct": 40
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car gives me emergency brake warnings about imminent collision maybe once or twice a week with nothing in front of me what so ever and once even straight up just brought me to a complete halt in the middle of the road with absolutely nothing in the road. The dealership basically ",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On July 1, 2025, I was involved in a severe rear-end collision while driving my 2024 Mazda3 manual hatchback. The impact was forceful enough to shatter the rear windshield, leave a deep dent in the tailgate, and bend the trailer hitch mount under the vehicle by several inches. De",
+      "pct": 20
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact leased a 2024 Mazda Mazda3. The contact stated that while driving at 55–60 mph, the windshield wipers continued to stay in the on position and failed to turn off. The parking brake engaged without application and turned on and off. All the electrical systems malfuncti",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "left-most lane of a three-lane highway, I pressed the accelerator to maintain the flow of traffic. The vehicle suddenly began revving between 4,000–5,000 RPM without increasing speed. When I attempted to accelerate again, the RPM remained around 3,000, and I immediately received ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mazda Mazda3 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2024 Mazda Mazda3. The contact stated that while driving at 55–60 mph, the windshield wipers continued to stay in the on position and failed to turn off. The parking brake engaged without application and turned on and off. All the electrical systems malfuncti",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "4 reports (40%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car gives me emergency brake warnings about imminent collision maybe once or twice a week with nothing in front of me what so ever and once even straight up just brought me to a complete halt in the middle of the road with absolutely nothing in the road. The dealership basically ",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On July 1, 2025, I was involved in a severe rear-end collision while driving my 2024 Mazda3 manual hatchback. The impact was forceful enough to shatter the rear windshield, leave a deep dent in the tailgate, and bend the trailer hitch mount under the vehicle by several inches. De",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "2 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact leased a 2024 Mazda Mazda3. The contact stated that while driving at 55–60 mph, the windshield wipers continued to stay in the on position and failed to turn off. The parking brake engaged without application and turned on and off. All the electrical systems malfuncti",
+        "pct": 20,
+        "title": "Lane Departure",
+        "blurb": "2 reports (20%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "left-most lane of a three-lane highway, I pressed the accelerator to maintain the flow of traffic. The vehicle suddenly began revving between 4,000–5,000 RPM without increasing speed. When I attempted to accelerate again, the RPM remained around 3,000, and I immediately received ",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

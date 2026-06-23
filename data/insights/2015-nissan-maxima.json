@@ -1,0 +1,62 @@
+{
+  "slug": "2015-nissan-maxima",
+  "make": "Nissan",
+  "model": "Maxima",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/NISSAN/MAXIMA#complaints",
+  "generatedAt": "2026-06-23T16:39:22.475Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2015 NISSAN MAXIMA. WHILE DRIVING 10 MPH, THE VEHICLE UNINTENDEDLY ACCELERATED TO 75 MPH WHILE DEPARTING FROM A CAR WASH. THE VEHICLE CRASHED INTO TWO VEHICLES AND A WALL. THE FRONT PASSENGER AND DRIVER SIDE AIR BAGS FAILED TO DEPLOY. THE CONTACT SUFFERED",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2015 NISSAN MAXIMA. WHILE DRIVING 10 MPH, THE VEHICLE UNINTENDEDLY ACCELERATED TO 75 MPH WHILE DEPARTING FROM A CAR WASH. THE VEHICLE CRASHED INTO TWO VEHICLES AND A WALL. THE FRONT PASSENGER AND DRIVER SIDE AIR BAGS FAILED TO DEPLOY. THE CONTACT SUFFERED",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Nissan Maxima owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Air Bags (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2015 NISSAN MAXIMA. WHILE DRIVING 10 MPH, THE VEHICLE UNINTENDEDLY ACCELERATED TO 75 MPH WHILE DEPARTING FROM A CAR WASH. THE VEHICLE CRASHED INTO TWO VEHICLES AND A WALL. THE FRONT PASSENGER AND DRIVER SIDE AIR BAGS FAILED TO DEPLOY. THE CONTACT SUFFERED",
+        "pct": 100,
+        "title": "Air Bags",
+        "blurb": "1 report (100%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2015 NISSAN MAXIMA. WHILE DRIVING 10 MPH, THE VEHICLE UNINTENDEDLY ACCELERATED TO 75 MPH WHILE DEPARTING FROM A CAR WASH. THE VEHICLE CRASHED INTO TWO VEHICLES AND A WALL. THE FRONT PASSENGER AND DRIVER SIDE AIR BAGS FAILED TO DEPLOY. THE CONTACT SUFFERED",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

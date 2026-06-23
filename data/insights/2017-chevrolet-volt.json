@@ -1,0 +1,128 @@
+{
+  "slug": "2017-chevrolet-volt",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CHEVROLET/VOLT#complaints",
+  "generatedAt": "2026-06-23T16:45:00.625Z",
+  "total": 689,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 305,
+      "crash": 4,
+      "fire": 7,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "2017 CHEVROLET VOLT EXTREME ENGINE HAZARD: ON 22-MAR-2016 I PURCHASED A 2017 CHEVROLET VOLT PREMIER, ALL SAFETY OPTIONS. DRIVING ON FREEWAY AT 65 MPH, STRAIGHT DRIVING, RELATIVELY LIGHT TRAFFIC, THE ENGINE LIGHT CAME ON YELLOW AND STEADY (EMISSIONS SYSTEM SERVICE WARNING) BUT THE",
+      "pct": 44
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 229,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY 2 MONTH OLD CAR WITH ~2300 MILES ON A BUSY HIGHWAY AT ~ 65 MPH WHEN SUDDENLY THE CAR LOSES POWER AND THE PANEL READS \"SHIFT TO PARK\".  LUCKILY, I WAS ABLE TO MANEUVER THE CAR (STEERING WAS STILL IN TACT) WITH THE REMAINING SPEED TO THE SIDE OF THE HIGHWAY.  HOWEV",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 218,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY 2 MONTH OLD CAR WITH ~2300 MILES ON A BUSY HIGHWAY AT ~ 65 MPH WHEN SUDDENLY THE CAR LOSES POWER AND THE PANEL READS \"SHIFT TO PARK\".  LUCKILY, I WAS ABLE TO MANEUVER THE CAR (STEERING WAS STILL IN TACT) WITH THE REMAINING SPEED TO THE SIDE OF THE HIGHWAY.  HOWEV",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 181,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2017 CHEVROLET VOLT EXTREME ENGINE HAZARD: ON 22-MAR-2016 I PURCHASED A 2017 CHEVROLET VOLT PREMIER, ALL SAFETY OPTIONS. DRIVING ON FREEWAY AT 65 MPH, STRAIGHT DRIVING, RELATIVELY LIGHT TRAFFIC, THE ENGINE LIGHT CAME ON YELLOW AND STEADY (EMISSIONS SYSTEM SERVICE WARNING) BUT THE",
+      "pct": 26
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 32,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE BOUGHT A NEW 2017 CHEVY VOLT AT THE END OF DECEMBER 2016 AND HAD OUR FIRST ISSUE IN EARLY FEBRUARY 2017. WHAT HAPPENED THAT FIRST TIME WAS ON (2/3/2017) WHILE DRIVING THROUGH TRAFFIC THE CAR WITHOUT WARNING TURNED OFF THE ELECTRIC WHEEL MOTORS AND WOULD NOT ALLOW US TO POWER T",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Chevrolet Volt owners report most",
+    "summary": "Across 689 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 305,
+        "crash": 4,
+        "fire": 7,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "2017 CHEVROLET VOLT EXTREME ENGINE HAZARD: ON 22-MAR-2016 I PURCHASED A 2017 CHEVROLET VOLT PREMIER, ALL SAFETY OPTIONS. DRIVING ON FREEWAY AT 65 MPH, STRAIGHT DRIVING, RELATIVELY LIGHT TRAFFIC, THE ENGINE LIGHT CAME ON YELLOW AND STEADY (EMISSIONS SYSTEM SERVICE WARNING) BUT THE",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "305 reports (44%) · 7 fire · 4 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 229,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY 2 MONTH OLD CAR WITH ~2300 MILES ON A BUSY HIGHWAY AT ~ 65 MPH WHEN SUDDENLY THE CAR LOSES POWER AND THE PANEL READS \"SHIFT TO PARK\".  LUCKILY, I WAS ABLE TO MANEUVER THE CAR (STEERING WAS STILL IN TACT) WITH THE REMAINING SPEED TO THE SIDE OF THE HIGHWAY.  HOWEV",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "229 reports (33%) · 1 fire · 3 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 218,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY 2 MONTH OLD CAR WITH ~2300 MILES ON A BUSY HIGHWAY AT ~ 65 MPH WHEN SUDDENLY THE CAR LOSES POWER AND THE PANEL READS \"SHIFT TO PARK\".  LUCKILY, I WAS ABLE TO MANEUVER THE CAR (STEERING WAS STILL IN TACT) WITH THE REMAINING SPEED TO THE SIDE OF THE HIGHWAY.  HOWEV",
+        "pct": 32,
+        "title": "Power Train",
+        "blurb": "218 reports (32%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 181,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2017 CHEVROLET VOLT EXTREME ENGINE HAZARD: ON 22-MAR-2016 I PURCHASED A 2017 CHEVROLET VOLT PREMIER, ALL SAFETY OPTIONS. DRIVING ON FREEWAY AT 65 MPH, STRAIGHT DRIVING, RELATIVELY LIGHT TRAFFIC, THE ENGINE LIGHT CAME ON YELLOW AND STEADY (EMISSIONS SYSTEM SERVICE WARNING) BUT THE",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "181 reports (26%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 32,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE BOUGHT A NEW 2017 CHEVY VOLT AT THE END OF DECEMBER 2016 AND HAD OUR FIRST ISSUE IN EARLY FEBRUARY 2017. WHAT HAPPENED THAT FIRST TIME WAS ON (2/3/2017) WHILE DRIVING THROUGH TRAFFIC THE CAR WITHOUT WARNING TURNED OFF THE ELECTRIC WHEEL MOTORS AND WOULD NOT ALLOW US TO POWER T",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "32 reports (5%) · 2 crash"
+      }
+    ]
+  }
+}

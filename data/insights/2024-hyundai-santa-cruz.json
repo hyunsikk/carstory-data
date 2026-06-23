@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-santa-cruz",
+  "make": "Hyundai",
+  "model": "Santa Cruz",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/SANTA%20CRUZ#complaints",
+  "generatedAt": "2026-06-23T16:33:47.465Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "while driving my car lost power and slowed on its own from 65 mph down to 45 mph. i had to power/acceleration and all the dashboard codes lit up and the infotainment system had an error messsage. i was force to pull over on the freeway and restart the car to get power to it.  thi",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "while driving my car lost power and slowed on its own from 65 mph down to 45 mph. i had to power/acceleration and all the dashboard codes lit up and the infotainment system had an error messsage. i was force to pull over on the freeway and restart the car to get power to it.  thi",
+      "pct": 18
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "while driving my car lost power and slowed on its own from 65 mph down to 45 mph. i had to power/acceleration and all the dashboard codes lit up and the infotainment system had an error messsage. i was force to pull over on the freeway and restart the car to get power to it.  thi",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My truck lost power climbing a pass. My speed dropped from 60 mph to 20 mph while on a state highway outside Yellowstone NP where traffic can be heavy. My error codes have indicated that it is a problem in the fuel injection system. I have had electrical harness on that system re",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On [XXX], while I was travelling South on [XXX] in Washington, while towing.  My Emergency Brake/Forward Collision Avoidance system activated.  Very briefly but enough to give me a shock.  There was no reason for this to be activated, traffic was moving along, no one was closely ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Santa Cruz owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Power Train (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "while driving my car lost power and slowed on its own from 65 mph down to 45 mph. i had to power/acceleration and all the dashboard codes lit up and the infotainment system had an error messsage. i was force to pull over on the freeway and restart the car to get power to it.  thi",
+        "pct": 32,
+        "title": "Power Train",
+        "blurb": "11 reports (32%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "while driving my car lost power and slowed on its own from 65 mph down to 45 mph. i had to power/acceleration and all the dashboard codes lit up and the infotainment system had an error messsage. i was force to pull over on the freeway and restart the car to get power to it.  thi",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "while driving my car lost power and slowed on its own from 65 mph down to 45 mph. i had to power/acceleration and all the dashboard codes lit up and the infotainment system had an error messsage. i was force to pull over on the freeway and restart the car to get power to it.  thi",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My truck lost power climbing a pass. My speed dropped from 60 mph to 20 mph while on a state highway outside Yellowstone NP where traffic can be heavy. My error codes have indicated that it is a problem in the fuel injection system. I have had electrical harness on that system re",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (12%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On [XXX], while I was travelling South on [XXX] in Washington, while towing.  My Emergency Brake/Forward Collision Avoidance system activated.  Very briefly but enough to give me a shock.  There was no reason for this to be activated, traffic was moving along, no one was closely ",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "2 reports (6%)"
+      }
+    ]
+  }
+}

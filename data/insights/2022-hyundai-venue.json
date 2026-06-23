@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-venue",
+  "make": "Hyundai",
+  "model": "Venue",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/VENUE#complaints",
+  "generatedAt": "2026-06-23T16:34:31.492Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Venue. The contact stated that the horn became inoperable without warning. The contact received notification of NHTSA Campaign Number: 22V458000 (Seat Belts) however, the part to do the recall repair was not yet available. The local dealer was cont",
+      "pct": 41
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Venue. The contact stated that the horn became inoperable without warning. The contact received notification of NHTSA Campaign Number: 22V458000 (Seat Belts) however, the part to do the recall repair was not yet available. The local dealer was cont",
+      "pct": 23
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On the Third day after leasing the vehicle I noticed it was pulling to the right and left. Dealership mechanic said the steering was not straight and claimed that they fixed it but they didn’t. My car still pulls to the right when I take my hands off the steering wheel. Another H",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Venue. The contact stated while exiting a parking spot, she heard an abnormal noise and had to depress the brake pedal forcefully to stop the vehicle. The contact stated no warning light was illuminated. The contact was able to continue driving to ",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2022 Hyundai Venue has a serious water intrusion issue that has gone unresolved for over a year. Every time it rains water pours into the cabin, especially on the passenger side leaving the floor soaked. I have to vacuum out water daily and use towels to prevent further damage",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Hyundai Venue owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Seat Belts (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Venue. The contact stated that the horn became inoperable without warning. The contact received notification of NHTSA Campaign Number: 22V458000 (Seat Belts) however, the part to do the recall repair was not yet available. The local dealer was cont",
+        "pct": 41,
+        "title": "Seat Belts",
+        "blurb": "9 reports (41%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Venue. The contact stated that the horn became inoperable without warning. The contact received notification of NHTSA Campaign Number: 22V458000 (Seat Belts) however, the part to do the recall repair was not yet available. The local dealer was cont",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On the Third day after leasing the vehicle I noticed it was pulling to the right and left. Dealership mechanic said the steering was not straight and claimed that they fixed it but they didn’t. My car still pulls to the right when I take my hands off the steering wheel. Another H",
+        "pct": 18,
+        "title": "Steering",
+        "blurb": "4 reports (18%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Venue. The contact stated while exiting a parking spot, she heard an abnormal noise and had to depress the brake pedal forcefully to stop the vehicle. The contact stated no warning light was illuminated. The contact was able to continue driving to ",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2022 Hyundai Venue has a serious water intrusion issue that has gone unresolved for over a year. Every time it rains water pours into the cabin, especially on the passenger side leaving the floor soaked. I have to vacuum out water daily and use towels to prevent further damage",
+        "pct": 5,
+        "title": "Air Bags",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

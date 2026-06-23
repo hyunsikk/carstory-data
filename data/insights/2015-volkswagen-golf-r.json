@@ -1,0 +1,128 @@
+{
+  "slug": "2015-volkswagen-golf-r",
+  "make": "Volkswagen",
+  "model": "Golf R",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/VOLKSWAGEN/GOLF%20R#complaints",
+  "generatedAt": "2026-06-23T16:45:59.611Z",
+  "total": 123,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I'M IN TRAFFIC STOP AND GO BETWEEN 11MPH TO 18 MPH AT LOW RPM (1,100 TO 1,800 RPM) THE VEHICLE FEELS LIKE SHAKING IN THE ENGINE OR TRANSMISSION LIKE I'M DRIVING A MANUAL CAR BUT MY CAR IS AUTOMATIC. NOW WHEN GOING UP A INCLINE AT 30 TO 33 MPH VEHICLE DOES THE SAME PROBLEM.  ",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS IN HAYWARD ON THE 880 FREEWAY (FLAT, DRY ROAD) IN RUSH HOUR TRAFFIC, IN THE HOV LANE GOING ABOUT 40 MPH, AND MY VW E-GOLF  JUST SHUT DOWN AND SHOWED THE ERROR \"ELECTRICAL SYSTEM FAILURE: STOP!\". I HAD ENOUGH MOMENTUM TO COAST 5 FEET OVER TO THE LEFT SIDE (CENTER DIVIDER) I ",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 18,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "AIRBAG SYSTEM IS NOT RECOGNIZING OCCUPANT IN FRONT PASSENGER SEAT.  AIRBAG IS OFF WITH SEAT OCCUPIED.  CALLED VW CUSTOMER SERVICE TO ASK ABOUT RECALL 69L6 WHICH DESCRIBES THIS PROBLEM AND WAS TOLD OUR VIN WAS NOT IN THE RECALL ALTHOUGH YOUR WEBSITE GIVES OUR MANUFACTURE DATE OF 1",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT LESS THAN 20,000 MILES THE GLOW PLUG LIGHT STARTED COMING ON WHILE DRIVING AT HIGHWAY SPEEDS AND THEN THE VEHICLE LOSES POWER, DROPPING DOWN TO ABOUT 30MPH.  SHUTTING ENGINE OFF CORRECTS BUT WILL REOCCUR NEXT TIME VEHICLE IS STARTED AFTER BEING PARKED FOR THE DAY.  THEN THE CH",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I'M IN TRAFFIC STOP AND GO BETWEEN 11MPH TO 18 MPH AT LOW RPM (1,100 TO 1,800 RPM) THE VEHICLE FEELS LIKE SHAKING IN THE ENGINE OR TRANSMISSION LIKE I'M DRIVING A MANUAL CAR BUT MY CAR IS AUTOMATIC. NOW WHEN GOING UP A INCLINE AT 30 TO 33 MPH VEHICLE DOES THE SAME PROBLEM.  ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Volkswagen Golf R owners report most",
+    "summary": "Across 123 owner complaints to NHTSA, the most reported area is Engine (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I'M IN TRAFFIC STOP AND GO BETWEEN 11MPH TO 18 MPH AT LOW RPM (1,100 TO 1,800 RPM) THE VEHICLE FEELS LIKE SHAKING IN THE ENGINE OR TRANSMISSION LIKE I'M DRIVING A MANUAL CAR BUT MY CAR IS AUTOMATIC. NOW WHEN GOING UP A INCLINE AT 30 TO 33 MPH VEHICLE DOES THE SAME PROBLEM.  ",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "25 reports (20%) · 2 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS IN HAYWARD ON THE 880 FREEWAY (FLAT, DRY ROAD) IN RUSH HOUR TRAFFIC, IN THE HOV LANE GOING ABOUT 40 MPH, AND MY VW E-GOLF  JUST SHUT DOWN AND SHOWED THE ERROR \"ELECTRICAL SYSTEM FAILURE: STOP!\". I HAD ENOUGH MOMENTUM TO COAST 5 FEET OVER TO THE LEFT SIDE (CENTER DIVIDER) I ",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "18 reports (15%) · 3 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 18,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "AIRBAG SYSTEM IS NOT RECOGNIZING OCCUPANT IN FRONT PASSENGER SEAT.  AIRBAG IS OFF WITH SEAT OCCUPIED.  CALLED VW CUSTOMER SERVICE TO ASK ABOUT RECALL 69L6 WHICH DESCRIBES THIS PROBLEM AND WAS TOLD OUR VIN WAS NOT IN THE RECALL ALTHOUGH YOUR WEBSITE GIVES OUR MANUFACTURE DATE OF 1",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "18 reports (15%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT LESS THAN 20,000 MILES THE GLOW PLUG LIGHT STARTED COMING ON WHILE DRIVING AT HIGHWAY SPEEDS AND THEN THE VEHICLE LOSES POWER, DROPPING DOWN TO ABOUT 30MPH.  SHUTTING ENGINE OFF CORRECTS BUT WILL REOCCUR NEXT TIME VEHICLE IS STARTED AFTER BEING PARKED FOR THE DAY.  THEN THE CH",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "15 reports (12%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I'M IN TRAFFIC STOP AND GO BETWEEN 11MPH TO 18 MPH AT LOW RPM (1,100 TO 1,800 RPM) THE VEHICLE FEELS LIKE SHAKING IN THE ENGINE OR TRANSMISSION LIKE I'M DRIVING A MANUAL CAR BUT MY CAR IS AUTOMATIC. NOW WHEN GOING UP A INCLINE AT 30 TO 33 MPH VEHICLE DOES THE SAME PROBLEM.  ",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "14 reports (11%)"
+      }
+    ]
+  }
+}

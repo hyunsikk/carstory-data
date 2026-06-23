@@ -1,0 +1,128 @@
+{
+  "slug": "2019-kia-optima",
+  "make": "Kia",
+  "model": "Optima",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/KIA/OPTIMA#complaints",
+  "generatedAt": "2026-06-23T16:36:36.358Z",
+  "total": 198,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 84,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT MY 2019 OPTIMA BRAND NEW BACK IN NOVEMBER. IT IS NOW JUNE AND I HAVE HAD IT BACK TO THE DEALERSHIP 3 TIMES FOR RANDOMLY NOT STARTING ON ME.  I GET THE SAME ANSWER EVERY TIME.  THEY DON'T KNOW WHAT IT IS, NOTHING COMES UP ON THE COMPUTER WHEN THEY PLUG IT IN.  THEY SAY, \"",
+      "pct": 42
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 34,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL*  THE CONTACT OWNED A 2019 KIA OPTIMA. THE CONTACT STATED THAT WHILE UPON MAKING A LEFT TURN AT 20 MPH, THE AUTOMATIC EMERGENCY BRAKING SYSTEM INDEPENDENTLY ACTIVATED AND ABRUPTLY STOPPED WITHOUT WARNING. DUE TO THE FAILURE, THE VEHICLE BEHIND HIM HIT HIM FROM BEHIND WHICH PUS",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT MY 2019 OPTIMA BRAND NEW BACK IN NOVEMBER. IT IS NOW JUNE AND I HAVE HAD IT BACK TO THE DEALERSHIP 3 TIMES FOR RANDOMLY NOT STARTING ON ME.  I GET THE SAME ANSWER EVERY TIME.  THEY DON'T KNOW WHAT IT IS, NOTHING COMES UP ON THE COMPUTER WHEN THEY PLUG IT IN.  THEY SAY, \"",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 19,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN MY PHONE IS PLUGGED INTO THE CHARGER, MY SCREEN WILL GO BLACK ALL OF A SUDDEN, AND I HAVE TO TURN THE CAR OFF AND UNPLUG MY PHONE AND TURN THE CAR BACK ON FOR THE SCREEN TO COME BACK ON. ALSO, THERE HAVE BEEN SEVERAL OCCASIONS WHERE MY BRAKES LOCK UP ON ME, AND I ALMOST HIT ",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IF I SLOW DOWN THEN SPEED UP IT TAKES OFF SLOW. IF I GO UP A HILL IT PUTTS AND WHEN I DRIVE IT JUST FEELS LIKE ITS PUTTERING THE WHOLE TIME. TOOK IT TO DEALERSHIP OF COURSE THEY DIDN'T FIND ANYTHING BUT THIS IS A NEW CAR I KNOW SOMETHING IS WRONG. I JUST GOT THE CAR IN MARCH DROV",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Kia Optima owners report most",
+    "summary": "Across 198 owner complaints to NHTSA, the most reported area is Engine (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 84,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT MY 2019 OPTIMA BRAND NEW BACK IN NOVEMBER. IT IS NOW JUNE AND I HAVE HAD IT BACK TO THE DEALERSHIP 3 TIMES FOR RANDOMLY NOT STARTING ON ME.  I GET THE SAME ANSWER EVERY TIME.  THEY DON'T KNOW WHAT IT IS, NOTHING COMES UP ON THE COMPUTER WHEN THEY PLUG IT IN.  THEY SAY, \"",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "84 reports (42%) · 5 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 34,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL*  THE CONTACT OWNED A 2019 KIA OPTIMA. THE CONTACT STATED THAT WHILE UPON MAKING A LEFT TURN AT 20 MPH, THE AUTOMATIC EMERGENCY BRAKING SYSTEM INDEPENDENTLY ACTIVATED AND ABRUPTLY STOPPED WITHOUT WARNING. DUE TO THE FAILURE, THE VEHICLE BEHIND HIM HIT HIM FROM BEHIND WHICH PUS",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "34 reports (17%) · 8 crash · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT MY 2019 OPTIMA BRAND NEW BACK IN NOVEMBER. IT IS NOW JUNE AND I HAVE HAD IT BACK TO THE DEALERSHIP 3 TIMES FOR RANDOMLY NOT STARTING ON ME.  I GET THE SAME ANSWER EVERY TIME.  THEY DON'T KNOW WHAT IT IS, NOTHING COMES UP ON THE COMPUTER WHEN THEY PLUG IT IN.  THEY SAY, \"",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "22 reports (11%) · 3 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 19,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN MY PHONE IS PLUGGED INTO THE CHARGER, MY SCREEN WILL GO BLACK ALL OF A SUDDEN, AND I HAVE TO TURN THE CAR OFF AND UNPLUG MY PHONE AND TURN THE CAR BACK ON FOR THE SCREEN TO COME BACK ON. ALSO, THERE HAVE BEEN SEVERAL OCCASIONS WHERE MY BRAKES LOCK UP ON ME, AND I ALMOST HIT ",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "19 reports (10%) · 5 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IF I SLOW DOWN THEN SPEED UP IT TAKES OFF SLOW. IF I GO UP A HILL IT PUTTS AND WHEN I DRIVE IT JUST FEELS LIKE ITS PUTTERING THE WHOLE TIME. TOOK IT TO DEALERSHIP OF COURSE THEY DIDN'T FIND ANYTHING BUT THIS IS A NEW CAR I KNOW SOMETHING IS WRONG. I JUST GOT THE CAR IN MARCH DROV",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "16 reports (8%)"
+      }
+    ]
+  }
+}

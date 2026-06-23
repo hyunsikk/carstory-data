@@ -1,0 +1,128 @@
+{
+  "slug": "2017-kia-sportage",
+  "make": "Kia",
+  "model": "Sportage",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KIA/SPORTAGE#complaints",
+  "generatedAt": "2026-06-23T16:37:03.096Z",
+  "total": 391,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 213,
+      "crash": 3,
+      "fire": 17,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "2017 KIA SPORTAGE. DRIVER REMOTE STARTS VEHICLE, UNLOCKS VEHICLE AND IMMEDIATELY SHIFTS FROM PARK TO ANY OTHER GEAR, WITHOUT PUSHING START/STOP BUTTON, AND WITHIN 10 SECONDS ENGINE SHUTS OFF WHILE IN DRIVE, NEUTRAL OR REVERSE.  ANTI-THEFT PROGRAMMED TO SHUT OFF ENGINE 10 SECONDS ",
+      "pct": 54
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 62,
+      "crash": 0,
+      "fire": 7,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 KIA SPORTAGE. AFTER STARTING THE VEHICLE WITH THE REMOTE STARTER AND SHIFTING FROM THE PARK POSITION TO REVERSE, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS ABLE TO RESTART. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS NOT ",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 40,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "CAR WAS PARKED OVERNIGHT KEYS WERE TAKEN AND CAR LOCKED AT 8PM AT 530 AM HEARD CRASH CAR ROLLED INTO TREE AND DOORS WERE STILL LOCKED CAR CAME OUT OF PARK AND ROLLED AFTER 9.5 HOURS OF SITTING CAR HAD TO BE IN PARK FOR KEY FOB TO LOCK DOORS AFTER IT ROLLED THE DOORS WERE LOCKED B",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON A 4-LANE STREET IN MY COMMUNITY I STOPPED FOR A RED LIGHT. I STEPPED ON BRAKES AND THE PEDDLE WENT DOWN TO THE FLOOR. MY CAR GLIDED TO A STOP IN THE MIDDLE OF INTERSECTION. MY CAR'S MILEAGE WAS 810 MILES. I CALLED KIA AUTO REPAIR. THEY TOOK ME IN THE FOLLOWING MO",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 24,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "ON 8/30/17 I WAS DRIVING IN THE MIDDLE LANE OF THE HIGHWAY WHEN MY SUNROOOF EXPLODED.  THERE WERE NO OVERPASSES AND VERY FEW CARS AROUND ME SO NOTHING HIT THE SUNROOF TO CAUSE THE EXPLOSION.  I WAS ABLE TO SAFELY PULL OVER TO THE SHOULDER BECAUSE OF THE LIGHT TRAFFIC AT THE TIME.",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Kia Sportage owners report most",
+    "summary": "Across 391 owner complaints to NHTSA, the most reported area is Engine (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 213,
+        "crash": 3,
+        "fire": 17,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "2017 KIA SPORTAGE. DRIVER REMOTE STARTS VEHICLE, UNLOCKS VEHICLE AND IMMEDIATELY SHIFTS FROM PARK TO ANY OTHER GEAR, WITHOUT PUSHING START/STOP BUTTON, AND WITHIN 10 SECONDS ENGINE SHUTS OFF WHILE IN DRIVE, NEUTRAL OR REVERSE.  ANTI-THEFT PROGRAMMED TO SHUT OFF ENGINE 10 SECONDS ",
+        "pct": 54,
+        "title": "Engine",
+        "blurb": "213 reports (54%) · 17 fire · 3 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 62,
+        "crash": 0,
+        "fire": 7,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 KIA SPORTAGE. AFTER STARTING THE VEHICLE WITH THE REMOTE STARTER AND SHIFTING FROM THE PARK POSITION TO REVERSE, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS ABLE TO RESTART. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS NOT ",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "62 reports (16%) · 7 fire · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 40,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "CAR WAS PARKED OVERNIGHT KEYS WERE TAKEN AND CAR LOCKED AT 8PM AT 530 AM HEARD CRASH CAR ROLLED INTO TREE AND DOORS WERE STILL LOCKED CAR CAME OUT OF PARK AND ROLLED AFTER 9.5 HOURS OF SITTING CAR HAD TO BE IN PARK FOR KEY FOB TO LOCK DOORS AFTER IT ROLLED THE DOORS WERE LOCKED B",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "40 reports (10%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON A 4-LANE STREET IN MY COMMUNITY I STOPPED FOR A RED LIGHT. I STEPPED ON BRAKES AND THE PEDDLE WENT DOWN TO THE FLOOR. MY CAR GLIDED TO A STOP IN THE MIDDLE OF INTERSECTION. MY CAR'S MILEAGE WAS 810 MILES. I CALLED KIA AUTO REPAIR. THEY TOOK ME IN THE FOLLOWING MO",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "25 reports (6%) · 3 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 24,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "ON 8/30/17 I WAS DRIVING IN THE MIDDLE LANE OF THE HIGHWAY WHEN MY SUNROOOF EXPLODED.  THERE WERE NO OVERPASSES AND VERY FEW CARS AROUND ME SO NOTHING HIT THE SUNROOF TO CAUSE THE EXPLOSION.  I WAS ABLE TO SAFELY PULL OVER TO THE SHOULDER BECAUSE OF THE LIGHT TRAFFIC AT THE TIME.",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "24 reports (6%) · 2 fire · 1 crash · 6 injured"
+      }
+    ]
+  }
+}

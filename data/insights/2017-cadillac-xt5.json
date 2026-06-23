@@ -1,0 +1,128 @@
+{
+  "slug": "2017-cadillac-xt5",
+  "make": "Cadillac",
+  "model": "XT5",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CADILLAC/XT5#complaints",
+  "generatedAt": "2026-06-23T16:27:53.781Z",
+  "total": 118,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "RANDOMLY, AFTER STARTING THE VEHICLE AND MOVING THE SHIFT LEVER TO REVERSE, THE EMERGENCY BRAKE INDEPENDENTLY SETS SUCH THAT PARK IS DISPLAYED ON THE DASH AS WELL AS REVERSE. IN OTHER WORDS, THE VEHICLE IS IN BOTH REVERSE AND PARK SIMULTANEOUSLY AS DISPLAYED ON THE DASH DISPLAY. ",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE ISSUES WITH GARAGE REMOTE CONTROL BUTTONS NOT FUNCTIONING.  ISSUE WITH DRIVER SEAT NOT VIBRATING WHEN VEHICLE VENTURES OUT OF LANE WITH \"LANE ASSIST\" FEATURE ON.  VEHICLE SHUT DOWN WHILE DRIVING ON HIGHWAY SENDING MULTIPLE WARNINGS ABOUT ENGINE MALFUNCTION, PARKING BRAKE",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE ISSUES WITH GARAGE REMOTE CONTROL BUTTONS NOT FUNCTIONING.  ISSUE WITH DRIVER SEAT NOT VIBRATING WHEN VEHICLE VENTURES OUT OF LANE WITH \"LANE ASSIST\" FEATURE ON.  VEHICLE SHUT DOWN WHILE DRIVING ON HIGHWAY SENDING MULTIPLE WARNINGS ABOUT ENGINE MALFUNCTION, PARKING BRAKE",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS CAR WAS SOLD TO ME WITH A DRIVER AWARENESS PACKAGE THAT INCLUDES LOW SPEED FRONT BRAKING AND I AM UNABLE TO GET IT TO WORK, A SALESPERSON DROVE THE CAR AND COULD NOT GET IT TO WORK AND A CADILLAC MECHANIC AT LINUS CADILLAC IN VERO BEACH, FL. DROVE THE CAR AND COULD NOT MAKE ",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MULTIPLE ISSUES WITH GARAGE REMOTE CONTROL BUTTONS NOT FUNCTIONING.  ISSUE WITH DRIVER SEAT NOT VIBRATING WHEN VEHICLE VENTURES OUT OF LANE WITH \"LANE ASSIST\" FEATURE ON.  VEHICLE SHUT DOWN WHILE DRIVING ON HIGHWAY SENDING MULTIPLE WARNINGS ABOUT ENGINE MALFUNCTION, PARKING BRAKE",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Cadillac Xt5 owners report most",
+    "summary": "Across 118 owner complaints to NHTSA, the most reported area is Power Train (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "RANDOMLY, AFTER STARTING THE VEHICLE AND MOVING THE SHIFT LEVER TO REVERSE, THE EMERGENCY BRAKE INDEPENDENTLY SETS SUCH THAT PARK IS DISPLAYED ON THE DASH AS WELL AS REVERSE. IN OTHER WORDS, THE VEHICLE IS IN BOTH REVERSE AND PARK SIMULTANEOUSLY AS DISPLAYED ON THE DASH DISPLAY. ",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "24 reports (20%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE ISSUES WITH GARAGE REMOTE CONTROL BUTTONS NOT FUNCTIONING.  ISSUE WITH DRIVER SEAT NOT VIBRATING WHEN VEHICLE VENTURES OUT OF LANE WITH \"LANE ASSIST\" FEATURE ON.  VEHICLE SHUT DOWN WHILE DRIVING ON HIGHWAY SENDING MULTIPLE WARNINGS ABOUT ENGINE MALFUNCTION, PARKING BRAKE",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "22 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE ISSUES WITH GARAGE REMOTE CONTROL BUTTONS NOT FUNCTIONING.  ISSUE WITH DRIVER SEAT NOT VIBRATING WHEN VEHICLE VENTURES OUT OF LANE WITH \"LANE ASSIST\" FEATURE ON.  VEHICLE SHUT DOWN WHILE DRIVING ON HIGHWAY SENDING MULTIPLE WARNINGS ABOUT ENGINE MALFUNCTION, PARKING BRAKE",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "20 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS CAR WAS SOLD TO ME WITH A DRIVER AWARENESS PACKAGE THAT INCLUDES LOW SPEED FRONT BRAKING AND I AM UNABLE TO GET IT TO WORK, A SALESPERSON DROVE THE CAR AND COULD NOT GET IT TO WORK AND A CADILLAC MECHANIC AT LINUS CADILLAC IN VERO BEACH, FL. DROVE THE CAR AND COULD NOT MAKE ",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "16 reports (14%) · 3 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MULTIPLE ISSUES WITH GARAGE REMOTE CONTROL BUTTONS NOT FUNCTIONING.  ISSUE WITH DRIVER SEAT NOT VIBRATING WHEN VEHICLE VENTURES OUT OF LANE WITH \"LANE ASSIST\" FEATURE ON.  VEHICLE SHUT DOWN WHILE DRIVING ON HIGHWAY SENDING MULTIPLE WARNINGS ABOUT ENGINE MALFUNCTION, PARKING BRAKE",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "14 reports (12%)"
+      }
+    ]
+  }
+}

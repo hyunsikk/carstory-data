@@ -1,0 +1,128 @@
+{
+  "slug": "2021-volkswagen-atlas-cross-sport",
+  "make": "Volkswagen",
+  "model": "Atlas Cross Sport",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VOLKSWAGEN/ATLAS%20CROSS%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:45:55.058Z",
+  "total": 155,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 52,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Front drivers door wiring harness has malfunctioned causing every error light on dash and info center to come on and causes Emergency brake to be applied even while driving the drivers side front and rear window both roll down 5 inches sometimes car will not restart tire monitori",
+      "pct": 34
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 36,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "My adaptive cruise control AND airbags FAILED when traffic ahead of me suddenly stopped. (There was NO airbag deployment.) I crashed into the person in front of me who then hit the person in front of them. The vehicle is available for inspection. I told the dealership at my 10k s",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 35,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Volkswagen Atlas Sport. The contact stated that upon depression of the brake pedal, an abnormal grinding noise would emit from the brakes. She stated that the failure was intermittent and that no warning lights had appeared on the instrument panel. The con",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 VOLKSWAGEN ATLAS CROSS SPORT. THE CONTACT STATED WHILE DRIVING AT AN UNDISCLOSED SPEED, THE CHECK ENGINE WARNING LIGHT ILLUMINATED. THE CONTACT HAD TAKEN THE VEHICLE TO STOHLMAN VOLKSWAGEN (8433 LEESBURG PIKE, TYSONS, VA 22182) WHERE THE MECHANIC REPLA",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 27,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "My brand new 2021 cross sport (12,600 miles) suddenly started displaying multiple (5) error messages while I was driving. One of the errors was “driver door contact switch”. The check engine light came on and WHILE driving my car spontaneously began activating emergency braking m",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Volkswagen Atlas Cross Sport owners report most",
+    "summary": "Across 155 owner complaints to NHTSA, the most reported area is Electrical System (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 52,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Front drivers door wiring harness has malfunctioned causing every error light on dash and info center to come on and causes Emergency brake to be applied even while driving the drivers side front and rear window both roll down 5 inches sometimes car will not restart tire monitori",
+        "pct": 34,
+        "title": "Electrical System",
+        "blurb": "52 reports (34%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 36,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "My adaptive cruise control AND airbags FAILED when traffic ahead of me suddenly stopped. (There was NO airbag deployment.) I crashed into the person in front of me who then hit the person in front of them. The vehicle is available for inspection. I told the dealership at my 10k s",
+        "pct": 23,
+        "title": "Air Bags",
+        "blurb": "36 reports (23%) · 7 crash · 6 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 35,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Volkswagen Atlas Sport. The contact stated that upon depression of the brake pedal, an abnormal grinding noise would emit from the brakes. She stated that the failure was intermittent and that no warning lights had appeared on the instrument panel. The con",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "35 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 VOLKSWAGEN ATLAS CROSS SPORT. THE CONTACT STATED WHILE DRIVING AT AN UNDISCLOSED SPEED, THE CHECK ENGINE WARNING LIGHT ILLUMINATED. THE CONTACT HAD TAKEN THE VEHICLE TO STOHLMAN VOLKSWAGEN (8433 LEESBURG PIKE, TYSONS, VA 22182) WHERE THE MECHANIC REPLA",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "31 reports (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 27,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "My brand new 2021 cross sport (12,600 miles) suddenly started displaying multiple (5) error messages while I was driving. One of the errors was “driver door contact switch”. The check engine light came on and WHILE driving my car spontaneously began activating emergency braking m",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "27 reports (17%) · 1 fire · 3 crash · 3 injured"
+      }
+    ]
+  }
+}

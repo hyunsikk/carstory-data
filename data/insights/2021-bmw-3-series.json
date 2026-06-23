@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-3-series",
+  "make": "BMW",
+  "model": "3 Series",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/3%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:25.796Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine Wiring is made of Soy products with attracts Rodents to feed and destroy the wiring. When  this occurs it puts the driver ad passengers in danger because certain functions such as brake light, Headlights and windshield wipers may not work properly. This is becasue when the",
+      "pct": 48
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "In Buford GA at the corner of Elm Tree Terrace and Buford Dam road, I was waiting for the light to turn on a decline. It is important to note that the car was driving in all-electric mode on a full charge. Once the light turned green I stepped on the accelerator to go and the car",
+      "pct": 32
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "In Buford GA at the corner of Elm Tree Terrace and Buford Dam road, I was waiting for the light to turn on a decline. It is important to note that the car was driving in all-electric mode on a full charge. Once the light turned green I stepped on the accelerator to go and the car",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Message on Console - \" Passenger Restraint system malfunction \". Took vehicle in for Repair; BMW Dealership \"thinks\" it may be a wiring harness electrical short. They evidently need to discuss problem with BMW Corporate to figure out to properly diagnose problem and how to repair",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When driving the car when dark enough to activate auto headlights and raining enough to activate auto wipers, after 20 minutes the following message comes on the screen EVERYTIME: Drive Assistance temporarily limited  Lane departure also turns on and off while driving in these co",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw 3 Series owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Electrical System (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine Wiring is made of Soy products with attracts Rodents to feed and destroy the wiring. When  this occurs it puts the driver ad passengers in danger because certain functions such as brake light, Headlights and windshield wipers may not work properly. This is becasue when the",
+        "pct": 48,
+        "title": "Electrical System",
+        "blurb": "15 reports (48%) · 3 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "In Buford GA at the corner of Elm Tree Terrace and Buford Dam road, I was waiting for the light to turn on a decline. It is important to note that the car was driving in all-electric mode on a full charge. Once the light turned green I stepped on the accelerator to go and the car",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "10 reports (32%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "In Buford GA at the corner of Elm Tree Terrace and Buford Dam road, I was waiting for the light to turn on a decline. It is important to note that the car was driving in all-electric mode on a full charge. Once the light turned green I stepped on the accelerator to go and the car",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "3 reports (10%) · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Message on Console - \" Passenger Restraint system malfunction \". Took vehicle in for Repair; BMW Dealership \"thinks\" it may be a wiring harness electrical short. They evidently need to discuss problem with BMW Corporate to figure out to properly diagnose problem and how to repair",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "3 reports (10%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When driving the car when dark enough to activate auto headlights and raining enough to activate auto wipers, after 20 minutes the following message comes on the screen EVERYTIME: Drive Assistance temporarily limited  Lane departure also turns on and off while driving in these co",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (10%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

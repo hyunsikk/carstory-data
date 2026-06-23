@@ -1,0 +1,128 @@
+{
+  "slug": "2015-honda-crosstour",
+  "make": "Honda",
+  "model": "Crosstour",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/HONDA/CROSSTOUR#complaints",
+  "generatedAt": "2026-06-23T16:45:09.219Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 HONDA CROSSTOUR. WHILE DRIVING APPROXIMATELY 15 MPH, THE VEHICLE STALLED WITHOUT WARNING. ADDITIONALLY, THE CONTACT HEARD AN ABNORMAL WHINING SOUND UNDER THE HOOD WHILE ATTEMPTING TO START THE VEHICLE. ASSUMING THAT THE BATTERY WAS PROBABLY DEFECTIVE, ",
+      "pct": 54
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "APRIL 24TH I NOTICED THE PAINT BUBBLING UP ON THE ROOF OF THE CAR. CONTACTED THE DEALERSHIP ABOUT THE PROBLEMS AND THEY AGREED TO PAINT THE AFFECTED AREA UNDER A \" IN GOOD FAITH \" WHERE THEY PAID 70% AND WE PAID 30%. A MONTH OR SO AFTER THE CAR WAS RETURNED I FOUND A WHOLE SHEET ",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 HONDA CROSSTOUR. WHILE DRIVING 20 MPH AND CLOSING THE SUN ROOF, THE INSTRUMENT PANEL LIGHTING AND HEADLIGHTS BEGAN TO DIM. WHILE PULLING UP AT HOME, THE DRIVER NOTICED THAT THE VEHICLE WAS DECELERATING, AND THE VEHICLE STALLED AND FAILED TO RESTART. TH",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 HONDA CROSSTOUR. WHILE ATTEMPTING TO START THE VEHICLE, IT FAILED TO START AND MADE A GRINDING NOISE. THE CONTACT STATED THAT THE FAILURE OCCURRED DAILY, BUT INTERMITTENTLY WITHOUT WARNING. THE VEHICLE WAS TAKEN TO COGGIN HONDA JACKSONVILLE (11003 ATLA",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was coming to a stop at a curb and was braking to reduce speed and stop.  With my foot in the brake the car began accelerating and lunged forward. I quickly pulled my foot off the brake and pressed the brake again and this time it stopped. This is the second time this has happe",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Honda Crosstour owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Electrical System (54% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 HONDA CROSSTOUR. WHILE DRIVING APPROXIMATELY 15 MPH, THE VEHICLE STALLED WITHOUT WARNING. ADDITIONALLY, THE CONTACT HEARD AN ABNORMAL WHINING SOUND UNDER THE HOOD WHILE ATTEMPTING TO START THE VEHICLE. ASSUMING THAT THE BATTERY WAS PROBABLY DEFECTIVE, ",
+        "pct": 54,
+        "title": "Electrical System",
+        "blurb": "13 reports (54%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "APRIL 24TH I NOTICED THE PAINT BUBBLING UP ON THE ROOF OF THE CAR. CONTACTED THE DEALERSHIP ABOUT THE PROBLEMS AND THEY AGREED TO PAINT THE AFFECTED AREA UNDER A \" IN GOOD FAITH \" WHERE THEY PAID 70% AND WE PAID 30%. A MONTH OR SO AFTER THE CAR WAS RETURNED I FOUND A WHOLE SHEET ",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 HONDA CROSSTOUR. WHILE DRIVING 20 MPH AND CLOSING THE SUN ROOF, THE INSTRUMENT PANEL LIGHTING AND HEADLIGHTS BEGAN TO DIM. WHILE PULLING UP AT HOME, THE DRIVER NOTICED THAT THE VEHICLE WAS DECELERATING, AND THE VEHICLE STALLED AND FAILED TO RESTART. TH",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 HONDA CROSSTOUR. WHILE ATTEMPTING TO START THE VEHICLE, IT FAILED TO START AND MADE A GRINDING NOISE. THE CONTACT STATED THAT THE FAILURE OCCURRED DAILY, BUT INTERMITTENTLY WITHOUT WARNING. THE VEHICLE WAS TAKEN TO COGGIN HONDA JACKSONVILLE (11003 ATLA",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was coming to a stop at a curb and was braking to reduce speed and stop.  With my foot in the brake the car began accelerating and lunged forward. I quickly pulled my foot off the brake and pressed the brake again and this time it stopped. This is the second time this has happe",
+        "pct": 4,
+        "title": "Service Brakes",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2017-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/FORD/EDGE#complaints",
+  "generatedAt": "2026-06-23T16:29:56.618Z",
+  "total": 1281,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 641,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON AUGUST 16, 2017 I RENTED A 2017 FORD EDGE FROM ALAMO AT THE SAVANNAH, GA AIRPORT. ON AUGUST 18, 2017 WHILE EN ROUTE FROM SAVANNAH TO CHARLESTON, SC I WAS STOPPED BY A POLICE OFFICER ON HIGHWAY 17 NEAR YAMASSEE, SC. WHILE ON THE SHOULDER WITH THE CAR RUNNING BUT STATIONARY, SMO",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 257,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD EDGE. WHILE DRIVING VARIOUS SPEEDS, THE CONTACT OBSERVED AN ABNORMAL ODOR WITHIN THE CABIN WITHOUT WARNING. IN ADDITION, THE CONTACT AND THE PASSENGER (HIS WIFE) EXPERIENCED A CHEMICAL TASTE WITHIN THEIR MOUTHS, BURNING IN THEIR THROATS, AND HEADA",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 216,
+      "crash": 13,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD EDGE. WHILE THE CONTACT'S DAUGHTER WAS REVERSING OUT OF THE DRIVEWAY, THE BRAKE PEDAL WAS DEPRESSED, BUT FAILED TO OPERATE. ADDITIONALLY, THE STEERING SEIZED AND THE VEHICLE STARTED TO VIBRATE ABNORMALLY. WHILE THE VEHICLE WAS STILL IN MOTION, THE",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 141,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MFG RECALL #17S16   NHTSA RECALL # 17V427  FORD INC HAS BEEN UNABLE TO COMPLETE THE REPLACEMENT OF THE TORQUE CONVERTER ON OUR NEW 2017 FORD EDGE IN A TIMELY MANNER.  OUR NEW FORD EDGE WAS SHIPPED FROM THE FACTORY MID JUNE, BUT NOT DELIVERED TO THE SELLING DEALERSHIP UNTIL 8/11. ",
+      "pct": 11
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 98,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD EDGE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: AWAITING# (SERVICE BRAKES, HYDRAULIC) (MANUFACTURER CAMPAIGN NUMBER: 20S42) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE LOCAL DEALER FORD OF QUEENS LOCATED ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Ford Edge owners report most",
+    "summary": "Across 1,281 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 641,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON AUGUST 16, 2017 I RENTED A 2017 FORD EDGE FROM ALAMO AT THE SAVANNAH, GA AIRPORT. ON AUGUST 18, 2017 WHILE EN ROUTE FROM SAVANNAH TO CHARLESTON, SC I WAS STOPPED BY A POLICE OFFICER ON HIGHWAY 17 NEAR YAMASSEE, SC. WHILE ON THE SHOULDER WITH THE CAR RUNNING BUT STATIONARY, SMO",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "641 reports (50%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 257,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD EDGE. WHILE DRIVING VARIOUS SPEEDS, THE CONTACT OBSERVED AN ABNORMAL ODOR WITHIN THE CABIN WITHOUT WARNING. IN ADDITION, THE CONTACT AND THE PASSENGER (HIS WIFE) EXPERIENCED A CHEMICAL TASTE WITHIN THEIR MOUTHS, BURNING IN THEIR THROATS, AND HEADA",
+        "pct": 20,
+        "title": "Engine And Engine Cooling",
+        "blurb": "257 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 216,
+        "crash": 13,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD EDGE. WHILE THE CONTACT'S DAUGHTER WAS REVERSING OUT OF THE DRIVEWAY, THE BRAKE PEDAL WAS DEPRESSED, BUT FAILED TO OPERATE. ADDITIONALLY, THE STEERING SEIZED AND THE VEHICLE STARTED TO VIBRATE ABNORMALLY. WHILE THE VEHICLE WAS STILL IN MOTION, THE",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "216 reports (17%) · 13 crash · 9 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 141,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MFG RECALL #17S16   NHTSA RECALL # 17V427  FORD INC HAS BEEN UNABLE TO COMPLETE THE REPLACEMENT OF THE TORQUE CONVERTER ON OUR NEW 2017 FORD EDGE IN A TIMELY MANNER.  OUR NEW FORD EDGE WAS SHIPPED FROM THE FACTORY MID JUNE, BUT NOT DELIVERED TO THE SELLING DEALERSHIP UNTIL 8/11. ",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "141 reports (11%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 98,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD EDGE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: AWAITING# (SERVICE BRAKES, HYDRAULIC) (MANUFACTURER CAMPAIGN NUMBER: 20S42) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE LOCAL DEALER FORD OF QUEENS LOCATED ",
+        "pct": 8,
+        "title": "Hydraulic",
+        "blurb": "98 reports (8%) · 2 crash"
+      }
+    ]
+  }
+}

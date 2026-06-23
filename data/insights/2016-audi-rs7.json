@@ -1,0 +1,106 @@
+{
+  "slug": "2016-audi-rs7",
+  "make": "Audi",
+  "model": "RS7",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/RS7#complaints",
+  "generatedAt": "2026-06-23T16:43:36.873Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IT HASN'T HAPPENED YET, BUT MY CONCERN IS GROWING AS AUDI HAS FAILED TO ADDRESS THE ISSUE. PER AUDI TSB 2044640 AND BENTLEY TSB 20520851 VOLKSWAGON GROUP IS AWARE OF TURBOS FAILING ON THEIR 4.0T ENGINES. THE ISSUE HAS BEEN IDENTIFIED AS THE OIL SCREEN RUNNING TO THE TURBOCHARGER'",
+      "pct": 33
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front driver and passenger windows started delaminating. Rear side glass is fine.  Audi of Van Nuys took pictures.  Audi paid for the glass but charged me $1100 for labor.",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS I WOULD COME DRIVE ON THE CITY ROADS AND COME TO SLOW DOWN TO A STOP OR MAKE A SIGNAL  TURN THE AUTO STOP WOULD COME ON BEFORE MAKING A COMPLETE STOP AND SHUTS THE CAR OFF WHILE STILL IN MOTION. CAUSING THE WHEEL TO LOCK AND I WOULD HAVE TO STOP THE CAR PUT IT IN PARK AND PUSH",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2016 AUDI RS7. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V370000 (AIR BAGS) AND STATED THAT THE PART WAS NOT AVAILABLE WITHIN A REASONABLE TIME FRAME TO SCHEDULE THE RECALL REPAIR. THE DEALER (AUDI MEMPHIS, 1825 COVINGTON ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi Rs7 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IT HASN'T HAPPENED YET, BUT MY CONCERN IS GROWING AS AUDI HAS FAILED TO ADDRESS THE ISSUE. PER AUDI TSB 2044640 AND BENTLEY TSB 20520851 VOLKSWAGON GROUP IS AWARE OF TURBOS FAILING ON THEIR 4.0T ENGINES. THE ISSUE HAS BEEN IDENTIFIED AS THE OIL SCREEN RUNNING TO THE TURBOCHARGER'",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front driver and passenger windows started delaminating. Rear side glass is fine.  Audi of Van Nuys took pictures.  Audi paid for the glass but charged me $1100 for labor.",
+        "pct": 17,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS I WOULD COME DRIVE ON THE CITY ROADS AND COME TO SLOW DOWN TO A STOP OR MAKE A SIGNAL  TURN THE AUTO STOP WOULD COME ON BEFORE MAKING A COMPLETE STOP AND SHUTS THE CAR OFF WHILE STILL IN MOTION. CAUSING THE WHEEL TO LOCK AND I WOULD HAVE TO STOP THE CAR PUT IT IN PARK AND PUSH",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2016 AUDI RS7. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V370000 (AIR BAGS) AND STATED THAT THE PART WAS NOT AVAILABLE WITHIN A REASONABLE TIME FRAME TO SCHEDULE THE RECALL REPAIR. THE DEALER (AUDI MEMPHIS, 1825 COVINGTON ",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2016-bmw-4-series",
+  "make": "BMW",
+  "model": "4 Series",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/4%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:46.294Z",
+  "total": 49,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE DOOR LOCK ACTUATOR-DRIVER'S SIDE PERIODICALLY STICKS IN A LOCKED POSITION. WHEN I  ATTEMPT TO EXIT THE CAR,THE LOCKING MECHANISM DOES NOT RELEASE WHEN DOOR HANDLE IS PULLED.I HAVE TO PRESS UNLOCK BUTTON TO DEACTIVATE  THE LOCK AND HAVE HANDLE RETURN TO NORMAL FUNCTION.I BELIE",
+      "pct": 41
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW 428i. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the man",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN DIVING ON THE FREEWAY I  HAD AN DRIVE TERRAIN MALFUNCTION ERROR IN MY BMW 4281. MY CAR STARED TO SLOW DOWN EXTREMELY FAST AND I COULD NOT ACCELERATE TO GET OVER TO THE FAR RIGHT LANE SAFELY. EVERYTHING SEEMED TO BE IN SOME LOCK MODE AND I WOULD PRESS THE GAS AND WOULD ONLY G",
+      "pct": 16
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 BMW 428I. WHILE DRIVING 75 MPH, THE VEHICLE STALLED AND \"DRIVE TERRAIN MALFUNCTION/VEHICLE NOT ABLE TO START\" DISPLAYED. THE CONTACT WAS ABLE TO COAST THE VEHICLE OFF TO THE SIDE OF THE ROAD, AND RESTART IT AFTER NUMEROUS ATTEMPTS (30 MINUTE WAIT). THE",
+      "pct": 6
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Airbag sensors are defective. Vehicle states that restraint system is faulty.",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw 4 Series owners report most",
+    "summary": "Across 49 owner complaints to NHTSA, the most reported area is Electrical System (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE DOOR LOCK ACTUATOR-DRIVER'S SIDE PERIODICALLY STICKS IN A LOCKED POSITION. WHEN I  ATTEMPT TO EXIT THE CAR,THE LOCKING MECHANISM DOES NOT RELEASE WHEN DOOR HANDLE IS PULLED.I HAVE TO PRESS UNLOCK BUTTON TO DEACTIVATE  THE LOCK AND HAVE HANDLE RETURN TO NORMAL FUNCTION.I BELIE",
+        "pct": 41,
+        "title": "Electrical System",
+        "blurb": "20 reports (41%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW 428i. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the man",
+        "pct": 33,
+        "title": "Engine And Engine Cooling",
+        "blurb": "16 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN DIVING ON THE FREEWAY I  HAD AN DRIVE TERRAIN MALFUNCTION ERROR IN MY BMW 4281. MY CAR STARED TO SLOW DOWN EXTREMELY FAST AND I COULD NOT ACCELERATE TO GET OVER TO THE FAR RIGHT LANE SAFELY. EVERYTHING SEEMED TO BE IN SOME LOCK MODE AND I WOULD PRESS THE GAS AND WOULD ONLY G",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "8 reports (16%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 BMW 428I. WHILE DRIVING 75 MPH, THE VEHICLE STALLED AND \"DRIVE TERRAIN MALFUNCTION/VEHICLE NOT ABLE TO START\" DISPLAYED. THE CONTACT WAS ABLE TO COAST THE VEHICLE OFF TO THE SIDE OF THE ROAD, AND RESTART IT AFTER NUMEROUS ATTEMPTS (30 MINUTE WAIT). THE",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "3 reports (6%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Airbag sensors are defective. Vehicle states that restraint system is faulty.",
+        "pct": 4,
+        "title": "Air Bags",
+        "blurb": "2 reports (4%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-dodge-durango",
+  "make": "Dodge",
+  "model": "Durango",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/DODGE/DURANGO#complaints",
+  "generatedAt": "2026-06-23T16:29:28.282Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My left rear tail light has a water intrusion issue.  From calling the dealership they stated their likely solution would be to drill a weep hole in it (HA!).  Reading online this is a massive issue, a recall needs to be issued on these vehicles as it is a known defect with safet",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2023 Dodge Durango. The contact stated while driving 25-30 MPH with his children in the rear seats, the vehicle lost electrical power and stopped abruptly. There was no warning light illuminated. The vehicle failed to restart, and the doors were locked. The c",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "That slow speeds when you back up or pull forward and the wheels hit a little bit of resistance, everything goes off on the vehicle, wipers do not work, says the adaptive traction control needs service, it says emergency braking service goes out, turn signals do not work, we have",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2023 Dodge Durango. The contact stated while driving 25-30 MPH with his children in the rear seats, the vehicle lost electrical power and stopped abruptly. There was no warning light illuminated. The vehicle failed to restart, and the doors were locked. The c",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After purchasing a used 2023 Dodge Durango GT, issues arose almost immediately following delivery. I took the vehicle to a Chrysler/Dodge/Jeep/Ram (CJDR) dealership for inspection and service.  Diagnostic scans revealed multiple stored and active fault codes, including but not li",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Dodge Durango owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Exterior Lighting (32% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My left rear tail light has a water intrusion issue.  From calling the dealership they stated their likely solution would be to drill a weep hole in it (HA!).  Reading online this is a massive issue, a recall needs to be issued on these vehicles as it is a known defect with safet",
+        "pct": 32,
+        "title": "Exterior Lighting",
+        "blurb": "10 reports (32%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2023 Dodge Durango. The contact stated while driving 25-30 MPH with his children in the rear seats, the vehicle lost electrical power and stopped abruptly. There was no warning light illuminated. The vehicle failed to restart, and the doors were locked. The c",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "8 reports (26%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "That slow speeds when you back up or pull forward and the wheels hit a little bit of resistance, everything goes off on the vehicle, wipers do not work, says the adaptive traction control needs service, it says emergency braking service goes out, turn signals do not work, we have",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "7 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2023 Dodge Durango. The contact stated while driving 25-30 MPH with his children in the rear seats, the vehicle lost electrical power and stopped abruptly. There was no warning light illuminated. The vehicle failed to restart, and the doors were locked. The c",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "5 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After purchasing a used 2023 Dodge Durango GT, issues arose almost immediately following delivery. I took the vehicle to a Chrysler/Dodge/Jeep/Ram (CJDR) dealership for inspection and service.  Diagnostic scans revealed multiple stored and active fault codes, including but not li",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (10%)"
+      }
+    ]
+  }
+}

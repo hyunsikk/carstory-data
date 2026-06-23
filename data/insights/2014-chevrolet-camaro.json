@@ -1,0 +1,128 @@
+{
+  "slug": "2014-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-06-23T16:28:03.364Z",
+  "total": 187,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 99,
+      "crash": 3,
+      "fire": 3,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE MY LINK SYSTEM TEMPERATURE READINGS WERE READING 133 DEGREES WHEN THE TEMP WAS REALLY 64!I TOOK IT IN AND THE DEALER SHOWED ME A TSB SAYING THAT WHEN YOU DRIVE BEHIND A CAR THE SYSTEM READS TEMPS FROM THE EXHAUST IN THE CAR IN FRONT OF YOU!THEIR SOLUTION IS NOT TO DRIVE BEHIN",
+      "pct": 53
+    },
+    {
+      "component": "STEERING",
+      "count": 32,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TRYING TO PARK AT LOW SPEED THERE IS A RUBBING SOUND OF PLASTIC AND LIGHT METAL.THERE WAS FLUID ON TOP OF THE RESERVOIR! DEALER CLEANED IT TWICE AND IT COMES BACK.THEY CLAIM THE RUBBING AND SCRAPING METAL BEHIND THE AIR BAG IS FINE. THEY EVEN CALLED GM,GENERAL MOTORS SAYS ITS ALL",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TRYING TO PARK AT LOW SPEED THERE IS A RUBBING SOUND OF PLASTIC AND LIGHT METAL.THERE WAS FLUID ON TOP OF THE RESERVOIR! DEALER CLEANED IT TWICE AND IT COMES BACK.THEY CLAIM THE RUBBING AND SCRAPING METAL BEHIND THE AIR BAG IS FINE. THEY EVEN CALLED GM,GENERAL MOTORS SAYS ITS ALL",
+      "pct": 11
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AIR CONDITIONER STOPPED WORKING, RADIO AND SCREEN STOPPED WORKING, LIGHTS ON DASH STOPPED WORKING, WOULD NOT ALLOW ME TO ADD FUEL. THE CAR WAS ON EMPTY AND AS I TRIED TO PUMP GAS, THE GAS WOULD COME BACK OUT.  2ND INCIDENT ON AUGUST 22, 2014 - AIR CONDITIONER WOULD NOT WORK, LIGH",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 16,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TRYING TO PARK AT LOW SPEED THERE IS A RUBBING SOUND OF PLASTIC AND LIGHT METAL.THERE WAS FLUID ON TOP OF THE RESERVOIR! DEALER CLEANED IT TWICE AND IT COMES BACK.THEY CLAIM THE RUBBING AND SCRAPING METAL BEHIND THE AIR BAG IS FINE. THEY EVEN CALLED GM,GENERAL MOTORS SAYS ITS ALL",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Chevrolet Camaro owners report most",
+    "summary": "Across 187 owner complaints to NHTSA, the most reported area is Electrical System (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 99,
+        "crash": 3,
+        "fire": 3,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE MY LINK SYSTEM TEMPERATURE READINGS WERE READING 133 DEGREES WHEN THE TEMP WAS REALLY 64!I TOOK IT IN AND THE DEALER SHOWED ME A TSB SAYING THAT WHEN YOU DRIVE BEHIND A CAR THE SYSTEM READS TEMPS FROM THE EXHAUST IN THE CAR IN FRONT OF YOU!THEIR SOLUTION IS NOT TO DRIVE BEHIN",
+        "pct": 53,
+        "title": "Electrical System",
+        "blurb": "99 reports (53%) · 3 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 32,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TRYING TO PARK AT LOW SPEED THERE IS A RUBBING SOUND OF PLASTIC AND LIGHT METAL.THERE WAS FLUID ON TOP OF THE RESERVOIR! DEALER CLEANED IT TWICE AND IT COMES BACK.THEY CLAIM THE RUBBING AND SCRAPING METAL BEHIND THE AIR BAG IS FINE. THEY EVEN CALLED GM,GENERAL MOTORS SAYS ITS ALL",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "32 reports (17%) · 3 crash · 5 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TRYING TO PARK AT LOW SPEED THERE IS A RUBBING SOUND OF PLASTIC AND LIGHT METAL.THERE WAS FLUID ON TOP OF THE RESERVOIR! DEALER CLEANED IT TWICE AND IT COMES BACK.THEY CLAIM THE RUBBING AND SCRAPING METAL BEHIND THE AIR BAG IS FINE. THEY EVEN CALLED GM,GENERAL MOTORS SAYS ITS ALL",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "20 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AIR CONDITIONER STOPPED WORKING, RADIO AND SCREEN STOPPED WORKING, LIGHTS ON DASH STOPPED WORKING, WOULD NOT ALLOW ME TO ADD FUEL. THE CAR WAS ON EMPTY AND AS I TRIED TO PUMP GAS, THE GAS WOULD COME BACK OUT.  2ND INCIDENT ON AUGUST 22, 2014 - AIR CONDITIONER WOULD NOT WORK, LIGH",
+        "pct": 9,
+        "title": "Exterior Lighting",
+        "blurb": "17 reports (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 16,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TRYING TO PARK AT LOW SPEED THERE IS A RUBBING SOUND OF PLASTIC AND LIGHT METAL.THERE WAS FLUID ON TOP OF THE RESERVOIR! DEALER CLEANED IT TWICE AND IT COMES BACK.THEY CLAIM THE RUBBING AND SCRAPING METAL BEHIND THE AIR BAG IS FINE. THEY EVEN CALLED GM,GENERAL MOTORS SAYS ITS ALL",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "16 reports (9%) · 5 crash · 7 injured"
+      }
+    ]
+  }
+}

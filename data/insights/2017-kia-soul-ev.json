@@ -1,0 +1,128 @@
+{
+  "slug": "2017-kia-soul-ev",
+  "make": "Kia",
+  "model": "Soul EV",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KIA/SOUL%20EV#complaints",
+  "generatedAt": "2026-06-23T16:36:55.183Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Power failure going high speed decreasing from 45mph. Had disengaged cruise control and attempted to change lanes and prepare to turn at intersection after exiting off highway. Also happened a week prior in town in neighborhood. No cruise control was involved and going low speed ",
+      "pct": 65
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY ALL ELECTRIC HAS A B MODE TO SHIFT IN. SIMPLY PUT IT ENGAGES THE GENERATOR FULLY WHEN YOU LET OFF THE GAS PEDAL SO YOU CAN GENERATE ELECTRICITY. HOWEVER, WHEN YOU DO THIS THE CAR BRAKES QUITE QUICK, SO QUICK IN FACT THEY CALL THIS TYPE OF DRIVING ONE PEDAL DRIVING DUE TO THE F",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Kia Soul EV. The contact stated that while driving at an undisclosed speed, there was an abnormal battery voltage warning displayed. The vehicle went into LIMP Mode. The contact stated that the battery failed to charge. Several unknown warning lights were ",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 KIA SOUL EV. WHILE DRIVING 40 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS COASTED TO THE SIDE OF THE ROAD AND RESTARTED. THE CONTACT MENTIONED THAT THE FAILURE OCCURRED MULTIPLE TIMES. ALSO, THE ACCELERATOR PEDAL WAS DEPRESSED TO THE FLOO",
+      "pct": 12
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving down open road with no vehicles in front or back when suddenly the rear window made a huge bang.  It was raining at the time.  Once home I took the attached photo.  Don't remember turning the defrost on.",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Kia Soul Ev owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Electrical System (65% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Power failure going high speed decreasing from 45mph. Had disengaged cruise control and attempted to change lanes and prepare to turn at intersection after exiting off highway. Also happened a week prior in town in neighborhood. No cruise control was involved and going low speed ",
+        "pct": 65,
+        "title": "Electrical System",
+        "blurb": "11 reports (65%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY ALL ELECTRIC HAS A B MODE TO SHIFT IN. SIMPLY PUT IT ENGAGES THE GENERATOR FULLY WHEN YOU LET OFF THE GAS PEDAL SO YOU CAN GENERATE ELECTRICITY. HOWEVER, WHEN YOU DO THIS THE CAR BRAKES QUITE QUICK, SO QUICK IN FACT THEY CALL THIS TYPE OF DRIVING ONE PEDAL DRIVING DUE TO THE F",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Kia Soul EV. The contact stated that while driving at an undisclosed speed, there was an abnormal battery voltage warning displayed. The vehicle went into LIMP Mode. The contact stated that the battery failed to charge. Several unknown warning lights were ",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 KIA SOUL EV. WHILE DRIVING 40 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS COASTED TO THE SIDE OF THE ROAD AND RESTARTED. THE CONTACT MENTIONED THAT THE FAILURE OCCURRED MULTIPLE TIMES. ALSO, THE ACCELERATOR PEDAL WAS DEPRESSED TO THE FLOO",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving down open road with no vehicles in front or back when suddenly the rear window made a huge bang.  It was raining at the time.  Once home I took the attached photo.  Don't remember turning the defrost on.",
+        "pct": 6,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

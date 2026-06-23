@@ -1,0 +1,128 @@
+{
+  "slug": "2024-bmw-x7",
+  "make": "BMW",
+  "model": "X7",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/X7#complaints",
+  "generatedAt": "2026-06-23T16:27:09.555Z",
+  "total": 52,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 40,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle would not start after repeated attempts. Several warning alerts — brake malfunction, parking brake malfunction, chassis malfunction, reduced driver assistance warning, drive vehicle to nearest service center.  Vehicle started, parking brake would not initially release, th",
+      "pct": 77
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X7. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control – (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a re",
+      "pct": 40
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X7. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exc",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The air condition is inadequate for temperatures above 80°. Due to the inadequacy of the coldness and the speed at which the fan blows, all passengers in a fully loaded vehicle complain of excessive heat temperatures Safety is an issue if left in the vehicle for a long period of ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a 2024 BMW X7 xDrive40i VIN: xxxxx on May 1, 2023. I am pleased with the vehicle except for a serious flaw that in addition to compromising convenience creates a potential safety hazard. The problem resides in the Driving Assistant Professional Package which deviates ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw X7 owners report most",
+    "summary": "Across 52 owner complaints to NHTSA, the most reported area is Service Brakes (77% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 40,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle would not start after repeated attempts. Several warning alerts — brake malfunction, parking brake malfunction, chassis malfunction, reduced driver assistance warning, drive vehicle to nearest service center.  Vehicle started, parking brake would not initially release, th",
+        "pct": 77,
+        "title": "Service Brakes",
+        "blurb": "40 reports (77%) · 1 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X7. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control – (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a re",
+        "pct": 40,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "21 reports (40%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X7. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exc",
+        "pct": 25,
+        "title": "Hydraulic",
+        "blurb": "13 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The air condition is inadequate for temperatures above 80°. Due to the inadequacy of the coldness and the speed at which the fan blows, all passengers in a fully loaded vehicle complain of excessive heat temperatures Safety is an issue if left in the vehicle for a long period of ",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "7 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a 2024 BMW X7 xDrive40i VIN: xxxxx on May 1, 2023. I am pleased with the vehicle except for a serious flaw that in addition to compromising convenience creates a potential safety hazard. The problem resides in the Driving Assistant Professional Package which deviates ",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (13%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2022-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:35.979Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle is affected by NHTSA Recall 25V644 (starter motor – fire risk). The recall remedy has been listed as “Remedy Not Available” since September 25, 2025, and remains unavailable more than two months later.  BMW did not notify me about this safety recall. I only discovere",
+      "pct": 75
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 BMW 740LI. The contact stated that while driving at undisclosed speeds, the Lane Departure feature malfunctioned on several occasions, causing the vehicle to be pulled into another lane or into the opposite direction. There was no warning light illuminated",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle is affected by NHTSA Recall 25V644 (starter motor – fire risk). The recall remedy has been listed as “Remedy Not Available” since September 25, 2025, and remains unavailable more than two months later.  BMW did not notify me about this safety recall. I only discovere",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw 7 Series owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (75% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle is affected by NHTSA Recall 25V644 (starter motor – fire risk). The recall remedy has been listed as “Remedy Not Available” since September 25, 2025, and remains unavailable more than two months later.  BMW did not notify me about this safety recall. I only discovere",
+        "pct": 75,
+        "title": "Electrical System",
+        "blurb": "3 reports (75%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 BMW 740LI. The contact stated that while driving at undisclosed speeds, the Lane Departure feature malfunctioned on several occasions, causing the vehicle to be pulled into another lane or into the opposite direction. There was no warning light illuminated",
+        "pct": 25,
+        "title": "Lane Departure",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle is affected by NHTSA Recall 25V644 (starter motor – fire risk). The recall remedy has been listed as “Remedy Not Available” since September 25, 2025, and remains unavailable more than two months later.  BMW did not notify me about this safety recall. I only discovere",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

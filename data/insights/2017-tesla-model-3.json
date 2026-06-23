@@ -1,0 +1,128 @@
+{
+  "slug": "2017-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T16:40:58.929Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SHORTLY AFTER PURCHASING THE CAR IT RECEIVED A SOFTWARE DOWNLOAD CALLED EMERGENCY LANE DEPARTURE AVOIDANCE WHICH IS TESLA'S FANCY NAME FOR A LANE DEPARTURE WARNING SYSTEM. I HAVE TAKEN THE CAR INTO THEIR SERVICE CENTERS 3 TIMES TO HAVE IT REPAIRED BECAUSE IT ONLY WORKS <50% OF TH",
+      "pct": 32
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Safety Restraint System Fault in front passenger seat alert. Appears to be a common occurrence in Tesla Model 3 cars. Not covered under warranty to due to only 50k mile coverage for safety system, but the failure seems quite common. Required a replacement seat and replacement air",
+      "pct": 24
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car has been having this issue since it was purchased in 2018. An alert appears on the screen which says, \"Front Passenger Safety Restraint System Fault/Service is Required.\" I had the car serviced four times by Tesla under warranty. It has now appeared a fifth time and Tesla ",
+      "pct": 24
+    },
+    {
+      "component": "SEATS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Tesla vehicles have driver profiles to adjust seats automatically when a driver taps the brake pedal after entering the vehicle. A recent software update 2021.44.25.2 took away any on-screen indication of what profile the car is trying to set the seats to. There is no longer an o",
+      "pct": 24
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On August 9th, 2021 I was traveling on Interstate 40, in NC, at MM 103 at approximately 70 mph. when with no warning the Main Control Unit (MCU) went blank. Adaptive Cruise control, speedometer were not operable or could not be seen.  The MCU reset after a brief (5 second) pause.",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Tesla Model 3 owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SHORTLY AFTER PURCHASING THE CAR IT RECEIVED A SOFTWARE DOWNLOAD CALLED EMERGENCY LANE DEPARTURE AVOIDANCE WHICH IS TESLA'S FANCY NAME FOR A LANE DEPARTURE WARNING SYSTEM. I HAVE TAKEN THE CAR INTO THEIR SERVICE CENTERS 3 TIMES TO HAVE IT REPAIRED BECAUSE IT ONLY WORKS <50% OF TH",
+        "pct": 32,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (32%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Safety Restraint System Fault in front passenger seat alert. Appears to be a common occurrence in Tesla Model 3 cars. Not covered under warranty to due to only 50k mile coverage for safety system, but the failure seems quite common. Required a replacement seat and replacement air",
+        "pct": 24,
+        "title": "Air Bags",
+        "blurb": "6 reports (24%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car has been having this issue since it was purchased in 2018. An alert appears on the screen which says, \"Front Passenger Safety Restraint System Fault/Service is Required.\" I had the car serviced four times by Tesla under warranty. It has now appeared a fifth time and Tesla ",
+        "pct": 24,
+        "title": "Seat Belts",
+        "blurb": "6 reports (24%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Tesla vehicles have driver profiles to adjust seats automatically when a driver taps the brake pedal after entering the vehicle. A recent software update 2021.44.25.2 took away any on-screen indication of what profile the car is trying to set the seats to. There is no longer an o",
+        "pct": 24,
+        "title": "Seats",
+        "blurb": "6 reports (24%) · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On August 9th, 2021 I was traveling on Interstate 40, in NC, at MM 103 at approximately 70 mph. when with no warning the Main Control Unit (MCU) went blank. Adaptive Cruise control, speedometer were not operable or could not be seen.  The MCU reset after a brief (5 second) pause.",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (16%)"
+      }
+    ]
+  }
+}

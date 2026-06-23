@@ -1,0 +1,84 @@
+{
+  "slug": "2017-audi-a7",
+  "make": "Audi",
+  "model": "A7",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/A7#complaints",
+  "generatedAt": "2026-06-23T16:25:34.046Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE AUTOMATIC START/STOP FUEL-SAVING ENGINE FEATURE ENGAGES PREMATURELY, BEFORE THE VEHICLE HAS COME TO A COMPLETE STOP.  AS A RESULT, THE VEHICLE FEELS LIKE THE BRAKES HAVE BEEN ARTIFICIALLY AND AGGRESSIVELY APPLIED TO BRING THE CAR TO A COMPLETE STOP BEFORE THE START/STOP ENGIN",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE AUTOMATIC START/STOP FUEL-SAVING ENGINE FEATURE ENGAGES PREMATURELY, BEFORE THE VEHICLE HAS COME TO A COMPLETE STOP.  AS A RESULT, THE VEHICLE FEELS LIKE THE BRAKES HAVE BEEN ARTIFICIALLY AND AGGRESSIVELY APPLIED TO BRING THE CAR TO A COMPLETE STOP BEFORE THE START/STOP ENGIN",
+      "pct": 100
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE AUTOMATIC START/STOP FUEL-SAVING ENGINE FEATURE ENGAGES PREMATURELY, BEFORE THE VEHICLE HAS COME TO A COMPLETE STOP.  AS A RESULT, THE VEHICLE FEELS LIKE THE BRAKES HAVE BEEN ARTIFICIALLY AND AGGRESSIVELY APPLIED TO BRING THE CAR TO A COMPLETE STOP BEFORE THE START/STOP ENGIN",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi A7 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE AUTOMATIC START/STOP FUEL-SAVING ENGINE FEATURE ENGAGES PREMATURELY, BEFORE THE VEHICLE HAS COME TO A COMPLETE STOP.  AS A RESULT, THE VEHICLE FEELS LIKE THE BRAKES HAVE BEEN ARTIFICIALLY AND AGGRESSIVELY APPLIED TO BRING THE CAR TO A COMPLETE STOP BEFORE THE START/STOP ENGIN",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE AUTOMATIC START/STOP FUEL-SAVING ENGINE FEATURE ENGAGES PREMATURELY, BEFORE THE VEHICLE HAS COME TO A COMPLETE STOP.  AS A RESULT, THE VEHICLE FEELS LIKE THE BRAKES HAVE BEEN ARTIFICIALLY AND AGGRESSIVELY APPLIED TO BRING THE CAR TO A COMPLETE STOP BEFORE THE START/STOP ENGIN",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE AUTOMATIC START/STOP FUEL-SAVING ENGINE FEATURE ENGAGES PREMATURELY, BEFORE THE VEHICLE HAS COME TO A COMPLETE STOP.  AS A RESULT, THE VEHICLE FEELS LIKE THE BRAKES HAVE BEEN ARTIFICIALLY AND AGGRESSIVELY APPLIED TO BRING THE CAR TO A COMPLETE STOP BEFORE THE START/STOP ENGIN",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

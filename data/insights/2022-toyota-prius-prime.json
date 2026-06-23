@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-prius-prime",
+  "make": "Toyota",
+  "model": "Prius Prime",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/PRIUS%20PRIME#complaints",
+  "generatedAt": "2026-06-23T16:45:50.067Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Prius Prime. The contact stated while driving at approximately 25 MPH, the vehicle suddenly experienced unintended acceleration, and the vehicle accelerated to 50 MPH before the contact was able to stop the vehicle by depressing the brake pedal. The",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle went into drive from neutral after being placed on a moving track (car wash). The forward collision system activated and the automatic brake deployed when the vehicle sensed moving parts in the car wash. From there, the car automatically went out of neutral and into d",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Prius Prime. The contact stated while depressing the accelerator pedal, the vehicle failed to accelerate as intended. The contact stated multiple unknown warning lights had been temporarily illuminated. The vehicle was taken to a local dealer howeve",
+      "pct": 13
+    },
+    {
+      "component": "HYBRID PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Prius Prime. The contact stated while depressing the accelerator pedal, the vehicle failed to accelerate as intended. The contact stated multiple unknown warning lights had been temporarily illuminated. The vehicle was taken to a local dealer howeve",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I don't feel safe to drive my vehicle on the highway because the steering wheel ( the front end) very weak so when I drive the car it pull me to the left and to the right i went to the dealership where I purchased the car to check the vehicle, the technician told me that the stee",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Prius Prime owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Prius Prime. The contact stated while driving at approximately 25 MPH, the vehicle suddenly experienced unintended acceleration, and the vehicle accelerated to 50 MPH before the contact was able to stop the vehicle by depressing the brake pedal. The",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle went into drive from neutral after being placed on a moving track (car wash). The forward collision system activated and the automatic brake deployed when the vehicle sensed moving parts in the car wash. From there, the car automatically went out of neutral and into d",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (25%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Prius Prime. The contact stated while depressing the accelerator pedal, the vehicle failed to accelerate as intended. The contact stated multiple unknown warning lights had been temporarily illuminated. The vehicle was taken to a local dealer howeve",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "HYBRID PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Prius Prime. The contact stated while depressing the accelerator pedal, the vehicle failed to accelerate as intended. The contact stated multiple unknown warning lights had been temporarily illuminated. The vehicle was taken to a local dealer howeve",
+        "pct": 13,
+        "title": "Hybrid Propulsion System",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I don't feel safe to drive my vehicle on the highway because the steering wheel ( the front end) very weak so when I drive the car it pull me to the left and to the right i went to the dealership where I purchased the car to check the vehicle, the technician told me that the stee",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-kia-sportage",
+  "make": "Kia",
+  "model": "Sportage",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/KIA/SPORTAGE#complaints",
+  "generatedAt": "2026-06-23T16:36:59.002Z",
+  "total": 44,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2021 Kia Sportage. The contact stated that upon pulling into a parking space on the third floor of a parking garage at her workplace, she smelled a strong burning odor. The contact also noticed smoke coming from underneath the driver's side of the hood. There ",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Kia Sportage. The contact stated that while his wife was driving at an undisclosed speed, the vehicle inadvertently lost all electrical and motive power. As a result, the vehicle collided with a shopping cart, causing it to collide with another vehicle. Th",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Kia Sportage. The contact stated while driving at an undisclosed speed, the low oil light and engine warning lights illuminated. In addition, the contact stated that the vehicle had been consuming excessive engine oil. The vehicle was taken to an independe",
+      "pct": 9
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's wife owns a 2021 Kia Sportage. The contact stated that while he was driving in another vehicle following his wife's vehicle, the contact noticed that his wife's rear turn signals were not visible since the rear turn signal headlights were mounted on the bumper and w",
+      "pct": 5
+    },
+    {
+      "component": "TRAILER HITCHES",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Kia Sportage owners report most",
+    "summary": "Across 44 owner complaints to NHTSA, the most reported area is Engine (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2021 Kia Sportage. The contact stated that upon pulling into a parking space on the third floor of a parking garage at her workplace, she smelled a strong burning odor. The contact also noticed smoke coming from underneath the driver's side of the hood. There ",
+        "pct": 43,
+        "title": "Engine",
+        "blurb": "19 reports (43%) · 3 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Kia Sportage. The contact stated that while his wife was driving at an undisclosed speed, the vehicle inadvertently lost all electrical and motive power. As a result, the vehicle collided with a shopping cart, causing it to collide with another vehicle. Th",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "5 reports (11%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Kia Sportage. The contact stated while driving at an undisclosed speed, the low oil light and engine warning lights illuminated. In addition, the contact stated that the vehicle had been consuming excessive engine oil. The vehicle was taken to an independe",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (9%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's wife owns a 2021 Kia Sportage. The contact stated that while he was driving in another vehicle following his wife's vehicle, the contact noticed that his wife's rear turn signals were not visible since the rear turn signal headlights were mounted on the bumper and w",
+        "pct": 5,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (5%)"
+      },
+      {
+        "component": "TRAILER HITCHES",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the",
+        "pct": 5,
+        "title": "Trailer Hitches",
+        "blurb": "2 reports (5%) · 1 fire"
+      }
+    ]
+  }
+}

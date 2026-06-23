@@ -1,0 +1,128 @@
+{
+  "slug": "2020-bmw-x4",
+  "make": "BMW",
+  "model": "X4",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/X4#complaints",
+  "generatedAt": "2026-06-23T16:44:17.058Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My bmw x4M competition 2020 has pop off a sign that said chassis possible continue driving . It put me in sport suspension and it off traction mode . It is very dangerous for me to drive because in a snow or rainy day it very slippery and sometime I almost cash because slip indic",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own the car since brand new from dealership and never have incident. Couple weeks ago, started having issues with digital main instruments panel. Suddenly when I turn on the car in the morning the dash simply does not work. I got alert saying one the safety system is malfunctio",
+      "pct": 21
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JUNE 21, 2020, ON A CITY STREET. MY WHITE BMW WAS TRAVELING WESTWARD AND A BLACK BMW WAS TRAVELING SOUTHBOUND.  THE BLACK BMW  RAN ITS RED LIGHT TO MY GREEN LIGHT. WHEN WE COLLIDED IN THE INTERSECTION THE COMPLETE FRONT END OF MY WHITE BMW IMPACTED THE BLACK BMW DRIVER'S SIDE,",
+      "pct": 21
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW X4. The contact stated that while driving at an undisclosed speed, the \"Restrain System Fault\" message was displayed. No warning lights were illuminated. The vehicle was taken to the dealer, who diagnosed a failure with the driver's side seat belt. The",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing a safety complaint for my 2020 BMW X4, VIN [XXX]. The vehicle recently began making a noticeable noise while turning. I reported this to an authorized BMW dealer before/during service and requested review for possible front-end, steering, suspension, axle, swivel bear",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw X4 owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Suspension (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My bmw x4M competition 2020 has pop off a sign that said chassis possible continue driving . It put me in sport suspension and it off traction mode . It is very dangerous for me to drive because in a snow or rainy day it very slippery and sometime I almost cash because slip indic",
+        "pct": 21,
+        "title": "Suspension",
+        "blurb": "3 reports (21%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own the car since brand new from dealership and never have incident. Couple weeks ago, started having issues with digital main instruments panel. Suddenly when I turn on the car in the morning the dash simply does not work. I got alert saying one the safety system is malfunctio",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "3 reports (21%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JUNE 21, 2020, ON A CITY STREET. MY WHITE BMW WAS TRAVELING WESTWARD AND A BLACK BMW WAS TRAVELING SOUTHBOUND.  THE BLACK BMW  RAN ITS RED LIGHT TO MY GREEN LIGHT. WHEN WE COLLIDED IN THE INTERSECTION THE COMPLETE FRONT END OF MY WHITE BMW IMPACTED THE BLACK BMW DRIVER'S SIDE,",
+        "pct": 21,
+        "title": "Air Bags",
+        "blurb": "3 reports (21%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW X4. The contact stated that while driving at an undisclosed speed, the \"Restrain System Fault\" message was displayed. No warning lights were illuminated. The vehicle was taken to the dealer, who diagnosed a failure with the driver's side seat belt. The",
+        "pct": 14,
+        "title": "Seat Belts",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing a safety complaint for my 2020 BMW X4, VIN [XXX]. The vehicle recently began making a noticeable noise while turning. I reported this to an authorized BMW dealer before/during service and requested review for possible front-end, steering, suspension, axle, swivel bear",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2017-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:33.796Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Stopping without notice can cause an accident and any of the issues can cause safety issues. What I sent them.   I am writing to express my concerns regarding a series of issues with my 2017 BMW 740i and to request your assistance in resolving these matters. I have been working w",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Failing HV battery cells cause a misreading of the energy level available.  When turning left in oncoming traffic the Hybrid launches in EV mode because the battery management system shows plenty of power where there is none.  The car will lurch into oncoming traffic and hesitate",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Front Driveshaft between transfer case and front differential, is available upon request. The driveshaft broke at the universal joint, once it broke it damaged the upper and lower oil pan making a hole the size of a softball, as it kept rotating broke transmission casing also dra",
+      "pct": 17
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the Panoramic sunroof  just exploded out of nowhere at freeway speeds causing glass to go everywhere",
+      "pct": 8
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "November 2023 we purchased 4 new Continental PURECONTACT LS 245/45/R19 from Discount Tire in Evansville Indiana.  We’ve driven almost 17,000 miles on the tires.   Noticed 2 tires are splitting on the sidewall near the tread.  The one I’m reporting is dangerously split (resembles ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw 7 Series owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Engine (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Stopping without notice can cause an accident and any of the issues can cause safety issues. What I sent them.   I am writing to express my concerns regarding a series of issues with my 2017 BMW 740i and to request your assistance in resolving these matters. I have been working w",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "4 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Failing HV battery cells cause a misreading of the energy level available.  When turning left in oncoming traffic the Hybrid launches in EV mode because the battery management system shows plenty of power where there is none.  The car will lurch into oncoming traffic and hesitate",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "4 reports (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Front Driveshaft between transfer case and front differential, is available upon request. The driveshaft broke at the universal joint, once it broke it damaged the upper and lower oil pan making a hole the size of a softball, as it kept rotating broke transmission casing also dra",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the Panoramic sunroof  just exploded out of nowhere at freeway speeds causing glass to go everywhere",
+        "pct": 8,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "November 2023 we purchased 4 new Continental PURECONTACT LS 245/45/R19 from Discount Tire in Evansville Indiana.  We’ve driven almost 17,000 miles on the tires.   Noticed 2 tires are splitting on the sidewall near the tread.  The one I’m reporting is dangerously split (resembles ",
+        "pct": 8,
+        "title": "Tires",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-volkswagen-id-4",
+  "make": "Volkswagen",
+  "model": "ID.4",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/VOLKSWAGEN/ID.4#complaints",
+  "generatedAt": "2026-06-23T16:42:00.608Z",
+  "total": 132,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 53,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Volkswagen ID.4. The contact stated while attempting to drive onto the highway the message \"Electronic Sound. Please Drive With Greater Care\" suddenly displayed and the vehicle would not accelerate when depressing the accelerator pedal. The contact stated ",
+      "pct": 40
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 26,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "While driving with the adaptive cruise control enabled at 60 mph, I entered a 65 mph speed zone, so I attempted to increase my speed setting pressing the “+” control a couple times on the steering wheel, which should added 2 to 10 mph to the current setting, depending upon how fi",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 19,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving with the adaptive cruise control enabled at 60 mph, I entered a 65 mph speed zone, so I attempted to increase my speed setting pressing the “+” control a couple times on the steering wheel, which should added 2 to 10 mph to the current setting, depending upon how fi",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 14,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger door opened on its while the car was coming to a stop. Then a few other occasions same issue. The vehicle had the recall completed and the issues still persist with the car. I did record on a separate incident when the wheel was engaged in reverse where the door ope",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Ever since I picked this car up I've noticed that it's been having constant electrical gremlins. Some days things will work some days things will not work. But the issue that I'm writing about is that earlier this week on a Monday I went to go to a local charger. When I was done ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Volkswagen Id.4 owners report most",
+    "summary": "Across 132 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 53,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Volkswagen ID.4. The contact stated while attempting to drive onto the highway the message \"Electronic Sound. Please Drive With Greater Care\" suddenly displayed and the vehicle would not accelerate when depressing the accelerator pedal. The contact stated ",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "53 reports (40%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 26,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "While driving with the adaptive cruise control enabled at 60 mph, I entered a 65 mph speed zone, so I attempted to increase my speed setting pressing the “+” control a couple times on the steering wheel, which should added 2 to 10 mph to the current setting, depending upon how fi",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "26 reports (20%) · 8 crash · 5 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 19,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving with the adaptive cruise control enabled at 60 mph, I entered a 65 mph speed zone, so I attempted to increase my speed setting pressing the “+” control a couple times on the steering wheel, which should added 2 to 10 mph to the current setting, depending upon how fi",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "19 reports (14%) · 6 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 14,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger door opened on its while the car was coming to a stop. Then a few other occasions same issue. The vehicle had the recall completed and the issues still persist with the car. I did record on a separate incident when the wheel was engaged in reverse where the door ope",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "14 reports (11%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Ever since I picked this car up I've noticed that it's been having constant electrical gremlins. Some days things will work some days things will not work. But the issue that I'm writing about is that earlier this week on a Monday I went to go to a local charger. When I was done ",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "12 reports (9%) · 4 crash · 4 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-honda-fit",
+  "make": "Honda",
+  "model": "Fit",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/HONDA/FIT#complaints",
+  "generatedAt": "2026-06-23T16:32:19.435Z",
+  "total": 112,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 HONDA FIT. WHILE ATTEMPTING TO DRIVE THE VEHICLE, THE ANTI-LOCK BRAKE, TIRE PRESSURE MONITORING SYSTEM, HILL ACCESS, LANE DEPARTURE, BRAKE ASSIST CRASH, AND POWER STEERING WARNING INDICATORS ILLUMINATED. THE CONTACT WAS ABLE TO DRIVE THE VEHICLE TO BAB",
+      "pct": 29
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 29,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "AFTER PARKING AND RETURNING TO VEHICLE, ON START UP, MULTIPLE CHECK ENGINE LIGHTS WENT OFF. CODE WAS READ AS P0303 ENGINE CYLINDER 3 MISFIRE. CAR ~8000 MILES, ON TAKING TO DEALERSHIP WAS TOLD EXTREME CARBON BUILDUP HAD CAUSED MISFIRES. CAR WAS RETURNED, FUNCTIONED FOR A MONTH. IS",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "I purchased a new Honda Fit in 2018. In November 2019, at 31,000 miles several indicator lights came on. The check engine, TPMS, Vehicle Stability assist, Electric Power System. The car was running smoothly but I was told by a Honda dealer there was excessive carbon build up. The",
+      "pct": 19
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS ON FM529 IN THE LEFT HAND TURN LANE HEADING TOWARDS THE SOLID GREEN LIGHT, AS I WAS APPROACHING THE LIGHT I STARTED SLOWING DOWN AND NOTICED IN MY LEFT PERIPHERAL VISION A BLACK CAR WAITING TO PULL OUT. I SLOWED DOWN TO 20 MPH WHERE  I PROCEEDED TO HEAD TO THE TRAFFIC LIGHT",
+      "pct": 11
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Honda Fit. The contact stated that on various occasions while his wife was driving at various speeds, the vehicle lost motive power with the ABS, traction control, and other unknown warning lights illuminated. The contact stated that occasionally the vehic",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Honda Fit owners report most",
+    "summary": "Across 112 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 HONDA FIT. WHILE ATTEMPTING TO DRIVE THE VEHICLE, THE ANTI-LOCK BRAKE, TIRE PRESSURE MONITORING SYSTEM, HILL ACCESS, LANE DEPARTURE, BRAKE ASSIST CRASH, AND POWER STEERING WARNING INDICATORS ILLUMINATED. THE CONTACT WAS ABLE TO DRIVE THE VEHICLE TO BAB",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "33 reports (29%) · 1 crash · 6 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 29,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "AFTER PARKING AND RETURNING TO VEHICLE, ON START UP, MULTIPLE CHECK ENGINE LIGHTS WENT OFF. CODE WAS READ AS P0303 ENGINE CYLINDER 3 MISFIRE. CAR ~8000 MILES, ON TAKING TO DEALERSHIP WAS TOLD EXTREME CARBON BUILDUP HAD CAUSED MISFIRES. CAR WAS RETURNED, FUNCTIONED FOR A MONTH. IS",
+        "pct": 26,
+        "title": "Fuel/Propulsion System",
+        "blurb": "29 reports (26%) · 1 crash · 6 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "I purchased a new Honda Fit in 2018. In November 2019, at 31,000 miles several indicator lights came on. The check engine, TPMS, Vehicle Stability assist, Electric Power System. The car was running smoothly but I was told by a Honda dealer there was excessive carbon build up. The",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "21 reports (19%) · 1 crash · 7 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS ON FM529 IN THE LEFT HAND TURN LANE HEADING TOWARDS THE SOLID GREEN LIGHT, AS I WAS APPROACHING THE LIGHT I STARTED SLOWING DOWN AND NOTICED IN MY LEFT PERIPHERAL VISION A BLACK CAR WAITING TO PULL OUT. I SLOWED DOWN TO 20 MPH WHERE  I PROCEEDED TO HEAD TO THE TRAFFIC LIGHT",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "12 reports (11%) · 1 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Honda Fit. The contact stated that on various occasions while his wife was driving at various speeds, the vehicle lost motive power with the ABS, traction control, and other unknown warning lights illuminated. The contact stated that occasionally the vehic",
+        "pct": 9,
+        "title": "Fuel System",
+        "blurb": "10 reports (9%) · 1 injured"
+      }
+    ]
+  }
+}

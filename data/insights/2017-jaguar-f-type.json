@@ -1,0 +1,62 @@
+{
+  "slug": "2017-jaguar-f-type",
+  "make": "Jaguar",
+  "model": "F-TYPE",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/JAGUAR/F-TYPE#complaints",
+  "generatedAt": "2026-06-23T16:35:12.995Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "GAS LEAKING FROM THE ENGINE CAUSING INTENSE SMELL ,  RISK OF FIRE BEING NEAR THE HOT ENGINE.    CALLED ROADSIDE ASSISTANCE CAR TOWED TO THE DEALER.",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JULY 12,2017 MY VEHICLE STALLED AND WOULD NOT START AFTER REPEATED TRIES.  THE VEHICLE WAS TOWED TO A JAGUAR DEALER WHERE IT STAYED FOR 14 DAYS WHILE THEY TRIED TO SOLVE THE PROBLEM.  A NEW FUEL PUMP DRIVER MODULE WAS INSTALLED AND THE DEALER DECLARED THE PROBLEM FIXED.  THE M",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Jaguar F-Type owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "GAS LEAKING FROM THE ENGINE CAUSING INTENSE SMELL ,  RISK OF FIRE BEING NEAR THE HOT ENGINE.    CALLED ROADSIDE ASSISTANCE CAR TOWED TO THE DEALER.",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JULY 12,2017 MY VEHICLE STALLED AND WOULD NOT START AFTER REPEATED TRIES.  THE VEHICLE WAS TOWED TO A JAGUAR DEALER WHERE IT STAYED FOR 14 DAYS WHILE THEY TRIED TO SOLVE THE PROBLEM.  A NEW FUEL PUMP DRIVER MODULE WAS INSTALLED AND THE DEALER DECLARED THE PROBLEM FIXED.  THE M",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

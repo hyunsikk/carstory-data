@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-x3",
+  "make": "BMW",
+  "model": "X3",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/X3#complaints",
+  "generatedAt": "2026-06-23T16:27:00.916Z",
+  "total": 98,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was at a stop light and when the light changed I stepped on the gas.  The car suddenly turned completely off.  I had no steering, no braking no ability to turn the hazard lights on.  I was in the middle of the street with traffic behind me and my child was in the back seat with",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was at a stop light and when the light changed I stepped on the gas.  The car suddenly turned completely off.  I had no steering, no braking no ability to turn the hazard lights on.  I was in the middle of the street with traffic behind me and my child was in the back seat with",
+      "pct": 21
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X3. The contact stated that the tailgate would fall on the contact without warning upon use. On one occasion, the tailgate had fallen on her left arm and the contact had to wrestle her arm out of the vehicle as the tailgate sensor failed to recognize h",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR'S SPEEDOMETER ONLY DISPLAYS SPEED IN 10 MILES INCREMENTS, WHICH MAKES IT NEARLY IMPOSSIBLE TO KNOW EXACT CURRENT SPEED OF THE CAR. FOR EXAMPLE WHEN SPEED IS BETWEEN 50 AND 60 I CAN ONLY GUESS WHAT MY ACTUAL SPEED IS, 52 OR 58.   BMW FOR SOME STRANGE REASON SELLS AN OPTIONA",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PARKING DISTANCE CONTROL IS FAULTY AND SOMETIMES LOCKS UP THE BRAKES IN A JARRING MANNER WHEN BACKING UP EVEN WHEN THERE IS NOTHING BEHIND THE CAR, CLOSE TO THE CAR OR IN THE ADJACENT PARKING SPACES. BMW EVEN SAYS TO TURN OFF PDC WHEN USING PARKING ASSISTANT PLUS. MANUAL SAYS CAR",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw X3 owners report most",
+    "summary": "Across 98 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was at a stop light and when the light changed I stepped on the gas.  The car suddenly turned completely off.  I had no steering, no braking no ability to turn the hazard lights on.  I was in the middle of the street with traffic behind me and my child was in the back seat with",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "28 reports (29%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was at a stop light and when the light changed I stepped on the gas.  The car suddenly turned completely off.  I had no steering, no braking no ability to turn the hazard lights on.  I was in the middle of the street with traffic behind me and my child was in the back seat with",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "21 reports (21%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X3. The contact stated that the tailgate would fall on the contact without warning upon use. On one occasion, the tailgate had fallen on her left arm and the contact had to wrestle her arm out of the vehicle as the tailgate sensor failed to recognize h",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "11 reports (11%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR'S SPEEDOMETER ONLY DISPLAYS SPEED IN 10 MILES INCREMENTS, WHICH MAKES IT NEARLY IMPOSSIBLE TO KNOW EXACT CURRENT SPEED OF THE CAR. FOR EXAMPLE WHEN SPEED IS BETWEEN 50 AND 60 I CAN ONLY GUESS WHAT MY ACTUAL SPEED IS, 52 OR 58.   BMW FOR SOME STRANGE REASON SELLS AN OPTIONA",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "8 reports (8%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PARKING DISTANCE CONTROL IS FAULTY AND SOMETIMES LOCKS UP THE BRAKES IN A JARRING MANNER WHEN BACKING UP EVEN WHEN THERE IS NOTHING BEHIND THE CAR, CLOSE TO THE CAR OR IN THE ADJACENT PARKING SPACES. BMW EVEN SAYS TO TURN OFF PDC WHEN USING PARKING ASSISTANT PLUS. MANUAL SAYS CAR",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "6 reports (6%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-transit-connect",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/TRANSIT%20CONNECT#complaints",
+  "generatedAt": "2026-06-23T16:45:07.438Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle keeps flashing service engine soon light and malfunction indicator lamp. Dealer is keep saying that there are nothing to fix the issue. However, they have noted that it might be related to fueling hole and also fuel misfire. Dealer is not addressing the issue and on ",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "july2, 2022 Saturday, 4pm 2021 Ford transit connect titanium -Sudden unintended acceleration  I was making a very slow  (2-3mph) U-turn in an empty, very small strip mall parking lot with the brake being lightly pushed as I went around tight left turn. 3/4 thru the turn the  van ",
+      "pct": 38
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle keeps flashing service engine soon light and malfunction indicator lamp. Dealer is keep saying that there are nothing to fix the issue. However, they have noted that it might be related to fueling hole and also fuel misfire. Dealer is not addressing the issue and on ",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Automatic braking system module  System went out mid drive and Locked up the front right and back left brakes making vehicle immovable in the middle of the highway. Towed to a dealership where they had to remove and replace ABS module no warning lamps were present. No prior sympt",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My windshield is leaking and has been leaking since manufacturing.  The windshield is flexing and is missing the adhesive along the top.  Caused electrical damage to the car.",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Transit Connect owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle keeps flashing service engine soon light and malfunction indicator lamp. Dealer is keep saying that there are nothing to fix the issue. However, they have noted that it might be related to fueling hole and also fuel misfire. Dealer is not addressing the issue and on ",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "4 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "july2, 2022 Saturday, 4pm 2021 Ford transit connect titanium -Sudden unintended acceleration  I was making a very slow  (2-3mph) U-turn in an empty, very small strip mall parking lot with the brake being lightly pushed as I went around tight left turn. 3/4 thru the turn the  van ",
+        "pct": 38,
+        "title": "Service Brakes",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle keeps flashing service engine soon light and malfunction indicator lamp. Dealer is keep saying that there are nothing to fix the issue. However, they have noted that it might be related to fueling hole and also fuel misfire. Dealer is not addressing the issue and on ",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Automatic braking system module  System went out mid drive and Locked up the front right and back left brakes making vehicle immovable in the middle of the highway. Towed to a dealership where they had to remove and replace ABS module no warning lamps were present. No prior sympt",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My windshield is leaking and has been leaking since manufacturing.  The windshield is flexing and is missing the adhesive along the top.  Caused electrical damage to the car.",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

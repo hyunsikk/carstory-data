@@ -1,0 +1,84 @@
+{
+  "slug": "2021-audi-s8",
+  "make": "Audi",
+  "model": "S8",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/S8#complaints",
+  "generatedAt": "2026-06-23T16:43:17.189Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When started up on 11/17/22, multiple warning lights came on in rapid sequence advising of an electrical system & battery malfunction. Warning was to not drive the vehicle and contact service. I shut off the vehicle and re-started it. The same warnings were displayed. I was about",
+      "pct": 100
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When started up on 11/17/22, multiple warning lights came on in rapid sequence advising of an electrical system & battery malfunction. Warning was to not drive the vehicle and contact service. I shut off the vehicle and re-started it. The same warnings were displayed. I was about",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When started up on 11/17/22, multiple warning lights came on in rapid sequence advising of an electrical system & battery malfunction. Warning was to not drive the vehicle and contact service. I shut off the vehicle and re-started it. The same warnings were displayed. I was about",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi S8 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Power Train (100% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When started up on 11/17/22, multiple warning lights came on in rapid sequence advising of an electrical system & battery malfunction. Warning was to not drive the vehicle and contact service. I shut off the vehicle and re-started it. The same warnings were displayed. I was about",
+        "pct": 100,
+        "title": "Power Train",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When started up on 11/17/22, multiple warning lights came on in rapid sequence advising of an electrical system & battery malfunction. Warning was to not drive the vehicle and contact service. I shut off the vehicle and re-started it. The same warnings were displayed. I was about",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When started up on 11/17/22, multiple warning lights came on in rapid sequence advising of an electrical system & battery malfunction. Warning was to not drive the vehicle and contact service. I shut off the vehicle and re-started it. The same warnings were displayed. I was about",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

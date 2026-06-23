@@ -1,0 +1,128 @@
+{
+  "slug": "2019-audi-e-tron",
+  "make": "Audi",
+  "model": "e-tron",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/E-TRON#complaints",
+  "generatedAt": "2026-06-23T16:25:47.002Z",
+  "total": 74,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 31,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JANUARY 13, 202, THIS 2019 AUDI E-TRON WAS THE 2ND CAR STOPPED AT A RED TRAFFIC SIGNAL ON A PUBLIC ROAD. THE DRIVER'S FOOT WAS ON THE BRAKE. WHILE THE LIGHT REMAINED RED WITH THE DRIVER'S FOOT STILL ON THE BRAKE, THE CAR LURCHED FORWARD INTO THE REAR OF THE FRONT CAR CONTINUIN",
+      "pct": 42
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE FAILED TO NOTIFY THE OPERATOR ABOUT UNUSUALLY BAD BATTERY CELL. RANGE WAS DECLINING SIGNIFICANTLY BETWEEN CHARGE CYCLES. SERVICE CENTER WAS DECLINING TO ADDRESS THE ISSUE UNTIL PROVIDED DETAILED INFORMATION AS WHY THERE IS A FAULT WITH THE HIGH VOLTAGE BATTERY. A BAD BATT",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The suv has an issue where when you are in drive or reverse, the vehicle can roll backwards of forwards when the accelerator is released and the vehicle is not at a complete stop. For example, coming up an inclined driveway, if you come to a near stop to wait for the garage door ",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 AUDI E-TRON. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, SEVERAL UNKNOWN WARNING LIGHTS ILLUMINATED. THE VEHICLE WAS TAKEN TO AUDI TYSONS CORNER SERVICE DEPARTMENT (8598 LEESBURG PIKE, VIENNA, VA 22182) HOWEVER, THE MECHANIC WAS UNABLE TO ",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE VEHICLE ON A STATE HIGHWAY THE AUDI ADAPTIVE CRUISE ASSIST CURRENTLY UNAVAILABLE ERROR MESSAGE DISPLAYS AND DISABLES THE ADAPTIVE CRUISE ASSIST FUNCTION FOR RANDOM/UNKNOWN PERIODS OF TIME.  THIS ERROR HAS OCCURRED MULTIPLE TIMES.  ADDITIONALLY, WHEN USING THE AU",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi E-Tron owners report most",
+    "summary": "Across 74 owner complaints to NHTSA, the most reported area is Electrical System (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 31,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JANUARY 13, 202, THIS 2019 AUDI E-TRON WAS THE 2ND CAR STOPPED AT A RED TRAFFIC SIGNAL ON A PUBLIC ROAD. THE DRIVER'S FOOT WAS ON THE BRAKE. WHILE THE LIGHT REMAINED RED WITH THE DRIVER'S FOOT STILL ON THE BRAKE, THE CAR LURCHED FORWARD INTO THE REAR OF THE FRONT CAR CONTINUIN",
+        "pct": 42,
+        "title": "Electrical System",
+        "blurb": "31 reports (42%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE FAILED TO NOTIFY THE OPERATOR ABOUT UNUSUALLY BAD BATTERY CELL. RANGE WAS DECLINING SIGNIFICANTLY BETWEEN CHARGE CYCLES. SERVICE CENTER WAS DECLINING TO ADDRESS THE ISSUE UNTIL PROVIDED DETAILED INFORMATION AS WHY THERE IS A FAULT WITH THE HIGH VOLTAGE BATTERY. A BAD BATT",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (19%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The suv has an issue where when you are in drive or reverse, the vehicle can roll backwards of forwards when the accelerator is released and the vehicle is not at a complete stop. For example, coming up an inclined driveway, if you come to a near stop to wait for the garage door ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "9 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 AUDI E-TRON. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, SEVERAL UNKNOWN WARNING LIGHTS ILLUMINATED. THE VEHICLE WAS TAKEN TO AUDI TYSONS CORNER SERVICE DEPARTMENT (8598 LEESBURG PIKE, VIENNA, VA 22182) HOWEVER, THE MECHANIC WAS UNABLE TO ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "8 reports (11%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE VEHICLE ON A STATE HIGHWAY THE AUDI ADAPTIVE CRUISE ASSIST CURRENTLY UNAVAILABLE ERROR MESSAGE DISPLAYS AND DISABLES THE ADAPTIVE CRUISE ASSIST FUNCTION FOR RANDOM/UNKNOWN PERIODS OF TIME.  THIS ERROR HAS OCCURRED MULTIPLE TIMES.  ADDITIONALLY, WHEN USING THE AU",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

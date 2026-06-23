@@ -1,0 +1,128 @@
+{
+  "slug": "2022-genesis-gv80",
+  "make": "Genesis",
+  "model": "GV80",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GENESIS/GV80#complaints",
+  "generatedAt": "2026-06-23T16:31:11.593Z",
+  "total": 41,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS CAR STARTED TO SHOW ENGINE PROBLEMS, WHEN TRYING TO DRIVE THE CAR BEGINS TO SHAKE A LOT AND LOUD NOISES AND A LIGHT SHOWING AN ENGINE MALFUNCTION POPS UP. WE HAVE CONTACTED HYUNDAI/GENESIS ABOUT THIS. THEY SAID IT WAS A SOFTWARE ISSUE AND NEEDED AN UPDATE.SEEMS LIKE PROBLEM ",
+      "pct": 32
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has an issue stalling while in operation. The vehicle is not safe, especially when the vehicle stalls while operating in traffic. The issue puts many drivers and passengers at risk while operating on a roadway.  The vehicle stalled in the following scenarios:  enterin",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "\"What component or system failed or malfunctioned? Is it available for inspection upon request? Vehicle turned off in the middle of the road, warning it was hot   How was your safety or the safety of others put at risk?  The vehicle was driving on the highway and suddenly turned ",
+      "pct": 22
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving 45 mph on a straight stretch of a state road, I hit the brakes multiple times and decelerated so I could take the hard right exit and then make an immediate sharp left in a residential area.   As I moved to the exiting lane, I turned on the right turn signal and eas",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The electrical wiring harnesses affecting numerous safety systems (forward collision warning, automatic emergency braking, lane departure warning) have been chewed through by rodents. Upon further research it was determined that starting in 2016 Asian automotive manufacturers (Ni",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Genesis Gv80 owners report most",
+    "summary": "Across 41 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS CAR STARTED TO SHOW ENGINE PROBLEMS, WHEN TRYING TO DRIVE THE CAR BEGINS TO SHAKE A LOT AND LOUD NOISES AND A LIGHT SHOWING AN ENGINE MALFUNCTION POPS UP. WE HAVE CONTACTED HYUNDAI/GENESIS ABOUT THIS. THEY SAID IT WAS A SOFTWARE ISSUE AND NEEDED AN UPDATE.SEEMS LIKE PROBLEM ",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "13 reports (32%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has an issue stalling while in operation. The vehicle is not safe, especially when the vehicle stalls while operating in traffic. The issue puts many drivers and passengers at risk while operating on a roadway.  The vehicle stalled in the following scenarios:  enterin",
+        "pct": 32,
+        "title": "Fuel/Propulsion System",
+        "blurb": "13 reports (32%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "\"What component or system failed or malfunctioned? Is it available for inspection upon request? Vehicle turned off in the middle of the road, warning it was hot   How was your safety or the safety of others put at risk?  The vehicle was driving on the highway and suddenly turned ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "9 reports (22%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving 45 mph on a straight stretch of a state road, I hit the brakes multiple times and decelerated so I could take the hard right exit and then make an immediate sharp left in a residential area.   As I moved to the exiting lane, I turned on the right turn signal and eas",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The electrical wiring harnesses affecting numerous safety systems (forward collision warning, automatic emergency braking, lane departure warning) have been chewed through by rodents. Upon further research it was determined that starting in 2016 Asian automotive manufacturers (Ni",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

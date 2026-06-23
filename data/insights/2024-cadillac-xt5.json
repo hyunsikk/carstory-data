@@ -1,0 +1,128 @@
+{
+  "slug": "2024-cadillac-xt5",
+  "make": "Cadillac",
+  "model": "XT5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CADILLAC/XT5#complaints",
+  "generatedAt": "2026-06-23T16:27:54.783Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Cadillac XT5. The contact stated while driving at an undisclosed speed and approaching a vehicle ahead, the Forward Collision Avoidance system failed to activate, causing the contact to swerve to avoid a collision. No warning lights were illuminated. The v",
+      "pct": 60
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine problem loss of power intermittently no reverse. They replaced clutch parts seals, piston, rings, plates, and plates. Had Vehicle for about 22 days. Driving home after repairs completed. Cluster display- instrument panel went out. Called Dealer and Cadillac assistance. Say",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On 10/18/24 I was making a left turn out of my development when a vehicle crashed into the front driver portion of my vehicle.  The vehicle was going approximately 40+mph.  I was driving approximately 5-10 mph making the turn.  I was wearing a seatbelt, hit my head on the drivers",
+      "pct": 20
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine problem loss of power intermittently no reverse. They replaced clutch parts seals, piston, rings, plates, and plates. Had Vehicle for about 22 days. Driving home after repairs completed. Cluster display- instrument panel went out. Called Dealer and Cadillac assistance. Say",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Cadillac XT5. The contact stated while driving at an undisclosed speed and approaching a vehicle ahead, the Forward Collision Avoidance system failed to activate, causing the contact to swerve to avoid a collision. No warning lights were illuminated. The v",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Cadillac Xt5 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Cadillac XT5. The contact stated while driving at an undisclosed speed and approaching a vehicle ahead, the Forward Collision Avoidance system failed to activate, causing the contact to swerve to avoid a collision. No warning lights were illuminated. The v",
+        "pct": 60,
+        "title": "Power Train",
+        "blurb": "6 reports (60%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine problem loss of power intermittently no reverse. They replaced clutch parts seals, piston, rings, plates, and plates. Had Vehicle for about 22 days. Driving home after repairs completed. Cluster display- instrument panel went out. Called Dealer and Cadillac assistance. Say",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On 10/18/24 I was making a left turn out of my development when a vehicle crashed into the front driver portion of my vehicle.  The vehicle was going approximately 40+mph.  I was driving approximately 5-10 mph making the turn.  I was wearing a seatbelt, hit my head on the drivers",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "2 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine problem loss of power intermittently no reverse. They replaced clutch parts seals, piston, rings, plates, and plates. Had Vehicle for about 22 days. Driving home after repairs completed. Cluster display- instrument panel went out. Called Dealer and Cadillac assistance. Say",
+        "pct": 10,
+        "title": "Lane Departure",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Cadillac XT5. The contact stated while driving at an undisclosed speed and approaching a vehicle ahead, the Forward Collision Avoidance system failed to activate, causing the contact to swerve to avoid a collision. No warning lights were illuminated. The v",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

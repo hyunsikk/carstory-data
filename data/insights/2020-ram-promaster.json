@@ -1,0 +1,128 @@
+{
+  "slug": "2020-ram-promaster",
+  "make": "Ram",
+  "model": "ProMaster",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/RAM/PROMASTER#complaints",
+  "generatedAt": "2026-06-23T16:40:22.600Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Ram Promaster 1500. The contact received notification of NHTSA Campaign Number: 25V552000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The contact stated that the rearview camera image was black or inverted while",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transaxle downshifts whenever the accelerator pedal is released and the vehicle gains speed. This happens anytime, not when the driver wants to slow down. In the snow this has caused me to loose traction (unwanted engine breaking). There is no way to turn this off. I've spoke",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Radio system, navigation, backup camera and associated telematic system failure. The radio in the RAM Promaster functions as a control center for many safety functions. It intermittently fails while driving the RAM Promaster. It has been in multiple (4) times for service. Replace",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Ram Promaster 2500. The contact stated that while reversing, the rear-view camera screen displayed a pixelated image. In addition, the contact stated that occasionally the rear-view camera screen displayed a white screen. The contact stated that the vehicl",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Sept 14 2025 we were driving our Promaster and heard a knocking sound then the vehicle immediately overheated. We had the car towed to a dealership and we were informed we needed a new engine as the fan module had failed causing the vehicle to overheat and ruining the engine. ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Ram Promaster owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Back Over Prevention (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Ram Promaster 1500. The contact received notification of NHTSA Campaign Number: 25V552000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The contact stated that the rearview camera image was black or inverted while",
+        "pct": 25,
+        "title": "Back Over Prevention",
+        "blurb": "10 reports (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transaxle downshifts whenever the accelerator pedal is released and the vehicle gains speed. This happens anytime, not when the driver wants to slow down. In the snow this has caused me to loose traction (unwanted engine breaking). There is no way to turn this off. I've spoke",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "10 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Radio system, navigation, backup camera and associated telematic system failure. The radio in the RAM Promaster functions as a control center for many safety functions. It intermittently fails while driving the RAM Promaster. It has been in multiple (4) times for service. Replace",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "7 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Ram Promaster 2500. The contact stated that while reversing, the rear-view camera screen displayed a pixelated image. In addition, the contact stated that occasionally the rear-view camera screen displayed a white screen. The contact stated that the vehicl",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Sept 14 2025 we were driving our Promaster and heard a knocking sound then the vehicle immediately overheated. We had the car towed to a dealership and we were informed we needed a new engine as the fan module had failed causing the vehicle to overheat and ruining the engine. ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

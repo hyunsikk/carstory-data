@@ -1,0 +1,128 @@
+{
+  "slug": "2019-jaguar-f-pace",
+  "make": "Jaguar",
+  "model": "F-PACE",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/JAGUAR/F-PACE#complaints",
+  "generatedAt": "2026-06-23T16:35:08.561Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED A 2019 JAGUAR F PACE FROM A DEALERSHIP IN NEW JERSEY ON OCTOBER 5TH 2019. I WAS THE 2ND OWNER AND THE CAR ALREADY HAD 19K MILES ON THE ODOMETER. WHEN I PURCHASED THE CAR, THE DEALERSHIP TOLD ME THAT THE CAR IS WELL SERVICED AND MAINTAINED AND IS UNDER WARRANTY UNTIL 2",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Jaguar F-Pace. The contact stated that while driving at approximately 65 mph, the vehicle depressurized. The driver detected smoke emerging from the engine. The contact pulled over and noticed fire emerging from the engine compartment. The vehicle continue",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "Mutilple oil leaks and coolant leak from faulty parts into engine causing engine premature faliure.",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Jaguar F-Pace. The contact stated while driving at various speeds, the engine was overheating. There was a red triangle displayed on the instrument panel. The battery warning light was illuminated. The vehicle was taken to the local dealer, where it was di",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "IN MY 2019 JAGUAR F PACE, I WAS STOPPED, WAITING FOR THE CAR IN OPPOSITE LANE TO PASS SO I COULD CROSS LEFT INTO MY DRIVEWAY. THE OTHER DRIVER CROSSED THE YELLOW LINES HITTING ME HEAD ON AT ABOUT 45 MPH. MY AIR BAGS NEVER DEPLOYED. THE OTHER DRIVERS DID YET MINE DID NOT, NO WARNI",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Jaguar F-Pace owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED A 2019 JAGUAR F PACE FROM A DEALERSHIP IN NEW JERSEY ON OCTOBER 5TH 2019. I WAS THE 2ND OWNER AND THE CAR ALREADY HAD 19K MILES ON THE ODOMETER. WHEN I PURCHASED THE CAR, THE DEALERSHIP TOLD ME THAT THE CAR IS WELL SERVICED AND MAINTAINED AND IS UNDER WARRANTY UNTIL 2",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "6 reports (40%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Jaguar F-Pace. The contact stated that while driving at approximately 65 mph, the vehicle depressurized. The driver detected smoke emerging from the engine. The contact pulled over and noticed fire emerging from the engine compartment. The vehicle continue",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "3 reports (20%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "Mutilple oil leaks and coolant leak from faulty parts into engine causing engine premature faliure.",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Jaguar F-Pace. The contact stated while driving at various speeds, the engine was overheating. There was a red triangle displayed on the instrument panel. The battery warning light was illuminated. The vehicle was taken to the local dealer, where it was di",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "IN MY 2019 JAGUAR F PACE, I WAS STOPPED, WAITING FOR THE CAR IN OPPOSITE LANE TO PASS SO I COULD CROSS LEFT INTO MY DRIVEWAY. THE OTHER DRIVER CROSSED THE YELLOW LINES HITTING ME HEAD ON AT ABOUT 45 MPH. MY AIR BAGS NEVER DEPLOYED. THE OTHER DRIVERS DID YET MINE DID NOT, NO WARNI",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "2 reports (13%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

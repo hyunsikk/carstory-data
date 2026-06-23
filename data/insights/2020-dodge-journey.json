@@ -1,0 +1,128 @@
+{
+  "slug": "2020-dodge-journey",
+  "make": "Dodge",
+  "model": "Journey",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/DODGE/JOURNEY#complaints",
+  "generatedAt": "2026-06-23T16:29:36.550Z",
+  "total": 60,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Dodge Journey. The contact stated that while reversing, the rearview camera image was displayed upside down, sideways, and occasionally blank. Additionally, the pedestrian warning system was inoperable. There was no warning light illuminated. Additionally,",
+      "pct": 28
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Dodge Journey. The contact stated that while reversing, the rearview camera image was displayed upside down, sideways, and occasionally blank. Additionally, the pedestrian warning system was inoperable. There was no warning light illuminated. Additionally,",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving on highway and my car started to lose power. When I pulled over and cut it off it wouldn't come on was making a sound as if it was trying to turn on. The engine light came on and a symbol that looked like a lighting bolt in-between two parentheses came on. I sat for 20 mi",
+      "pct": 13
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since I have owned this vehicle, the wiring for the backup camera has been wrong since purchase. The image is fuzzy, sometimes non-existent, and if it is it is upside down. The radio works when it wants to. The headlights keep filling with moisture no matter how many times I get ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING DOWN THE ROAD APPROACHING STANDSTILL TRAFFIC, I ATTEMPTED TO STEP ON THE BREAK TO SLOW DOWN TO COME TO A STOP. AS I PUSHED ON THE BRAKES I GOT ABOUT HALFWAY DOWN AND I NOTICED MORE PLAY IN THE BRAKES THAN USUAL, SO I ATTEMPTED TO PUSH THE BRAKES FURTHER DOWN TO C",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Dodge Journey owners report most",
+    "summary": "Across 60 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Dodge Journey. The contact stated that while reversing, the rearview camera image was displayed upside down, sideways, and occasionally blank. Additionally, the pedestrian warning system was inoperable. There was no warning light illuminated. Additionally,",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "17 reports (28%) · 1 fire"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Dodge Journey. The contact stated that while reversing, the rearview camera image was displayed upside down, sideways, and occasionally blank. Additionally, the pedestrian warning system was inoperable. There was no warning light illuminated. Additionally,",
+        "pct": 18,
+        "title": "Back Over Prevention",
+        "blurb": "11 reports (18%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving on highway and my car started to lose power. When I pulled over and cut it off it wouldn't come on was making a sound as if it was trying to turn on. The engine light came on and a symbol that looked like a lighting bolt in-between two parentheses came on. I sat for 20 mi",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "8 reports (13%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since I have owned this vehicle, the wiring for the backup camera has been wrong since purchase. The image is fuzzy, sometimes non-existent, and if it is it is upside down. The radio works when it wants to. The headlights keep filling with moisture no matter how many times I get ",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING DOWN THE ROAD APPROACHING STANDSTILL TRAFFIC, I ATTEMPTED TO STEP ON THE BREAK TO SLOW DOWN TO COME TO A STOP. AS I PUSHED ON THE BRAKES I GOT ABOUT HALFWAY DOWN AND I NOTICED MORE PLAY IN THE BRAKES THAN USUAL, SO I ATTEMPTED TO PUSH THE BRAKES FURTHER DOWN TO C",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "4 reports (7%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

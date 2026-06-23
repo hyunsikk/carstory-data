@@ -1,0 +1,40 @@
+{
+  "slug": "2017-lexus-rc",
+  "make": "Lexus",
+  "model": "RC",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/LEXUS/RC#complaints",
+  "generatedAt": "2026-06-23T16:37:31.572Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle does had a hard time starting and now does not start. Research indicates this is a known problem on this vehicle but my vehicle doesn’t seem to be included in the recall  The main recall for the Lexus RC200t is due to a failing low-pressure fuel pump, which can cause the ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Lexus Rc owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle does had a hard time starting and now does not start. Research indicates this is a known problem on this vehicle but my vehicle doesn’t seem to be included in the recall  The main recall for the Lexus RC200t is due to a failing low-pressure fuel pump, which can cause the ",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

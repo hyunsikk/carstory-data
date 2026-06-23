@@ -1,0 +1,128 @@
+{
+  "slug": "2024-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T16:41:01.305Z",
+  "total": 196,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 41,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "Incident Description: One week after purchasing our new Tesla Model 3 2024 , we encountered several error messages upon returning to our car after a brief stop: \"APP_w264 - Lane Departure Avoidance feature unavailable,\" \"GTW_w075 - Steering assist reduced,\" and \"UI_a020 - Steerin",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 41,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "Tesla officially confirmed as I brought my car in a THIRD time that the repeated turn signal failure I was/am experiencing is now a known software issue. They looked at the timestamps and video I shared and saw that I had indeed applied pressure to the turn signal buttons to no a",
+      "pct": 21
+    },
+    {
+      "component": "STEERING",
+      "count": 35,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Incident Description: One week after purchasing our new Tesla Model 3 2024 , we encountered several error messages upon returning to our car after a brief stop: \"APP_w264 - Lane Departure Avoidance feature unavailable,\" \"GTW_w075 - Steering assist reduced,\" and \"UI_a020 - Steerin",
+      "pct": 18
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 26,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Tesla officially confirmed as I brought my car in a THIRD time that the repeated turn signal failure I was/am experiencing is now a known software issue. They looked at the timestamps and video I shared and saw that I had indeed applied pressure to the turn signal buttons to no a",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I have my phone mounted to the back of the computer screen, and I also have the phone power cord running from the center console 12V plug up to my phone.  I have found that if the power cord comes in contact with the computer screen, it can inadvertently put the car in Neutral (i",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Tesla Model 3 owners report most",
+    "summary": "Across 196 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 41,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "Incident Description: One week after purchasing our new Tesla Model 3 2024 , we encountered several error messages upon returning to our car after a brief stop: \"APP_w264 - Lane Departure Avoidance feature unavailable,\" \"GTW_w075 - Steering assist reduced,\" and \"UI_a020 - Steerin",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "41 reports (21%) · 7 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 41,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "Tesla officially confirmed as I brought my car in a THIRD time that the repeated turn signal failure I was/am experiencing is now a known software issue. They looked at the timestamps and video I shared and saw that I had indeed applied pressure to the turn signal buttons to no a",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "41 reports (21%) · 4 crash · 6 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 35,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Incident Description: One week after purchasing our new Tesla Model 3 2024 , we encountered several error messages upon returning to our car after a brief stop: \"APP_w264 - Lane Departure Avoidance feature unavailable,\" \"GTW_w075 - Steering assist reduced,\" and \"UI_a020 - Steerin",
+        "pct": 18,
+        "title": "Steering",
+        "blurb": "35 reports (18%) · 3 crash · 4 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 26,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Tesla officially confirmed as I brought my car in a THIRD time that the repeated turn signal failure I was/am experiencing is now a known software issue. They looked at the timestamps and video I shared and saw that I had indeed applied pressure to the turn signal buttons to no a",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "26 reports (13%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I have my phone mounted to the back of the computer screen, and I also have the phone power cord running from the center console 12V plug up to my phone.  I have found that if the power cord comes in contact with the computer screen, it can inadvertently put the car in Neutral (i",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "19 reports (10%) · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

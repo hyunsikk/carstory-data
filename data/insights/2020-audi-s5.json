@@ -1,0 +1,106 @@
+{
+  "slug": "2020-audi-s5",
+  "make": "Audi",
+  "model": "S5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/S5#complaints",
+  "generatedAt": "2026-06-23T16:43:07.614Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Emergency Call Module Control Unit has now failed for the second time.  If the vehicle were to be involved in a crash, the system will not be able to automatically call for assistance. Vehicle is already subject to Audi service campaign 90T2 to reflash emergency call module c",
+      "pct": 56
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Audi completed an over the air update and now the mmi screen reboots randomly, making it very dangerous when reversing using the backup camera and relying on parking sensors. Following navigation and it rebooting and having to utilize my cell phone making it difficult to also pay",
+      "pct": 44
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Regularly my MMI will restart, screen goes blank, comes back and says I'm not the registered user. Then bluetooth won't work and I get park aid errors and no rear cross traffic or anything. Happens at least 2 times each way to and from work ( 45min ). I usually have to hard reset",
+      "pct": 24
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Audi completed an over the air update and now the mmi screen reboots randomly, making it very dangerous when reversing using the backup camera and relying on parking sensors. Following navigation and it rebooting and having to utilize my cell phone making it difficult to also pay",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi S5 owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Electrical System (56% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Emergency Call Module Control Unit has now failed for the second time.  If the vehicle were to be involved in a crash, the system will not be able to automatically call for assistance. Vehicle is already subject to Audi service campaign 90T2 to reflash emergency call module c",
+        "pct": 56,
+        "title": "Electrical System",
+        "blurb": "14 reports (56%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Audi completed an over the air update and now the mmi screen reboots randomly, making it very dangerous when reversing using the backup camera and relying on parking sensors. Following navigation and it rebooting and having to utilize my cell phone making it difficult to also pay",
+        "pct": 44,
+        "title": "Back Over Prevention",
+        "blurb": "11 reports (44%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Regularly my MMI will restart, screen goes blank, comes back and says I'm not the registered user. Then bluetooth won't work and I get park aid errors and no rear cross traffic or anything. Happens at least 2 times each way to and from work ( 45min ). I usually have to hard reset",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (24%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Audi completed an over the air update and now the mmi screen reboots randomly, making it very dangerous when reversing using the backup camera and relying on parking sensors. Following navigation and it rebooting and having to utilize my cell phone making it difficult to also pay",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

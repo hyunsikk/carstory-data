@@ -1,0 +1,128 @@
+{
+  "slug": "2020-buick-envision",
+  "make": "Buick",
+  "model": "Envision",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BUICK/ENVISION#complaints",
+  "generatedAt": "2026-06-23T16:27:26.137Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2020 BUICK ENVISION. CONSUMER WRITES IN REGARDS TO ISSUE WITH TRANSMISSION.  THE CONSUMER STATED THE VEHICLE CAN BE POWERED OFF  AND KEY REMOVED WITHOUT BEING SHIFTED INTO PARK. THE TRANSMISSION SEEMED TO SHIFT INTO NEUTRAL INDEPENDENTLY, ALLOWING THE VEHICLE TO ROLL AWAY. THE MA",
+      "pct": 30
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Buick Envision. The contact stated while driving approximately 35 mph when the contact was struck by a semi-trailer which resulted in the side air bag not deploying. A police report was taken the contact sustained broken ribs on the left side and sought me",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Got in the vehicle to start the engine and the instrument cluster stop showing all readings of the gauges would not display the screen blacked out and none of the gauges were working. There were no warnings lamps or nothing out the ordinary the instrument cluster just went out. T",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I put the car into park and I exited the vehicle because I forgot to push the stop button.  So I reached accross the driver's seat and push the stop button.  When I did this the car began to roll back as if it was in neutral.  I did not touch the shift knob.  It shifted into neut",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I put the car into park and I exited the vehicle because I forgot to push the stop button.  So I reached accross the driver's seat and push the stop button.  When I did this the car began to roll back as if it was in neutral.  I did not touch the shift knob.  It shifted into neut",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Buick Envision owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2020 BUICK ENVISION. CONSUMER WRITES IN REGARDS TO ISSUE WITH TRANSMISSION.  THE CONSUMER STATED THE VEHICLE CAN BE POWERED OFF  AND KEY REMOVED WITHOUT BEING SHIFTED INTO PARK. THE TRANSMISSION SEEMED TO SHIFT INTO NEUTRAL INDEPENDENTLY, ALLOWING THE VEHICLE TO ROLL AWAY. THE MA",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "3 reports (30%) · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Buick Envision. The contact stated while driving approximately 35 mph when the contact was struck by a semi-trailer which resulted in the side air bag not deploying. A police report was taken the contact sustained broken ribs on the left side and sought me",
+        "pct": 30,
+        "title": "Air Bags",
+        "blurb": "3 reports (30%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Got in the vehicle to start the engine and the instrument cluster stop showing all readings of the gauges would not display the screen blacked out and none of the gauges were working. There were no warnings lamps or nothing out the ordinary the instrument cluster just went out. T",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I put the car into park and I exited the vehicle because I forgot to push the stop button.  So I reached accross the driver's seat and push the stop button.  When I did this the car began to roll back as if it was in neutral.  I did not touch the shift knob.  It shifted into neut",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (20%) · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I put the car into park and I exited the vehicle because I forgot to push the stop button.  So I reached accross the driver's seat and push the stop button.  When I did this the car began to roll back as if it was in neutral.  I did not touch the shift knob.  It shifted into neut",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "2 reports (20%) · 1 injured"
+      }
+    ]
+  }
+}

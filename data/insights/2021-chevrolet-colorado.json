@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-colorado",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/COLORADO#complaints",
+  "generatedAt": "2026-06-23T16:28:08.338Z",
+  "total": 65,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Colorado. The contact stated while towing a 2020 Forest River ePro 20BHS, the service DEF system malfunctioned, not allowing the contact to view the temperature and the towing controller. The contact stated the check engine warning light was illu",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The brakes went out on the vehicle while my service technician was driving and he barely missed getting in an accident. We had it towed to the Chevy dealer and the brake Pump shattered causing damage to the exhaust clamp and they are telling me it’s not under warranty or recall b",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I stop and try to turn key off it does not turn to off. Have to turn back on and try shifting neutral and back to park. Then try straightened wheel and eventually key will go to off position and take out key. Started few days ago intermittently and now more often. Mileage is",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My radio volume goes nuts and the controls go unresponsive,  The unit brings the volume up to max I can not hear emergency crews if they are using the siren.  This also creates a safety issues as now I am taking my eyes off the road to try and stop the problem.  The infotainment ",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE PURCHASED A NEW TRUCK AND WERE SHOCKED TO SEE THE LACK OF BASIC SAFETY FEATURES. WE ARE HAVING A HARD TIME GETTING IN IT BECAUSE OF A LACK OF STEP BAR AND GRAB HANDLE ON THE DRIVER SIDE. THE EMERGENCY BRAKE PEDAL IS IN THE WRONG SPOT AND TRIPS US. THE CRUISE LIGHT CANNOT BE SE",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Colorado owners report most",
+    "summary": "Across 65 owner complaints to NHTSA, the most reported area is Engine (23% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Colorado. The contact stated while towing a 2020 Forest River ePro 20BHS, the service DEF system malfunctioned, not allowing the contact to view the temperature and the towing controller. The contact stated the check engine warning light was illu",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "15 reports (23%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The brakes went out on the vehicle while my service technician was driving and he barely missed getting in an accident. We had it towed to the Chevy dealer and the brake Pump shattered causing damage to the exhaust clamp and they are telling me it’s not under warranty or recall b",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "12 reports (18%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I stop and try to turn key off it does not turn to off. Have to turn back on and try shifting neutral and back to park. Then try straightened wheel and eventually key will go to off position and take out key. Started few days ago intermittently and now more often. Mileage is",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "10 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My radio volume goes nuts and the controls go unresponsive,  The unit brings the volume up to max I can not hear emergency crews if they are using the siren.  This also creates a safety issues as now I am taking my eyes off the road to try and stop the problem.  The infotainment ",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "10 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE PURCHASED A NEW TRUCK AND WERE SHOCKED TO SEE THE LACK OF BASIC SAFETY FEATURES. WE ARE HAVING A HARD TIME GETTING IN IT BECAUSE OF A LACK OF STEP BAR AND GRAB HANDLE ON THE DRIVER SIDE. THE EMERGENCY BRAKE PEDAL IS IN THE WRONG SPOT AND TRIPS US. THE CRUISE LIGHT CANNOT BE SE",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "9 reports (14%)"
+      }
+    ]
+  }
+}

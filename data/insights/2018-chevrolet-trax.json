@@ -1,0 +1,128 @@
+{
+  "slug": "2018-chevrolet-trax",
+  "make": "Chevrolet",
+  "model": "Trax",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CHEVROLET/TRAX#complaints",
+  "generatedAt": "2026-06-23T16:44:50.271Z",
+  "total": 99,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET TRAX. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT STATED THAT THE ONSTAR SYSTEM INFORMED HER THAT THE VEHICLE HAD A RECALL.  THE CONTACT SPOKE WITH MATTHEW",
+      "pct": 34
+    },
+    {
+      "component": "ENGINE",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I'M AT A STOP AND TRY TO PUSH ON THE GAS IT FEELS LIKE IT'S STALLING OUT, I'VE ALSO HAD PROBLEMS WITH THE RADIO AND TURN SIGNAL, I'VE HAD THE RADIO SCREEN BE COMPLETELY BLACK BUT THE RADIO WAS PLAYING AND ON OTHER TIMES AFTER TAKING IT OUT OF REVERSE AND PUTTING IT IN DRIVE ",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I'M AT A STOP AND TRY TO PUSH ON THE GAS IT FEELS LIKE IT'S STALLING OUT, I'VE ALSO HAD PROBLEMS WITH THE RADIO AND TURN SIGNAL, I'VE HAD THE RADIO SCREEN BE COMPLETELY BLACK BUT THE RADIO WAS PLAYING AND ON OTHER TIMES AFTER TAKING IT OUT OF REVERSE AND PUTTING IT IN DRIVE ",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The non return valve in the  intake either broke or fell off( apparently defective) causing my vehicle’s check engine light to come and causing multiple error codes. As a  result  of this defective part it cause my vehicle to vibrate violently ,the lost of power, and  ultimately ",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car always randomly doesn’t want to speed up. All the lights turn in and constantly tells me service power steering and brakes drive with care. It says something about electrical. I have taken it to Chevy they tell me they don’t know what is wrong with my car. They charged me ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Chevrolet Trax owners report most",
+    "summary": "Across 99 owner complaints to NHTSA, the most reported area is Suspension (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET TRAX. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT STATED THAT THE ONSTAR SYSTEM INFORMED HER THAT THE VEHICLE HAD A RECALL.  THE CONTACT SPOKE WITH MATTHEW",
+        "pct": 34,
+        "title": "Suspension",
+        "blurb": "34 reports (34%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I'M AT A STOP AND TRY TO PUSH ON THE GAS IT FEELS LIKE IT'S STALLING OUT, I'VE ALSO HAD PROBLEMS WITH THE RADIO AND TURN SIGNAL, I'VE HAD THE RADIO SCREEN BE COMPLETELY BLACK BUT THE RADIO WAS PLAYING AND ON OTHER TIMES AFTER TAKING IT OUT OF REVERSE AND PUTTING IT IN DRIVE ",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "27 reports (27%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I'M AT A STOP AND TRY TO PUSH ON THE GAS IT FEELS LIKE IT'S STALLING OUT, I'VE ALSO HAD PROBLEMS WITH THE RADIO AND TURN SIGNAL, I'VE HAD THE RADIO SCREEN BE COMPLETELY BLACK BUT THE RADIO WAS PLAYING AND ON OTHER TIMES AFTER TAKING IT OUT OF REVERSE AND PUTTING IT IN DRIVE ",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "17 reports (17%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The non return valve in the  intake either broke or fell off( apparently defective) causing my vehicle’s check engine light to come and causing multiple error codes. As a  result  of this defective part it cause my vehicle to vibrate violently ,the lost of power, and  ultimately ",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "11 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car always randomly doesn’t want to speed up. All the lights turn in and constantly tells me service power steering and brakes drive with care. It says something about electrical. I have taken it to Chevy they tell me they don’t know what is wrong with my car. They charged me ",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "9 reports (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-ram-promaster",
+  "make": "Ram",
+  "model": "ProMaster",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/RAM/PROMASTER#complaints",
+  "generatedAt": "2026-06-23T16:40:21.472Z",
+  "total": 37,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A RAM PRO 2500 IN APRIL 2018. I START MY BUSINESS AS AN OWNER-OPERATOR AND STARTED DRIVING ON HIGHWAYS (INTERSTATE DELIVERY). AFTER 2 WEEKS, THE NAVIGATION, LIGHT AND SOMETIMES BEHIND THE STRAIGHT WHEEL DASHBOARD SCREEN STARTED TO TURN OFF (WHILE I WAS DRIVING AND USING ",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "POOR SEAL AT WINDSHIELD ALLOWING WATER TO ENTER INTO ENGINE BAY AND ELECTRICAL.  ENGINE DIES OUT WHEN DRIVING WHILE RAINING, HEADLIGHTS BLOW AND NEED TO BE REPLACED. ELECTRICAL PROBLEMS SINCE WATER IS ALWAYS GETTING INTO ENGINE BAY. DEALER SAYS ITS COMMON AND IS NOTHING THEY CAN ",
+      "pct": 30
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 RAM PROMASTER. WHEN THE VEHICLE WAS STARTED AND SHIFTED INTO DRIVE, THE GEAR DOWNSHIFTED WITHOUT WARNING. ALSO, THE CHECK ENGINE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE DEALER AND MANUFACTURER WERE NOT MADE AWARE O",
+      "pct": 19
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE ARE TWO VISIBILITY ISSUES THAT CREATE A SAFETY HAZARD.  FIRST, THE WINDSHIELD DOES NOT EXTEND HIGH ENOUGH TO GIVE A SUFFICIENT VIEW OF THE ROAD.  A DRIVER OF AVERAGE HEIGHT  HAS TO BEND FORWARD SEE THE WHOLE ROAD.  OVERHEAD TRAFFIC LIGHTS ARE IMPOSSIBLE TO SEE WHEN SITTING ",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During some cases of downhill driving, the Brake system warning light will come on.  I believe this issue is tied to a combination of longer and steeper downhill drives when the angle indicated in road side sinage is no less than 6%.  Minimal braking ton control the decent is use",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ram Promaster owners report most",
+    "summary": "Across 37 owner complaints to NHTSA, the most reported area is Electrical System (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A RAM PRO 2500 IN APRIL 2018. I START MY BUSINESS AS AN OWNER-OPERATOR AND STARTED DRIVING ON HIGHWAYS (INTERSTATE DELIVERY). AFTER 2 WEEKS, THE NAVIGATION, LIGHT AND SOMETIMES BEHIND THE STRAIGHT WHEEL DASHBOARD SCREEN STARTED TO TURN OFF (WHILE I WAS DRIVING AND USING ",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "11 reports (30%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "POOR SEAL AT WINDSHIELD ALLOWING WATER TO ENTER INTO ENGINE BAY AND ELECTRICAL.  ENGINE DIES OUT WHEN DRIVING WHILE RAINING, HEADLIGHTS BLOW AND NEED TO BE REPLACED. ELECTRICAL PROBLEMS SINCE WATER IS ALWAYS GETTING INTO ENGINE BAY. DEALER SAYS ITS COMMON AND IS NOTHING THEY CAN ",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "11 reports (30%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 RAM PROMASTER. WHEN THE VEHICLE WAS STARTED AND SHIFTED INTO DRIVE, THE GEAR DOWNSHIFTED WITHOUT WARNING. ALSO, THE CHECK ENGINE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE DEALER AND MANUFACTURER WERE NOT MADE AWARE O",
+        "pct": 19,
+        "title": "Power Train",
+        "blurb": "7 reports (19%) · 2 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE ARE TWO VISIBILITY ISSUES THAT CREATE A SAFETY HAZARD.  FIRST, THE WINDSHIELD DOES NOT EXTEND HIGH ENOUGH TO GIVE A SUFFICIENT VIEW OF THE ROAD.  A DRIVER OF AVERAGE HEIGHT  HAS TO BEND FORWARD SEE THE WHOLE ROAD.  OVERHEAD TRAFFIC LIGHTS ARE IMPOSSIBLE TO SEE WHEN SITTING ",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "4 reports (11%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During some cases of downhill driving, the Brake system warning light will come on.  I believe this issue is tied to a combination of longer and steeper downhill drives when the angle indicated in road side sinage is no less than 6%.  Minimal braking ton control the decent is use",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "3 reports (8%)"
+      }
+    ]
+  }
+}

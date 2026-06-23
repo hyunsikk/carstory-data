@@ -1,0 +1,128 @@
+{
+  "slug": "2023-cadillac-xt6",
+  "make": "Cadillac",
+  "model": "XT6",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CADILLAC/XT6#complaints",
+  "generatedAt": "2026-06-23T16:27:56.436Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the car was put in Reverse Gear, the car was still moving forward and not moving backwards. I tried it multiple times, but it was still moving forward.   There was a car in front of my car and since the car was expected to go backwards,  this issue put the safety at risk as ",
+      "pct": 31
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a Cadillac 2023 XT6  When I put the car in reverse in the daytime the Back up camera display works fine. If it is at night,Raining, or during any hours of the day like in a garage the display dims .It is hard to see a person behind you or any poles. When shifting into Reve",
+      "pct": 15
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear camera is not working properly. Rear camera is necessary for the driver to help prevent hitting unseen subject behind the car. Let say if there is a 2 years old kid playing in the back of my car, I wouldn't see the kid.    I brought the car to the dealership for the 3rd ",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has experienced repeated fuel system failures. The fuel pump control module (FPCM) is a known General Motors issue on similar vehicles, but this specific vehicle was not included in a recall.  The vehicle now displays diagnostic trouble code P2635 – Fuel Pump Flow Per",
+      "pct": 8
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "i WAS INFORMED DURING A DEALER OIL CHANGE THAT THE TOE LINKS ON THE REAR WHEELS NEEDED TO BE REPLACED.  WHY IS THIS NOT COVERED UNDER THE BUMPER TO BUMPER WARRANTY?",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Cadillac Xt6 owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Power Train (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the car was put in Reverse Gear, the car was still moving forward and not moving backwards. I tried it multiple times, but it was still moving forward.   There was a car in front of my car and since the car was expected to go backwards,  this issue put the safety at risk as ",
+        "pct": 31,
+        "title": "Power Train",
+        "blurb": "4 reports (31%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a Cadillac 2023 XT6  When I put the car in reverse in the daytime the Back up camera display works fine. If it is at night,Raining, or during any hours of the day like in a garage the display dims .It is hard to see a person behind you or any poles. When shifting into Reve",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear camera is not working properly. Rear camera is necessary for the driver to help prevent hitting unseen subject behind the car. Let say if there is a 2 years old kid playing in the back of my car, I wouldn't see the kid.    I brought the car to the dealership for the 3rd ",
+        "pct": 15,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (15%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has experienced repeated fuel system failures. The fuel pump control module (FPCM) is a known General Motors issue on similar vehicles, but this specific vehicle was not included in a recall.  The vehicle now displays diagnostic trouble code P2635 – Fuel Pump Flow Per",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "i WAS INFORMED DURING A DEALER OIL CHANGE THAT THE TOE LINKS ON THE REAR WHEELS NEEDED TO BE REPLACED.  WHY IS THIS NOT COVERED UNDER THE BUMPER TO BUMPER WARRANTY?",
+        "pct": 8,
+        "title": "Suspension",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

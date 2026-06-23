@@ -1,0 +1,84 @@
+{
+  "slug": "2017-bmw-m2",
+  "make": "BMW",
+  "model": "M2",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/M2#complaints",
+  "generatedAt": "2026-06-23T16:43:52.102Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE BACKLIGHTING FOR THE TACHOMETER AND SPEEDOMETER BECOMES COMPLETELY UNREADABLE UNDER SOFT DAYLIGHT SITUATIONS. AN EXAMPLE OF THIS WOULD BE DRIVING THROUGH A WOODED AREA IN FULL DAYLIGHT.    IT APPEARS THAT THIS ISSUE IS CREATED BE TWO ISSUES. FIRST, THE COLOR OF THE BACKGROUND",
+      "pct": 88
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The charge pipe, connecting the cold side of the intercooler to the throttle body failed without warning. The failure point was the clamping point to secure the pipe to the throttle body. This vehicle has no powertrain modifications.   The failure happened all of a sudden and as ",
+      "pct": 6
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BACKLIGHTING ON INSTRUMENT CLUSTER GAUGES DOES NOT MEET SUFFICIENT CONTRAST REQUIREMENTS. IT'S EVEN WORSE WHEN DRIVING THROUGH SHADED AREAS. TACHOMETER AND SPEEDOMETER APPEAR COMPLETELY DARK AND UNREADABLE. THIS COULD BE AN ACCESSIBILITY ISSUE WHERE CERTAIN DRIVERS COULD HAVE DIF",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw M2 owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Exterior Lighting (88% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE BACKLIGHTING FOR THE TACHOMETER AND SPEEDOMETER BECOMES COMPLETELY UNREADABLE UNDER SOFT DAYLIGHT SITUATIONS. AN EXAMPLE OF THIS WOULD BE DRIVING THROUGH A WOODED AREA IN FULL DAYLIGHT.    IT APPEARS THAT THIS ISSUE IS CREATED BE TWO ISSUES. FIRST, THE COLOR OF THE BACKGROUND",
+        "pct": 88,
+        "title": "Exterior Lighting",
+        "blurb": "15 reports (88%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The charge pipe, connecting the cold side of the intercooler to the throttle body failed without warning. The failure point was the clamping point to secure the pipe to the throttle body. This vehicle has no powertrain modifications.   The failure happened all of a sudden and as ",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BACKLIGHTING ON INSTRUMENT CLUSTER GAUGES DOES NOT MEET SUFFICIENT CONTRAST REQUIREMENTS. IT'S EVEN WORSE WHEN DRIVING THROUGH SHADED AREAS. TACHOMETER AND SPEEDOMETER APPEAR COMPLETELY DARK AND UNREADABLE. THIS COULD BE AN ACCESSIBILITY ISSUE WHERE CERTAIN DRIVERS COULD HAVE DIF",
+        "pct": 6,
+        "title": "Electrical System",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

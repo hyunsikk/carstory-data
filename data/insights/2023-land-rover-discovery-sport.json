@@ -1,0 +1,128 @@
+{
+  "slug": "2023-land-rover-discovery-sport",
+  "make": "Land Rover",
+  "model": "Discovery Sport",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LAND%20ROVER/DISCOVERY%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:07.551Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Roof molding detached from driver's side of 2023 Land Rover Discovery Sport, upon arriving at home checked the passenger side and it came off without excerpting any force. Subsequent check on search engines indicate this may be a common occurrence in recent model Land Rover SUVs.",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While stopped in traffic with the vehicle’s automatic engine start-stop feature engaged, the vehicle failed to respond when the accelerator was pressed. The engine had shut off normally due to the start-stop system, but when attempting to move again, the vehicle did not accelerat",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While stopped in traffic with the vehicle’s automatic engine start-stop feature engaged, the vehicle failed to respond when the accelerator was pressed. The engine had shut off normally due to the start-stop system, but when attempting to move again, the vehicle did not accelerat",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Land Rover Discovery Sport. The contact stated while driving at an undisclosed speed, the brake pedal was depressed, and the vehicle was shaking erratically. The vehicle was taken to the dealer where it was diagnosed with cracked brake pads. The contact wa",
+      "pct": 33
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Land Rover Discovery Sport. The contact stated while driving at an undisclosed speed, the brake pedal was depressed, and the vehicle was shaking erratically. The vehicle was taken to the dealer where it was diagnosed with cracked brake pads. The contact wa",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Land Rover Discovery Sport owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Structure (33% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Roof molding detached from driver's side of 2023 Land Rover Discovery Sport, upon arriving at home checked the passenger side and it came off without excerpting any force. Subsequent check on search engines indicate this may be a common occurrence in recent model Land Rover SUVs.",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While stopped in traffic with the vehicle’s automatic engine start-stop feature engaged, the vehicle failed to respond when the accelerator was pressed. The engine had shut off normally due to the start-stop system, but when attempting to move again, the vehicle did not accelerat",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While stopped in traffic with the vehicle’s automatic engine start-stop feature engaged, the vehicle failed to respond when the accelerator was pressed. The engine had shut off normally due to the start-stop system, but when attempting to move again, the vehicle did not accelerat",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Land Rover Discovery Sport. The contact stated while driving at an undisclosed speed, the brake pedal was depressed, and the vehicle was shaking erratically. The vehicle was taken to the dealer where it was diagnosed with cracked brake pads. The contact wa",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Land Rover Discovery Sport. The contact stated while driving at an undisclosed speed, the brake pedal was depressed, and the vehicle was shaking erratically. The vehicle was taken to the dealer where it was diagnosed with cracked brake pads. The contact wa",
+        "pct": 33,
+        "title": "Hydraulic",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

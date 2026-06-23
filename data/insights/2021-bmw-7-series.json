@@ -1,0 +1,106 @@
+{
+  "slug": "2021-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:35.877Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW 750I. The contact stated that upon start the vehicle, the low tire pressure warning light illuminated. The contact initially took the vehicle to the dealer and an independent mechanic however, the cause of the failure was not determined. The failure pe",
+      "pct": 67
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a vehicle from Ed morse Cadillac on 12/31/2025. I find out in April that the vehicle was sold with undercarriage damages listed in Carfax. The dealership, never disclosed anything, did not show me the reports, and i did not sign anything to accept the damages. They do",
+      "pct": 33
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing this complaint regarding an ongoing safety issue with my 2021 BMW 740i involving the lane departure warning system, lane keep assist, and adaptive cruise control, all of which have stopped functioning properly. These features are critically tied to the windshield-moun",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing this complaint regarding an ongoing safety issue with my 2021 BMW 740i involving the lane departure warning system, lane keep assist, and adaptive cruise control, all of which have stopped functioning properly. These features are critically tied to the windshield-moun",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw 7 Series owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Wheels (67% of reports).",
+    "issues": [
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW 750I. The contact stated that upon start the vehicle, the low tire pressure warning light illuminated. The contact initially took the vehicle to the dealer and an independent mechanic however, the cause of the failure was not determined. The failure pe",
+        "pct": 67,
+        "title": "Wheels",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a vehicle from Ed morse Cadillac on 12/31/2025. I find out in April that the vehicle was sold with undercarriage damages listed in Carfax. The dealership, never disclosed anything, did not show me the reports, and i did not sign anything to accept the damages. They do",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing this complaint regarding an ongoing safety issue with my 2021 BMW 740i involving the lane departure warning system, lane keep assist, and adaptive cruise control, all of which have stopped functioning properly. These features are critically tied to the windshield-moun",
+        "pct": 33,
+        "title": "Lane Departure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing this complaint regarding an ongoing safety issue with my 2021 BMW 740i involving the lane departure warning system, lane keep assist, and adaptive cruise control, all of which have stopped functioning properly. These features are critically tied to the windshield-moun",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

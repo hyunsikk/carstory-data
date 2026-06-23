@@ -1,0 +1,128 @@
+{
+  "slug": "2014-hyundai-elantra",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/HYUNDAI/ELANTRA#complaints",
+  "generatedAt": "2026-06-23T16:33:15.788Z",
+  "total": 380,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 162,
+      "crash": 8,
+      "fire": 10,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "I WAS ON A HIGHWAY DRIVING THE VEHICLE (A 2014 HYUNDAI ELANTRA)  AT HIGHWAY SPEED WHEN IT INEXPLICABLY \"STALLED\" FOR LACK OF A BETTER TERM.  I QUICKLY LOST SPEED AND COULD NOT ACCELERATE DESPITE THE FACT THAT I WAS PRESSING THE GAS PEDAL ALL THE WAY TO THE FLOOR AT ONE POINT.  TH",
+      "pct": 43
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 86,
+      "crash": 13,
+      "fire": 3,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY 2014 HYUNDAI ELANTRA (THAT I HAD ONLY HAD FOR 3 MONTHS, HAD 1,500 MILES ON THE CAR) HOME FROM THE AIRPORT, HAD MY CRUISE CONTROL SET ON 55 FOR THE PREVIOUS 30 MINUTES, AND I NOTICED THE CAR IN FRONT OF ME WAS BRAKING. NATURALLY, I PRESSED THE BRAKE AS WELL TO SLO",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 46,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "HYUNDAI ELANTRA 2014 :  RADIO COMES ON BY ITSELF (MANY INSTANCES); PORTS FOR USE OF ELECTRONICS INTERMITTENTLY WORK (OFF AND ON); CAR WILL NOT START UNLESS I KEEP ON BRAKING AND TURNING THE WHEEL (4-5 TIMES); CAR STARTED BUT WAS UNABLE TO PUT IN GEAR -- LOCKED IN PARK.  I SHUT TH",
+      "pct": 12
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 44,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Hyundai Elantra. The contact became aware that the brake taillights would not turn off as needed which caused the battery power to be drained. The vehicle was not diagnosed. The contact researched online and became aware of NHTSA Campaign Number: 17V769000",
+      "pct": 12
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 32,
+      "crash": 15,
+      "fire": 0,
+      "injuries": 17,
+      "deaths": 0,
+      "sample": "I AM THE OWNER OF A 2014 WHITE HYUNDAI ELANTRA, AT PRESENT THE ODOMETER IS READING 6,800 MILES. ON TUESDAY, DECEMBER 9TH, AT APPROXIMATELY 5:25 P.M. WHILE DRIVING MY 2014 HYUNDAI ELANTRA AT A SLOW SPEED (APPROXIMATELY 10-15 MPH) IN A SHOPPING CENTER PARKING LOT LOCATED AT 10100 W",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Hyundai Elantra owners report most",
+    "summary": "Across 380 owner complaints to NHTSA, the most reported area is Engine (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 162,
+        "crash": 8,
+        "fire": 10,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "I WAS ON A HIGHWAY DRIVING THE VEHICLE (A 2014 HYUNDAI ELANTRA)  AT HIGHWAY SPEED WHEN IT INEXPLICABLY \"STALLED\" FOR LACK OF A BETTER TERM.  I QUICKLY LOST SPEED AND COULD NOT ACCELERATE DESPITE THE FACT THAT I WAS PRESSING THE GAS PEDAL ALL THE WAY TO THE FLOOR AT ONE POINT.  TH",
+        "pct": 43,
+        "title": "Engine",
+        "blurb": "162 reports (43%) · 10 fire · 8 crash · 9 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 86,
+        "crash": 13,
+        "fire": 3,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY 2014 HYUNDAI ELANTRA (THAT I HAD ONLY HAD FOR 3 MONTHS, HAD 1,500 MILES ON THE CAR) HOME FROM THE AIRPORT, HAD MY CRUISE CONTROL SET ON 55 FOR THE PREVIOUS 30 MINUTES, AND I NOTICED THE CAR IN FRONT OF ME WAS BRAKING. NATURALLY, I PRESSED THE BRAKE AS WELL TO SLO",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "86 reports (23%) · 3 fire · 13 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 46,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "HYUNDAI ELANTRA 2014 :  RADIO COMES ON BY ITSELF (MANY INSTANCES); PORTS FOR USE OF ELECTRONICS INTERMITTENTLY WORK (OFF AND ON); CAR WILL NOT START UNLESS I KEEP ON BRAKING AND TURNING THE WHEEL (4-5 TIMES); CAR STARTED BUT WAS UNABLE TO PUT IN GEAR -- LOCKED IN PARK.  I SHUT TH",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "46 reports (12%) · 4 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 44,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Hyundai Elantra. The contact became aware that the brake taillights would not turn off as needed which caused the battery power to be drained. The vehicle was not diagnosed. The contact researched online and became aware of NHTSA Campaign Number: 17V769000",
+        "pct": 12,
+        "title": "Hydraulic",
+        "blurb": "44 reports (12%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 32,
+        "crash": 15,
+        "fire": 0,
+        "injuries": 17,
+        "deaths": 0,
+        "sample": "I AM THE OWNER OF A 2014 WHITE HYUNDAI ELANTRA, AT PRESENT THE ODOMETER IS READING 6,800 MILES. ON TUESDAY, DECEMBER 9TH, AT APPROXIMATELY 5:25 P.M. WHILE DRIVING MY 2014 HYUNDAI ELANTRA AT A SLOW SPEED (APPROXIMATELY 10-15 MPH) IN A SHOPPING CENTER PARKING LOT LOCATED AT 10100 W",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "32 reports (8%) · 15 crash · 17 injured"
+      }
+    ]
+  }
+}

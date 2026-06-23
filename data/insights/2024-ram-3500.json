@@ -1,0 +1,128 @@
+{
+  "slug": "2024-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:19.554Z",
+  "total": 36,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Truck wiring harness is rubbing against the front driver's side body mount, this is a known issue on these trucks, and causes the wiring harness to start rubbing, causing electrical failures, and may cause accidents. Others have stated this occurred to their truck before it reach",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Truck was parked on 5% slope, and transmission shifted into park, and parking brake set. Transmission then made a popping noise, and shifted into reverse, and vehicle started moving backwards. Parking brake failed to hold vehicle.  Applied brakes, and shifted into park again, and",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle displayed warnings:  Service Antilock Brakes Service Electronic Stability Control Service Trailer Brake System  The truck has only 4,650 miles on it. When this happens, the above systems do not work along with the 4 wheel drive system.  When towing a heavy trailer, the lo",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 RAM 3500. The contact stated that after starting the vehicle and idling on the driveway, it caught on fire in the engine compartment. The vehicle was engulfed in flames. The fire department arrived and extinguished the fire. The origin of the fire was unk",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "While traveling down a hill, about 40mph, applied brakes to stop at a T intersection, truck wasn’t slowing down. Engaged engine brake, truck wasn’t slowing. Slammed brake pedal to the floor, ABS did not engage, no vibrations, wheels didn’t lock up, held for 2-3 seconds then start",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Ram 3500 owners report most",
+    "summary": "Across 36 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Truck wiring harness is rubbing against the front driver's side body mount, this is a known issue on these trucks, and causes the wiring harness to start rubbing, causing electrical failures, and may cause accidents. Others have stated this occurred to their truck before it reach",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "9 reports (25%) · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Truck was parked on 5% slope, and transmission shifted into park, and parking brake set. Transmission then made a popping noise, and shifted into reverse, and vehicle started moving backwards. Parking brake failed to hold vehicle.  Applied brakes, and shifted into park again, and",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "9 reports (25%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle displayed warnings:  Service Antilock Brakes Service Electronic Stability Control Service Trailer Brake System  The truck has only 4,650 miles on it. When this happens, the above systems do not work along with the 4 wheel drive system.  When towing a heavy trailer, the lo",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "6 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 RAM 3500. The contact stated that after starting the vehicle and idling on the driveway, it caught on fire in the engine compartment. The vehicle was engulfed in flames. The fire department arrived and extinguished the fire. The origin of the fire was unk",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "5 reports (14%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "While traveling down a hill, about 40mph, applied brakes to stop at a T intersection, truck wasn’t slowing down. Engaged engine brake, truck wasn’t slowing. Slammed brake pedal to the floor, ABS did not engage, no vibrations, wheels didn’t lock up, held for 2-3 seconds then start",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "4 reports (11%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

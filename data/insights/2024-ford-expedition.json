@@ -1,0 +1,128 @@
+{
+  "slug": "2024-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-06-23T16:29:59.484Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Malfunction: powered running board on the passenger side of vehicle while vehicle was in park with door open and engine running.  It closed while my hisband was resting his right foot on it and  then it opened and closed and his foot and lower ankle was getting crushed. I had to ",
+      "pct": 21
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "While using the adaptive cruise control, the speed of the vehicle rapids accelerates.  If set to any speed less than 50, the vehicle speeds up to 56mph.  If set to any speed greater than 56 but less than 86 mph, the speed of the vehicle accelerates to 86 mph.   I have tested this",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Two issues with a brand new vehicle that is in the service department and they are unable to diagnose the issue. The major concern is regarding the braking system. While in a parking lot driving slowly (5-10 mph) the brakes suddenly locked up and the vehicle came to a complete st",
+      "pct": 14
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Passenger sideview mirror does not open upon unlocking and starting the vehicle. I need to stop (if started driving) turn to park, turn off car, open driver's door to signal car that I have left, lock car using remote, wait few seconds and then unlock to reset car then it usually",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact rented a 2024 Ford Expedition. The contact stated that while driving 60 MPH with the Adaptive Cruise Control activated, upon passing a speed limit sign the vehicle independently accelerated to 80 MPH. The vehicle returned to normal functionality, but the failure becam",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Ford Expedition owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Malfunction: powered running board on the passenger side of vehicle while vehicle was in park with door open and engine running.  It closed while my hisband was resting his right foot on it and  then it opened and closed and his foot and lower ankle was getting crushed. I had to ",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "14 reports (21%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "While using the adaptive cruise control, the speed of the vehicle rapids accelerates.  If set to any speed less than 50, the vehicle speeds up to 56mph.  If set to any speed greater than 56 but less than 86 mph, the speed of the vehicle accelerates to 86 mph.   I have tested this",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (15%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Two issues with a brand new vehicle that is in the service department and they are unable to diagnose the issue. The major concern is regarding the braking system. While in a parking lot driving slowly (5-10 mph) the brakes suddenly locked up and the vehicle came to a complete st",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "9 reports (14%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Passenger sideview mirror does not open upon unlocking and starting the vehicle. I need to stop (if started driving) turn to park, turn off car, open driver's door to signal car that I have left, lock car using remote, wait few seconds and then unlock to reset car then it usually",
+        "pct": 12,
+        "title": "Lane Departure",
+        "blurb": "8 reports (12%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact rented a 2024 Ford Expedition. The contact stated that while driving 60 MPH with the Adaptive Cruise Control activated, upon passing a speed limit sign the vehicle independently accelerated to 80 MPH. The vehicle returned to normal functionality, but the failure becam",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "8 reports (12%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

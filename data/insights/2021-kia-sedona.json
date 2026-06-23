@@ -1,0 +1,128 @@
+{
+  "slug": "2021-kia-sedona",
+  "make": "Kia",
+  "model": "Sedona",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/KIA/SEDONA#complaints",
+  "generatedAt": "2026-06-23T16:36:43.127Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine started knocking while I was on [XXX] between mile marker [XXX] and [XXX]. This area is under construction with no shoulders to access and pull over. A shutdown in this situation would surely cause a multi-car accident. There were no warning lamps. Car was towed to Anc",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DATE OF INCIDENT:  22 APR 2021, THURSDAY  DESCRIPTION OF INCIDENT:  WHILE DRIVING ON CRUISE CONTROL AT 45 MPH ON A WELL-PAVED TWO-LANE ROAD WITH NO OTHER VEHICLES OR OBSTACLES PRESENT IN EITHER LANE, THE VEHICLE SUDDENLY AUTOMATICALLY DECELERATED SHARPLY, CAUSING THE FRONT END TO",
+      "pct": 25
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Kia Sedona equipped with Kumho Tires, Tire Line: Crugen, Tire Size :235/65/R17, DOT Number: (N/A). The contact stated that while driving 80 MPH, there was an abnormal vibration coming from the tires. The vehicle was taken to an independent mechanic to be d",
+      "pct": 25
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "For starters, my lights go out every six months on queue. Cannot find a reason why. My car sputters or shutters when accelerating. I heard other Kia models have recalls due to the same thing. I have had my car in the shop multiple times and no one can figure out why it is doing i",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine started knocking while I was on [XXX] between mile marker [XXX] and [XXX]. This area is under construction with no shoulders to access and pull over. A shutdown in this situation would surely cause a multi-car accident. There were no warning lamps. Car was towed to Anc",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Kia Sedona owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine started knocking while I was on [XXX] between mile marker [XXX] and [XXX]. This area is under construction with no shoulders to access and pull over. A shutdown in this situation would surely cause a multi-car accident. There were no warning lamps. Car was towed to Anc",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DATE OF INCIDENT:  22 APR 2021, THURSDAY  DESCRIPTION OF INCIDENT:  WHILE DRIVING ON CRUISE CONTROL AT 45 MPH ON A WELL-PAVED TWO-LANE ROAD WITH NO OTHER VEHICLES OR OBSTACLES PRESENT IN EITHER LANE, THE VEHICLE SUDDENLY AUTOMATICALLY DECELERATED SHARPLY, CAUSING THE FRONT END TO",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Kia Sedona equipped with Kumho Tires, Tire Line: Crugen, Tire Size :235/65/R17, DOT Number: (N/A). The contact stated that while driving 80 MPH, there was an abnormal vibration coming from the tires. The vehicle was taken to an independent mechanic to be d",
+        "pct": 25,
+        "title": "Tires",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "For starters, my lights go out every six months on queue. Cannot find a reason why. My car sputters or shutters when accelerating. I heard other Kia models have recalls due to the same thing. I have had my car in the shop multiple times and no one can figure out why it is doing i",
+        "pct": 13,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine started knocking while I was on [XXX] between mile marker [XXX] and [XXX]. This area is under construction with no shoulders to access and pull over. A shutdown in this situation would surely cause a multi-car accident. There were no warning lamps. Car was towed to Anc",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

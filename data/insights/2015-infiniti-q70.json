@@ -1,0 +1,128 @@
+{
+  "slug": "2015-infiniti-q70",
+  "make": "Infiniti",
+  "model": "Q70",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/INFINITI/Q70#complaints",
+  "generatedAt": "2026-06-23T16:34:42.990Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS CAR VIBRATES WHEN TRAVELING AT SPEEDS OF 40MPH AND 65MPH. SIGNIFICANT VIBRATION CAN BE FELT IN THE CENTER CONSOLE AND ARMREST. MY CAR HAS A ESPECIALLY SEVERE VIBRATION AROUND 40 MPH WHEN DRIVING UP A HILL AND THE TRANSMISSION IS SET TO ECO MODE.   VIBRATION CAN BE FELT IN TH",
+      "pct": 40
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 INFINITI Q70. WHILE OPERATING THE VEHICLE IN THE DRIVEWAY, IT SURGED FORWARD AND CRASHED INTO THE PARKING BARRIER IN THE NEIGHBOR'S YARD. THE FAILURE OCCURRED WITHOUT WARNING  THE FAILURE OCCURRED TWICE. A POLICE REPORT WAS NOT FILED. THE VEHICLE WAS T",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Driver side airbag deployed as I was turning the corner leaving me with no visual of pedestrians. The deployment resulted in lacerations on my forearm and a knot on my head with a busted lip. My vehicle is technically not drivable because my seatbelts are locked. I am also afraid",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During highway driving on May of 2022, the vehicle displayed an Intelligent Key Not Detected error while driving on cruise control. The accelerator was no longer responsive as the vehicle  decelerated. The warning lights, infotainment center and A/C were still operational. Vehicl",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During highway driving on May of 2022, the vehicle displayed an Intelligent Key Not Detected error while driving on cruise control. The accelerator was no longer responsive as the vehicle  decelerated. The warning lights, infotainment center and A/C were still operational. Vehicl",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Infiniti Q70 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS CAR VIBRATES WHEN TRAVELING AT SPEEDS OF 40MPH AND 65MPH. SIGNIFICANT VIBRATION CAN BE FELT IN THE CENTER CONSOLE AND ARMREST. MY CAR HAS A ESPECIALLY SEVERE VIBRATION AROUND 40 MPH WHEN DRIVING UP A HILL AND THE TRANSMISSION IS SET TO ECO MODE.   VIBRATION CAN BE FELT IN TH",
+        "pct": 40,
+        "title": "Power Train",
+        "blurb": "4 reports (40%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 INFINITI Q70. WHILE OPERATING THE VEHICLE IN THE DRIVEWAY, IT SURGED FORWARD AND CRASHED INTO THE PARKING BARRIER IN THE NEIGHBOR'S YARD. THE FAILURE OCCURRED WITHOUT WARNING  THE FAILURE OCCURRED TWICE. A POLICE REPORT WAS NOT FILED. THE VEHICLE WAS T",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (20%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Driver side airbag deployed as I was turning the corner leaving me with no visual of pedestrians. The deployment resulted in lacerations on my forearm and a knot on my head with a busted lip. My vehicle is technically not drivable because my seatbelts are locked. I am also afraid",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "1 report (10%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During highway driving on May of 2022, the vehicle displayed an Intelligent Key Not Detected error while driving on cruise control. The accelerator was no longer responsive as the vehicle  decelerated. The warning lights, infotainment center and A/C were still operational. Vehicl",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During highway driving on May of 2022, the vehicle displayed an Intelligent Key Not Detected error while driving on cruise control. The accelerator was no longer responsive as the vehicle  decelerated. The warning lights, infotainment center and A/C were still operational. Vehicl",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

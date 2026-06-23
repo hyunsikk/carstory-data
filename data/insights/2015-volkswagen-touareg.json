@@ -1,0 +1,128 @@
+{
+  "slug": "2015-volkswagen-touareg",
+  "make": "Volkswagen",
+  "model": "Touareg",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/VOLKSWAGEN/TOUAREG#complaints",
+  "generatedAt": "2026-06-23T16:42:12.952Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LARGE AMOUNT OF WATER ENTERING THE INTAKE, AFFECTING THE PEFORMANCE OF THE VEHICLE. THE WATER IS INSUFFICIENTLY DRAINING FROM THE INTAKE BOX. THE AIR FILTER DEGRADES AS A RESULT. MAY LEAD TO POSSIBLE HYDROLOCKING OF THE ENGINE. THERE ARE ACTIVE RECALLS FOR THIS ISSUE FOR THIS VEH",
+      "pct": 58
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Question 1: What component or system failed or malfunctioned, and is it available for inspection upon request?  Answer 1: Collision Avoidance Camera. The camera can be removed from the vehicle and shipped  for inspection.  Question 2: How was your safety or the safety of others p",
+      "pct": 17
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Driver Assistance System (Adaptive Cruise Control, Front Collision Avoidance, AEB, and Lane Departure/Lane Keeping system) all do not work.  The VW dealers have said the Front Collision Avoidance Camera is not working.    The system was intermittently working, then stopped wo",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER VW EMISSION REPAIR THE CAR STALLS IN SHIFTING GEARS AT LOW SPEED. I TOOK AT THE DEALERSHIP REPAIR SHOP 3 TIMES EVERYTIME THE KEPT THE CAR FOR ABOUT 2-3 WEEKS AND COULDN'T RESOLVE THE ISSUE.   IT APPEARS LIKE THERE IS NO FUEL COMING TO THE ENGINE OR THE CAR COMPUTER DO NOT A",
+      "pct": 8
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 VOLKSWAGEN TOUAREG EQUIPPED WITH PIRELLI SCORPION VERDE TIRES, SIZE 265/50/R19. WHILE DRIVING VARIOUS SPEEDS, THE CONTACT OBSERVED AN ABNORMAL NOISE COMING FROM THE FRONT TIRES. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE TIRES WE",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Volkswagen Touareg owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Engine (58% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LARGE AMOUNT OF WATER ENTERING THE INTAKE, AFFECTING THE PEFORMANCE OF THE VEHICLE. THE WATER IS INSUFFICIENTLY DRAINING FROM THE INTAKE BOX. THE AIR FILTER DEGRADES AS A RESULT. MAY LEAD TO POSSIBLE HYDROLOCKING OF THE ENGINE. THERE ARE ACTIVE RECALLS FOR THIS ISSUE FOR THIS VEH",
+        "pct": 58,
+        "title": "Engine",
+        "blurb": "14 reports (58%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Question 1: What component or system failed or malfunctioned, and is it available for inspection upon request?  Answer 1: Collision Avoidance Camera. The camera can be removed from the vehicle and shipped  for inspection.  Question 2: How was your safety or the safety of others p",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Driver Assistance System (Adaptive Cruise Control, Front Collision Avoidance, AEB, and Lane Departure/Lane Keeping system) all do not work.  The VW dealers have said the Front Collision Avoidance Camera is not working.    The system was intermittently working, then stopped wo",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER VW EMISSION REPAIR THE CAR STALLS IN SHIFTING GEARS AT LOW SPEED. I TOOK AT THE DEALERSHIP REPAIR SHOP 3 TIMES EVERYTIME THE KEPT THE CAR FOR ABOUT 2-3 WEEKS AND COULDN'T RESOLVE THE ISSUE.   IT APPEARS LIKE THERE IS NO FUEL COMING TO THE ENGINE OR THE CAR COMPUTER DO NOT A",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 VOLKSWAGEN TOUAREG EQUIPPED WITH PIRELLI SCORPION VERDE TIRES, SIZE 265/50/R19. WHILE DRIVING VARIOUS SPEEDS, THE CONTACT OBSERVED AN ABNORMAL NOISE COMING FROM THE FRONT TIRES. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE TIRES WE",
+        "pct": 8,
+        "title": "Tires",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

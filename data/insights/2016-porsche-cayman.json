@@ -1,0 +1,128 @@
+{
+  "slug": "2016-porsche-cayman",
+  "make": "Porsche",
+  "model": "Cayman",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/PORSCHE/CAYMAN#complaints",
+  "generatedAt": "2026-06-23T16:39:47.493Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2016 PORSCHE CAYMAN HAS AN ERROR CODE 'C11005 ? AIRBAG TRIGGERING UNIT, FAULTY' AND THE AIRBAG LIGHT IS ILLUMINATED BUT THIS VIN WAS NOT INCLUDED IN PORSCHE'S RECALL (AKB4) CONCERNING THIS ISSUE. PORSCHE HAS NOT CORRECTLY IDENTIFIED THE RECALL POPULATION OF 2016 PORSCHE CAYMAN CA",
+      "pct": 43
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2016 PORSCHE CAYMAN HAS AN ERROR CODE 'C11005 ? AIRBAG TRIGGERING UNIT, FAULTY' AND THE AIRBAG LIGHT IS ILLUMINATED BUT THIS VIN WAS NOT INCLUDED IN PORSCHE'S RECALL (AKB4) CONCERNING THIS ISSUE. PORSCHE HAS NOT CORRECTLY IDENTIFIED THE RECALL POPULATION OF 2016 PORSCHE CAYMAN CA",
+      "pct": 29
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Tail lamps are prone to hairline cracks difficult to see, when driven in rain or car wash tail lamp floods and causes electrical system to short circuit resulting in death or accident in inclement weather due to low visibility.",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine stalls when stopped if not in sport mode. Electronic gauge display for oil level is confusing and shows low oil level in green, causing the user to add oil when it is full. Steering rubs and knocks when turning.",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine stalls when stopped if not in sport mode. Electronic gauge display for oil level is confusing and shows low oil level in green, causing the user to add oil when it is full. Steering rubs and knocks when turning.",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Porsche Cayman owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Air Bags (43% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2016 PORSCHE CAYMAN HAS AN ERROR CODE 'C11005 ? AIRBAG TRIGGERING UNIT, FAULTY' AND THE AIRBAG LIGHT IS ILLUMINATED BUT THIS VIN WAS NOT INCLUDED IN PORSCHE'S RECALL (AKB4) CONCERNING THIS ISSUE. PORSCHE HAS NOT CORRECTLY IDENTIFIED THE RECALL POPULATION OF 2016 PORSCHE CAYMAN CA",
+        "pct": 43,
+        "title": "Air Bags",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2016 PORSCHE CAYMAN HAS AN ERROR CODE 'C11005 ? AIRBAG TRIGGERING UNIT, FAULTY' AND THE AIRBAG LIGHT IS ILLUMINATED BUT THIS VIN WAS NOT INCLUDED IN PORSCHE'S RECALL (AKB4) CONCERNING THIS ISSUE. PORSCHE HAS NOT CORRECTLY IDENTIFIED THE RECALL POPULATION OF 2016 PORSCHE CAYMAN CA",
+        "pct": 29,
+        "title": "Seat Belts",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Tail lamps are prone to hairline cracks difficult to see, when driven in rain or car wash tail lamp floods and causes electrical system to short circuit resulting in death or accident in inclement weather due to low visibility.",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine stalls when stopped if not in sport mode. Electronic gauge display for oil level is confusing and shows low oil level in green, causing the user to add oil when it is full. Steering rubs and knocks when turning.",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine stalls when stopped if not in sport mode. Electronic gauge display for oil level is confusing and shows low oil level in green, causing the user to add oil when it is full. Steering rubs and knocks when turning.",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

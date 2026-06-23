@@ -1,0 +1,106 @@
+{
+  "slug": "2016-subaru-brz",
+  "make": "Subaru",
+  "model": "BRZ",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/SUBARU/BRZ#complaints",
+  "generatedAt": "2026-06-23T16:40:34.485Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On the day before Easter, while driving down W. Colonial Dr., a car suddenly pulled out in front of me, causing me to slam on the brakes. immediately after, it seemed like the brake booster blew out, as my brakes started making a hissing sound and felt like they were losing press",
+      "pct": 33
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On the day before Easter, while driving down W. Colonial Dr., a car suddenly pulled out in front of me, causing me to slam on the brakes. immediately after, it seemed like the brake booster blew out, as my brakes started making a hissing sound and felt like they were losing press",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On the day before Easter, while driving down W. Colonial Dr., a car suddenly pulled out in front of me, causing me to slam on the brakes. immediately after, it seemed like the brake booster blew out, as my brakes started making a hissing sound and felt like they were losing press",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY BRZ IS EXPERIENCING BATTERY DRAIN ISSUES. I HAVE REPLACED THE BATTERY WITH AN OEM BATTERY FROM SUBARU, BUT MY CAR STILL HAS A DRAIN ON THE BATTERY. I HAD TO PURCHASE A PORTABLE JUMP STARTER KIT TO ENSURE THAT IF THE CAR DIDN'T START THAT I HAD A JUMP AVAILABLE. I HAVE NOT BROU",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Subaru Brz owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Suspension (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On the day before Easter, while driving down W. Colonial Dr., a car suddenly pulled out in front of me, causing me to slam on the brakes. immediately after, it seemed like the brake booster blew out, as my brakes started making a hissing sound and felt like they were losing press",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "1 report (33%) · 1 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On the day before Easter, while driving down W. Colonial Dr., a car suddenly pulled out in front of me, causing me to slam on the brakes. immediately after, it seemed like the brake booster blew out, as my brakes started making a hissing sound and felt like they were losing press",
+        "pct": 33,
+        "title": "Wheels",
+        "blurb": "1 report (33%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On the day before Easter, while driving down W. Colonial Dr., a car suddenly pulled out in front of me, causing me to slam on the brakes. immediately after, it seemed like the brake booster blew out, as my brakes started making a hissing sound and felt like they were losing press",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY BRZ IS EXPERIENCING BATTERY DRAIN ISSUES. I HAVE REPLACED THE BATTERY WITH AN OEM BATTERY FROM SUBARU, BUT MY CAR STILL HAS A DRAIN ON THE BATTERY. I HAD TO PURCHASE A PORTABLE JUMP STARTER KIT TO ENSURE THAT IF THE CAR DIDN'T START THAT I HAD A JUMP AVAILABLE. I HAVE NOT BROU",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

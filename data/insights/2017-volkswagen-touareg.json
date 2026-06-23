@@ -1,0 +1,128 @@
+{
+  "slug": "2017-volkswagen-touareg",
+  "make": "Volkswagen",
+  "model": "Touareg",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/VOLKSWAGEN/TOUAREG#complaints",
+  "generatedAt": "2026-06-23T16:42:15.276Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WATER WAS FOUND IN THE AIR FILTER AND ENGINE. SERVICE ADVISER STATED THAT THE VEHICLE WAS IN WATER. I REPLIED THAT THE VEHICLE HAS BE DRIVEN IN HEAVY RAIN AND SITS OUTSIDE IN THE WEATHER. ACCORDING TO THE SERVICE ADVISER THE ENGINE NEED TO BE REPLACED. I HAVE RESEARCHED ONLINE AN",
+      "pct": 79
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While using Adaptive Cruise Control, vehicle intermittently displays \"ACC not available\" cruise control completely disengages and does not allow for traditional cruise control functions.  Typically ACC begins to function again after about 5 mins or by powering off and powering on",
+      "pct": 4
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Power seat reclining function on passenger and driver side.   Due to the top of the adjustment lever being positioned too close to the top of the set cushion, if you sit on the edge of the seat, the seat back will continue to recline until you get up if you notice it or it hits t",
+      "pct": 4
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When coming to a stop with the AutoHold activated, sometimes it comes to an abrupt stop instead of a smooth stop.   Also when you have Autohold engaged, when you come to a stop and put the car in park, disconnect the seatbelt the parking brake engages(expected), however when you ",
+      "pct": 4
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving the power train was seriously impacted, it is no longer operational and available for inspection at the dealer now. This is absolutely a safety risk as there was power loss and inconsistency which could have been very dangerous depending on the level of control requ",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Volkswagen Touareg owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Engine (79% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WATER WAS FOUND IN THE AIR FILTER AND ENGINE. SERVICE ADVISER STATED THAT THE VEHICLE WAS IN WATER. I REPLIED THAT THE VEHICLE HAS BE DRIVEN IN HEAVY RAIN AND SITS OUTSIDE IN THE WEATHER. ACCORDING TO THE SERVICE ADVISER THE ENGINE NEED TO BE REPLACED. I HAVE RESEARCHED ONLINE AN",
+        "pct": 79,
+        "title": "Engine",
+        "blurb": "19 reports (79%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While using Adaptive Cruise Control, vehicle intermittently displays \"ACC not available\" cruise control completely disengages and does not allow for traditional cruise control functions.  Typically ACC begins to function again after about 5 mins or by powering off and powering on",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Power seat reclining function on passenger and driver side.   Due to the top of the adjustment lever being positioned too close to the top of the set cushion, if you sit on the edge of the seat, the seat back will continue to recline until you get up if you notice it or it hits t",
+        "pct": 4,
+        "title": "Seats",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When coming to a stop with the AutoHold activated, sometimes it comes to an abrupt stop instead of a smooth stop.   Also when you have Autohold engaged, when you come to a stop and put the car in park, disconnect the seatbelt the parking brake engages(expected), however when you ",
+        "pct": 4,
+        "title": "Service Brakes",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving the power train was seriously impacted, it is no longer operational and available for inspection at the dealer now. This is absolutely a safety risk as there was power loss and inconsistency which could have been very dangerous depending on the level of control requ",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

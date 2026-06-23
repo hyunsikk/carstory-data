@@ -1,0 +1,128 @@
+{
+  "slug": "2024-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:17.332Z",
+  "total": 361,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 116,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "Primarily at higway speeds, there is a slight binding/resistance that has to be overcomed when making a small steering correction when turning the steering wheel slightly to the right. Dealer turned off all driving assisted computer programs and said problem fixed. The problem st",
+      "pct": 32
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 47,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "This hybrid model does not display red brake lights during regenerative braking, at any of the settings. I have have had two occurrences where the driver behind me was apparently not aware that my vehicle was slowing somewhat rapidly, and thus nearly drive into the back of my veh",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 44,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Newer CRV’s windshield wash fluid is delivered through a rubber hose /nozzle that ends on the metal wiper arm, and is exposed to extreme cold temperatures. Other vehicles hoses terminate in the hood, where they are kept warm by the heat radiating from the engine. We just drove cr",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 31,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "For months, the infotainment screen has flashed on and off or delayed in coming on after vehicle has started. The delay would take minutes or hours and eventually became days.    Now the screen has been completely blank for about two weeks now.    You can hear the radio and adjus",
+      "pct": 9
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Lane keeping/departure function could easily lead to an accident IMO.  1. Operation is either somewhat random, or uses complex rules to determine how to behave in differing circumstances, making it feel unpredictable. 2. Steering correction force can last too long, resulting in o",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Honda Cr-V owners report most",
+    "summary": "Across 361 owner complaints to NHTSA, the most reported area is Steering (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 116,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "Primarily at higway speeds, there is a slight binding/resistance that has to be overcomed when making a small steering correction when turning the steering wheel slightly to the right. Dealer turned off all driving assisted computer programs and said problem fixed. The problem st",
+        "pct": 32,
+        "title": "Steering",
+        "blurb": "116 reports (32%) · 7 crash · 5 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 47,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "This hybrid model does not display red brake lights during regenerative braking, at any of the settings. I have have had two occurrences where the driver behind me was apparently not aware that my vehicle was slowing somewhat rapidly, and thus nearly drive into the back of my veh",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "47 reports (13%) · 9 crash · 4 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 44,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Newer CRV’s windshield wash fluid is delivered through a rubber hose /nozzle that ends on the metal wiper arm, and is exposed to extreme cold temperatures. Other vehicles hoses terminate in the hood, where they are kept warm by the heat radiating from the engine. We just drove cr",
+        "pct": 12,
+        "title": "Visibility/Wiper",
+        "blurb": "44 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 31,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "For months, the infotainment screen has flashed on and off or delayed in coming on after vehicle has started. The delay would take minutes or hours and eventually became days.    Now the screen has been completely blank for about two weeks now.    You can hear the radio and adjus",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "31 reports (9%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Lane keeping/departure function could easily lead to an accident IMO.  1. Operation is either somewhat random, or uses complex rules to determine how to behave in differing circumstances, making it feel unpredictable. 2. Steering correction force can last too long, resulting in o",
+        "pct": 7,
+        "title": "Lane Departure",
+        "blurb": "25 reports (7%) · 2 injured"
+      }
+    ]
+  }
+}

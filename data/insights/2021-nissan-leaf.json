@@ -1,0 +1,128 @@
+{
+  "slug": "2021-nissan-leaf",
+  "make": "Nissan",
+  "model": "Leaf",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/LEAF#complaints",
+  "generatedAt": "2026-06-23T16:39:20.076Z",
+  "total": 50,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 30,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle showed a message \"Service EV system - Unable to restart after power off\". Took to my local Nissan dealer on Oct/21 and had the car serviced and message cleared. On my way back home from dealer, same message showed up again and shut off the car. Next morning the same messa",
+      "pct": 60
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The error occurred on [XXX]. The car got me to my destination. Error occurred past the 1/2 way point. The next day was busy w/ personal issues. Later in the afternoon, I was by the vehicle, I called the Nissan Roadside Assistance number. It was at this point that I was informed t",
+      "pct": 16
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The resolution for recall 22V-048 provided by Nissan is unacceptable.  In order how to properly run the defroster for conditions you have refer to manual or supplement manual.  I would expect just turn on defrost and not worry if it going to work in the weather condition I am dri",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "*High Voltage Battery defect/failure - this is what was believed to be the issue when it was towed to the dealership. What is left of it is available for inspection at the dealership for now, however the insurance may take it to a salvage yard since the fire department finished t",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The error occurred on [XXX]. The car got me to my destination. Error occurred past the 1/2 way point. The next day was busy w/ personal issues. Later in the afternoon, I was by the vehicle, I called the Nissan Roadside Assistance number. It was at this point that I was informed t",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Leaf owners report most",
+    "summary": "Across 50 owner complaints to NHTSA, the most reported area is Electrical System (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 30,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle showed a message \"Service EV system - Unable to restart after power off\". Took to my local Nissan dealer on Oct/21 and had the car serviced and message cleared. On my way back home from dealer, same message showed up again and shut off the car. Next morning the same messa",
+        "pct": 60,
+        "title": "Electrical System",
+        "blurb": "30 reports (60%) · 3 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The error occurred on [XXX]. The car got me to my destination. Error occurred past the 1/2 way point. The next day was busy w/ personal issues. Later in the afternoon, I was by the vehicle, I called the Nissan Roadside Assistance number. It was at this point that I was informed t",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (16%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The resolution for recall 22V-048 provided by Nissan is unacceptable.  In order how to properly run the defroster for conditions you have refer to manual or supplement manual.  I would expect just turn on defrost and not worry if it going to work in the weather condition I am dri",
+        "pct": 12,
+        "title": "Visibility/Wiper",
+        "blurb": "6 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "*High Voltage Battery defect/failure - this is what was believed to be the issue when it was towed to the dealership. What is left of it is available for inspection at the dealership for now, however the insurance may take it to a salvage yard since the fire department finished t",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "4 reports (8%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The error occurred on [XXX]. The car got me to my destination. Error occurred past the 1/2 way point. The next day was busy w/ personal issues. Later in the afternoon, I was by the vehicle, I called the Nissan Roadside Assistance number. It was at this point that I was informed t",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "3 reports (6%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-lincoln-mkz",
+  "make": "Lincoln",
+  "model": "MKZ",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LINCOLN/MKZ#complaints",
+  "generatedAt": "2026-06-23T16:37:51.092Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2019 Lincoln MKZ check engine light came on. The repair shop said coolant was leaking into #3 cylinder from cracks in the engine block. Per alerts the shop receives from Ford, this is a known issue and there is no way to repair this issue. The engine will need to be replaced. ",
+      "pct": 27
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln MKZ. The contact stated that while reversing, the steering wheel wobbled. The contact stated that the steering wheel was moving back and forth. In addition, the contact stated that while making a turn, the steering wheel turned in the intended dire",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "i put the car in park and it accelerated and hit the corner of my garage. when it was towed to the dealer for repair - i was told the message on the car was shift malfunction there was damage to the front grill, hood and passenger side quarter panel the vehicle is at Southgate Li",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2019 Lincoln MKZ check engine light came on. The repair shop said coolant was leaking into #3 cylinder from cracks in the engine block. Per alerts the shop receives from Ford, this is a known issue and there is no way to repair this issue. The engine will need to be replaced. ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "i put the car in park and it accelerated and hit the corner of my garage. when it was towed to the dealer for repair - i was told the message on the car was shift malfunction there was damage to the front grill, hood and passenger side quarter panel the vehicle is at Southgate Li",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Lincoln Mkz owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Engine (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2019 Lincoln MKZ check engine light came on. The repair shop said coolant was leaking into #3 cylinder from cracks in the engine block. Per alerts the shop receives from Ford, this is a known issue and there is no way to repair this issue. The engine will need to be replaced. ",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "4 reports (27%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln MKZ. The contact stated that while reversing, the steering wheel wobbled. The contact stated that the steering wheel was moving back and forth. In addition, the contact stated that while making a turn, the steering wheel turned in the intended dire",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "i put the car in park and it accelerated and hit the corner of my garage. when it was towed to the dealer for repair - i was told the message on the car was shift malfunction there was damage to the front grill, hood and passenger side quarter panel the vehicle is at Southgate Li",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "3 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2019 Lincoln MKZ check engine light came on. The repair shop said coolant was leaking into #3 cylinder from cracks in the engine block. Per alerts the shop receives from Ford, this is a known issue and there is no way to repair this issue. The engine will need to be replaced. ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "i put the car in park and it accelerated and hit the corner of my garage. when it was towed to the dealer for repair - i was told the message on the car was shift malfunction there was damage to the front grill, hood and passenger side quarter panel the vehicle is at Southgate Li",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (13%) · 2 crash"
+      }
+    ]
+  }
+}

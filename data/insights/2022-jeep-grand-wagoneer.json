@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-grand-wagoneer",
+  "make": "Jeep",
+  "model": "Grand Wagoneer",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/GRAND%20WAGONEER#complaints",
+  "generatedAt": "2026-06-23T16:45:15.060Z",
+  "total": 55,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Complaint -  The wiring harness in my engine compartment is mounted on the firewall below the cowl. It runs from the driver’s side to the passenger side. On my vehicle, it has a significant drop on the driver's side, almost hitting the master brake cylinder cover. The wiring harn",
+      "pct": 36
+    },
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We purchased this Grand Wagoneer on Mon June 27th and left for our family vacation we had planned in Oklahoma. We live in Castle Rock, Co.  The next day on tuesday as we were driving on the I-35 the Transmission would drop out of gear and the rpm's would rev up. This would be whi",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While I was driving at around 35 miles per hour and tried to stop in a short distance because of the “should I go or not” situation at the traffic light, the whole vehicle was shut off at a blink of an eye. Soon after I noticed it and tried to imitate the incident to make sure I ",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 2/23/2022,  owner struck a medium sized pothole. The vehicle lit up several warning lights (ABS, traction control, etc.) as well as the check engine light. At this time, the driver applied the brakes and they went to the floor. Driver was able to coast into a roundabout and ev",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "AC/HVAC: experienced multiple occasion where the system (front and rear) turns on and quickly varies between settings with no way to override.  Engine: when speeds are in excess of 80mph front passenger vent makes excessive noise in line with engine rpm’s  “Auto drove” ineffectiv",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Jeep Grand Wagoneer owners report most",
+    "summary": "Across 55 owner complaints to NHTSA, the most reported area is Electrical System (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Complaint -  The wiring harness in my engine compartment is mounted on the firewall below the cowl. It runs from the driver’s side to the passenger side. On my vehicle, it has a significant drop on the driver's side, almost hitting the master brake cylinder cover. The wiring harn",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "20 reports (36%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We purchased this Grand Wagoneer on Mon June 27th and left for our family vacation we had planned in Oklahoma. We live in Castle Rock, Co.  The next day on tuesday as we were driving on the I-35 the Transmission would drop out of gear and the rpm's would rev up. This would be whi",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "12 reports (22%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While I was driving at around 35 miles per hour and tried to stop in a short distance because of the “should I go or not” situation at the traffic light, the whole vehicle was shut off at a blink of an eye. Soon after I noticed it and tried to imitate the incident to make sure I ",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "9 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 2/23/2022,  owner struck a medium sized pothole. The vehicle lit up several warning lights (ABS, traction control, etc.) as well as the check engine light. At this time, the driver applied the brakes and they went to the floor. Driver was able to coast into a roundabout and ev",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "8 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "AC/HVAC: experienced multiple occasion where the system (front and rear) turns on and quickly varies between settings with no way to override.  Engine: when speeds are in excess of 80mph front passenger vent makes excessive noise in line with engine rpm’s  “Auto drove” ineffectiv",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (15%) · 1 crash · 6 injured"
+      }
+    ]
+  }
+}

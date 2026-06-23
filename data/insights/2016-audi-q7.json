@@ -1,0 +1,62 @@
+{
+  "slug": "2016-audi-q7",
+  "make": "Audi",
+  "model": "Q7",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/Q7#complaints",
+  "generatedAt": "2026-06-23T16:26:03.340Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE BOUGHT A USED AUDI Q7. IT IS ONLY 3 YEARS OLD AND HAS A LITTLE OVER 60,000 MILES. THE REAR PASSENGER SEAT BELT WILL NOT LATCH. I HAVE CONTACTED AUDI, AND THEY TOLD ME IT IS OUT OF WARRANTY AND THEY ARE GOING TO CHARGE ME TO EVEN LOOK AT IT. I HAVE READ THAT THE NHTSA MAY BE AB",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WOULD LIKE TO BUY A NEW AUDI SUV OR OTHER LUXURY BRAND AUTO THIS YEAR OR 2017 WITH COMPLETE DISCLOSURE FROM THE AUTOMAKER THAT THE SAID AUTO DOES NOT HAVE A TAKATA AIRBAG INSTALLED. PLEASE LET ME KNOW WHOM I MAY CONTACT.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi Q7 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Seat Belts (50% of reports).",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE BOUGHT A USED AUDI Q7. IT IS ONLY 3 YEARS OLD AND HAS A LITTLE OVER 60,000 MILES. THE REAR PASSENGER SEAT BELT WILL NOT LATCH. I HAVE CONTACTED AUDI, AND THEY TOLD ME IT IS OUT OF WARRANTY AND THEY ARE GOING TO CHARGE ME TO EVEN LOOK AT IT. I HAVE READ THAT THE NHTSA MAY BE AB",
+        "pct": 50,
+        "title": "Seat Belts",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WOULD LIKE TO BUY A NEW AUDI SUV OR OTHER LUXURY BRAND AUTO THIS YEAR OR 2017 WITH COMPLETE DISCLOSURE FROM THE AUTOMAKER THAT THE SAID AUTO DOES NOT HAVE A TAKATA AIRBAG INSTALLED. PLEASE LET ME KNOW WHOM I MAY CONTACT.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

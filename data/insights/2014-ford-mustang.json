@@ -1,0 +1,128 @@
+{
+  "slug": "2014-ford-mustang",
+  "make": "Ford",
+  "model": "Mustang",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/FORD/MUSTANG#complaints",
+  "generatedAt": "2026-06-23T16:30:44.058Z",
+  "total": 356,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 244,
+      "crash": 26,
+      "fire": 1,
+      "injuries": 19,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 FORD MUSTANG. THE CONTACT STATED THAT WHILE TRAVELING APPROXIMATELY 70 MPH, THE CONTACT CRASHED INTO ANOTHER VEHICLE. UPON IMPACT, THE AIR BAGS FAILED TO DEPLOY. THERE WERE NO INJURIES. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NO",
+      "pct": 69
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 29,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 FORD MUSTANG. THE CONTACT STATED THAT WHILE STOPPED WITH THE VEHICLE ENGAGED IN THE ACCESSORY MODE, SHE WAS ABLE TO MOVE THE GEAR SHIFTER INTO REVERSE, CAUSING HER TO CRASH INTO ANOTHER VEHICLE. THE CONTACT ATTEMPTED TO APPLY THE BRAKES BUT THEY DID NO",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 21,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I WAS DRIVING A 2014 FORD MUSTANG CONVERTIBLE FROM THE LONG BEACH AIRPORT (RENTAL) AND LOST STEERING ON THE FREEWAY AT ABOUT 60 MPH. I WAS IN THE FAR RIGHT LANE AND AS I APPROACHED FULL SPEED, THE CAR BEGAN TO VEER INTO THE LANE TO THE LEFT OF ME. AS I TRIED TO CORRECT, THERE WAS",
+      "pct": 6
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE MUSTANG (WHICH IS A MANUAL TRANSMISSION) I NOTICED THAT THE SPEED OF THE CAR DOESN'T DECELERATE WHEN I TAKE MY FOOT OFF THE GAS PEDAL. THE CAR IS GIVEN GAS (MORE THAN AN IDLE AMOUNT) WHEN I DO NOT DEPRESS THE GAS PEDAL. IT HAPPENS IN ALL 6 GEARS BUT IT'S MOST NO",
+      "pct": 5
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FAILURE OF FRONT DRIVERS SIDE LOWER CONTROL ARM, FAILURE OF DRIVESHAFT, FAILURE OF REAR END AND SUSPENSION. SYMPTOMS'  LOWER CONTROL ARM-  BANGING NOISE THAT SOUNDS LIKE THE STRUT HAD NO FLUID.   DRIVESHAFT BANGING NOISE AS IF THE SHAFT SPLINES HAD STRIPPED OR CV JOINT LOOSE FAIL",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Ford Mustang owners report most",
+    "summary": "Across 356 owner complaints to NHTSA, the most reported area is Air Bags (69% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 244,
+        "crash": 26,
+        "fire": 1,
+        "injuries": 19,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 FORD MUSTANG. THE CONTACT STATED THAT WHILE TRAVELING APPROXIMATELY 70 MPH, THE CONTACT CRASHED INTO ANOTHER VEHICLE. UPON IMPACT, THE AIR BAGS FAILED TO DEPLOY. THERE WERE NO INJURIES. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NO",
+        "pct": 69,
+        "title": "Air Bags",
+        "blurb": "244 reports (69%) · 1 fire · 26 crash · 19 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 29,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 FORD MUSTANG. THE CONTACT STATED THAT WHILE STOPPED WITH THE VEHICLE ENGAGED IN THE ACCESSORY MODE, SHE WAS ABLE TO MOVE THE GEAR SHIFTER INTO REVERSE, CAUSING HER TO CRASH INTO ANOTHER VEHICLE. THE CONTACT ATTEMPTED TO APPLY THE BRAKES BUT THEY DID NO",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "29 reports (8%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 21,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I WAS DRIVING A 2014 FORD MUSTANG CONVERTIBLE FROM THE LONG BEACH AIRPORT (RENTAL) AND LOST STEERING ON THE FREEWAY AT ABOUT 60 MPH. I WAS IN THE FAR RIGHT LANE AND AS I APPROACHED FULL SPEED, THE CAR BEGAN TO VEER INTO THE LANE TO THE LEFT OF ME. AS I TRIED TO CORRECT, THERE WAS",
+        "pct": 6,
+        "title": "Steering",
+        "blurb": "21 reports (6%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE MUSTANG (WHICH IS A MANUAL TRANSMISSION) I NOTICED THAT THE SPEED OF THE CAR DOESN'T DECELERATE WHEN I TAKE MY FOOT OFF THE GAS PEDAL. THE CAR IS GIVEN GAS (MORE THAN AN IDLE AMOUNT) WHEN I DO NOT DEPRESS THE GAS PEDAL. IT HAPPENS IN ALL 6 GEARS BUT IT'S MOST NO",
+        "pct": 5,
+        "title": "Engine",
+        "blurb": "18 reports (5%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FAILURE OF FRONT DRIVERS SIDE LOWER CONTROL ARM, FAILURE OF DRIVESHAFT, FAILURE OF REAR END AND SUSPENSION. SYMPTOMS'  LOWER CONTROL ARM-  BANGING NOISE THAT SOUNDS LIKE THE STRUT HAD NO FLUID.   DRIVESHAFT BANGING NOISE AS IF THE SHAFT SPLINES HAD STRIPPED OR CV JOINT LOOSE FAIL",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "17 reports (5%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

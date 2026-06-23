@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mercedes-benz-eqb",
+  "make": "Mercedes-Benz",
+  "model": "EQB",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MERCEDES-BENZ/EQB#complaints",
+  "generatedAt": "2026-06-23T16:38:26.971Z",
+  "total": 81,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 63,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Mercedes-Benz EQB300. The contact stated that while driving 60 MPH, the vehicle lost automotive power and decelerated to 30 MPH. The contact drove the vehicle to a local charging station to recharge the battery; however, the vehicle failed to recharge. No ",
+      "pct": 78
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Mercedes performed a recall and stated the charging would increase only by 10-15 minutes. For my vehicle it is now exceeding 30-45 minutes to get to the same state of charge at a fast charger such as electrify America. Mercedes refuses to do anything about this, instead they want",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle experienced multiple electrical and safety-related malfunctions while driving.  On several occasions the instrument cluster and vehicle screens suddenly went black while the vehicle was in motion, causing loss of critical driving information such as speed and warnings",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This safety recall is over six months old and is still unresolved.  I have not felt safe driving the vehicle on the highway because of the possibility of complete power loss.  I have been forced to keep paying lease payments on a car I can't drive and the manufacturer has been un",
+      "pct": 6
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We were driving along a 4 lane state road and the car suddenly applied the brakes hard and swerved to the right. A light blinked on the dash with a picture of the car and a red line on the right hand side. No cars were in the next lane over and there were no issues with the roadw",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mercedes-Benz Eqb owners report most",
+    "summary": "Across 81 owner complaints to NHTSA, the most reported area is Electrical System (78% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 63,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Mercedes-Benz EQB300. The contact stated that while driving 60 MPH, the vehicle lost automotive power and decelerated to 30 MPH. The contact drove the vehicle to a local charging station to recharge the battery; however, the vehicle failed to recharge. No ",
+        "pct": 78,
+        "title": "Electrical System",
+        "blurb": "63 reports (78%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Mercedes performed a recall and stated the charging would increase only by 10-15 minutes. For my vehicle it is now exceeding 30-45 minutes to get to the same state of charge at a fast charger such as electrify America. Mercedes refuses to do anything about this, instead they want",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle experienced multiple electrical and safety-related malfunctions while driving.  On several occasions the instrument cluster and vehicle screens suddenly went black while the vehicle was in motion, causing loss of critical driving information such as speed and warnings",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "8 reports (10%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This safety recall is over six months old and is still unresolved.  I have not felt safe driving the vehicle on the highway because of the possibility of complete power loss.  I have been forced to keep paying lease payments on a car I can't drive and the manufacturer has been un",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "5 reports (6%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We were driving along a 4 lane state road and the car suddenly applied the brakes hard and swerved to the right. A light blinked on the dash with a picture of the car and a red line on the right hand side. No cars were in the next lane over and there were no issues with the roadw",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (4%)"
+      }
+    ]
+  }
+}

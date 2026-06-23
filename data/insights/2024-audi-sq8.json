@@ -1,0 +1,84 @@
+{
+  "slug": "2024-audi-sq8",
+  "make": "Audi",
+  "model": "SQ8",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/SQ8#complaints",
+  "generatedAt": "2026-06-23T16:43:25.149Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our electrical system is going craze. The electronic door handles will lock us in and out of the car, the instrument cluster will black out for periods, safety sensors go off at random, other screens in car will black out leaving controls in operable, and wireless car charger wil",
+      "pct": 100
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our electrical system is going craze. The electronic door handles will lock us in and out of the car, the instrument cluster will black out for periods, safety sensors go off at random, other screens in car will black out leaving controls in operable, and wireless car charger wil",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our electrical system is going craze. The electronic door handles will lock us in and out of the car, the instrument cluster will black out for periods, safety sensors go off at random, other screens in car will black out leaving controls in operable, and wireless car charger wil",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Sq8 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our electrical system is going craze. The electronic door handles will lock us in and out of the car, the instrument cluster will black out for periods, safety sensors go off at random, other screens in car will black out leaving controls in operable, and wireless car charger wil",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our electrical system is going craze. The electronic door handles will lock us in and out of the car, the instrument cluster will black out for periods, safety sensors go off at random, other screens in car will black out leaving controls in operable, and wireless car charger wil",
+        "pct": 50,
+        "title": "Lane Departure",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our electrical system is going craze. The electronic door handles will lock us in and out of the car, the instrument cluster will black out for periods, safety sensors go off at random, other screens in car will black out leaving controls in operable, and wireless car charger wil",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

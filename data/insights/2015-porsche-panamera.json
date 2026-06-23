@@ -1,0 +1,128 @@
+{
+  "slug": "2015-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:53.738Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BLOWER UNIT RECALLED. TOLD MAY RESULT IN SPONTANEOUS COMBUSTION AND FIRE WHEN VEHICLE PARKED. MADE APPOINTMENT WITH HENNESSY PORCHE ATLANTA FOR REPLACEMENT. APPOINTMENT MADE 2 MONTHS AWAY FROM CALL DUE TO NEED BY HENNESSY TO HAVE PART AVAILABLE. WAS CALLED DAY BEFORE APPOINTMENT ",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 PORSCHE PANAMERA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V322000 (ELECTRICAL SYSTEM). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. PORSCHE LARCHMONT (2500 BOSTON POST RD, LA",
+      "pct": 33
+    },
+    {
+      "component": "HYBRID PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Porsche Panamera S E-Hybrid. The contact stated while driving 70 MPH, the vehicle shut off with several unknown warning lights illuminated. The “Hybrid System Failure - Park Safely” message was displayed. The contact maneuvered the vehicle off to the shoul",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Porsche Panamera. The contact stated while his wife was parking the vehicle and shifted gears to park when the vehicle accelerated independently and crashed into a building. The contact stated no warning light was illuminated. The air bags did not deploy. ",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Porsche Panamera. The contact stated while his wife was parking the vehicle and shifted gears to park when the vehicle accelerated independently and crashed into a building. The contact stated no warning light was illuminated. The air bags did not deploy. ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Porsche Panamera owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BLOWER UNIT RECALLED. TOLD MAY RESULT IN SPONTANEOUS COMBUSTION AND FIRE WHEN VEHICLE PARKED. MADE APPOINTMENT WITH HENNESSY PORCHE ATLANTA FOR REPLACEMENT. APPOINTMENT MADE 2 MONTHS AWAY FROM CALL DUE TO NEED BY HENNESSY TO HAVE PART AVAILABLE. WAS CALLED DAY BEFORE APPOINTMENT ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 PORSCHE PANAMERA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V322000 (ELECTRICAL SYSTEM). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. PORSCHE LARCHMONT (2500 BOSTON POST RD, LA",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "HYBRID PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Porsche Panamera S E-Hybrid. The contact stated while driving 70 MPH, the vehicle shut off with several unknown warning lights illuminated. The “Hybrid System Failure - Park Safely” message was displayed. The contact maneuvered the vehicle off to the shoul",
+        "pct": 17,
+        "title": "Hybrid Propulsion System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Porsche Panamera. The contact stated while his wife was parking the vehicle and shifted gears to park when the vehicle accelerated independently and crashed into a building. The contact stated no warning light was illuminated. The air bags did not deploy. ",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "1 report (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Porsche Panamera. The contact stated while his wife was parking the vehicle and shifted gears to park when the vehicle accelerated independently and crashed into a building. The contact stated no warning light was illuminated. The air bags did not deploy. ",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (17%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

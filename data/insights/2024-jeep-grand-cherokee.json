@@ -1,0 +1,128 @@
+{
+  "slug": "2024-jeep-grand-cherokee",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/JEEP/GRAND%20CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T16:35:59.796Z",
+  "total": 226,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 102,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle lost power on multiple occasions where it could not be operated or jump started to get moving. Odometer blinking/blind spot indicators staying illuminated/rear back-up camera fault reading \"system unavailable\"  Brake pedal kicking back when trying to start the Jeep. Gear ",
+      "pct": 45
+    },
+    {
+      "component": "ENGINE",
+      "count": 96,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle lost power on multiple occasions where it could not be operated or jump started to get moving. Odometer blinking/blind spot indicators staying illuminated/rear back-up camera fault reading \"system unavailable\"  Brake pedal kicking back when trying to start the Jeep. Gear ",
+      "pct": 42
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 39,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was traveling on a highway at 65MPH in Hybrid mode. The car displayed a Service Hybrid Electric Vehicle System Warning Message along with several other system failure messages in rapid succession. The battery failure icon was also on. The car lost all power and started slowing ",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 29,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new vehicle with 11 miles on the odometer. The emergency Braking system does not work. If I go into the settings and make a change to emergency braking, such as far or close, the message “Auto Emergency Braking (AEB) Unavailable Service Required” will come up on the cluster",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving at 65 mph on highway when warning screen came on \"\"Service Transmission Continue in D.  Do not shift or turn engine off until you reach a desired location.  You may not be able to shift again until serviced\".  Then warnings came up that each of the safety systems ar",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Jeep Grand Cherokee owners report most",
+    "summary": "Across 226 owner complaints to NHTSA, the most reported area is Electrical System (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 102,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle lost power on multiple occasions where it could not be operated or jump started to get moving. Odometer blinking/blind spot indicators staying illuminated/rear back-up camera fault reading \"system unavailable\"  Brake pedal kicking back when trying to start the Jeep. Gear ",
+        "pct": 45,
+        "title": "Electrical System",
+        "blurb": "102 reports (45%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 96,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle lost power on multiple occasions where it could not be operated or jump started to get moving. Odometer blinking/blind spot indicators staying illuminated/rear back-up camera fault reading \"system unavailable\"  Brake pedal kicking back when trying to start the Jeep. Gear ",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "96 reports (42%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 39,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was traveling on a highway at 65MPH in Hybrid mode. The car displayed a Service Hybrid Electric Vehicle System Warning Message along with several other system failure messages in rapid succession. The battery failure icon was also on. The car lost all power and started slowing ",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "39 reports (17%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 29,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new vehicle with 11 miles on the odometer. The emergency Braking system does not work. If I go into the settings and make a change to emergency braking, such as far or close, the message “Auto Emergency Braking (AEB) Unavailable Service Required” will come up on the cluster",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "29 reports (13%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving at 65 mph on highway when warning screen came on \"\"Service Transmission Continue in D.  Do not shift or turn engine off until you reach a desired location.  You may not be able to shift again until serviced\".  Then warnings came up that each of the safety systems ar",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "24 reports (11%)"
+      }
+    ]
+  }
+}

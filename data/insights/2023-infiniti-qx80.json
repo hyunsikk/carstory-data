@@ -1,0 +1,62 @@
+{
+  "slug": "2023-infiniti-qx80",
+  "make": "Infiniti",
+  "model": "QX80",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/INFINITI/QX80#complaints",
+  "generatedAt": "2026-06-23T16:35:03.802Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "forward collision light came on for fours hours display blinks on and off press buttons on display or open various apps on smart phone and music stops playing wireless DVD player doesn't come on or work  The electronics in the suv is faulty and not perdicable",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "forward collision light came on for fours hours display blinks on and off press buttons on display or open various apps on smart phone and music stops playing wireless DVD player doesn't come on or work  The electronics in the suv is faulty and not perdicable",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Infiniti Qx80 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "forward collision light came on for fours hours display blinks on and off press buttons on display or open various apps on smart phone and music stops playing wireless DVD player doesn't come on or work  The electronics in the suv is faulty and not perdicable",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "forward collision light came on for fours hours display blinks on and off press buttons on display or open various apps on smart phone and music stops playing wireless DVD player doesn't come on or work  The electronics in the suv is faulty and not perdicable",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

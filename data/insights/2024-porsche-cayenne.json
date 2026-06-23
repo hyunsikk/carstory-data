@@ -1,0 +1,128 @@
+{
+  "slug": "2024-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:47.107Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The backup lights of the 2024 Porsche Cayenne Coupe when the car is put into reverse are extremely dim, and do not adequately highlight what is behind the car.  I learned this the first time on September 8th when I tried to back out of my friend’s narrow windy tree lined driveway",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rotary volume control knob on the center console of my 2024 Porsche Cayenne Coupe detached during normal, routine interior cleaning while the vehicle was stationary. The knob lifted off the control shaft with minimal contact from a standard handheld vacuum nozzle. This indica",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rotary volume control knob on the center console of my 2024 Porsche Cayenne Coupe detached during normal, routine interior cleaning while the vehicle was stationary. The knob lifted off the control shaft with minimal contact from a standard handheld vacuum nozzle. This indica",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I was making a turn onto another avenue, and accelerating to blend into traffic flow, dashboard messages suddenly appeared 1)\"Engine control error, driving still possible, see dealer.\" 2)\"Active lane keeping not available, driving still possible, service required\" 3)\"Adaptive ",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I was making a turn onto another avenue, and accelerating to blend into traffic flow, dashboard messages suddenly appeared 1)\"Engine control error, driving still possible, see dealer.\" 2)\"Active lane keeping not available, driving still possible, service required\" 3)\"Adaptive ",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Porsche Cayenne owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Exterior Lighting (40% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The backup lights of the 2024 Porsche Cayenne Coupe when the car is put into reverse are extremely dim, and do not adequately highlight what is behind the car.  I learned this the first time on September 8th when I tried to back out of my friend’s narrow windy tree lined driveway",
+        "pct": 40,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rotary volume control knob on the center console of my 2024 Porsche Cayenne Coupe detached during normal, routine interior cleaning while the vehicle was stationary. The knob lifted off the control shaft with minimal contact from a standard handheld vacuum nozzle. This indica",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rotary volume control knob on the center console of my 2024 Porsche Cayenne Coupe detached during normal, routine interior cleaning while the vehicle was stationary. The knob lifted off the control shaft with minimal contact from a standard handheld vacuum nozzle. This indica",
+        "pct": 20,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I was making a turn onto another avenue, and accelerating to blend into traffic flow, dashboard messages suddenly appeared 1)\"Engine control error, driving still possible, see dealer.\" 2)\"Active lane keeping not available, driving still possible, service required\" 3)\"Adaptive ",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I was making a turn onto another avenue, and accelerating to blend into traffic flow, dashboard messages suddenly appeared 1)\"Engine control error, driving still possible, see dealer.\" 2)\"Active lane keeping not available, driving still possible, service required\" 3)\"Adaptive ",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

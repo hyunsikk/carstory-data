@@ -1,0 +1,62 @@
+{
+  "slug": "2024-subaru-outback",
+  "make": "Subaru",
+  "model": "Outback",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/SUBARU/OUTBACK#complaints",
+  "generatedAt": "2026-06-23T16:40:49.573Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "EQUIPMENT",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Subaru Outback. The contact stated that after the purchase of the vehicle, the dealer informed the contact to schedule an appointment to install the trailer hitch harness. The contact was informed by the dealer that the vehicle could tow a capacity of 3,50",
+      "pct": 50
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The moon roof shattered.  Have not even had the vehicle two days yet.  It was fine yesterday (5/26/2023).  Went out this afternoon (5/27/2023) and found the moon roof completely shattered and fractured.  There is a hole near the rear center and fractures covering the entire moon ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Subaru Outback owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Equipment (50% of reports).",
+    "issues": [
+      {
+        "component": "EQUIPMENT",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Subaru Outback. The contact stated that after the purchase of the vehicle, the dealer informed the contact to schedule an appointment to install the trailer hitch harness. The contact was informed by the dealer that the vehicle could tow a capacity of 3,50",
+        "pct": 50,
+        "title": "Equipment",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The moon roof shattered.  Have not even had the vehicle two days yet.  It was fine yesterday (5/26/2023).  Went out this afternoon (5/27/2023) and found the moon roof completely shattered and fractured.  There is a hole near the rear center and fractures covering the entire moon ",
+        "pct": 50,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

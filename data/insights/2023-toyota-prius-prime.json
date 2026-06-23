@@ -1,0 +1,84 @@
+{
+  "slug": "2023-toyota-prius-prime",
+  "make": "Toyota",
+  "model": "Prius Prime",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/PRIUS%20PRIME#complaints",
+  "generatedAt": "2026-06-23T16:45:50.745Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is an unexplained loss of 12V power from the 12V battery, and the car will not start. This was reported to the local Toyota dealership on 12/5/25. The car had to be jumped in order to drive it to the dealership/service department. They said the 12V battery was fully charged",
+      "pct": 33
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Toyota Prius Prime. The contact stated that upon approaching the vehicle after it had been parked and turned off in the garage, the contact noticed that the hatch door was opened. The contact stated that upon pressing the power button on the hatch and the ",
+      "pct": 33
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Toyota Prius Prime. The contact stated while driving 40 MPH with the headlights activated, the low-beam headlights were not providing adequate illumination to light the sides of the roadway properly. The contact stated that shadows were projected to the si",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Prius Prime owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is an unexplained loss of 12V power from the 12V battery, and the car will not start. This was reported to the local Toyota dealership on 12/5/25. The car had to be jumped in order to drive it to the dealership/service department. They said the 12V battery was fully charged",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Toyota Prius Prime. The contact stated that upon approaching the vehicle after it had been parked and turned off in the garage, the contact noticed that the hatch door was opened. The contact stated that upon pressing the power button on the hatch and the ",
+        "pct": 33,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Toyota Prius Prime. The contact stated while driving 40 MPH with the headlights activated, the low-beam headlights were not providing adequate illumination to light the sides of the roadway properly. The contact stated that shadows were projected to the si",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

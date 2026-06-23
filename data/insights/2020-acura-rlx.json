@@ -1,0 +1,62 @@
+{
+  "slug": "2020-acura-rlx",
+  "make": "Acura",
+  "model": "RLX",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ACURA/RLX#complaints",
+  "generatedAt": "2026-06-23T16:25:00.725Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Acura RLX. The contact stated that while driving at an undisclosed speed, the steering wheel seized with several unknown warning lights illuminated. The contact stated that the steering wheel became difficult to turn, with an abnormal sound coming from the",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On my 2020 Acura RLX hybrid:  On the same day, once in a parking lot and once on a side drive, traveling at less than 15mph but more than 5mph,  the car suddenly accelerated upon which I slowed the car dowm by braking lightly.    I have no idea why this happened.   The original e",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Acura Rlx owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Steering (50% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Acura RLX. The contact stated that while driving at an undisclosed speed, the steering wheel seized with several unknown warning lights illuminated. The contact stated that the steering wheel became difficult to turn, with an abnormal sound coming from the",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On my 2020 Acura RLX hybrid:  On the same day, once in a parking lot and once on a side drive, traveling at less than 15mph but more than 5mph,  the car suddenly accelerated upon which I slowed the car dowm by braking lightly.    I have no idea why this happened.   The original e",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

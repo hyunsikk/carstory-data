@@ -1,0 +1,128 @@
+{
+  "slug": "2019-hyundai-sonata",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HYUNDAI/SONATA#complaints",
+  "generatedAt": "2026-06-23T16:34:03.922Z",
+  "total": 151,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 82,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I HAVE LEASE THIS CAR SINCE 1/16/2019 UNTIL 4/14/19 . START FIRST WITH LOWER THE SPEED AND POWER JUST A LITTLE BIT. THEN 4/14/19 THE CAR LOWER THE SPEED BY ITSELF,START SHAKING UP,LIMP,SHOWS THE ENGINE LIGHT AND THE SPEED CONTROL LIGH IN CONJUNCTION WITH SLIPPERY CONTROL LIGH THE",
+      "pct": 54
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE LOW BEAM HEADLIGHTS ILLUMINATE AN AREA UP TO ABOUT 1 TELEPHONE POLE IN FRONT OF THE VEHICLE (APPROXIMATELY 100 FEET).  WHEN DRIVING AT NORMAL HIGHWAY SPEEDS AT NIGHT, I CANNOT SEE FAR ENOUGH AHEAD TO OPERATE THE VEHICLE SAFELY.  IT IS ONLY WHEN THE AUTO HIGH BEAMS TURN ON THA",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NEWLY LEASED VEHICLE. WITHIN THE FIRST TWO WEEKS AND LESS THAN 300 MILES THE VEHICLE FAILED TO START ON TWO DIFFERENT DAYS IN THE MORNING. THE BRAKE PEDAL WAS HARD AND CAR WOULD NOT START. AFTER MORE THAN 5 ATTEMPTS IT FINALLY STARTED. IT WAS PARKED IN THE GARAGE. VEHICLE HAS BEE",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2019 SONATA 2.0T WITH JUST OVER 11K MILES ON IT BEGAN TO SUDDENLY STUDDER AND WANT TO STALL AT LOW RPM OR AT THE STOP.  OBDII ERROR CODE P0302.  DEALERSHIP SAID CYLINDER 2 HAD LITTLE TO NO COMPRESSION AND NEEDED REPAIR.   COULD BARELY LIMP VEHICLE TO DEALERSHIP AND SMELL THE UNBU",
+      "pct": 7
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE TRAVELING IN ONE DIRECTION, AN ONCOMING VEHICLE ATTEMPTED TO U-TURN IN AN INTERSECTION WITH NO TRAFFIC LIGHTS OR STOP SIGNS. THEY HIT MY CAR IN THE FRONT DRIVER'S SIDE, CAUSING ENOUGH DAMAGE FOR THE VEHICLE TO BE TOWED AWAY AND TOTALED. IN THIS CRASH THE AIRBAGS DID NOT DEP",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Hyundai Sonata owners report most",
+    "summary": "Across 151 owner complaints to NHTSA, the most reported area is Engine (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 82,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I HAVE LEASE THIS CAR SINCE 1/16/2019 UNTIL 4/14/19 . START FIRST WITH LOWER THE SPEED AND POWER JUST A LITTLE BIT. THEN 4/14/19 THE CAR LOWER THE SPEED BY ITSELF,START SHAKING UP,LIMP,SHOWS THE ENGINE LIGHT AND THE SPEED CONTROL LIGH IN CONJUNCTION WITH SLIPPERY CONTROL LIGH THE",
+        "pct": 54,
+        "title": "Engine",
+        "blurb": "82 reports (54%) · 3 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE LOW BEAM HEADLIGHTS ILLUMINATE AN AREA UP TO ABOUT 1 TELEPHONE POLE IN FRONT OF THE VEHICLE (APPROXIMATELY 100 FEET).  WHEN DRIVING AT NORMAL HIGHWAY SPEEDS AT NIGHT, I CANNOT SEE FAR ENOUGH AHEAD TO OPERATE THE VEHICLE SAFELY.  IT IS ONLY WHEN THE AUTO HIGH BEAMS TURN ON THA",
+        "pct": 12,
+        "title": "Exterior Lighting",
+        "blurb": "18 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NEWLY LEASED VEHICLE. WITHIN THE FIRST TWO WEEKS AND LESS THAN 300 MILES THE VEHICLE FAILED TO START ON TWO DIFFERENT DAYS IN THE MORNING. THE BRAKE PEDAL WAS HARD AND CAR WOULD NOT START. AFTER MORE THAN 5 ATTEMPTS IT FINALLY STARTED. IT WAS PARKED IN THE GARAGE. VEHICLE HAS BEE",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "12 reports (8%) · 2 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2019 SONATA 2.0T WITH JUST OVER 11K MILES ON IT BEGAN TO SUDDENLY STUDDER AND WANT TO STALL AT LOW RPM OR AT THE STOP.  OBDII ERROR CODE P0302.  DEALERSHIP SAID CYLINDER 2 HAD LITTLE TO NO COMPRESSION AND NEEDED REPAIR.   COULD BARELY LIMP VEHICLE TO DEALERSHIP AND SMELL THE UNBU",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (7%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE TRAVELING IN ONE DIRECTION, AN ONCOMING VEHICLE ATTEMPTED TO U-TURN IN AN INTERSECTION WITH NO TRAFFIC LIGHTS OR STOP SIGNS. THEY HIT MY CAR IN THE FRONT DRIVER'S SIDE, CAUSING ENOUGH DAMAGE FOR THE VEHICLE TO BE TOWED AWAY AND TOTALED. IN THIS CRASH THE AIRBAGS DID NOT DEP",
+        "pct": 5,
+        "title": "Air Bags",
+        "blurb": "8 reports (5%) · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

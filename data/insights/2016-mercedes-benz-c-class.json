@@ -1,0 +1,128 @@
+{
+  "slug": "2016-mercedes-benz-c-class",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/MERCEDES-BENZ/C-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:19.747Z",
+  "total": 315,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 99,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A  NEW 2016 C-CLASS MERCEDES BENZ . I HAD THE CAR FOR LESS THAN 24 HOURS WHEN THE ENGINE LIGHT CAME ON. I IMMEDIATELY TOOK THE VEHICLE IN AND WAS TOLD THAT THEY DO NOT HAVE A FIX FOR THE PROBLEM. IT IS A PROBLEM WITH THE  AMBIENT AIRFLOW. THE ENGINE DOES NOT WORK PROPERL",
+      "pct": 31
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 58,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 MERCEDES-BENZ C350E. THE CONTACT STATED THAT THE VEHICLE'S AVERAGE MPG RANGED BETWEEN 25 TO 34 MPH. IN ADDITION, THE VEHICLE HAD TO BE RECHARGED EVERY 11 MILES TO KEEP THE ELECTRIC CHARGE GOING ASSOCIATED WITH THE MPG. THE MANUFACTURER INDICATED 51 MPG",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "C300 ANTI COLLISION SENSOR MALFUNCTION LIGHT DISPLAYED AND LOSS ENGINE POWER FOR SEVERAL SECONDS. THE CAR WAS TRAVELING APROX 20 MPH AT THE TIME ON CITY STREET. THEN POWER RESUMED, THE WARNING LIGHT WENT OUT. MERCEDES-BENZ OF TEMECULA, CA COULD NOT FIND A PROBLEM. WORKORDER 22942",
+      "pct": 12
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 32,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "AFTER STOPPING AND WAITING AT A TRAFFIC LIGHT FOR 15-30 SECONDS, I HAD MY FEET ON THE BRAKES AND LEFT TURN INDICATOR ON. THE \"HOLD\" OPTION TO LOCK MY BRAKES WAS NOT ENGAGED. THE CAR WAS STATIONARY. WITHOUT WARNING, THE CAR SHIFTED INTO DRIVE AND JOLTED FORWARD INTO THE VEHICLE AH",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "C300 ANTI COLLISION SENSOR MALFUNCTION LIGHT DISPLAYED AND LOSS ENGINE POWER FOR SEVERAL SECONDS. THE CAR WAS TRAVELING APROX 20 MPH AT THE TIME ON CITY STREET. THEN POWER RESUMED, THE WARNING LIGHT WENT OUT. MERCEDES-BENZ OF TEMECULA, CA COULD NOT FIND A PROBLEM. WORKORDER 22942",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Mercedes-Benz C-Class owners report most",
+    "summary": "Across 315 owner complaints to NHTSA, the most reported area is Engine (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 99,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A  NEW 2016 C-CLASS MERCEDES BENZ . I HAD THE CAR FOR LESS THAN 24 HOURS WHEN THE ENGINE LIGHT CAME ON. I IMMEDIATELY TOOK THE VEHICLE IN AND WAS TOLD THAT THEY DO NOT HAVE A FIX FOR THE PROBLEM. IT IS A PROBLEM WITH THE  AMBIENT AIRFLOW. THE ENGINE DOES NOT WORK PROPERL",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "99 reports (31%) · 2 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 58,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 MERCEDES-BENZ C350E. THE CONTACT STATED THAT THE VEHICLE'S AVERAGE MPG RANGED BETWEEN 25 TO 34 MPH. IN ADDITION, THE VEHICLE HAD TO BE RECHARGED EVERY 11 MILES TO KEEP THE ELECTRIC CHARGE GOING ASSOCIATED WITH THE MPG. THE MANUFACTURER INDICATED 51 MPG",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "58 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "C300 ANTI COLLISION SENSOR MALFUNCTION LIGHT DISPLAYED AND LOSS ENGINE POWER FOR SEVERAL SECONDS. THE CAR WAS TRAVELING APROX 20 MPH AT THE TIME ON CITY STREET. THEN POWER RESUMED, THE WARNING LIGHT WENT OUT. MERCEDES-BENZ OF TEMECULA, CA COULD NOT FIND A PROBLEM. WORKORDER 22942",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "37 reports (12%) · 3 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 32,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "AFTER STOPPING AND WAITING AT A TRAFFIC LIGHT FOR 15-30 SECONDS, I HAD MY FEET ON THE BRAKES AND LEFT TURN INDICATOR ON. THE \"HOLD\" OPTION TO LOCK MY BRAKES WAS NOT ENGAGED. THE CAR WAS STATIONARY. WITHOUT WARNING, THE CAR SHIFTED INTO DRIVE AND JOLTED FORWARD INTO THE VEHICLE AH",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "32 reports (10%) · 1 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "C300 ANTI COLLISION SENSOR MALFUNCTION LIGHT DISPLAYED AND LOSS ENGINE POWER FOR SEVERAL SECONDS. THE CAR WAS TRAVELING APROX 20 MPH AT THE TIME ON CITY STREET. THEN POWER RESUMED, THE WARNING LIGHT WENT OUT. MERCEDES-BENZ OF TEMECULA, CA COULD NOT FIND A PROBLEM. WORKORDER 22942",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "21 reports (7%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-carnival",
+  "make": "Kia",
+  "model": "Carnival",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/CARNIVAL#complaints",
+  "generatedAt": "2026-06-23T16:36:21.146Z",
+  "total": 46,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "Daughter presses the button on the inside of the van. She didn't move her hand soon enough out of the way for the door to close. The door closed on her hand, she had to press the button open from the door closing on her thumb. She came balling her eyes out to me. Her thumb swelle",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact's daughter owns a 2023 Kia Carnival. The contact stated that while driving 65-70 MPH, within 48 hours of purchasing the vehicle brand new, the vehicle lost motive power. Additionally, the brakes and power steering became inoperable. Several unknown warning lights illu",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car keeps shutting of while driving ,the car jerks when accelerating, I press on the gas and sometimes it doesn't accelerate at all .the car windshield cracked, the doors closed on my hands when I was retrieving my coat the doors didn't open back up i had to snatch my hands a",
+      "pct": 9
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia Carnival. The contact stated that during freezing weather, the button was depressed to open the driver's side rear sliding door, and the door automatically opened; however, the motor reached a point of resistance and attempted to close the sliding door",
+      "pct": 4
+    },
+    {
+      "component": "Chest Clip",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car seat harness fails to stay engaged in a safe and secure position. When tightened to the correct position it becomes loose. I contacted Nuna and they advised I should clean the harness adjuster button from debris but I did that and the harness is still coming loose. I don’",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Carnival owners report most",
+    "summary": "Across 46 owner complaints to NHTSA, the most reported area is Structure (26% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "Daughter presses the button on the inside of the van. She didn't move her hand soon enough out of the way for the door to close. The door closed on her hand, she had to press the button open from the door closing on her thumb. She came balling her eyes out to me. Her thumb swelle",
+        "pct": 26,
+        "title": "Structure",
+        "blurb": "12 reports (26%) · 5 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact's daughter owns a 2023 Kia Carnival. The contact stated that while driving 65-70 MPH, within 48 hours of purchasing the vehicle brand new, the vehicle lost motive power. Additionally, the brakes and power steering became inoperable. Several unknown warning lights illu",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "6 reports (13%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car keeps shutting of while driving ,the car jerks when accelerating, I press on the gas and sometimes it doesn't accelerate at all .the car windshield cracked, the doors closed on my hands when I was retrieving my coat the doors didn't open back up i had to snatch my hands a",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "4 reports (9%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia Carnival. The contact stated that during freezing weather, the button was depressed to open the driver's side rear sliding door, and the door automatically opened; however, the motor reached a point of resistance and attempted to close the sliding door",
+        "pct": 4,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "2 reports (4%)"
+      },
+      {
+        "component": "Chest Clip",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car seat harness fails to stay engaged in a safe and secure position. When tightened to the correct position it becomes loose. I contacted Nuna and they advised I should clean the harness adjuster button from debris but I did that and the harness is still coming loose. I don’",
+        "pct": 4,
+        "title": "Chest Clip",
+        "blurb": "2 reports (4%)"
+      }
+    ]
+  }
+}

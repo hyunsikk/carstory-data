@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ram-promaster",
+  "make": "Ram",
+  "model": "ProMaster",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/RAM/PROMASTER#complaints",
+  "generatedAt": "2026-06-23T16:40:24.524Z",
+  "total": 59,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "while turning a corner the power steering module shorted out the power steering rack gear assembly causing the vehicle to have control of the steering and unable to turn the wheel almost colliding with other vehicles. the power steering module light comes on along with the hill s",
+      "pct": 34
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1:MPH randomly changes to KM/h on the instrument panel and Uconnect radio settings. 2: Automatic Parking brake keeps re-enabling on the Ucconect radio settings when it has been set to disabled. 3.SiriusXM radio starts back at station 1 XM Preview when van is started up.  4. Van w",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ram Promaster 2500. The contact received notification of NHTSA Campaign Number: 25V720000 (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The local dealer was contacted and informed the contact that parts were ",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle was rented for delivery services and the oil panel underneath was damaged on the road and as a result a big hole where the metal was broken off.  This has caused all the oil to drain and in turn the engine was jammed.  There was no indication to the driver until the e",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1:MPH randomly changes to KM/h on the instrument panel and Uconnect radio settings. 2: Automatic Parking brake keeps re-enabling on the Ucconect radio settings when it has been set to disabled. 3.SiriusXM radio starts back at station 1 XM Preview when van is started up.  4. Van w",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ram Promaster owners report most",
+    "summary": "Across 59 owner complaints to NHTSA, the most reported area is Steering (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "while turning a corner the power steering module shorted out the power steering rack gear assembly causing the vehicle to have control of the steering and unable to turn the wheel almost colliding with other vehicles. the power steering module light comes on along with the hill s",
+        "pct": 34,
+        "title": "Steering",
+        "blurb": "20 reports (34%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1:MPH randomly changes to KM/h on the instrument panel and Uconnect radio settings. 2: Automatic Parking brake keeps re-enabling on the Ucconect radio settings when it has been set to disabled. 3.SiriusXM radio starts back at station 1 XM Preview when van is started up.  4. Van w",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "16 reports (27%) · 4 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ram Promaster 2500. The contact received notification of NHTSA Campaign Number: 25V720000 (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The local dealer was contacted and informed the contact that parts were ",
+        "pct": 20,
+        "title": "Engine And Engine Cooling",
+        "blurb": "12 reports (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle was rented for delivery services and the oil panel underneath was damaged on the road and as a result a big hole where the metal was broken off.  This has caused all the oil to drain and in turn the engine was jammed.  There was no indication to the driver until the e",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "8 reports (14%) · 3 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1:MPH randomly changes to KM/h on the instrument panel and Uconnect radio settings. 2: Automatic Parking brake keeps re-enabling on the Ucconect radio settings when it has been set to disabled. 3.SiriusXM radio starts back at station 1 XM Preview when van is started up.  4. Van w",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (12%)"
+      }
+    ]
+  }
+}

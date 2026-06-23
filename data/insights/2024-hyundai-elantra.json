@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-elantra",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/ELANTRA#complaints",
+  "generatedAt": "2026-06-23T16:33:15.214Z",
+  "total": 52,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2024 Hyundai Elantra limited horn stopped working, almost causing someone to hit me. The car only has 4,000 miles on it. I am extremely lucky I did not get in an accident because of this. Extremely dangerous issue and soon further research its a very common problem with some n",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "New vehicle was recently purchased at Hyundai dealership odometer reading 8 miles only. Four days later while driving the engine turns off and all dashboard lights start flashing vehicle stops completely in the middle of the road I immediately turned-on emergency lights to make t",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "--Steering was affected and brakes. The vehicle is damaged and may be available for inspection.  --Safety was put at risk as the car did not engage in emergency brakes and veered left into another vehicle.  --N/A; Unaware if problem has been reproduced  --Inspected by Insurance R",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Towards the end of January, my car computer was reset because the car was telling me that I needed an oil change early and the dealership told me it could just be a computer issue. I then took my car to get an oil change and full vehicle inspection on February 24th, 2 days after ",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was giving me an issue with the Forward Radar blocked which was coming and going as if the radar was loose. This issue persisted for a week and the error was still coming and going after every 10-15miles of drive.  Later after a week the error was constant screen and the ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Elantra owners report most",
+    "summary": "Across 52 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2024 Hyundai Elantra limited horn stopped working, almost causing someone to hit me. The car only has 4,000 miles on it. I am extremely lucky I did not get in an accident because of this. Extremely dangerous issue and soon further research its a very common problem with some n",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "15 reports (29%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "New vehicle was recently purchased at Hyundai dealership odometer reading 8 miles only. Four days later while driving the engine turns off and all dashboard lights start flashing vehicle stops completely in the middle of the road I immediately turned-on emergency lights to make t",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "8 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "--Steering was affected and brakes. The vehicle is damaged and may be available for inspection.  --Safety was put at risk as the car did not engage in emergency brakes and veered left into another vehicle.  --N/A; Unaware if problem has been reproduced  --Inspected by Insurance R",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (15%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Towards the end of January, my car computer was reset because the car was telling me that I needed an oil change early and the dealership told me it could just be a computer issue. I then took my car to get an oil change and full vehicle inspection on February 24th, 2 days after ",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "7 reports (13%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was giving me an issue with the Forward Radar blocked which was coming and going as if the radar was loose. This issue persisted for a week and the error was still coming and going after every 10-15miles of drive.  Later after a week the error was constant screen and the ",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (12%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2020-cadillac-ct4",
+  "make": "Cadillac",
+  "model": "CT4",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CADILLAC/CT4#complaints",
+  "generatedAt": "2026-06-23T16:27:35.570Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Cadillac CT4. The contact stated while driving 70 MPH, on several occasions, the vehicle failed to accelerate, hesitated, and then stalled. The vehicle was towed on three occasions to the local dealer, who was unable to determine the cause of the failure. ",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle shudders and loses power when accelerating fast. My wife almost got hit when she pulled out in traffic the car stalled out. It is due to the cylinder deactivation (afm).",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle shudders and loses power when accelerating fast. My wife almost got hit when she pulled out in traffic the car stalled out. It is due to the cylinder deactivation (afm).",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Cadillac CT4. The contact stated that the \"Service Safety Restraint System\" message was displayed on the instrument panel while driving. The vehicle was taken to the dealer who diagnosed that the air bags needed to be replaced. The vehicle was not repaired",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Cadillac Ct4 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Cadillac CT4. The contact stated while driving 70 MPH, on several occasions, the vehicle failed to accelerate, hesitated, and then stalled. The vehicle was towed on three occasions to the local dealer, who was unable to determine the cause of the failure. ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle shudders and loses power when accelerating fast. My wife almost got hit when she pulled out in traffic the car stalled out. It is due to the cylinder deactivation (afm).",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle shudders and loses power when accelerating fast. My wife almost got hit when she pulled out in traffic the car stalled out. It is due to the cylinder deactivation (afm).",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Cadillac CT4. The contact stated that the \"Service Safety Restraint System\" message was displayed on the instrument panel while driving. The vehicle was taken to the dealer who diagnosed that the air bags needed to be replaced. The vehicle was not repaired",
+        "pct": 25,
+        "title": "Air Bags",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

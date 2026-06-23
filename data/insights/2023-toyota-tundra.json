@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-tundra",
+  "make": "Toyota",
+  "model": "Tundra",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/TUNDRA#complaints",
+  "generatedAt": "2026-06-23T16:41:37.413Z",
+  "total": 365,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 145,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Merging into a highway vehicle lost power.  Wouldn’t accelerate above 50 mph.  Had multiple warning come on the dash, power lost, hybrid system failure, park daisy failure.   Turned my hazards on a proceeded to safety.  Definitely nerve racking,  wouldn’t want this to happen when",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 79,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Vehicle started making loud clunking sounds at around 500 miles in rear of vehicle while moving at low speeds. Gradually became louder. Dealership claimed bad rotors on rear wheels causing this, turned rotors then eventually replaced. Found that driveshaft was \"bad\". Attempted to",
+      "pct": 22
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 58,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I fueled my vehicle and once I started my car my fuel gauge remained the same, as if I never put full. I turned off the my vehicle and stared it again. The fuel level still did not change. I went to another pump to see if there was actual fuel from the other pump that went into t",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 37,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Toyota Tundra. The contact received notification of NHTSA Campaign Number: 24V381000 (Engine and Engine Cooling). The contact stated while driving approximately 70 MPH, the instrument panel fluttered, and the vehicle stalled. The vehicle was not able to be",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Merging into a highway vehicle lost power.  Wouldn’t accelerate above 50 mph.  Had multiple warning come on the dash, power lost, hybrid system failure, park daisy failure.   Turned my hazards on a proceeded to safety.  Definitely nerve racking,  wouldn’t want this to happen when",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Tundra owners report most",
+    "summary": "Across 365 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 145,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Merging into a highway vehicle lost power.  Wouldn’t accelerate above 50 mph.  Had multiple warning come on the dash, power lost, hybrid system failure, park daisy failure.   Turned my hazards on a proceeded to safety.  Definitely nerve racking,  wouldn’t want this to happen when",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "145 reports (40%) · 3 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 79,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Vehicle started making loud clunking sounds at around 500 miles in rear of vehicle while moving at low speeds. Gradually became louder. Dealership claimed bad rotors on rear wheels causing this, turned rotors then eventually replaced. Found that driveshaft was \"bad\". Attempted to",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "79 reports (22%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 58,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I fueled my vehicle and once I started my car my fuel gauge remained the same, as if I never put full. I turned off the my vehicle and stared it again. The fuel level still did not change. I went to another pump to see if there was actual fuel from the other pump that went into t",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "58 reports (16%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 37,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Toyota Tundra. The contact received notification of NHTSA Campaign Number: 24V381000 (Engine and Engine Cooling). The contact stated while driving approximately 70 MPH, the instrument panel fluttered, and the vehicle stalled. The vehicle was not able to be",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "37 reports (10%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Merging into a highway vehicle lost power.  Wouldn’t accelerate above 50 mph.  Had multiple warning come on the dash, power lost, hybrid system failure, park daisy failure.   Turned my hazards on a proceeded to safety.  Definitely nerve racking,  wouldn’t want this to happen when",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "37 reports (10%) · 2 fire · 1 crash"
+      }
+    ]
+  }
+}

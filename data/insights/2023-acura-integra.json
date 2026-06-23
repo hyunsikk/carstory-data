@@ -1,0 +1,128 @@
+{
+  "slug": "2023-acura-integra",
+  "make": "Acura",
+  "model": "Integra",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/ACURA/INTEGRA#complaints",
+  "generatedAt": "2026-06-23T16:24:50.596Z",
+  "total": 206,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 188,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on December 19, 2022 and noticed difficulty steering at cruising speeds (45mph). The steering became resistant to small movements. It did not move smoothly when I turned it to make minor adjustments, it required extra force to move from a still position. Once I appl",
+      "pct": 91
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The calibration for the blind spot is off, it detects there’s a vehicle in the blind spot and beeps when I try to change lanes although the vehicle is clearly behind my vehicle and is safe to change lanes. Another issue is that on the dash when I change songs sometimes on Apple C",
+      "pct": 6
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "For the 6th time, my 2023 Acura Integra A-Spec with the 6spd manual transmission has completely shut off. While the immediate thought might be that I stalled or the auto stop/start engaged, that's not the case here. The car completely shuts off. Almost like a hard reset, the engi",
+      "pct": 2
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving at 75 to 80 mph speeds on interstate, and had approximately 4 to 5 seconds (400 feet+ at 75 mph) of clearance ahead of me before the next car.  I had cruise control enabled and the adaptive cruise control was on the closest setting. Weather was clear and sunny and the",
+      "pct": 2
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "For the 6th time, my 2023 Acura Integra A-Spec with the 6spd manual transmission has completely shut off. While the immediate thought might be that I stalled or the auto stop/start engaged, that's not the case here. The car completely shuts off. Almost like a hard reset, the engi",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Acura Integra owners report most",
+    "summary": "Across 206 owner complaints to NHTSA, the most reported area is Steering (91% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 188,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on December 19, 2022 and noticed difficulty steering at cruising speeds (45mph). The steering became resistant to small movements. It did not move smoothly when I turned it to make minor adjustments, it required extra force to move from a still position. Once I appl",
+        "pct": 91,
+        "title": "Steering",
+        "blurb": "188 reports (91%) · 3 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The calibration for the blind spot is off, it detects there’s a vehicle in the blind spot and beeps when I try to change lanes although the vehicle is clearly behind my vehicle and is safe to change lanes. Another issue is that on the dash when I change songs sometimes on Apple C",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "12 reports (6%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "For the 6th time, my 2023 Acura Integra A-Spec with the 6spd manual transmission has completely shut off. While the immediate thought might be that I stalled or the auto stop/start engaged, that's not the case here. The car completely shuts off. Almost like a hard reset, the engi",
+        "pct": 2,
+        "title": "Engine",
+        "blurb": "5 reports (2%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving at 75 to 80 mph speeds on interstate, and had approximately 4 to 5 seconds (400 feet+ at 75 mph) of clearance ahead of me before the next car.  I had cruise control enabled and the adaptive cruise control was on the closest setting. Weather was clear and sunny and the",
+        "pct": 2,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (2%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "For the 6th time, my 2023 Acura Integra A-Spec with the 6spd manual transmission has completely shut off. While the immediate thought might be that I stalled or the auto stop/start engaged, that's not the case here. The car completely shuts off. Almost like a hard reset, the engi",
+        "pct": 2,
+        "title": "Electrical System",
+        "blurb": "4 reports (2%)"
+      }
+    ]
+  }
+}

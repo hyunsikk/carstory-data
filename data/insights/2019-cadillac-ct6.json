@@ -1,0 +1,128 @@
+{
+  "slug": "2019-cadillac-ct6",
+  "make": "Cadillac",
+  "model": "CT6",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CADILLAC/CT6#complaints",
+  "generatedAt": "2026-06-23T16:27:40.617Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Cadillac CT6. The contact stated that while driving at undisclosed speeds, the wheels locked up. The traction control warning light was illuminated. Additionally, while driving at an undisclosed speed, the transmission shifted hard. The 4WD service message",
+      "pct": 80
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 CADILLAC CT6. WHILE DRIVING, THE BRAKE SYSTEM FAILED TO ENGAGE. THE VEHICLE WAS TAKEN TO AN UNKNOWN DEALER WHERE IT WAS DIAGNOSED THAT THE BRAKE BOOSTER FAILED AND NEEDED TO BE REPLACED. THE MANUFACTURER WAS CONTACTED AND PROVIDED CASE NUMBER: 9-561094",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ABS system error StabiliTrak error Cruise Control error  Vehicle with <14,000 miles is exhibiting symptoms of earlier ABS recall.",
+      "pct": 7
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ABS system error StabiliTrak error Cruise Control error  Vehicle with <14,000 miles is exhibiting symptoms of earlier ABS recall.",
+      "pct": 7
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HELLO, ON AN ESTIMATED 8+ TIMES, I PUT MY VEHICLE INTO GEAR, DROVE OFF AND BOTH MY SIDE VIEW MIRRORS WERE IN THE CLOSED/UP POSITION.  I HAVE LEARNED FROM GM SUPPORT THAT GM DID NOT DEVELOP SOFTWARE WHERE THE MIRRORS AUTOMATICALLY OPEN: WHEN EITHER OPENING THE DOORS OR PUTTING INT",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Cadillac Ct6 owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Power Train (80% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Cadillac CT6. The contact stated that while driving at undisclosed speeds, the wheels locked up. The traction control warning light was illuminated. Additionally, while driving at an undisclosed speed, the transmission shifted hard. The 4WD service message",
+        "pct": 80,
+        "title": "Power Train",
+        "blurb": "12 reports (80%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 CADILLAC CT6. WHILE DRIVING, THE BRAKE SYSTEM FAILED TO ENGAGE. THE VEHICLE WAS TAKEN TO AN UNKNOWN DEALER WHERE IT WAS DIAGNOSED THAT THE BRAKE BOOSTER FAILED AND NEEDED TO BE REPLACED. THE MANUFACTURER WAS CONTACTED AND PROVIDED CASE NUMBER: 9-561094",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ABS system error StabiliTrak error Cruise Control error  Vehicle with <14,000 miles is exhibiting symptoms of earlier ABS recall.",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ABS system error StabiliTrak error Cruise Control error  Vehicle with <14,000 miles is exhibiting symptoms of earlier ABS recall.",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HELLO, ON AN ESTIMATED 8+ TIMES, I PUT MY VEHICLE INTO GEAR, DROVE OFF AND BOTH MY SIDE VIEW MIRRORS WERE IN THE CLOSED/UP POSITION.  I HAVE LEARNED FROM GM SUPPORT THAT GM DID NOT DEVELOP SOFTWARE WHERE THE MIRRORS AUTOMATICALLY OPEN: WHEN EITHER OPENING THE DOORS OR PUTTING INT",
+        "pct": 7,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

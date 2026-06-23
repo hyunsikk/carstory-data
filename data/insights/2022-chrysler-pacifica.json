@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chrysler-pacifica",
+  "make": "Chrysler",
+  "model": "Pacifica",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHRYSLER/PACIFICA#complaints",
+  "generatedAt": "2026-06-23T16:29:10.736Z",
+  "total": 186,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 66,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car stalled while driving.  I was driving down a city street and the engine cut off and a message on the dash read \"Put Vehicle in P to start.\"  I pulled over and it took several minutes to get the car to restart.  This happened several times on the way back to the dealership",
+      "pct": 35
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 65,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car stalled while driving.  I was driving down a city street and the engine cut off and a message on the dash read \"Put Vehicle in P to start.\"  I pulled over and it took several minutes to get the car to restart.  This happened several times on the way back to the dealership",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 49,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On 2/24/2022, we were merging onto the highway when the van powered itself off. The engine light came on. We pulled over, got the van back on, and pulled back onto highway. Almost immediately, the van shut itself off again.   On 2/25/2022, on the way to the dealership, the van on",
+      "pct": 26
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car stalled while driving.  I was driving down a city street and the engine cut off and a message on the dash read \"Put Vehicle in P to start.\"  I pulled over and it took several minutes to get the car to restart.  This happened several times on the way back to the dealership",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 14,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "While reversing out of driveway with 4.3 deg. to 5.5 deg. down slope, car stopped with rear in street while displaying an apparent rear collision symbol. There was no cross traffic and a car parked along the curb on passenger side was not encroaching on driveway. Car then refused",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Chrysler Pacifica owners report most",
+    "summary": "Across 186 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 66,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car stalled while driving.  I was driving down a city street and the engine cut off and a message on the dash read \"Put Vehicle in P to start.\"  I pulled over and it took several minutes to get the car to restart.  This happened several times on the way back to the dealership",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "66 reports (35%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 65,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car stalled while driving.  I was driving down a city street and the engine cut off and a message on the dash read \"Put Vehicle in P to start.\"  I pulled over and it took several minutes to get the car to restart.  This happened several times on the way back to the dealership",
+        "pct": 35,
+        "title": "Power Train",
+        "blurb": "65 reports (35%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 49,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On 2/24/2022, we were merging onto the highway when the van powered itself off. The engine light came on. We pulled over, got the van back on, and pulled back onto highway. Almost immediately, the van shut itself off again.   On 2/25/2022, on the way to the dealership, the van on",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "49 reports (26%) · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car stalled while driving.  I was driving down a city street and the engine cut off and a message on the dash read \"Put Vehicle in P to start.\"  I pulled over and it took several minutes to get the car to restart.  This happened several times on the way back to the dealership",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "22 reports (12%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 14,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "While reversing out of driveway with 4.3 deg. to 5.5 deg. down slope, car stopped with rear in street while displaying an apparent rear collision symbol. There was no cross traffic and a car parked along the curb on passenger side was not encroaching on driveway. Car then refused",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "14 reports (8%) · 1 fire · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

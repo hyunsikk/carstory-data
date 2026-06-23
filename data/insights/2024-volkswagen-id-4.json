@@ -1,0 +1,128 @@
+{
+  "slug": "2024-volkswagen-id-4",
+  "make": "Volkswagen",
+  "model": "ID.4",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/VOLKSWAGEN/ID.4#complaints",
+  "generatedAt": "2026-06-23T16:41:59.410Z",
+  "total": 46,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Volkswagon is being irresponsible with their response to resolving the door issue on my vehicle. The door has opened twice while driving as clearly related to an electrical issue. This is a very dangerous scenario as I cannot predict which door opens at which time. It could be an",
+      "pct": 54
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Volkswagon is being irresponsible with their response to resolving the door issue on my vehicle. The door has opened twice while driving as clearly related to an electrical issue. This is a very dangerous scenario as I cannot predict which door opens at which time. It could be an",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When stopping on an incline: the vehicle comes to a stop with the brake pedal. If you let up on the brakes, the vehicle will start rolling backwards because the brakes are not creating enough pressure to hold the vehicle and the electric motor has disengaged to save energy. The i",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing this formal complaint with the National Highway Traffic Safety Administration regarding a critical safety failure involving my 2024 Volkswagen ID.4. The incident, which occurred on [XXX], involved sudden and unintended acceleration while slowly parking at a Walgreens ",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car's turtle light was on, and the car started moving slowly with instructions to part the car immediately. I brought the car to the service on 10/18/2024, and they could not diagnose it after 3 hours. I returned the vehicle on 10/21/2024 with the same complaint, and the car ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Volkswagen Id.4 owners report most",
+    "summary": "Across 46 owner complaints to NHTSA, the most reported area is Electrical System (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Volkswagon is being irresponsible with their response to resolving the door issue on my vehicle. The door has opened twice while driving as clearly related to an electrical issue. This is a very dangerous scenario as I cannot predict which door opens at which time. It could be an",
+        "pct": 54,
+        "title": "Electrical System",
+        "blurb": "25 reports (54%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Volkswagon is being irresponsible with their response to resolving the door issue on my vehicle. The door has opened twice while driving as clearly related to an electrical issue. This is a very dangerous scenario as I cannot predict which door opens at which time. It could be an",
+        "pct": 15,
+        "title": "Structure",
+        "blurb": "7 reports (15%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When stopping on an incline: the vehicle comes to a stop with the brake pedal. If you let up on the brakes, the vehicle will start rolling backwards because the brakes are not creating enough pressure to hold the vehicle and the electric motor has disengaged to save energy. The i",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "6 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing this formal complaint with the National Highway Traffic Safety Administration regarding a critical safety failure involving my 2024 Volkswagen ID.4. The incident, which occurred on [XXX], involved sudden and unintended acceleration while slowly parking at a Walgreens ",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (13%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car's turtle light was on, and the car started moving slowly with instructions to part the car immediately. I brought the car to the service on 10/18/2024, and they could not diagnose it after 3 hours. I returned the vehicle on 10/21/2024 with the same complaint, and the car ",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (11%)"
+      }
+    ]
+  }
+}

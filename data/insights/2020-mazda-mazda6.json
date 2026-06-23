@@ -1,0 +1,84 @@
+{
+  "slug": "2020-mazda-mazda6",
+  "make": "Mazda",
+  "model": "Mazda6",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MAZDA/MAZDA6#complaints",
+  "generatedAt": "2026-06-23T16:38:08.639Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Uneven premature brake wear.  Right front and right rear pads and rotors worn beyond limits in 28,000miles of lite freeway driving.  Left front and Left rear only half worn.  Engine has multiple oil leaks.",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Uneven premature brake wear.  Right front and right rear pads and rotors worn beyond limits in 28,000miles of lite freeway driving.  Left front and Left rear only half worn.  Engine has multiple oil leaks.",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "EXCESSIVE PAINT CHIPPING. I HAVE THE SOUL RED  (V46) PAINT.  IT WAS PURCHASED ON 06JUN2020 AND HAS ONLY 2,000 MILES BUT IT HAS 3 LARGE CHIPS.  MOST OF THE MILES ARE JUST GOING TO THE STORE. I WORK FROM HOME SO I DON'T DRIVE BUT A COUPLE DAYS A WEEK.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mazda Mazda6 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Service Brakes (50% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Uneven premature brake wear.  Right front and right rear pads and rotors worn beyond limits in 28,000miles of lite freeway driving.  Left front and Left rear only half worn.  Engine has multiple oil leaks.",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Uneven premature brake wear.  Right front and right rear pads and rotors worn beyond limits in 28,000miles of lite freeway driving.  Left front and Left rear only half worn.  Engine has multiple oil leaks.",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "EXCESSIVE PAINT CHIPPING. I HAVE THE SOUL RED  (V46) PAINT.  IT WAS PURCHASED ON 06JUN2020 AND HAS ONLY 2,000 MILES BUT IT HAS 3 LARGE CHIPS.  MOST OF THE MILES ARE JUST GOING TO THE STORE. I WORK FROM HOME SO I DON'T DRIVE BUT A COUPLE DAYS A WEEK.",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

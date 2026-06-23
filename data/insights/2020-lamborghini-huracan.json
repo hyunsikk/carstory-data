@@ -1,0 +1,40 @@
+{
+  "slug": "2020-lamborghini-huracan",
+  "make": "Lamborghini",
+  "model": "Huracan",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LAMBORGHINI/HURACAN#complaints",
+  "generatedAt": "2026-06-23T16:46:24.838Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "[XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lamborghini Huracan owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "[XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%) · 1 fire"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-genesis-electrified-gv70",
+  "make": "Genesis",
+  "model": "Electrified GV70",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/ELECTRIFIED%20GV70#complaints",
+  "generatedAt": "2026-06-23T16:30:57.183Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Complete power outage when parking the car, after pressing the power button. Car did not go through shutoff mode. Parking brake was not engaged, so car would roll if foot brake was released. Could not restart vehicle, and no electrical switches worked. Doors would not unlock, rea",
+      "pct": 60
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This was a certified (CPO) car purchased in April and on the first highway drive the front engine under cover (aka skid plate) came loose and rendered the car inoperable as it was violently flapping under the car and in danger of coming loose which would have caused significant r",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Complete power outage when parking the car, after pressing the power button. Car did not go through shutoff mode. Parking brake was not engaged, so car would roll if foot brake was released. Could not restart vehicle, and no electrical switches worked. Doors would not unlock, rea",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Complete power outage when parking the car, after pressing the power button. Car did not go through shutoff mode. Parking brake was not engaged, so car would roll if foot brake was released. Could not restart vehicle, and no electrical switches worked. Doors would not unlock, rea",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving, instrument cluster and infotainment system both went dark. Car was still driveable, but speedometer remained fixed and did not reflect vehicle speed. Indicator stalk did not activate turn signals. Hazard button did not activate emergency flashers. Reset gesture (ho",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis Electrified Gv70 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (60% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Complete power outage when parking the car, after pressing the power button. Car did not go through shutoff mode. Parking brake was not engaged, so car would roll if foot brake was released. Could not restart vehicle, and no electrical switches worked. Doors would not unlock, rea",
+        "pct": 60,
+        "title": "Electrical System",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This was a certified (CPO) car purchased in April and on the first highway drive the front engine under cover (aka skid plate) came loose and rendered the car inoperable as it was violently flapping under the car and in danger of coming loose which would have caused significant r",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Complete power outage when parking the car, after pressing the power button. Car did not go through shutoff mode. Parking brake was not engaged, so car would roll if foot brake was released. Could not restart vehicle, and no electrical switches worked. Doors would not unlock, rea",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Complete power outage when parking the car, after pressing the power button. Car did not go through shutoff mode. Parking brake was not engaged, so car would roll if foot brake was released. Could not restart vehicle, and no electrical switches worked. Doors would not unlock, rea",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving, instrument cluster and infotainment system both went dark. Car was still driveable, but speedometer remained fixed and did not reflect vehicle speed. Indicator stalk did not activate turn signals. Hazard button did not activate emergency flashers. Reset gesture (ho",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

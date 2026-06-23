@@ -1,0 +1,128 @@
+{
+  "slug": "2022-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:57.318Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1. THE MONITOR ON THE VEHICLE WENT BLACK ON 2 SEPARATE OCCASIONS SO FAR WHILE THE VEHICLE WAS MOVING. THE SCREEN REBOOTED BUT CAUSES THE RETRACTABLE RUNNING BOARDS TO BE LOCKED IN THE UP POSITION. IN ORDER TO ADDRESS THE RUNNING BOARDS YOU MUST GO INTO THE SETTINGS AND ADJUST THE",
+      "pct": 40
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 1,
+      "sample": "I was driving and didn't notice this truck ahead of me as I switched lanes. Although fault is questionable since the truck we traveling extremely slow on the highway, my vehicle had plenty of time to stop with the Pre-Collision System.  That system is intended to avoid front end ",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I purchased a new 2022 Lincoln Navigator Reserve L and just took a 3000 mile road trip and used their Active Glide driver assistance extensively and have uncovered a MAJOR safety issue with their system.  The issue I found is that when using the adaptive cruise control feature th",
+      "pct": 20
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Lincoln Navigator. The contact received notifications of NHTSA Campaign Numbers: 25V455000 (Fuel System Gasoline) and 26V165000 (Back Over Prevention, Electrical System); however, the parts to do the recall repairs were not yet available. The dealer was co",
+      "pct": 10
+    },
+    {
+      "component": "GASOLINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Lincoln Navigator. The contact received notifications of NHTSA Campaign Numbers: 25V455000 (Fuel System Gasoline) and 26V165000 (Back Over Prevention, Electrical System); however, the parts to do the recall repairs were not yet available. The dealer was co",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Lincoln Navigator owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1. THE MONITOR ON THE VEHICLE WENT BLACK ON 2 SEPARATE OCCASIONS SO FAR WHILE THE VEHICLE WAS MOVING. THE SCREEN REBOOTED BUT CAUSES THE RETRACTABLE RUNNING BOARDS TO BE LOCKED IN THE UP POSITION. IN ORDER TO ADDRESS THE RUNNING BOARDS YOU MUST GO INTO THE SETTINGS AND ADJUST THE",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "8 reports (40%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 1,
+        "sample": "I was driving and didn't notice this truck ahead of me as I switched lanes. Although fault is questionable since the truck we traveling extremely slow on the highway, my vehicle had plenty of time to stop with the Pre-Collision System.  That system is intended to avoid front end ",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "4 reports (20%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I purchased a new 2022 Lincoln Navigator Reserve L and just took a 3000 mile road trip and used their Active Glide driver assistance extensively and have uncovered a MAJOR safety issue with their system.  The issue I found is that when using the adaptive cruise control feature th",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Lincoln Navigator. The contact received notifications of NHTSA Campaign Numbers: 25V455000 (Fuel System Gasoline) and 26V165000 (Back Over Prevention, Electrical System); however, the parts to do the recall repairs were not yet available. The dealer was co",
+        "pct": 10,
+        "title": "Fuel System",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Lincoln Navigator. The contact received notifications of NHTSA Campaign Numbers: 25V455000 (Fuel System Gasoline) and 26V165000 (Back Over Prevention, Electrical System); however, the parts to do the recall repairs were not yet available. The dealer was co",
+        "pct": 10,
+        "title": "Gasoline",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

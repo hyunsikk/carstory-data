@@ -1,0 +1,106 @@
+{
+  "slug": "2016-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:53.668Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2016 Porsche Panamera. The contact stated that while driving at 2 MPH and while the contact attempted to make a right turn when the brake pedal was depressed, the brakes failed to engage inadvertently. The steering column also became inoperable. The vehicle wo",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2016 Porsche Panamera. The contact stated that while driving at 2 MPH and while the contact attempted to make a right turn when the brake pedal was depressed, the brakes failed to engage inadvertently. The steering column also became inoperable. The vehicle wo",
+      "pct": 33
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 Porsche Panamera. The contact received a phone call and was notified of NHTSA Campaign Number: 22V656000 (Exterior Lighting) however, the part to do the recall repair was not yet available. The dealer notified the contact of the recall and confirmed that p",
+      "pct": 33
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE ALMOST COLLIDED IN SEVERAL INSTANCES DUE TO THE REAR BACKUP CAMERA. IT IS ALMOST USELESS AFTER PORSCHE AUTHORIZED DEALER REPAIR.  IT IS NOW A DEFECTIVE BACK UP CAMERA. DEALER SAID WHEN THEY REPAIRED REAR OF MY VEHICLE THEY DID A SOFTWARE UPDATE AND THE REAR CAMERA UPDATE C",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Porsche Panamera owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2016 Porsche Panamera. The contact stated that while driving at 2 MPH and while the contact attempted to make a right turn when the brake pedal was depressed, the brakes failed to engage inadvertently. The steering column also became inoperable. The vehicle wo",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2016 Porsche Panamera. The contact stated that while driving at 2 MPH and while the contact attempted to make a right turn when the brake pedal was depressed, the brakes failed to engage inadvertently. The steering column also became inoperable. The vehicle wo",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 Porsche Panamera. The contact received a phone call and was notified of NHTSA Campaign Number: 22V656000 (Exterior Lighting) however, the part to do the recall repair was not yet available. The dealer notified the contact of the recall and confirmed that p",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE ALMOST COLLIDED IN SEVERAL INSTANCES DUE TO THE REAR BACKUP CAMERA. IT IS ALMOST USELESS AFTER PORSCHE AUTHORIZED DEALER REPAIR.  IT IS NOW A DEFECTIVE BACK UP CAMERA. DEALER SAID WHEN THEY REPAIRED REAR OF MY VEHICLE THEY DID A SOFTWARE UPDATE AND THE REAR CAMERA UPDATE C",
+        "pct": 33,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

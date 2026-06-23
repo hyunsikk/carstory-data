@@ -1,0 +1,128 @@
+{
+  "slug": "2017-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/FORD/TAURUS#complaints",
+  "generatedAt": "2026-06-23T16:30:50.282Z",
+  "total": 43,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD TAURUS. THE CONTACT STATED THAT THE KEY WAS ABLE TO BE REMOVED FROM THE IGNITION WITHOUT THE VEHICLE BEING ENGAGED IN THE PARK POSITION. THE FAILURE OCCURRED WITHOUT WARNING. SUNNY KING FORD (1507 S QUINTARD AVE, ANNISTON, AL) WAS CONTACTED AND CO",
+      "pct": 26
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Ford Taurus. The contact stated that the vehicle was taken to an independent mechanic for rear wheel alignment. The contact stated that rear toe link fractured during the rear alignment process. The vehicle was repaired. The manufacturer was not made aware",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS TRAVELLING ON A FREEWAY ~70MPH IN LEFT HAND LANE.  WITHOUT WARNING THE INSTRUMENT CLUSTER WENT BLACK AND THE ENGINE STOPPED.  THE VEHICLE STARTED TO DECELERATE AND THERE WAS NO RESPONSE FROM THE THROTTLE PEDAL.  AN ORANGE BOX APPEARED ON THE LEFT HAND SIDE OF THE SPEEDOMETE",
+      "pct": 9
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE HEADLIGHTS ARE A FIXED POINT BEAM FOR BRIGHTS WITH SHUTTERS FOR DIMS. THE LIGHTS POINT DOWN AND TO THE RIGHT, THEY NEVER CHANGE, SO WHEN THE SHUTTERS ARE LIFTED THE BEAMS DON'T CHANGE THEY ARE STILL POINTED DOWN AND TO THE RIGHT. THE ONLY THING THAT CHANGES IS A LITTLE REFLEC",
+      "pct": 9
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER DRIVING >2 HOURS NON-STOP ON HIGHWAY THE STEERING BECAME DIFFICULT TO CONTROL.  THERE WAS RESISTANCE TO SUBTLE STEERING EFFORTS IN BOTH DIRECTIONS.  IT FELT LIKE THE STEERING WAS STICKING.  WHEN ENOUGH STEERING FORCE WAS APPLIED IT WOULD SUDDENLY RESPOND.  BECAUSE OF THE FO",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Ford Taurus owners report most",
+    "summary": "Across 43 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD TAURUS. THE CONTACT STATED THAT THE KEY WAS ABLE TO BE REMOVED FROM THE IGNITION WITHOUT THE VEHICLE BEING ENGAGED IN THE PARK POSITION. THE FAILURE OCCURRED WITHOUT WARNING. SUNNY KING FORD (1507 S QUINTARD AVE, ANNISTON, AL) WAS CONTACTED AND CO",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "11 reports (26%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Ford Taurus. The contact stated that the vehicle was taken to an independent mechanic for rear wheel alignment. The contact stated that rear toe link fractured during the rear alignment process. The vehicle was repaired. The manufacturer was not made aware",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "6 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS TRAVELLING ON A FREEWAY ~70MPH IN LEFT HAND LANE.  WITHOUT WARNING THE INSTRUMENT CLUSTER WENT BLACK AND THE ENGINE STOPPED.  THE VEHICLE STARTED TO DECELERATE AND THERE WAS NO RESPONSE FROM THE THROTTLE PEDAL.  AN ORANGE BOX APPEARED ON THE LEFT HAND SIDE OF THE SPEEDOMETE",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "4 reports (9%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE HEADLIGHTS ARE A FIXED POINT BEAM FOR BRIGHTS WITH SHUTTERS FOR DIMS. THE LIGHTS POINT DOWN AND TO THE RIGHT, THEY NEVER CHANGE, SO WHEN THE SHUTTERS ARE LIFTED THE BEAMS DON'T CHANGE THEY ARE STILL POINTED DOWN AND TO THE RIGHT. THE ONLY THING THAT CHANGES IS A LITTLE REFLEC",
+        "pct": 9,
+        "title": "Exterior Lighting",
+        "blurb": "4 reports (9%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER DRIVING >2 HOURS NON-STOP ON HIGHWAY THE STEERING BECAME DIFFICULT TO CONTROL.  THERE WAS RESISTANCE TO SUBTLE STEERING EFFORTS IN BOTH DIRECTIONS.  IT FELT LIKE THE STEERING WAS STICKING.  WHEN ENOUGH STEERING FORCE WAS APPLIED IT WOULD SUDDENLY RESPOND.  BECAUSE OF THE FO",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "3 reports (7%)"
+      }
+    ]
+  }
+}

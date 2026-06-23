@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mercedes-benz-gle",
+  "make": "Mercedes-Benz",
+  "model": "GLE",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/GLE#complaints",
+  "generatedAt": "2026-06-23T16:38:38.007Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received the attached Notice of Safety recall on 2/2/24 regarding an increase risk of crash due to a software error in the ESP unit. The letter also states that there is no remedy available yet. When I reached out to dealership who leased me the car they assured me that my car ",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mercedes-Benz GLE 450. The contact stated that while driving at 30 MPH, the vehicle came to a sudden stop while approaching a puddle of water. The contact was thrown forward. There was an unknown warning light illuminated. The air bags did not deploy. The ",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 3000K miles, vehicle spontaneously slowed from 60 mph to 10 mph with no warning.  Message: PERFORMANCE EXTREMELY LIMITED, Engine light, turtle sign. Tractor trailer truck behind us swerved and narrowly avoided hitting our vehicle.  Car towed to MB Dealership. Over 5 weeks, the",
+      "pct": 15
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While coming off the highway on an exit ramp, several car warnings/lights appeared and the car abruptly decelerated such that I could not drive more than ~30 miles/hour.  The warning message said \"performance extremely limited\" and two warning lights (an engine and a turtle) came",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2024 GLE450: This engine has twin turbos.  On second day of ownership a \"yellow turtle\" warning light appeared on dash.  This indicated loss of significant engine power (i.e. hence the \"turtle mode\").  This happened, without warning, multiple times on highway during first few day",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Gle owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Service Brakes (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received the attached Notice of Safety recall on 2/2/24 regarding an increase risk of crash due to a software error in the ESP unit. The letter also states that there is no remedy available yet. When I reached out to dealership who leased me the car they assured me that my car ",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "9 reports (23%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mercedes-Benz GLE 450. The contact stated that while driving at 30 MPH, the vehicle came to a sudden stop while approaching a puddle of water. The contact was thrown forward. There was an unknown warning light illuminated. The air bags did not deploy. The ",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (15%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 3000K miles, vehicle spontaneously slowed from 60 mph to 10 mph with no warning.  Message: PERFORMANCE EXTREMELY LIMITED, Engine light, turtle sign. Tractor trailer truck behind us swerved and narrowly avoided hitting our vehicle.  Car towed to MB Dealership. Over 5 weeks, the",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While coming off the highway on an exit ramp, several car warnings/lights appeared and the car abruptly decelerated such that I could not drive more than ~30 miles/hour.  The warning message said \"performance extremely limited\" and two warning lights (an engine and a turtle) came",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2024 GLE450: This engine has twin turbos.  On second day of ownership a \"yellow turtle\" warning light appeared on dash.  This indicated loss of significant engine power (i.e. hence the \"turtle mode\").  This happened, without warning, multiple times on highway during first few day",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "5 reports (13%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2019-jaguar-e-pace",
+  "make": "Jaguar",
+  "model": "E-PACE",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/JAGUAR/E-PACE#complaints",
+  "generatedAt": "2026-06-23T16:35:04.419Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Description of Incident:  While driving on the highway, my 2019 Jaguar E-PACE suddenly and without warning lost power, putting myself and others at serious risk. The vehicle went into limp mode with no prior indication of any issues. Once the failure occurred, a warning message a",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT RANDOM INTERVALS, THE ENGINE FAN GO INTO A 'ROAR' AT 100% RPM AND NOT STOP UNTIL THE CAR IS SHUT OFF. THIS OCCURS REGARDLESS OF THE OUTSIDE TEMPERATURE (SUMMER AT 90F, WINTER AT 30F AKA JUST NOW).  THE FAN NOISE IS NOT PROPORTIONAL TO THE ENGINE RPM AND REMAINS CONSTANT ONCE I",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT RANDOM INTERVALS, THE ENGINE FAN GO INTO A 'ROAR' AT 100% RPM AND NOT STOP UNTIL THE CAR IS SHUT OFF. THIS OCCURS REGARDLESS OF THE OUTSIDE TEMPERATURE (SUMMER AT 90F, WINTER AT 30F AKA JUST NOW).  THE FAN NOISE IS NOT PROPORTIONAL TO THE ENGINE RPM AND REMAINS CONSTANT ONCE I",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Jaguar E-Pace owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Description of Incident:  While driving on the highway, my 2019 Jaguar E-PACE suddenly and without warning lost power, putting myself and others at serious risk. The vehicle went into limp mode with no prior indication of any issues. Once the failure occurred, a warning message a",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT RANDOM INTERVALS, THE ENGINE FAN GO INTO A 'ROAR' AT 100% RPM AND NOT STOP UNTIL THE CAR IS SHUT OFF. THIS OCCURS REGARDLESS OF THE OUTSIDE TEMPERATURE (SUMMER AT 90F, WINTER AT 30F AKA JUST NOW).  THE FAN NOISE IS NOT PROPORTIONAL TO THE ENGINE RPM AND REMAINS CONSTANT ONCE I",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT RANDOM INTERVALS, THE ENGINE FAN GO INTO A 'ROAR' AT 100% RPM AND NOT STOP UNTIL THE CAR IS SHUT OFF. THIS OCCURS REGARDLESS OF THE OUTSIDE TEMPERATURE (SUMMER AT 90F, WINTER AT 30F AKA JUST NOW).  THE FAN NOISE IS NOT PROPORTIONAL TO THE ENGINE RPM AND REMAINS CONSTANT ONCE I",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      }
+    ]
+  }
+}

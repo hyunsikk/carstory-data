@@ -1,0 +1,128 @@
+{
+  "slug": "2018-audi-q3",
+  "make": "Audi",
+  "model": "Q3",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/Q3#complaints",
+  "generatedAt": "2026-06-23T16:25:51.882Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Audi Q3. The contact stated while driving 45 MPH, the vehicle lost motive power and stalled without warning. The contact was assisted by a Police Officer to move the vehicle out of the roadway. The vehicle was towed to the local dealer to be diagnosed but ",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BACK UP CAMERA WON'T WORK WHEN CAR TRANSMISSION IS IN REVERSE, NOR WHEN MANUALLY PRESSING PARK ASSIST BUTTON. THIS HAS HAPPENED ON A COUPLE OF OCCASIONS BEFORE BUT I THOUGHT IT WAS A FLUKE, TODAY BACK UP CAMERA WAS COMPLETELY DISABLED MULTIPLE TIMES WHILE DRIVING WHEN PUTTING TRA",
+      "pct": 24
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "noticed a clicking sound in the steering column that was intermittent; after a week, the airbag light lit up and stayed lit ... per the manual, contacted Audi immediately for service.  Was told it was a \"clock spring module\" and that it would take a few weeks for the part to come",
+      "pct": 16
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Audi Q3 equipped with Continental tires, Tire Line: ContiproContact, Tire Size: P225/40R/19, DOT Number: AF5WWA46 1717. The contact stated that while driving at approximately 30 MPH, the tire pressure monitor indicated that the driver’s side rear tire pres",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In 2020, Volkswagen Group of America, Inc. extended the warranty on its transfer case for 2011 - 2018 Porsche Cayenne and Macan models. This was in response to what one article described as “[m]any Porsche Cayenne and Macan owners have experienced recurring problems with their 4w",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi Q3 owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Engine (24% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Audi Q3. The contact stated while driving 45 MPH, the vehicle lost motive power and stalled without warning. The contact was assisted by a Police Officer to move the vehicle out of the roadway. The vehicle was towed to the local dealer to be diagnosed but ",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "6 reports (24%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BACK UP CAMERA WON'T WORK WHEN CAR TRANSMISSION IS IN REVERSE, NOR WHEN MANUALLY PRESSING PARK ASSIST BUTTON. THIS HAS HAPPENED ON A COUPLE OF OCCASIONS BEFORE BUT I THOUGHT IT WAS A FLUKE, TODAY BACK UP CAMERA WAS COMPLETELY DISABLED MULTIPLE TIMES WHILE DRIVING WHEN PUTTING TRA",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "6 reports (24%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "noticed a clicking sound in the steering column that was intermittent; after a week, the airbag light lit up and stayed lit ... per the manual, contacted Audi immediately for service.  Was told it was a \"clock spring module\" and that it would take a few weeks for the part to come",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "4 reports (16%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Audi Q3 equipped with Continental tires, Tire Line: ContiproContact, Tire Size: P225/40R/19, DOT Number: AF5WWA46 1717. The contact stated that while driving at approximately 30 MPH, the tire pressure monitor indicated that the driver’s side rear tire pres",
+        "pct": 8,
+        "title": "Tires",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In 2020, Volkswagen Group of America, Inc. extended the warranty on its transfer case for 2011 - 2018 Porsche Cayenne and Macan models. This was in response to what one article described as “[m]any Porsche Cayenne and Macan owners have experienced recurring problems with their 4w",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

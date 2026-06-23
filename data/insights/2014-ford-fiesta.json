@@ -1,0 +1,128 @@
+{
+  "slug": "2014-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/FORD/FIESTA#complaints",
+  "generatedAt": "2026-06-23T16:30:33.527Z",
+  "total": 501,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 208,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON THE HIGHWAY AT 65 MPH CAR LOOSES POWER YOU CANT ACCELERATE IT HESITATES AND WANTS TO SHUT OFF AT TIMES IT DOES IT WONT GO UP HILL AND WHEN APPROACHING A STOP LIGHT HESITATES AND SHUTS OFF YOU START IT BACK UP FINE AND IT WONT GO TRANSMISSION FAILS ITS AUTOMATIC TRANSMI",
+      "pct": 42
+    },
+    {
+      "component": "ENGINE",
+      "count": 83,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FORD FIESTA 2014 ENGINE EXCESSIVELY TREMBLES/JUMPS WHEN I ACCELERATE FROM A STOPPED POSITION.   THE CAR DOES ACCELERATE ON ITSELF AT TIMES MOSTLY WHEN I HAVE AC ON OR AFTER TURNING IT OFF.    FORD SHOULD RECALL THIS CAR NOW. OR FIX THIS CAR AND PROVIDE CUSTOMER WITH A PAID RENTAL",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 54,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE 2014 FORD FIESTA, 5 SPEED MANUAL TRANSMISSION, HAS A SINGLE POWER DOOR LOCK BUTTON IN THE MIDDLE OF THE DASHBOARD. IN ORDER TO UNLOCK ALL DOORS, INCLUDING THE TRUNK LATCH, ONE MUST LEAN ALL THE WAY IN TO PRESS THE POWER UNLOCK BUTTON.  THERE IS NO WAY TO UNLOCK THE TRUNK USIN",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 45,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "HEATER BLOWER STOPPED WORKING IN EXTREME COLD CONDITIONS.  VERY DANGEROUS BECAUSE OF ICING OF THE INTERIOR OF THE WINDSHIELD AS WELL AS A LACK OF WARMTH.    FORD ACTUALLY HAS A TSB 13-11-17 ON THE PROBLEM, WHICH SHOULD BE MADE INTO A RECALL.    I REPEAT THIS ISSUE CAN VERY WELL B",
+      "pct": 9
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 FORD FIESTA. THE CONTACT STATED THAT THE REAR PASSENGER SIDE DOOR FAILED TO LATCH WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE DOOR LATCH NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED. THE FAILURE RECURRED. THE C",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Ford Fiesta owners report most",
+    "summary": "Across 501 owner complaints to NHTSA, the most reported area is Power Train (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 208,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON THE HIGHWAY AT 65 MPH CAR LOOSES POWER YOU CANT ACCELERATE IT HESITATES AND WANTS TO SHUT OFF AT TIMES IT DOES IT WONT GO UP HILL AND WHEN APPROACHING A STOP LIGHT HESITATES AND SHUTS OFF YOU START IT BACK UP FINE AND IT WONT GO TRANSMISSION FAILS ITS AUTOMATIC TRANSMI",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "208 reports (42%) · 1 fire · 3 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 83,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FORD FIESTA 2014 ENGINE EXCESSIVELY TREMBLES/JUMPS WHEN I ACCELERATE FROM A STOPPED POSITION.   THE CAR DOES ACCELERATE ON ITSELF AT TIMES MOSTLY WHEN I HAVE AC ON OR AFTER TURNING IT OFF.    FORD SHOULD RECALL THIS CAR NOW. OR FIX THIS CAR AND PROVIDE CUSTOMER WITH A PAID RENTAL",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "83 reports (17%) · 3 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 54,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE 2014 FORD FIESTA, 5 SPEED MANUAL TRANSMISSION, HAS A SINGLE POWER DOOR LOCK BUTTON IN THE MIDDLE OF THE DASHBOARD. IN ORDER TO UNLOCK ALL DOORS, INCLUDING THE TRUNK LATCH, ONE MUST LEAN ALL THE WAY IN TO PRESS THE POWER UNLOCK BUTTON.  THERE IS NO WAY TO UNLOCK THE TRUNK USIN",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "54 reports (11%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 45,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "HEATER BLOWER STOPPED WORKING IN EXTREME COLD CONDITIONS.  VERY DANGEROUS BECAUSE OF ICING OF THE INTERIOR OF THE WINDSHIELD AS WELL AS A LACK OF WARMTH.    FORD ACTUALLY HAS A TSB 13-11-17 ON THE PROBLEM, WHICH SHOULD BE MADE INTO A RECALL.    I REPEAT THIS ISSUE CAN VERY WELL B",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "45 reports (9%) · 1 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 FORD FIESTA. THE CONTACT STATED THAT THE REAR PASSENGER SIDE DOOR FAILED TO LATCH WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE DOOR LATCH NEEDED TO BE REPLACED. THE VEHICLE WAS REPAIRED. THE FAILURE RECURRED. THE C",
+        "pct": 6,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "30 reports (6%) · 1 injured"
+      }
+    ]
+  }
+}

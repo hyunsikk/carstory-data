@@ -1,0 +1,128 @@
+{
+  "slug": "2024-cadillac-xt4",
+  "make": "Cadillac",
+  "model": "XT4",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CADILLAC/XT4#complaints",
+  "generatedAt": "2026-06-23T16:27:51.994Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On four occasions now, the car slammed on the brakes as if the collision detection system was going off. Someone did almost hit me from behind as they needed to slam on their brakes due to my cars collision system going off when not supposed to. This has been well documented with",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving to a local car wash, I stopped at a traffic light. When I tried to accelerate the transmission warning and power reduction waring flashed on HUD. I could not drive or place the car in reverse, the car had lost all its mobility.  I had to let the car coast downhill to pull",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Cadillac XT4. The contact stated while driving at an undisclosed speed, the instrument panel lost power. The contact stated that prior to the complete failure, there were several error messages displayed on the screen. The contact stated that the only func",
+      "pct": 28
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The AEB system engaged when it should not have with no obstructions on [XXX] . I violently jerked, I thought I hit something but did not. The safety of myself and a person following me would have been been compromised.  If someone was closer to me in the rear they would have hit ",
+      "pct": 28
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is my second Cadillac XT 4 in two years and both have experienced the same thing.  As I'm driving and come to a light to stop, the entire vehicle system goes black and cuts off.  This has happened to me know 4 times, were the vehicle becomes disable in the middle of the road",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Cadillac Xt4 owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Service Brakes (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On four occasions now, the car slammed on the brakes as if the collision detection system was going off. Someone did almost hit me from behind as they needed to slam on their brakes due to my cars collision system going off when not supposed to. This has been well documented with",
+        "pct": 36,
+        "title": "Service Brakes",
+        "blurb": "9 reports (36%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving to a local car wash, I stopped at a traffic light. When I tried to accelerate the transmission warning and power reduction waring flashed on HUD. I could not drive or place the car in reverse, the car had lost all its mobility.  I had to let the car coast downhill to pull",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "8 reports (32%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Cadillac XT4. The contact stated while driving at an undisclosed speed, the instrument panel lost power. The contact stated that prior to the complete failure, there were several error messages displayed on the screen. The contact stated that the only func",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "7 reports (28%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The AEB system engaged when it should not have with no obstructions on [XXX] . I violently jerked, I thought I hit something but did not. The safety of myself and a person following me would have been been compromised.  If someone was closer to me in the rear they would have hit ",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (28%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is my second Cadillac XT 4 in two years and both have experienced the same thing.  As I'm driving and come to a light to stop, the entire vehicle system goes black and cuts off.  This has happened to me know 4 times, were the vehicle becomes disable in the middle of the road",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (20%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T16:41:07.117Z",
+  "total": 590,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 167,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 2,
+      "sample": "TL* THE CONTACT OWNS A 2019 TESLA MODEL 3. THE CONTACT STATED THAT HE PURCHASED THE SPECIAL FEATURE ADAPTIVE AUTO PILOT BACK IN 06/2020. THE CONTACT STATED THAT THE AUTOMATIC EMERGENCY BRAKING ACTIVATED INDEPENDENTLY WHILE DRIVING 65 MPH, ALMOST BRINGING THE VEHICLE TO AN ABRUPT ",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 88,
+      "crash": 4,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "I WAS MOVING FORWARD AT ~15 MPH OVER A SET OF RAILROAD TRACKS ON A CITY STREET WHEN BOTH ELECTRIC MOTORS STOPPED WORKING BRINGING US TO A HALT ON THE TRACKS. THE CAR WOULD NOT SWITCH INTO NEUTRAL TO ALLOW IT TO BE PUSHED OFF OF THE TRACKS NOR WOULD IT RELEASE THE BRAKES UNTIL PUT",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 75,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "MY CAR WAS FIVE WEEKS OLD. WHILE I WAS DRIVING HOME ON MY COMMUTE I REALIZE THE SCREEN HAD FROZE, AND THEN SUDDENLY BLACKED OUT. I THOUGHT IT WAS A  SOFTWARE UPDATE AS I AM A FAMILY THAT OWNS TESLA, BUT IT WASN'T BECAUSE SUDDENLY THE ABILITY TO STEER AND BREAK OR COMPROMISED AND ",
+      "pct": 13
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 75,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 1,
+      "sample": "HERE IS A TESLA MODEL 3 IN THE JUNKYARD.  HTTPS://WWW.IAAI.COM/VEHICLEDETAILS?ITEMID=33838953&ROWNUMBER=80&SIMILARVEHICLEITEMID=&ISNEXT=&LOADRECENT=TRUE  BOTH FRONT WHEELS AND SUSPENSIONS HAVE COMPLETELY FALLEN OFF.  ALL OF THE BALL JOINTS AND SUSPENSION GIBLETS HAVE SNAPPED.  WH",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 71,
+      "crash": 19,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 2,
+      "sample": "WHEN IN CRUISE CONTROL MODE AND A VEHICLE CROSSES MY TRAFFIC LANE FAR ENOUGH AWAY TO POSE NO HAZARD TO ME, MY CAR SLOWS VERY SUDDENLY. THIS SLOWING FOR NO APPARENT REASON PUTS ME IN DANGER OF BEING REAR-ENDED BY FOLLOWING TRAFFIC.  A SIMILAR SLOW DOWN HAPPENS IF THE CAR IN FRONT ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Tesla Model 3 owners report most",
+    "summary": "Across 590 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 167,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 2,
+        "sample": "TL* THE CONTACT OWNS A 2019 TESLA MODEL 3. THE CONTACT STATED THAT HE PURCHASED THE SPECIAL FEATURE ADAPTIVE AUTO PILOT BACK IN 06/2020. THE CONTACT STATED THAT THE AUTOMATIC EMERGENCY BRAKING ACTIVATED INDEPENDENTLY WHILE DRIVING 65 MPH, ALMOST BRINGING THE VEHICLE TO AN ABRUPT ",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "167 reports (28%) · 10 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 88,
+        "crash": 4,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "I WAS MOVING FORWARD AT ~15 MPH OVER A SET OF RAILROAD TRACKS ON A CITY STREET WHEN BOTH ELECTRIC MOTORS STOPPED WORKING BRINGING US TO A HALT ON THE TRACKS. THE CAR WOULD NOT SWITCH INTO NEUTRAL TO ALLOW IT TO BE PUSHED OFF OF THE TRACKS NOR WOULD IT RELEASE THE BRAKES UNTIL PUT",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "88 reports (15%) · 2 fire · 4 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 75,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "MY CAR WAS FIVE WEEKS OLD. WHILE I WAS DRIVING HOME ON MY COMMUTE I REALIZE THE SCREEN HAD FROZE, AND THEN SUDDENLY BLACKED OUT. I THOUGHT IT WAS A  SOFTWARE UPDATE AS I AM A FAMILY THAT OWNS TESLA, BUT IT WASN'T BECAUSE SUDDENLY THE ABILITY TO STEER AND BREAK OR COMPROMISED AND ",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "75 reports (13%) · 9 crash · 5 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 75,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 1,
+        "sample": "HERE IS A TESLA MODEL 3 IN THE JUNKYARD.  HTTPS://WWW.IAAI.COM/VEHICLEDETAILS?ITEMID=33838953&ROWNUMBER=80&SIMILARVEHICLEITEMID=&ISNEXT=&LOADRECENT=TRUE  BOTH FRONT WHEELS AND SUSPENSIONS HAVE COMPLETELY FALLEN OFF.  ALL OF THE BALL JOINTS AND SUSPENSION GIBLETS HAVE SNAPPED.  WH",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "75 reports (13%) · 1 fire · 6 crash · 3 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 71,
+        "crash": 19,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 2,
+        "sample": "WHEN IN CRUISE CONTROL MODE AND A VEHICLE CROSSES MY TRAFFIC LANE FAR ENOUGH AWAY TO POSE NO HAZARD TO ME, MY CAR SLOWS VERY SUDDENLY. THIS SLOWING FOR NO APPARENT REASON PUTS ME IN DANGER OF BEING REAR-ENDED BY FOLLOWING TRAFFIC.  A SIMILAR SLOW DOWN HAPPENS IF THE CAR IN FRONT ",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "71 reports (12%) · 19 crash · 6 injured"
+      }
+    ]
+  }
+}

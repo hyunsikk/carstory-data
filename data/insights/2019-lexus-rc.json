@@ -1,0 +1,40 @@
+{
+  "slug": "2019-lexus-rc",
+  "make": "Lexus",
+  "model": "RC",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LEXUS/RC#complaints",
+  "generatedAt": "2026-06-23T16:37:31.976Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving down the highway on the way to work this morning and my sunroof completely shattered. There was no surrounding traffic or road obstructions to create projectiles from rocks etc. No noises of impact and no sign of foreign objects amongst broken glass. Completely shattered ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Lexus Rc owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving down the highway on the way to work this morning and my sunroof completely shattered. There was no surrounding traffic or road obstructions to create projectiles from rocks etc. No noises of impact and no sign of foreign objects amongst broken glass. Completely shattered ",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

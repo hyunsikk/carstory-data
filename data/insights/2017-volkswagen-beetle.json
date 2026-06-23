@@ -1,0 +1,128 @@
+{
+  "slug": "2017-volkswagen-beetle",
+  "make": "Volkswagen",
+  "model": "Beetle",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/VOLKSWAGEN/BEETLE#complaints",
+  "generatedAt": "2026-06-23T16:41:43.596Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN BEETLE. THE CONTACT STATED THAT THE AIR BAG LIGHT ILLUMINATED SEVERAL TIMES BUT WAS OFF WHEN A PASSENGER WAS IN THE FRONT PASSENGER SEAT. THE VEHICLE HAD NOT BEEN INSPECTED AND DIAGNOSED BY A DEALER YET  TO DETERMINE IF THEY MAY BE ABLE TO C",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WEATHER CONDITIONS: RAIN. AFTER RELATIVELY SHORT DRIVE GARAGED VEHICLE AND TURNED ENGINE OFF. VERY NOTICEABLE BURNING ODOR APPEARS TO COME FROM ENGINE COMPARTMENT. LOUD MOTOR NOISE COMING FROM REAR AREA (ELECTRICAL MOTOR NOISE NOT ENGINE/FAN NOISE) WHICH CONTINUED FOR APPROXIMATE",
+      "pct": 13
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear view camera stopped working (black screen.) I have tried to soft reset the infotainment display unit as well as a hard reset by disconnecting car battery to no avail. The trunk lock mechanism is operational (the rear view camera unit is located in the same unit.)",
+      "pct": 7
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear view camera stopped working (black screen.) I have tried to soft reset the infotainment display unit as well as a hard reset by disconnecting car battery to no avail. The trunk lock mechanism is operational (the rear view camera unit is located in the same unit.)",
+      "pct": 7
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Volkswagen Beetle. The contact stated that upon attempting to open the trunk, the trunk failed to open. No warning light was illuminated. The vehicle was taken to a local dealer, where the vehicle was inspected, and the contact was informed that the VIN wa",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Volkswagen Beetle owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Air Bags (40% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN BEETLE. THE CONTACT STATED THAT THE AIR BAG LIGHT ILLUMINATED SEVERAL TIMES BUT WAS OFF WHEN A PASSENGER WAS IN THE FRONT PASSENGER SEAT. THE VEHICLE HAD NOT BEEN INSPECTED AND DIAGNOSED BY A DEALER YET  TO DETERMINE IF THEY MAY BE ABLE TO C",
+        "pct": 40,
+        "title": "Air Bags",
+        "blurb": "6 reports (40%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WEATHER CONDITIONS: RAIN. AFTER RELATIVELY SHORT DRIVE GARAGED VEHICLE AND TURNED ENGINE OFF. VERY NOTICEABLE BURNING ODOR APPEARS TO COME FROM ENGINE COMPARTMENT. LOUD MOTOR NOISE COMING FROM REAR AREA (ELECTRICAL MOTOR NOISE NOT ENGINE/FAN NOISE) WHICH CONTINUED FOR APPROXIMATE",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear view camera stopped working (black screen.) I have tried to soft reset the infotainment display unit as well as a hard reset by disconnecting car battery to no avail. The trunk lock mechanism is operational (the rear view camera unit is located in the same unit.)",
+        "pct": 7,
+        "title": "Lane Departure",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear view camera stopped working (black screen.) I have tried to soft reset the infotainment display unit as well as a hard reset by disconnecting car battery to no avail. The trunk lock mechanism is operational (the rear view camera unit is located in the same unit.)",
+        "pct": 7,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Volkswagen Beetle. The contact stated that upon attempting to open the trunk, the trunk failed to open. No warning light was illuminated. The vehicle was taken to a local dealer, where the vehicle was inspected, and the contact was informed that the VIN wa",
+        "pct": 7,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

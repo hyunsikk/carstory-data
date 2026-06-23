@@ -1,0 +1,106 @@
+{
+  "slug": "2018-audi-s6",
+  "make": "Audi",
+  "model": "S6",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/S6#complaints",
+  "generatedAt": "2026-06-23T16:43:09.686Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED THE VEHICLE ON 11/18/2017; ON 11/21/2017 A DEAD BATTERY CAUSED THE VEHICLE NOT TO START. ON THE 11/22/2017 AFTER CHARGING THE VEHICLE BATTERY OVER 20 HOURS THE VEHICLE STARTED; HOWEVER THE VEHICLE DISPLAYED SEVERAL WARNINGS: STEERING SYSTEM FAULT, DYNAMIC STABILITY, A",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "First off let me start by saying the vehicle has 45k miles on it. There were no fault codes or system errors prior to the issue that developed. I was driving to a meeting in heavy rain, no issues or suspicion of issues arising. I parked the car, returned about 2 hours later start",
+      "pct": 25
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I OWN A 2018 AUDI S6 WHICH I BEGAN DRIVING IN MARCH 2018. SINCE THEN THE WINDSHIELD HAS SHATTERED THREE TIMES, DUE TO ONLY MINOR IMPACTS OF ROCKS OR ROAD DEBRIS EACH TIME. THIS HAPPENED MOST RECENTLY A FEW WEEKS AGO WHILE DRIVING ON THE HIGHWAY AT ABOUT 70 MPH. I HAVE BEEN DRIVIN",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "EXCESSIVE BRAKE DUST ON WHEELS AND ROTORS AFFECTING STOPPING DISTANCE",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi S6 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Steering (50% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED THE VEHICLE ON 11/18/2017; ON 11/21/2017 A DEAD BATTERY CAUSED THE VEHICLE NOT TO START. ON THE 11/22/2017 AFTER CHARGING THE VEHICLE BATTERY OVER 20 HOURS THE VEHICLE STARTED; HOWEVER THE VEHICLE DISPLAYED SEVERAL WARNINGS: STEERING SYSTEM FAULT, DYNAMIC STABILITY, A",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "First off let me start by saying the vehicle has 45k miles on it. There were no fault codes or system errors prior to the issue that developed. I was driving to a meeting in heavy rain, no issues or suspicion of issues arising. I parked the car, returned about 2 hours later start",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I OWN A 2018 AUDI S6 WHICH I BEGAN DRIVING IN MARCH 2018. SINCE THEN THE WINDSHIELD HAS SHATTERED THREE TIMES, DUE TO ONLY MINOR IMPACTS OF ROCKS OR ROAD DEBRIS EACH TIME. THIS HAPPENED MOST RECENTLY A FEW WEEKS AGO WHILE DRIVING ON THE HIGHWAY AT ABOUT 70 MPH. I HAVE BEEN DRIVIN",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "EXCESSIVE BRAKE DUST ON WHEELS AND ROTORS AFFECTING STOPPING DISTANCE",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

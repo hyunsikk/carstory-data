@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-q8",
+  "make": "Audi",
+  "model": "Q8",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/Q8#complaints",
+  "generatedAt": "2026-06-23T16:26:11.307Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Oct 15, 2022 lights began flashing. Electrical Malfunction came up. Said to pull over safely as soon as possible. Dealership said it is not safe to drive. Is still at the Audi dealership since they could finally get it in Nov 16, 2022.  It has 17,248 miles on it. Am told it needs",
+      "pct": 46
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi Q8. The contact stated while driving 70 MPH, the vehicle shutoff as the electrical problem, see local dealer warning message appeared on the instrument panel. The contact pulled off to the side of the highway and had the vehicle towed to a local deale",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi Q8. The contact stated while driving 70 MPH, the vehicle shutoff as the electrical problem, see local dealer warning message appeared on the instrument panel. The contact pulled off to the side of the highway and had the vehicle towed to a local deale",
+      "pct": 14
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a ",
+      "pct": 14
+    },
+    {
+      "component": "GASOLINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi Q8 owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Electrical System (46% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Oct 15, 2022 lights began flashing. Electrical Malfunction came up. Said to pull over safely as soon as possible. Dealership said it is not safe to drive. Is still at the Audi dealership since they could finally get it in Nov 16, 2022.  It has 17,248 miles on it. Am told it needs",
+        "pct": 46,
+        "title": "Electrical System",
+        "blurb": "13 reports (46%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi Q8. The contact stated while driving 70 MPH, the vehicle shutoff as the electrical problem, see local dealer warning message appeared on the instrument panel. The contact pulled off to the side of the highway and had the vehicle towed to a local deale",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "6 reports (21%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi Q8. The contact stated while driving 70 MPH, the vehicle shutoff as the electrical problem, see local dealer warning message appeared on the instrument panel. The contact pulled off to the side of the highway and had the vehicle towed to a local deale",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "4 reports (14%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a ",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "4 reports (14%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi Q8. The contact received notification of NHTSA Campaign Number: 22V516000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a ",
+        "pct": 14,
+        "title": "Gasoline",
+        "blurb": "4 reports (14%)"
+      }
+    ]
+  }
+}

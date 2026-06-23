@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-06-23T16:28:58.614Z",
+  "total": 121,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 49,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While car was in motion a warning suddenly came onto screen stating \"Brake assist problem, service asc, vehicle speed will be reduced for safety\". Pedal was very hard to press, and was almost impossible to stop car with the speed less then 20 mph when the problem occurred. Dealer",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 29,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? transmission problems. loss power while driving vehicle How was your safety or the safety of others put at risk? vehicle stopped driving while on road with traffic. Major accident c",
+      "pct": 24
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1. When reversing, the emergency braking is very sensitive. On 6/20, it was pouring rain and every time I tried to back out the car kept slamming on the brakes thinking there was an object in the way. it also happened when we were leaving an appointment that same day. It wasn’t p",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When turning using signal upon straightening back out the lane change signal activates for the opposite direction I actually turned. Seems to happen on sharper turns than wide turns. I believe this is a safety issue and it looks to others that I may be switching lanes or turning ",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On May 14 a service bulletin was released by GM for an issue with the transmission #N242446290 causing a reduced acceleration suddenly and finally zero acceleration after a few minutes unexpectedly. I purchased this car brand new on [XXX] and was not made aware of this potential ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Traverse owners report most",
+    "summary": "Across 121 owner complaints to NHTSA, the most reported area is Service Brakes (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 49,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While car was in motion a warning suddenly came onto screen stating \"Brake assist problem, service asc, vehicle speed will be reduced for safety\". Pedal was very hard to press, and was almost impossible to stop car with the speed less then 20 mph when the problem occurred. Dealer",
+        "pct": 40,
+        "title": "Service Brakes",
+        "blurb": "49 reports (40%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 29,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? transmission problems. loss power while driving vehicle How was your safety or the safety of others put at risk? vehicle stopped driving while on road with traffic. Major accident c",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "29 reports (24%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1. When reversing, the emergency braking is very sensitive. On 6/20, it was pouring rain and every time I tried to back out the car kept slamming on the brakes thinking there was an object in the way. it also happened when we were leaving an appointment that same day. It wasn’t p",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "19 reports (16%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When turning using signal upon straightening back out the lane change signal activates for the opposite direction I actually turned. Seems to happen on sharper turns than wide turns. I believe this is a safety issue and it looks to others that I may be switching lanes or turning ",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "18 reports (15%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On May 14 a service bulletin was released by GM for an issue with the transmission #N242446290 causing a reduced acceleration suddenly and finally zero acceleration after a few minutes unexpectedly. I purchased this car brand new on [XXX] and was not made aware of this potential ",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "17 reports (14%)"
+      }
+    ]
+  }
+}

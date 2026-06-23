@@ -1,0 +1,128 @@
+{
+  "slug": "2016-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T16:42:03.364Z",
+  "total": 160,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 43,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS THE BASE MODEL S AUTOMATIC TRANSMISSION 1.4 TSI. THIS VEHICLE DOESN'T HAVE A GAUGE FOR MEASURING THE TEMPERATURE. UNABLE TO MAKE A DECISION PROMPTLY IF THE CAR STARTS TO HEAT IS A SAFETY PROBLEM. THE CAR APPARENTLY HAS A MECHANISM TO LOWER THE RPMS IF THE CAR STARTS HEATI",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 36,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS IS THE BASE MODEL S AUTOMATIC TRANSMISSION 1.4 TSI. THIS VEHICLE DOESN'T HAVE A GAUGE FOR MEASURING THE TEMPERATURE. UNABLE TO MAKE A DECISION PROMPTLY IF THE CAR STARTS TO HEAT IS A SAFETY PROBLEM. THE CAR APPARENTLY HAS A MECHANISM TO LOWER THE RPMS IF THE CAR STARTS HEATI",
+      "pct": 23
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 28,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "JETTA ENGINE QUIT RUNNING WITH NO NOTICE IN BUSY HIGHWAY.  CAR HAD TO BE TOWED TO DEALER. CAR WAS NOT REPAIRED FOR THREE WEEKS.  THEY CITED LACK OF FUEL SYSTEM MANAGEMENT COMPUTER MODULE.  IT WOULD TAKE 5-7 BUSINESS DAYS TO GET.  FUEL COMPUTER MODULE AND FUEL PUMP WERE REPLACED. ",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 23,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN JETTA. WHILE DRIVING 40 MPH AND ATTEMPTING TO ENGAGE THE BRAKES, THE BRAKE PEDAL TRAVELED TO THE FLOOR AND FAILED TO STOP THE VEHICLE WITHOUT  WARNING. ALSO, THE VEHICLE VEERED TO THE RIGHT AND EMITTED AN ABNORMAL GRINDING NOISE. THE VEHICLE",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2016 JETTA SE1.4 NEW FOR 18 YEAR OLD SON FOR COLLEGE. WITHIN A WEEK CAR WAS IN THE SHOP WITH ELECTRICAL ISSUES FOR LIGHTER AND USB SHORTING OUT PHONE + RADAR WHILE THE CAR WAS DRIVING. NO ISSUE FOUND WE DROVE 1000+MILES TO SCHOOL, CENTER CONSOLE WOULD BLINK ON AND OFF DURING THE ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Volkswagen Jetta owners report most",
+    "summary": "Across 160 owner complaints to NHTSA, the most reported area is Engine (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 43,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS THE BASE MODEL S AUTOMATIC TRANSMISSION 1.4 TSI. THIS VEHICLE DOESN'T HAVE A GAUGE FOR MEASURING THE TEMPERATURE. UNABLE TO MAKE A DECISION PROMPTLY IF THE CAR STARTS TO HEAT IS A SAFETY PROBLEM. THE CAR APPARENTLY HAS A MECHANISM TO LOWER THE RPMS IF THE CAR STARTS HEATI",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "43 reports (27%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 36,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS IS THE BASE MODEL S AUTOMATIC TRANSMISSION 1.4 TSI. THIS VEHICLE DOESN'T HAVE A GAUGE FOR MEASURING THE TEMPERATURE. UNABLE TO MAKE A DECISION PROMPTLY IF THE CAR STARTS TO HEAT IS A SAFETY PROBLEM. THE CAR APPARENTLY HAS A MECHANISM TO LOWER THE RPMS IF THE CAR STARTS HEATI",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "36 reports (23%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 28,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "JETTA ENGINE QUIT RUNNING WITH NO NOTICE IN BUSY HIGHWAY.  CAR HAD TO BE TOWED TO DEALER. CAR WAS NOT REPAIRED FOR THREE WEEKS.  THEY CITED LACK OF FUEL SYSTEM MANAGEMENT COMPUTER MODULE.  IT WOULD TAKE 5-7 BUSINESS DAYS TO GET.  FUEL COMPUTER MODULE AND FUEL PUMP WERE REPLACED. ",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "28 reports (18%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 23,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN JETTA. WHILE DRIVING 40 MPH AND ATTEMPTING TO ENGAGE THE BRAKES, THE BRAKE PEDAL TRAVELED TO THE FLOOR AND FAILED TO STOP THE VEHICLE WITHOUT  WARNING. ALSO, THE VEHICLE VEERED TO THE RIGHT AND EMITTED AN ABNORMAL GRINDING NOISE. THE VEHICLE",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "23 reports (14%) · 9 crash · 9 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2016 JETTA SE1.4 NEW FOR 18 YEAR OLD SON FOR COLLEGE. WITHIN A WEEK CAR WAS IN THE SHOP WITH ELECTRICAL ISSUES FOR LIGHTER AND USB SHORTING OUT PHONE + RADAR WHILE THE CAR WAS DRIVING. NO ISSUE FOUND WE DROVE 1000+MILES TO SCHOOL, CENTER CONSOLE WOULD BLINK ON AND OFF DURING THE ",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "22 reports (14%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

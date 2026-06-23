@@ -1,0 +1,128 @@
+{
+  "slug": "2023-subaru-solterra",
+  "make": "Subaru",
+  "model": "Solterra",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/SOLTERRA#complaints",
+  "generatedAt": "2026-06-23T16:40:50.738Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ihad something happen 3 times with the car on my drive to work. It was raining and vehicles ahead of me were kicking up a significant amount of mist in front of my Solterra. I was using the adaptive cruise control feature and it is supposed to follow cars in front of you and slow",
+      "pct": 36
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subject: Safety Concerns with Subaru Solterra - Urgent Attention Required  I hope this message finds you well. I am writing to express my serious concerns regarding the safety issues I am experiencing with my newly purchased Subaru Solterra 2023 Touring. Despite my enthusiasm for",
+      "pct": 32
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ihad something happen 3 times with the car on my drive to work. It was raining and vehicles ahead of me were kicking up a significant amount of mist in front of my Solterra. I was using the adaptive cruise control feature and it is supposed to follow cars in front of you and slow",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subaru Solterra - Sudden unexpected acceleration with no ability to brake or steer. Message appeared \"System Malfunction\"  Crashed into woods; small trees slowed and stopped car; airbags did not deploy. no injuries but great risk if car had headed to nearby highway instead of tre",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subject: Safety Concerns with Subaru Solterra - Urgent Attention Required  I hope this message finds you well. I am writing to express my serious concerns regarding the safety issues I am experiencing with my newly purchased Subaru Solterra 2023 Touring. Despite my enthusiasm for",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Subaru Solterra owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ihad something happen 3 times with the car on my drive to work. It was raining and vehicles ahead of me were kicking up a significant amount of mist in front of my Solterra. I was using the adaptive cruise control feature and it is supposed to follow cars in front of you and slow",
+        "pct": 36,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (36%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subject: Safety Concerns with Subaru Solterra - Urgent Attention Required  I hope this message finds you well. I am writing to express my serious concerns regarding the safety issues I am experiencing with my newly purchased Subaru Solterra 2023 Touring. Despite my enthusiasm for",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "8 reports (32%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ihad something happen 3 times with the car on my drive to work. It was raining and vehicles ahead of me were kicking up a significant amount of mist in front of my Solterra. I was using the adaptive cruise control feature and it is supposed to follow cars in front of you and slow",
+        "pct": 24,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (24%) · 3 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subaru Solterra - Sudden unexpected acceleration with no ability to brake or steer. Message appeared \"System Malfunction\"  Crashed into woods; small trees slowed and stopped car; airbags did not deploy. no injuries but great risk if car had headed to nearby highway instead of tre",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "4 reports (16%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subject: Safety Concerns with Subaru Solterra - Urgent Attention Required  I hope this message finds you well. I am writing to express my serious concerns regarding the safety issues I am experiencing with my newly purchased Subaru Solterra 2023 Touring. Despite my enthusiasm for",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "3 reports (12%) · 1 crash"
+      }
+    ]
+  }
+}

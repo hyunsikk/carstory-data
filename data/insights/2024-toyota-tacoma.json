@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-tacoma",
+  "make": "Toyota",
+  "model": "Tacoma",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/TACOMA#complaints",
+  "generatedAt": "2026-06-23T16:41:30.542Z",
+  "total": 136,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 51,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I’ve only had the vehicle about a month with only 1245 miles on it.  I was leaving a parking lot and pulled out on the road and the vehicle shifted in neutral after a minute or so the vehicle then slammed back into gear.   It did this 2 or 3 times.  I pulled into a gas station tu",
+      "pct": 38
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 33,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Hello NHTSA, I'm writing to you about a safety design concern (not a complaint, no incident happened) on my 2024 Toyota Tacoma. The rear brake lines are routed inside the wheel and have approximately 3/4\" clearance.  There is no room for error and brake failure may occur very eas",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a 2024 Tacoma TRD Off Road  Premium Package through MAS ( Military Auto Source ). I picked the vehicle up from the Bremerhaven port in Germany on 08 July 2024 it was missing the back bed charging adapter box but MAS said they would cover the cost in writing to fix no big",
+      "pct": 11
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 15,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Toyota Tacoma. The contact received notification of NHTSA Campaign Number: 25V058000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had ",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Truck has an issue where certain safety systems are disabled when a trailer is detected. This is normal. However, the truck is failing to notice once a trailer has been disconnected and this keeps the safety features disabled during normal driving. Toyota has yet to address the i",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Tacoma owners report most",
+    "summary": "Across 136 owner complaints to NHTSA, the most reported area is Power Train (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 51,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I’ve only had the vehicle about a month with only 1245 miles on it.  I was leaving a parking lot and pulled out on the road and the vehicle shifted in neutral after a minute or so the vehicle then slammed back into gear.   It did this 2 or 3 times.  I pulled into a gas station tu",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "51 reports (38%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 33,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Hello NHTSA, I'm writing to you about a safety design concern (not a complaint, no incident happened) on my 2024 Toyota Tacoma. The rear brake lines are routed inside the wheel and have approximately 3/4\" clearance.  There is no room for error and brake failure may occur very eas",
+        "pct": 24,
+        "title": "Service Brakes",
+        "blurb": "33 reports (24%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a 2024 Tacoma TRD Off Road  Premium Package through MAS ( Military Auto Source ). I picked the vehicle up from the Bremerhaven port in Germany on 08 July 2024 it was missing the back bed charging adapter box but MAS said they would cover the cost in writing to fix no big",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "15 reports (11%) · 1 fire"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 15,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Toyota Tacoma. The contact received notification of NHTSA Campaign Number: 25V058000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had ",
+        "pct": 11,
+        "title": "Hydraulic",
+        "blurb": "15 reports (11%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Truck has an issue where certain safety systems are disabled when a trailer is detected. This is normal. However, the truck is failing to notice once a trailer has been disconnected and this keeps the safety features disabled during normal driving. Toyota has yet to address the i",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (7%)"
+      }
+    ]
+  }
+}

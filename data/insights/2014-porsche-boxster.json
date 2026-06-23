@@ -1,0 +1,84 @@
+{
+  "slug": "2014-porsche-boxster",
+  "make": "Porsche",
+  "model": "Boxster",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/PORSCHE/BOXSTER#complaints",
+  "generatedAt": "2026-06-23T16:39:41.286Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2014 Porsche Boxster- Consumer haves concerns about the hydro-mounting, which is causing a PADM fault.  Consumer paid for the repair & it occurred again. The first occurred after 35000 miles and again after 42000 miles. Consumer has read that others have had the same problem. Con",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The door panels are warping and detaching from the door. I'm sure the airbags should be affected as well. I have contacted Porche America but no one calls except customer service who keeps no records of previous calls.",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The door panels are warping and detaching from the door. I'm sure the airbags should be affected as well. I have contacted Porche America but no one calls except customer service who keeps no records of previous calls.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Porsche Boxster owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2014 Porsche Boxster- Consumer haves concerns about the hydro-mounting, which is causing a PADM fault.  Consumer paid for the repair & it occurred again. The first occurred after 35000 miles and again after 42000 miles. Consumer has read that others have had the same problem. Con",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The door panels are warping and detaching from the door. I'm sure the airbags should be affected as well. I have contacted Porche America but no one calls except customer service who keeps no records of previous calls.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The door panels are warping and detaching from the door. I'm sure the airbags should be affected as well. I have contacted Porche America but no one calls except customer service who keeps no records of previous calls.",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

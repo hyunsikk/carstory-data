@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-silverado-ev",
+  "make": "Chevrolet",
+  "model": "Silverado EV",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/SILVERADO%20EV#complaints",
+  "generatedAt": "2026-06-23T16:44:41.705Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle does not indicate when rear doors are ajar or not properly latched. Vehicle information center shows when front doors or frunk is open. Results are either door swinging open when not properly latched or in my case, as the vehicle does not know that the doors are open, imm",
+      "pct": 44
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle does not indicate when rear doors are ajar or not properly latched. Vehicle information center shows when front doors or frunk is open. Results are either door swinging open when not properly latched or in my case, as the vehicle does not know that the doors are open, imm",
+      "pct": 28
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Passenger Side door mirror is manufactured with flat glass and Not Convex glass.  The flat glass field of view is not nearly wide enough for this large truck.  This flat glass combined with the width of the truck (distance from the driver's head/eyes to the passenger door mir",
+      "pct": 12
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the rear doors are opened on the truck, the interior lights do not come on which is a hassle when securing an infant in a car seat.  Further to this, the door ajar symbol on the dash does not come on for either rear door, it does come on for the front doors.  I talked to GM ",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 Chevrolet Silverado EV. The contact stated that when idle, the vehicle would hesitate before accelerating. Continuing to drive at approximately 55 MPH, the accelerator was released, and the vehicle continued to accelerate. The vehicle veered off the road,",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Silverado Ev owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle does not indicate when rear doors are ajar or not properly latched. Vehicle information center shows when front doors or frunk is open. Results are either door swinging open when not properly latched or in my case, as the vehicle does not know that the doors are open, imm",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "11 reports (44%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle does not indicate when rear doors are ajar or not properly latched. Vehicle information center shows when front doors or frunk is open. Results are either door swinging open when not properly latched or in my case, as the vehicle does not know that the doors are open, imm",
+        "pct": 28,
+        "title": "Structure",
+        "blurb": "7 reports (28%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Passenger Side door mirror is manufactured with flat glass and Not Convex glass.  The flat glass field of view is not nearly wide enough for this large truck.  This flat glass combined with the width of the truck (distance from the driver's head/eyes to the passenger door mir",
+        "pct": 12,
+        "title": "Visibility/Wiper",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the rear doors are opened on the truck, the interior lights do not come on which is a hassle when securing an infant in a car seat.  Further to this, the door ajar symbol on the dash does not come on for either rear door, it does come on for the front doors.  I talked to GM ",
+        "pct": 12,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (12%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 Chevrolet Silverado EV. The contact stated that when idle, the vehicle would hesitate before accelerating. Continuing to drive at approximately 55 MPH, the accelerator was released, and the vehicle continued to accelerate. The vehicle veered off the road,",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "2 reports (8%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

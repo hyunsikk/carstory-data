@@ -1,0 +1,128 @@
+{
+  "slug": "2020-porsche-taycan",
+  "make": "Porsche",
+  "model": "Taycan",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/PORSCHE/TAYCAN#complaints",
+  "generatedAt": "2026-06-23T16:39:57.536Z",
+  "total": 87,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 50,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING, CAR BEGAN TO SHAKE ABRUPTLY AND STOPPED ITSELF. DASH FLASHED MOTOR CONTROL ERROR IN RED AND THE SYSTEM CONTROL ERROR AND WAS COMPLETE UNRESPONSIVE AND UNDRIVEABLE. CAR WAS TOWED TO PORSCHE AND THEY HAVE NO ANSWERS AFTER 3 DAYS.  THIS WAS VERY DANGEROUS, AS THE CAR ",
+      "pct": 57
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 PORSCHE TAYCAN. THE CONTACT STATED THAT WHILE DRIVING OUT OF HIS DRIVEWAY, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT ATTEMPTED TO RESTART THE VEHICLE HOWEVER, THE VEHICLE FAILED TO RESUME NORMAL OPERATION. THE VEHICLE WAS TOWED TO GOSSETT PORSCH",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR SHOWED AN ELECTRICAL ERROR & LOST POWER THEN SHUT DOWN ON THE FREEWAY.  ONCE THE CAR CAME TO A COMPLETE STOP I WAS UNABLE TO GET OUT OF THE VEHICLE BECAUSE IT LOCKED ME INSIDE.  THIS IS A SAFETY HAZARD AND HAD I NOT TAKE THE PRECAUTIONS TO EXIT THE FREEWAY I MAY NOT HAVE ",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "- Parking Assist has failed several times with message \"ParkAssist not available. Continued driving possible, Service necessary\"  - Forward collision warning (aka Warning And Break Assist) has disabled itself several times for no apparent reason with message \"WBA Limited, See own",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE FREEWAY AT C. 55MPH IN MODERATE TRAFFIC, THE CAR LOST ALL MOTOR POWER AND STARED TO COAST TO A STANDSTILL. AN ERROR WAS ON THE DISPLAY SAYING 'DRIVE SYSTEM CONTROL FAULT - PARK VEHICLE SAFELY. I MANAGED TO GET TO A SLIP ROAD OFF THE FREEWAY AND THE CAR JUDDER",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Porsche Taycan owners report most",
+    "summary": "Across 87 owner complaints to NHTSA, the most reported area is Electrical System (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 50,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING, CAR BEGAN TO SHAKE ABRUPTLY AND STOPPED ITSELF. DASH FLASHED MOTOR CONTROL ERROR IN RED AND THE SYSTEM CONTROL ERROR AND WAS COMPLETE UNRESPONSIVE AND UNDRIVEABLE. CAR WAS TOWED TO PORSCHE AND THEY HAVE NO ANSWERS AFTER 3 DAYS.  THIS WAS VERY DANGEROUS, AS THE CAR ",
+        "pct": 57,
+        "title": "Electrical System",
+        "blurb": "50 reports (57%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 PORSCHE TAYCAN. THE CONTACT STATED THAT WHILE DRIVING OUT OF HIS DRIVEWAY, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT ATTEMPTED TO RESTART THE VEHICLE HOWEVER, THE VEHICLE FAILED TO RESUME NORMAL OPERATION. THE VEHICLE WAS TOWED TO GOSSETT PORSCH",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "22 reports (25%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR SHOWED AN ELECTRICAL ERROR & LOST POWER THEN SHUT DOWN ON THE FREEWAY.  ONCE THE CAR CAME TO A COMPLETE STOP I WAS UNABLE TO GET OUT OF THE VEHICLE BECAUSE IT LOCKED ME INSIDE.  THIS IS A SAFETY HAZARD AND HAD I NOT TAKE THE PRECAUTIONS TO EXIT THE FREEWAY I MAY NOT HAVE ",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "15 reports (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "- Parking Assist has failed several times with message \"ParkAssist not available. Continued driving possible, Service necessary\"  - Forward collision warning (aka Warning And Break Assist) has disabled itself several times for no apparent reason with message \"WBA Limited, See own",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (10%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE FREEWAY AT C. 55MPH IN MODERATE TRAFFIC, THE CAR LOST ALL MOTOR POWER AND STARED TO COAST TO A STANDSTILL. AN ERROR WAS ON THE DISPLAY SAYING 'DRIVE SYSTEM CONTROL FAULT - PARK VEHICLE SAFELY. I MANAGED TO GET TO A SLIP ROAD OFF THE FREEWAY AND THE CAR JUDDER",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (10%)"
+      }
+    ]
+  }
+}

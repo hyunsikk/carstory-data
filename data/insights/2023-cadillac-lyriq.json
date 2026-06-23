@@ -1,0 +1,128 @@
+{
+  "slug": "2023-cadillac-lyriq",
+  "make": "Cadillac",
+  "model": "Lyriq",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CADILLAC/LYRIQ#complaints",
+  "generatedAt": "2026-06-23T16:27:48.416Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Low beam headlights work appropriately for 5 or so minutes before \"drooping\" or \"sagging\" so that they only illuminate one car length or so in front of the vehicle.  Upon shutting off and restarting the vehicle, the lights return to correct illumination.  However, they somehow dr",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electric emergency brake light engaged engaged parking brake. Parking brake is unable to be disengaged with the control making the vehicle unable to move. Car is able to be put in drive, reverse and neutral but cannot move as the brakes are locked. Car is on the way to a dealersh",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electric emergency brake light engaged engaged parking brake. Parking brake is unable to be disengaged with the control making the vehicle unable to move. Car is able to be put in drive, reverse and neutral but cannot move as the brakes are locked. Car is on the way to a dealersh",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Electric emergency brake light engaged engaged parking brake. Parking brake is unable to be disengaged with the control making the vehicle unable to move. Car is able to be put in drive, reverse and neutral but cannot move as the brakes are locked. Car is on the way to a dealersh",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backing out of driveway and screen went black and a collision occurred a second or two later.  We have had the Lyriq in the shop multiple times for glitchy screens and screen going black but never has been fully resolved.  I did recieve a recall letter (unfortunately I threw it a",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Cadillac Lyriq owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Exterior Lighting (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Low beam headlights work appropriately for 5 or so minutes before \"drooping\" or \"sagging\" so that they only illuminate one car length or so in front of the vehicle.  Upon shutting off and restarting the vehicle, the lights return to correct illumination.  However, they somehow dr",
+        "pct": 42,
+        "title": "Exterior Lighting",
+        "blurb": "10 reports (42%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electric emergency brake light engaged engaged parking brake. Parking brake is unable to be disengaged with the control making the vehicle unable to move. Car is able to be put in drive, reverse and neutral but cannot move as the brakes are locked. Car is on the way to a dealersh",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "6 reports (25%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electric emergency brake light engaged engaged parking brake. Parking brake is unable to be disengaged with the control making the vehicle unable to move. Car is able to be put in drive, reverse and neutral but cannot move as the brakes are locked. Car is on the way to a dealersh",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (21%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Electric emergency brake light engaged engaged parking brake. Parking brake is unable to be disengaged with the control making the vehicle unable to move. Car is able to be put in drive, reverse and neutral but cannot move as the brakes are locked. Car is on the way to a dealersh",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "4 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backing out of driveway and screen went black and a collision occurred a second or two later.  We have had the Lyriq in the shop multiple times for glitchy screens and screen going black but never has been fully resolved.  I did recieve a recall letter (unfortunately I threw it a",
+        "pct": 8,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

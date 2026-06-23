@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-carnival",
+  "make": "Kia",
+  "model": "Carnival",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/CARNIVAL#complaints",
+  "generatedAt": "2026-06-23T16:36:21.741Z",
+  "total": 63,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello, this is my second report file on your team. The first filed is sept 8 2023, its all about my steering column issues,  ill already talk with kia customer care unit, they said its still working on, i talk also with my dealership service center, they said its still waiting fo",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Carnival. The contact stated that while driving at various speeds, the vehicle failed to properly accelerate while depressing the accelerator pedal. The vehicle was shuddering and vibrating while attempting to accelerate with the check engine warning l",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Hello, this is my second report file on your team. The first filed is sept 8 2023, its all about my steering column issues,  ill already talk with kia customer care unit, they said its still working on, i talk also with my dealership service center, they said its still waiting fo",
+      "pct": 11
+    },
+    {
+      "component": "SEATS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Carnival. The contact stated that upon inspection, he became aware that the mechanism for the slide-flex seats became extremely hot to the touch, with occupants unable to touch the surface without shoes. The vehicle was not taken to the dealer or an in",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In June 2023, I purchased a 2024 Kia Carnival with approx. 17 miles on it. One thing I noticed after purchasing the vehicle is when I pushed the button to close the power sliding door on the driver side of the vehicle is that halfway during closing it would hesitate, open back up",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Carnival owners report most",
+    "summary": "Across 63 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello, this is my second report file on your team. The first filed is sept 8 2023, its all about my steering column issues,  ill already talk with kia customer care unit, they said its still working on, i talk also with my dealership service center, they said its still waiting fo",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "15 reports (24%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Carnival. The contact stated that while driving at various speeds, the vehicle failed to properly accelerate while depressing the accelerator pedal. The vehicle was shuddering and vibrating while attempting to accelerate with the check engine warning l",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "7 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Hello, this is my second report file on your team. The first filed is sept 8 2023, its all about my steering column issues,  ill already talk with kia customer care unit, they said its still working on, i talk also with my dealership service center, they said its still waiting fo",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "7 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Carnival. The contact stated that upon inspection, he became aware that the mechanism for the slide-flex seats became extremely hot to the touch, with occupants unable to touch the surface without shoes. The vehicle was not taken to the dealer or an in",
+        "pct": 10,
+        "title": "Seats",
+        "blurb": "6 reports (10%) · 3 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In June 2023, I purchased a 2024 Kia Carnival with approx. 17 miles on it. One thing I noticed after purchasing the vehicle is when I pushed the button to close the power sliding door on the driver side of the vehicle is that halfway during closing it would hesitate, open back up",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "6 reports (10%)"
+      }
+    ]
+  }
+}

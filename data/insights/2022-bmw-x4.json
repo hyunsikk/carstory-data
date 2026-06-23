@@ -1,0 +1,84 @@
+{
+  "slug": "2022-bmw-x4",
+  "make": "BMW",
+  "model": "X4",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X4#complaints",
+  "generatedAt": "2026-06-23T16:44:16.871Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2022 BMW X4. CONSUMER WRITES IN REGARDS TO DEFECTIVE BRAKES.  THE CONSUMER STATED THE VEHICLE LUNGES, ROCKS, AND JERKS WHEN THE BRAKES WERE APPLIED. THE VEHICLE WAS ROAD TESTED THE LUNGES WERE AKNOWLEDGED, BUT THE DEALER STATED THE VEHICLE WAS OPERATING AS DESIGNED. THE MANUFACTU",
+      "pct": 67
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear National Highway Traffic Safety Administration,  I am writing to report a significant safety concern involving my 2022 BMW X4 M40i. The issue pertains to an anti-corroding substance inside the tailgate panel that has been leaking, causing damage to my vehicle's bumper and ob",
+      "pct": 33
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear National Highway Traffic Safety Administration,  I am writing to report a significant safety concern involving my 2022 BMW X4 M40i. The issue pertains to an anti-corroding substance inside the tailgate panel that has been leaking, causing damage to my vehicle's bumper and ob",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X4 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Service Brakes (67% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2022 BMW X4. CONSUMER WRITES IN REGARDS TO DEFECTIVE BRAKES.  THE CONSUMER STATED THE VEHICLE LUNGES, ROCKS, AND JERKS WHEN THE BRAKES WERE APPLIED. THE VEHICLE WAS ROAD TESTED THE LUNGES WERE AKNOWLEDGED, BUT THE DEALER STATED THE VEHICLE WAS OPERATING AS DESIGNED. THE MANUFACTU",
+        "pct": 67,
+        "title": "Service Brakes",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear National Highway Traffic Safety Administration,  I am writing to report a significant safety concern involving my 2022 BMW X4 M40i. The issue pertains to an anti-corroding substance inside the tailgate panel that has been leaking, causing damage to my vehicle's bumper and ob",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear National Highway Traffic Safety Administration,  I am writing to report a significant safety concern involving my 2022 BMW X4 M40i. The issue pertains to an anti-corroding substance inside the tailgate panel that has been leaking, causing damage to my vehicle's bumper and ob",
+        "pct": 33,
+        "title": "Lane Departure",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-kia-optima",
+  "make": "Kia",
+  "model": "Optima",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/KIA/OPTIMA#complaints",
+  "generatedAt": "2026-06-23T16:36:36.070Z",
+  "total": 136,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 91,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Owner's manual states the 1.6Turbo requires 4.75 qrts of oil with filter change.  The car reads full after adding 4 qrts.  Still reading full after double checking after 250 miles.    .Owner's manual typo?    . Incorrect dipstick during final assembly?    .Following the manual co",
+      "pct": 67
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 25,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Thursday, I was leaving to drive my son 5 miles up the road and my check engine light started flashing with no warning. My car slowed down and started jerking. I took it to auto zone (on limp mode) to receive a code and it came back with p1326. My car only has 64,216 miles and",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle is incredibly easy to steal.  A simple flat head screw driver in the hands of a child will steal this vehicle. My car was stolen from Daytona Beach Florida on July 8 2022 by 2 14 year and one 15 year old kids.  No key, no fob needed,  who knew it'd be so easy to steal",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing this complaint due to severe and ongoing safety defects in my 2020 Kia Optima EX, which has repeatedly stalled while driving, creating a life-threatening road hazard.  Since September 2024, my vehicle has suffered from major failures, including a complete transmission",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I believe the engine could possibly be failing. My engine light will come on & flash, when it does this it is slowing down at speed ranges of 60 mph. Another thing, the GDi engine that is in this vehicle burns oil EXTREMELY fast. It is quite aggravating having to constantly get o",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Kia Optima owners report most",
+    "summary": "Across 136 owner complaints to NHTSA, the most reported area is Engine (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 91,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Owner's manual states the 1.6Turbo requires 4.75 qrts of oil with filter change.  The car reads full after adding 4 qrts.  Still reading full after double checking after 250 miles.    .Owner's manual typo?    . Incorrect dipstick during final assembly?    .Following the manual co",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "91 reports (67%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 25,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Thursday, I was leaving to drive my son 5 miles up the road and my check engine light started flashing with no warning. My car slowed down and started jerking. I took it to auto zone (on limp mode) to receive a code and it came back with p1326. My car only has 64,216 miles and",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "25 reports (18%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle is incredibly easy to steal.  A simple flat head screw driver in the hands of a child will steal this vehicle. My car was stolen from Daytona Beach Florida on July 8 2022 by 2 14 year and one 15 year old kids.  No key, no fob needed,  who knew it'd be so easy to steal",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "12 reports (9%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing this complaint due to severe and ongoing safety defects in my 2020 Kia Optima EX, which has repeatedly stalled while driving, creating a life-threatening road hazard.  Since September 2024, my vehicle has suffered from major failures, including a complete transmission",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (7%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I believe the engine could possibly be failing. My engine light will come on & flash, when it does this it is slowing down at speed ranges of 60 mph. Another thing, the GDi engine that is in this vehicle burns oil EXTREMELY fast. It is quite aggravating having to constantly get o",
+        "pct": 6,
+        "title": "Engine And Engine Cooling",
+        "blurb": "8 reports (6%)"
+      }
+    ]
+  }
+}

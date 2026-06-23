@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-a4",
+  "make": "Audi",
+  "model": "A4",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/A4#complaints",
+  "generatedAt": "2026-06-23T16:25:16.691Z",
+  "total": 124,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 89,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Emergency Call SOS module function is inoperative.  Cannot use the SOS function and hands-free cell phone use through Bluetooth is also inoperative.  Went to dealer on 8/31/22 for repair/replacement of module as instructed in Audi Service Action 90T2.  I was told the repair is co",
+      "pct": 72
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 43,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The MMI spontaneously reboots numerous times while driving. When the reboots happen, the screen goes black and key systems such as the backup camera, rear obstacle detection, and navigation, become unavailable until the reboot completes and the systems reload. Restoring functiona",
+      "pct": 35
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The MMI spontaneously reboots numerous times while driving. When the reboots happen, the screen goes black and key systems such as the backup camera, rear obstacle detection, and navigation, become unavailable until the reboot completes and the systems reload. Restoring functiona",
+      "pct": 7
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "while driving. These reboots typically happen every 5–10 minutes and result in the temporary loss of safety-critical features like the backup camera, navigation system, and rear cross-traffic alert. The screen goes black, and the system restarts itself while the vehicle is in mot",
+      "pct": 5
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi A4. The contact stated that while pulling out of a parking space, there was big rock next to the bumper on the front passenger's side of the vehicle and  there was a scallop area with stones next to the passenger's side of the vehicle as well. The con",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi A4 owners report most",
+    "summary": "Across 124 owner complaints to NHTSA, the most reported area is Electrical System (72% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 89,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Emergency Call SOS module function is inoperative.  Cannot use the SOS function and hands-free cell phone use through Bluetooth is also inoperative.  Went to dealer on 8/31/22 for repair/replacement of module as instructed in Audi Service Action 90T2.  I was told the repair is co",
+        "pct": 72,
+        "title": "Electrical System",
+        "blurb": "89 reports (72%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 43,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The MMI spontaneously reboots numerous times while driving. When the reboots happen, the screen goes black and key systems such as the backup camera, rear obstacle detection, and navigation, become unavailable until the reboot completes and the systems reload. Restoring functiona",
+        "pct": 35,
+        "title": "Back Over Prevention",
+        "blurb": "43 reports (35%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The MMI spontaneously reboots numerous times while driving. When the reboots happen, the screen goes black and key systems such as the backup camera, rear obstacle detection, and navigation, become unavailable until the reboot completes and the systems reload. Restoring functiona",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (7%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "while driving. These reboots typically happen every 5–10 minutes and result in the temporary loss of safety-critical features like the backup camera, navigation system, and rear cross-traffic alert. The screen goes black, and the system restarts itself while the vehicle is in mot",
+        "pct": 5,
+        "title": "Lane Departure",
+        "blurb": "6 reports (5%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi A4. The contact stated that while pulling out of a parking space, there was big rock next to the bumper on the front passenger's side of the vehicle and  there was a scallop area with stones next to the passenger's side of the vehicle as well. The con",
+        "pct": 2,
+        "title": "Suspension",
+        "blurb": "2 reports (2%) · 1 crash"
+      }
+    ]
+  }
+}

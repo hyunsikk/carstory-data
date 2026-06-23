@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-06-23T16:29:59.757Z",
+  "total": 200,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 90,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "While accelerating on a busy tollway, the automatic transmission got stuck in 6th gear. The car then began to slow down, and the gear display went blank. This put my safety and the safety of others at risk, as it happened in the left lane of a busy, high-speed tollway. The local ",
+      "pct": 45
+    },
+    {
+      "component": "ENGINE",
+      "count": 52,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Expedition. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer who diagnosed the vehicle and determined that the soy-based electrical wires had been damaged by rodents. Th",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Expedition. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer who diagnosed the vehicle and determined that the soy-based electrical wires had been damaged by rodents. Th",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Expedition. The contact received notification of NHTSA Campaign Number: 22V250000 (Visibility) and 22V346000 (Engine) however, the parts to do the recall repairs were not yet available. The dealer was made aware of the issue. The contact stated that t",
+      "pct": 7
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "on 5/20/2022 I contacted my local dealership regarding recall 22V250 to discuss getting this issue repaired.  I was scheduled an appointment on 6/16/2022 at 7:40 a.m.   On 6/15/2022 I was told by the dealership that they were not going to repair my vehicle because I was not havin",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Expedition owners report most",
+    "summary": "Across 200 owner complaints to NHTSA, the most reported area is Power Train (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 90,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "While accelerating on a busy tollway, the automatic transmission got stuck in 6th gear. The car then began to slow down, and the gear display went blank. This put my safety and the safety of others at risk, as it happened in the left lane of a busy, high-speed tollway. The local ",
+        "pct": 45,
+        "title": "Power Train",
+        "blurb": "90 reports (45%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 52,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Expedition. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer who diagnosed the vehicle and determined that the soy-based electrical wires had been damaged by rodents. Th",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "52 reports (26%) · 3 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Expedition. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer who diagnosed the vehicle and determined that the soy-based electrical wires had been damaged by rodents. Th",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "22 reports (11%) · 2 fire · 1 injured"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Expedition. The contact received notification of NHTSA Campaign Number: 22V250000 (Visibility) and 22V346000 (Engine) however, the parts to do the recall repairs were not yet available. The dealer was made aware of the issue. The contact stated that t",
+        "pct": 7,
+        "title": "Visibility",
+        "blurb": "13 reports (7%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "on 5/20/2022 I contacted my local dealership regarding recall 22V250 to discuss getting this issue repaired.  I was scheduled an appointment on 6/16/2022 at 7:40 a.m.   On 6/15/2022 I was told by the dealership that they were not going to repair my vehicle because I was not havin",
+        "pct": 4,
+        "title": "Visibility/Wiper",
+        "blurb": "8 reports (4%) · 1 crash"
+      }
+    ]
+  }
+}

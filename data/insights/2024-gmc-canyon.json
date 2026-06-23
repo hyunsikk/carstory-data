@@ -1,0 +1,128 @@
+{
+  "slug": "2024-gmc-canyon",
+  "make": "GMC",
+  "model": "Canyon",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GMC/CANYON#complaints",
+  "generatedAt": "2026-06-23T16:31:27.249Z",
+  "total": 204,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 159,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The headlights randomly flicker on and off while driving at night. This not only causes a distraction while i'm driving but is also affecting other drivers. Drivers in the other lane keep mistaking the flicker as me turning on my bright lights which is leading other driver to ret",
+      "pct": 78
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Headlights began flickering two days after purchase of vehicle. Infotainment screen that operates the headlights,  as there is no physical headlight knobs or buttons, also malfunction and is inoperable. So I can not turn my headlights on or off, they're set to auto and I can not ",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Where to begin...  As I bought my first truck, literally within 10 days after buying the GMC Canyon 2024, the car is shaking uncontrollably on the highway... 35 MPH max speed, extremely dangerous situation, 8 AM on a busy Watterson Expressway in Louisville, KY. I was so scared I ",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 GMC Canyon. The contact stated that while driving at an undisclosed speed and attempting to slow the vehicle while in traffic, the brake pedal was depressed; however, the vehicle failed to slow as quickly as needed. The contact stated that the brake pedal ",
+      "pct": 5
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving with my cruise control set at 77 mph in the fast lane of a four-lane highway. There was no one in front of me for more than 3/4 of a mile. A car in the lane to my right apparently triggered the automatic breaking system to the point it slammed on my brakes, pushed m",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Gmc Canyon owners report most",
+    "summary": "Across 204 owner complaints to NHTSA, the most reported area is Exterior Lighting (78% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 159,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The headlights randomly flicker on and off while driving at night. This not only causes a distraction while i'm driving but is also affecting other drivers. Drivers in the other lane keep mistaking the flicker as me turning on my bright lights which is leading other driver to ret",
+        "pct": 78,
+        "title": "Exterior Lighting",
+        "blurb": "159 reports (78%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Headlights began flickering two days after purchase of vehicle. Infotainment screen that operates the headlights,  as there is no physical headlight knobs or buttons, also malfunction and is inoperable. So I can not turn my headlights on or off, they're set to auto and I can not ",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "25 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Where to begin...  As I bought my first truck, literally within 10 days after buying the GMC Canyon 2024, the car is shaking uncontrollably on the highway... 35 MPH max speed, extremely dangerous situation, 8 AM on a busy Watterson Expressway in Louisville, KY. I was so scared I ",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "14 reports (7%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 GMC Canyon. The contact stated that while driving at an undisclosed speed and attempting to slow the vehicle while in traffic, the brake pedal was depressed; however, the vehicle failed to slow as quickly as needed. The contact stated that the brake pedal ",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "11 reports (5%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving with my cruise control set at 77 mph in the fast lane of a four-lane highway. There was no one in front of me for more than 3/4 of a mile. A car in the lane to my right apparently triggered the automatic breaking system to the point it slammed on my brakes, pushed m",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (4%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mitsubishi-eclipse-cross",
+  "make": "Mitsubishi",
+  "model": "Eclipse Cross",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MITSUBISHI/ECLIPSE%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:38:49.342Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mitsubishi Eclipse Cross. The contact stated that the vehicle failed to reverse in cold weather. The contact stated that the brakes were frozen. The contact attempted to rock the vehicle to release the brakes. There were no warning lights illuminated. The ",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The day after I purchased this car I returned to dealership bc my phone would not connect which was the single reason for choosing this car, I was promised it was a simple update problem over the next few weeks I realized there were more issues with the electrical system as if th",
+      "pct": 40
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The day after I purchased this car I returned to dealership bc my phone would not connect which was the single reason for choosing this car, I was promised it was a simple update problem over the next few weeks I realized there were more issues with the electrical system as if th",
+      "pct": 40
+    },
+    {
+      "component": "PARKING BRAKE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mitsubishi Eclipse Cross. The contact stated that the vehicle failed to reverse in cold weather. The contact stated that the brakes were frozen. The contact attempted to rock the vehicle to release the brakes. There were no warning lights illuminated. The ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mitsubishi Eclipse Cross. The contact stated that the vehicle failed to reverse in cold weather. The contact stated that the brakes were frozen. The contact attempted to rock the vehicle to release the brakes. There were no warning lights illuminated. The ",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mitsubishi Eclipse Cross owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Service Brakes (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mitsubishi Eclipse Cross. The contact stated that the vehicle failed to reverse in cold weather. The contact stated that the brakes were frozen. The contact attempted to rock the vehicle to release the brakes. There were no warning lights illuminated. The ",
+        "pct": 40,
+        "title": "Service Brakes",
+        "blurb": "2 reports (40%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The day after I purchased this car I returned to dealership bc my phone would not connect which was the single reason for choosing this car, I was promised it was a simple update problem over the next few weeks I realized there were more issues with the electrical system as if th",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The day after I purchased this car I returned to dealership bc my phone would not connect which was the single reason for choosing this car, I was promised it was a simple update problem over the next few weeks I realized there were more issues with the electrical system as if th",
+        "pct": 40,
+        "title": "Air Bags",
+        "blurb": "2 reports (40%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "PARKING BRAKE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mitsubishi Eclipse Cross. The contact stated that the vehicle failed to reverse in cold weather. The contact stated that the brakes were frozen. The contact attempted to rock the vehicle to release the brakes. There were no warning lights illuminated. The ",
+        "pct": 20,
+        "title": "Parking Brake",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mitsubishi Eclipse Cross. The contact stated that the vehicle failed to reverse in cold weather. The contact stated that the brakes were frozen. The contact attempted to rock the vehicle to release the brakes. There were no warning lights illuminated. The ",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

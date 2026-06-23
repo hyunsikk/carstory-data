@@ -1,0 +1,40 @@
+{
+  "slug": "2014-honda-insight",
+  "make": "Honda",
+  "model": "Insight",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/HONDA/INSIGHT#complaints",
+  "generatedAt": "2026-06-23T16:32:23.653Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL. I RECEIVED A LETTER DATED MARCH 2016 AND WAS TOLD THAT THIS RECALL WOULD BE TAKEN CARE OF IN THE SUMMER OF 2016.  I WAS ALSO TOLD THAT ALTERNATIVE TRANSPORTATION COULD BE PROVIDED BUT THAT I WOULD HAVE TO PAY OUT OF POCKET FOR THE RENTAL AND BE REIMBURSED. I WOULD ",
+      "pct": 60
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Honda Insight owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Air Bags (60% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL. I RECEIVED A LETTER DATED MARCH 2016 AND WAS TOLD THAT THIS RECALL WOULD BE TAKEN CARE OF IN THE SUMMER OF 2016.  I WAS ALSO TOLD THAT ALTERNATIVE TRANSPORTATION COULD BE PROVIDED BUT THAT I WOULD HAVE TO PAY OUT OF POCKET FOR THE RENTAL AND BE REIMBURSED. I WOULD ",
+        "pct": 60,
+        "title": "Air Bags",
+        "blurb": "3 reports (60%)"
+      }
+    ]
+  }
+}

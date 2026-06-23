@@ -1,0 +1,128 @@
+{
+  "slug": "2021-genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GENESIS/G70#complaints",
+  "generatedAt": "2026-06-23T16:30:58.241Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The problem occurred while the engine was on, but I was idle in the drive thru of a local pharmacy. The car had been placed in park, but engine still running while waiting at the window. Suddenly, the car began to shake and multiple indicator lights illuminated then the car compl",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The problem occurred while the engine was on, but I was idle in the drive thru of a local pharmacy. The car had been placed in park, but engine still running while waiting at the window. Suddenly, the car began to shake and multiple indicator lights illuminated then the car compl",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car stopped in the highway",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Summary of Reported Behaviors Lurching: Commonly reported, often deemed a software/adaptive issue. Brake Issues: Commonly reported, often attributed to pad-to-rotor deposits, or in some cases, the recalled ABS module.  I started my car in my work parking lot. When I put into Driv",
+      "pct": 17
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Genesis G70. The contact stated that while driving at an undisclosed speed or while the vehicle was parked, the contact became aware of gasoline fumes inside the cabin. The vehicle was taken to a local dealer on several occasions; however, no failure was f",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Genesis G70 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The problem occurred while the engine was on, but I was idle in the drive thru of a local pharmacy. The car had been placed in park, but engine still running while waiting at the window. Suddenly, the car began to shake and multiple indicator lights illuminated then the car compl",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "4 reports (67%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The problem occurred while the engine was on, but I was idle in the drive thru of a local pharmacy. The car had been placed in park, but engine still running while waiting at the window. Suddenly, the car began to shake and multiple indicator lights illuminated then the car compl",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car stopped in the highway",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Summary of Reported Behaviors Lurching: Commonly reported, often deemed a software/adaptive issue. Brake Issues: Commonly reported, often attributed to pad-to-rotor deposits, or in some cases, the recalled ABS module.  I started my car in my work parking lot. When I put into Driv",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Genesis G70. The contact stated that while driving at an undisclosed speed or while the vehicle was parked, the contact became aware of gasoline fumes inside the cabin. The vehicle was taken to a local dealer on several occasions; however, no failure was f",
+        "pct": 17,
+        "title": "Fuel System",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2017-toyota-land-cruiser",
+  "make": "Toyota",
+  "model": "Land Cruiser",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/TOYOTA/LAND%20CRUISER#complaints",
+  "generatedAt": "2026-06-23T16:41:23.582Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 TOYOTA LAND CRUISER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 18V887000 (AIR BAGS, SEAT BELTS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT SPOKE WITH HAMPTON TOYOTA (6191 JOHNSTON STREET, LAFAYETTE, LA, 337-984-5010) AND WAS INFO",
+      "pct": 75
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 TOYOTA LAND CRUISER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 18V887000 (AIR BAGS, SEAT BELTS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT SPOKE WITH HAMPTON TOYOTA (6191 JOHNSTON STREET, LAFAYETTE, LA, 337-984-5010) AND WAS INFO",
+      "pct": 50
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR (LIKE MANY OTHERS) ALLOWS PRESET SEATING POSITIONS TO BE STORED IN MEMORY. UP TO THREE PREFERENCES CAN BE STORED. NOTHING IN THE VEHICLE PREVENTS FULL RECLINE OF THE DRIVER'S SEAT FROM BEING PROGRAMMED AS A PREFERENCE. THE CONTROLS FOR THE PREFERENCES ARE ON THE DRIVER'S ",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Toyota Land Cruiser owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Air Bags (75% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 TOYOTA LAND CRUISER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 18V887000 (AIR BAGS, SEAT BELTS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT SPOKE WITH HAMPTON TOYOTA (6191 JOHNSTON STREET, LAFAYETTE, LA, 337-984-5010) AND WAS INFO",
+        "pct": 75,
+        "title": "Air Bags",
+        "blurb": "3 reports (75%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 TOYOTA LAND CRUISER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 18V887000 (AIR BAGS, SEAT BELTS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT SPOKE WITH HAMPTON TOYOTA (6191 JOHNSTON STREET, LAFAYETTE, LA, 337-984-5010) AND WAS INFO",
+        "pct": 50,
+        "title": "Seat Belts",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR (LIKE MANY OTHERS) ALLOWS PRESET SEATING POSITIONS TO BE STORED IN MEMORY. UP TO THREE PREFERENCES CAN BE STORED. NOTHING IN THE VEHICLE PREVENTS FULL RECLINE OF THE DRIVER'S SEAT FROM BEING PROGRAMMED AS A PREFERENCE. THE CONTROLS FOR THE PREFERENCES ARE ON THE DRIVER'S ",
+        "pct": 25,
+        "title": "Seats",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

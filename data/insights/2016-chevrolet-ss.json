@@ -1,0 +1,128 @@
+{
+  "slug": "2016-chevrolet-ss",
+  "make": "Chevrolet",
+  "model": "SS",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/CHEVROLET/SS#complaints",
+  "generatedAt": "2026-06-23T16:44:41.328Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE RECENTLY EXPERIENCED AN ELECTRONIC POWER STEERING FAILURE WHILE DRIVING. THE VEHICLE BECAME SIGNIFICANTLY DIFFICULT TO STEER AND I WAS FORTUNATELY TRAVELING IN A STRAIGHT LINE AND AT A SLOW SPEED. IF I HAD BEEN TRAVELING AT HIGHWAY SPEEDS AND IN A CORNER THE SUDDENNESS",
+      "pct": 50
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED A VEHICLE FROM A CHEVROLET DEALERSHIP, BUT I AM NOT ALLOWED TO TAKE IT HOME.  IT SITS ON THE DEALER LOT AWAITING A FIX FOR THE SEATBELT BASED ON A RECALL.  IT'S BEEN ALMOST A MONTH SINCE THE SEATBELT RECALL WAS ANNOUNCED BUT NEITHER GENERAL MOTORS, NOR CHEVROLET HAS G",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED MY 2016 CHEVROLET SS SEDAN IN DECEMBER OF 2016.  PART OF THE INFOTAINMENT 'MYLINK' SYSTEM IS AN APP THAT CONTROLS PANDORA, AN INTERNET RADIO PROGRAM, VIA A BLUETOOTH CONNECTION ON THE TOUCHSCREEN OF THE RADIO.  WITH THIS SYSTEM, THE USER IS ABLE TO CHANGE TRACKS, CHAN",
+      "pct": 17
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "\"service side detection system\" and \"park assist unavailable\", are errors due to water intrusion to proximity sensors. In addition sensor modules are physically bulging and there was some corrosion on my passenger side harness connector and visible rust inside both modules' conne",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Collapsed lifter on cyl 6. Lifter tick / knock since 100,200 miles. Car has a warranty until 5/2026 or 171,000 miles and they refuse to honor it. Car has a steering issue. Two separate chevy dealerships unable to fix. vanderevere charged me 500-600 to fix NOTHING AT ALL. serpenti",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Chevrolet Ss owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Steering (50% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE RECENTLY EXPERIENCED AN ELECTRONIC POWER STEERING FAILURE WHILE DRIVING. THE VEHICLE BECAME SIGNIFICANTLY DIFFICULT TO STEER AND I WAS FORTUNATELY TRAVELING IN A STRAIGHT LINE AND AT A SLOW SPEED. IF I HAD BEEN TRAVELING AT HIGHWAY SPEEDS AND IN A CORNER THE SUDDENNESS",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "12 reports (50%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED A VEHICLE FROM A CHEVROLET DEALERSHIP, BUT I AM NOT ALLOWED TO TAKE IT HOME.  IT SITS ON THE DEALER LOT AWAITING A FIX FOR THE SEATBELT BASED ON A RECALL.  IT'S BEEN ALMOST A MONTH SINCE THE SEATBELT RECALL WAS ANNOUNCED BUT NEITHER GENERAL MOTORS, NOR CHEVROLET HAS G",
+        "pct": 25,
+        "title": "Seat Belts",
+        "blurb": "6 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED MY 2016 CHEVROLET SS SEDAN IN DECEMBER OF 2016.  PART OF THE INFOTAINMENT 'MYLINK' SYSTEM IS AN APP THAT CONTROLS PANDORA, AN INTERNET RADIO PROGRAM, VIA A BLUETOOTH CONNECTION ON THE TOUCHSCREEN OF THE RADIO.  WITH THIS SYSTEM, THE USER IS ABLE TO CHANGE TRACKS, CHAN",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "\"service side detection system\" and \"park assist unavailable\", are errors due to water intrusion to proximity sensors. In addition sensor modules are physically bulging and there was some corrosion on my passenger side harness connector and visible rust inside both modules' conne",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Collapsed lifter on cyl 6. Lifter tick / knock since 100,200 miles. Car has a warranty until 5/2026 or 171,000 miles and they refuse to honor it. Car has a steering issue. Two separate chevy dealerships unable to fix. vanderevere charged me 500-600 to fix NOTHING AT ALL. serpenti",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-ford-fusion",
+  "make": "Ford",
+  "model": "Fusion",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/FUSION#complaints",
+  "generatedAt": "2026-06-23T16:30:41.910Z",
+  "total": 363,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 153,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "STARTED THE CAR WHETHER MANUAL OR BY REMOTE START A POWERTRAIN MALFUNCTION WILL COME ON MY FORD PASS APP. ALSO ON THE DASHBOARD IT WILL SAY SHIFT SYSTEM FAULT. ONCE I PUT THE CAR IN DRIVE THE SERVICE LIGHT DISAPPEARS. THE VEHICLE WAS IN MY DRIVEWAY STATIONARY.  ON 2 OTHER OCCASIO",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 79,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "STARTED THE CAR WHETHER MANUAL OR BY REMOTE START A POWERTRAIN MALFUNCTION WILL COME ON MY FORD PASS APP. ALSO ON THE DASHBOARD IT WILL SAY SHIFT SYSTEM FAULT. ONCE I PUT THE CAR IN DRIVE THE SERVICE LIGHT DISAPPEARS. THE VEHICLE WAS IN MY DRIVEWAY STATIONARY.  ON 2 OTHER OCCASIO",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 72,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "STARTED THE CAR WHETHER MANUAL OR BY REMOTE START A POWERTRAIN MALFUNCTION WILL COME ON MY FORD PASS APP. ALSO ON THE DASHBOARD IT WILL SAY SHIFT SYSTEM FAULT. ONCE I PUT THE CAR IN DRIVE THE SERVICE LIGHT DISAPPEARS. THE VEHICLE WAS IN MY DRIVEWAY STATIONARY.  ON 2 OTHER OCCASIO",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 54,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "About a week or so ago I went out to crank my car and it sounded awful It was shuttering, sounded like it was going to shut off and the engine light came on, it's a 2019 Ford Fusion. I notice it does this every morning, well I took it to the dealer ship today, they said I have co",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Smoke coming from engine and exhaust pipe Overheating  Coolant consumption issues Engine misfire and damage Total engine failure  Safety was put at risk, the engine could have failed on a major highway. The problem is confirmed by Ford and did not cover the total cost of repair C",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Ford Fusion owners report most",
+    "summary": "Across 363 owner complaints to NHTSA, the most reported area is Engine (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 153,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "STARTED THE CAR WHETHER MANUAL OR BY REMOTE START A POWERTRAIN MALFUNCTION WILL COME ON MY FORD PASS APP. ALSO ON THE DASHBOARD IT WILL SAY SHIFT SYSTEM FAULT. ONCE I PUT THE CAR IN DRIVE THE SERVICE LIGHT DISAPPEARS. THE VEHICLE WAS IN MY DRIVEWAY STATIONARY.  ON 2 OTHER OCCASIO",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "153 reports (42%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 79,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "STARTED THE CAR WHETHER MANUAL OR BY REMOTE START A POWERTRAIN MALFUNCTION WILL COME ON MY FORD PASS APP. ALSO ON THE DASHBOARD IT WILL SAY SHIFT SYSTEM FAULT. ONCE I PUT THE CAR IN DRIVE THE SERVICE LIGHT DISAPPEARS. THE VEHICLE WAS IN MY DRIVEWAY STATIONARY.  ON 2 OTHER OCCASIO",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "79 reports (22%) · 2 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 72,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "STARTED THE CAR WHETHER MANUAL OR BY REMOTE START A POWERTRAIN MALFUNCTION WILL COME ON MY FORD PASS APP. ALSO ON THE DASHBOARD IT WILL SAY SHIFT SYSTEM FAULT. ONCE I PUT THE CAR IN DRIVE THE SERVICE LIGHT DISAPPEARS. THE VEHICLE WAS IN MY DRIVEWAY STATIONARY.  ON 2 OTHER OCCASIO",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "72 reports (20%) · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 54,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "About a week or so ago I went out to crank my car and it sounded awful It was shuttering, sounded like it was going to shut off and the engine light came on, it's a 2019 Ford Fusion. I notice it does this every morning, well I took it to the dealer ship today, they said I have co",
+        "pct": 15,
+        "title": "Engine And Engine Cooling",
+        "blurb": "54 reports (15%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Smoke coming from engine and exhaust pipe Overheating  Coolant consumption issues Engine misfire and damage Total engine failure  Safety was put at risk, the engine could have failed on a major highway. The problem is confirmed by Ford and did not cover the total cost of repair C",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "18 reports (5%)"
+      }
+    ]
+  }
+}

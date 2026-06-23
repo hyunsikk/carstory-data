@@ -1,0 +1,128 @@
+{
+  "slug": "2015-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-06-23T16:28:30.672Z",
+  "total": 267,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 69,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE BEEN HAVING NUMEROUS PROBLEMS WITH A PAUSE IN THE ENGINE WHEN I'M SPEEDING UP ONTO A HIGHWAY OR TO PASS ON THE HIGHWAY   .  IT'S MOST DANGEROUS WHEN I ENTER THE HIGHWAY. THE CAR INSTEAD OF JUST SPEEDING UP HAS BEEN KNOWN TO PAUSE.. AND THEN SPEED UP. THIS IS VERY DANGEROUS",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 66,
+      "crash": 2,
+      "fire": 7,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THRU HOUSTON, TEXAS ON INTERSTATE 10 WITH HEAVY TRAFFIC THE ENGINE SHUT OFF, THE ANALOG INSTRUMENTS SHUT OFF, THE CENTER MY LINK SCREEN SHUT OFF AND THE DIGITAL READOUT ALTERNATED BETWEEN MPH AND MILES TRAVELED READOUT. MY WIFE WAS DRIVING AND ATTEMPTED TO RESTART T",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 48,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET MALIBU. WHILE DRIVING 40 MPH MAKING A RIGHT TURN, THE CONTACT STRUCK ANOTHER VEHICLE. THE DRIVER AND PASSENGER SIDE AIR BAGS DEPLOYED, BUT FAILED TO FILL UP. THE DEALER WAS UNABLE TO DETERMINE THE CAUSE OF THE FAILURE. A POLICE REPORT WAS FIL",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 31,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET MALIBU. WHILE THE GEAR SHIFTER WAS IN THE DRIVE POSITION, THE VEHICLE MOVED IN REVERSE. THE VEHICLE WAS TOWED TO THE DEALER. THE TECHNICIAN WAS UNABLE TO DIAGNOSE THE FAILURE. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE ",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 28,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET MALIBU. WHILE DRIVING 45 MPH, THE VEHICLE ACCELERATED WITHOUT WARNING. ALSO, THE RPMS INCREASED WHETHER THE VEHICLE WAS PARKED OR IN DRIVE. THE VEHICLE WAS TAKEN TO A DEALER, BUT WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT MADE AW",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Chevrolet Malibu owners report most",
+    "summary": "Across 267 owner complaints to NHTSA, the most reported area is Engine (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 69,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE BEEN HAVING NUMEROUS PROBLEMS WITH A PAUSE IN THE ENGINE WHEN I'M SPEEDING UP ONTO A HIGHWAY OR TO PASS ON THE HIGHWAY   .  IT'S MOST DANGEROUS WHEN I ENTER THE HIGHWAY. THE CAR INSTEAD OF JUST SPEEDING UP HAS BEEN KNOWN TO PAUSE.. AND THEN SPEED UP. THIS IS VERY DANGEROUS",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "69 reports (26%) · 3 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 66,
+        "crash": 2,
+        "fire": 7,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THRU HOUSTON, TEXAS ON INTERSTATE 10 WITH HEAVY TRAFFIC THE ENGINE SHUT OFF, THE ANALOG INSTRUMENTS SHUT OFF, THE CENTER MY LINK SCREEN SHUT OFF AND THE DIGITAL READOUT ALTERNATED BETWEEN MPH AND MILES TRAVELED READOUT. MY WIFE WAS DRIVING AND ATTEMPTED TO RESTART T",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "66 reports (25%) · 7 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 48,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET MALIBU. WHILE DRIVING 40 MPH MAKING A RIGHT TURN, THE CONTACT STRUCK ANOTHER VEHICLE. THE DRIVER AND PASSENGER SIDE AIR BAGS DEPLOYED, BUT FAILED TO FILL UP. THE DEALER WAS UNABLE TO DETERMINE THE CAUSE OF THE FAILURE. A POLICE REPORT WAS FIL",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "48 reports (18%) · 1 fire · 7 crash · 6 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 31,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET MALIBU. WHILE THE GEAR SHIFTER WAS IN THE DRIVE POSITION, THE VEHICLE MOVED IN REVERSE. THE VEHICLE WAS TOWED TO THE DEALER. THE TECHNICIAN WAS UNABLE TO DIAGNOSE THE FAILURE. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "31 reports (12%) · 1 fire · 3 crash · 4 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 28,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET MALIBU. WHILE DRIVING 45 MPH, THE VEHICLE ACCELERATED WITHOUT WARNING. ALSO, THE RPMS INCREASED WHETHER THE VEHICLE WAS PARKED OR IN DRIVE. THE VEHICLE WAS TAKEN TO A DEALER, BUT WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT MADE AW",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "28 reports (10%) · 4 crash · 2 injured"
+      }
+    ]
+  }
+}

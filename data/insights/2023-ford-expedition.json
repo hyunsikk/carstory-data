@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-06-23T16:29:59.478Z",
+  "total": 57,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I rented the vehicle in question from Hertz. The vehicle's cruise control and vehicle acceleration system repeatedly malfunctioned over the course of several days. I would have cruise control set for 35 mph and the vehicle would automatically re-set cruise control to 55 or 65 mph",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving the vehicle in sport mode and trying to accelerate the pedal will go to the floor and the vehicle will stop moving for a couple of seconds. Usually happens around 20mph and is seemingly random. No warning lights but the vehicle will not move any faster. This has hap",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Wife was driving with my 3 kiddos going 30 mphs on a two lane highway and experienced a total power loss/engine shut down. No prior warning. This is potentially a dangerous situation. The expedition was stranded on the roadway with no engine power or electrical power. 8500 miles ",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Ford Expedition. The contact stated that while driving at an undisclosed speed, the front driver's side exterior mirror fractured. The contact stated that he noticed that there was water inside the mirror housing. The vehicle was taken to the dealer and th",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I rented the vehicle in question from Hertz. The vehicle's cruise control and vehicle acceleration system repeatedly malfunctioned over the course of several days. I would have cruise control set for 35 mph and the vehicle would automatically re-set cruise control to 55 or 65 mph",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ford Expedition owners report most",
+    "summary": "Across 57 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I rented the vehicle in question from Hertz. The vehicle's cruise control and vehicle acceleration system repeatedly malfunctioned over the course of several days. I would have cruise control set for 35 mph and the vehicle would automatically re-set cruise control to 55 or 65 mph",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "15 reports (26%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving the vehicle in sport mode and trying to accelerate the pedal will go to the floor and the vehicle will stop moving for a couple of seconds. Usually happens around 20mph and is seemingly random. No warning lights but the vehicle will not move any faster. This has hap",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "10 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Wife was driving with my 3 kiddos going 30 mphs on a two lane highway and experienced a total power loss/engine shut down. No prior warning. This is potentially a dangerous situation. The expedition was stranded on the roadway with no engine power or electrical power. 8500 miles ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "6 reports (11%) · 2 fire"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Ford Expedition. The contact stated that while driving at an undisclosed speed, the front driver's side exterior mirror fractured. The contact stated that he noticed that there was water inside the mirror housing. The vehicle was taken to the dealer and th",
+        "pct": 11,
+        "title": "Visibility",
+        "blurb": "6 reports (11%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I rented the vehicle in question from Hertz. The vehicle's cruise control and vehicle acceleration system repeatedly malfunctioned over the course of several days. I would have cruise control set for 35 mph and the vehicle would automatically re-set cruise control to 55 or 65 mph",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (11%) · 3 crash · 1 injured"
+      }
+    ]
+  }
+}

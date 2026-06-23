@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:22.920Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X6. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. The contact shifted into park while the vehicle was in motion to stop the vehicle. The vehicle was taken ",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X6. The contact stated that upon start the vehicle, the drivetrain message was displayed. Overtime, the contact stated that the vehicle either failed to start or was slow to start while depressing the START/STOP button. The vehicle was taken to a deale",
+      "pct": 29
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The automatic parking feature was being used to park in garage the vehicle proceed to back up without stopping and the emergency braking system didn’t engage leading to the vehicle crashing. I could have been injured if the structure of the house didn’t stop the vehicle. If someo",
+      "pct": 29
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X6. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. The contact shifted into park while the vehicle was in motion to stop the vehicle. The vehicle was taken ",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Wiring from knee air bag to module failed. Had to repair wiring from front driver and passenger knee air bags. Wiring had a short to ground. Resulted in a $1600 bill.",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw X6 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Service Brakes (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X6. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. The contact shifted into park while the vehicle was in motion to stop the vehicle. The vehicle was taken ",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X6. The contact stated that upon start the vehicle, the drivetrain message was displayed. Overtime, the contact stated that the vehicle either failed to start or was slow to start while depressing the START/STOP button. The vehicle was taken to a deale",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The automatic parking feature was being used to park in garage the vehicle proceed to back up without stopping and the emergency braking system didn’t engage leading to the vehicle crashing. I could have been injured if the structure of the house didn’t stop the vehicle. If someo",
+        "pct": 29,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (29%) · 1 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X6. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. The contact shifted into park while the vehicle was in motion to stop the vehicle. The vehicle was taken ",
+        "pct": 14,
+        "title": "Hydraulic",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Wiring from knee air bag to module failed. Had to repair wiring from front driver and passenger knee air bags. Wiring had a short to ground. Resulted in a $1600 bill.",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

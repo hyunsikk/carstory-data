@@ -1,0 +1,128 @@
+{
+  "slug": "2020-toyota-supra",
+  "make": "Toyota",
+  "model": "Supra",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/SUPRA#complaints",
+  "generatedAt": "2026-06-23T16:41:30.294Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a safety concern involving BMW and Toyota Supra vehicles equipped with the B58 Technical Update (B58TU) engine, commonly found in model years 2019–2021.  These vehicles utilize a variable-displacement engine oil pump containing an internal thermoplastic adjusting c",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There was a beep and then my dashboard went completely blank (was just dark) so I couldn't see any information such as how many miles per hour I was driving or how much gas I had or my navigational information or what gear I was in.  Then the dashboard came back on and it said th",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 TOYOTA SUPRA. WHILE DRIVING 70 MPH, THE STEERING WHEEL SHOOK AND A MESSAGE APPEARED, WARNING THE CONTACT NOT TO DRIVE THE VEHICLE DUE TO A STEERING MALFUNCTION. THE CONTACT HAD TO STOP THE VEHICLE IN THE MIDDLE OF THE HIGHWAY WHERE IT WAS TOWED TO UNIV",
+      "pct": 20
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I PURCHASED A 2020 TOYOTA SUPRA ON NOVEMBER 11, 2019. ON DECEMBER 2,2019. THIS VEHICLE SERIOUSLY AND VERY DANGEROUSLY MALFUNCTIONED. I WAS PULLING OUT OF MY RESIDENTIAL AREA AFTER STOPPING AT A STOP SIGN, PROCEEDED TO MAKE A LEFT ONTO GREENSPRING AVE. , HEADING TOWARDS THE BELTWA",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "rear end crash",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Toyota Supra owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Engine (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a safety concern involving BMW and Toyota Supra vehicles equipped with the B58 Technical Update (B58TU) engine, commonly found in model years 2019–2021.  These vehicles utilize a variable-displacement engine oil pump containing an internal thermoplastic adjusting c",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There was a beep and then my dashboard went completely blank (was just dark) so I couldn't see any information such as how many miles per hour I was driving or how much gas I had or my navigational information or what gear I was in.  Then the dashboard came back on and it said th",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "3 reports (20%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 TOYOTA SUPRA. WHILE DRIVING 70 MPH, THE STEERING WHEEL SHOOK AND A MESSAGE APPEARED, WARNING THE CONTACT NOT TO DRIVE THE VEHICLE DUE TO A STEERING MALFUNCTION. THE CONTACT HAD TO STOP THE VEHICLE IN THE MIDDLE OF THE HIGHWAY WHERE IT WAS TOWED TO UNIV",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "3 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I PURCHASED A 2020 TOYOTA SUPRA ON NOVEMBER 11, 2019. ON DECEMBER 2,2019. THIS VEHICLE SERIOUSLY AND VERY DANGEROUSLY MALFUNCTIONED. I WAS PULLING OUT OF MY RESIDENTIAL AREA AFTER STOPPING AT A STOP SIGN, PROCEEDED TO MAKE A LEFT ONTO GREENSPRING AVE. , HEADING TOWARDS THE BELTWA",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "2 reports (13%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "rear end crash",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "1 report (7%) · 1 crash"
+      }
+    ]
+  }
+}

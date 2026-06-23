@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-kona",
+  "make": "Hyundai",
+  "model": "Kona",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/KONA#complaints",
+  "generatedAt": "2026-06-23T16:33:40.535Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2023 Hyundai Kona SEL FWD currently has approximately 1500 miles on the odometer. Pretty much since the day I my 2023 Kona SEL on 9/3/2022, the car has had an issue where, after I start the car and begin driving it for about 20 or 30 seconds the car will lose power entirely. E",
+      "pct": 39
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "i was driving at 45mph and a deer came in front of my car . We hit the deer in front of car , deer approximitly 100 lbs  no warning like brake sytem lane obstruction or air bags deployed ?   I bought this car based Hyundai telling me how safe of car it is . When obiously it is no",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2023 Hyundai Kona SEL FWD currently has approximately 1500 miles on the odometer. Pretty much since the day I my 2023 Kona SEL on 9/3/2022, the car has had an issue where, after I start the car and begin driving it for about 20 or 30 seconds the car will lose power entirely. E",
+      "pct": 16
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car is set at a speed for cruise control. For no reason it loses power, after a while it returns speed as set. At the beginning the doors weren’t working for locking and unlocking by the handle. Seems okay now but I made a video showing the rear camera staying on while drivin",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car is set at a speed for cruise control. For no reason it loses power, after a while it returns speed as set. At the beginning the doors weren’t working for locking and unlocking by the handle. Seems okay now but I made a video showing the rear camera staying on while drivin",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Kona owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Electrical System (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2023 Hyundai Kona SEL FWD currently has approximately 1500 miles on the odometer. Pretty much since the day I my 2023 Kona SEL on 9/3/2022, the car has had an issue where, after I start the car and begin driving it for about 20 or 30 seconds the car will lose power entirely. E",
+        "pct": 39,
+        "title": "Electrical System",
+        "blurb": "24 reports (39%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "i was driving at 45mph and a deer came in front of my car . We hit the deer in front of car , deer approximitly 100 lbs  no warning like brake sytem lane obstruction or air bags deployed ?   I bought this car based Hyundai telling me how safe of car it is . When obiously it is no",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (20%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2023 Hyundai Kona SEL FWD currently has approximately 1500 miles on the odometer. Pretty much since the day I my 2023 Kona SEL on 9/3/2022, the car has had an issue where, after I start the car and begin driving it for about 20 or 30 seconds the car will lose power entirely. E",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "10 reports (16%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car is set at a speed for cruise control. For no reason it loses power, after a while it returns speed as set. At the beginning the doors weren’t working for locking and unlocking by the handle. Seems okay now but I made a video showing the rear camera staying on while drivin",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "7 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car is set at a speed for cruise control. For no reason it loses power, after a while it returns speed as set. At the beginning the doors weren’t working for locking and unlocking by the handle. Seems okay now but I made a video showing the rear camera staying on while drivin",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "6 reports (10%)"
+      }
+    ]
+  }
+}

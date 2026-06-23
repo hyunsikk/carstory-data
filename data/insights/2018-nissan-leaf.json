@@ -1,0 +1,128 @@
+{
+  "slug": "2018-nissan-leaf",
+  "make": "Nissan",
+  "model": "Leaf",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/NISSAN/LEAF#complaints",
+  "generatedAt": "2026-06-23T16:39:20.463Z",
+  "total": 62,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 17,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN THE BRAKES ARE APPLIED MODERATELY AT AROUND 40MPH TO SLOW DOWN, AND IF A WHEEL GO ON TOP OF SOME BUMPS OR POT HOLES, CAR SEEMS TO LOOSE BRAKING POWER, BRAKE PADEL DROP ABOUT 1 INCH, HAVE TO PEDAL HARD TO GET THE BRAKES BACK. AT ONE TIME I SAW A MESSAGE ON DASHBOARD \"NOT AVAI",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE VEHICLE, WITHOUT WARNING THE CAR STOPPED ITSELF SIMULATING A \"SLAMMING ON THE BRAKES\" AFFECT. THERE WAS NO WARNING, THE CAR JUST STOPPED. AFTER THE CAR STOPPED, AN ERROR APPEARED ON THE SCREEN SAYING \"POWER SUPPLY FAILURE. TO AVOID ACCIDENT, SERIOUS INJURY OR DE",
+      "pct": 26
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE BRAKES ARE APPLIED MODERATELY AT AROUND 40MPH TO SLOW DOWN, AND IF A WHEEL GO ON TOP OF SOME BUMPS OR POT HOLES, CAR SEEMS TO LOOSE BRAKING POWER, BRAKE PADEL DROP ABOUT 1 INCH, HAVE TO PEDAL HARD TO GET THE BRAKES BACK. AT ONE TIME I SAW A MESSAGE ON DASHBOARD \"NOT AVAI",
+      "pct": 21
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 12,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS NISSAN CAR IS EQUIPPED WITH FEATURES NAMED, PRO-PILOT ASSIST (PPA), INTELLIGENT CRUISE CONTROL (ICC) AND EMERGENCY BRAKE ASSIST (EBA). WHEN ENGAGED, IT IS SUPPOSED TO KEEP LANES AND FOLLOW DISTANCE IF THERE IS A CAR IN FRONT. WHEN THE CAR IN FRONT IS STOPPED THIS CAR IS SUPP",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the highway with a full battery charge,  the vehicle battery was suddenly depleted, the car entered \"turtle mode\" (a reduced motor power at low charge feature), and then turned off completely moments later. This is a huge safety issue as it leaves you to coast to",
+      "pct": 18
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Nissan Leaf owners report most",
+    "summary": "Across 62 owner complaints to NHTSA, the most reported area is Service Brakes (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 17,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN THE BRAKES ARE APPLIED MODERATELY AT AROUND 40MPH TO SLOW DOWN, AND IF A WHEEL GO ON TOP OF SOME BUMPS OR POT HOLES, CAR SEEMS TO LOOSE BRAKING POWER, BRAKE PADEL DROP ABOUT 1 INCH, HAVE TO PEDAL HARD TO GET THE BRAKES BACK. AT ONE TIME I SAW A MESSAGE ON DASHBOARD \"NOT AVAI",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "17 reports (27%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE VEHICLE, WITHOUT WARNING THE CAR STOPPED ITSELF SIMULATING A \"SLAMMING ON THE BRAKES\" AFFECT. THERE WAS NO WARNING, THE CAR JUST STOPPED. AFTER THE CAR STOPPED, AN ERROR APPEARED ON THE SCREEN SAYING \"POWER SUPPLY FAILURE. TO AVOID ACCIDENT, SERIOUS INJURY OR DE",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "16 reports (26%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE BRAKES ARE APPLIED MODERATELY AT AROUND 40MPH TO SLOW DOWN, AND IF A WHEEL GO ON TOP OF SOME BUMPS OR POT HOLES, CAR SEEMS TO LOOSE BRAKING POWER, BRAKE PADEL DROP ABOUT 1 INCH, HAVE TO PEDAL HARD TO GET THE BRAKES BACK. AT ONE TIME I SAW A MESSAGE ON DASHBOARD \"NOT AVAI",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (21%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 12,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS NISSAN CAR IS EQUIPPED WITH FEATURES NAMED, PRO-PILOT ASSIST (PPA), INTELLIGENT CRUISE CONTROL (ICC) AND EMERGENCY BRAKE ASSIST (EBA). WHEN ENGAGED, IT IS SUPPOSED TO KEEP LANES AND FOLLOW DISTANCE IF THERE IS A CAR IN FRONT. WHEN THE CAR IN FRONT IS STOPPED THIS CAR IS SUPP",
+        "pct": 19,
+        "title": "Vehicle Speed Control",
+        "blurb": "12 reports (19%) · 4 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the highway with a full battery charge,  the vehicle battery was suddenly depleted, the car entered \"turtle mode\" (a reduced motor power at low charge feature), and then turned off completely moments later. This is a huge safety issue as it leaves you to coast to",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "11 reports (18%) · 1 crash"
+      }
+    ]
+  }
+}

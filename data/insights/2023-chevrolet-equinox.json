@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-06-23T16:28:22.618Z",
+  "total": 82,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel pump failed to supply engine with fuel, first started November 9, the vehicle was scheduled for regular maintenance on November 13, 2023 where I addressed the vehicle has been jerking and stalling. Service advisor saw a problem but Rick hendrick service department was unable",
+      "pct": 41
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I went to the gas station to fill the car with gas. I pulled along the pumps and put on the brakes but they failed and I applied again failed again so I put into netural and ran into a pole. I called GM and they checked the brakes could not find any problem. I ask if they checked",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While attempting accelerate on the highway at 70 MPH the car entered \"Engine power reduced\" mode resulting in the car to slow down.  This reduced speed resulted in a few near misses on the highway.  The check engine light than began to flash for about 15 seconds before all the me",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's wife owns a 2023 Chevrolet Equinox. The contact stated that while driving at various speeds, the check engine, ECM, and traction control warning lights illuminated. The contact also stated that the vehicle failed to accelerate above 60 MPH, with the accelerator peda",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Vehicle was set up per manual to be flat towed behind our motorhome.  We followed the set-up steps according to the manual exactly.  When driving and applying the brakes for more than a few seconds the front tires would lock up and squeal.   This same situation happened when maki",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Equinox owners report most",
+    "summary": "Across 82 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel pump failed to supply engine with fuel, first started November 9, the vehicle was scheduled for regular maintenance on November 13, 2023 where I addressed the vehicle has been jerking and stalling. Service advisor saw a problem but Rick hendrick service department was unable",
+        "pct": 41,
+        "title": "Fuel/Propulsion System",
+        "blurb": "34 reports (41%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I went to the gas station to fill the car with gas. I pulled along the pumps and put on the brakes but they failed and I applied again failed again so I put into netural and ran into a pole. I called GM and they checked the brakes could not find any problem. I ask if they checked",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "16 reports (20%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While attempting accelerate on the highway at 70 MPH the car entered \"Engine power reduced\" mode resulting in the car to slow down.  This reduced speed resulted in a few near misses on the highway.  The check engine light than began to flash for about 15 seconds before all the me",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "11 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's wife owns a 2023 Chevrolet Equinox. The contact stated that while driving at various speeds, the check engine, ECM, and traction control warning lights illuminated. The contact also stated that the vehicle failed to accelerate above 60 MPH, with the accelerator peda",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "10 reports (12%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Vehicle was set up per manual to be flat towed behind our motorhome.  We followed the set-up steps according to the manual exactly.  When driving and applying the brakes for more than a few seconds the front tires would lock up and squeal.   This same situation happened when maki",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (7%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

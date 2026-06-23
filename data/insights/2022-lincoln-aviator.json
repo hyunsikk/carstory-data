@@ -1,0 +1,128 @@
+{
+  "slug": "2022-lincoln-aviator",
+  "make": "Lincoln",
+  "model": "Aviator",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LINCOLN/AVIATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:38.446Z",
+  "total": 43,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The vehicle back up camera and computer screen went totally dark and would not come back on, so that when I backed out of the garage, I could not see on the rear  side of the vehicle, as to any pedestrians walking across my driveway , beside nor behind my vehicle. I drove the veh",
+      "pct": 19
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving down GA 140 near Waleska, GA, I hit a bump in the highway and the hood popped open. It stopped at first catch and I was able to stop before hood came all the way up. Was able to open hood completely and relatch successfully. No further incident's but it was very str",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Door ajar notification continues to illuminate when all doors are secure. First incident happened on 1/25/2022. Was sent in for repair and returned on 2/2/2022. Issue happened again while driving on the interstate on 3/10/2022, and is back in for repair. This notification causes ",
+      "pct": 19
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Lincoln Aviators 2020-2024 using the Sync 3 Radio screen. Have a issue not switching to dimmed/night mode during night time driving.  This is a major safety issue because when driving a night you have a super bright display inches from your eyes creating a blinding issue at night",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car has stopped electrically with no response from any switches when trying to switch on. This has happened before couple of times and once it switched on by itself after 5 min, the second incident it had to be towed away from road after no response in 2 hours.   This time it",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Lincoln Aviator owners report most",
+    "summary": "Across 43 owner complaints to NHTSA, the most reported area is Back Over Prevention (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The vehicle back up camera and computer screen went totally dark and would not come back on, so that when I backed out of the garage, I could not see on the rear  side of the vehicle, as to any pedestrians walking across my driveway , beside nor behind my vehicle. I drove the veh",
+        "pct": 19,
+        "title": "Back Over Prevention",
+        "blurb": "8 reports (19%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving down GA 140 near Waleska, GA, I hit a bump in the highway and the hood popped open. It stopped at first catch and I was able to stop before hood came all the way up. Was able to open hood completely and relatch successfully. No further incident's but it was very str",
+        "pct": 19,
+        "title": "Structure",
+        "blurb": "8 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Door ajar notification continues to illuminate when all doors are secure. First incident happened on 1/25/2022. Was sent in for repair and returned on 2/2/2022. Issue happened again while driving on the interstate on 3/10/2022, and is back in for repair. This notification causes ",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "8 reports (19%) · 1 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Lincoln Aviators 2020-2024 using the Sync 3 Radio screen. Have a issue not switching to dimmed/night mode during night time driving.  This is a major safety issue because when driving a night you have a super bright display inches from your eyes creating a blinding issue at night",
+        "pct": 14,
+        "title": "Visibility/Wiper",
+        "blurb": "6 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car has stopped electrically with no response from any switches when trying to switch on. This has happened before couple of times and once it switched on by itself after 5 min, the second incident it had to be towed away from road after no response in 2 hours.   This time it",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "6 reports (14%)"
+      }
+    ]
+  }
+}

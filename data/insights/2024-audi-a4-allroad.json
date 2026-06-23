@@ -1,0 +1,128 @@
+{
+  "slug": "2024-audi-a4-allroad",
+  "make": "Audi",
+  "model": "A4 allroad",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/A4%20ALLROAD#complaints",
+  "generatedAt": "2026-06-23T16:42:59.079Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sudden Unintended Acceleration occurred when turning vehicle onto a roadway from a standing stop at an intersection.  It occurred at night, [XXX] at the [XXX] .  The vehicle was headed west on [XXX]  turning from the far left lane while stopped at the intersection of [XXX]  and [",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sudden Unintended Acceleration occurred when turning vehicle onto a roadway from a standing stop at an intersection.  It occurred at night, [XXX] at the [XXX] .  The vehicle was headed west on [XXX]  turning from the far left lane while stopped at the intersection of [XXX]  and [",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sudden Unintended Acceleration occurred when turning vehicle onto a roadway from a standing stop at an intersection.  It occurred at night, [XXX] at the [XXX] .  The vehicle was headed west on [XXX]  turning from the far left lane while stopped at the intersection of [XXX]  and [",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While reversing out of a parking space, the steering wheel on my 2024 Audi A4 Allroad wagon suddenly locked completely and could not be turned in either direction. A warning message appeared stating “Steering malfunction. Safe to drive.” However, the vehicle was not safe to drive",
+      "pct": 25
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The sidewall of the Continental ProContact TX 245/45 18 100H XL BSW MW developed a bubble over the course of driving the car  3,670 miles from date of vehicle purchase new in [XXX].  I drove the vehicle to the nearest Continental Tire dealer, America's Tire at 1327 S. Glendale Av",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi A4 Allroad owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (25% of reports).",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sudden Unintended Acceleration occurred when turning vehicle onto a roadway from a standing stop at an intersection.  It occurred at night, [XXX] at the [XXX] .  The vehicle was headed west on [XXX]  turning from the far left lane while stopped at the intersection of [XXX]  and [",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sudden Unintended Acceleration occurred when turning vehicle onto a roadway from a standing stop at an intersection.  It occurred at night, [XXX] at the [XXX] .  The vehicle was headed west on [XXX]  turning from the far left lane while stopped at the intersection of [XXX]  and [",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sudden Unintended Acceleration occurred when turning vehicle onto a roadway from a standing stop at an intersection.  It occurred at night, [XXX] at the [XXX] .  The vehicle was headed west on [XXX]  turning from the far left lane while stopped at the intersection of [XXX]  and [",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While reversing out of a parking space, the steering wheel on my 2024 Audi A4 Allroad wagon suddenly locked completely and could not be turned in either direction. A warning message appeared stating “Steering malfunction. Safe to drive.” However, the vehicle was not safe to drive",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The sidewall of the Continental ProContact TX 245/45 18 100H XL BSW MW developed a bubble over the course of driving the car  3,670 miles from date of vehicle purchase new in [XXX].  I drove the vehicle to the nearest Continental Tire dealer, America's Tire at 1327 S. Glendale Av",
+        "pct": 25,
+        "title": "Tires",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

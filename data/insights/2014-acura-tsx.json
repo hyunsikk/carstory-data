@@ -1,0 +1,106 @@
+{
+  "slug": "2014-acura-tsx",
+  "make": "Acura",
+  "model": "TSX",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/ACURA/TSX#complaints",
+  "generatedAt": "2026-06-23T16:25:06.464Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE CAR SITS OVER NIGHT OR WHEN IT COLD THE BRAKE PEDAL WILL NOT GO DOWN, BRAKE NO WORKING FOR SEVERAL MINUTES. CALLED CUSTOMER SERVICE THEY SAID IS NORMAL, AT THREE YEARS AGO.IN 1/31/2019,THE DAY VERY COLD IN NEW YORK CITY, I WENT ON THE PARKWAY AND THE CAR COULD NOT BRAKE,",
+      "pct": 43
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VTC ACTUATOR PART NUMBER 14310-R40-A01 HAS GONE BAD.  THE VERY SAME PART NUMBER IS USED ON MULTIPLE HONDAS AND ACURAS.  WHEN USED ON THE HONDA VARIANT (ACCORD) THE PART HAS BEEN DEEMED TO BE DEFECTIVE BY HONDA OF AMERICA PER TSB 09-010.  YET WHEN THE VERY SAME PART IS USED IN",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A BRAND NEW 2014 ACURA TSX MAY 27 2014 FROM CONCORD ACURA DEALERSHIP. SINCE 2014-2019 MY CAR HAS BEEN STALLING TO START. I'VE BROUGHT IT IN MULTIPLE TIMES FOR THE SAME ISSUE, THEY WOULD SEND ME HOME AND SAID NOTHING WAS WRONG WITH MY CAR.     ON JAN 2017, AFTER BRINGING ",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2014 ACURA TSX. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V346000 (AIR BAGS); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECA",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Acura Tsx owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Service Brakes (43% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE CAR SITS OVER NIGHT OR WHEN IT COLD THE BRAKE PEDAL WILL NOT GO DOWN, BRAKE NO WORKING FOR SEVERAL MINUTES. CALLED CUSTOMER SERVICE THEY SAID IS NORMAL, AT THREE YEARS AGO.IN 1/31/2019,THE DAY VERY COLD IN NEW YORK CITY, I WENT ON THE PARKWAY AND THE CAR COULD NOT BRAKE,",
+        "pct": 43,
+        "title": "Service Brakes",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VTC ACTUATOR PART NUMBER 14310-R40-A01 HAS GONE BAD.  THE VERY SAME PART NUMBER IS USED ON MULTIPLE HONDAS AND ACURAS.  WHEN USED ON THE HONDA VARIANT (ACCORD) THE PART HAS BEEN DEEMED TO BE DEFECTIVE BY HONDA OF AMERICA PER TSB 09-010.  YET WHEN THE VERY SAME PART IS USED IN",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A BRAND NEW 2014 ACURA TSX MAY 27 2014 FROM CONCORD ACURA DEALERSHIP. SINCE 2014-2019 MY CAR HAS BEEN STALLING TO START. I'VE BROUGHT IT IN MULTIPLE TIMES FOR THE SAME ISSUE, THEY WOULD SEND ME HOME AND SAID NOTHING WAS WRONG WITH MY CAR.     ON JAN 2017, AFTER BRINGING ",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2014 ACURA TSX. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V346000 (AIR BAGS); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECA",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

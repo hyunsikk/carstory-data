@@ -1,0 +1,128 @@
+{
+  "slug": "2019-bmw-x1",
+  "make": "BMW",
+  "model": "X1",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/X1#complaints",
+  "generatedAt": "2026-06-23T16:26:53.903Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2019 X1 WITH 17000 MILES ON IT SUDDENLY AND WITHOUT WARNING SHUT DOWN IN THE MIDDLE OF THE HIGHWAY. IT WOULD NOT START BACK UP AND THE ENTIRE DASHBOARD LIGHTS WERE BLINKING WITH NO RHYME OR REASON. I WAS NOT EVEN ABLE TO GET OUT OF THE LANE ONTO THE SHOULDER TO A SAFE AREA.  T",
+      "pct": 45
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2019 X1 WITH 17000 MILES ON IT SUDDENLY AND WITHOUT WARNING SHUT DOWN IN THE MIDDLE OF THE HIGHWAY. IT WOULD NOT START BACK UP AND THE ENTIRE DASHBOARD LIGHTS WERE BLINKING WITH NO RHYME OR REASON. I WAS NOT EVEN ABLE TO GET OUT OF THE LANE ONTO THE SHOULDER TO A SAFE AREA.  T",
+      "pct": 18
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 BMW X1. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V349000 (STRUCTURE). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. HENDRICK BMW NORTHLAKE (10720 NORTHLAKE AUTO PLAZA BLVD,",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car began shaking at low speeds when turning. Brought it to a mechanic to investigate and they performed a recommended manufacturer alteration on the car related to rear differential vent. That did not fix the issue and mechanic said a full rear differential replacement was re",
+      "pct": 9
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A recall was issued for similar vehicles (X1) but ended with the 2018 model year (Recall 24V-608). This issue continues to be present in the 2019 model year. The thermostats in subsequent year models continue to leak, presenting a hazard. An engine warning lamp triggered an inspe",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw X1 owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Electrical System (45% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2019 X1 WITH 17000 MILES ON IT SUDDENLY AND WITHOUT WARNING SHUT DOWN IN THE MIDDLE OF THE HIGHWAY. IT WOULD NOT START BACK UP AND THE ENTIRE DASHBOARD LIGHTS WERE BLINKING WITH NO RHYME OR REASON. I WAS NOT EVEN ABLE TO GET OUT OF THE LANE ONTO THE SHOULDER TO A SAFE AREA.  T",
+        "pct": 45,
+        "title": "Electrical System",
+        "blurb": "5 reports (45%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2019 X1 WITH 17000 MILES ON IT SUDDENLY AND WITHOUT WARNING SHUT DOWN IN THE MIDDLE OF THE HIGHWAY. IT WOULD NOT START BACK UP AND THE ENTIRE DASHBOARD LIGHTS WERE BLINKING WITH NO RHYME OR REASON. I WAS NOT EVEN ABLE TO GET OUT OF THE LANE ONTO THE SHOULDER TO A SAFE AREA.  T",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 BMW X1. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V349000 (STRUCTURE). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. HENDRICK BMW NORTHLAKE (10720 NORTHLAKE AUTO PLAZA BLVD,",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car began shaking at low speeds when turning. Brought it to a mechanic to investigate and they performed a recommended manufacturer alteration on the car related to rear differential vent. That did not fix the issue and mechanic said a full rear differential replacement was re",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A recall was issued for similar vehicles (X1) but ended with the 2018 model year (Recall 24V-608). This issue continues to be present in the 2019 model year. The thermostats in subsequent year models continue to leak, presenting a hazard. An engine warning lamp triggered an inspe",
+        "pct": 9,
+        "title": "Suspension",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

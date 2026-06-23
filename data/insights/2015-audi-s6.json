@@ -1,0 +1,128 @@
+{
+  "slug": "2015-audi-s6",
+  "make": "Audi",
+  "model": "S6",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/AUDI/S6#complaints",
+  "generatedAt": "2026-06-23T16:43:09.491Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON THE NEW JERSEY TURNPIKE AND BOTH TURBOCHARGERS FAILED.  CAR LOST POWER AND I HAD TO STEER TO SIDE OF THE HIGHWAY WITHOUT POWER STEERING AND BRAKES FROM FAR LEFT LANE. AUDI SERVICE SAYS BEARINGS STARVED OF OIL AND SEIZED.  THEY SAID THIS IS A COMMON PROBLEM WITH THE 4.0",
+      "pct": 60
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering Module went out for no apparent reason. I was able to find a used one and have it repaired for just under $1000. I had git two quotes for to auto shops that specialize in Audi repairs and they were both  over $5300 to repair this steering module. This is unacceptable.",
+      "pct": 20
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering Module went out for no apparent reason. I was able to find a used one and have it repaired for just under $1000. I had git two quotes for to auto shops that specialize in Audi repairs and they were both  over $5300 to repair this steering module. This is unacceptable.",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering Module went out for no apparent reason. I was able to find a used one and have it repaired for just under $1000. I had git two quotes for to auto shops that specialize in Audi repairs and they were both  over $5300 to repair this steering module. This is unacceptable.",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple turbo failures. Engine shook violently then suddenly stopped in the middle of the road. This same issue happened 3 times affecting both turbos. It may be due to faulty oil filter/strainer. From online research (link below) this is a common problem for C7 Audi s6.  https:",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Audi S6 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON THE NEW JERSEY TURNPIKE AND BOTH TURBOCHARGERS FAILED.  CAR LOST POWER AND I HAD TO STEER TO SIDE OF THE HIGHWAY WITHOUT POWER STEERING AND BRAKES FROM FAR LEFT LANE. AUDI SERVICE SAYS BEARINGS STARVED OF OIL AND SEIZED.  THEY SAID THIS IS A COMMON PROBLEM WITH THE 4.0",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "3 reports (60%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering Module went out for no apparent reason. I was able to find a used one and have it repaired for just under $1000. I had git two quotes for to auto shops that specialize in Audi repairs and they were both  over $5300 to repair this steering module. This is unacceptable.",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering Module went out for no apparent reason. I was able to find a used one and have it repaired for just under $1000. I had git two quotes for to auto shops that specialize in Audi repairs and they were both  over $5300 to repair this steering module. This is unacceptable.",
+        "pct": 20,
+        "title": "Suspension",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering Module went out for no apparent reason. I was able to find a used one and have it repaired for just under $1000. I had git two quotes for to auto shops that specialize in Audi repairs and they were both  over $5300 to repair this steering module. This is unacceptable.",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple turbo failures. Engine shook violently then suddenly stopped in the middle of the road. This same issue happened 3 times affecting both turbos. It may be due to faulty oil filter/strainer. From online research (link below) this is a common problem for C7 Audi s6.  https:",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%) · 1 crash"
+      }
+    ]
+  }
+}

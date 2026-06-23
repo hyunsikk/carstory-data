@@ -1,0 +1,40 @@
+{
+  "slug": "2024-audi-sq7",
+  "make": "Audi",
+  "model": "SQ7",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/SQ7#complaints",
+  "generatedAt": "2026-06-23T16:43:22.720Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "USB-C ports found on the front center console and second row center console have a defective design that leads to frequent \"push in\" of the USB connector.  This is leading to shorts, circuit boards overheating, and potential fire risk.  It is a frequent issue reported in online f",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Sq7 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "USB-C ports found on the front center console and second row center console have a defective design that leads to frequent \"push in\" of the USB connector.  This is leading to shorts, circuit boards overheating, and potential fire risk.  It is a frequent issue reported in online f",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

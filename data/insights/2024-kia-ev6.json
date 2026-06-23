@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-ev6",
+  "make": "Kia",
+  "model": "EV6",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/EV6#complaints",
+  "generatedAt": "2026-06-23T16:36:22.266Z",
+  "total": 68,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 49,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "8 days after purchase from dealer, new vehicle, it went into \"zombie\" mode.  Electrical system for radio, climate, lights, etc. all worked but it wouldn't come out of park or neutral.  The online app kept saying there were no mechanical problems even though it was \"dead in the wa",
+      "pct": 72
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "8 days after purchase from dealer, new vehicle, it went into \"zombie\" mode.  Electrical system for radio, climate, lights, etc. all worked but it wouldn't come out of park or neutral.  The online app kept saying there were no mechanical problems even though it was \"dead in the wa",
+      "pct": 24
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Description of Incident:  1. What component or system failed or malfunctioned, and is it available for inspection upon request? The high-voltage battery system and charging system in my 2024 Kia EV6 malfunctioned. Despite showing 40 miles of range remaining, the battery suddenly ",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I see there is a lot of battery issues with KIA EV6 out lately; my car randomly died near my house and nothing was working, doors wouldn't open/close, hazard light wouldn't come on.. had the car towed to the dealership same day. they claim that they fixed my car properly and fixe",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "There are alot of electrical malfunctions including unnecessary and without warning emergency breaking that has injured me ( I temporarily have a rental car to recover from a right thoracic sprain, left hip contusion, and a right anterior chest contusion- I have medical documenta",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Ev6 owners report most",
+    "summary": "Across 68 owner complaints to NHTSA, the most reported area is Electrical System (72% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 49,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "8 days after purchase from dealer, new vehicle, it went into \"zombie\" mode.  Electrical system for radio, climate, lights, etc. all worked but it wouldn't come out of park or neutral.  The online app kept saying there were no mechanical problems even though it was \"dead in the wa",
+        "pct": 72,
+        "title": "Electrical System",
+        "blurb": "49 reports (72%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "8 days after purchase from dealer, new vehicle, it went into \"zombie\" mode.  Electrical system for radio, climate, lights, etc. all worked but it wouldn't come out of park or neutral.  The online app kept saying there were no mechanical problems even though it was \"dead in the wa",
+        "pct": 24,
+        "title": "Power Train",
+        "blurb": "16 reports (24%) · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Description of Incident:  1. What component or system failed or malfunctioned, and is it available for inspection upon request? The high-voltage battery system and charging system in my 2024 Kia EV6 malfunctioned. Despite showing 40 miles of range remaining, the battery suddenly ",
+        "pct": 21,
+        "title": "Fuel/Propulsion System",
+        "blurb": "14 reports (21%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I see there is a lot of battery issues with KIA EV6 out lately; my car randomly died near my house and nothing was working, doors wouldn't open/close, hazard light wouldn't come on.. had the car towed to the dealership same day. they claim that they fixed my car properly and fixe",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "6 reports (9%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "There are alot of electrical malfunctions including unnecessary and without warning emergency breaking that has injured me ( I temporarily have a rental car to recover from a right thoracic sprain, left hip contusion, and a right anterior chest contusion- I have medical documenta",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (6%) · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

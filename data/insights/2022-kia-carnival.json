@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-carnival",
+  "make": "Kia",
+  "model": "Carnival",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/CARNIVAL#complaints",
+  "generatedAt": "2026-06-23T16:36:22.064Z",
+  "total": 130,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "Sliding doors seem unsafe.  They take a tremendous amount of force to stop the automatic door from closing.  There is no safety mechanism to prevent a child from getting stuck and/or extremely hurt due if caught in sliding doors while closing.  Seems like there should be a lesser",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "At roughly 9,000 miles we noticed that the lights illuminating the climate control buttons stopped working. We also noticed the gear shift indicators (P, R, N, D) were not lighting up either, and neither was the light that told you what gear you were in. At night it is impossible",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This morning was the coldest morning this year (7F) and I could not accelerate the vehicle after turning it on. It won't go faster than 15mph or so and the engine warning sign popped up. The code said P211800. I have heard that there were many people complaining this issue and I ",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle mileage was about 1,750. Check engine light came on immediately after starting the engine and vehicle had a slight vibration. Drove to dealer and vehicle started shaking badly while accelerating and had slight burning smell inside the cab. Was told #6 cylinder was miss fi",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A small rock barely hit my windshield and cracked it completely across. It started as a small crack from a small pebble that progressed significantly overnight. What’s worse is that the windshield is on back order so I been waiting over a month for it to get fixed. This seems lik",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia Carnival owners report most",
+    "summary": "Across 130 owner complaints to NHTSA, the most reported area is Structure (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "Sliding doors seem unsafe.  They take a tremendous amount of force to stop the automatic door from closing.  There is no safety mechanism to prevent a child from getting stuck and/or extremely hurt due if caught in sliding doors while closing.  Seems like there should be a lesser",
+        "pct": 24,
+        "title": "Structure",
+        "blurb": "31 reports (24%) · 12 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "At roughly 9,000 miles we noticed that the lights illuminating the climate control buttons stopped working. We also noticed the gear shift indicators (P, R, N, D) were not lighting up either, and neither was the light that told you what gear you were in. At night it is impossible",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "22 reports (17%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This morning was the coldest morning this year (7F) and I could not accelerate the vehicle after turning it on. It won't go faster than 15mph or so and the engine warning sign popped up. The code said P211800. I have heard that there were many people complaining this issue and I ",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "16 reports (12%) · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle mileage was about 1,750. Check engine light came on immediately after starting the engine and vehicle had a slight vibration. Drove to dealer and vehicle started shaking badly while accelerating and had slight burning smell inside the cab. Was told #6 cylinder was miss fi",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "13 reports (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A small rock barely hit my windshield and cracked it completely across. It started as a small crack from a small pebble that progressed significantly overnight. What’s worse is that the windshield is on back order so I been waiting over a month for it to get fixed. This seems lik",
+        "pct": 8,
+        "title": "Visibility/Wiper",
+        "blurb": "11 reports (8%)"
+      }
+    ]
+  }
+}

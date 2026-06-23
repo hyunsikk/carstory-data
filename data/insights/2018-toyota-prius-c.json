@@ -1,0 +1,128 @@
+{
+  "slug": "2018-toyota-prius-c",
+  "make": "Toyota",
+  "model": "Prius C",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/TOYOTA/PRIUS%20C#complaints",
+  "generatedAt": "2026-06-23T16:45:46.394Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I entered a large, strip mall parking area and was driving at the vastly reduced speed one would use in such a situation. My intention was to park my car to enter a store in the mall. I turned a corner to park on the side of the building (parking options were limited). As I enter",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I entered a large, strip mall parking area and was driving at the vastly reduced speed one would use in such a situation. My intention was to park my car to enter a store in the mall. I turned a corner to park on the side of the building (parking options were limited). As I enter",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I entered a large, strip mall parking area and was driving at the vastly reduced speed one would use in such a situation. My intention was to park my car to enter a store in the mall. I turned a corner to park on the side of the building (parking options were limited). As I enter",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Certain 2018+ and all later Toyota Prius C modes have a 12V battery for which there is currently no OEM or aftermarket replacement. The battery has a form factor (shape and size) that is exclusive to these vehicles and not used in any other car sold in North America. Vehicles wit",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IRECEIVED THE WARNING THAT \"PRE-COLLISION SYSTEM MALFUNCTION\" WHILE I WAS DRIVING ON THE HIGHWAY THIS MORNING. THE WARNING MESSAGE ASKED ME TO STOP THE CAR AT A SAFE PLACE AND VISIT THE DEALER. AS SOON AS I GOT OFF THE HIGHWAY, THE CAR STOPPED ITSELF, AND THE STEERING WAS LOCKED.",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Toyota Prius C owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Power Train (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I entered a large, strip mall parking area and was driving at the vastly reduced speed one would use in such a situation. My intention was to park my car to enter a store in the mall. I turned a corner to park on the side of the building (parking options were limited). As I enter",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I entered a large, strip mall parking area and was driving at the vastly reduced speed one would use in such a situation. My intention was to park my car to enter a store in the mall. I turned a corner to park on the side of the building (parking options were limited). As I enter",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I entered a large, strip mall parking area and was driving at the vastly reduced speed one would use in such a situation. My intention was to park my car to enter a store in the mall. I turned a corner to park on the side of the building (parking options were limited). As I enter",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Certain 2018+ and all later Toyota Prius C modes have a 12V battery for which there is currently no OEM or aftermarket replacement. The battery has a form factor (shape and size) that is exclusive to these vehicles and not used in any other car sold in North America. Vehicles wit",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IRECEIVED THE WARNING THAT \"PRE-COLLISION SYSTEM MALFUNCTION\" WHILE I WAS DRIVING ON THE HIGHWAY THIS MORNING. THE WARNING MESSAGE ASKED ME TO STOP THE CAR AT A SAFE PLACE AND VISIT THE DEALER. AS SOON AS I GOT OFF THE HIGHWAY, THE CAR STOPPED ITSELF, AND THE STEERING WAS LOCKED.",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-gmc-hummer-ev-suv",
+  "make": "GMC",
+  "model": "Hummer EV SUV",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GMC/HUMMER%20EV%20SUV#complaints",
+  "generatedAt": "2026-06-23T16:45:08.685Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Super cruise does not work. It may turn on at random for a minute or 2 and then it shuts off with zero warning and the vehicle almost comes to a complete stop. This is a huge safety concern. I took it to the dealership and they told me that this falls on GM 100% as they are being",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is vehicle number two. Also, please take me very seriously as I was driving the vehicle shuts off and says reduce acceleration. I drive a lot from West Bloomfield Michigan to downtown Detroit. I am having so many issues with my brand new GM vehicles please I need help.  Plea",
+      "pct": 38
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is vehicle number two. Also, please take me very seriously as I was driving the vehicle shuts off and says reduce acceleration. I drive a lot from West Bloomfield Michigan to downtown Detroit. I am having so many issues with my brand new GM vehicles please I need help.  Plea",
+      "pct": 25
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Charge port door on vehicle will not open regardless of what you do.",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The frunk latch on the vehicle becomes faulty and does not recognize the hood being latched and secure when it is. While driving, the vehicle without warning will immediately limit speed to 26mph regardless of existing vehicle speed. This has occurred multiple times when driving ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Gmc Hummer Ev Suv owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Super cruise does not work. It may turn on at random for a minute or 2 and then it shuts off with zero warning and the vehicle almost comes to a complete stop. This is a huge safety concern. I took it to the dealership and they told me that this falls on GM 100% as they are being",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "4 reports (50%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is vehicle number two. Also, please take me very seriously as I was driving the vehicle shuts off and says reduce acceleration. I drive a lot from West Bloomfield Michigan to downtown Detroit. I am having so many issues with my brand new GM vehicles please I need help.  Plea",
+        "pct": 38,
+        "title": "Service Brakes",
+        "blurb": "3 reports (38%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is vehicle number two. Also, please take me very seriously as I was driving the vehicle shuts off and says reduce acceleration. I drive a lot from West Bloomfield Michigan to downtown Detroit. I am having so many issues with my brand new GM vehicles please I need help.  Plea",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "2 reports (25%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Charge port door on vehicle will not open regardless of what you do.",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The frunk latch on the vehicle becomes faulty and does not recognize the hood being latched and secure when it is. While driving, the vehicle without warning will immediately limit speed to 26mph regardless of existing vehicle speed. This has occurred multiple times when driving ",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

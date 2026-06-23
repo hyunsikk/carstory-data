@@ -1,0 +1,128 @@
+{
+  "slug": "2024-lucid-air",
+  "make": "Lucid",
+  "model": "Air",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/LUCID/AIR#complaints",
+  "generatedAt": "2026-06-23T16:42:51.057Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There was a safety recall, but Lucid told us the car was safe to drive while we waited for our service appointment.  A couple of days before our appointment, (this past 2/9/2025) the car lost brakes, steering, and then completely bricked on the GWB. By great good fortune my wife,",
+      "pct": 43
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There was a safety recall, but Lucid told us the car was safe to drive while we waited for our service appointment.  A couple of days before our appointment, (this past 2/9/2025) the car lost brakes, steering, and then completely bricked on the GWB. By great good fortune my wife,",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The recent software update v2.5.0 has been very unstable. The screens would often black out every 30 seconds and calls get cut off. But the biggest problem was it resetting profile while driving on the highway! Theres no way to fix it and we had to pull over on the side to switch",
+      "pct": 29
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On [XXX], at approximately [XXX], I arrived at the YMCA parking lot for my yoga class (located on [XXX], Mountain View, CA). While waiting for a parking spot, I put my Lucid Air in reverse to back up slightly. Generally, Lucid’s strong regenerative braking stops the car when the ",
+      "pct": 14
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Main issue is that the vehicle will take about 30 seconds to unlock/awake, this is completely unacceptable! even the cheapest car on the market unlocks within a fraction of a second, this can also be a dangerous situation if i need to enter my vehicle quickly.  Second issue is th",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Lucid Air owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Power Train (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There was a safety recall, but Lucid told us the car was safe to drive while we waited for our service appointment.  A couple of days before our appointment, (this past 2/9/2025) the car lost brakes, steering, and then completely bricked on the GWB. By great good fortune my wife,",
+        "pct": 43,
+        "title": "Power Train",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There was a safety recall, but Lucid told us the car was safe to drive while we waited for our service appointment.  A couple of days before our appointment, (this past 2/9/2025) the car lost brakes, steering, and then completely bricked on the GWB. By great good fortune my wife,",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The recent software update v2.5.0 has been very unstable. The screens would often black out every 30 seconds and calls get cut off. But the biggest problem was it resetting profile while driving on the highway! Theres no way to fix it and we had to pull over on the side to switch",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On [XXX], at approximately [XXX], I arrived at the YMCA parking lot for my yoga class (located on [XXX], Mountain View, CA). While waiting for a parking spot, I put my Lucid Air in reverse to back up slightly. Generally, Lucid’s strong regenerative braking stops the car when the ",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (14%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Main issue is that the vehicle will take about 30 seconds to unlock/awake, this is completely unacceptable! even the cheapest car on the market unlocks within a fraction of a second, this can also be a dangerous situation if i need to enter my vehicle quickly.  Second issue is th",
+        "pct": 14,
+        "title": "Seats",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

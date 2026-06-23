@@ -1,0 +1,128 @@
+{
+  "slug": "2016-toyota-prius",
+  "make": "Toyota",
+  "model": "Prius",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/TOYOTA/PRIUS#complaints",
+  "generatedAt": "2026-06-23T16:41:27.899Z",
+  "total": 178,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 42,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT NIGHT, REAR VIEW INTERIOR MIRROR DOES NOT DIM AS TRAFFIC APPROACHES FROM REAR. WHEN TAKEN TO DEALER, TECHNICIAN SHINED LIGHT FROM IPHONE ONTO MIRROR AND IT DIMMED PROPERLY. HOWEVER, UNDER NORMAL DRIVING CONDITIONS IT DOES NOT! ON A RECENT 2 HOUR NIGHTTIME DRIVE, ",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "RODENT DAMAGED WIRING AND CASINGS BY EATING/DAMAGING  BOTH AT A COST SO FAR OF $2700. I HAVE OWNED THIS VEHICLE FOR ONE MONTH. I'VE BEEN TOLD THE WARRANTY DOES NOT INCLUDE THE DAMAGE. I ASKED ABOUT WHERE THE DEALERSHIP STORED THE VEHICLE PRIOR TO ITS DELIVERY TO ME. I WASN'T SATI",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN GENTLY APPLYING BRAKES FOR A STOP LIGHT, AND THE RIGHT WHEEL HITS A 1 AND 1/8 INCH DEEP DEPRESSION IN THE ROAD, THE BRAKES FEEL LIKE THEY MOMENTARILY RELEASE. THE DEPRESSION IS FOR A 9 INCH DIAMETER CITY WATER COVER, AND THE OVERALL DIAMETER OF THE DEPRESSION IS 12 INCHES, A",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CAR STARTED TO BURN LOT OF OIL.  LIKE 1 QUART FOR EVERY 1000 TO 1200 MILES.  WHEN I GOOGLED, I SAW I WAS ONE IN A MILLION AS ALREADY PRIUS OWNERS WERE SHOUTING ABOUT THIS ISSUE ONLINE.  WHEN I CALLED AND EXPLAINED THE PROBLEM TO AUTONATION DEALER IN TEMPE, HE CLEARLY UNDERSTO",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 17,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE 2016 PRIUS 4 DOESN'T COME WITH THE ABILITY TO CHANGE MILES TO KILOMETERS UNLESS YOU ARE AWARE THAT IT IS AN OPTION YOU HAVE TO BUY WHICH NEITHER SALESMEN OR TOYOTA TECHNICAL ASSISTANCE IS AWARE OF. I HAVE NOT BEEN ABLE TO FIND ANYONE WHO CAN TELL ME WHETHER THIS OPTION CAN BE",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Toyota Prius owners report most",
+    "summary": "Across 178 owner complaints to NHTSA, the most reported area is Visibility/Wiper (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 42,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT NIGHT, REAR VIEW INTERIOR MIRROR DOES NOT DIM AS TRAFFIC APPROACHES FROM REAR. WHEN TAKEN TO DEALER, TECHNICIAN SHINED LIGHT FROM IPHONE ONTO MIRROR AND IT DIMMED PROPERLY. HOWEVER, UNDER NORMAL DRIVING CONDITIONS IT DOES NOT! ON A RECENT 2 HOUR NIGHTTIME DRIVE, ",
+        "pct": 24,
+        "title": "Visibility/Wiper",
+        "blurb": "42 reports (24%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "RODENT DAMAGED WIRING AND CASINGS BY EATING/DAMAGING  BOTH AT A COST SO FAR OF $2700. I HAVE OWNED THIS VEHICLE FOR ONE MONTH. I'VE BEEN TOLD THE WARRANTY DOES NOT INCLUDE THE DAMAGE. I ASKED ABOUT WHERE THE DEALERSHIP STORED THE VEHICLE PRIOR TO ITS DELIVERY TO ME. I WASN'T SATI",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "26 reports (15%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN GENTLY APPLYING BRAKES FOR A STOP LIGHT, AND THE RIGHT WHEEL HITS A 1 AND 1/8 INCH DEEP DEPRESSION IN THE ROAD, THE BRAKES FEEL LIKE THEY MOMENTARILY RELEASE. THE DEPRESSION IS FOR A 9 INCH DIAMETER CITY WATER COVER, AND THE OVERALL DIAMETER OF THE DEPRESSION IS 12 INCHES, A",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "22 reports (12%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CAR STARTED TO BURN LOT OF OIL.  LIKE 1 QUART FOR EVERY 1000 TO 1200 MILES.  WHEN I GOOGLED, I SAW I WAS ONE IN A MILLION AS ALREADY PRIUS OWNERS WERE SHOUTING ABOUT THIS ISSUE ONLINE.  WHEN I CALLED AND EXPLAINED THE PROBLEM TO AUTONATION DEALER IN TEMPE, HE CLEARLY UNDERSTO",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "19 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 17,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE 2016 PRIUS 4 DOESN'T COME WITH THE ABILITY TO CHANGE MILES TO KILOMETERS UNLESS YOU ARE AWARE THAT IT IS AN OPTION YOU HAVE TO BUY WHICH NEITHER SALESMEN OR TOYOTA TECHNICAL ASSISTANCE IS AWARE OF. I HAVE NOT BEEN ABLE TO FIND ANYONE WHO CAN TELL ME WHETHER THIS OPTION CAN BE",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "17 reports (10%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

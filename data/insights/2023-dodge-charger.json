@@ -1,0 +1,128 @@
+{
+  "slug": "2023-dodge-charger",
+  "make": "Dodge",
+  "model": "Charger",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/DODGE/CHARGER#complaints",
+  "generatedAt": "2026-06-23T16:29:20.683Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Forward collision warning: activates randomly.  I had to decrease the warning sensitivity to near to reduce the rate at which I was receiving false alarms. Powertrain: noticeable delay after shifting down when using paddle shifters in manual mode. Electrical: The in dash audio ra",
+      "pct": 38
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Forward collision warning: activates randomly.  I had to decrease the warning sensitivity to near to reduce the rate at which I was receiving false alarms. Powertrain: noticeable delay after shifting down when using paddle shifters in manual mode. Electrical: The in dash audio ra",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "since the purchase of my vehicle one year ago, my vehicle has consistently had codes that listed output to each headlamp, can bus code, it has also had engine control module code. This started a year ago and as of yesterday it still had codes. The code also include telematics and",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Dodge Charger. The contact stated that while driving at an undisclosed speed and attempting to slow down, the brake pedal was slightly depressed and there was an abnormal vibration in the brake pedal. No warning lights were illuminated. The vehicle was tak",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Accelerator pedal was delayed coming back up when pressed. It is available for inspection. Because of this happening while I was parking the car, it collided with a tree about 20 feet in front of it. I’ve also noticed the car will sometimes accelerate on its own at speeds below 2",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Dodge Charger owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Electrical System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Forward collision warning: activates randomly.  I had to decrease the warning sensitivity to near to reduce the rate at which I was receiving false alarms. Powertrain: noticeable delay after shifting down when using paddle shifters in manual mode. Electrical: The in dash audio ra",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "9 reports (38%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Forward collision warning: activates randomly.  I had to decrease the warning sensitivity to near to reduce the rate at which I was receiving false alarms. Powertrain: noticeable delay after shifting down when using paddle shifters in manual mode. Electrical: The in dash audio ra",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "8 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "since the purchase of my vehicle one year ago, my vehicle has consistently had codes that listed output to each headlamp, can bus code, it has also had engine control module code. This started a year ago and as of yesterday it still had codes. The code also include telematics and",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "5 reports (21%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Dodge Charger. The contact stated that while driving at an undisclosed speed and attempting to slow down, the brake pedal was slightly depressed and there was an abnormal vibration in the brake pedal. No warning lights were illuminated. The vehicle was tak",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Accelerator pedal was delayed coming back up when pressed. It is available for inspection. Because of this happening while I was parking the car, it collided with a tree about 20 feet in front of it. I’ve also noticed the car will sometimes accelerate on its own at speeds below 2",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (13%) · 2 crash"
+      }
+    ]
+  }
+}

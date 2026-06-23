@@ -1,0 +1,62 @@
+{
+  "slug": "2017-lexus-gs",
+  "make": "Lexus",
+  "model": "GS",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/LEXUS/GS#complaints",
+  "generatedAt": "2026-06-23T16:37:17.864Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The system which has intermittent failure on my 2017 Lexus GS350 is the lane keeping assistance safety option. The system seems to work almost perfectly on straight highways. But highways with curves seem to fail at about a 50% rate and human intervention is quickly required. The",
+      "pct": 100
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The system which has intermittent failure on my 2017 Lexus GS350 is the lane keeping assistance safety option. The system seems to work almost perfectly on straight highways. But highways with curves seem to fail at about a 50% rate and human intervention is quickly required. The",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Lexus Gs owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Steering (100% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The system which has intermittent failure on my 2017 Lexus GS350 is the lane keeping assistance safety option. The system seems to work almost perfectly on straight highways. But highways with curves seem to fail at about a 50% rate and human intervention is quickly required. The",
+        "pct": 100,
+        "title": "Steering",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The system which has intermittent failure on my 2017 Lexus GS350 is the lane keeping assistance safety option. The system seems to work almost perfectly on straight highways. But highways with curves seem to fail at about a 50% rate and human intervention is quickly required. The",
+        "pct": 100,
+        "title": "Lane Departure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

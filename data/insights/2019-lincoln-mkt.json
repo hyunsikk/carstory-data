@@ -1,0 +1,84 @@
+{
+  "slug": "2019-lincoln-mkt",
+  "make": "Lincoln",
+  "model": "MKT",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LINCOLN/MKT#complaints",
+  "generatedAt": "2026-06-23T16:37:45.415Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln MKT.  The contact stated while driving at an undisclosed speed, the backover prevention camera did not function as intended.  The contact stated that the back-over prevention camera displayed a black screen and an error message. The vehicle was not",
+      "pct": 67
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln MKT. The contact received notification of NHTSA Campaign Numbers: 25V695000 (Back Over Prevention) and 25V827000 (Structure); however, the parts to do the recall repairs were unavailable. The contact stated that while in reverse(R), the rearview ca",
+      "pct": 44
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear toe-link failure, and part is available.  The failure occurred while I was driving, about 20 mph, heard a loud noise from the back of the vehicle. The vehicle swerved a bit but managed to regain control and come to a complete stop. Was not diagnosed by the dealership, but ha",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Lincoln Mkt owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Back Over Prevention (67% of reports).",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln MKT.  The contact stated while driving at an undisclosed speed, the backover prevention camera did not function as intended.  The contact stated that the back-over prevention camera displayed a black screen and an error message. The vehicle was not",
+        "pct": 67,
+        "title": "Back Over Prevention",
+        "blurb": "6 reports (67%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln MKT. The contact received notification of NHTSA Campaign Numbers: 25V695000 (Back Over Prevention) and 25V827000 (Structure); however, the parts to do the recall repairs were unavailable. The contact stated that while in reverse(R), the rearview ca",
+        "pct": 44,
+        "title": "Structure",
+        "blurb": "4 reports (44%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear toe-link failure, and part is available.  The failure occurred while I was driving, about 20 mph, heard a loud noise from the back of the vehicle. The vehicle swerved a bit but managed to regain control and come to a complete stop. Was not diagnosed by the dealership, but ha",
+        "pct": 11,
+        "title": "Suspension",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

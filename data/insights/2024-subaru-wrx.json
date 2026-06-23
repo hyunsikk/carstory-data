@@ -1,0 +1,128 @@
+{
+  "slug": "2024-subaru-wrx",
+  "make": "Subaru",
+  "model": "WRX",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/SUBARU/WRX#complaints",
+  "generatedAt": "2026-06-23T16:40:55.916Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving kids home from school and while making a left hand turn through a large intersection, when shifting from 2nd to 3rd gear I heard an immediate pop and then it lost all power in third while sounding like a bag of gravel under the car. I could have easily lost power while me",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving my car as any person would, at the 3519 mile mark on the odometer the engine low oil light came on, it took (1.5Q) of oil to top it off. This is a brand new car no one buys a new car to add oil to it, then to get told by the dealership that it’s normal for up to (2Q) of o",
+      "pct": 15
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component failing is the side skirts or, as officially described in the Subaru parts diagram, the „Side Spoiler“. It can also be found as part numbers 96051, and 96051A. It can be easily visually inspected.  This puts others at risk because it may end up dragging on the road,",
+      "pct": 8
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Drivers side mirror (LEFT) When sitting still is distorted and wavy if you look around in the mirror. It makes the earth bend or any objects in the mirror bend, the best way to put it when driving or sitting still it looks like a funhouse mirror. And once at about 40 MPH the ",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving my car as any person would, at the 3519 mile mark on the odometer the engine low oil light came on, it took (1.5Q) of oil to top it off. This is a brand new car no one buys a new car to add oil to it, then to get told by the dealership that it’s normal for up to (2Q) of o",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Subaru Wrx owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Power Train (15% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving kids home from school and while making a left hand turn through a large intersection, when shifting from 2nd to 3rd gear I heard an immediate pop and then it lost all power in third while sounding like a bag of gravel under the car. I could have easily lost power while me",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving my car as any person would, at the 3519 mile mark on the odometer the engine low oil light came on, it took (1.5Q) of oil to top it off. This is a brand new car no one buys a new car to add oil to it, then to get told by the dealership that it’s normal for up to (2Q) of o",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component failing is the side skirts or, as officially described in the Subaru parts diagram, the „Side Spoiler“. It can also be found as part numbers 96051, and 96051A. It can be easily visually inspected.  This puts others at risk because it may end up dragging on the road,",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Drivers side mirror (LEFT) When sitting still is distorted and wavy if you look around in the mirror. It makes the earth bend or any objects in the mirror bend, the best way to put it when driving or sitting still it looks like a funhouse mirror. And once at about 40 MPH the ",
+        "pct": 8,
+        "title": "Visibility",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving my car as any person would, at the 3519 mile mark on the odometer the engine low oil light came on, it took (1.5Q) of oil to top it off. This is a brand new car no one buys a new car to add oil to it, then to get told by the dealership that it’s normal for up to (2Q) of o",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

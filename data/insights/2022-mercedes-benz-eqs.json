@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mercedes-benz-eqs",
+  "make": "Mercedes-Benz",
+  "model": "EQS",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MERCEDES-BENZ/EQS#complaints",
+  "generatedAt": "2026-06-23T16:38:27.687Z",
+  "total": 46,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 24,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was traveling at 75 mph along the freeway on a clear day around 2pm when all of a sudden the car's autonomous emergency braking system fully engaged and brought the car to a dead stop. there were no obstacles or impediments in front of the car or near the car at the time. It wa",
+      "pct": 52
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I was traveling at 75 mph along the freeway on a clear day around 2pm when all of a sudden the car's autonomous emergency braking system fully engaged and brought the car to a dead stop. there were no obstacles or impediments in front of the car or near the car at the time. It wa",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On several occasions driving at 50+ mile per hour maintaining a safe distance and with no hazards around, the vehicle abruptly stops and the last time it skid damaging my rim. 1) It appears that the electronic braking system (EBS) is defective. 2) My safety as well as vehicles be",
+      "pct": 24
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Bens AMG EQS. The contact stated that due to the vehicle's design, the backseats are suitable to transport occupants of a certain height. The contact stated that while driving at 40 MPH, he hit a bump on the road which caused his nephew to hit his",
+      "pct": 9
+    },
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR WAS DELIVERED WITH BRIDGESTONE 265/40R21 XL TURANZA TIRE AND WITH LESS THAN 200 MI. I WAS TOLD THAT THERE IS A BUBBLE  ON THE SIDE WALL . WE WERE INFORMED THAT  THERE WERE OTHERS WITH THE SAME PROBLEM . I AM BRINGING THIS TO YOUR ATTENTION B/4 THERE ARE MAJOR ACCIDENTS  I",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mercedes-Benz Eqs owners report most",
+    "summary": "Across 46 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 24,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was traveling at 75 mph along the freeway on a clear day around 2pm when all of a sudden the car's autonomous emergency braking system fully engaged and brought the car to a dead stop. there were no obstacles or impediments in front of the car or near the car at the time. It wa",
+        "pct": 52,
+        "title": "Forward Collision Avoidance",
+        "blurb": "24 reports (52%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I was traveling at 75 mph along the freeway on a clear day around 2pm when all of a sudden the car's autonomous emergency braking system fully engaged and brought the car to a dead stop. there were no obstacles or impediments in front of the car or near the car at the time. It wa",
+        "pct": 35,
+        "title": "Service Brakes",
+        "blurb": "16 reports (35%) · 1 fire · 4 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On several occasions driving at 50+ mile per hour maintaining a safe distance and with no hazards around, the vehicle abruptly stops and the last time it skid damaging my rim. 1) It appears that the electronic braking system (EBS) is defective. 2) My safety as well as vehicles be",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "11 reports (24%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Bens AMG EQS. The contact stated that due to the vehicle's design, the backseats are suitable to transport occupants of a certain height. The contact stated that while driving at 40 MPH, he hit a bump on the road which caused his nephew to hit his",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "4 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR WAS DELIVERED WITH BRIDGESTONE 265/40R21 XL TURANZA TIRE AND WITH LESS THAN 200 MI. I WAS TOLD THAT THERE IS A BUBBLE  ON THE SIDE WALL . WE WERE INFORMED THAT  THERE WERE OTHERS WITH THE SAME PROBLEM . I AM BRINGING THIS TO YOUR ATTENTION B/4 THERE ARE MAJOR ACCIDENTS  I",
+        "pct": 7,
+        "title": "Wheels",
+        "blurb": "3 reports (7%)"
+      }
+    ]
+  }
+}

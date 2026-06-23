@@ -1,0 +1,128 @@
+{
+  "slug": "2022-honda-passport",
+  "make": "Honda",
+  "model": "Passport",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/PASSPORT#complaints",
+  "generatedAt": "2026-06-23T16:32:39.393Z",
+  "total": 53,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "One month ago Vehicle unexpectedly slowed down while driving on city street, coming to a full break. Had to pull over and restart car, which solved the problem. Did not have warning signs prior. Haven’t had problems with car since this incident.  Has not been reproduced/inspected",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Radio system is making cracking noise and audio cuts in and out which requires it to be turned off in order to get it to stop. The noise can be startling and the need to unplug audio and turn unit on and off creates a safety issue. From my research this appears to be a common pro",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has slammed on the brakes multiple times now one on the highway going 60mph and in the city 35mph. Today on a open 2 lane city road, and shadow on the road with no vehicles in site slammed on the auto brakes with a collision warning while the wife was driving slowed the v",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has a delayed response to accelerate as if the transmission doesn’t want to shift or missing the next up shift. Starting from a stop position you have to press further down on the accelerator to get the vehicle to move which could lead you to accident either hit someone i",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine idle at stop function is not operating properly.  The on/off switch only works some of the time, so I cannot control the function.  It seems to turn off and on at random.  When in stop and go traffic for any length of time where I need to edge forward every moment or s",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Honda Passport owners report most",
+    "summary": "Across 53 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (23% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "One month ago Vehicle unexpectedly slowed down while driving on city street, coming to a full break. Had to pull over and restart car, which solved the problem. Did not have warning signs prior. Haven’t had problems with car since this incident.  Has not been reproduced/inspected",
+        "pct": 23,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (23%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Radio system is making cracking noise and audio cuts in and out which requires it to be turned off in order to get it to stop. The noise can be startling and the need to unplug audio and turn unit on and off creates a safety issue. From my research this appears to be a common pro",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "10 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has slammed on the brakes multiple times now one on the highway going 60mph and in the city 35mph. Today on a open 2 lane city road, and shadow on the road with no vehicles in site slammed on the auto brakes with a collision warning while the wife was driving slowed the v",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "9 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has a delayed response to accelerate as if the transmission doesn’t want to shift or missing the next up shift. Starting from a stop position you have to press further down on the accelerator to get the vehicle to move which could lead you to accident either hit someone i",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "9 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine idle at stop function is not operating properly.  The on/off switch only works some of the time, so I cannot control the function.  It seems to turn off and on at random.  When in stop and go traffic for any length of time where I need to edge forward every moment or s",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "8 reports (15%)"
+      }
+    ]
+  }
+}

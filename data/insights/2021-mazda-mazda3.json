@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mazda-mazda3",
+  "make": "Mazda",
+  "model": "Mazda3",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MAZDA/MAZDA3#complaints",
+  "generatedAt": "2026-06-23T16:38:05.772Z",
+  "total": 49,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Mazda 3 2.5T has been burning oil in excess. The car has a total of 24,000 miles and has been serviced 3 times. I have had to add oil in between every service. The oil has been completely burned off by 4,000-5,000 miles. I have noticed that other people have been posting about",
+      "pct": 37
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The error code \"B14FO-76 FORWARD SENSING CAMERA DEVIATION - WRONG MOUNTING POSITION\" was discovered, and verified, by a Safelite Auto Glass service center when the 2021 Mazda 3 was in for a repair (stone chip) to the windshield on September 21, 2021. There were no warning message",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 MAZDA MAZDA3. THE CONTACT STATED WHILE THE VEHICLE WAS AT A STAND STILL AT A PARKING LOT, WHEN IT CAUGHT FIRE. THE FIRE DEPARTMENT WAS ABLE TO EXTINGUISHED THE FIRE AND FILED A REPORT. THE POLICE WAS AT THE LOCATION BUT DID NOT FILE A REPORT. THE VEHIC",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had two incidents during a short 25 min drive.  Incident 1: I was in right side of the road, there were 2 lanes on this side. I was in the far left lane driving at below 30 mph, there was no vehicle directly behind me, and no vehicle directly in front of me. There was no vehicl",
+      "pct": 8
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My car started to show a warning on the dashboard that the airbag system is malfunctioning. The alarm would come on for a few seconds, then turn off, then repeat like that multiple times every drive. At the time it started, my car had less than 500 miles on it, and it continued a",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mazda Mazda3 owners report most",
+    "summary": "Across 49 owner complaints to NHTSA, the most reported area is Engine (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Mazda 3 2.5T has been burning oil in excess. The car has a total of 24,000 miles and has been serviced 3 times. I have had to add oil in between every service. The oil has been completely burned off by 4,000-5,000 miles. I have noticed that other people have been posting about",
+        "pct": 37,
+        "title": "Engine",
+        "blurb": "18 reports (37%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The error code \"B14FO-76 FORWARD SENSING CAMERA DEVIATION - WRONG MOUNTING POSITION\" was discovered, and verified, by a Safelite Auto Glass service center when the 2021 Mazda 3 was in for a repair (stone chip) to the windshield on September 21, 2021. There were no warning message",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 MAZDA MAZDA3. THE CONTACT STATED WHILE THE VEHICLE WAS AT A STAND STILL AT A PARKING LOT, WHEN IT CAUGHT FIRE. THE FIRE DEPARTMENT WAS ABLE TO EXTINGUISHED THE FIRE AND FILED A REPORT. THE POLICE WAS AT THE LOCATION BUT DID NOT FILE A REPORT. THE VEHIC",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "6 reports (12%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had two incidents during a short 25 min drive.  Incident 1: I was in right side of the road, there were 2 lanes on this side. I was in the far left lane driving at below 30 mph, there was no vehicle directly behind me, and no vehicle directly in front of me. There was no vehicl",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "4 reports (8%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My car started to show a warning on the dashboard that the airbag system is malfunctioning. The alarm would come on for a few seconds, then turn off, then repeat like that multiple times every drive. At the time it started, my car had less than 500 miles on it, and it continued a",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "4 reports (8%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

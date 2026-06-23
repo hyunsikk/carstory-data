@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-wagoneer",
+  "make": "Jeep",
+  "model": "Wagoneer",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/WAGONEER#complaints",
+  "generatedAt": "2026-06-23T16:45:18.727Z",
+  "total": 184,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 106,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Driving my vehicle home it was hard to turn and back wheels were locked out and not turning. After turning on and off vehicle SERV 4WD came on and manual said to get it in for service. Also, Uconnect and heat seaters stopped working. After having it towed at 2&1/2 mo old into dea",
+      "pct": 58
+    },
+    {
+      "component": "ENGINE",
+      "count": 44,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving approximately 30 miles/hour (estimated) the car started the process of shutting down and then shut down - while moving. The lights flickered on the dash board but don't recall exactly what the indicators were. We were able to pull over to the side of the road, although no",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 36,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The first instance I was pulling out of the driveway. When I got to the end I tried to turn my steering wheel and it was completely locked. The alert started going off to service the lane Assiatiance. I couldn’t move the tires at all. I turned the car off and re started it multip",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The first instance I was pulling out of the driveway. When I got to the end I tried to turn my steering wheel and it was completely locked. The alert started going off to service the lane Assiatiance. I couldn’t move the tires at all. I turned the car off and re started it multip",
+      "pct": 16
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 26,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The first instance I was pulling out of the driveway. When I got to the end I tried to turn my steering wheel and it was completely locked. The alert started going off to service the lane Assiatiance. I couldn’t move the tires at all. I turned the car off and re started it multip",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Jeep Wagoneer owners report most",
+    "summary": "Across 184 owner complaints to NHTSA, the most reported area is Electrical System (58% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 106,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Driving my vehicle home it was hard to turn and back wheels were locked out and not turning. After turning on and off vehicle SERV 4WD came on and manual said to get it in for service. Also, Uconnect and heat seaters stopped working. After having it towed at 2&1/2 mo old into dea",
+        "pct": 58,
+        "title": "Electrical System",
+        "blurb": "106 reports (58%) · 2 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 44,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving approximately 30 miles/hour (estimated) the car started the process of shutting down and then shut down - while moving. The lights flickered on the dash board but don't recall exactly what the indicators were. We were able to pull over to the side of the road, although no",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "44 reports (24%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 36,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The first instance I was pulling out of the driveway. When I got to the end I tried to turn my steering wheel and it was completely locked. The alert started going off to service the lane Assiatiance. I couldn’t move the tires at all. I turned the car off and re started it multip",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "36 reports (20%) · 5 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The first instance I was pulling out of the driveway. When I got to the end I tried to turn my steering wheel and it was completely locked. The alert started going off to service the lane Assiatiance. I couldn’t move the tires at all. I turned the car off and re started it multip",
+        "pct": 16,
+        "title": "Steering",
+        "blurb": "29 reports (16%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 26,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The first instance I was pulling out of the driveway. When I got to the end I tried to turn my steering wheel and it was completely locked. The alert started going off to service the lane Assiatiance. I couldn’t move the tires at all. I turned the car off and re started it multip",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "26 reports (14%) · 4 crash · 2 injured"
+      }
+    ]
+  }
+}

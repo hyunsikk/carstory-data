@@ -1,0 +1,128 @@
+{
+  "slug": "2016-jeep-cherokee",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/JEEP/CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T16:35:49.047Z",
+  "total": 1394,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 622,
+      "crash": 7,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "FIRST OF ALL, THIS IS A BRAND NEW VEHICLE WITH JUST OVER 1,300 MILES ON IT AFTER NEARLY 3 MONTHS OF USE.  THE VEHICLE WAS IN MOTION ON THE ROAD WITH A 45MPH SPEED LIMIT. THE TRANSMISSION JUST SHUT DOWN AND I WAS UNABLE TO ACCELERATE AND THE RPM SHOT UP TO A HIGH LEVEL. LUCKILY TH",
+      "pct": 45
+    },
+    {
+      "component": "ENGINE",
+      "count": 313,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 JEEP CHEROKEE. WHILE DRIVING 45 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE TOOK MULTIPLE ATTEMPTS TO RESTART. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE VEHICLE NEEDED AN OIL CHAN",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 294,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 JEEP CHEROKEE. WHILE DRIVING 10 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT WAS UNABLE TO RESTART THE VEHICLE. AFTER THE VEHICLE WAS PARKED FOR APPROXIMATELY 20 MINUTES, THE CONTACT WAS ABLE TO RESTART THE VEHICLE. ON SEVERAL OCCASIONS, THE P",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 94,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I HAD MY 2016 JEEP CHEROKEE IN TO SERVICE AT ABOUT MILEAGE 1800.  THE JEEP DEALER REPORTED TO ME THAT HE UPGRADED MY SOFTWARE TO THE LATEST AND GREATEST AND PRODUCED A SOFTWARE UPGRADE NUMBER WHICH MEANT NOTHING TO ME, BUT THE DEALER ASSURED ME THAT CERTAIN FIXES WERE ADDRESSED, ",
+      "pct": 7
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 76,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2016 JEEP CHEROKEE. WHILE IN REVERSE AND APPLYING THE BRAKES, THE RENTED VEHICLE INDEPENDENTLY ACCELERATED FORWARD AND CRASHED INTO ANOTHER VEHICLE. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS FILED AND THERE WERE NO INJURIES. THE VEHICLE WAS ABLE TO",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Jeep Cherokee owners report most",
+    "summary": "Across 1,394 owner complaints to NHTSA, the most reported area is Power Train (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 622,
+        "crash": 7,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "FIRST OF ALL, THIS IS A BRAND NEW VEHICLE WITH JUST OVER 1,300 MILES ON IT AFTER NEARLY 3 MONTHS OF USE.  THE VEHICLE WAS IN MOTION ON THE ROAD WITH A 45MPH SPEED LIMIT. THE TRANSMISSION JUST SHUT DOWN AND I WAS UNABLE TO ACCELERATE AND THE RPM SHOT UP TO A HIGH LEVEL. LUCKILY TH",
+        "pct": 45,
+        "title": "Power Train",
+        "blurb": "622 reports (45%) · 3 fire · 7 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 313,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 JEEP CHEROKEE. WHILE DRIVING 45 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE TOOK MULTIPLE ATTEMPTS TO RESTART. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE VEHICLE NEEDED AN OIL CHAN",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "313 reports (22%) · 4 fire · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 294,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 JEEP CHEROKEE. WHILE DRIVING 10 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT WAS UNABLE TO RESTART THE VEHICLE. AFTER THE VEHICLE WAS PARKED FOR APPROXIMATELY 20 MINUTES, THE CONTACT WAS ABLE TO RESTART THE VEHICLE. ON SEVERAL OCCASIONS, THE P",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "294 reports (21%) · 4 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 94,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I HAD MY 2016 JEEP CHEROKEE IN TO SERVICE AT ABOUT MILEAGE 1800.  THE JEEP DEALER REPORTED TO ME THAT HE UPGRADED MY SOFTWARE TO THE LATEST AND GREATEST AND PRODUCED A SOFTWARE UPGRADE NUMBER WHICH MEANT NOTHING TO ME, BUT THE DEALER ASSURED ME THAT CERTAIN FIXES WERE ADDRESSED, ",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "94 reports (7%) · 4 crash · 3 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 76,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2016 JEEP CHEROKEE. WHILE IN REVERSE AND APPLYING THE BRAKES, THE RENTED VEHICLE INDEPENDENTLY ACCELERATED FORWARD AND CRASHED INTO ANOTHER VEHICLE. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS FILED AND THERE WERE NO INJURIES. THE VEHICLE WAS ABLE TO",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "76 reports (5%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-cadillac-xt4",
+  "make": "Cadillac",
+  "model": "XT4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CADILLAC/XT4#complaints",
+  "generatedAt": "2026-06-23T16:27:50.226Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel pump module failed twice. There was no warning lamps, messages or other symptoms prior to the failure. The first time I was driving the second time the car was parked and did not start. See below for details.  Safety: Thankfully i was not driving 70+MPH down a busy highway w",
+      "pct": 36
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while driving in stop-and-go traffic, the contact rear-ended a vehicle in front. The contact crashed the vehicle at approximately 5 mph;  however, the collision caused severe front end damage to the vehicle. The air ba",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+      "pct": 9
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+      "pct": 9
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Cadillac Xt4 owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel pump module failed twice. There was no warning lamps, messages or other symptoms prior to the failure. The first time I was driving the second time the car was parked and did not start. See below for details.  Safety: Thankfully i was not driving 70+MPH down a busy highway w",
+        "pct": 36,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (36%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while driving in stop-and-go traffic, the contact rear-ended a vehicle in front. The contact crashed the vehicle at approximately 5 mph;  however, the collision caused severe front end damage to the vehicle. The air ba",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "3 reports (27%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+        "pct": 9,
+        "title": "Fuel System",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+        "pct": 9,
+        "title": "Gasoline",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-acura-rdx",
+  "make": "Acura",
+  "model": "RDX",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/ACURA/RDX#complaints",
+  "generatedAt": "2026-06-23T16:24:57.031Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fast blinking engine light, and car not able to accelerate past 40mph. Was informed by dealership that it was possible water intrusion but had no guarantee or adequate mitigation strategy to ensure the problem would not occur other than indicating it is normal behavior to expect ",
+      "pct": 21
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Friday, January 13, 2023, the rear hatch window on my 2023 RDX spontaneously shattered while it was sitting in my garage. After I discovered it, I searched for a cause and found nothing. I had just purchased this vehicle on 12/3/22.   I discovered online similar complaints bei",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Infotainment system fails while using Android auto after receiving or making a phone call, which results in navigation via Google Maps unable to provide directions. The only manner in which I found temporarily resolves the issue, is restarting the infotainment system, which requi",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On a new ACURA RDX with 10,771 miles my wife was charged $315 dollars by the local ACURA dealer for \"differential service\" because \"sub code 6\" was on the maintenance minder. I believe this is a scam or any differential service should be under warranty. I pursued the complaint wi",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Acura RDX. The contact stated while driving approximately 70 MPH and overtaking another vehicle, the contact moved to the right lane and the vehicle started beeping with the Forward Collision Assist system engaging abruptly. The contact stated that the bra",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Acura Rdx owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Engine (21% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fast blinking engine light, and car not able to accelerate past 40mph. Was informed by dealership that it was possible water intrusion but had no guarantee or adequate mitigation strategy to ensure the problem would not occur other than indicating it is normal behavior to expect ",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "4 reports (21%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Friday, January 13, 2023, the rear hatch window on my 2023 RDX spontaneously shattered while it was sitting in my garage. After I discovered it, I searched for a cause and found nothing. I had just purchased this vehicle on 12/3/22.   I discovered online similar complaints bei",
+        "pct": 16,
+        "title": "Visibility/Wiper",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Infotainment system fails while using Android auto after receiving or making a phone call, which results in navigation via Google Maps unable to provide directions. The only manner in which I found temporarily resolves the issue, is restarting the infotainment system, which requi",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "3 reports (16%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On a new ACURA RDX with 10,771 miles my wife was charged $315 dollars by the local ACURA dealer for \"differential service\" because \"sub code 6\" was on the maintenance minder. I believe this is a scam or any differential service should be under warranty. I pursued the complaint wi",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Acura RDX. The contact stated while driving approximately 70 MPH and overtaking another vehicle, the contact moved to the right lane and the vehicle started beeping with the Forward Collision Assist system engaging abruptly. The contact stated that the bra",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

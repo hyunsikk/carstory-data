@@ -1,0 +1,106 @@
+{
+  "slug": "2024-fiat-500e",
+  "make": "Fiat",
+  "model": "500e",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/FIAT/500E#complaints",
+  "generatedAt": "2026-06-23T16:42:44.477Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2024 Fiat 500E. The contact stated that the windows failed to roll down and the brakes made an abnormal sound while the brake pedal was depressed. The contact stated that the vehicle required the Push to Start button to be pressed three times to start the veh",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle is unable to fully charge. It stops without notice and has left us stranded. The car has been at the dealership for seven months. The dealership duplicated the problem, but has been unable to repair it. There are now six (6) other 2024 500e’s at Larry H Miller Fiat in Aur",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has stalled twice while driving on a fully charged battery. I was using the 1-pedal driving mode (“Range” mode) during both events. When the stall happened, the system applied the brakes and the steering wheel locked, and I was unable to steer. I was able to restart t",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has stalled twice while driving on a fully charged battery. I was using the 1-pedal driving mode (“Range” mode) during both events. When the stall happened, the system applied the brakes and the steering wheel locked, and I was unable to steer. I was able to restart t",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Fiat 500e owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2024 Fiat 500E. The contact stated that the windows failed to roll down and the brakes made an abnormal sound while the brake pedal was depressed. The contact stated that the vehicle required the Push to Start button to be pressed three times to start the veh",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle is unable to fully charge. It stops without notice and has left us stranded. The car has been at the dealership for seven months. The dealership duplicated the problem, but has been unable to repair it. There are now six (6) other 2024 500e’s at Larry H Miller Fiat in Aur",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has stalled twice while driving on a fully charged battery. I was using the 1-pedal driving mode (“Range” mode) during both events. When the stall happened, the system applied the brakes and the steering wheel locked, and I was unable to steer. I was able to restart t",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has stalled twice while driving on a fully charged battery. I was using the 1-pedal driving mode (“Range” mode) during both events. When the stall happened, the system applied the brakes and the steering wheel locked, and I was unable to steer. I was able to restart t",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

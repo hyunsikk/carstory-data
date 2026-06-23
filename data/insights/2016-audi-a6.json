@@ -1,0 +1,128 @@
+{
+  "slug": "2016-audi-a6",
+  "make": "Audi",
+  "model": "A6",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/A6#complaints",
+  "generatedAt": "2026-06-23T16:25:27.187Z",
+  "total": 51,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 17,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY WIFE WAS SLOWING THIS CAR DOWN TO MAKE A RIGHT TURN ON A BUSY EXPRESSWAY, AFTER SHE MADE THE TURN, THE ENGINE SUDDENLY SHUT OFF AND THE 'STOP/START DEACTIVATED MANUALLY RESTART YOUR CAR\" LIGHT CAME ON. THE STEERING WELL WAS LOCKED, THE CAR DEAD ON THE STREET, THE INTERIOR LIGH",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TAKATA RECALL  THE AIRBAG OFF LIGHT GOES ON AND OFF AT TIMES ON THIS VEHICLE WHILE SOMEONE SITTING ON PASSENGER SEAT. AUDI DOES NOT HAVE AN ETA FOR REPLACEMENT PARTS AND NOT WILLING TO PROVIDE A LOANER VEHICLE. I AM AFRAID FOR THE SAFETY OF MY FAMILY AT THIS POINT AND THINK AUDI ",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "GOT A WARNING LIGHT THAT ADAPTIVE CRUISE AND BRAKING WERE NOT AVAILABLE. ACCORDING TO THE SERVICE DEPT. THERE WAS A SEAM IN THE BODY THAT WAS NOT WELDED PROPERLY IN THE MANUFACTURING PROCESS. I HAVE 6500 MILES ON MY CAR. THEY SAID THAT WATER WAS LEAKING IN ON ELECTRICAL MODULES. ",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AUDI RECALLED 2012-2015 A6 CARS WITH THE 2.0L TFSI ENGINE, ALONG WITH OTHER AUDI MODELS, DUE TO FAULTY COOLANT/WATER PUMP (NHTSA RECALL # 18V-229  MFG RECALL #19N3/19N4).  FOR THE A6, THE BRACKETING WAS FOR CARS BUILT FROM 4/4/2011 - 12/22/2014.  THE BRACKETING FOR OTHER MODELS I",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STARTED VEHICLE IN PARKING LOT EXITED ONTO A MULTI-LANE ROAD WHERE TRAFFIC SPEED IS 50 MPH BUT CARS OFTEN DRIVE MUCH FASTER. THE VEHICLE WAS IN DRIVE BUT STAYED IN FIRST GEAR AND WOULD NOT AUTOMATICALLY SHIFT TO HIGHER GEARS. THIS CAUSED THE CAR TO NOT MERGE AT PROPER SPEED WHILE",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi A6 owners report most",
+    "summary": "Across 51 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 17,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY WIFE WAS SLOWING THIS CAR DOWN TO MAKE A RIGHT TURN ON A BUSY EXPRESSWAY, AFTER SHE MADE THE TURN, THE ENGINE SUDDENLY SHUT OFF AND THE 'STOP/START DEACTIVATED MANUALLY RESTART YOUR CAR\" LIGHT CAME ON. THE STEERING WELL WAS LOCKED, THE CAR DEAD ON THE STREET, THE INTERIOR LIGH",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "17 reports (33%) · 2 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TAKATA RECALL  THE AIRBAG OFF LIGHT GOES ON AND OFF AT TIMES ON THIS VEHICLE WHILE SOMEONE SITTING ON PASSENGER SEAT. AUDI DOES NOT HAVE AN ETA FOR REPLACEMENT PARTS AND NOT WILLING TO PROVIDE A LOANER VEHICLE. I AM AFRAID FOR THE SAFETY OF MY FAMILY AT THIS POINT AND THINK AUDI ",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "8 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "GOT A WARNING LIGHT THAT ADAPTIVE CRUISE AND BRAKING WERE NOT AVAILABLE. ACCORDING TO THE SERVICE DEPT. THERE WAS A SEAM IN THE BODY THAT WAS NOT WELDED PROPERLY IN THE MANUFACTURING PROCESS. I HAVE 6500 MILES ON MY CAR. THEY SAID THAT WATER WAS LEAKING IN ON ELECTRICAL MODULES. ",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "8 reports (16%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AUDI RECALLED 2012-2015 A6 CARS WITH THE 2.0L TFSI ENGINE, ALONG WITH OTHER AUDI MODELS, DUE TO FAULTY COOLANT/WATER PUMP (NHTSA RECALL # 18V-229  MFG RECALL #19N3/19N4).  FOR THE A6, THE BRACKETING WAS FOR CARS BUILT FROM 4/4/2011 - 12/22/2014.  THE BRACKETING FOR OTHER MODELS I",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (12%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STARTED VEHICLE IN PARKING LOT EXITED ONTO A MULTI-LANE ROAD WHERE TRAFFIC SPEED IS 50 MPH BUT CARS OFTEN DRIVE MUCH FASTER. THE VEHICLE WAS IN DRIVE BUT STAYED IN FIRST GEAR AND WOULD NOT AUTOMATICALLY SHIFT TO HIGHER GEARS. THIS CAUSED THE CAR TO NOT MERGE AT PROPER SPEED WHILE",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "5 reports (10%)"
+      }
+    ]
+  }
+}

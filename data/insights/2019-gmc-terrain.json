@@ -1,0 +1,128 @@
+{
+  "slug": "2019-gmc-terrain",
+  "make": "GMC",
+  "model": "Terrain",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/GMC/TERRAIN#complaints",
+  "generatedAt": "2026-06-23T16:31:43.514Z",
+  "total": 175,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 65,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I received a \"service brake assist\" message which came on then off. Took the car to a local mechanic who looked it over and said to see dealer as they saw nothing obvious. internet search revealed that many people with terrain said this warning came on when battery was low. Made ",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 62,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2019 GMC TERRIAN WITH 2500 MILES.  I WAS DRIVING IT AND THE CAR FLASHED LOW FUEL, CHECK TRANSMISSION AND CHECK ENGINE WARNING AND SHUT DOWN WHILE I WAS AS A HIGHWAY SPEED.  I WAS FORTUNATELY OK, HOWEVER IT STRANDED ME AT A SPOT WITH MERGING TRAFFIC, NO SHOULDER AND NO PO",
+      "pct": 35
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 49,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2019 GMC TERRIAN WITH 2500 MILES.  I WAS DRIVING IT AND THE CAR FLASHED LOW FUEL, CHECK TRANSMISSION AND CHECK ENGINE WARNING AND SHUT DOWN WHILE I WAS AS A HIGHWAY SPEED.  I WAS FORTUNATELY OK, HOWEVER IT STRANDED ME AT A SPOT WITH MERGING TRAFFIC, NO SHOULDER AND NO PO",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHEN TRYING TO START VEHICLE WITH PUSH BUTTON IGNITION AND BRAKE PEDAL DEPRESSED, THE VEHICLE FAILED TO START. THE DASH LIGHTS WOULD COME ON AND ERROR MESSAGES SUCH AS LOW BATTERY CAME UP ON DASH DISPLAY. VEHICLE WAS PURCHASED ON 11/17/18. TWO SEPARATE OCCASIONS OCCURRED WHERE TH",
+      "pct": 21
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE CAN BE INADVERTENTLY BY EITHER A PASSENGER OR AN OBJECT PUT INTO NEUTRAL. NO ALERT OR CHIME IS MADE TO ALERT THE DRIVER THAT THE CAR IS IN NEUTRAL, ONLY THE GEAR SELECTOR ON THE DASH OR THE LIGHT ON THE BUTTON INDICATES THAT IT IS IN NEUTRAL. IF SOMETHING IS COVERING THE ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Gmc Terrain owners report most",
+    "summary": "Across 175 owner complaints to NHTSA, the most reported area is Service Brakes (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 65,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I received a \"service brake assist\" message which came on then off. Took the car to a local mechanic who looked it over and said to see dealer as they saw nothing obvious. internet search revealed that many people with terrain said this warning came on when battery was low. Made ",
+        "pct": 37,
+        "title": "Service Brakes",
+        "blurb": "65 reports (37%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 62,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2019 GMC TERRIAN WITH 2500 MILES.  I WAS DRIVING IT AND THE CAR FLASHED LOW FUEL, CHECK TRANSMISSION AND CHECK ENGINE WARNING AND SHUT DOWN WHILE I WAS AS A HIGHWAY SPEED.  I WAS FORTUNATELY OK, HOWEVER IT STRANDED ME AT A SPOT WITH MERGING TRAFFIC, NO SHOULDER AND NO PO",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "62 reports (35%) · 2 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 49,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2019 GMC TERRIAN WITH 2500 MILES.  I WAS DRIVING IT AND THE CAR FLASHED LOW FUEL, CHECK TRANSMISSION AND CHECK ENGINE WARNING AND SHUT DOWN WHILE I WAS AS A HIGHWAY SPEED.  I WAS FORTUNATELY OK, HOWEVER IT STRANDED ME AT A SPOT WITH MERGING TRAFFIC, NO SHOULDER AND NO PO",
+        "pct": 28,
+        "title": "Power Train",
+        "blurb": "49 reports (28%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHEN TRYING TO START VEHICLE WITH PUSH BUTTON IGNITION AND BRAKE PEDAL DEPRESSED, THE VEHICLE FAILED TO START. THE DASH LIGHTS WOULD COME ON AND ERROR MESSAGES SUCH AS LOW BATTERY CAME UP ON DASH DISPLAY. VEHICLE WAS PURCHASED ON 11/17/18. TWO SEPARATE OCCASIONS OCCURRED WHERE TH",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "37 reports (21%) · 1 fire · 2 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE CAN BE INADVERTENTLY BY EITHER A PASSENGER OR AN OBJECT PUT INTO NEUTRAL. NO ALERT OR CHIME IS MADE TO ALERT THE DRIVER THAT THE CAR IS IN NEUTRAL, ONLY THE GEAR SELECTOR ON THE DASH OR THE LIGHT ON THE BUTTON INDICATES THAT IT IS IN NEUTRAL. IF SOMETHING IS COVERING THE ",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "9 reports (5%)"
+      }
+    ]
+  }
+}

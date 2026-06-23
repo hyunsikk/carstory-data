@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-s7",
+  "make": "Audi",
+  "model": "S7",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/S7#complaints",
+  "generatedAt": "2026-06-23T16:43:12.954Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 10/9/2023, the starter generator failed causing the vehicle to stop and shut down while driving and completely break down. I was not able to move the vehicle or shift it into park. Stall occurred on a freeway entrance (acceleration lane) in the traffic lane without warning.  A",
+      "pct": 67
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TODAY, I was driving my vehicle when I got multiple warnings including a “electrical failure, ABS failure, start stop failure.” I was on a stretch of road where I could not safely remove myself from traffic and was forced to proceed.  Within 5 minutes of receiving the error messa",
+      "pct": 33
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TODAY, I was driving my vehicle when I got multiple warnings including a “electrical failure, ABS failure, start stop failure.” I was on a stretch of road where I could not safely remove myself from traffic and was forced to proceed.  Within 5 minutes of receiving the error messa",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 10/9/2023, the starter generator failed causing the vehicle to stop and shut down while driving and completely break down. I was not able to move the vehicle or shift it into park. Stall occurred on a freeway entrance (acceleration lane) in the traffic lane without warning.  A",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 10/9/2023, the starter generator failed causing the vehicle to stop and shut down while driving and completely break down. I was not able to move the vehicle or shift it into park. Stall occurred on a freeway entrance (acceleration lane) in the traffic lane without warning.  A",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi S7 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 10/9/2023, the starter generator failed causing the vehicle to stop and shut down while driving and completely break down. I was not able to move the vehicle or shift it into park. Stall occurred on a freeway entrance (acceleration lane) in the traffic lane without warning.  A",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TODAY, I was driving my vehicle when I got multiple warnings including a “electrical failure, ABS failure, start stop failure.” I was on a stretch of road where I could not safely remove myself from traffic and was forced to proceed.  Within 5 minutes of receiving the error messa",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TODAY, I was driving my vehicle when I got multiple warnings including a “electrical failure, ABS failure, start stop failure.” I was on a stretch of road where I could not safely remove myself from traffic and was forced to proceed.  Within 5 minutes of receiving the error messa",
+        "pct": 33,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 10/9/2023, the starter generator failed causing the vehicle to stop and shut down while driving and completely break down. I was not able to move the vehicle or shift it into park. Stall occurred on a freeway entrance (acceleration lane) in the traffic lane without warning.  A",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 10/9/2023, the starter generator failed causing the vehicle to stop and shut down while driving and completely break down. I was not able to move the vehicle or shift it into park. Stall occurred on a freeway entrance (acceleration lane) in the traffic lane without warning.  A",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

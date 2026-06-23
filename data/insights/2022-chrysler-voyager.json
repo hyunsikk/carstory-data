@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chrysler-voyager",
+  "make": "Chrysler",
+  "model": "Voyager",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHRYSLER/VOYAGER#complaints",
+  "generatedAt": "2026-06-23T16:44:58.453Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We purchased this vehicle from a dealership in July 2024. The vehicle is only 2 years old and we have taken it to the dealership for repairs on multiple issues within the electrical components two times in one week. The first issue was the lift gate mechanism was failing which dr",
+      "pct": 40
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chrysler Voyager LX. The contact stated that while his wife was driving at slow speeds into a home garage, the vehicle suddenly accelerated on its own, colliding with the garage door. After which, the vehicle reversed and continued to accelerate across the",
+      "pct": 40
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chrysler Voyager Mobility vehicle. The contact stated that within a month of purchasing the vehicle brand new, the passenger's side door failed to open, causing the contact to be trapped inside the vehicle. Another mobility vehicle driver assisted the cont",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I just recently used my cruise control for the first time since I purchased my vehicle. After my speed was reached and without me touching anything my van started going crazy so it seemed all on its own it continued to pick up speed and high rates of speed very high rates . So I ",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I used to do business with this car but I can not now since we have this safety recall. I took the car to the dealer they said `it should not be problem to fix`. They kept the car for two days and changed my tire did nothing about the safety recall. I had to pay for the tires for",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Chrysler Voyager owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We purchased this vehicle from a dealership in July 2024. The vehicle is only 2 years old and we have taken it to the dealership for repairs on multiple issues within the electrical components two times in one week. The first issue was the lift gate mechanism was failing which dr",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chrysler Voyager LX. The contact stated that while his wife was driving at slow speeds into a home garage, the vehicle suddenly accelerated on its own, colliding with the garage door. After which, the vehicle reversed and continued to accelerate across the",
+        "pct": 40,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (40%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chrysler Voyager Mobility vehicle. The contact stated that within a month of purchasing the vehicle brand new, the passenger's side door failed to open, causing the contact to be trapped inside the vehicle. Another mobility vehicle driver assisted the cont",
+        "pct": 20,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I just recently used my cruise control for the first time since I purchased my vehicle. After my speed was reached and without me touching anything my van started going crazy so it seemed all on its own it continued to pick up speed and high rates of speed very high rates . So I ",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I used to do business with this car but I can not now since we have this safety recall. I took the car to the dealer they said `it should not be problem to fix`. They kept the car for two days and changed my tire did nothing about the safety recall. I had to pay for the tires for",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

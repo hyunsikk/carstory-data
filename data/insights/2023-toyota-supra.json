@@ -1,0 +1,62 @@
+{
+  "slug": "2023-toyota-supra",
+  "make": "Toyota",
+  "model": "Supra",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/SUPRA#complaints",
+  "generatedAt": "2026-06-23T16:41:31.685Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle (in particular the new manual transmission equipped one) has a system which automatically disengages the electronic parking brake when you try to drive away with it applied, and that system does not have enough interlocks or \"rules\" that govern when it activates.  In",
+      "pct": 80
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Going west bound on I30 in Arkansas traveling with the flow of traffic.  There was a transition part of the highway where it went from some asphalt repair to concrete roadway and when my car hit this the wheel seperated in a 360 degree pattern and the only thing holding the wheel",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Supra owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Service Brakes (80% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle (in particular the new manual transmission equipped one) has a system which automatically disengages the electronic parking brake when you try to drive away with it applied, and that system does not have enough interlocks or \"rules\" that govern when it activates.  In",
+        "pct": 80,
+        "title": "Service Brakes",
+        "blurb": "4 reports (80%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Going west bound on I30 in Arkansas traveling with the flow of traffic.  There was a transition part of the highway where it went from some asphalt repair to concrete roadway and when my car hit this the wheel seperated in a 360 degree pattern and the only thing holding the wheel",
+        "pct": 20,
+        "title": "Wheels",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

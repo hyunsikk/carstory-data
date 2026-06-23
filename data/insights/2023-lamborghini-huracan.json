@@ -1,0 +1,62 @@
+{
+  "slug": "2023-lamborghini-huracan",
+  "make": "Lamborghini",
+  "model": "Huracan",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LAMBORGHINI/HURACAN#complaints",
+  "generatedAt": "2026-06-23T16:46:26.104Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was Driving on the highway and my whole instrument cluster failed and went completely black. I couldn’t see my speed, gauges, or anything. Had to have the car towed to the dealer. Then the dealer is trying to claim it’s not under warranty and is charging me $8,000 to fix. This ",
+      "pct": 100
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was Driving on the highway and my whole instrument cluster failed and went completely black. I couldn’t see my speed, gauges, or anything. Had to have the car towed to the dealer. Then the dealer is trying to claim it’s not under warranty and is charging me $8,000 to fix. This ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Lamborghini Huracan owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was Driving on the highway and my whole instrument cluster failed and went completely black. I couldn’t see my speed, gauges, or anything. Had to have the car towed to the dealer. Then the dealer is trying to claim it’s not under warranty and is charging me $8,000 to fix. This ",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was Driving on the highway and my whole instrument cluster failed and went completely black. I couldn’t see my speed, gauges, or anything. Had to have the car towed to the dealer. Then the dealer is trying to claim it’s not under warranty and is charging me $8,000 to fix. This ",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

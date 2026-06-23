@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-atlas-cross-sport",
+  "make": "Volkswagen",
+  "model": "Atlas Cross Sport",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/ATLAS%20CROSS%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:45:53.746Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Volkswagen Atlas Cross Sport. The contact received notification of NHTSA Campaign Number: 24V464000 (Air Bags); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for",
+      "pct": 31
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car will stop suddenly at a red light or when slowing in traffic without warning. I have to stop the car, put in park, and restart the engine often when the light turns green and I'm not moving  The ACC eco-feature is typically off/disabled, so it isn't the issue. A few scary",
+      "pct": 31
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UNKOWN  Brakes on brand new vehicle are exhibiting behavior that is not normal for a car of this size and relatively young age (miles). Measurably loud brake noise based on manufactures choice of materials in components leave concern on overall safety of brake system based on gen",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple issues since purchasing the vehicle in 01/2023.  - First evening in the driveway all of the windows went down.  The vehicle was not running.  This has happened two other times. - I went out to me vehicle one day and the back tailgate had opened on its own. - One day I we",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The components that failed or malfunctioned was the fuel pump & fuel system components. During the 1st incident, while driving at approx. 50 mph, I quickly lost acceleration, which caused me to slow down very quickly until I had no acceleration power - this took a matter of 10 se",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Atlas Cross Sport owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Air Bags (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Volkswagen Atlas Cross Sport. The contact received notification of NHTSA Campaign Number: 24V464000 (Air Bags); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for",
+        "pct": 31,
+        "title": "Air Bags",
+        "blurb": "5 reports (31%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car will stop suddenly at a red light or when slowing in traffic without warning. I have to stop the car, put in park, and restart the engine often when the light turns green and I'm not moving  The ACC eco-feature is typically off/disabled, so it isn't the issue. A few scary",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "5 reports (31%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UNKOWN  Brakes on brand new vehicle are exhibiting behavior that is not normal for a car of this size and relatively young age (miles). Measurably loud brake noise based on manufactures choice of materials in components leave concern on overall safety of brake system based on gen",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "3 reports (19%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple issues since purchasing the vehicle in 01/2023.  - First evening in the driveway all of the windows went down.  The vehicle was not running.  This has happened two other times. - I went out to me vehicle one day and the back tailgate had opened on its own. - One day I we",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The components that failed or malfunctioned was the fuel pump & fuel system components. During the 1st incident, while driving at approx. 50 mph, I quickly lost acceleration, which caused me to slow down very quickly until I had no acceleration power - this took a matter of 10 se",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

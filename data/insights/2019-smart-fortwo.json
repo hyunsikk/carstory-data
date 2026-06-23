@@ -1,0 +1,40 @@
+{
+  "slug": "2019-smart-fortwo",
+  "make": "smart",
+  "model": "fortwo",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/SMART/FORTWO#complaints",
+  "generatedAt": "2026-06-23T16:46:08.267Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Faulty n83 and Electric Drive Failure occured after charging @ public charging center. No longer under warranty  but currently owe 5k on Mercedes lease .  Mercedes dealership recommended replacement of both @ 16k  I leased the car from them used . Time when lease began 19k",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Smart Fortwo owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Faulty n83 and Electric Drive Failure occured after charging @ public charging center. No longer under warranty  but currently owe 5k on Mercedes lease .  Mercedes dealership recommended replacement of both @ 16k  I leased the car from them used . Time when lease began 19k",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

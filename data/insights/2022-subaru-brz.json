@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-brz",
+  "make": "Subaru",
+  "model": "BRZ",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/BRZ#complaints",
+  "generatedAt": "2026-06-23T16:40:36.302Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "These particular vehicles (and their Toyota counterpart, the GR86) have been experiencing issues with excess RTV sealant used on the oil pan and timing cover getting into the oil.  Once this RTV sealant is in the oil, it clogs the oil pickup tube filter.  As the excess sealant co",
+      "pct": 60
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the sun is facing the rear of the car, the rear turn signals do not activate, and the turn signals flash rapidly. It is exactly what happens in this youtube video:  https://youtu.be/dHwMCdlJfYQ  This is a danger, because my car will not properly signal when I change lanes or",
+      "pct": 30
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a new 2022 Subaru BRZ.  Shortly after the purchase, the wheel bolts loosened which caused catastrophic damage to the wheel, and all brake components.    Upon further research, we believe this may be an inherent vehicle defect.  This problem is subject to a recall invo",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a new 2022 Subaru BRZ.  Shortly after the purchase, the wheel bolts loosened which caused catastrophic damage to the wheel, and all brake components.    Upon further research, we believe this may be an inherent vehicle defect.  This problem is subject to a recall invo",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is a new car. There’s was only 31 miles when I purchased. One day, there’s some sound when I driving the vehicle. Once I parked,  all the warning lamps was on, then my car wasn’t able to move. When the incident happened, it was only 4 months of using it and only 5,498 miles.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Subaru Brz owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Engine (60% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "These particular vehicles (and their Toyota counterpart, the GR86) have been experiencing issues with excess RTV sealant used on the oil pan and timing cover getting into the oil.  Once this RTV sealant is in the oil, it clogs the oil pickup tube filter.  As the excess sealant co",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "6 reports (60%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the sun is facing the rear of the car, the rear turn signals do not activate, and the turn signals flash rapidly. It is exactly what happens in this youtube video:  https://youtu.be/dHwMCdlJfYQ  This is a danger, because my car will not properly signal when I change lanes or",
+        "pct": 30,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a new 2022 Subaru BRZ.  Shortly after the purchase, the wheel bolts loosened which caused catastrophic damage to the wheel, and all brake components.    Upon further research, we believe this may be an inherent vehicle defect.  This problem is subject to a recall invo",
+        "pct": 10,
+        "title": "Wheels",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a new 2022 Subaru BRZ.  Shortly after the purchase, the wheel bolts loosened which caused catastrophic damage to the wheel, and all brake components.    Upon further research, we believe this may be an inherent vehicle defect.  This problem is subject to a recall invo",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is a new car. There’s was only 31 miles when I purchased. One day, there’s some sound when I driving the vehicle. Once I parked,  all the warning lamps was on, then my car wasn’t able to move. When the incident happened, it was only 4 months of using it and only 5,498 miles.",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

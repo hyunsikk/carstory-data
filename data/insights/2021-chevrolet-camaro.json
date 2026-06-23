@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-06-23T16:28:03.025Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I AM NOTIFYING NHTSA OF THIS INCIDENT FOR THE RECORD. I PURCHASE THIS VEHICLE ON 9/30/2020 ... AFTER 3 SHORT TRIPS TO KEEP FLUIDS MOVING AND THE BATTERY CHARGED DURING THE BREAK IN PERIOD THE CAR HAS BE SETTING UNDER A CAR COVER WITH 426 MILES ON IT.  I AGAIN STARTED TO GO FOR A ",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "there is a burning oil smell, that is so pungent it causes nausea and burning of the eyes when driving the vehicle. have taken it to 2 separate dealerships, the first told me they could not find an oil leak and i would have to deal with it. the second dealership stated that it is",
+      "pct": 21
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Camaro. While attempting to start the vehicle, the vehicle failed to start. DTC: P12A6 (Fuel Pump Drive Control Module) failure was retrieved. An independent mechanic was contacted and advised the contact to jump-start the vehicle. The vehicle wa",
+      "pct": 14
+    },
+    {
+      "component": "GASOLINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Camaro. While attempting to start the vehicle, the vehicle failed to start. DTC: P12A6 (Fuel Pump Drive Control Module) failure was retrieved. An independent mechanic was contacted and advised the contact to jump-start the vehicle. The vehicle wa",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "* Initial Transmission Failure:  -In February 2025 my vehicle began experiencing severe and rough shifting, which was quickly followed by a \"Check Engine\" light. I immediately took the vehicle to dealer for inspection. * Dealer Diagnosis and Repair:  -The dealership diagnosed the",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Camaro owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Power Train (36% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I AM NOTIFYING NHTSA OF THIS INCIDENT FOR THE RECORD. I PURCHASE THIS VEHICLE ON 9/30/2020 ... AFTER 3 SHORT TRIPS TO KEEP FLUIDS MOVING AND THE BATTERY CHARGED DURING THE BREAK IN PERIOD THE CAR HAS BE SETTING UNDER A CAR COVER WITH 426 MILES ON IT.  I AGAIN STARTED TO GO FOR A ",
+        "pct": 36,
+        "title": "Power Train",
+        "blurb": "5 reports (36%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "there is a burning oil smell, that is so pungent it causes nausea and burning of the eyes when driving the vehicle. have taken it to 2 separate dealerships, the first told me they could not find an oil leak and i would have to deal with it. the second dealership stated that it is",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "3 reports (21%) · 1 injured"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Camaro. While attempting to start the vehicle, the vehicle failed to start. DTC: P12A6 (Fuel Pump Drive Control Module) failure was retrieved. An independent mechanic was contacted and advised the contact to jump-start the vehicle. The vehicle wa",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Camaro. While attempting to start the vehicle, the vehicle failed to start. DTC: P12A6 (Fuel Pump Drive Control Module) failure was retrieved. An independent mechanic was contacted and advised the contact to jump-start the vehicle. The vehicle wa",
+        "pct": 14,
+        "title": "Gasoline",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "* Initial Transmission Failure:  -In February 2025 my vehicle began experiencing severe and rough shifting, which was quickly followed by a \"Check Engine\" light. I immediately took the vehicle to dealer for inspection. * Dealer Diagnosis and Repair:  -The dealership diagnosed the",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (14%)"
+      }
+    ]
+  }
+}

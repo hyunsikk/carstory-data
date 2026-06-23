@@ -1,0 +1,128 @@
+{
+  "slug": "2021-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HONDA/PILOT#complaints",
+  "generatedAt": "2026-06-23T16:32:49.796Z",
+  "total": 394,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 109,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING FOR ABOUT AN HOUR ON THE FREEWAY THE SOUND TO MY BLUETOOTH AUDIO QUIT. THEN THE APPLE CARPLAY WOULD NOT CONNECT. WHEN I GOT TO THE GROCERY STORE TRYIN TO MANEAVER INTO A PARKING SPOT THE BACKUP CAMERA DID NOT WORK WHEN I PUT IN REVERSE. AT FIRST I THOUGHT I HAD PRES",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 90,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Incident occurred 9/28/21 4:20 - 4:30 pm PST  while driving in the 3rd lane of southbound 880 Highway about 1 mile before the the exit of 16th Ave & Embarcadero in the city of Oakland. The speed that the vehicle was moving at the time of the incident was between 50 to 55 MPH. The",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 87,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I have a major safety complaint with Honda’s computer system. I understand that Honda works hard to make their vehicles as safe as possible. With that said, on 7/29/21 around 9:40am I was driving on a country style road. Out of no where with nothing around me but trees the auto b",
+      "pct": 22
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 37,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is New Honda Pilot 2021 Trim EX-L  purchase in Dec,2020. Miles 3300. It seems Honda is having software issues.  Without ON of Lane Keeping Assist System (LKAS) feature is activating automatically and taking over driving or steering of the vehicle and attempt to steer the veh",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 30,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Airbag light came ON at 45,000 miles approximately.  Took the vehicle to dealership paid for a diagnosis just to be told that it is out of warranty that if I want it fixed had to pay out of pocket $531.69 for SRS unit, plus $1398.98 for a Seat Frame, plus $980.75 for Labor.  I ju",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Honda Pilot owners report most",
+    "summary": "Across 394 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 109,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING FOR ABOUT AN HOUR ON THE FREEWAY THE SOUND TO MY BLUETOOTH AUDIO QUIT. THEN THE APPLE CARPLAY WOULD NOT CONNECT. WHEN I GOT TO THE GROCERY STORE TRYIN TO MANEAVER INTO A PARKING SPOT THE BACKUP CAMERA DID NOT WORK WHEN I PUT IN REVERSE. AT FIRST I THOUGHT I HAD PRES",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "109 reports (28%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 90,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Incident occurred 9/28/21 4:20 - 4:30 pm PST  while driving in the 3rd lane of southbound 880 Highway about 1 mile before the the exit of 16th Ave & Embarcadero in the city of Oakland. The speed that the vehicle was moving at the time of the incident was between 50 to 55 MPH. The",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "90 reports (23%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 87,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I have a major safety complaint with Honda’s computer system. I understand that Honda works hard to make their vehicles as safe as possible. With that said, on 7/29/21 around 9:40am I was driving on a country style road. Out of no where with nothing around me but trees the auto b",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "87 reports (22%) · 4 crash · 2 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 37,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is New Honda Pilot 2021 Trim EX-L  purchase in Dec,2020. Miles 3300. It seems Honda is having software issues.  Without ON of Lane Keeping Assist System (LKAS) feature is activating automatically and taking over driving or steering of the vehicle and attempt to steer the veh",
+        "pct": 9,
+        "title": "Lane Departure",
+        "blurb": "37 reports (9%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 30,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Airbag light came ON at 45,000 miles approximately.  Took the vehicle to dealership paid for a diagnosis just to be told that it is out of warranty that if I want it fixed had to pay out of pocket $531.69 for SRS unit, plus $1398.98 for a Seat Frame, plus $980.75 for Labor.  I ju",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "30 reports (8%) · 5 crash · 3 injured"
+      }
+    ]
+  }
+}

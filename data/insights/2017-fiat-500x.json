@@ -1,0 +1,128 @@
+{
+  "slug": "2017-fiat-500x",
+  "make": "Fiat",
+  "model": "500X",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/FIAT/500X#complaints",
+  "generatedAt": "2026-06-23T16:42:42.543Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR STOPPED WORKING SUDDENLY IN THE MIAMI TURNPIKE, DRIVE MODE NOT AVAILABLE WENT ON, ALSO ABS, PARKING AND ENGINE LIGHTS WENT ON. IT WAS SCARY BECAUSE STOPPED WORKING WITHOUT PREVIOUS NOTICE. WE ALMOST HAVE AN ACCIDENT. IT HAPPENS THE SAME IN 2015, SAME MODEL IN TAMPA HIGHWA",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR STOPPED WORKING SUDDENLY IN THE MIAMI TURNPIKE, DRIVE MODE NOT AVAILABLE WENT ON, ALSO ABS, PARKING AND ENGINE LIGHTS WENT ON. IT WAS SCARY BECAUSE STOPPED WORKING WITHOUT PREVIOUS NOTICE. WE ALMOST HAVE AN ACCIDENT. IT HAPPENS THE SAME IN 2015, SAME MODEL IN TAMPA HIGHWA",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON JANUARY 9TH, 2018 I LEASED A NEW 2017 FIAT 500X FROM FIAT AUTO GALLERY VAN NUYS AT 5711 VAN NUYS BLVD, VAN NUYS, CA 91401. TWO WEEKS LATER WHILE WASHING MY CAR FOR THE FIRST TIME, I NOTICED SOME CLOUDY SPOTS ON THE CAR'S EXTERIOR PAINT (3 SPOTS) AND WHAT APPEARED TO BE A BURN ",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR STOPPED WORKING SUDDENLY IN THE MIAMI TURNPIKE, DRIVE MODE NOT AVAILABLE WENT ON, ALSO ABS, PARKING AND ENGINE LIGHTS WENT ON. IT WAS SCARY BECAUSE STOPPED WORKING WITHOUT PREVIOUS NOTICE. WE ALMOST HAVE AN ACCIDENT. IT HAPPENS THE SAME IN 2015, SAME MODEL IN TAMPA HIGHWA",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE FORWARD COLLISION WARNING SYSTEM DOES NOT FUNCTION AT ALL. TOOK IT TO TWO DIFFERENT FIAT DEALERS AND SINCE THERE ARE NO CODES SYSTEM OPERATING,  BUT DOES NOT WORK AT ALL.",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Fiat 500x owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Engine (40% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR STOPPED WORKING SUDDENLY IN THE MIAMI TURNPIKE, DRIVE MODE NOT AVAILABLE WENT ON, ALSO ABS, PARKING AND ENGINE LIGHTS WENT ON. IT WAS SCARY BECAUSE STOPPED WORKING WITHOUT PREVIOUS NOTICE. WE ALMOST HAVE AN ACCIDENT. IT HAPPENS THE SAME IN 2015, SAME MODEL IN TAMPA HIGHWA",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "6 reports (40%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR STOPPED WORKING SUDDENLY IN THE MIAMI TURNPIKE, DRIVE MODE NOT AVAILABLE WENT ON, ALSO ABS, PARKING AND ENGINE LIGHTS WENT ON. IT WAS SCARY BECAUSE STOPPED WORKING WITHOUT PREVIOUS NOTICE. WE ALMOST HAVE AN ACCIDENT. IT HAPPENS THE SAME IN 2015, SAME MODEL IN TAMPA HIGHWA",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "5 reports (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON JANUARY 9TH, 2018 I LEASED A NEW 2017 FIAT 500X FROM FIAT AUTO GALLERY VAN NUYS AT 5711 VAN NUYS BLVD, VAN NUYS, CA 91401. TWO WEEKS LATER WHILE WASHING MY CAR FOR THE FIRST TIME, I NOTICED SOME CLOUDY SPOTS ON THE CAR'S EXTERIOR PAINT (3 SPOTS) AND WHAT APPEARED TO BE A BURN ",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR STOPPED WORKING SUDDENLY IN THE MIAMI TURNPIKE, DRIVE MODE NOT AVAILABLE WENT ON, ALSO ABS, PARKING AND ENGINE LIGHTS WENT ON. IT WAS SCARY BECAUSE STOPPED WORKING WITHOUT PREVIOUS NOTICE. WE ALMOST HAVE AN ACCIDENT. IT HAPPENS THE SAME IN 2015, SAME MODEL IN TAMPA HIGHWA",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE FORWARD COLLISION WARNING SYSTEM DOES NOT FUNCTION AT ALL. TOOK IT TO TWO DIFFERENT FIAT DEALERS AND SINCE THERE ARE NO CODES SYSTEM OPERATING,  BUT DOES NOT WORK AT ALL.",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

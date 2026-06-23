@@ -1,0 +1,62 @@
+{
+  "slug": "2024-mercedes-benz-cla",
+  "make": "Mercedes-Benz",
+  "model": "CLA",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/CLA#complaints",
+  "generatedAt": "2026-06-23T16:38:21.074Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine light comes on constantly. The 1st incident happened 05/2024. I have reported this to the dealership and was told it was ok to drive. Then it kept happening, on 11/05/24 I took the vehicle in for repair. It was returned 11/08/24 and ilthe engine light turned on again. ",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle has suffered from persistent, substantial, and uncorrected defects, including but not limited to failures in the 48V mild-hybrid electrical system, lithium-ion battery system, DC/DC converter and coolant system. These defects have substantially impaired the vehicle’s",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Cla owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine light comes on constantly. The 1st incident happened 05/2024. I have reported this to the dealership and was told it was ok to drive. Then it kept happening, on 11/05/24 I took the vehicle in for repair. It was returned 11/08/24 and ilthe engine light turned on again. ",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle has suffered from persistent, substantial, and uncorrected defects, including but not limited to failures in the 48V mild-hybrid electrical system, lithium-ion battery system, DC/DC converter and coolant system. These defects have substantially impaired the vehicle’s",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

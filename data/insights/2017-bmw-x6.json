@@ -1,0 +1,62 @@
+{
+  "slug": "2017-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:20.120Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 BMW X6. The contact that while starting the vehicle, the check air bag and seat belt warning lights were illuminated. The contact stated that the warning lights remained illuminated until the vehicle was turned off. The contact called a local dealer, but t",
+      "pct": 50
+    },
+    {
+      "component": "CHILD SEAT",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 BMW X6.  THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V823000 (CHILD SEAT) HOWEVER, THE PARTS FOR THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER HAD EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw X6 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 BMW X6. The contact that while starting the vehicle, the check air bag and seat belt warning lights were illuminated. The contact stated that the warning lights remained illuminated until the vehicle was turned off. The contact called a local dealer, but t",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "CHILD SEAT",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 BMW X6.  THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V823000 (CHILD SEAT) HOWEVER, THE PARTS FOR THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER HAD EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL",
+        "pct": 50,
+        "title": "Child Seat",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

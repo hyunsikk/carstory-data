@@ -1,0 +1,84 @@
+{
+  "slug": "2022-mitsubishi-mirage",
+  "make": "Mitsubishi",
+  "model": "Mirage",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MITSUBISHI/MIRAGE#complaints",
+  "generatedAt": "2026-06-23T16:38:54.609Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component is the vehicles radio system. When the vehicle is started with the key, the radio immediately comes on without pushing the button.  The radio is turned off manually before turning the vehicle off. This is a safety complaint  and a safety distraction when driving in ",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mitsubishi Mirage. The contact stated while driving at 40 MPH, the brake warning light illuminated. The contact veered to the side of the road and called roadside assistance per the manufacturer's manual.  The vehicle was towed to the dealer where it was d",
+      "pct": 50
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mitsubishi Mirage. The contact stated while driving at 40 MPH, the brake warning light illuminated. The contact veered to the side of the road and called roadside assistance per the manufacturer's manual.  The vehicle was towed to the dealer where it was d",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mitsubishi Mirage owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component is the vehicles radio system. When the vehicle is started with the key, the radio immediately comes on without pushing the button.  The radio is turned off manually before turning the vehicle off. This is a safety complaint  and a safety distraction when driving in ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mitsubishi Mirage. The contact stated while driving at 40 MPH, the brake warning light illuminated. The contact veered to the side of the road and called roadside assistance per the manufacturer's manual.  The vehicle was towed to the dealer where it was d",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mitsubishi Mirage. The contact stated while driving at 40 MPH, the brake warning light illuminated. The contact veered to the side of the road and called roadside assistance per the manufacturer's manual.  The vehicle was towed to the dealer where it was d",
+        "pct": 50,
+        "title": "Hydraulic",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

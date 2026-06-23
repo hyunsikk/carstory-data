@@ -1,0 +1,128 @@
+{
+  "slug": "2021-nissan-murano",
+  "make": "Nissan",
+  "model": "Murano",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/MURANO#complaints",
+  "generatedAt": "2026-06-23T16:39:26.872Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I was driving up a parking garage ramp, about 1/2 way up the ramp, the vehicle slammed on the breaks like a front end collision was imminent.  There were no cars in front of me, and I wasn't close to any required turns in the parking garage.  If someone was driving too close, ",
+      "pct": 40
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A specific cruise control feature of the 2021 Nissan Murano, in my opinion, is dangerous to operate and may or may have already caused a serious injury/accident. I have brought this concern to the people at the Dealership in Tucson, AZ on several occasions. I have also contact th",
+      "pct": 13
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The driver side rear seat belt buckle does not engage, the red button on buckle does not pop up",
+      "pct": 7
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Jan 15, 2025, my vehicle exhibited an unintended sudden acceleration event while applying the brakes to slow the vehicle.  Shortly after applying the brakes, the vehicle's engine revved very high and the car launched forward despite my foot on the brake and then struck another",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Jan 15, 2025, my vehicle exhibited an unintended sudden acceleration event while applying the brakes to slow the vehicle.  Shortly after applying the brakes, the vehicle's engine revved very high and the car launched forward despite my foot on the brake and then struck another",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Murano owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I was driving up a parking garage ramp, about 1/2 way up the ramp, the vehicle slammed on the breaks like a front end collision was imminent.  There were no cars in front of me, and I wasn't close to any required turns in the parking garage.  If someone was driving too close, ",
+        "pct": 40,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (40%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A specific cruise control feature of the 2021 Nissan Murano, in my opinion, is dangerous to operate and may or may have already caused a serious injury/accident. I have brought this concern to the people at the Dealership in Tucson, AZ on several occasions. I have also contact th",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The driver side rear seat belt buckle does not engage, the red button on buckle does not pop up",
+        "pct": 7,
+        "title": "Seat Belts",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Jan 15, 2025, my vehicle exhibited an unintended sudden acceleration event while applying the brakes to slow the vehicle.  Shortly after applying the brakes, the vehicle's engine revved very high and the car launched forward despite my foot on the brake and then struck another",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "1 report (7%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Jan 15, 2025, my vehicle exhibited an unintended sudden acceleration event while applying the brakes to slow the vehicle.  Shortly after applying the brakes, the vehicle's engine revved very high and the car launched forward despite my foot on the brake and then struck another",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "1 report (7%) · 1 crash"
+      }
+    ]
+  }
+}

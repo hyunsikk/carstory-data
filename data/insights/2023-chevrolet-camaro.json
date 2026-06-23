@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-06-23T16:28:04.233Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My engine got my brand new Camaro is having a lifter tick issue. This seems to be a very common issue amongst these new Chevy engines, after doing research they all seem to stem from the same problem, and that would be the fuel management system that deactivates certain cylinders",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle had approximately 5000 miles on it when the electronic trunk release failed to operate. Trunk would not unlock or open from the key fob or the push button inside the vehicle. This was a safety concern as it was determined by the dealer of a faulty fuse box which controlle",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car (with 6 miles/brand new) was taken to dealer for a rattle in the engine bay. They have explained the fuel line is rattling against the fire wall. They tried to fix it and the problem was not resolved. They are saying they have to contact GM to open a case. This should be caus",
+      "pct": 27
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was involved in a motor vehicle accident. My airbags failed to deploy & I received a notification through my Chevrolet app on my phone, right after the accident stating “your 2023 Camaro airbag system has an issue. Schedule service”. My safety belt system also states there is a",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Over a year ago, my car developed an intermittent slow crank/starting issue. After driving 20–30 minutes and turning the engine off, it often wouldn’t restart on the first try, sometimes requiring 2–5 cranks. From my research (forums, Reddit, Facebook), I suspected heat soak affe",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Camaro owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My engine got my brand new Camaro is having a lifter tick issue. This seems to be a very common issue amongst these new Chevy engines, after doing research they all seem to stem from the same problem, and that would be the fuel management system that deactivates certain cylinders",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "6 reports (40%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle had approximately 5000 miles on it when the electronic trunk release failed to operate. Trunk would not unlock or open from the key fob or the push button inside the vehicle. This was a safety concern as it was determined by the dealer of a faulty fuse box which controlle",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "5 reports (33%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car (with 6 miles/brand new) was taken to dealer for a rattle in the engine bay. They have explained the fuel line is rattling against the fire wall. They tried to fix it and the problem was not resolved. They are saying they have to contact GM to open a case. This should be caus",
+        "pct": 27,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (27%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was involved in a motor vehicle accident. My airbags failed to deploy & I received a notification through my Chevrolet app on my phone, right after the accident stating “your 2023 Camaro airbag system has an issue. Schedule service”. My safety belt system also states there is a",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "3 reports (20%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Over a year ago, my car developed an intermittent slow crank/starting issue. After driving 20–30 minutes and turning the engine off, it often wouldn’t restart on the first try, sometimes requiring 2–5 cranks. From my research (forums, Reddit, Facebook), I suspected heat soak affe",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

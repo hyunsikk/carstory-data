@@ -1,0 +1,128 @@
+{
+  "slug": "2016-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:20.016Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW X6. The contact stated while driving 35 MPH, there was an abnormal sound coming from the front of the vehicle. The contact pulled off the road. There was no warning light illuminated. The vehicle was towed to local mechanic who informed the contact tha",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW X6. The contact stated while driving at an undisclosed speed, the contact attempted to use the turn signal while making a right turn however, the system failed to operate as needed. The vehicle was taken to the dealer where it was diagnosed that the In",
+      "pct": 22
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW X6. The contact stated that upon starting the vehicle, the steering wheel failed to function as intended. The vehicle was parked inside the garage, and the contact was unable to turn to the right or the left. The message \"Power Steering Lock\" was displ",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW X6. The contact stated that the vehicle was running rough, with the check engine warning light illuminated. The contact used a vehicle scanner and retrieved diagnostic trouble codes indicating a misfire in cylinder number #5, and the water pump had fai",
+      "pct": 11
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON MANY BMW CARS YOU WILL SEE REPORTS OF THE AIR SUSPENSION FAILING. MINE FAILED DAYS AFTER THE WARRANTY EXPIRED BUT WITH LESS MILES THAN IN THE WARRANTY. STILL A LOW 4 FIGURE COST TO THE CONSUMER TO FIX. THIS SHOULD FIXED VIA A RECALL AND CONSUMERS REIMBURSED FOR COSTS ASSOCIATE",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw X6 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW X6. The contact stated while driving 35 MPH, there was an abnormal sound coming from the front of the vehicle. The contact pulled off the road. There was no warning light illuminated. The vehicle was towed to local mechanic who informed the contact tha",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW X6. The contact stated while driving at an undisclosed speed, the contact attempted to use the turn signal while making a right turn however, the system failed to operate as needed. The vehicle was taken to the dealer where it was diagnosed that the In",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW X6. The contact stated that upon starting the vehicle, the steering wheel failed to function as intended. The vehicle was parked inside the garage, and the contact was unable to turn to the right or the left. The message \"Power Steering Lock\" was displ",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW X6. The contact stated that the vehicle was running rough, with the check engine warning light illuminated. The contact used a vehicle scanner and retrieved diagnostic trouble codes indicating a misfire in cylinder number #5, and the water pump had fai",
+        "pct": 11,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON MANY BMW CARS YOU WILL SEE REPORTS OF THE AIR SUSPENSION FAILING. MINE FAILED DAYS AFTER THE WARRANTY EXPIRED BUT WITH LESS MILES THAN IN THE WARRANTY. STILL A LOW 4 FIGURE COST TO THE CONSUMER TO FIX. THIS SHOULD FIXED VIA A RECALL AND CONSUMERS REIMBURSED FOR COSTS ASSOCIATE",
+        "pct": 11,
+        "title": "Suspension",
+        "blurb": "1 report (11%) · 1 injured"
+      }
+    ]
+  }
+}

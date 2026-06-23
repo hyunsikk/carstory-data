@@ -1,0 +1,106 @@
+{
+  "slug": "2021-bmw-x4",
+  "make": "BMW",
+  "model": "X4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/X4#complaints",
+  "generatedAt": "2026-06-23T16:44:16.998Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X4. The contact received notification of NHTSA Campaign Number: 25V636000 (Electrical System). While the vehicle was in park(P), there were abnormal sounds coming from the engine. The contact stated that when the vehicle was shifted into drive(D) and t",
+      "pct": 33
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOTH rear seat belts have broken off in the same spot. Went to use the driver's side rear seat belt and found it had been broken (frayed off).  Moved to the passenger side and found the exact same thing. This could have been a bad situation if in an accident had occurred where th",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a safety concern regarding BMW vehicles equipped with the B58 Technical Update (B58TU) engine, commonly found on models from 2019 to 2021.  The oil pump in these vehicles is failing prematurely. I was told this by service technicians at BMW and confirmed it through",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? - Suspension  How was your safety or the safety of others put at risk? - Its giving head ache and body pain, driver & passengers are jumping / shaking / feeling very uncomfortable  ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw X4 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X4. The contact received notification of NHTSA Campaign Number: 25V636000 (Electrical System). While the vehicle was in park(P), there were abnormal sounds coming from the engine. The contact stated that when the vehicle was shifted into drive(D) and t",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOTH rear seat belts have broken off in the same spot. Went to use the driver's side rear seat belt and found it had been broken (frayed off).  Moved to the passenger side and found the exact same thing. This could have been a bad situation if in an accident had occurred where th",
+        "pct": 33,
+        "title": "Seat Belts",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a safety concern regarding BMW vehicles equipped with the B58 Technical Update (B58TU) engine, commonly found on models from 2019 to 2021.  The oil pump in these vehicles is failing prematurely. I was told this by service technicians at BMW and confirmed it through",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? - Suspension  How was your safety or the safety of others put at risk? - Its giving head ache and body pain, driver & passengers are jumping / shaking / feeling very uncomfortable  ",
+        "pct": 17,
+        "title": "Suspension",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

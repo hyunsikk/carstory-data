@@ -1,0 +1,106 @@
+{
+  "slug": "2020-chrysler-300",
+  "make": "Chrysler",
+  "model": "300",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHRYSLER/300#complaints",
+  "generatedAt": "2026-06-23T16:29:05.499Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "March 24th 2023 @ 1:58 pm I was sitting at a red light behind another car, when I was rear ended @ 40+ mph and pushed in to the car ahead of me.  The air bags never deployed after colliding with the car in front of me causing my head to hit the steering wheel and the roof of my c",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On  March 1 2022 at 23,800 miles on odometer driving around curve the transmission shifter knob at console made grinding sound (like trying to change gears on moving cog). I noticed this on other curves and laid hand on knob and it was vibrating like trying to go in reverse/park?",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this Chrysler 300 new Nov. 2020 with 6 miles on it, This has been one of the best new cars I've purchased. March 1 2022 At 23,800 miles. I was traveling on KY70 around a sharp curve within advised speed, The car made a loud grinding noise at the gear shift knob under ",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This  Chrysler 300 is equipped with side view mirrors which tilt down when vehicle is placed in reverse gear. It is suppose to tilt a few degrees so that you can see noting is under your rear tires  such as a small child or o  pet cat, dog,etc. However this vehicle s mirrors tild",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Chrysler 300 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Air Bags (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "March 24th 2023 @ 1:58 pm I was sitting at a red light behind another car, when I was rear ended @ 40+ mph and pushed in to the car ahead of me.  The air bags never deployed after colliding with the car in front of me causing my head to hit the steering wheel and the roof of my c",
+        "pct": 40,
+        "title": "Air Bags",
+        "blurb": "4 reports (40%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On  March 1 2022 at 23,800 miles on odometer driving around curve the transmission shifter knob at console made grinding sound (like trying to change gears on moving cog). I noticed this on other curves and laid hand on knob and it was vibrating like trying to go in reverse/park?",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this Chrysler 300 new Nov. 2020 with 6 miles on it, This has been one of the best new cars I've purchased. March 1 2022 At 23,800 miles. I was traveling on KY70 around a sharp curve within advised speed, The car made a loud grinding noise at the gear shift knob under ",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This  Chrysler 300 is equipped with side view mirrors which tilt down when vehicle is placed in reverse gear. It is suppose to tilt a few degrees so that you can see noting is under your rear tires  such as a small child or o  pet cat, dog,etc. However this vehicle s mirrors tild",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

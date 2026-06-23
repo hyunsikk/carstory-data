@@ -1,0 +1,40 @@
+{
+  "slug": "2016-lexus-rc-f",
+  "make": "Lexus",
+  "model": "RC F",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/LEXUS/RC%20F#complaints",
+  "generatedAt": "2026-06-23T16:45:24.401Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NHTSA RECALL NO:  18V-107    LEXUS DOES NOT HAVE THE PARTS AVAILABLE FOR DEALERSHIPS TO FIX THE RECALL.  THE RECALL IS TO REPLACE 2 HIGH PRESSURE FUEL PUMPS.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Lexus Rc F owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NHTSA RECALL NO:  18V-107    LEXUS DOES NOT HAVE THE PARTS AVAILABLE FOR DEALERSHIPS TO FIX THE RECALL.  THE RECALL IS TO REPLACE 2 HIGH PRESSURE FUEL PUMPS.",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

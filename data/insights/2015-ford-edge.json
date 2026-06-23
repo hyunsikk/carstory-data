@@ -1,0 +1,128 @@
+{
+  "slug": "2015-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/FORD/EDGE#complaints",
+  "generatedAt": "2026-06-23T16:29:49.999Z",
+  "total": 715,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 188,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "SEVERAL OCCURRENCES OF STALLING WHEN COMING TO/NEAR STOP AND ACCELERATING. THE PROBLEM HAS HAPPENED ABOUT ONCE PER MONTH (FOUR TIMES OVER FOUR MONTHS). OCCURRENCES INCLUDE COMING TO A STOP AT A RED LIGHT, SLOWING FOR A SPEED BUMP, AND SLOWING TO MAKE A TURNS. SIGNIFICANT RISK OF ",
+      "pct": 26
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 150,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT 70 MPH ON A BUSY STRETCH OF HIGHWAY, THE VEHICLE JERKED SLIGHTLY, A NOTIFICATION LIGHT (ORANGE WRENCH) CAME ON SAYING TO CHECK THE OWNER'S MANUAL, AND THE ACCELERATOR CEASED TO FUNCTION.     I WAS ABLE TO NAVIGATE THE CAR SAFELY TO THE SHOULDER; HOWEVER, THE BRAK",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 117,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THIS REPORT IS AN UPDATE TO COMPLAINT: 10788647. THIS VEHICLE, A 2015 FORD EDGE SEL WITH A 3.5L ENGINE, WAS REPAIRED BY A FORD DEALERSHIP FOR A STALLING/LOSS OF POWER WHILE DRIVING ISSUE. THE DEALERSHIP HAD THE VEHICLE FROM NOVEMBER 5-13, 2015, AND REPROGRAMED THE PCM IN ORDER TO",
+      "pct": 16
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 76,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 FORD EDGE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V469000 (SERVICE BRAKES, SERVICE BRAKES, HYDRAULIC) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT WHILE DRIVING AT A SLOW SPEED, THE BRAKE PED",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 52,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS ABLE TO DRIVE MY BRAND NEW 2015 EDGE WITH THE BATTERY LIGHT ON AND WAS TOLD THAT IT MAY BE A FAULTY LIGHT THAT WOULD TURN OFF. COUPLE OF WEEKS LATER LIGHT WAS STILL ON. I TOOK THE CAR TO MY NEAREST DEALER AND WAS TOLD MY ALTERNATOR HAD TO BE REPLACED AND THAT I SHOULD NOT D",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Ford Edge owners report most",
+    "summary": "Across 715 owner complaints to NHTSA, the most reported area is Engine (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 188,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "SEVERAL OCCURRENCES OF STALLING WHEN COMING TO/NEAR STOP AND ACCELERATING. THE PROBLEM HAS HAPPENED ABOUT ONCE PER MONTH (FOUR TIMES OVER FOUR MONTHS). OCCURRENCES INCLUDE COMING TO A STOP AT A RED LIGHT, SLOWING FOR A SPEED BUMP, AND SLOWING TO MAKE A TURNS. SIGNIFICANT RISK OF ",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "188 reports (26%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 150,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT 70 MPH ON A BUSY STRETCH OF HIGHWAY, THE VEHICLE JERKED SLIGHTLY, A NOTIFICATION LIGHT (ORANGE WRENCH) CAME ON SAYING TO CHECK THE OWNER'S MANUAL, AND THE ACCELERATOR CEASED TO FUNCTION.     I WAS ABLE TO NAVIGATE THE CAR SAFELY TO THE SHOULDER; HOWEVER, THE BRAK",
+        "pct": 21,
+        "title": "Service Brakes",
+        "blurb": "150 reports (21%) · 5 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 117,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THIS REPORT IS AN UPDATE TO COMPLAINT: 10788647. THIS VEHICLE, A 2015 FORD EDGE SEL WITH A 3.5L ENGINE, WAS REPAIRED BY A FORD DEALERSHIP FOR A STALLING/LOSS OF POWER WHILE DRIVING ISSUE. THE DEALERSHIP HAD THE VEHICLE FROM NOVEMBER 5-13, 2015, AND REPROGRAMED THE PCM IN ORDER TO",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "117 reports (16%) · 5 crash · 5 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 76,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 FORD EDGE. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V469000 (SERVICE BRAKES, SERVICE BRAKES, HYDRAULIC) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT WHILE DRIVING AT A SLOW SPEED, THE BRAKE PED",
+        "pct": 11,
+        "title": "Hydraulic",
+        "blurb": "76 reports (11%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 52,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS ABLE TO DRIVE MY BRAND NEW 2015 EDGE WITH THE BATTERY LIGHT ON AND WAS TOLD THAT IT MAY BE A FAULTY LIGHT THAT WOULD TURN OFF. COUPLE OF WEEKS LATER LIGHT WAS STILL ON. I TOOK THE CAR TO MY NEAREST DEALER AND WAS TOLD MY ALTERNATOR HAD TO BE REPLACED AND THAT I SHOULD NOT D",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "52 reports (7%) · 1 fire"
+      }
+    ]
+  }
+}

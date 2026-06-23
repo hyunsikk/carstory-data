@@ -1,0 +1,128 @@
+{
+  "slug": "2015-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/FORD/FLEX#complaints",
+  "generatedAt": "2026-06-23T16:45:03.264Z",
+  "total": 96,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Ford Flex. The contact stated that while the vehicle was shifted into reverse, the back-over prevention camera screen image displayed an unknown service error message, showed an upside-down image, and displayed a blacked-out image occasionally. No warning ",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY POWER STEERING FAILURE INDICATOR CAME ON (WHILE I WAS DRIVING), INDICATING A NEED FOR IMMEDIATE SERVICE. UPON TESTING, IT WAS DETERMINED THAT THE STEERING GEAR WAS FAULTY...ON A 2015 VEHICLE!!  THIS COULD HAVE CAUSED AN ACCIDENT IF THE GEAR FAILED WHILE I WAS DRIVING.  I WOULD",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS ENTERING AT CARPOOL LANES WHEN A DEBRIS HIT THE UNDERBODY OF THE VEHICLE, I JUST HEARD A BIG HIT UNDERBODY AND CONTINUE DRIVING AFTER TWO MILES ANOTHER DRIVER NOTICE FLUIDS WERE DRAINING FROM THE BOTTOM OF THE VEHICLE AND URGE ME TO CHECK WHEN I STOPPED I FIND OUT THE DEBRI",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 FORD FLEX. WHILE BOTH THE ENGINE AND AIR CONDITIONING WERE ACTIVATED FOR A SHORT PERIOD OF TIME, THE VEHICLE EXPERIENCED A COMPLETE LOSS OF POWER. THE FAILURE OCCURRED WITHOUT WARNING. THE FAILURE OCCURRED TWICE. THE VEHICLE WAS TAKEN TO THE DEALER WHE",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WIFE WAS DRIVING THE CAR 6-21-16 AT APPROXIMATELY 55 MPH WHEN SUDDENLY AND UNEXPECTEDLY THE CAR LOST POWER. SHE WAS ABLE TO GET THE CAR OFF THE ROAD WITHOUT INCIDENT BUT COULD HAVE BEEN REAR ENDED. DRIVETRAIN MALFUNCTION/REDUCED POWER ICON WAS DISPLAYED ON INSTRUMENT PANEL. CAR W",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Ford Flex owners report most",
+    "summary": "Across 96 owner complaints to NHTSA, the most reported area is Back Over Prevention (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Ford Flex. The contact stated that while the vehicle was shifted into reverse, the back-over prevention camera screen image displayed an unknown service error message, showed an upside-down image, and displayed a blacked-out image occasionally. No warning ",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "19 reports (20%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY POWER STEERING FAILURE INDICATOR CAME ON (WHILE I WAS DRIVING), INDICATING A NEED FOR IMMEDIATE SERVICE. UPON TESTING, IT WAS DETERMINED THAT THE STEERING GEAR WAS FAULTY...ON A 2015 VEHICLE!!  THIS COULD HAVE CAUSED AN ACCIDENT IF THE GEAR FAILED WHILE I WAS DRIVING.  I WOULD",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "19 reports (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS ENTERING AT CARPOOL LANES WHEN A DEBRIS HIT THE UNDERBODY OF THE VEHICLE, I JUST HEARD A BIG HIT UNDERBODY AND CONTINUE DRIVING AFTER TWO MILES ANOTHER DRIVER NOTICE FLUIDS WERE DRAINING FROM THE BOTTOM OF THE VEHICLE AND URGE ME TO CHECK WHEN I STOPPED I FIND OUT THE DEBRI",
+        "pct": 19,
+        "title": "Fuel/Propulsion System",
+        "blurb": "18 reports (19%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 FORD FLEX. WHILE BOTH THE ENGINE AND AIR CONDITIONING WERE ACTIVATED FOR A SHORT PERIOD OF TIME, THE VEHICLE EXPERIENCED A COMPLETE LOSS OF POWER. THE FAILURE OCCURRED WITHOUT WARNING. THE FAILURE OCCURRED TWICE. THE VEHICLE WAS TAKEN TO THE DEALER WHE",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "12 reports (13%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WIFE WAS DRIVING THE CAR 6-21-16 AT APPROXIMATELY 55 MPH WHEN SUDDENLY AND UNEXPECTEDLY THE CAR LOST POWER. SHE WAS ABLE TO GET THE CAR OFF THE ROAD WITHOUT INCIDENT BUT COULD HAVE BEEN REAR ENDED. DRIVETRAIN MALFUNCTION/REDUCED POWER ICON WAS DISPLAYED ON INSTRUMENT PANEL. CAR W",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "11 reports (11%)"
+      }
+    ]
+  }
+}

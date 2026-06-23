@@ -1,0 +1,128 @@
+{
+  "slug": "2015-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T16:31:18.303Z",
+  "total": 259,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 108,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 GMC ACADIA. THE CONTACT STATED THAT THE SERVICE AIR BAG WARNING INDICATOR WAS ILLUMINATED. THE DEALER DIAGNOSED THAT THE AIR BAG WARNING SENSOR NEEDED TO BE REPLACED. THE AIR BAG WARNING SENSOR WAS REPLACED; HOWEVER, THE FAILURE RECURRED. WHILE THE VEH",
+      "pct": 42
+    },
+    {
+      "component": "STEERING",
+      "count": 33,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LEFT VEHICLE PARKED ON INCLINE WITH PARKING BRAKE SET. RETURNED TO VEHICLE, STARTED ENGINE, RELEASED PARKING BRAKE , PUT VEHICLE IN DRIVE. THE GEAR INDICATOR ON THE DASH SHOWED THE CAR WAS IN DRIVE. THE GEAR SELECTOR IN CENTER CONSOLE INDICATED IT WAS IN DRIVE. STEPPING ON GAS RE",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 31,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "LETTER FROM SENATOR FEINSTEIN INQUIRY ON BEHALF OF CONSTITUENT IN REGARDS TO HAVING PROBLEMS WITH GMC SIERRA DENALI PICKUP 2015. *LD    THE CONSUMER STATED THE VEHICLE HAS HAD MULTIPLE ISSUES WITH THE SUSPENSION, TRANSMISSION, AND ELECTRONICS. THE VEHICLE WOULD RIDE ROUGH AND THE",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LEFT VEHICLE PARKED ON INCLINE WITH PARKING BRAKE SET. RETURNED TO VEHICLE, STARTED ENGINE, RELEASED PARKING BRAKE , PUT VEHICLE IN DRIVE. THE GEAR INDICATOR ON THE DASH SHOWED THE CAR WAS IN DRIVE. THE GEAR SELECTOR IN CENTER CONSOLE INDICATED IT WAS IN DRIVE. STEPPING ON GAS RE",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "BAD SHIFTING IN TRANSMISSION WHEN YOU SLOW DOWN OR COME TO A STOP AND TURN RIGHT AND ACCELERATE AT THE SAME TIME.  THIS HAPPENS ON THE 2014 AND 2015 MODELS, TRANMISSION WILL STUTTER AND ABRUPTLY SHIFT INTO A LOWER GEAR.  ON THE ACADIA FORUMS IT IS DOCUMENTED BY OTHER OWNERS AS WE",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Gmc Acadia owners report most",
+    "summary": "Across 259 owner complaints to NHTSA, the most reported area is Air Bags (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 108,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 GMC ACADIA. THE CONTACT STATED THAT THE SERVICE AIR BAG WARNING INDICATOR WAS ILLUMINATED. THE DEALER DIAGNOSED THAT THE AIR BAG WARNING SENSOR NEEDED TO BE REPLACED. THE AIR BAG WARNING SENSOR WAS REPLACED; HOWEVER, THE FAILURE RECURRED. WHILE THE VEH",
+        "pct": 42,
+        "title": "Air Bags",
+        "blurb": "108 reports (42%) · 4 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 33,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LEFT VEHICLE PARKED ON INCLINE WITH PARKING BRAKE SET. RETURNED TO VEHICLE, STARTED ENGINE, RELEASED PARKING BRAKE , PUT VEHICLE IN DRIVE. THE GEAR INDICATOR ON THE DASH SHOWED THE CAR WAS IN DRIVE. THE GEAR SELECTOR IN CENTER CONSOLE INDICATED IT WAS IN DRIVE. STEPPING ON GAS RE",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "33 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 31,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "LETTER FROM SENATOR FEINSTEIN INQUIRY ON BEHALF OF CONSTITUENT IN REGARDS TO HAVING PROBLEMS WITH GMC SIERRA DENALI PICKUP 2015. *LD    THE CONSUMER STATED THE VEHICLE HAS HAD MULTIPLE ISSUES WITH THE SUSPENSION, TRANSMISSION, AND ELECTRONICS. THE VEHICLE WOULD RIDE ROUGH AND THE",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "31 reports (12%) · 3 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LEFT VEHICLE PARKED ON INCLINE WITH PARKING BRAKE SET. RETURNED TO VEHICLE, STARTED ENGINE, RELEASED PARKING BRAKE , PUT VEHICLE IN DRIVE. THE GEAR INDICATOR ON THE DASH SHOWED THE CAR WAS IN DRIVE. THE GEAR SELECTOR IN CENTER CONSOLE INDICATED IT WAS IN DRIVE. STEPPING ON GAS RE",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "22 reports (8%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "BAD SHIFTING IN TRANSMISSION WHEN YOU SLOW DOWN OR COME TO A STOP AND TURN RIGHT AND ACCELERATE AT THE SAME TIME.  THIS HAPPENS ON THE 2014 AND 2015 MODELS, TRANMISSION WILL STUTTER AND ABRUPTLY SHIFT INTO A LOWER GEAR.  ON THE ACADIA FORUMS IT IS DOCUMENTED BY OTHER OWNERS AS WE",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "18 reports (7%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

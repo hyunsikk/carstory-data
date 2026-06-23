@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-ioniq-5",
+  "make": "Hyundai",
+  "model": "Ioniq 5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/IONIQ%205#complaints",
+  "generatedAt": "2026-06-23T16:33:27.631Z",
+  "total": 213,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 172,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Uncertain which part failed. 2. safety was put at risk due to car not able to accelerate. Car would not go over 20 miles an hour on the interstate access road where traffic was going by at 50 –60 mph - four-way flashers were on and had to pull off at the first available turn b",
+      "pct": 81
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 50,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Uncertain which part failed. 2. safety was put at risk due to car not able to accelerate. Car would not go over 20 miles an hour on the interstate access road where traffic was going by at 50 –60 mph - four-way flashers were on and had to pull off at the first available turn b",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 36,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving in i-Pedal, which is a \"one pedal driving option\", sometimes after pausing the car rolls backs several inches. This appears to be a defect with the powetrain, regenerative braking engine, or otherwise. Hyundai's dealership has been advised of this issue; they have es",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving in i-Pedal, which is a \"one pedal driving option\", sometimes after pausing the car rolls backs several inches. This appears to be a defect with the powetrain, regenerative braking engine, or otherwise. Hyundai's dealership has been advised of this issue; they have es",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle was 4 weeks old.  On Friday 6/28/24, my vehicle displayed the following message on the dashboard, \"Check Brake System\".  It disappeared later, and reappeared on the next day.  I checked Hyundai's app, Bluelink.  There was a alert on Bluelink, \"Attention Needed\".  I ope",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Ioniq 5 owners report most",
+    "summary": "Across 213 owner complaints to NHTSA, the most reported area is Electrical System (81% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 172,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Uncertain which part failed. 2. safety was put at risk due to car not able to accelerate. Car would not go over 20 miles an hour on the interstate access road where traffic was going by at 50 –60 mph - four-way flashers were on and had to pull off at the first available turn b",
+        "pct": 81,
+        "title": "Electrical System",
+        "blurb": "172 reports (81%) · 2 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 50,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Uncertain which part failed. 2. safety was put at risk due to car not able to accelerate. Car would not go over 20 miles an hour on the interstate access road where traffic was going by at 50 –60 mph - four-way flashers were on and had to pull off at the first available turn b",
+        "pct": 23,
+        "title": "Fuel/Propulsion System",
+        "blurb": "50 reports (23%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 36,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving in i-Pedal, which is a \"one pedal driving option\", sometimes after pausing the car rolls backs several inches. This appears to be a defect with the powetrain, regenerative braking engine, or otherwise. Hyundai's dealership has been advised of this issue; they have es",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "36 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving in i-Pedal, which is a \"one pedal driving option\", sometimes after pausing the car rolls backs several inches. This appears to be a defect with the powetrain, regenerative braking engine, or otherwise. Hyundai's dealership has been advised of this issue; they have es",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "21 reports (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle was 4 weeks old.  On Friday 6/28/24, my vehicle displayed the following message on the dashboard, \"Check Brake System\".  It disappeared later, and reappeared on the next day.  I checked Hyundai's app, Bluelink.  There was a alert on Bluelink, \"Attention Needed\".  I ope",
+        "pct": 4,
+        "title": "Service Brakes",
+        "blurb": "9 reports (4%) · 4 crash"
+      }
+    ]
+  }
+}

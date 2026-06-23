@@ -1,0 +1,62 @@
+{
+  "slug": "2014-lamborghini-aventador",
+  "make": "Lamborghini",
+  "model": "Aventador",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/LAMBORGHINI/AVENTADOR#complaints",
+  "generatedAt": "2026-06-23T16:46:26.117Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HTTPS://WWW.YOUTUBE.COM/WATCH?V=TMAMYY4EJEQ    HTTP://WWW.NYDAILYNEWS.COM/AUTOS/NEWS/JOYRIDING-VALET-SENDS-LAMBORGHINI-AVENTADOR-FLAMES-ARTICLE-1.2501660",
+      "pct": 100
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HTTPS://WWW.YOUTUBE.COM/WATCH?V=TMAMYY4EJEQ    HTTP://WWW.NYDAILYNEWS.COM/AUTOS/NEWS/JOYRIDING-VALET-SENDS-LAMBORGHINI-AVENTADOR-FLAMES-ARTICLE-1.2501660",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Lamborghini Aventador owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HTTPS://WWW.YOUTUBE.COM/WATCH?V=TMAMYY4EJEQ    HTTP://WWW.NYDAILYNEWS.COM/AUTOS/NEWS/JOYRIDING-VALET-SENDS-LAMBORGHINI-AVENTADOR-FLAMES-ARTICLE-1.2501660",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HTTPS://WWW.YOUTUBE.COM/WATCH?V=TMAMYY4EJEQ    HTTP://WWW.NYDAILYNEWS.COM/AUTOS/NEWS/JOYRIDING-VALET-SENDS-LAMBORGHINI-AVENTADOR-FLAMES-ARTICLE-1.2501660",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%) · 1 fire"
+      }
+    ]
+  }
+}

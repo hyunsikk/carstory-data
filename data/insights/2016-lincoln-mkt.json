@@ -1,0 +1,128 @@
+{
+  "slug": "2016-lincoln-mkt",
+  "make": "Lincoln",
+  "model": "MKT",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/LINCOLN/MKT#complaints",
+  "generatedAt": "2026-06-23T16:37:44.470Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I HAVE OWNED THIS CAR FOR LESS THAN A YEAR AND THE MOONROOF HAS SHATTERED ON ME TWICE ALREADY. THE FRONT ONE TO BE EXACT, BOTH TIMES IT WAS RAINING BUT NORMAL RAIN, I LIVE IN NORTHEN CALIFORNIA. NO OBJECTS HIT MY CAR AND NO ACCIDENT. IT SOUNDS LIKE A LOUD GUNSHOT NEAR YOU AND ITS",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine light continues to come on and the only reading it gives off is that the engine is running lean. Nothing seems to be smoking or wrong with the vehicle. It continues to drive well. Then the backup cameras started to go on a blink. It comes off and on intermittently some",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine light continues to come on and the only reading it gives off is that the engine is running lean. Nothing seems to be smoking or wrong with the vehicle. It continues to drive well. Then the backup cameras started to go on a blink. It comes off and on intermittently some",
+      "pct": 13
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine light continues to come on and the only reading it gives off is that the engine is running lean. Nothing seems to be smoking or wrong with the vehicle. It continues to drive well. Then the backup cameras started to go on a blink. It comes off and on intermittently some",
+      "pct": 13
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 LINCOLN MKT. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V072000 (SUSPENSION) HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. NEI",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Lincoln Mkt owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Structure (25% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I HAVE OWNED THIS CAR FOR LESS THAN A YEAR AND THE MOONROOF HAS SHATTERED ON ME TWICE ALREADY. THE FRONT ONE TO BE EXACT, BOTH TIMES IT WAS RAINING BUT NORMAL RAIN, I LIVE IN NORTHEN CALIFORNIA. NO OBJECTS HIT MY CAR AND NO ACCIDENT. IT SOUNDS LIKE A LOUD GUNSHOT NEAR YOU AND ITS",
+        "pct": 25,
+        "title": "Structure",
+        "blurb": "2 reports (25%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine light continues to come on and the only reading it gives off is that the engine is running lean. Nothing seems to be smoking or wrong with the vehicle. It continues to drive well. Then the backup cameras started to go on a blink. It comes off and on intermittently some",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine light continues to come on and the only reading it gives off is that the engine is running lean. Nothing seems to be smoking or wrong with the vehicle. It continues to drive well. Then the backup cameras started to go on a blink. It comes off and on intermittently some",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine light continues to come on and the only reading it gives off is that the engine is running lean. Nothing seems to be smoking or wrong with the vehicle. It continues to drive well. Then the backup cameras started to go on a blink. It comes off and on intermittently some",
+        "pct": 13,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 LINCOLN MKT. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V072000 (SUSPENSION) HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. NEI",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

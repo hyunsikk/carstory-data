@@ -1,0 +1,128 @@
+{
+  "slug": "2020-acura-tlx",
+  "make": "Acura",
+  "model": "TLX",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ACURA/TLX#complaints",
+  "generatedAt": "2026-06-23T16:25:03.202Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After coming to a stop at a red light, the vehicle engine turned off as designed with auto start stop.  When the light turned green, the vehicle temporarily restarted when I released the brake pedal, but immediately stalled and would not restart.    This is a major safety concern",
+      "pct": 30
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Acura TLX. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline) and 23V751000 (Engine and Engine Cooling) however, the parts to do the recall repairs were not yet available. The contact stated that the manufacturer ",
+      "pct": 20
+    },
+    {
+      "component": "GASOLINE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Acura TLX. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline) and 23V751000 (Engine and Engine Cooling) however, the parts to do the recall repairs were not yet available. The contact stated that the manufacturer ",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's dash states the following are malfunctioning: Road Departure Mitigation System, Adaptive Cruise Control, Auto High Beam, Collision Mitigation System, and Lane Keeping Assist. The vehicle is available for inspection upon request.  A few days prior to this message app",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a new Acura TLX in 2020.  The following year it took it into get state inspected in Massachusetts.  My care failed for emission 3 times.  I brought it back to the dealer (Herb Connolly) in Framingham Massachusetts.  They kept it for 3 weeks, worked on it and told me i",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Acura Tlx owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Engine (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After coming to a stop at a red light, the vehicle engine turned off as designed with auto start stop.  When the light turned green, the vehicle temporarily restarted when I released the brake pedal, but immediately stalled and would not restart.    This is a major safety concern",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "18 reports (30%) · 1 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Acura TLX. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline) and 23V751000 (Engine and Engine Cooling) however, the parts to do the recall repairs were not yet available. The contact stated that the manufacturer ",
+        "pct": 20,
+        "title": "Fuel System",
+        "blurb": "12 reports (20%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Acura TLX. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline) and 23V751000 (Engine and Engine Cooling) however, the parts to do the recall repairs were not yet available. The contact stated that the manufacturer ",
+        "pct": 20,
+        "title": "Gasoline",
+        "blurb": "12 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's dash states the following are malfunctioning: Road Departure Mitigation System, Adaptive Cruise Control, Auto High Beam, Collision Mitigation System, and Lane Keeping Assist. The vehicle is available for inspection upon request.  A few days prior to this message app",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "9 reports (15%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a new Acura TLX in 2020.  The following year it took it into get state inspected in Massachusetts.  My care failed for emission 3 times.  I brought it back to the dealer (Herb Connolly) in Framingham Massachusetts.  They kept it for 3 weeks, worked on it and told me i",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "8 reports (13%)"
+      }
+    ]
+  }
+}

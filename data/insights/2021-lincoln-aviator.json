@@ -1,0 +1,128 @@
+{
+  "slug": "2021-lincoln-aviator",
+  "make": "Lincoln",
+  "model": "Aviator",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LINCOLN/AVIATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:38.447Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Three times, battery was dead -- twice within 24 hours of bringing the car home from the dealer.  We only drive the car home from the dealer, then the next day the battery is dead again.  The dealer said they replaced the battery and fixed an electrical recall, and they said they",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In regards to my brand new 2021 Lincoln Aviator Reserve (4181 miles): 2.23.22- Driving home on a very narrow, winding road when my car unexpectedly started to vibrate/shake. There were no alerts and no warning lights that came on.  Fortunately, I was coming up on one of the very ",
+      "pct": 18
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The \"auto\" mode on my Sync screen on my 2021 Lincoln Aviator does not always automatically switch between day and night based on ambient light levels.  This is a blinding experience at night when the screen doesn't switch to night mode and the brightness is intense.  This blindin",
+      "pct": 12
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Driving this vehicle in snow and ice collects in my wheel wells because of the material used in them.  It is felt like heavily textured that the snow and ice sticks to like glue.  So, in lots of snow and slush on the road it quickly collects to its limit of area between tire and ",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UNKNOWN   ON several occasions the vehicle would just shut off. Another occasion while getting on the freeway I pressed the accelerator pedal and the car pumped the brakes,there was no one in front of me or on side of me upon entering the freeway. Another incident I was in the fa",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Lincoln Aviator owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Electrical System (30% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Three times, battery was dead -- twice within 24 hours of bringing the car home from the dealer.  We only drive the car home from the dealer, then the next day the battery is dead again.  The dealer said they replaced the battery and fixed an electrical recall, and they said they",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "10 reports (30%) · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In regards to my brand new 2021 Lincoln Aviator Reserve (4181 miles): 2.23.22- Driving home on a very narrow, winding road when my car unexpectedly started to vibrate/shake. There were no alerts and no warning lights that came on.  Fortunately, I was coming up on one of the very ",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The \"auto\" mode on my Sync screen on my 2021 Lincoln Aviator does not always automatically switch between day and night based on ambient light levels.  This is a blinding experience at night when the screen doesn't switch to night mode and the brightness is intense.  This blindin",
+        "pct": 12,
+        "title": "Visibility/Wiper",
+        "blurb": "4 reports (12%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Driving this vehicle in snow and ice collects in my wheel wells because of the material used in them.  It is felt like heavily textured that the snow and ice sticks to like glue.  So, in lots of snow and slush on the road it quickly collects to its limit of area between tire and ",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "4 reports (12%) · 2 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UNKNOWN   ON several occasions the vehicle would just shut off. Another occasion while getting on the freeway I pressed the accelerator pedal and the car pumped the brakes,there was no one in front of me or on side of me upon entering the freeway. Another incident I was in the fa",
+        "pct": 9,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

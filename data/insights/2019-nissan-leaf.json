@@ -1,0 +1,128 @@
+{
+  "slug": "2019-nissan-leaf",
+  "make": "Nissan",
+  "model": "Leaf",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/NISSAN/LEAF#complaints",
+  "generatedAt": "2026-06-23T16:39:21.665Z",
+  "total": 244,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 163,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Vehicle suddenly loses power while driving, no warnings prior to power loss. 1st incident vehicle lost power and all check engine lights came on. Unable to shift gears or accelerate. Towed to Nissan. This has happened twice again in the past week. Complete power loss while drivin",
+      "pct": 67
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle suddenly loses power while driving, no warnings prior to power loss. 1st incident vehicle lost power and all check engine lights came on. Unable to shift gears or accelerate. Towed to Nissan. This has happened twice again in the past week. Complete power loss while drivin",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Stuck in a snow drift, slightly down hill, rocking the car forward and back, twice it went into an uncommanded full throttle forward.    Even after removing my foot from the accelerator with no other control inputs the car was in high speed forward mode.    I had to hit the brake",
+      "pct": 5
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE VEHICLE IS IN STOP AND GO OR HEAVY TRAFFIC, THE AIR CONDITIONING SYSTEM THROTTLES ITSELF BACK TO CONSERVE POWER IN THE TRACTION BATTERY. COMBINED WITH THE FACT THERE ARE NO REAR SEAT VENTS (EITHER IN THE CONSOLE OR THE FLOOR), IT GETS DANGEROUSLY HOT IN THE VEHICLE, ESPE",
+      "pct": 5
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "IT SEEMS TO ME THAT THE E-PEDAL HAS NOT BEEN DESIGNED CORRECTLY FOR THE HEAVIER WEIGHT OF THE 62KW BATTERY.  THIS IS ESPECIALLY TRUE FOR THOSE OF US THAT HAVE A PREVIOUS YEAR 42 KW BATTERY MODEL. I PURCHASED THE 2019 NISSAN LEAF PLUS SL TRIM AND TRADED IN MY 2018 NISSAN LEAF SL O",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Nissan Leaf owners report most",
+    "summary": "Across 244 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 163,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Vehicle suddenly loses power while driving, no warnings prior to power loss. 1st incident vehicle lost power and all check engine lights came on. Unable to shift gears or accelerate. Towed to Nissan. This has happened twice again in the past week. Complete power loss while drivin",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "163 reports (67%) · 1 fire · 1 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle suddenly loses power while driving, no warnings prior to power loss. 1st incident vehicle lost power and all check engine lights came on. Unable to shift gears or accelerate. Towed to Nissan. This has happened twice again in the past week. Complete power loss while drivin",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "33 reports (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Stuck in a snow drift, slightly down hill, rocking the car forward and back, twice it went into an uncommanded full throttle forward.    Even after removing my foot from the accelerator with no other control inputs the car was in high speed forward mode.    I had to hit the brake",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "12 reports (5%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE VEHICLE IS IN STOP AND GO OR HEAVY TRAFFIC, THE AIR CONDITIONING SYSTEM THROTTLES ITSELF BACK TO CONSERVE POWER IN THE TRACTION BATTERY. COMBINED WITH THE FACT THERE ARE NO REAR SEAT VENTS (EITHER IN THE CONSOLE OR THE FLOOR), IT GETS DANGEROUSLY HOT IN THE VEHICLE, ESPE",
+        "pct": 5,
+        "title": "Visibility/Wiper",
+        "blurb": "12 reports (5%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "IT SEEMS TO ME THAT THE E-PEDAL HAS NOT BEEN DESIGNED CORRECTLY FOR THE HEAVIER WEIGHT OF THE 62KW BATTERY.  THIS IS ESPECIALLY TRUE FOR THOSE OF US THAT HAVE A PREVIOUS YEAR 42 KW BATTERY MODEL. I PURCHASED THE 2019 NISSAN LEAF PLUS SL TRIM AND TRADED IN MY 2018 NISSAN LEAF SL O",
+        "pct": 4,
+        "title": "Service Brakes",
+        "blurb": "10 reports (4%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

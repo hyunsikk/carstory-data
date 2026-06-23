@@ -1,0 +1,62 @@
+{
+  "slug": "2019-subaru-wrx-sti",
+  "make": "Subaru",
+  "model": "WRX STI",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/SUBARU/WRX%20STI#complaints",
+  "generatedAt": "2026-06-23T16:40:57.275Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STARTER WINDED (MISSED) ON STARTUP AND DID NOT ENGAGE UNTIL NEXT ATTEMPTED VEHICLE STARTUP.",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STARTER WINDED (MISSED) ON STARTUP AND DID NOT ENGAGE UNTIL NEXT ATTEMPTED VEHICLE STARTUP.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Subaru Wrx Sti owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STARTER WINDED (MISSED) ON STARTUP AND DID NOT ENGAGE UNTIL NEXT ATTEMPTED VEHICLE STARTUP.",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STARTER WINDED (MISSED) ON STARTUP AND DID NOT ENGAGE UNTIL NEXT ATTEMPTED VEHICLE STARTUP.",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

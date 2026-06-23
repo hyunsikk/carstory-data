@@ -1,0 +1,128 @@
+{
+  "slug": "2021-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T16:41:08.263Z",
+  "total": 642,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 402,
+      "crash": 10,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "Automatic cruise control (autopilot) has twice failed to decrease speed when it should have. The vehicle will also brake at a moderate to high rate on the highway with zero warning or message, with no obstacle or vehicle on the road, creating a dangerous situation with following ",
+      "pct": 63
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 125,
+      "crash": 11,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "WHEN I TEST DROVE THE TESLA MODEL 3, THERE WAS AN OPTION TO TURN REGENERATIVE BRAKING TO LOW. THIS ALLOWED THE CAR TO HAVE MORE OF A COASTING EFFECT WHEN ONE LIFTS THE FOOT OFF OF THE ACCELERATOR. WHEN I RECEIVED DELIVERY OF THE CAR, THE ABILITY TO REDUCE THE REGENERATIVE BRAKING",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 123,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 2,
+      "sample": "WHEN I TEST DROVE THE TESLA MODEL 3, THERE WAS AN OPTION TO TURN REGENERATIVE BRAKING TO LOW. THIS ALLOWED THE CAR TO HAVE MORE OF A COASTING EFFECT WHEN ONE LIFTS THE FOOT OFF OF THE ACCELERATOR. WHEN I RECEIVED DELIVERY OF THE CAR, THE ABILITY TO REDUCE THE REGENERATIVE BRAKING",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 73,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "HEAT NO LONGER WORKS IN THE CAR'S CLIMATE CONTROL. THIS APPARENTLY IS TIED TO FAULTY HUMIDITY AND TEMPERATURE SENSORS THAT MUST WORK PROPERLY FOR THE HEATING SYSTEM TO WORK, AND TESLA SERVICE CENTERS ARE AWARE OF THIS YET ARE NOT PROACTIVELY REPLACING THEM.     THIS IS A SAFETY I",
+      "pct": 11
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 28,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TESLA MODEL 3, WHILE DRIVING WILL REPORT A LEFT/RIGHT COLUMN CAMERA, IS OBSTRUCTED DO TO CONDENSATION ON THE INSIDE OF THE CAMERA COVER. WHILE DRIVING ON THIS INTERRUPTS ADVANCED DRIVER ASSISTANCE SYSTEMS SUCH AS AUTO LANE CHANGE, BLIND-SPOT DETECTION, AND LANE DEPARTURE WARNING.",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Tesla Model 3 owners report most",
+    "summary": "Across 642 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (63% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 402,
+        "crash": 10,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "Automatic cruise control (autopilot) has twice failed to decrease speed when it should have. The vehicle will also brake at a moderate to high rate on the highway with zero warning or message, with no obstacle or vehicle on the road, creating a dangerous situation with following ",
+        "pct": 63,
+        "title": "Forward Collision Avoidance",
+        "blurb": "402 reports (63%) · 1 fire · 10 crash · 8 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 125,
+        "crash": 11,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "WHEN I TEST DROVE THE TESLA MODEL 3, THERE WAS AN OPTION TO TURN REGENERATIVE BRAKING TO LOW. THIS ALLOWED THE CAR TO HAVE MORE OF A COASTING EFFECT WHEN ONE LIFTS THE FOOT OFF OF THE ACCELERATOR. WHEN I RECEIVED DELIVERY OF THE CAR, THE ABILITY TO REDUCE THE REGENERATIVE BRAKING",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "125 reports (19%) · 1 fire · 11 crash · 5 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 123,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 2,
+        "sample": "WHEN I TEST DROVE THE TESLA MODEL 3, THERE WAS AN OPTION TO TURN REGENERATIVE BRAKING TO LOW. THIS ALLOWED THE CAR TO HAVE MORE OF A COASTING EFFECT WHEN ONE LIFTS THE FOOT OFF OF THE ACCELERATOR. WHEN I RECEIVED DELIVERY OF THE CAR, THE ABILITY TO REDUCE THE REGENERATIVE BRAKING",
+        "pct": 19,
+        "title": "Vehicle Speed Control",
+        "blurb": "123 reports (19%) · 11 crash · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 73,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "HEAT NO LONGER WORKS IN THE CAR'S CLIMATE CONTROL. THIS APPARENTLY IS TIED TO FAULTY HUMIDITY AND TEMPERATURE SENSORS THAT MUST WORK PROPERLY FOR THE HEATING SYSTEM TO WORK, AND TESLA SERVICE CENTERS ARE AWARE OF THIS YET ARE NOT PROACTIVELY REPLACING THEM.     THIS IS A SAFETY I",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "73 reports (11%) · 1 fire · 7 crash · 4 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 28,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TESLA MODEL 3, WHILE DRIVING WILL REPORT A LEFT/RIGHT COLUMN CAMERA, IS OBSTRUCTED DO TO CONDENSATION ON THE INSIDE OF THE CAMERA COVER. WHILE DRIVING ON THIS INTERRUPTS ADVANCED DRIVER ASSISTANCE SYSTEMS SUCH AS AUTO LANE CHANGE, BLIND-SPOT DETECTION, AND LANE DEPARTURE WARNING.",
+        "pct": 4,
+        "title": "Lane Departure",
+        "blurb": "28 reports (4%) · 5 crash · 1 injured"
+      }
+    ]
+  }
+}

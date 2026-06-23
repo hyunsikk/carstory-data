@@ -1,0 +1,84 @@
+{
+  "slug": "2016-audi-sq5",
+  "make": "Audi",
+  "model": "SQ5",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/SQ5#complaints",
+  "generatedAt": "2026-06-23T16:43:19.197Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE AUDI SQ 5 LOSES POWER STEERING IF THE RACK/PINION  POWER STEERING UNIT IS EXPOSED TO WATER. THIS DOES NOT REFER TO FLOODING OR SUBMERGED CAR  AUDI CONSIDERS WEATHER AN OUTSIDE INFLUENCE AND DOES NOT HONOR THE WARRANTY  THE CAR RETAINS FULL PROPULSION BUT IS IMPOSSIBLE TO STEE",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ORIGINAL ENGINE WATER PUMP FAILED AT 18,313 MILES ON MAY 12, 2019. THE REPLACED ENGINE WATER PUMP HAS FAILED AGAIN AT 24,700 MILES ON APRIL 25. 2021. THIS IS COMPLETELY UNACCEPTABLE AND UNSAFE.",
+      "pct": 17
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 AUDI SQ5. THE CONTACT STATED THAT THE SIZE AND PLACEMENT OF THE DRIVER AND PASSENGER SIDE MIRRORS CAUSED A BLIND SPOT WHEN MAKING TURNS. THE CONTACT ALSO STATED THAT DUE TO THE FAILURE, HE NEARLY CRASHED INTO A PEDESTRIAN. THE CONTACT WAS CONCERNED THA",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi Sq5 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Steering (33% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE AUDI SQ 5 LOSES POWER STEERING IF THE RACK/PINION  POWER STEERING UNIT IS EXPOSED TO WATER. THIS DOES NOT REFER TO FLOODING OR SUBMERGED CAR  AUDI CONSIDERS WEATHER AN OUTSIDE INFLUENCE AND DOES NOT HONOR THE WARRANTY  THE CAR RETAINS FULL PROPULSION BUT IS IMPOSSIBLE TO STEE",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ORIGINAL ENGINE WATER PUMP FAILED AT 18,313 MILES ON MAY 12, 2019. THE REPLACED ENGINE WATER PUMP HAS FAILED AGAIN AT 24,700 MILES ON APRIL 25. 2021. THIS IS COMPLETELY UNACCEPTABLE AND UNSAFE.",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 AUDI SQ5. THE CONTACT STATED THAT THE SIZE AND PLACEMENT OF THE DRIVER AND PASSENGER SIDE MIRRORS CAUSED A BLIND SPOT WHEN MAKING TURNS. THE CONTACT ALSO STATED THAT DUE TO THE FAILURE, HE NEARLY CRASHED INTO A PEDESTRIAN. THE CONTACT WAS CONCERNED THA",
+        "pct": 17,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

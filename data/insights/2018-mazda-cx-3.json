@@ -1,0 +1,128 @@
+{
+  "slug": "2018-mazda-cx-3",
+  "make": "Mazda",
+  "model": "CX-3",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/MAZDA/CX-3#complaints",
+  "generatedAt": "2026-06-23T16:45:26.527Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Mazda CX-3. The contact stated that while driving, the vehicle was moving from left to right. The contact stated that the brakes were making an abnormal scraping sound. There was an abnormal sound coming from the engine. The local dealer was not contacted.",
+      "pct": 20
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Mazda CX3. The contact received notification of NHTSA Campaign Number: 23V487000 (Back Over Prevention) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the rec",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE I WAS PARKING MY CAR AND BRAKING THE THROTTLE OPENED WIDE AND I JUMPED THE CURB.  I REAPPLIED THE BRAKES HARD AND THE CAR CAME TO A STOP AFTER SKIDDING 4 FEET. (TIRE MARKS MEASURED). I HAD THE CAR TOWED TO THE DEALER WHERE THEY COULD FIND NOTHING WRONG.  IN RESEARCHING THIS",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel injector failed without warning. A lot of fuel leaked into the engine destroying a spark plug in one cylinder and ultimately ruining the catalytic converter when fuel got into it. Independent mechanic and Mazda dealership diagnosed. Car cannot be driven.",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Heavy condensation is occurring inside the driver side headlamp.  A quick google search shows this is a common problem among Mazda owners and Mazda will not cover the repair.  I am unable to get a Massachusetts state inspection sticker due to this.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Mazda Cx-3 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Engine (20% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Mazda CX-3. The contact stated that while driving, the vehicle was moving from left to right. The contact stated that the brakes were making an abnormal scraping sound. There was an abnormal sound coming from the engine. The local dealer was not contacted.",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Mazda CX3. The contact received notification of NHTSA Campaign Number: 23V487000 (Back Over Prevention) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the rec",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE I WAS PARKING MY CAR AND BRAKING THE THROTTLE OPENED WIDE AND I JUMPED THE CURB.  I REAPPLIED THE BRAKES HARD AND THE CAR CAME TO A STOP AFTER SKIDDING 4 FEET. (TIRE MARKS MEASURED). I HAD THE CAR TOWED TO THE DEALER WHERE THEY COULD FIND NOTHING WRONG.  IN RESEARCHING THIS",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel injector failed without warning. A lot of fuel leaked into the engine destroying a spark plug in one cylinder and ultimately ruining the catalytic converter when fuel got into it. Independent mechanic and Mazda dealership diagnosed. Car cannot be driven.",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Heavy condensation is occurring inside the driver side headlamp.  A quick google search shows this is a common problem among Mazda owners and Mazda will not cover the repair.  I am unable to get a Massachusetts state inspection sticker due to this.",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-volkswagen-tiguan",
+  "make": "Volkswagen",
+  "model": "Tiguan",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VOLKSWAGEN/TIGUAN#complaints",
+  "generatedAt": "2026-06-23T16:42:14.155Z",
+  "total": 125,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 41,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car will suddenly shut off while slowing down or coming to a stop. The “start/stop” error message is displayed and the car displays to “manually restart car”. At first this happened only sporadically, but now this is happening while on the highway in traffic or while turning ",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The gas door on the vehicle would not open. It is locked when the vehicle is locked, and is unlocked when the vehicle is unlocked. The gas door opens by pushing the door, and the door will pop open. After repeatedly locking and unlocking the vehicle, the gas door still would not ",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON 12MAR2021 WE TOOK POSSESSION OF OUR 2021 TIGUAN R-LINE IN WHICH WE PURCHASED NEW FROM VW CHATHAM ONTARIO CANADA.  ON 13 MARCH 2021 WE WERE DRIVING HOME AROUND 8PM ON HIGHWAY 21 AT A SPEED OF 85 KILOMETRES TOWARDS THAMESVILLE, ONTARIO, TEMPERATURE WAS 2 DEG CELSIUS, WINDOWS WER",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Volkswagen Tiguan. The contact stated while driving out of the driveway at approximately 5 MPH, the parking brakes engaged independently. An alert stating that the vehicle is in motion was heard.  The contact turned off and restarted the vehicle, and was a",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The gas door on the vehicle would not open. It is locked when the vehicle is locked, and is unlocked when the vehicle is unlocked. The gas door opens by pushing the door, and the door will pop open. After repeatedly locking and unlocking the vehicle, the gas door still would not ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Volkswagen Tiguan owners report most",
+    "summary": "Across 125 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 41,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car will suddenly shut off while slowing down or coming to a stop. The “start/stop” error message is displayed and the car displays to “manually restart car”. At first this happened only sporadically, but now this is happening while on the highway in traffic or while turning ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "41 reports (33%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The gas door on the vehicle would not open. It is locked when the vehicle is locked, and is unlocked when the vehicle is unlocked. The gas door opens by pushing the door, and the door will pop open. After repeatedly locking and unlocking the vehicle, the gas door still would not ",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "21 reports (17%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON 12MAR2021 WE TOOK POSSESSION OF OUR 2021 TIGUAN R-LINE IN WHICH WE PURCHASED NEW FROM VW CHATHAM ONTARIO CANADA.  ON 13 MARCH 2021 WE WERE DRIVING HOME AROUND 8PM ON HIGHWAY 21 AT A SPEED OF 85 KILOMETRES TOWARDS THAMESVILLE, ONTARIO, TEMPERATURE WAS 2 DEG CELSIUS, WINDOWS WER",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "11 reports (9%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Volkswagen Tiguan. The contact stated while driving out of the driveway at approximately 5 MPH, the parking brakes engaged independently. An alert stating that the vehicle is in motion was heard.  The contact turned off and restarted the vehicle, and was a",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "10 reports (8%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The gas door on the vehicle would not open. It is locked when the vehicle is locked, and is unlocked when the vehicle is unlocked. The gas door opens by pushing the door, and the door will pop open. After repeatedly locking and unlocking the vehicle, the gas door still would not ",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (8%)"
+      }
+    ]
+  }
+}

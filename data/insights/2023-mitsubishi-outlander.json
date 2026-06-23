@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mitsubishi-outlander",
+  "make": "Mitsubishi",
+  "model": "Outlander",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MITSUBISHI/OUTLANDER#complaints",
+  "generatedAt": "2026-06-23T16:39:01.524Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In any instance where the electronic shifter does not have power, vehicle cannot be placed into neutral manually to be pushed to safety. Vehicle shuts down, immobile, in place with no warning.   I was in drive for approximately 30 minutes. I put the vehicle in park, then in rever",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I keep getting a message on my Dashboard that indicates my engine malfunction power reduced service now…. This is the second time this has happen … first time i took it to dealer they said oh they don’t see anything after taking to put it on machine and it said my engine was fail",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "We (driver and passenger) were pulling into a parking lot and going very slowly about to stop and get out of car. Suddenly and unexpectedly the car accelerated out of control and at an abnormal speed. the air bags deployed, smoke filled the cabin. After the police arrived and the",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "We (driver and passenger) were pulling into a parking lot and going very slowly about to stop and get out of car. Suddenly and unexpectedly the car accelerated out of control and at an abnormal speed. the air bags deployed, smoke filled the cabin. After the police arrived and the",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The direction of the car where the wheel is when I turn it on sounds like a (crack)when I stop and start it sounds too, I called the Dealer and they know the problem but Mitsubishi still does not have a solution, they told me that they are investigating and they are not doing any",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mitsubishi Outlander owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In any instance where the electronic shifter does not have power, vehicle cannot be placed into neutral manually to be pushed to safety. Vehicle shuts down, immobile, in place with no warning.   I was in drive for approximately 30 minutes. I put the vehicle in park, then in rever",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "10 reports (26%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I keep getting a message on my Dashboard that indicates my engine malfunction power reduced service now…. This is the second time this has happen … first time i took it to dealer they said oh they don’t see anything after taking to put it on machine and it said my engine was fail",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "7 reports (18%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "We (driver and passenger) were pulling into a parking lot and going very slowly about to stop and get out of car. Suddenly and unexpectedly the car accelerated out of control and at an abnormal speed. the air bags deployed, smoke filled the cabin. After the police arrived and the",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (15%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "We (driver and passenger) were pulling into a parking lot and going very slowly about to stop and get out of car. Suddenly and unexpectedly the car accelerated out of control and at an abnormal speed. the air bags deployed, smoke filled the cabin. After the police arrived and the",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "5 reports (13%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The direction of the car where the wheel is when I turn it on sounds like a (crack)when I stop and start it sounds too, I called the Dealer and they know the problem but Mitsubishi still does not have a solution, they told me that they are investigating and they are not doing any",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "5 reports (13%)"
+      }
+    ]
+  }
+}

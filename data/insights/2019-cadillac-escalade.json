@@ -1,0 +1,128 @@
+{
+  "slug": "2019-cadillac-escalade",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CADILLAC/ESCALADE#complaints",
+  "generatedAt": "2026-06-23T16:27:45.169Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Active Fuel Management system is starving the lifters of lubrication. Push rod got snapped in half and lifters needed to be replaced. Then the headers had to be fixed because of all of this. With a complete repair done, the push rod has again malfunctioned one month after the new",
+      "pct": 65
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This vehicle was sold to me with severe frame damage, which was not reported on the carfax, and was not reported at the dealership. If you turn the steering wheel to the right, you will hear a scraping noise under the right front tire, as the suspension is off because of the fram",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing a safety complaint regarding my Cadillac Escalade due to a transmission/valve body failure occurring at approximately 77,100 miles.  The vehicle began experiencing transmission-related issues including harsh shifting, hesitation, abnormal operation, and unsafe drivabi",
+      "pct": 4
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My wife and I purchased this vehicle in 2023 with 33,xxx miles on it and since we’ve had it, the vehicle has locked itself with the key fob inside 3 different times, we’re going on the third suspension replacement with normal driving that is ruining alignment and tires, we’ve had",
+      "pct": 4
+    },
+    {
+      "component": "Carry Handle",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car seat was in the locked rear facing position without it in use (thankfully) and I  got rear ended on the freeway and the car seat became detached from the base that was anchored to my car. The car seat ended on the floor between my two middle seats.",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Cadillac Escalade owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Engine (65% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Active Fuel Management system is starving the lifters of lubrication. Push rod got snapped in half and lifters needed to be replaced. Then the headers had to be fixed because of all of this. With a complete repair done, the push rod has again malfunctioned one month after the new",
+        "pct": 65,
+        "title": "Engine",
+        "blurb": "15 reports (65%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This vehicle was sold to me with severe frame damage, which was not reported on the carfax, and was not reported at the dealership. If you turn the steering wheel to the right, you will hear a scraping noise under the right front tire, as the suspension is off because of the fram",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "3 reports (13%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing a safety complaint regarding my Cadillac Escalade due to a transmission/valve body failure occurring at approximately 77,100 miles.  The vehicle began experiencing transmission-related issues including harsh shifting, hesitation, abnormal operation, and unsafe drivabi",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My wife and I purchased this vehicle in 2023 with 33,xxx miles on it and since we’ve had it, the vehicle has locked itself with the key fob inside 3 different times, we’re going on the third suspension replacement with normal driving that is ruining alignment and tires, we’ve had",
+        "pct": 4,
+        "title": "Electrical System",
+        "blurb": "1 report (4%) · 1 injured"
+      },
+      {
+        "component": "Carry Handle",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car seat was in the locked rear facing position without it in use (thankfully) and I  got rear ended on the freeway and the car seat became detached from the base that was anchored to my car. The car seat ended on the floor between my two middle seats.",
+        "pct": 4,
+        "title": "Carry Handle",
+        "blurb": "1 report (4%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-audi-a4",
+  "make": "Audi",
+  "model": "A4",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/A4#complaints",
+  "generatedAt": "2026-06-23T16:25:15.078Z",
+  "total": 27,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear view camera does not activate when using the parking assist or when reversing. The sensors are still functioning as intended. This can cause unintentional accidents or injuries to pedestrians. This issue was brought up with the dealer back in January of 2023. They mentio",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ENGINE MALFUNCTION PREVENTED THE VEHICLE TO ENGAGE AND A SIGNIFICANT LAG. CORRECTION OF THE FAILURE HAS BEEN ATTEMPTED TWICE AND A THIRD ATTEMPT TO CORRECT MALFUNCTION IS CURRENTLY IN PROGRESS WITH NO MOVEMENT AS OF YET. GAS TANK HAS BEEN DRAINED AND REFILLED AND DID NOT CORRECT ",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Audi Pre-sense engaged on 3 occasions going 50+ mph bringing the car to a complete stop when there was nothing in front if it and a car right behind me. I was lucky the car behind me did not collide. If it had been a semi truck and just as close as the car trailing me, they w",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ENGINE MALFUNCTION PREVENTED THE VEHICLE TO ENGAGE AND A SIGNIFICANT LAG. CORRECTION OF THE FAILURE HAS BEEN ATTEMPTED TWICE AND A THIRD ATTEMPT TO CORRECT MALFUNCTION IS CURRENTLY IN PROGRESS WITH NO MOVEMENT AS OF YET. GAS TANK HAS BEEN DRAINED AND REFILLED AND DID NOT CORRECT ",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After dealership did the second repair to the airbag recall, the airbag light came on and has been on solid . When taking the car back to The dealership to have it fixed ,We were clear about the whole thing over the phone   .the dealership  proceeded to charge me for a diagnostic",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi A4 owners report most",
+    "summary": "Across 27 owner complaints to NHTSA, the most reported area is Electrical System (19% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear view camera does not activate when using the parking assist or when reversing. The sensors are still functioning as intended. This can cause unintentional accidents or injuries to pedestrians. This issue was brought up with the dealer back in January of 2023. They mentio",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ENGINE MALFUNCTION PREVENTED THE VEHICLE TO ENGAGE AND A SIGNIFICANT LAG. CORRECTION OF THE FAILURE HAS BEEN ATTEMPTED TWICE AND A THIRD ATTEMPT TO CORRECT MALFUNCTION IS CURRENTLY IN PROGRESS WITH NO MOVEMENT AS OF YET. GAS TANK HAS BEEN DRAINED AND REFILLED AND DID NOT CORRECT ",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Audi Pre-sense engaged on 3 occasions going 50+ mph bringing the car to a complete stop when there was nothing in front if it and a car right behind me. I was lucky the car behind me did not collide. If it had been a semi truck and just as close as the car trailing me, they w",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ENGINE MALFUNCTION PREVENTED THE VEHICLE TO ENGAGE AND A SIGNIFICANT LAG. CORRECTION OF THE FAILURE HAS BEEN ATTEMPTED TWICE AND A THIRD ATTEMPT TO CORRECT MALFUNCTION IS CURRENTLY IN PROGRESS WITH NO MOVEMENT AS OF YET. GAS TANK HAS BEEN DRAINED AND REFILLED AND DID NOT CORRECT ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After dealership did the second repair to the airbag recall, the airbag light came on and has been on solid . When taking the car back to The dealership to have it fixed ,We were clear about the whole thing over the phone   .the dealership  proceeded to charge me for a diagnostic",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "3 reports (11%)"
+      }
+    ]
+  }
+}

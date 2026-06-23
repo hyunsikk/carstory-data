@@ -1,0 +1,128 @@
+{
+  "slug": "2020-cadillac-xt5",
+  "make": "Cadillac",
+  "model": "XT5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CADILLAC/XT5#complaints",
+  "generatedAt": "2026-06-23T16:27:53.219Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Cadillac XT5. The contact stated while driving at an undisclosed speed, the contact heard abnormal noises coming from the vehicle. While attempting to accelerate, the vehicle hesitated. The vehicle was taken to the dealer; however, no cause for the failure",
+      "pct": 29
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING THE CAR NORMALLY AT NIGHT THE DASHBOARD LIGHTS WENT TO FULL INTENSITY WITHOUT DRIVER INPUT, AND WOULDN'T CHANGE.  A FEW MINUTES LATER THE REAR WINDSHIELD WIPER STARTED OPERATING AND WOULDN'T STOP.  TWENTY MINUTES LATER THE CAR FLASHED A NOTIFICATION THAT POWER STEERING AS",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE STALLS WITHOUT WARNING.  ENGINE STOPS RUNNING.  AFTER A SHORT TIME, IT CAN BE STARTED AFTER SEVERAL TRIES.  THIS HAS HAPPENED WHILE DRIVING ON A MAJOR CITY STREET, THERE IS A RECALL PENDING FOR REPLACEMNT OF FUEL PUMP MODULE.  IN THE MEANTIME IT IS AT DEALER (3 WEEKS) AND",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Auto shut down completely in the middle of the road. No one including tow truck driver could not  put vehicle into neutral.  Once the vehicle was towed to the dealership in was confirmed that battery just died and the dealership stated due to the electrical shifter there was no w",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving at low speed lost all power steering . Was able to get it back home . When checked again later power  steering was working .  While driving later that day brakes engaged to a sudden slamming stop , red abs engaged light flashed then went away . Both incidents could’",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Cadillac Xt5 owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Power Train (29% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Cadillac XT5. The contact stated while driving at an undisclosed speed, the contact heard abnormal noises coming from the vehicle. While attempting to accelerate, the vehicle hesitated. The vehicle was taken to the dealer; however, no cause for the failure",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "6 reports (29%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING THE CAR NORMALLY AT NIGHT THE DASHBOARD LIGHTS WENT TO FULL INTENSITY WITHOUT DRIVER INPUT, AND WOULDN'T CHANGE.  A FEW MINUTES LATER THE REAR WINDSHIELD WIPER STARTED OPERATING AND WOULDN'T STOP.  TWENTY MINUTES LATER THE CAR FLASHED A NOTIFICATION THAT POWER STEERING AS",
+        "pct": 29,
+        "title": "Steering",
+        "blurb": "6 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE STALLS WITHOUT WARNING.  ENGINE STOPS RUNNING.  AFTER A SHORT TIME, IT CAN BE STARTED AFTER SEVERAL TRIES.  THIS HAS HAPPENED WHILE DRIVING ON A MAJOR CITY STREET, THERE IS A RECALL PENDING FOR REPLACEMNT OF FUEL PUMP MODULE.  IN THE MEANTIME IT IS AT DEALER (3 WEEKS) AND",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Auto shut down completely in the middle of the road. No one including tow truck driver could not  put vehicle into neutral.  Once the vehicle was towed to the dealership in was confirmed that battery just died and the dealership stated due to the electrical shifter there was no w",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving at low speed lost all power steering . Was able to get it back home . When checked again later power  steering was working .  While driving later that day brakes engaged to a sudden slamming stop , red abs engaged light flashed then went away . Both incidents could’",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

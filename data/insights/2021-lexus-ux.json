@@ -1,0 +1,84 @@
+{
+  "slug": "2021-lexus-ux",
+  "make": "Lexus",
+  "model": "UX",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LEXUS/UX#complaints",
+  "generatedAt": "2026-06-23T16:37:35.667Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Tires came new with car in 2021.  The two front tires are chunking.  Back tires appear to be fine.   Car is not out of alignment, has never been in an accident, no off roading or parking on gravel surfaces.  Took it to a Lexus dealer and service rep. says he's never seen a car li",
+      "pct": 50
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing an urgent safety complaint regarding a defective Bridgestone tire on my 2021 Lexus UX250h, purchased new in 2021. At 32,000 miles, the [front left] tire shows abnormal tread tearing and separation, while the other tires show normal wear. This is not consistent with st",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Lexus UX250. The contact stated that while driving at 40 MPH, he T-boned another vehicle. The air bags failed to deploy. The air bag malfunction warning light was illuminated. The contact did not sustain any injuries. The vehicle was towed to a tow yard. A",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Lexus Ux owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Tires (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Tires came new with car in 2021.  The two front tires are chunking.  Back tires appear to be fine.   Car is not out of alignment, has never been in an accident, no off roading or parking on gravel surfaces.  Took it to a Lexus dealer and service rep. says he's never seen a car li",
+        "pct": 50,
+        "title": "Tires",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing an urgent safety complaint regarding a defective Bridgestone tire on my 2021 Lexus UX250h, purchased new in 2021. At 32,000 miles, the [front left] tire shows abnormal tread tearing and separation, while the other tires show normal wear. This is not consistent with st",
+        "pct": 25,
+        "title": "Wheels",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Lexus UX250. The contact stated that while driving at 40 MPH, he T-boned another vehicle. The air bags failed to deploy. The air bag malfunction warning light was illuminated. The contact did not sustain any injuries. The vehicle was towed to a tow yard. A",
+        "pct": 25,
+        "title": "Air Bags",
+        "blurb": "1 report (25%) · 1 crash"
+      }
+    ]
+  }
+}

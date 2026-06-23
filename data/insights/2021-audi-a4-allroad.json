@@ -1,0 +1,40 @@
+{
+  "slug": "2021-audi-a4-allroad",
+  "make": "Audi",
+  "model": "A4 allroad",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/A4%20ALLROAD#complaints",
+  "generatedAt": "2026-06-23T16:42:57.977Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On several occasions while vehicle was stationary at a stoplight or moving very slowly the emergency braking system deployed, with seat belt tensioner activated and brakes applied with characteristic thunk sound.  I could discern no threat at the time, but other cars were nearby.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi A4 Allroad owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (100% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On several occasions while vehicle was stationary at a stoplight or moving very slowly the emergency braking system deployed, with seat belt tensioner activated and brakes applied with characteristic thunk sound.  I could discern no threat at the time, but other cars were nearby.",
+        "pct": 100,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

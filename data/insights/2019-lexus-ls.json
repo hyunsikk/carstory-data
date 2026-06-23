@@ -1,0 +1,40 @@
+{
+  "slug": "2019-lexus-ls",
+  "make": "Lexus",
+  "model": "LS",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LEXUS/LS#complaints",
+  "generatedAt": "2026-06-23T16:37:23.262Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lexus LS500. The contact stated while driving approximately 45 MPH, the vehicle decelerated to 20 MPH and made a knocking sound. The contact was able to drive 15 MPH and pulled over off the roadway. There was no warning light illuminated. The vehicle was t",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Lexus Ls owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lexus LS500. The contact stated while driving approximately 45 MPH, the vehicle decelerated to 20 MPH and made a knocking sound. The contact was able to drive 15 MPH and pulled over off the roadway. There was no warning light illuminated. The vehicle was t",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

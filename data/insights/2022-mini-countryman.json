@@ -1,0 +1,40 @@
+{
+  "slug": "2022-mini-countryman",
+  "make": "MINI",
+  "model": "Countryman",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MINI/COUNTRYMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:36.929Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Phoenix, AZ. Temperature was 118*F.  Sunroof exploded while driving down highway.  Vehicle had been parked for 2 hours. I started the vehicle and turned on the air conditioning. 5 minutes later the sunroof exploded.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mini Countryman owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Phoenix, AZ. Temperature was 118*F.  Sunroof exploded while driving down highway.  Vehicle had been parked for 2 hours. I started the vehicle and turned on the air conditioning. 5 minutes later the sunroof exploded.",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "2 reports (100%) · 1 crash"
+      }
+    ]
+  }
+}

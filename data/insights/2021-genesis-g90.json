@@ -1,0 +1,128 @@
+{
+  "slug": "2021-genesis-g90",
+  "make": "Genesis",
+  "model": "G90",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GENESIS/G90#complaints",
+  "generatedAt": "2026-06-23T16:31:04.303Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving on interstate at 70mph while it was raining. Signaled and changed lanes. Steering wheel started jerking left and right and the power steering light flickered on and off. The steering wheel stopped jerking and the power steering light remained on. I no longer had power ste",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving on interstate at 70mph while it was raining. Signaled and changed lanes. Steering wheel started jerking left and right and the power steering light flickered on and off. The steering wheel stopped jerking and the power steering light remained on. I no longer had power ste",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle started smoking and stalled out Aug 18,2023. The vehicle starting shaking then I parked it for about two (2) hours. When I tried to crank vehicle again it wouldn’t crank. I attempted to complete diagnostic test but the vehicle wouldn’t remain on. I contacted dealershi",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle started smoking and stalled out Aug 18,2023. The vehicle starting shaking then I parked it for about two (2) hours. When I tried to crank vehicle again it wouldn’t crank. I attempted to complete diagnostic test but the vehicle wouldn’t remain on. I contacted dealershi",
+      "pct": 25
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is not about a tire failure but rather dangerous mis sizing of tires from factory.I bought the car new. It was never in an accident or had a flat tire and did not have service call until this week at 13000 or so miles.the service included tire rotation and balance, but the s",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Genesis G90 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving on interstate at 70mph while it was raining. Signaled and changed lanes. Steering wheel started jerking left and right and the power steering light flickered on and off. The steering wheel stopped jerking and the power steering light remained on. I no longer had power ste",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (50%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving on interstate at 70mph while it was raining. Signaled and changed lanes. Steering wheel started jerking left and right and the power steering light flickered on and off. The steering wheel stopped jerking and the power steering light remained on. I no longer had power ste",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle started smoking and stalled out Aug 18,2023. The vehicle starting shaking then I parked it for about two (2) hours. When I tried to crank vehicle again it wouldn’t crank. I attempted to complete diagnostic test but the vehicle wouldn’t remain on. I contacted dealershi",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle started smoking and stalled out Aug 18,2023. The vehicle starting shaking then I parked it for about two (2) hours. When I tried to crank vehicle again it wouldn’t crank. I attempted to complete diagnostic test but the vehicle wouldn’t remain on. I contacted dealershi",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is not about a tire failure but rather dangerous mis sizing of tires from factory.I bought the car new. It was never in an accident or had a flat tire and did not have service call until this week at 13000 or so miles.the service included tire rotation and balance, but the s",
+        "pct": 25,
+        "title": "Tires",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

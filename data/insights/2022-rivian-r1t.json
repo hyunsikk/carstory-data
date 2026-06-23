@@ -1,0 +1,128 @@
+{
+  "slug": "2022-rivian-r1t",
+  "make": "Rivian",
+  "model": "R1T",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/RIVIAN/R1T#complaints",
+  "generatedAt": "2026-06-23T16:40:28.935Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Was driving through an intersection in traffic when I heard a loud explosion/metal-on-metal sound from the front drivers side of the vehicle. Instantly received two warnings in the IP; one for \"Performance Limited\" and the other for \"Service Suspension Soon\". The IP also stated s",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "The Driver+ (D+) feature on the Rivians have both adaptive cruise control and lane centering active at the same time.  There is a function unknown to me that controls whether or not the D+ feature can turn on or remain on.  In certain situations, the D+ features asks the driver t",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle constantly pulls to the right, causing a completely worn tire 10k miles. Rivian states no one but them can do an ailment and I need to drive 4.5 hrs each way to get alignment done, w/on reimbursement of time or tire. Their is no way this is factual that they are the o",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When driving and when parked the digital instrument cluster and infotainment screen (2 screen) can spontaneously turn off.  This results in the entire instrument cluster being inaccessible while driving. Parking the vehicle for 20 minutes will recover the screens, but then it con",
+      "pct": 10
+    },
+    {
+      "component": "WHEELS",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On 9/23/23 at approximately 4:10pm, my Rivian R1T suffered a catastrophic failure of the left rear brake.  After exiting the freeway, I was slowing for a traffic signal primarily using the regenerative brake feature.  I applied light pressure to the brake pedal which initiated a ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Rivian R1t owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Suspension (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Was driving through an intersection in traffic when I heard a loud explosion/metal-on-metal sound from the front drivers side of the vehicle. Instantly received two warnings in the IP; one for \"Performance Limited\" and the other for \"Service Suspension Soon\". The IP also stated s",
+        "pct": 23,
+        "title": "Suspension",
+        "blurb": "14 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "The Driver+ (D+) feature on the Rivians have both adaptive cruise control and lane centering active at the same time.  There is a function unknown to me that controls whether or not the D+ feature can turn on or remain on.  In certain situations, the D+ features asks the driver t",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (20%) · 5 crash · 6 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle constantly pulls to the right, causing a completely worn tire 10k miles. Rivian states no one but them can do an ailment and I need to drive 4.5 hrs each way to get alignment done, w/on reimbursement of time or tire. Their is no way this is factual that they are the o",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "8 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When driving and when parked the digital instrument cluster and infotainment screen (2 screen) can spontaneously turn off.  This results in the entire instrument cluster being inaccessible while driving. Parking the vehicle for 20 minutes will recover the screens, but then it con",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "6 reports (10%) · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On 9/23/23 at approximately 4:10pm, my Rivian R1T suffered a catastrophic failure of the left rear brake.  After exiting the freeway, I was slowing for a traffic signal primarily using the regenerative brake feature.  I applied light pressure to the brake pedal which initiated a ",
+        "pct": 8,
+        "title": "Wheels",
+        "blurb": "5 reports (8%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

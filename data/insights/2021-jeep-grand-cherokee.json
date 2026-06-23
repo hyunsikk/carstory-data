@@ -1,0 +1,128 @@
+{
+  "slug": "2021-jeep-grand-cherokee",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/JEEP/GRAND%20CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T16:35:58.722Z",
+  "total": 396,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 113,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY NEW GRAND CHEROKEE WITH 121 MILES ON THE ODOMETER. AS I WAS MOVING FORWARD WITH THE VEHICLE IN DRIVE AND WAS ATTEMPTING TO TURN AROUND TO- RE-ENTER A HIGHWAY THE ENGINE STOPPED.  I IMMEDIATELY PUT THE VEHICLE IN PARK AND ATTEMPTED TO RESTART THE VEHICLE NUMEROUS ",
+      "pct": 29
+    },
+    {
+      "component": "STEERING",
+      "count": 102,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN I SHIFT THE TRANSFER CASE IN TO NEUTRAL, FOR TOWING BEHIND MY RV, AND THEN PUT THE TRANSFER CASE BACK IN TO GEAR SO I CAN DRIVE THE JEEP THE POWER STEERING IS INOPERABLE FOR 20-30 MINUTES.  IF I HAD AN EMERGENCY THE JEEP WOULD NOT BE ABLE TO BE DRIVEN FOR THAT TIME PERIOD.  ",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 60,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 30-45 MPH, THE TRANSMISSION FELT AS IF IT WAS SLIPPING. THERE WAS NO WARNING LIGHT ILLUMINATED.  THE CONTACT PULLED OVER TO THE SIDE OF THE ROAD AND TURNED OFF THE VEHICLE.  THE V",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 55,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Jeep Grand Cherokee. The contact stated that after purchasing the vehicle from the dealer, she attempted to shift the gear selector to neutral, however, the gear shifter failed. The contact stated that the steering wheel ceased. The contact stated that the",
+      "pct": 14
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 41,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High Beam headlights don't work when the headlight switch is in AUTO mode. Problem has been confirmed with Bozak Motors in Merrillville and they advised that there is a bulletin out advising them not to attempt repair as engineers are working on issue. Further research on my own ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Jeep Grand Cherokee owners report most",
+    "summary": "Across 396 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 113,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY NEW GRAND CHEROKEE WITH 121 MILES ON THE ODOMETER. AS I WAS MOVING FORWARD WITH THE VEHICLE IN DRIVE AND WAS ATTEMPTING TO TURN AROUND TO- RE-ENTER A HIGHWAY THE ENGINE STOPPED.  I IMMEDIATELY PUT THE VEHICLE IN PARK AND ATTEMPTED TO RESTART THE VEHICLE NUMEROUS ",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "113 reports (29%) · 4 fire · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 102,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN I SHIFT THE TRANSFER CASE IN TO NEUTRAL, FOR TOWING BEHIND MY RV, AND THEN PUT THE TRANSFER CASE BACK IN TO GEAR SO I CAN DRIVE THE JEEP THE POWER STEERING IS INOPERABLE FOR 20-30 MINUTES.  IF I HAD AN EMERGENCY THE JEEP WOULD NOT BE ABLE TO BE DRIVEN FOR THAT TIME PERIOD.  ",
+        "pct": 26,
+        "title": "Steering",
+        "blurb": "102 reports (26%) · 6 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 60,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 30-45 MPH, THE TRANSMISSION FELT AS IF IT WAS SLIPPING. THERE WAS NO WARNING LIGHT ILLUMINATED.  THE CONTACT PULLED OVER TO THE SIDE OF THE ROAD AND TURNED OFF THE VEHICLE.  THE V",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "60 reports (15%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 55,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Jeep Grand Cherokee. The contact stated that after purchasing the vehicle from the dealer, she attempted to shift the gear selector to neutral, however, the gear shifter failed. The contact stated that the steering wheel ceased. The contact stated that the",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "55 reports (14%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 41,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High Beam headlights don't work when the headlight switch is in AUTO mode. Problem has been confirmed with Bozak Motors in Merrillville and they advised that there is a bulletin out advising them not to attempt repair as engineers are working on issue. Further research on my own ",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "41 reports (10%) · 1 fire"
+      }
+    ]
+  }
+}

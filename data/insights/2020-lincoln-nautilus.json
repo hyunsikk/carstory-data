@@ -1,0 +1,128 @@
+{
+  "slug": "2020-lincoln-nautilus",
+  "make": "Lincoln",
+  "model": "Nautilus",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LINCOLN/NAUTILUS#complaints",
+  "generatedAt": "2026-06-23T16:37:52.467Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I’ve only had the car 2 weeks brought brand new from Crest Lincoln on May 28,2020.  Every time I try to accelerate the car doesn’t want to move , it sounds like it’s trying to get power.  It makes a humming noise then it slowly starts to move and the care jerks and pick up speed.",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car won't start when I press the brake and hit the start button, which then flashes green instead of staying green. I have to go through the same steps several times before it will turn on. The menu goes through the entire functions of the engine. For me, I never know if the e",
+      "pct": 11
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "High mount brake light (or third brake light) failure occurred September 2022 at 8,000 miles. Vehicle was repaired under warranty.  Failure of high mount brake light creates rear collision potential in low visibility scenarios.  The part (13613A High Mount Stop Lamp Assembly) app",
+      "pct": 11
+    },
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When I took the vehicle in for service, I had to replace all 20 lug nuts as the dealer service department reported they were \"swollen\" and they were unable to complete the tire rotation. This also poses a safety risk as if I had a flat tire, I could not get them off to change a t",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car won't start when I press the brake and hit the start button, which then flashes green instead of staying green. I have to go through the same steps several times before it will turn on. The menu goes through the entire functions of the engine. For me, I never know if the e",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lincoln Nautilus owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Power Train (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I’ve only had the car 2 weeks brought brand new from Crest Lincoln on May 28,2020.  Every time I try to accelerate the car doesn’t want to move , it sounds like it’s trying to get power.  It makes a humming noise then it slowly starts to move and the care jerks and pick up speed.",
+        "pct": 43,
+        "title": "Power Train",
+        "blurb": "12 reports (43%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car won't start when I press the brake and hit the start button, which then flashes green instead of staying green. I have to go through the same steps several times before it will turn on. The menu goes through the entire functions of the engine. For me, I never know if the e",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "3 reports (11%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "High mount brake light (or third brake light) failure occurred September 2022 at 8,000 miles. Vehicle was repaired under warranty.  Failure of high mount brake light creates rear collision potential in low visibility scenarios.  The part (13613A High Mount Stop Lamp Assembly) app",
+        "pct": 11,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When I took the vehicle in for service, I had to replace all 20 lug nuts as the dealer service department reported they were \"swollen\" and they were unable to complete the tire rotation. This also poses a safety risk as if I had a flat tire, I could not get them off to change a t",
+        "pct": 11,
+        "title": "Wheels",
+        "blurb": "3 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car won't start when I press the brake and hit the start button, which then flashes green instead of staying green. I have to go through the same steps several times before it will turn on. The menu goes through the entire functions of the engine. For me, I never know if the e",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "3 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-nissan-pathfinder",
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/PATHFINDER#complaints",
+  "generatedAt": "2026-06-23T16:39:28.920Z",
+  "total": 94,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has auto stop/start. When at a red light and vehicle stops moving engine will shut off. When light goes green and foot is removed from break, vehicle starts up. Sometimes when starting back up it goes into neutral automatically. Other times the vehicle attempts to start. ",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Water spilled onto console because cup the Lid was not sealed properly. The shifter became inoperable.  The components around the cup hold need to be protected from water damage.  As this is a safety issue. ESPECIALLY if it causes the car to not shift into gear? What if the spill",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I write to report the issues which are a safety hazard to me & whom ever operates it or I transport in it, Which creates a higher concern for my & their safety . I purchased a 2023 Nissan Pathfinder SL on July 6, 2023 an eight seater model  4WD with 8 miles on the speedometer man",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Loud Noise when starting the engine - Noise like a train 2. I’m driving along and my car just starts vrooming it’s stuck between gears. It cuts off and  changes gear to Neutral or just cut off.  Cars behind me literally almost wrecks everytime. 3. Panel on the driver side warf",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving, the \"AT\" warning light came on, the vehicle was making a griding noise.  Upon stopping for safety reasons, the vehicle would not engage into 'Park.\"  Once turned off and back on, the vehicle would not engage into drive from park, then finally went into drive.  In t",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Pathfinder owners report most",
+    "summary": "Across 94 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has auto stop/start. When at a red light and vehicle stops moving engine will shut off. When light goes green and foot is removed from break, vehicle starts up. Sometimes when starting back up it goes into neutral automatically. Other times the vehicle attempts to start. ",
+        "pct": 22,
+        "title": "Fuel/Propulsion System",
+        "blurb": "21 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Water spilled onto console because cup the Lid was not sealed properly. The shifter became inoperable.  The components around the cup hold need to be protected from water damage.  As this is a safety issue. ESPECIALLY if it causes the car to not shift into gear? What if the spill",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "20 reports (21%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I write to report the issues which are a safety hazard to me & whom ever operates it or I transport in it, Which creates a higher concern for my & their safety . I purchased a 2023 Nissan Pathfinder SL on July 6, 2023 an eight seater model  4WD with 8 miles on the speedometer man",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "19 reports (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Loud Noise when starting the engine - Noise like a train 2. I’m driving along and my car just starts vrooming it’s stuck between gears. It cuts off and  changes gear to Neutral or just cut off.  Cars behind me literally almost wrecks everytime. 3. Panel on the driver side warf",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "14 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving, the \"AT\" warning light came on, the vehicle was making a griding noise.  Upon stopping for safety reasons, the vehicle would not engage into 'Park.\"  Once turned off and back on, the vehicle would not engage into drive from park, then finally went into drive.  In t",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "11 reports (12%) · 1 crash"
+      }
+    ]
+  }
+}

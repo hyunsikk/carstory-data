@@ -1,0 +1,40 @@
+{
+  "slug": "2019-bmw-2-series",
+  "make": "BMW",
+  "model": "2 Series",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/2%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:42.193Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving the vehicle on the Florida turnpike I received the message that the coolant was low, then another message to pull over immediately to prevent engine overheat. I pulled over as soon as I could and the engine ceased to operate.   Took the vehicle to a BMW dealership a",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw 2 Series owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving the vehicle on the Florida turnpike I received the message that the coolant was low, then another message to pull over immediately to prevent engine overheat. I pulled over as soon as I could and the engine ceased to operate.   Took the vehicle to a BMW dealership a",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

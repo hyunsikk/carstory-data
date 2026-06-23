@@ -1,0 +1,128 @@
+{
+  "slug": "2023-nissan-ariya",
+  "make": "Nissan",
+  "model": "Ariya",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/ARIYA#complaints",
+  "generatedAt": "2026-06-23T16:39:08.004Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car abruptly changed from mph to kmh.   All safety aspects stay in mph, including speed limit and alert. So while on highway going 65mph, suddenly speed said 116kmh. But speed alerts were still saying “65”. Pro pilot on and car abruptly slowed down towards 65kmh on highway.   Onl",
+      "pct": 62
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car spontaneously shut down. \"EV OFF\" displayed on the screen. I was in the middle of the road and unable to turn on the car or shift into neutral to push it off the road. I had to wait over an hour for a tow while in the road. This appears to be an increasing problem as many",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car had an 80% charge and I was going 75 MPH on a major highway.  for the second time in five months the Ariya inexplicably shut off, went into neutral. I had to navigate three lanes to get off the nearest exit. The car immediately lost all power and decelerated from 75 miles ",
+      "pct": 23
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car abruptly changed from mph to kmh.   All safety aspects stay in mph, including speed limit and alert. So while on highway going 65mph, suddenly speed said 116kmh. But speed alerts were still saying “65”. Pro pilot on and car abruptly slowed down towards 65kmh on highway.   Onl",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car spontaneously shut down. \"EV OFF\" displayed on the screen. I was in the middle of the road and unable to turn on the car or shift into neutral to push it off the road. I had to wait over an hour for a tow while in the road. This appears to be an increasing problem as many",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Ariya owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Electrical System (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car abruptly changed from mph to kmh.   All safety aspects stay in mph, including speed limit and alert. So while on highway going 65mph, suddenly speed said 116kmh. But speed alerts were still saying “65”. Pro pilot on and car abruptly slowed down towards 65kmh on highway.   Onl",
+        "pct": 62,
+        "title": "Electrical System",
+        "blurb": "24 reports (62%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car spontaneously shut down. \"EV OFF\" displayed on the screen. I was in the middle of the road and unable to turn on the car or shift into neutral to push it off the road. I had to wait over an hour for a tow while in the road. This appears to be an increasing problem as many",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "9 reports (23%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car had an 80% charge and I was going 75 MPH on a major highway.  for the second time in five months the Ariya inexplicably shut off, went into neutral. I had to navigate three lanes to get off the nearest exit. The car immediately lost all power and decelerated from 75 miles ",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "9 reports (23%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car abruptly changed from mph to kmh.   All safety aspects stay in mph, including speed limit and alert. So while on highway going 65mph, suddenly speed said 116kmh. But speed alerts were still saying “65”. Pro pilot on and car abruptly slowed down towards 65kmh on highway.   Onl",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (13%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car spontaneously shut down. \"EV OFF\" displayed on the screen. I was in the middle of the road and unable to turn on the car or shift into neutral to push it off the road. I had to wait over an hour for a tow while in the road. This appears to be an increasing problem as many",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

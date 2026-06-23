@@ -1,0 +1,106 @@
+{
+  "slug": "2019-audi-s5",
+  "make": "Audi",
+  "model": "S5",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/S5#complaints",
+  "generatedAt": "2026-06-23T16:43:07.340Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon starting the vehicle while parked on 10/18/2025, dashboard displayed warning: \"Turn off engine and check coolant level. See owner's manual.\" Visual inspection revealed coolant residue on mechanical coolant pump switching valve N649 on cylinder head bank 1, indicating water p",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Odometer Fraud. The contact purchased a 2019 Audi S5.  It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase,  the vehicle mileage was 47,796 at the time of registration. The Carfax report, bill of sale  and title showed t",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our gas tank fuel level sensor is faulty so we can no longer tell how much gas is in our car.   The check engine and fuel light are permanently on.  This fuel sensor malfunction caused me to run out of gas in the middle of the road.  The only way to fix it is to replace the entir",
+      "pct": 17
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE TIRE PRESSURE MONITORING SYSTEM (TPMS) DID NOT FUNCTION AS REQUIRED, AND PRESSURE WAS DANGEROUSLY LOW WHICH SIGNIFICANTLY DAMAGED THE TIRES OVER A VERY SHORT PERIOD OF TIME (2-6 WEEKS). I AM CONCERNED GOING FORWARD IF THE TPMS UTILIZED ON THE S5 DOES NOT FUNCTION AS SHOULD BE",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi S5 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon starting the vehicle while parked on 10/18/2025, dashboard displayed warning: \"Turn off engine and check coolant level. See owner's manual.\" Visual inspection revealed coolant residue on mechanical coolant pump switching valve N649 on cylinder head bank 1, indicating water p",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Odometer Fraud. The contact purchased a 2019 Audi S5.  It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase,  the vehicle mileage was 47,796 at the time of registration. The Carfax report, bill of sale  and title showed t",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our gas tank fuel level sensor is faulty so we can no longer tell how much gas is in our car.   The check engine and fuel light are permanently on.  This fuel sensor malfunction caused me to run out of gas in the middle of the road.  The only way to fix it is to replace the entir",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE TIRE PRESSURE MONITORING SYSTEM (TPMS) DID NOT FUNCTION AS REQUIRED, AND PRESSURE WAS DANGEROUSLY LOW WHICH SIGNIFICANTLY DAMAGED THE TIRES OVER A VERY SHORT PERIOD OF TIME (2-6 WEEKS). I AM CONCERNED GOING FORWARD IF THE TPMS UTILIZED ON THE S5 DOES NOT FUNCTION AS SHOULD BE",
+        "pct": 17,
+        "title": "Wheels",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

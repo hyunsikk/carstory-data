@@ -1,0 +1,62 @@
+{
+  "slug": "2020-buick-regal",
+  "make": "Buick",
+  "model": "Regal",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BUICK/REGAL#complaints",
+  "generatedAt": "2026-06-23T16:27:31.190Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Proximity door unlock system rarely works goes in and out even with key fob in pocket and within Proximity. I've reported the problem to buick/Chevrolet many times, changed fob batteries and etc with no fix",
+      "pct": 50
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Buick Regal GS equipped with Continental ProContact TX Tires, Tire Size: 245/40/R19, DOT Number: 6Y66WBR71819. The contact stated while driving approximately 70 MPH, the TPMS warning light indicated that the rear driver’s side tire air pressure was low. Th",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Buick Regal owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Proximity door unlock system rarely works goes in and out even with key fob in pocket and within Proximity. I've reported the problem to buick/Chevrolet many times, changed fob batteries and etc with no fix",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Buick Regal GS equipped with Continental ProContact TX Tires, Tire Size: 245/40/R19, DOT Number: 6Y66WBR71819. The contact stated while driving approximately 70 MPH, the TPMS warning light indicated that the rear driver’s side tire air pressure was low. Th",
+        "pct": 50,
+        "title": "Tires",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

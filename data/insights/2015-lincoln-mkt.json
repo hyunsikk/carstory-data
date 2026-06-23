@@ -1,0 +1,128 @@
+{
+  "slug": "2015-lincoln-mkt",
+  "make": "Lincoln",
+  "model": "MKT",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/LINCOLN/MKT#complaints",
+  "generatedAt": "2026-06-23T16:37:44.682Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Lincoln MKT. The contact stated that the back over prevention camera intermittently failed to operate as needed. The contact stated that the image on the screen was distorted. Additionally, the contact stated that the back over prevention sensor failed to ",
+      "pct": 23
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I JUST GOT 2015 LINCOLN MKT LIVERY PACKAGE ON 07/14/2015.I FOUND THE SUNROOF SCREEN FRAM HAS A CRACK IN FOUR PLACES. I BELIVE THIS MAY CAUSE THE SCREEN TO DROP TO MY PASSENGERS OR CAUSE INJURY.I TAKE IT TO THE NEAREST FORD SERVICE CENTER THEY SAYED THEY DON'T BELIVE IT IS SAFETY ",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I DROVE IN MY DRIVEWAY. SHIFTED TO PARK AND TURNED OFF THE IGNITION, POPPED THE TRUNK RELEASE. EXITED THE CAR AND SAW THE TRUNK LID WAS DOWN. GOT THE REMOTE OUT OF MY POCKET AND PRESSED IT TO OPEN TRUNK . TRUNK STILL DIDN'T OPEN. WENT BACK TO DRIVER'S DOOR, OPENED IT AND THE ALAR",
+      "pct": 9
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONTACT OWNS A 2015 LINCOLN MKT. THE CONTACT STATED WHILE DRIVING 25 MPH, THE FRONT DRIVER’S SIDE DOOR OPENED INADVERTENTLY. THE VEHICLE WAS NOT TAKEN TO BE DIAGNOSED. A DEALER WAS NOT CONTACTED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT INFORMED OF THE FAILURE. ",
+      "pct": 5
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "JUST LIKE ALL THE OTHER CARS MADE BY FORD ON THEIR PLATFORM THE POWER STEERING LOCKED UP WHILE DRIVING. CAUSE A NEAR FATAL ACCIDENT.",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Lincoln Mkt owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Back Over Prevention (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Lincoln MKT. The contact stated that the back over prevention camera intermittently failed to operate as needed. The contact stated that the image on the screen was distorted. Additionally, the contact stated that the back over prevention sensor failed to ",
+        "pct": 23,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I JUST GOT 2015 LINCOLN MKT LIVERY PACKAGE ON 07/14/2015.I FOUND THE SUNROOF SCREEN FRAM HAS A CRACK IN FOUR PLACES. I BELIVE THIS MAY CAUSE THE SCREEN TO DROP TO MY PASSENGERS OR CAUSE INJURY.I TAKE IT TO THE NEAREST FORD SERVICE CENTER THEY SAYED THEY DON'T BELIVE IT IS SAFETY ",
+        "pct": 23,
+        "title": "Structure",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I DROVE IN MY DRIVEWAY. SHIFTED TO PARK AND TURNED OFF THE IGNITION, POPPED THE TRUNK RELEASE. EXITED THE CAR AND SAW THE TRUNK LID WAS DOWN. GOT THE REMOTE OUT OF MY POCKET AND PRESSED IT TO OPEN TRUNK . TRUNK STILL DIDN'T OPEN. WENT BACK TO DRIVER'S DOOR, OPENED IT AND THE ALAR",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "2 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONTACT OWNS A 2015 LINCOLN MKT. THE CONTACT STATED WHILE DRIVING 25 MPH, THE FRONT DRIVER’S SIDE DOOR OPENED INADVERTENTLY. THE VEHICLE WAS NOT TAKEN TO BE DIAGNOSED. A DEALER WAS NOT CONTACTED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT INFORMED OF THE FAILURE. ",
+        "pct": 5,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "JUST LIKE ALL THE OTHER CARS MADE BY FORD ON THEIR PLATFORM THE POWER STEERING LOCKED UP WHILE DRIVING. CAUSE A NEAR FATAL ACCIDENT.",
+        "pct": 5,
+        "title": "Steering",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

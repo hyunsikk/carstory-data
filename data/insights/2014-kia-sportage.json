@@ -1,0 +1,128 @@
+{
+  "slug": "2014-kia-sportage",
+  "make": "Kia",
+  "model": "Sportage",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/KIA/SPORTAGE#complaints",
+  "generatedAt": "2026-06-23T16:36:59.521Z",
+  "total": 122,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 71,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY LEASED 2014 KIA SPORTAGE,   THERE WAS NONSTOP CONTINUOUS  HESITATION \"BUCKING\", WITH WHITE SMOKE BLOWING OUT OF THE TAILPIPE, LOSS OF SPEED THEREFORE HAVING TO PRESS HARD ON GAS PEDAL TO AVOID ACCIDENT BY TRYING PULL OFF ROAD. THIS HAPPENS ON CITY ROADS AND HIGHW",
+      "pct": 58
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V051000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer ha",
+      "pct": 20
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V051000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer ha",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Low oil light had turned on and some strange noises began to sound coming from the front of the vehicle. The oil level however, did not seem terribly low, though new oil had been added to the vehicle nonetheless while waiting for a maintenance appointment the next day. While driv",
+      "pct": 7
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I DID AN OIL CHANGE ON MY SPORTAGE I TURNED ON MY CAR AND IT STARTED MAKING A LOUD NOISE AND IT WAS SHAKING WITH ALOT OF TURBULENCE, IT WAS YANKING AND FORCING ITSELF IT FELT LIKE IT WAS GOING TO SHUT DOWN IT WAS A SCARY FEELING SINCE I WAS DRIVING IT AND ALL OF A SUDDEN IT ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Kia Sportage owners report most",
+    "summary": "Across 122 owner complaints to NHTSA, the most reported area is Engine (58% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 71,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY LEASED 2014 KIA SPORTAGE,   THERE WAS NONSTOP CONTINUOUS  HESITATION \"BUCKING\", WITH WHITE SMOKE BLOWING OUT OF THE TAILPIPE, LOSS OF SPEED THEREFORE HAVING TO PRESS HARD ON GAS PEDAL TO AVOID ACCIDENT BY TRYING PULL OFF ROAD. THIS HAPPENS ON CITY ROADS AND HIGHW",
+        "pct": 58,
+        "title": "Engine",
+        "blurb": "71 reports (58%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V051000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer ha",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "24 reports (20%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V051000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer ha",
+        "pct": 17,
+        "title": "Hydraulic",
+        "blurb": "21 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Low oil light had turned on and some strange noises began to sound coming from the front of the vehicle. The oil level however, did not seem terribly low, though new oil had been added to the vehicle nonetheless while waiting for a maintenance appointment the next day. While driv",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "8 reports (7%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I DID AN OIL CHANGE ON MY SPORTAGE I TURNED ON MY CAR AND IT STARTED MAKING A LOUD NOISE AND IT WAS SHAKING WITH ALOT OF TURBULENCE, IT WAS YANKING AND FORCING ITSELF IT FELT LIKE IT WAS GOING TO SHUT DOWN IT WAS A SCARY FEELING SINCE I WAS DRIVING IT AND ALL OF A SUDDEN IT ",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (5%)"
+      }
+    ]
+  }
+}

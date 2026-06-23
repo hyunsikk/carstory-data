@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mini-cooper-se",
+  "make": "MINI",
+  "model": "Cooper SE",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MINI/COOPER%20SE#complaints",
+  "generatedAt": "2026-06-23T16:42:41.076Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The safety recall campaign 24V-612 is a complete farce.  It states that there is a safety defect with the high-voltage battery which could cause a fire, but the \"solution\" proposed by the manufacturer is a software change which discharges the battery, making the car essentially u",
+      "pct": 80
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+      "pct": 20
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving in the rain, the car suddenly applied its brakes, all lights inside the car shut off, and the car came to a stop. The car behind hit it. The car was immediately taken to the service department at Dreyer & Reinbold MINI in Carmel, Indiana. They kept the car for 3 mon",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving in the rain, the car suddenly applied its brakes, all lights inside the car shut off, and the car came to a stop. The car behind hit it. The car was immediately taken to the service department at Dreyer & Reinbold MINI in Carmel, Indiana. They kept the car for 3 mon",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mini Cooper Se owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (80% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The safety recall campaign 24V-612 is a complete farce.  It states that there is a safety defect with the high-voltage battery which could cause a fire, but the \"solution\" proposed by the manufacturer is a software change which discharges the battery, making the car essentially u",
+        "pct": 80,
+        "title": "Electrical System",
+        "blurb": "4 reports (80%) · 1 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+        "pct": 20,
+        "title": "Suspension",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's suspension system was improperly configured for its electric powertrain at the time of manufacture, resulting in an incorrect ride height that is incompatible with the vehicle's EV platform. This is not an isolated component failure but a fundamental design defect —",
+        "pct": 20,
+        "title": "Wheels",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving in the rain, the car suddenly applied its brakes, all lights inside the car shut off, and the car came to a stop. The car behind hit it. The car was immediately taken to the service department at Dreyer & Reinbold MINI in Carmel, Indiana. They kept the car for 3 mon",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "1 report (20%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving in the rain, the car suddenly applied its brakes, all lights inside the car shut off, and the car came to a stop. The car behind hit it. The car was immediately taken to the service department at Dreyer & Reinbold MINI in Carmel, Indiana. They kept the car for 3 mon",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%) · 1 crash"
+      }
+    ]
+  }
+}

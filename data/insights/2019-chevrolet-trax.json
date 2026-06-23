@@ -1,0 +1,128 @@
+{
+  "slug": "2019-chevrolet-trax",
+  "make": "Chevrolet",
+  "model": "Trax",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CHEVROLET/TRAX#complaints",
+  "generatedAt": "2026-06-23T16:44:52.120Z",
+  "total": 131,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 33,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 CHEVROLET TRAX. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION). GANLEY CHEVROLET (13865 BROOK PARK RD, BROOK PARK, OH 44142, (216) 586-5804) STATED THAT THE PART WAS NOT AVAILABLE AND WOULD BE ORDERED IN JULY OF ",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 CHEVROLET TRAX. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION). GANLEY CHEVROLET (13865 BROOK PARK RD, BROOK PARK, OH 44142, (216) 586-5804) STATED THAT THE PART WAS NOT AVAILABLE AND WOULD BE ORDERED IN JULY OF ",
+      "pct": 19
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 19,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 CHEVROLET TRAX. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION). SUMMIT CHEVROLET BUICK GMC (318 GRANT AVE, AUBURN, NY 13021, (315) 258-2000) AND THE MANUFACTURER STATED THAT THE PART WAS NOT AVAILABLE. THE CONTAC",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "BOUGHT CAR 4 DAYS AGO. STEERING PULLED TO LEFT. WAS ASSURED IT JUST NEEDED ALIGNMENT. NEXT DAY, DEALERSHIP DID A BOTCHED ALIGNMENT (GOT SECOND OPTION AND RE-DO AT BELLE TIRE, PROVING MY SUSPICIONS). ISSUE STILL HAPPENING.  CAR PULLS TO THE RIGHT' AND I FEEL LIKE I AM IN A DEATHTR",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "WHILE ON THE HIGHWAY, MY TRUCK WENT HARD RIGHT WHILE MY STEERING WHEEL WAS IN STRAIGHT POSITION. I ASKED MY PASSENGER DID YOU FEEL THAT . THEY SAID YES .IT WAS VERY SCARY AND HAPPENS VERY SPORADIC.ALSO THE BRAKES SEEM TO BE SOME TIMEY WITH STOPPING EFFICIENTLY, LIKE YOU EITHER ST",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Chevrolet Trax owners report most",
+    "summary": "Across 131 owner complaints to NHTSA, the most reported area is Engine (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 33,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 CHEVROLET TRAX. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION). GANLEY CHEVROLET (13865 BROOK PARK RD, BROOK PARK, OH 44142, (216) 586-5804) STATED THAT THE PART WAS NOT AVAILABLE AND WOULD BE ORDERED IN JULY OF ",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "33 reports (25%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 CHEVROLET TRAX. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION). GANLEY CHEVROLET (13865 BROOK PARK RD, BROOK PARK, OH 44142, (216) 586-5804) STATED THAT THE PART WAS NOT AVAILABLE AND WOULD BE ORDERED IN JULY OF ",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "25 reports (19%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 19,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 CHEVROLET TRAX. THE CONTACT RECEIVED A RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 19V312000 (SUSPENSION). SUMMIT CHEVROLET BUICK GMC (318 GRANT AVE, AUBURN, NY 13021, (315) 258-2000) AND THE MANUFACTURER STATED THAT THE PART WAS NOT AVAILABLE. THE CONTAC",
+        "pct": 15,
+        "title": "Suspension",
+        "blurb": "19 reports (15%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "BOUGHT CAR 4 DAYS AGO. STEERING PULLED TO LEFT. WAS ASSURED IT JUST NEEDED ALIGNMENT. NEXT DAY, DEALERSHIP DID A BOTCHED ALIGNMENT (GOT SECOND OPTION AND RE-DO AT BELLE TIRE, PROVING MY SUSPICIONS). ISSUE STILL HAPPENING.  CAR PULLS TO THE RIGHT' AND I FEEL LIKE I AM IN A DEATHTR",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "15 reports (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "WHILE ON THE HIGHWAY, MY TRUCK WENT HARD RIGHT WHILE MY STEERING WHEEL WAS IN STRAIGHT POSITION. I ASKED MY PASSENGER DID YOU FEEL THAT . THEY SAID YES .IT WAS VERY SCARY AND HAPPENS VERY SPORADIC.ALSO THE BRAKES SEEM TO BE SOME TIMEY WITH STOPPING EFFICIENTLY, LIKE YOU EITHER ST",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "14 reports (11%) · 4 crash · 4 injured"
+      }
+    ]
+  }
+}

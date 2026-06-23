@@ -1,0 +1,128 @@
+{
+  "slug": "2019-mini-clubman",
+  "make": "MINI",
+  "model": "Clubman",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/MINI/CLUBMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:38.605Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "January 28, 2024 I had a car accident and the air bags on my left side never deployed. The other vehicle crashed into the right side (passenger side) of my 2019 mini clubman which caused my 2019 mini clubman to spin around and hit another car on my left rear bumper.   As a result",
+      "pct": 33
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Mini Clubman. The contact stated that while driving at an undisclosed speed, the message \"Left Brake Light Malfunction\" was displayed. The vehicle returned to normal functionality, but the failure became a regular occurrence. No warning lights were illumin",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Manual transmission had an issue with 2nd gear not fully engaging and popping out under light acceleration. Transmission was replaced under warranty in December 2022. In April of 2024 the same issue occurred again where 2nd gear would not stay in gear after 18 months of having tr",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Mini Clubman All4, despite having clocked in a mere 33,000 miles in the past four years, has been plagued with issues concerning its air conditioning system.   Initially, I sought assistance from the Mini of Morristown dealership in Morristown, NJ, where my vehicle has been se",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2019 Mini Cooper Clubman. The contact stated while driving at 45 MPH with her 3 years old son in a car seat located in the rear seats. and coming to a stop, the brake pedal was depressed but failed to respond and vibrated while emitting an abnormal ticking sou",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Mini Clubman owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Air Bags (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "January 28, 2024 I had a car accident and the air bags on my left side never deployed. The other vehicle crashed into the right side (passenger side) of my 2019 mini clubman which caused my 2019 mini clubman to spin around and hit another car on my left rear bumper.   As a result",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "2 reports (33%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Mini Clubman. The contact stated that while driving at an undisclosed speed, the message \"Left Brake Light Malfunction\" was displayed. The vehicle returned to normal functionality, but the failure became a regular occurrence. No warning lights were illumin",
+        "pct": 17,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Manual transmission had an issue with 2nd gear not fully engaging and popping out under light acceleration. Transmission was replaced under warranty in December 2022. In April of 2024 the same issue occurred again where 2nd gear would not stay in gear after 18 months of having tr",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Mini Clubman All4, despite having clocked in a mere 33,000 miles in the past four years, has been plagued with issues concerning its air conditioning system.   Initially, I sought assistance from the Mini of Morristown dealership in Morristown, NJ, where my vehicle has been se",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2019 Mini Cooper Clubman. The contact stated while driving at 45 MPH with her 3 years old son in a car seat located in the rear seats. and coming to a stop, the brake pedal was depressed but failed to respond and vibrated while emitting an abnormal ticking sou",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%) · 1 crash"
+      }
+    ]
+  }
+}

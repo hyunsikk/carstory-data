@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-suburban",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/SUBURBAN#complaints",
+  "generatedAt": "2026-06-23T16:28:49.684Z",
+  "total": 36,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving in the left lane of a two lane highway at highway speed of approx 65-70 mph the engine shut down. The instrument cluster said to “Press button to start engine”. I had no power. There was no throttle response. Luckily I was on a slight decline and was able to safely ",
+      "pct": 47
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On[XXX], at approximately [XXX], while driving on [XXX] at a speed of 80 mph, my vehicle suddenly lost all power and shut down without warning. I had no choice but to steer to the shoulder lane amidst high-speed traffic on the busy interstate. After coming to a stop, the car woul",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 25V274000(Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The contact stated that while driving at an undisclosed speed and depress",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light came on at 14k miles indicating there was an emissions error. The brakes squeal and have had to be replaced 3 times since the original purchase in March of 2024. After the third replacement of brakes they still squeal. Even if the car is not braking it make",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light came on at 14k miles indicating there was an emissions error. The brakes squeal and have had to be replaced 3 times since the original purchase in March of 2024. After the third replacement of brakes they still squeal. Even if the car is not braking it make",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Suburban owners report most",
+    "summary": "Across 36 owner complaints to NHTSA, the most reported area is Engine (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving in the left lane of a two lane highway at highway speed of approx 65-70 mph the engine shut down. The instrument cluster said to “Press button to start engine”. I had no power. There was no throttle response. Luckily I was on a slight decline and was able to safely ",
+        "pct": 47,
+        "title": "Engine",
+        "blurb": "17 reports (47%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On[XXX], at approximately [XXX], while driving on [XXX] at a speed of 80 mph, my vehicle suddenly lost all power and shut down without warning. I had no choice but to steer to the shoulder lane amidst high-speed traffic on the busy interstate. After coming to a stop, the car woul",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "6 reports (17%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 25V274000(Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The contact stated that while driving at an undisclosed speed and depress",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "6 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light came on at 14k miles indicating there was an emissions error. The brakes squeal and have had to be replaced 3 times since the original purchase in March of 2024. After the third replacement of brakes they still squeal. Even if the car is not braking it make",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "5 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light came on at 14k miles indicating there was an emissions error. The brakes squeal and have had to be replaced 3 times since the original purchase in March of 2024. After the third replacement of brakes they still squeal. Even if the car is not braking it make",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "4 reports (11%)"
+      }
+    ]
+  }
+}

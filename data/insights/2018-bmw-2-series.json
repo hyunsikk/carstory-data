@@ -1,0 +1,84 @@
+{
+  "slug": "2018-bmw-2-series",
+  "make": "BMW",
+  "model": "2 Series",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/2%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:42.221Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING DOWN THE FREEWAY AT 65MPH, CAR ENGINE JUST SHUTS DOWN. NO POWER STEERING, NO WAY TO GET OVER. CAR DISPLAY SAYS DRIVE TRAIN ERROR. CAR GOT TOWED TO THE DEALER FOR SERVICE, DEALER \"FIXES\" ISSUE. 2 DAYS LATER, EXACT SAME THING HAPPENS AGAIN ON THE FREEWAY AT 65MPH. ENGINE JU",
+      "pct": 67
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2018 2 SERIES XDRIVE CONVERTIBLE WITH 18' PIRELLI RUN FLAT TIRES. THIS IS MY SECOND 2 SERIES.  I HAVE HAD 6 OF THESE TIRES BLOW DUE TO POTHOLES OVER THE TWO CARS I HAVE HAD OVER 4 YEARS. THE LAST ONE THAT BLEW WAS ON FRIDAY ON I65 JUST SOUTH OF LOUISVILLE. I HAD TO WAIT ",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING DOWN THE FREEWAY AT 65MPH, CAR ENGINE JUST SHUTS DOWN. NO POWER STEERING, NO WAY TO GET OVER. CAR DISPLAY SAYS DRIVE TRAIN ERROR. CAR GOT TOWED TO THE DEALER FOR SERVICE, DEALER \"FIXES\" ISSUE. 2 DAYS LATER, EXACT SAME THING HAPPENS AGAIN ON THE FREEWAY AT 65MPH. ENGINE JU",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw 2 Series owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING DOWN THE FREEWAY AT 65MPH, CAR ENGINE JUST SHUTS DOWN. NO POWER STEERING, NO WAY TO GET OVER. CAR DISPLAY SAYS DRIVE TRAIN ERROR. CAR GOT TOWED TO THE DEALER FOR SERVICE, DEALER \"FIXES\" ISSUE. 2 DAYS LATER, EXACT SAME THING HAPPENS AGAIN ON THE FREEWAY AT 65MPH. ENGINE JU",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2018 2 SERIES XDRIVE CONVERTIBLE WITH 18' PIRELLI RUN FLAT TIRES. THIS IS MY SECOND 2 SERIES.  I HAVE HAD 6 OF THESE TIRES BLOW DUE TO POTHOLES OVER THE TWO CARS I HAVE HAD OVER 4 YEARS. THE LAST ONE THAT BLEW WAS ON FRIDAY ON I65 JUST SOUTH OF LOUISVILLE. I HAD TO WAIT ",
+        "pct": 33,
+        "title": "Wheels",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING DOWN THE FREEWAY AT 65MPH, CAR ENGINE JUST SHUTS DOWN. NO POWER STEERING, NO WAY TO GET OVER. CAR DISPLAY SAYS DRIVE TRAIN ERROR. CAR GOT TOWED TO THE DEALER FOR SERVICE, DEALER \"FIXES\" ISSUE. 2 DAYS LATER, EXACT SAME THING HAPPENS AGAIN ON THE FREEWAY AT 65MPH. ENGINE JU",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

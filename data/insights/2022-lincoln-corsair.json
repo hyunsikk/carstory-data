@@ -1,0 +1,128 @@
+{
+  "slug": "2022-lincoln-corsair",
+  "make": "Lincoln",
+  "model": "Corsair",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LINCOLN/CORSAIR#complaints",
+  "generatedAt": "2026-06-23T16:37:40.686Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The screen in which my backup camera appears on seems to not be connected to my vehicle. This screen is also the primary method for controlling AC, radio, parking/camera, and general settings. Initially it was black and did not turn on. After doing some type of “reset” that was s",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Prior issue 11497970 reported on 12/19/2022. Car stopped without warning in traffic on November 30 and would not start or switch gears to neutral.  Towed to Hines Park Lincoln and spent 16 days in the repair shop. It was returned to me on December 15. On December 20, I started th",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "This luxury car has seat three seat memory positions: When you press the button the seat should go back to the computer-stored position (For the seat and steering wheel). The computer-stored position does not remember the position resulting in one getting jammed against the steer",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Prior issue 11497970 reported on 12/19/2022. Car stopped without warning in traffic on November 30 and would not start or switch gears to neutral.  Towed to Hines Park Lincoln and spent 16 days in the repair shop. It was returned to me on December 15. On December 20, I started th",
+      "pct": 11
+    },
+    {
+      "component": "SEATS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This luxury car has seat three seat memory positions: When you press the button the seat should go back to the computer-stored position (For the seat and steering wheel). The computer-stored position does not remember the position resulting in one getting jammed against the steer",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Lincoln Corsair owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Back Over Prevention (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The screen in which my backup camera appears on seems to not be connected to my vehicle. This screen is also the primary method for controlling AC, radio, parking/camera, and general settings. Initially it was black and did not turn on. After doing some type of “reset” that was s",
+        "pct": 29,
+        "title": "Back Over Prevention",
+        "blurb": "8 reports (29%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Prior issue 11497970 reported on 12/19/2022. Car stopped without warning in traffic on November 30 and would not start or switch gears to neutral.  Towed to Hines Park Lincoln and spent 16 days in the repair shop. It was returned to me on December 15. On December 20, I started th",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "7 reports (25%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "This luxury car has seat three seat memory positions: When you press the button the seat should go back to the computer-stored position (For the seat and steering wheel). The computer-stored position does not remember the position resulting in one getting jammed against the steer",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "4 reports (14%) · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Prior issue 11497970 reported on 12/19/2022. Car stopped without warning in traffic on November 30 and would not start or switch gears to neutral.  Towed to Hines Park Lincoln and spent 16 days in the repair shop. It was returned to me on December 15. On December 20, I started th",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This luxury car has seat three seat memory positions: When you press the button the seat should go back to the computer-stored position (For the seat and steering wheel). The computer-stored position does not remember the position resulting in one getting jammed against the steer",
+        "pct": 11,
+        "title": "Seats",
+        "blurb": "3 reports (11%)"
+      }
+    ]
+  }
+}

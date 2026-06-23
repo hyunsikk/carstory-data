@@ -1,0 +1,128 @@
+{
+  "slug": "2015-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/FORD/FIESTA#complaints",
+  "generatedAt": "2026-06-23T16:30:31.211Z",
+  "total": 257,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 104,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "01/19/2015 MY BOYFRIEND HAD DRIVEN MY CAR TO THE STORE, ABOUT ONE MILE FROM MY HOME. ABOUT 10:40 PM.      RECEIPT SHOWS THAT HE HAD CHECKED OUT AT 10:53 PM. HE TELLS ME THAT HE ENTERED MY CAR ABOUT 3 MINUTES LATER, BECAUSE IT WAS PARKED CLOSE TO THE STORE, HE LOADED THE SHOPPING ",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 69,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2015 FORD FIESTA TITANIUM WITH FORD SMART KEY SYSTEM. WE ARE ABLE TO ENTER VEHICLE AND START IT WITHOUT HAVING SMART KEY INSIDE VEHICLE. DRIVE 200 FEET WITH NO WARNING KEY WASN'T IN THE VEHICLE, AS WELL AS SHUT DOWN AND RESTART ENGINE 3 TIMES WITHOUT KEY WITHIN CLOSE PROXIMITY. C",
+      "pct": 27
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 40,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THIS PROBLEM INITIALLY SURFACED WITH LESS THAN 2500 MILES ON THE VEHICLE.  IMMEDIATELY AFTER REFUELING MY VEHICLE, THE ENGINE WOULD STUMBLE AND SOMETIMES STALL COMPLETELY, WHILE AT A STOP AND WITH THE ENGINE IDLING.  THE FORD DEALERSHIP DETERMINED THE PROBLEM TO BE A FAULTY EVAPO",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS ALL CAME ABOUT AT 11:30 PM WHEN LEAVING THE WORK PLACE THE CAR WOULD NOT PROVIDE HEATING TO THE DEFROSTERS OR OTHER AREAS AFTER THE ENGINE WAS AT OPERATING TEMP. THE OUTSIDE TEMP WAS AT MINUS SIX AND WIND CHILL BELOW THAT NUMBER.THE CAR WAS DRIVEN HOME A DISTANCE OF FIVE PLU",
+      "pct": 7
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 14,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2015 FORD FIESTA. WHILE DRIVING 20 MPH, THE CONTACT'S VEHICLE WAS INVOLVED IN A SIDE IMPACT COLLISION. THE AIR BAGS FAILED TO DEPLOY. THE VEHICLE WAS TOWED TO A BODY SHOP. A POLICE REPORT WAS FILED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE CON",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Ford Fiesta owners report most",
+    "summary": "Across 257 owner complaints to NHTSA, the most reported area is Power Train (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 104,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "01/19/2015 MY BOYFRIEND HAD DRIVEN MY CAR TO THE STORE, ABOUT ONE MILE FROM MY HOME. ABOUT 10:40 PM.      RECEIPT SHOWS THAT HE HAD CHECKED OUT AT 10:53 PM. HE TELLS ME THAT HE ENTERED MY CAR ABOUT 3 MINUTES LATER, BECAUSE IT WAS PARKED CLOSE TO THE STORE, HE LOADED THE SHOPPING ",
+        "pct": 40,
+        "title": "Power Train",
+        "blurb": "104 reports (40%) · 4 crash · 15 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 69,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2015 FORD FIESTA TITANIUM WITH FORD SMART KEY SYSTEM. WE ARE ABLE TO ENTER VEHICLE AND START IT WITHOUT HAVING SMART KEY INSIDE VEHICLE. DRIVE 200 FEET WITH NO WARNING KEY WASN'T IN THE VEHICLE, AS WELL AS SHUT DOWN AND RESTART ENGINE 3 TIMES WITHOUT KEY WITHIN CLOSE PROXIMITY. C",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "69 reports (27%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 40,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THIS PROBLEM INITIALLY SURFACED WITH LESS THAN 2500 MILES ON THE VEHICLE.  IMMEDIATELY AFTER REFUELING MY VEHICLE, THE ENGINE WOULD STUMBLE AND SOMETIMES STALL COMPLETELY, WHILE AT A STOP AND WITH THE ENGINE IDLING.  THE FORD DEALERSHIP DETERMINED THE PROBLEM TO BE A FAULTY EVAPO",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "40 reports (16%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS ALL CAME ABOUT AT 11:30 PM WHEN LEAVING THE WORK PLACE THE CAR WOULD NOT PROVIDE HEATING TO THE DEFROSTERS OR OTHER AREAS AFTER THE ENGINE WAS AT OPERATING TEMP. THE OUTSIDE TEMP WAS AT MINUS SIX AND WIND CHILL BELOW THAT NUMBER.THE CAR WAS DRIVEN HOME A DISTANCE OF FIVE PLU",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "19 reports (7%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 14,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2015 FORD FIESTA. WHILE DRIVING 20 MPH, THE CONTACT'S VEHICLE WAS INVOLVED IN A SIDE IMPACT COLLISION. THE AIR BAGS FAILED TO DEPLOY. THE VEHICLE WAS TOWED TO A BODY SHOP. A POLICE REPORT WAS FILED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE. THE CON",
+        "pct": 5,
+        "title": "Air Bags",
+        "blurb": "14 reports (5%) · 7 crash · 9 injured"
+      }
+    ]
+  }
+}

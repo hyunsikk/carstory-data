@@ -1,0 +1,128 @@
+{
+  "slug": "2023-gmc-canyon",
+  "make": "GMC",
+  "model": "Canyon",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GMC/CANYON#complaints",
+  "generatedAt": "2026-06-23T16:31:25.739Z",
+  "total": 53,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 GMC Canyon. The contact stated that the vehicle had experienced several electrical failures and would fail to start due to a faulty battery. The contact stated that after the manufacturer remotely completed an unknown electrical update on the vehicle, the ",
+      "pct": 34
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 GMC Canyon. The contact stated while driving 20 MPH, while making a right turn, the left turn signal activated and blinked three times. The contact stated that the Adaptive Cruise Control intermittently activated the brakes independently, and the Forward C",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While slowly driving, like when parking or trying to park vehicle in garage, it will randomly surge when almost at complete stop forcing vehicle to lunge forward requiring operator to apply quick additional firm braking.  It almost feels like vehicle is creeping in 2nd gear and d",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 GMC Canyon. The contact stated that the vehicle had experienced several electrical failures and would fail to start due to a faulty battery. The contact stated that after the manufacturer remotely completed an unknown electrical update on the vehicle, the ",
+      "pct": 13
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Blind spot warning system continues to illuminate when traveling on two lane roads with no objects in the blind spot(false positives).  Especially the passenger side.  I continue to be distracted while driving to check the mirror to see what is there, nothing.  Then while traveli",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Gmc Canyon owners report most",
+    "summary": "Across 53 owner complaints to NHTSA, the most reported area is Electrical System (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 GMC Canyon. The contact stated that the vehicle had experienced several electrical failures and would fail to start due to a faulty battery. The contact stated that after the manufacturer remotely completed an unknown electrical update on the vehicle, the ",
+        "pct": 34,
+        "title": "Electrical System",
+        "blurb": "18 reports (34%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 GMC Canyon. The contact stated while driving 20 MPH, while making a right turn, the left turn signal activated and blinked three times. The contact stated that the Adaptive Cruise Control intermittently activated the brakes independently, and the Forward C",
+        "pct": 32,
+        "title": "Forward Collision Avoidance",
+        "blurb": "17 reports (32%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While slowly driving, like when parking or trying to park vehicle in garage, it will randomly surge when almost at complete stop forcing vehicle to lunge forward requiring operator to apply quick additional firm braking.  It almost feels like vehicle is creeping in 2nd gear and d",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "10 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 GMC Canyon. The contact stated that the vehicle had experienced several electrical failures and would fail to start due to a faulty battery. The contact stated that after the manufacturer remotely completed an unknown electrical update on the vehicle, the ",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "7 reports (13%) · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Blind spot warning system continues to illuminate when traveling on two lane roads with no objects in the blind spot(false positives).  Especially the passenger side.  I continue to be distracted while driving to check the mirror to see what is there, nothing.  Then while traveli",
+        "pct": 11,
+        "title": "Lane Departure",
+        "blurb": "6 reports (11%)"
+      }
+    ]
+  }
+}

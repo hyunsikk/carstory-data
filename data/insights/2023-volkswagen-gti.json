@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-gti",
+  "make": "Volkswagen",
+  "model": "GTI",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/GTI#complaints",
+  "generatedAt": "2026-06-23T16:41:57.296Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VW has implemented a so-called and unwanted safety feature called \"Hill Assist\" which locks the brakes on manual transmisson models when at a standstill which has many times nearly caused an accident.  This system locks the brakes when the clutch is activated and brakes are appli",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup camera, parking sensors, traffic sensors, A/C frequently are disabled. “Component protection mode” is activated and it says it must be taken to the dealer for these items to work. I must manually reset the system in order to get these to work, resetting the system only som",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The hill assist feature causes the vehicle to stall due to long hold times. It's caused me to back up traffic numerous times and has almost caused people behind me to rear end me",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VW has implemented a so-called and unwanted safety feature called \"Hill Assist\" which locks the brakes on manual transmisson models when at a standstill which has many times nearly caused an accident.  This system locks the brakes when the clutch is activated and brakes are appli",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2023 VW GTI with a manual transmission.  It has a feature called \"Hill Hold Assist\", where it enables the parking brake when you are uphill and at a stop, at a red traffic light, for example.  The issue is the feature does not disengage the parking brake for about 3 seco",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Gti owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VW has implemented a so-called and unwanted safety feature called \"Hill Assist\" which locks the brakes on manual transmisson models when at a standstill which has many times nearly caused an accident.  This system locks the brakes when the clutch is activated and brakes are appli",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup camera, parking sensors, traffic sensors, A/C frequently are disabled. “Component protection mode” is activated and it says it must be taken to the dealer for these items to work. I must manually reset the system in order to get these to work, resetting the system only som",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The hill assist feature causes the vehicle to stall due to long hold times. It's caused me to back up traffic numerous times and has almost caused people behind me to rear end me",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VW has implemented a so-called and unwanted safety feature called \"Hill Assist\" which locks the brakes on manual transmisson models when at a standstill which has many times nearly caused an accident.  This system locks the brakes when the clutch is activated and brakes are appli",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2023 VW GTI with a manual transmission.  It has a feature called \"Hill Hold Assist\", where it enables the parking brake when you are uphill and at a stop, at a red traffic light, for example.  The issue is the feature does not disengage the parking brake for about 3 seco",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

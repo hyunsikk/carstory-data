@@ -1,0 +1,128 @@
+{
+  "slug": "2018-lincoln-mkz",
+  "make": "Lincoln",
+  "model": "MKZ",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LINCOLN/MKZ#complaints",
+  "generatedAt": "2026-06-23T16:37:51.124Z",
+  "total": 27,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own a 2018 Lincoln MKZ. Starting the second week in January I started to notice a strange smell in the cabin of my car and outside of my car. I told my husband that I was smelling something strange, and he noticed that the exhaust was a billowy white smoke. My husband noticed t",
+      "pct": 30
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON DRIVING THE VEHICLE, IT HAS STALLED SEVEN TIMES. TWO OF THOSE INCIDENTS INVOLVED VEHICLE GOING INTO PARK WITHOUT TOUCHING THE PARK BUTTON. AS IT WAS SHIFTING INTO PARK, THERE WAS A LOUD CLICKING SOUND AS THOUGH THE VEHICLE WAS 'FIGHTING' GOING INTO PARK. THEN THE VEHICLE DIE",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Lincoln MKZ. The contact stated while driving 30 MPH, the engine light illuminated. While the vehicle was idling, there was an abnormal sound coming from the vehicle. The vehicle was taken to an independent mechanic, who referred the contact to the local d",
+      "pct": 7
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "REAR LIFT GATE ASSEMBLY CENTER LED STRIP IS FILLED WITH WATER.  THIS CAUSES AN ELECTRICAL  SHORT CONDITION THAT RESULTS IN THE REVERSE LIGHTS TO BE ON AT ALL TIMES WHEN DRIVING.  VEHICLE WILL NOT PASS MA INSPECTION AND HAS BEEN CITED FOR THIS INFRACTION.  NO DAMAGE TO LIFT GATE, ",
+      "pct": 7
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 LINCOLN MKZ. THE CONTACT STATED THAT WHILE DEPRESSING THE WINDOW SWITCH FOR THE DRIVER'S SIDE REAR WINDOW, THE BLIND SPOT WARNING SYSTEM WAS DEACTIVATED. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. A DEALER WAS NOT CONTACTED. THE MANUFACTURER HAD NOT B",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lincoln Mkz owners report most",
+    "summary": "Across 27 owner complaints to NHTSA, the most reported area is Engine (30% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own a 2018 Lincoln MKZ. Starting the second week in January I started to notice a strange smell in the cabin of my car and outside of my car. I told my husband that I was smelling something strange, and he noticed that the exhaust was a billowy white smoke. My husband noticed t",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "8 reports (30%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON DRIVING THE VEHICLE, IT HAS STALLED SEVEN TIMES. TWO OF THOSE INCIDENTS INVOLVED VEHICLE GOING INTO PARK WITHOUT TOUCHING THE PARK BUTTON. AS IT WAS SHIFTING INTO PARK, THERE WAS A LOUD CLICKING SOUND AS THOUGH THE VEHICLE WAS 'FIGHTING' GOING INTO PARK. THEN THE VEHICLE DIE",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "8 reports (30%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Lincoln MKZ. The contact stated while driving 30 MPH, the engine light illuminated. While the vehicle was idling, there was an abnormal sound coming from the vehicle. The vehicle was taken to an independent mechanic, who referred the contact to the local d",
+        "pct": 7,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "REAR LIFT GATE ASSEMBLY CENTER LED STRIP IS FILLED WITH WATER.  THIS CAUSES AN ELECTRICAL  SHORT CONDITION THAT RESULTS IN THE REVERSE LIGHTS TO BE ON AT ALL TIMES WHEN DRIVING.  VEHICLE WILL NOT PASS MA INSPECTION AND HAS BEEN CITED FOR THIS INFRACTION.  NO DAMAGE TO LIFT GATE, ",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 LINCOLN MKZ. THE CONTACT STATED THAT WHILE DEPRESSING THE WINDOW SWITCH FOR THE DRIVER'S SIDE REAR WINDOW, THE BLIND SPOT WARNING SYSTEM WAS DEACTIVATED. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. A DEALER WAS NOT CONTACTED. THE MANUFACTURER HAD NOT B",
+        "pct": 7,
+        "title": "Lane Departure",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

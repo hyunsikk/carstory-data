@@ -1,0 +1,128 @@
+{
+  "slug": "2021-cadillac-escalade",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CADILLAC/ESCALADE#complaints",
+  "generatedAt": "2026-06-23T16:27:46.927Z",
+  "total": 72,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 39,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING WITHIN THE SPEED LIMIT OF APPROXIMATELY 65 MPH ON A 3 LANE HIGHWAY ON ROUTE 476 IN PENNSYLVANIA, THE ABILITY TO ACCELERATE OR MAINTAIN SPEED WAS INEXPLICABLY DISABLED.  I WAS FORCED TO ATTEMPT TO MOVE THE VEHICLE ACROSS MULTIPLE LANES IN AN EFFORT TO REACH THE BREAK",
+      "pct": 54
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 CADILLAC ESCALADE. THE CONTACT STATED WHILE DRIVING 40 MPH, THE DASHBOARD INDICATOR BEGAN TO FLICKER AND THEN WENT BLANK. THE VEHICLE WAS TAKEN TO THE LOCAL DEALER BAKER MOTOR COMPANY OF CHARLESTON (1513 SAVANNAH HWY SUITE A, CHARLESTON, SC 29407, (843",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac Escalade. The contact stated that while driving approximately 70 MPH, the message \"Service Transmission Now - Unable to Shift Soon\" was displayed. The vehicle was later driven to the local dealer however, the cause of the failure was not yet deter",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac Escalade. The contact stated while driving 70 MPH, the vehicle started jerking significantly. The check engine and traction control warning lights were illuminated, and a message advising of a rear axle failure was displayed. The contact was able ",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I recently purchased a 2021 Cadillac Escalade with Supercruise driver assistance system.  There have been at least 5 instances where I attempted to turn off the Supercruise function and the system does not allow me to regain control of the vehicle.  For example, I will turn off t",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Cadillac Escalade owners report most",
+    "summary": "Across 72 owner complaints to NHTSA, the most reported area is Engine (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 39,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING WITHIN THE SPEED LIMIT OF APPROXIMATELY 65 MPH ON A 3 LANE HIGHWAY ON ROUTE 476 IN PENNSYLVANIA, THE ABILITY TO ACCELERATE OR MAINTAIN SPEED WAS INEXPLICABLY DISABLED.  I WAS FORCED TO ATTEMPT TO MOVE THE VEHICLE ACROSS MULTIPLE LANES IN AN EFFORT TO REACH THE BREAK",
+        "pct": 54,
+        "title": "Engine",
+        "blurb": "39 reports (54%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 CADILLAC ESCALADE. THE CONTACT STATED WHILE DRIVING 40 MPH, THE DASHBOARD INDICATOR BEGAN TO FLICKER AND THEN WENT BLANK. THE VEHICLE WAS TAKEN TO THE LOCAL DEALER BAKER MOTOR COMPANY OF CHARLESTON (1513 SAVANNAH HWY SUITE A, CHARLESTON, SC 29407, (843",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "10 reports (14%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac Escalade. The contact stated that while driving approximately 70 MPH, the message \"Service Transmission Now - Unable to Shift Soon\" was displayed. The vehicle was later driven to the local dealer however, the cause of the failure was not yet deter",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "8 reports (11%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac Escalade. The contact stated while driving 70 MPH, the vehicle started jerking significantly. The check engine and traction control warning lights were illuminated, and a message advising of a rear axle failure was displayed. The contact was able ",
+        "pct": 11,
+        "title": "Engine And Engine Cooling",
+        "blurb": "8 reports (11%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I recently purchased a 2021 Cadillac Escalade with Supercruise driver assistance system.  There have been at least 5 instances where I attempted to turn off the Supercruise function and the system does not allow me to regain control of the vehicle.  For example, I will turn off t",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (10%)"
+      }
+    ]
+  }
+}

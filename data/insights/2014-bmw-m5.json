@@ -1,0 +1,84 @@
+{
+  "slug": "2014-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/BMW/M5#complaints",
+  "generatedAt": "2026-06-23T16:26:47.640Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BEHAVIOR OF MY CAR'S DCT TRANSMISSION HAS CREATED A DANGEROUS SITUATION WHICH ALMOST RESULTED IN AN ACCIDENT FOR ME. I BELIEVE THIS IS DUE TO A SOFTWARE CHANGE BMW MADE TO THE DCT TRANSMISSION. THE ISSUE IS AS FOLLOWS:    -WHEN DRIVING AT HIGHWAY SPEED, WHEN YOU RELEASE THE THROT",
+      "pct": 100
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BEHAVIOR OF MY CAR'S DCT TRANSMISSION HAS CREATED A DANGEROUS SITUATION WHICH ALMOST RESULTED IN AN ACCIDENT FOR ME. I BELIEVE THIS IS DUE TO A SOFTWARE CHANGE BMW MADE TO THE DCT TRANSMISSION. THE ISSUE IS AS FOLLOWS:    -WHEN DRIVING AT HIGHWAY SPEED, WHEN YOU RELEASE THE THROT",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BEHAVIOR OF MY CAR'S DCT TRANSMISSION HAS CREATED A DANGEROUS SITUATION WHICH ALMOST RESULTED IN AN ACCIDENT FOR ME. I BELIEVE THIS IS DUE TO A SOFTWARE CHANGE BMW MADE TO THE DCT TRANSMISSION. THE ISSUE IS AS FOLLOWS:    -WHEN DRIVING AT HIGHWAY SPEED, WHEN YOU RELEASE THE THROT",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Bmw M5 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BEHAVIOR OF MY CAR'S DCT TRANSMISSION HAS CREATED A DANGEROUS SITUATION WHICH ALMOST RESULTED IN AN ACCIDENT FOR ME. I BELIEVE THIS IS DUE TO A SOFTWARE CHANGE BMW MADE TO THE DCT TRANSMISSION. THE ISSUE IS AS FOLLOWS:    -WHEN DRIVING AT HIGHWAY SPEED, WHEN YOU RELEASE THE THROT",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "2 reports (100%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BEHAVIOR OF MY CAR'S DCT TRANSMISSION HAS CREATED A DANGEROUS SITUATION WHICH ALMOST RESULTED IN AN ACCIDENT FOR ME. I BELIEVE THIS IS DUE TO A SOFTWARE CHANGE BMW MADE TO THE DCT TRANSMISSION. THE ISSUE IS AS FOLLOWS:    -WHEN DRIVING AT HIGHWAY SPEED, WHEN YOU RELEASE THE THROT",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BEHAVIOR OF MY CAR'S DCT TRANSMISSION HAS CREATED A DANGEROUS SITUATION WHICH ALMOST RESULTED IN AN ACCIDENT FOR ME. I BELIEVE THIS IS DUE TO A SOFTWARE CHANGE BMW MADE TO THE DCT TRANSMISSION. THE ISSUE IS AS FOLLOWS:    -WHEN DRIVING AT HIGHWAY SPEED, WHEN YOU RELEASE THE THROT",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

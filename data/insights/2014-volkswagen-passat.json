@@ -1,0 +1,128 @@
+{
+  "slug": "2014-volkswagen-passat",
+  "make": "Volkswagen",
+  "model": "Passat",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/VOLKSWAGEN/PASSAT#complaints",
+  "generatedAt": "2026-06-23T16:42:13.021Z",
+  "total": 592,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 352,
+      "crash": 12,
+      "fire": 1,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN PASSAT. WHILE DRIVING APPROXIMATELY 45 MPH, THE CONTACT HEARD A CLICKING AND POPPING NOISE WHENEVER THE STEERING WHEEL WAS TURNED. THE AIR BAG WARNING LIGHT ILLUMINATED, WHICH NOTIFIED THE CONTACT OF AN AIR BAG DEPLOYMENT FAILURE; HOWEVER, T",
+      "pct": 59
+    },
+    {
+      "component": "ENGINE",
+      "count": 77,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TURBOCHARGER FAILED. STARTED MAKING NOISES, THEN POWER LOSSES, THEN DASHBOARD LIGHTS. BY THE TIME I GOT TO THE DEALERSHIP, IT WAS NO LONGER DRIVABLE. DEALERSHIP DIAGNOSED TURBOCHARGER FAILURE DUE TO 'INTERNAL MALFUNCTION' AND STATED THAT IT WAS NOT A PROBLEM THAT COULD HAVE BEEN ",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 72,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED 2014 FULLY LOADED PASSAT ON 10/26/13, SAFETY ISSUE WITH CAR DUE TO MY 1.5 HR DAILY COMMUTE. EXTREMELY POOR QUALITY WHEN USING BLUETOOTH THROUGH CARE STEREO, NOT RECOGNIZING NAMES ON IPHONE 4S CAUSING DRIVER TO REMOVE EYES FROM ROAD TO LOOK UP NUMBER WHICH IS A MAJOR DIS",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 47,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MILES ON CAR AT FAILURE: 21,755  CORRECTIVE ACTIONS FROM DEALERSHIP: REPLACED TURBO, GASKETS, REFLASH, CHECK PARTICULATE FILTER AND REPLACE.  OUTSIDE AIR TEMPS AT FAILURE:20S  30S  FAILURE WARNING SIGNS, IF ANY: TURBO BEGAN MAKING HORRIBLE WHINING SOUND ON SUNDAY AFTERNOON MARCH ",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 43,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN PASSAT. THE CONTACT STATED THAT THE ENGINE WAS SLOW TO START UPON DEPRESSING THE ACCELERATOR PEDAL AND WOULD ACCELERATE WITHOUT WARNING.  THE VEHICLE WOULD ALSO DRIFT TO THE RIGHT WHEN TRAVELING VARIOUS SPEEDS. ADDITIONALLY, THE STEERING WHE",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Volkswagen Passat owners report most",
+    "summary": "Across 592 owner complaints to NHTSA, the most reported area is Air Bags (59% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 352,
+        "crash": 12,
+        "fire": 1,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN PASSAT. WHILE DRIVING APPROXIMATELY 45 MPH, THE CONTACT HEARD A CLICKING AND POPPING NOISE WHENEVER THE STEERING WHEEL WAS TURNED. THE AIR BAG WARNING LIGHT ILLUMINATED, WHICH NOTIFIED THE CONTACT OF AN AIR BAG DEPLOYMENT FAILURE; HOWEVER, T",
+        "pct": 59,
+        "title": "Air Bags",
+        "blurb": "352 reports (59%) · 1 fire · 12 crash · 9 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 77,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TURBOCHARGER FAILED. STARTED MAKING NOISES, THEN POWER LOSSES, THEN DASHBOARD LIGHTS. BY THE TIME I GOT TO THE DEALERSHIP, IT WAS NO LONGER DRIVABLE. DEALERSHIP DIAGNOSED TURBOCHARGER FAILURE DUE TO 'INTERNAL MALFUNCTION' AND STATED THAT IT WAS NOT A PROBLEM THAT COULD HAVE BEEN ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "77 reports (13%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 72,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED 2014 FULLY LOADED PASSAT ON 10/26/13, SAFETY ISSUE WITH CAR DUE TO MY 1.5 HR DAILY COMMUTE. EXTREMELY POOR QUALITY WHEN USING BLUETOOTH THROUGH CARE STEREO, NOT RECOGNIZING NAMES ON IPHONE 4S CAUSING DRIVER TO REMOVE EYES FROM ROAD TO LOOK UP NUMBER WHICH IS A MAJOR DIS",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "72 reports (12%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 47,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MILES ON CAR AT FAILURE: 21,755  CORRECTIVE ACTIONS FROM DEALERSHIP: REPLACED TURBO, GASKETS, REFLASH, CHECK PARTICULATE FILTER AND REPLACE.  OUTSIDE AIR TEMPS AT FAILURE:20S  30S  FAILURE WARNING SIGNS, IF ANY: TURBO BEGAN MAKING HORRIBLE WHINING SOUND ON SUNDAY AFTERNOON MARCH ",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "47 reports (8%) · 2 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 43,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN PASSAT. THE CONTACT STATED THAT THE ENGINE WAS SLOW TO START UPON DEPRESSING THE ACCELERATOR PEDAL AND WOULD ACCELERATE WITHOUT WARNING.  THE VEHICLE WOULD ALSO DRIFT TO THE RIGHT WHEN TRAVELING VARIOUS SPEEDS. ADDITIONALLY, THE STEERING WHE",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "43 reports (7%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

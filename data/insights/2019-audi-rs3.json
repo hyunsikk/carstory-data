@@ -1,0 +1,128 @@
+{
+  "slug": "2019-audi-rs3",
+  "make": "Audi",
+  "model": "RS3",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/RS3#complaints",
+  "generatedAt": "2026-06-23T16:43:28.178Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR KEEPS THROWING DRIVE ERRORS, SYSTEM MALFUNCTIONS, AND THROWS NO TROUBLE CODES? I BROUGHT THIS TO THE ATTENTION OF AUDI, AND GOT NO ANSWER.  CAN YOU INVESTIGATE A HACKED TCU/ECU?  I DON'T HAVE THE GEAR.*DT  CONSUMER STATED ELECTRONIC OIL SENSOR MIGHT HAVE NEVER WORKED. DIPS",
+      "pct": 60
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I first began noticing symptoms of a cooling system issue on May 23, 2024, including engine temperature fluctuations and loss of coolant, on my 2019 Audi RS3. Over time, the issue worsened, eventually requiring a full replacement of both the water pump and thermostat on January 1",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "[XXX] Unable to fill the vehicle with fuel normally, with the nozzle clicking off repeatedly,  required trickle of fuel to partially fill tank.  Same day system failure under normal driving conditions with fuel leak spraying fuel from the gas tank and overflowing under excessive ",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle has the Audi recall 69BY that came out on March 22, 2021. There is currently still no remedy and its November 19th, 2021. Its been nearly 8 months.   The pre-sense warning light and the airbag light are glaring on the dash at all times. Nobody can sit in the passenger ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR KEEPS THROWING DRIVE ERRORS, SYSTEM MALFUNCTIONS, AND THROWS NO TROUBLE CODES? I BROUGHT THIS TO THE ATTENTION OF AUDI, AND GOT NO ANSWER.  CAN YOU INVESTIGATE A HACKED TCU/ECU?  I DON'T HAVE THE GEAR.*DT  CONSUMER STATED ELECTRONIC OIL SENSOR MIGHT HAVE NEVER WORKED. DIPS",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi Rs3 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (60% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR KEEPS THROWING DRIVE ERRORS, SYSTEM MALFUNCTIONS, AND THROWS NO TROUBLE CODES? I BROUGHT THIS TO THE ATTENTION OF AUDI, AND GOT NO ANSWER.  CAN YOU INVESTIGATE A HACKED TCU/ECU?  I DON'T HAVE THE GEAR.*DT  CONSUMER STATED ELECTRONIC OIL SENSOR MIGHT HAVE NEVER WORKED. DIPS",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I first began noticing symptoms of a cooling system issue on May 23, 2024, including engine temperature fluctuations and loss of coolant, on my 2019 Audi RS3. Over time, the issue worsened, eventually requiring a full replacement of both the water pump and thermostat on January 1",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "[XXX] Unable to fill the vehicle with fuel normally, with the nozzle clicking off repeatedly,  required trickle of fuel to partially fill tank.  Same day system failure under normal driving conditions with fuel leak spraying fuel from the gas tank and overflowing under excessive ",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle has the Audi recall 69BY that came out on March 22, 2021. There is currently still no remedy and its November 19th, 2021. Its been nearly 8 months.   The pre-sense warning light and the airbag light are glaring on the dash at all times. Nobody can sit in the passenger ",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR KEEPS THROWING DRIVE ERRORS, SYSTEM MALFUNCTIONS, AND THROWS NO TROUBLE CODES? I BROUGHT THIS TO THE ATTENTION OF AUDI, AND GOT NO ANSWER.  CAN YOU INVESTIGATE A HACKED TCU/ECU?  I DON'T HAVE THE GEAR.*DT  CONSUMER STATED ELECTRONIC OIL SENSOR MIGHT HAVE NEVER WORKED. DIPS",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

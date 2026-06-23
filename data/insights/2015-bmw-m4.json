@@ -1,0 +1,128 @@
+{
+  "slug": "2015-bmw-m4",
+  "make": "BMW",
+  "model": "M4",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/BMW/M4#complaints",
+  "generatedAt": "2026-06-23T16:43:55.401Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE'S A KNOWN ISSUE WITH 2015+ BMW F80 M3 S55 ENGINE. THE ISSUE IS THE CRANK HUB SPINNING OUT AND DAMAGING THE CAR. IT LEAVES THE VEHICLE IN A DANGEROUS STATE WHEN DRIVING ON THE ROAD AND TO OTHERS NEAR BY. THIS ISSUE HAPPENS TO STOCK VEHICLES AND MODDED ONES.  LINKS ABOUT IT: ",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVER SIDE DOOR LOCK FAIL TO UNLOCK TO ALLOW DOOR OPEN WHEN INTERIOR DOOR RELEASE PULLED. OCCURRED OCCASIONALLY AT FIRST, NOW REGULARLY BUT NOT ALWAYS. THE CAR DESIGNED TO AUTOMATICALLY LOCKS WHEN DRIVEN, ONCE CAR PARKED AND READY TO GET OUT, DOOR LEVER FAILS TO UNLOCK AND ALLOW",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE'S A KNOWN ISSUE WITH 2015+ BMW F80 M3 S55 ENGINE. THE ISSUE IS THE CRANK HUB SPINNING OUT AND DAMAGING THE CAR. IT LEAVES THE VEHICLE IN A DANGEROUS STATE WHEN DRIVING ON THE ROAD AND TO OTHERS NEAR BY. THIS ISSUE HAPPENS TO STOCK VEHICLES AND MODDED ONES.  LINKS ABOUT IT: ",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The ABS module, which controls the brake drying feature, is malfunctioning. This BMW feature is designed to lightly pulse the brakes when the windshield wipers are active to wipe water off the rotors for better braking performance. The intervention is supposed to be imperceptible",
+      "pct": 8
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVER SIDE DOOR LOCK FAIL TO UNLOCK TO ALLOW DOOR OPEN WHEN INTERIOR DOOR RELEASE PULLED. OCCURRED OCCASIONALLY AT FIRST, NOW REGULARLY BUT NOT ALWAYS. THE CAR DESIGNED TO AUTOMATICALLY LOCKS WHEN DRIVEN, ONCE CAR PARKED AND READY TO GET OUT, DOOR LEVER FAILS TO UNLOCK AND ALLOW",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Bmw M4 owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Engine (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE'S A KNOWN ISSUE WITH 2015+ BMW F80 M3 S55 ENGINE. THE ISSUE IS THE CRANK HUB SPINNING OUT AND DAMAGING THE CAR. IT LEAVES THE VEHICLE IN A DANGEROUS STATE WHEN DRIVING ON THE ROAD AND TO OTHERS NEAR BY. THIS ISSUE HAPPENS TO STOCK VEHICLES AND MODDED ONES.  LINKS ABOUT IT: ",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "5 reports (42%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVER SIDE DOOR LOCK FAIL TO UNLOCK TO ALLOW DOOR OPEN WHEN INTERIOR DOOR RELEASE PULLED. OCCURRED OCCASIONALLY AT FIRST, NOW REGULARLY BUT NOT ALWAYS. THE CAR DESIGNED TO AUTOMATICALLY LOCKS WHEN DRIVEN, ONCE CAR PARKED AND READY TO GET OUT, DOOR LEVER FAILS TO UNLOCK AND ALLOW",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "4 reports (33%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE'S A KNOWN ISSUE WITH 2015+ BMW F80 M3 S55 ENGINE. THE ISSUE IS THE CRANK HUB SPINNING OUT AND DAMAGING THE CAR. IT LEAVES THE VEHICLE IN A DANGEROUS STATE WHEN DRIVING ON THE ROAD AND TO OTHERS NEAR BY. THIS ISSUE HAPPENS TO STOCK VEHICLES AND MODDED ONES.  LINKS ABOUT IT: ",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "4 reports (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The ABS module, which controls the brake drying feature, is malfunctioning. This BMW feature is designed to lightly pulse the brakes when the windshield wipers are active to wipe water off the rotors for better braking performance. The intervention is supposed to be imperceptible",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVER SIDE DOOR LOCK FAIL TO UNLOCK TO ALLOW DOOR OPEN WHEN INTERIOR DOOR RELEASE PULLED. OCCURRED OCCASIONALLY AT FIRST, NOW REGULARLY BUT NOT ALWAYS. THE CAR DESIGNED TO AUTOMATICALLY LOCKS WHEN DRIVEN, ONCE CAR PARKED AND READY TO GET OUT, DOOR LEVER FAILS TO UNLOCK AND ALLOW",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

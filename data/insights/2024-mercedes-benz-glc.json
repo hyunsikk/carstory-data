@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mercedes-benz-glc",
+  "make": "Mercedes-Benz",
+  "model": "GLC",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/GLC#complaints",
+  "generatedAt": "2026-06-23T16:38:36.082Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2 SEPERATE ISSUE DIGITAL LIGHTING FAILED, THEN 2ND ISSUE WHICH IS STILL BEING WORKED ON, BEEN A WEEK WITHOUT THE VEHICLE WHICH IS ONLY A MONTH OLD WITH 1100 MILES ON IT, THE ENTITE SYSTEM ISNT WORKING WITH LOTS OF CODE ERROR MESSAGES AND WILL NOT START. THE CURRENT UPDATE FROM ME",
+      "pct": 29
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new '24 GLC300 4MATIC.  Engine light came on with no error message.  Brought it in for service.  Miscellaneous engine repair states:  \"Found current code POA7F00 in drivetrain control unit.  Followed LI54.10-P-077250.  Cleared codes.  Drained 48V battery to below 25% SOC.  ",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "2 SEPERATE ISSUE DIGITAL LIGHTING FAILED, THEN 2ND ISSUE WHICH IS STILL BEING WORKED ON, BEEN A WEEK WITHOUT THE VEHICLE WHICH IS ONLY A MONTH OLD WITH 1100 MILES ON IT, THE ENTITE SYSTEM ISNT WORKING WITH LOTS OF CODE ERROR MESSAGES AND WILL NOT START. THE CURRENT UPDATE FROM ME",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The reverse sensors are faulty, causing the GLC300 model to randomly auto-brake while going in reverse. My driveway is flat and long with no significant grade changes and this has occurred at another location as well with similar topography. There are no obstructions present nor ",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "After giving a pressure to the brakes, the car feels like the brakes are being slipped towards the end, so I have to hold the brakes hard at the end. I have tried different models of Mercedes such as E class but the brake of E class works exactly opposite from GLC 300. When I giv",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Glc owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Engine (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2 SEPERATE ISSUE DIGITAL LIGHTING FAILED, THEN 2ND ISSUE WHICH IS STILL BEING WORKED ON, BEEN A WEEK WITHOUT THE VEHICLE WHICH IS ONLY A MONTH OLD WITH 1100 MILES ON IT, THE ENTITE SYSTEM ISNT WORKING WITH LOTS OF CODE ERROR MESSAGES AND WILL NOT START. THE CURRENT UPDATE FROM ME",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "8 reports (29%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new '24 GLC300 4MATIC.  Engine light came on with no error message.  Brought it in for service.  Miscellaneous engine repair states:  \"Found current code POA7F00 in drivetrain control unit.  Followed LI54.10-P-077250.  Cleared codes.  Drained 48V battery to below 25% SOC.  ",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "7 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "2 SEPERATE ISSUE DIGITAL LIGHTING FAILED, THEN 2ND ISSUE WHICH IS STILL BEING WORKED ON, BEEN A WEEK WITHOUT THE VEHICLE WHICH IS ONLY A MONTH OLD WITH 1100 MILES ON IT, THE ENTITE SYSTEM ISNT WORKING WITH LOTS OF CODE ERROR MESSAGES AND WILL NOT START. THE CURRENT UPDATE FROM ME",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "7 reports (25%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The reverse sensors are faulty, causing the GLC300 model to randomly auto-brake while going in reverse. My driveway is flat and long with no significant grade changes and this has occurred at another location as well with similar topography. There are no obstructions present nor ",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (18%) · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "After giving a pressure to the brakes, the car feels like the brakes are being slipped towards the end, so I have to hold the brakes hard at the end. I have tried different models of Mercedes such as E class but the brake of E class works exactly opposite from GLC 300. When I giv",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "3 reports (11%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

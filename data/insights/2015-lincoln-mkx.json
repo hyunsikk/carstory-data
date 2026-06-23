@@ -1,0 +1,128 @@
+{
+  "slug": "2015-lincoln-mkx",
+  "make": "Lincoln",
+  "model": "MKX",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/LINCOLN/MKX#complaints",
+  "generatedAt": "2026-06-23T16:37:47.655Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 LINCOLN MKX. WHILE DRIVING VARIOUS SPEEDS, THE CONTACT SMELLED AN OIL ODOR EMITTING FROM THE AIR VENTS IN THE VEHICLE. THE VEHICLE WAS TAKEN TO A DEALER WHO WAS UNABLE TO DIAGNOSE OR REPAIR THE VEHICLE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE.",
+      "pct": 32
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY VEHICLE CHANGES FROM AUTOMATIC TO SORTS MODE AND SHOWS SHIFT CHANGING ON DASH, WHICH CAUSES IT TO GO FROM ANY SPEED TO 5MPH INSTANTLY. IT PULLS CAR BACK AND CAUSES SUDDEN SPEED CHANGE AND IS VERY DANGEROUS. I HAVE TAKEN IT TO THE DEALER SINCE PURCHASED VARIOUS TI",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 LINCOLN MKX. WHILE DRIVING APPROXIMATELY 25 MPH, THE VEHICLE EXPERIENCED A COMPLETE LOSS OF POWER AND THE LOW OIL PRESSURE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TOWED TO THE DEALER, WHERE IT WAS DIAGNOSED THAT THE COMPUTERS HAD A GLITCH, WHICH",
+      "pct": 26
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear camera can’t see behind me very well the dealership I but the car changed the camera and the screen in the car and the problem is still here it work when it cold outside but when got warm it stop working again",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY VEHICLE CHANGES FROM AUTOMATIC TO SORTS MODE AND SHOWS SHIFT CHANGING ON DASH, WHICH CAUSES IT TO GO FROM ANY SPEED TO 5MPH INSTANTLY. IT PULLS CAR BACK AND CAUSES SUDDEN SPEED CHANGE AND IS VERY DANGEROUS. I HAVE TAKEN IT TO THE DEALER SINCE PURCHASED VARIOUS TI",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Lincoln Mkx owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 LINCOLN MKX. WHILE DRIVING VARIOUS SPEEDS, THE CONTACT SMELLED AN OIL ODOR EMITTING FROM THE AIR VENTS IN THE VEHICLE. THE VEHICLE WAS TAKEN TO A DEALER WHO WAS UNABLE TO DIAGNOSE OR REPAIR THE VEHICLE. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE.",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "6 reports (32%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY VEHICLE CHANGES FROM AUTOMATIC TO SORTS MODE AND SHOWS SHIFT CHANGING ON DASH, WHICH CAUSES IT TO GO FROM ANY SPEED TO 5MPH INSTANTLY. IT PULLS CAR BACK AND CAUSES SUDDEN SPEED CHANGE AND IS VERY DANGEROUS. I HAVE TAKEN IT TO THE DEALER SINCE PURCHASED VARIOUS TI",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "5 reports (26%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 LINCOLN MKX. WHILE DRIVING APPROXIMATELY 25 MPH, THE VEHICLE EXPERIENCED A COMPLETE LOSS OF POWER AND THE LOW OIL PRESSURE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TOWED TO THE DEALER, WHERE IT WAS DIAGNOSED THAT THE COMPUTERS HAD A GLITCH, WHICH",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "5 reports (26%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear camera can’t see behind me very well the dealership I but the car changed the camera and the screen in the car and the problem is still here it work when it cold outside but when got warm it stop working again",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY VEHICLE CHANGES FROM AUTOMATIC TO SORTS MODE AND SHOWS SHIFT CHANGING ON DASH, WHICH CAUSES IT TO GO FROM ANY SPEED TO 5MPH INSTANTLY. IT PULLS CAR BACK AND CAUSES SUDDEN SPEED CHANGE AND IS VERY DANGEROUS. I HAVE TAKEN IT TO THE DEALER SINCE PURCHASED VARIOUS TI",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

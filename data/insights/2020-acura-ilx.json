@@ -1,0 +1,128 @@
+{
+  "slug": "2020-acura-ilx",
+  "make": "Acura",
+  "model": "ILX",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ACURA/ILX#complaints",
+  "generatedAt": "2026-06-23T16:24:45.530Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The factory original windshield wipers caused micro scratches in the glass. Dirt cannot be thoroughly cleaned from the scratches and collects more dirt during driving. When facing the sun, dirt particles in the scratches reflect in the scratches obstructing clear vision. Changing",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am experiencing an issue with my brakes. When I am at a red light and I brake, I find my brakes start to descend.  So it's brake, then the brake moves a bit down towards the floor. Then it moves down a bit more. I am still able to brake but I find that the brake pedal moves dow",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "[XXX]  [XXX]  Email: [XXX]   Subject: CarMax auto and CarMax auto finance  RE: CarMax auto finance [XXX]  Phone: 18009253612 Website: carmax auto finance Transaction Date: 10/23/2023 Amount Paid: 29976 Payment Method: Credit Card  I bought a car with Carmax Finance and from the b",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Smart Unit failure caused constant triggering of the alarm at all hours, headlights would not turn off, dashboard controls shorting out.",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Acura ILX 2020 has less than 40.000 miles and has a mechanical problem that can not be fixed and it is dangerous for my self and others. In my opinion this is related to the stearing of the car  and it is very dagerous knowing that you take your car to be repair and the dealer",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Acura Ilx owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Visibility/Wiper (33% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The factory original windshield wipers caused micro scratches in the glass. Dirt cannot be thoroughly cleaned from the scratches and collects more dirt during driving. When facing the sun, dirt particles in the scratches reflect in the scratches obstructing clear vision. Changing",
+        "pct": 33,
+        "title": "Visibility/Wiper",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am experiencing an issue with my brakes. When I am at a red light and I brake, I find my brakes start to descend.  So it's brake, then the brake moves a bit down towards the floor. Then it moves down a bit more. I am still able to brake but I find that the brake pedal moves dow",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "[XXX]  [XXX]  Email: [XXX]   Subject: CarMax auto and CarMax auto finance  RE: CarMax auto finance [XXX]  Phone: 18009253612 Website: carmax auto finance Transaction Date: 10/23/2023 Amount Paid: 29976 Payment Method: Credit Card  I bought a car with Carmax Finance and from the b",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Smart Unit failure caused constant triggering of the alarm at all hours, headlights would not turn off, dashboard controls shorting out.",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Acura ILX 2020 has less than 40.000 miles and has a mechanical problem that can not be fixed and it is dangerous for my self and others. In my opinion this is related to the stearing of the car  and it is very dagerous knowing that you take your car to be repair and the dealer",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

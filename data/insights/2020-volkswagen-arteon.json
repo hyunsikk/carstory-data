@@ -1,0 +1,40 @@
+{
+  "slug": "2020-volkswagen-arteon",
+  "make": "Volkswagen",
+  "model": "Arteon",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/VOLKSWAGEN/ARTEON#complaints",
+  "generatedAt": "2026-06-23T16:45:51.865Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On my driver's screen, an error message popped up that read \"SOS, ERROR: Emergency call function. Service vehicle!\"  I took my car to the dealership.  This was in November of 2023.   They were able to remove the error message but the module itself was broken and the SOS feature w",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Volkswagen Arteon owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On my driver's screen, an error message popped up that read \"SOS, ERROR: Emergency call function. Service vehicle!\"  I took my car to the dealership.  This was in November of 2023.   They were able to remove the error message but the module itself was broken and the SOS feature w",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "2 reports (100%)"
+      }
+    ]
+  }
+}

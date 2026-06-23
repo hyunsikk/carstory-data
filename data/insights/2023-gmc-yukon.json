@@ -1,0 +1,128 @@
+{
+  "slug": "2023-gmc-yukon",
+  "make": "GMC",
+  "model": "Yukon",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GMC/YUKON#complaints",
+  "generatedAt": "2026-06-23T16:31:50.109Z",
+  "total": 200,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 131,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After driving on an Interstate Highway for approximately 2 hours I exited and brought the vehicle to a complete stop at a stop sign while preparing to turn right onto a busy 2-lane road.  I applied moderate gas pedal pressure and the vehicle momentarily accelerated and moved forw",
+      "pct": 66
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 35,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On March 10, 2023 I exit Hwy 35 at the City of Cottula Texas, as I took the exit lane and arrived at the stop sign, the vehicle came to a complete stop the engine stop idling and the transmission switch to neutral, this created a safety issue for me and my family because I was un",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dealer install illuminated sill plates GM Part No.: 84667517 causing dangerous distracted driving since they do now turn off when the doors are shut and driving as advertised. Dealer double checked installation, but I feel GM installation need to be revised. See product descripti",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 GMC Yukon. The contact stated while driving at approximately 65 MPH, there was an abnormal clicking sound from the engine compartment. The contact stated that there were no warning lights illuminated. The contact arrived at the destination and checked unde",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle shuts off and goes into neutral at highway speeds I am reaching out because it has happened to me three times in a seven month old vehicle and also five family members with Yukon Tahoe, Escalade same issue is very very dangerous  please, I beg you take this very seriously",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Gmc Yukon owners report most",
+    "summary": "Across 200 owner complaints to NHTSA, the most reported area is Engine (66% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 131,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After driving on an Interstate Highway for approximately 2 hours I exited and brought the vehicle to a complete stop at a stop sign while preparing to turn right onto a busy 2-lane road.  I applied moderate gas pedal pressure and the vehicle momentarily accelerated and moved forw",
+        "pct": 66,
+        "title": "Engine",
+        "blurb": "131 reports (66%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 35,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On March 10, 2023 I exit Hwy 35 at the City of Cottula Texas, as I took the exit lane and arrived at the stop sign, the vehicle came to a complete stop the engine stop idling and the transmission switch to neutral, this created a safety issue for me and my family because I was un",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "35 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dealer install illuminated sill plates GM Part No.: 84667517 causing dangerous distracted driving since they do now turn off when the doors are shut and driving as advertised. Dealer double checked installation, but I feel GM installation need to be revised. See product descripti",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "21 reports (11%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 GMC Yukon. The contact stated while driving at approximately 65 MPH, there was an abnormal clicking sound from the engine compartment. The contact stated that there were no warning lights illuminated. The contact arrived at the destination and checked unde",
+        "pct": 6,
+        "title": "Engine And Engine Cooling",
+        "blurb": "11 reports (6%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle shuts off and goes into neutral at highway speeds I am reaching out because it has happened to me three times in a seven month old vehicle and also five family members with Yukon Tahoe, Escalade same issue is very very dangerous  please, I beg you take this very seriously",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (5%)"
+      }
+    ]
+  }
+}

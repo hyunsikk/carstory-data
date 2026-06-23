@@ -1,0 +1,84 @@
+{
+  "slug": "2019-bmw-7-series",
+  "make": "BMW",
+  "model": "7 Series",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/7%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:34.354Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Excessive rain condensation is blocking the front drivers headlights. This is a known issue which BMW refuses to repair under my OEM warranty. This is a known issue with many BMW’s leading to safety issues and electrical issues. The water is pooling in my headlight.",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 BMW 740I. The contact stated that the leather on the front dashboard had started to peel. Over time, the leather began to shrink and began to roll back towards the windshield. Due to the failure, the contact's vision became obstructed while driving. The ve",
+      "pct": 33
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "THE SUNROOF EXPLODED OUT WHILE DRIVING ABOUT 45MPH. MOST OF THE GLASS EXITED THE VEHICLE ABOVE BUT MANY SHARDS OF SHARP GLASS SPRAYED ALL FOUR PASSENGERS. ALL FOUR PASSENGERS RECEIVED MINOR CUTS. NO ROCK OR OTHER FOREIGN OBJECT WAS OBSERVED IMPACTING THE VEHICLE. THE GLASS EXPLOD",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw 7 Series owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Exterior Lighting (33% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Excessive rain condensation is blocking the front drivers headlights. This is a known issue which BMW refuses to repair under my OEM warranty. This is a known issue with many BMW’s leading to safety issues and electrical issues. The water is pooling in my headlight.",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 BMW 740I. The contact stated that the leather on the front dashboard had started to peel. Over time, the leather began to shrink and began to roll back towards the windshield. Due to the failure, the contact's vision became obstructed while driving. The ve",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "THE SUNROOF EXPLODED OUT WHILE DRIVING ABOUT 45MPH. MOST OF THE GLASS EXITED THE VEHICLE ABOVE BUT MANY SHARDS OF SHARP GLASS SPRAYED ALL FOUR PASSENGERS. ALL FOUR PASSENGERS RECEIVED MINOR CUTS. NO ROCK OR OTHER FOREIGN OBJECT WAS OBSERVED IMPACTING THE VEHICLE. THE GLASS EXPLOD",
+        "pct": 33,
+        "title": "Visibility",
+        "blurb": "1 report (33%) · 4 injured"
+      }
+    ]
+  }
+}

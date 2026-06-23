@@ -1,0 +1,128 @@
+{
+  "slug": "2019-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/FORD/FLEX#complaints",
+  "generatedAt": "2026-06-23T16:45:07.767Z",
+  "total": 216,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 118,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "REAR backup camera has upside down view.  Tried various remedies (reset, and battery disconnect) to fix issue but when vehicle is put into reverse camera has view that is upside down.  Dealer says camera and soft ware needs to be replaced but is not covered under vehicle warranty",
+      "pct": 55
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 43,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Ford Flex. The contact stated that the power liftgate had failed to open manually or electronically while pressing the release button inside the vehicle or with the key fob. A warning message stating that the power liftgate was not closed had been illumina",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup Camera functions intermittently.  This began at approx 37k miles and 25months of age (vehicle built in June 2019).  Backup camera may work, or not, when the vehicle is put in to reverse.  This is very similar to the behavior described in other Ford backup camera recalls fo",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Ford reverse camera fails to display a correct image, decreasing driver visibility. It is nearly always displayed upside down or occasionally the image fails to appear at all. The parking guide lines also fail to display since January. There were no warning lights when the mal",
+      "pct": 5
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am submitting a formal complaint regarding multiple premature and potentially safety-related failures on my 2019 Ford Flex, purchased new on 11/25/2019. These include:  ️ 1. Rear Suspension / Rear Toe Link Concern Although my vehicle is not included in Ford’s rear toe link reca",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Ford Flex owners report most",
+    "summary": "Across 216 owner complaints to NHTSA, the most reported area is Back Over Prevention (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 118,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "REAR backup camera has upside down view.  Tried various remedies (reset, and battery disconnect) to fix issue but when vehicle is put into reverse camera has view that is upside down.  Dealer says camera and soft ware needs to be replaced but is not covered under vehicle warranty",
+        "pct": 55,
+        "title": "Back Over Prevention",
+        "blurb": "118 reports (55%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 43,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Ford Flex. The contact stated that the power liftgate had failed to open manually or electronically while pressing the release button inside the vehicle or with the key fob. A warning message stating that the power liftgate was not closed had been illumina",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "43 reports (20%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup Camera functions intermittently.  This began at approx 37k miles and 25months of age (vehicle built in June 2019).  Backup camera may work, or not, when the vehicle is put in to reverse.  This is very similar to the behavior described in other Ford backup camera recalls fo",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "21 reports (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Ford reverse camera fails to display a correct image, decreasing driver visibility. It is nearly always displayed upside down or occasionally the image fails to appear at all. The parking guide lines also fail to display since January. There were no warning lights when the mal",
+        "pct": 5,
+        "title": "Visibility/Wiper",
+        "blurb": "11 reports (5%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am submitting a formal complaint regarding multiple premature and potentially safety-related failures on my 2019 Ford Flex, purchased new on 11/25/2019. These include:  ️ 1. Rear Suspension / Rear Toe Link Concern Although my vehicle is not included in Ford’s rear toe link reca",
+        "pct": 2,
+        "title": "Engine",
+        "blurb": "5 reports (2%)"
+      }
+    ]
+  }
+}

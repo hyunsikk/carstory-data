@@ -1,0 +1,128 @@
+{
+  "slug": "2014-volkswagen-gti",
+  "make": "Volkswagen",
+  "model": "GTI",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/VOLKSWAGEN/GTI#complaints",
+  "generatedAt": "2026-06-23T16:41:53.714Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN GTI. THE CONTACT STATED THAT WHILE DRIVING 25 MPH, WHITE SMOKE EMITTING FROM THE ENGINE COMPARTMENT. THE CONTACT MENTIONED THAT THE EPC WARNING LAMP ILLUMINATED AND THE VEHICLE MADE A LOUD SOUND BEFORE IT STALLED AND BECAME ENGULFED INTO FLA",
+      "pct": 40
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I noticed a common problem among MK6 GTI owners of the steering wheel messing up, causing many issues such as broken airbags, the horn not work, cruise control stopped, etc., and since I have the issue (air bag symbol, horn, no cruise control) as well I was wondering what could b",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING DOWN THE HIGHWAY IN NORMAL DRIVING CONDITIONS THE ABS LIGHT, ELECTRONIC STABILITY CONTROL LIGHT, STEERING WHEEL FAULT WARNING LIGHT AND THE CHECK ENGINE LIGHT LIT UP WITHOUT ANY WARNING PROMPTING A FAULT DESCRIPTION ON MY CENTER DASH SAYING \"FAULT: ABS/ELECTRONIC",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I noticed a common problem among MK6 GTI owners of the steering wheel messing up, causing many issues such as broken airbags, the horn not work, cruise control stopped, etc., and since I have the issue (air bag symbol, horn, no cruise control) as well I was wondering what could b",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was going about 75 mph on the highway when my car dropped into neutral by itself causing me to have to cut across 4 lanes of highway to stop the car. 2014 gti with 67k miles.  now being told its my gear shifter an module costing $2,300. I believe this is an essential part that sh",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Volkswagen Gti owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN GTI. THE CONTACT STATED THAT WHILE DRIVING 25 MPH, WHITE SMOKE EMITTING FROM THE ENGINE COMPARTMENT. THE CONTACT MENTIONED THAT THE EPC WARNING LAMP ILLUMINATED AND THE VEHICLE MADE A LOUD SOUND BEFORE IT STALLED AND BECAME ENGULFED INTO FLA",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "4 reports (40%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I noticed a common problem among MK6 GTI owners of the steering wheel messing up, causing many issues such as broken airbags, the horn not work, cruise control stopped, etc., and since I have the issue (air bag symbol, horn, no cruise control) as well I was wondering what could b",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING DOWN THE HIGHWAY IN NORMAL DRIVING CONDITIONS THE ABS LIGHT, ELECTRONIC STABILITY CONTROL LIGHT, STEERING WHEEL FAULT WARNING LIGHT AND THE CHECK ENGINE LIGHT LIT UP WITHOUT ANY WARNING PROMPTING A FAULT DESCRIPTION ON MY CENTER DASH SAYING \"FAULT: ABS/ELECTRONIC",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I noticed a common problem among MK6 GTI owners of the steering wheel messing up, causing many issues such as broken airbags, the horn not work, cruise control stopped, etc., and since I have the issue (air bag symbol, horn, no cruise control) as well I was wondering what could b",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was going about 75 mph on the highway when my car dropped into neutral by itself causing me to have to cut across 4 lanes of highway to stop the car. 2014 gti with 67k miles.  now being told its my gear shifter an module costing $2,300. I believe this is an essential part that sh",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "2 reports (20%)"
+      }
+    ]
+  }
+}

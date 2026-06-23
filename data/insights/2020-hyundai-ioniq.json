@@ -1,0 +1,40 @@
+{
+  "slug": "2020-hyundai-ioniq",
+  "make": "Hyundai",
+  "model": "Ioniq",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/IONIQ#complaints",
+  "generatedAt": "2026-06-23T16:45:10.553Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Hyundai Ioniq. The contact stated that while driving at undisclosed speeds, the vehicle stalled. No warning lights were illuminated. The contact was able to restart the vehicle. The vehicle was taken to the dealer where it was diagnosed and determined that",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Hyundai Ioniq owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Hyundai Ioniq. The contact stated that while driving at undisclosed speeds, the vehicle stalled. No warning lights were illuminated. The contact was able to restart the vehicle. The vehicle was taken to the dealer where it was diagnosed and determined that",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

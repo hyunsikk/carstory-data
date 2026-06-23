@@ -1,0 +1,128 @@
+{
+  "slug": "2021-honda-civic",
+  "make": "Honda",
+  "model": "Civic",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HONDA/CIVIC#complaints",
+  "generatedAt": "2026-06-23T16:32:00.688Z",
+  "total": 132,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 56,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Honda uses a soy-based insulation on the wires in its new cars.  We have a brand new, less than 4,000 miles, Honda Civic.  I recently went out to start it in the morning and received warning lights on virtually ALL of the systems you list.  Why?  Apparently rabbits are attracted ",
+      "pct": 42
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 32,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MANY times I've pressed the gas after a full stop and had the engine roar in response while the car only moved forward a few feet rather than at full speed. My life is in danger if I'm trying to make a turn across traffic when I have a space to do so and I CAN'T make the turn SAF",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2125 miles on this Type R, fresh off the show room floor. At low speed turning into the slight dip in my driveway, the suspension in Sports Mode flexed enough for the driver side tin rotor back plate at the driver front wheel to get caught on the lower control arm. Drove it to Ho",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HEADLIGHTS ARE TOO DIM, WITH POOR VISIBILITY AT NIGHT, EVEN WHEN THE FOG LIGHTS ARE ON. H ROAD NEEDS TO BE ILLUMINATED A LITTLE BIT MORE, OR EVEN HAVE A FURTHER BEAM. THE LED VERSION OF THE CIVIC HAS A EXCELLENT HEADLIGHT PATTERN/BRIGHTNESS. HOWEVER, LX, SPORT AND EX SHARE THE SA",
+      "pct": 13
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I’ve had multiply times where my dash with start indicating I need to break while I’m driving an will break for me while on the freeway or street with traffic. For the lane departure my car will just start turning out of a lane there was two incidents where I almost hit the wall ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Honda Civic owners report most",
+    "summary": "Across 132 owner complaints to NHTSA, the most reported area is Steering (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 56,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Honda uses a soy-based insulation on the wires in its new cars.  We have a brand new, less than 4,000 miles, Honda Civic.  I recently went out to start it in the morning and received warning lights on virtually ALL of the systems you list.  Why?  Apparently rabbits are attracted ",
+        "pct": 42,
+        "title": "Steering",
+        "blurb": "56 reports (42%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 32,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MANY times I've pressed the gas after a full stop and had the engine roar in response while the car only moved forward a few feet rather than at full speed. My life is in danger if I'm trying to make a turn across traffic when I have a space to do so and I CAN'T make the turn SAF",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "32 reports (24%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2125 miles on this Type R, fresh off the show room floor. At low speed turning into the slight dip in my driveway, the suspension in Sports Mode flexed enough for the driver side tin rotor back plate at the driver front wheel to get caught on the lower control arm. Drove it to Ho",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "18 reports (14%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HEADLIGHTS ARE TOO DIM, WITH POOR VISIBILITY AT NIGHT, EVEN WHEN THE FOG LIGHTS ARE ON. H ROAD NEEDS TO BE ILLUMINATED A LITTLE BIT MORE, OR EVEN HAVE A FURTHER BEAM. THE LED VERSION OF THE CIVIC HAS A EXCELLENT HEADLIGHT PATTERN/BRIGHTNESS. HOWEVER, LX, SPORT AND EX SHARE THE SA",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "17 reports (13%) · 1 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I’ve had multiply times where my dash with start indicating I need to break while I’m driving an will break for me while on the freeway or street with traffic. For the lane departure my car will just start turning out of a lane there was two incidents where I almost hit the wall ",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "11 reports (8%)"
+      }
+    ]
+  }
+}

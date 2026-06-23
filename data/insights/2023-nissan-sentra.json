@@ -1,0 +1,128 @@
+{
+  "slug": "2023-nissan-sentra",
+  "make": "Nissan",
+  "model": "Sentra",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/SENTRA#complaints",
+  "generatedAt": "2026-06-23T16:39:30.273Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "First incident I was driving and my dashboard turned off all the speedometers went to zero all lights turned off. I was able to safely pull over and as I pulled over my dash came back on with malfunction lights flashing - I took pictures tried to get the dealership to duplicate i",
+      "pct": 44
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought this 2023 Nissan Sentra S on March 3 2023 and it has approximately 23k miles now. During these 10 months, Nissan replaced the axis on the vehicle under their waranty and the clicking sounds still exists after it getting fixed twice. There is also an occassional malfuncti",
+      "pct": 28
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Nissan Sentra. The contact stated that after making a right turn while driving at 15 MPH, the vehicle jerked to the right and crashed into an unoccupied parked vehicle. The air bags did not deploy. The contact sustained back pain from the crash, and medica",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon purchasing the vehicle on December 21, 2024, I immediately noticed a delay in acceleration when pressing the gas pedal, particularly after the vehicle had been idling for some time. This delay creates a significant safety risk, especially in situations where quick accelerati",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Upon purchasing the vehicle on December 21, 2024, I immediately noticed a delay in acceleration when pressing the gas pedal, particularly after the vehicle had been idling for some time. This delay creates a significant safety risk, especially in situations where quick accelerati",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Sentra owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "First incident I was driving and my dashboard turned off all the speedometers went to zero all lights turned off. I was able to safely pull over and as I pulled over my dash came back on with malfunction lights flashing - I took pictures tried to get the dealership to duplicate i",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "8 reports (44%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought this 2023 Nissan Sentra S on March 3 2023 and it has approximately 23k miles now. During these 10 months, Nissan replaced the axis on the vehicle under their waranty and the clicking sounds still exists after it getting fixed twice. There is also an occassional malfuncti",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (28%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Nissan Sentra. The contact stated that after making a right turn while driving at 15 MPH, the vehicle jerked to the right and crashed into an unoccupied parked vehicle. The air bags did not deploy. The contact sustained back pain from the crash, and medica",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "4 reports (22%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon purchasing the vehicle on December 21, 2024, I immediately noticed a delay in acceleration when pressing the gas pedal, particularly after the vehicle had been idling for some time. This delay creates a significant safety risk, especially in situations where quick accelerati",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "3 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Upon purchasing the vehicle on December 21, 2024, I immediately noticed a delay in acceleration when pressing the gas pedal, particularly after the vehicle had been idling for some time. This delay creates a significant safety risk, especially in situations where quick accelerati",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "2 reports (11%) · 1 injured"
+      }
+    ]
+  }
+}

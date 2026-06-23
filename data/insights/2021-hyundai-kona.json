@@ -1,0 +1,128 @@
+{
+  "slug": "2021-hyundai-kona",
+  "make": "Hyundai",
+  "model": "Kona",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HYUNDAI/KONA#complaints",
+  "generatedAt": "2026-06-23T16:33:40.801Z",
+  "total": 109,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 71,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT THE CAR IN AUGUST 2020. IN FEBRUARY 2021 THE CAR BEGAN TO STALL FREQUENTLY AND IT WAS RUNNING VERY LOUD. I DISCOVERED THAT THERE WAS ALMOST NO OIL IN THE CAR WITH LESS THAN 5,000 MILES ON IT. BROUGHT THE CAR TO THE DEALERSHIP AND THEY DETERMINED THE ENGINE WAS DEFECTIVE AN",
+      "pct": 65
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving up a steep mountain road in heavy traffic and snow the transmission on my Hyundai Kona overheated and failed.  The car began to buck back and forth and a transmission light came on.  Unfortunately I was on a mountain interstate in heavy traffic with no real shoulder",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving 60mph on I-5 in May 2021. Dry roads, no wind. Vehicle suddenly surged (as if we ran over a speed bump at 60mph) despite there being no debris nor damage on the road surface. The surge felt like the ABS system triggered a single pulse, and then car completely turned off: n",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We bought the car in July and owned it 70 days and 1,530 miles. The Automatic Emergency Breaking engaged several times without any reason. Sometimes at lower speeds <40 and sometimes on the freeway >60. The last time was at 20 mph in a school zone and we were rear ended because o",
+      "pct": 4
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact’s father owned a 2021 Hyundai Kona. The contact stated that while her father was driving at an undisclosed speed, the accelerator pedal was stuck and the seat belt did not lock the contact’s father into his seat during impact. The vehicle crashed into a traffic light ",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Hyundai Kona owners report most",
+    "summary": "Across 109 owner complaints to NHTSA, the most reported area is Engine (65% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 71,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT THE CAR IN AUGUST 2020. IN FEBRUARY 2021 THE CAR BEGAN TO STALL FREQUENTLY AND IT WAS RUNNING VERY LOUD. I DISCOVERED THAT THERE WAS ALMOST NO OIL IN THE CAR WITH LESS THAN 5,000 MILES ON IT. BROUGHT THE CAR TO THE DEALERSHIP AND THEY DETERMINED THE ENGINE WAS DEFECTIVE AN",
+        "pct": 65,
+        "title": "Engine",
+        "blurb": "71 reports (65%) · 2 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving up a steep mountain road in heavy traffic and snow the transmission on my Hyundai Kona overheated and failed.  The car began to buck back and forth and a transmission light came on.  Unfortunately I was on a mountain interstate in heavy traffic with no real shoulder",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "13 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving 60mph on I-5 in May 2021. Dry roads, no wind. Vehicle suddenly surged (as if we ran over a speed bump at 60mph) despite there being no debris nor damage on the road surface. The surge felt like the ABS system triggered a single pulse, and then car completely turned off: n",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "10 reports (9%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We bought the car in July and owned it 70 days and 1,530 miles. The Automatic Emergency Breaking engaged several times without any reason. Sometimes at lower speeds <40 and sometimes on the freeway >60. The last time was at 20 mph in a school zone and we were rear ended because o",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (4%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact’s father owned a 2021 Hyundai Kona. The contact stated that while her father was driving at an undisclosed speed, the accelerator pedal was stuck and the seat belt did not lock the contact’s father into his seat during impact. The vehicle crashed into a traffic light ",
+        "pct": 4,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (4%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

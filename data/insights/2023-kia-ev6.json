@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-ev6",
+  "make": "Kia",
+  "model": "EV6",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/EV6#complaints",
+  "generatedAt": "2026-06-23T16:36:22.770Z",
+  "total": 130,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 98,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This car advertises that it is capable of fast charging on a level 2 charger up to 50amp. I purchased a level 2 charger capable of 50amps, but it causes the EV6 to overheat and stop charging. The dealership installed TSB ELE-283 but this does not fix the problem and is not an acc",
+      "pct": 75
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 29,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The motor inverter for the rear motor failed while I was driving.  The power cut out, and luckily I was able to drift over to the side of the road.  On a highway, it would have been very dangerous. The dealer diagnosed the inverter issue, and said it needs to be replaced. The car",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The motor inverter for the rear motor failed while I was driving.  The power cut out, and luckily I was able to drift over to the side of the road.  On a highway, it would have been very dangerous. The dealer diagnosed the inverter issue, and said it needs to be replaced. The car",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. **Component/System Failure**: The vehicle's cooling system is repeatedly losing coolant, suggesting a leak or malfunction. The system has not been officially diagnosed due to technician availability but is available for inspection.     2. **Safety Risks**: The frequent need to",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The motor inverter for the rear motor failed while I was driving.  The power cut out, and luckily I was able to drift over to the side of the road.  On a highway, it would have been very dangerous. The dealer diagnosed the inverter issue, and said it needs to be replaced. The car",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Ev6 owners report most",
+    "summary": "Across 130 owner complaints to NHTSA, the most reported area is Electrical System (75% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 98,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This car advertises that it is capable of fast charging on a level 2 charger up to 50amp. I purchased a level 2 charger capable of 50amps, but it causes the EV6 to overheat and stop charging. The dealership installed TSB ELE-283 but this does not fix the problem and is not an acc",
+        "pct": 75,
+        "title": "Electrical System",
+        "blurb": "98 reports (75%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 29,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The motor inverter for the rear motor failed while I was driving.  The power cut out, and luckily I was able to drift over to the side of the road.  On a highway, it would have been very dangerous. The dealer diagnosed the inverter issue, and said it needs to be replaced. The car",
+        "pct": 22,
+        "title": "Fuel/Propulsion System",
+        "blurb": "29 reports (22%) · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The motor inverter for the rear motor failed while I was driving.  The power cut out, and luckily I was able to drift over to the side of the road.  On a highway, it would have been very dangerous. The dealer diagnosed the inverter issue, and said it needs to be replaced. The car",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "24 reports (18%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. **Component/System Failure**: The vehicle's cooling system is repeatedly losing coolant, suggesting a leak or malfunction. The system has not been officially diagnosed due to technician availability but is available for inspection.     2. **Safety Risks**: The frequent need to",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "13 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The motor inverter for the rear motor failed while I was driving.  The power cut out, and luckily I was able to drift over to the side of the road.  On a highway, it would have been very dangerous. The dealer diagnosed the inverter issue, and said it needs to be replaced. The car",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "7 reports (5%)"
+      }
+    ]
+  }
+}

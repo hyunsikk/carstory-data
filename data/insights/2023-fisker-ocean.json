@@ -1,0 +1,128 @@
+{
+  "slug": "2023-fisker-ocean",
+  "make": "Fisker",
+  "model": "Ocean",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FISKER/OCEAN#complaints",
+  "generatedAt": "2026-06-23T16:46:19.429Z",
+  "total": 883,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 380,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I have had Fisker for over a month now and it is not a drivable vehicle at the moment as it poses serious safety issues with numerous parts or functionality showing errors and suddenly not available. I would like these issues to be addressed ASAP within 30 days. There is no servi",
+      "pct": 43
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 324,
+      "crash": 9,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Issue has been confirmed and acknowledged by Fisker. There is an issue with bumps on the road while braking and is a safety issue and should probably have a stop order until it's fixed.  They are replacing sewer lines in my area so the roads are as bad as it gets. Our neighborhoo",
+      "pct": 37
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 211,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I'm driving on hill/uneven pavement, either foot off of the accelerator (regen engaged and on high) or foot on the brake pedal and actively pushing the brake.  The brake disengages and the car lurches forward. Feels the the car is being push forward for a split second. Making it ",
+      "pct": 24
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 122,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "\"Auto Emergency Braking\" and \"Lane Keep System\" warning messages are constantly being displayed when car is driven at particular azimuth and angle directions relative to the sun.  Assuming these systems are truly unavailable, this is a major safety hazard.  Even if the systems ar",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 90,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I have noticed a number of times that when I push the stalk on the Fisker, which is supposed to move it from Drive to Park, that it has gone from Drive to Neutral. I have caught this happening probably 6 or so times in the 150 drives I have taken in the last two months. The solut",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Fisker Ocean owners report most",
+    "summary": "Across 883 owner complaints to NHTSA, the most reported area is Electrical System (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 380,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I have had Fisker for over a month now and it is not a drivable vehicle at the moment as it poses serious safety issues with numerous parts or functionality showing errors and suddenly not available. I would like these issues to be addressed ASAP within 30 days. There is no servi",
+        "pct": 43,
+        "title": "Electrical System",
+        "blurb": "380 reports (43%) · 2 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 324,
+        "crash": 9,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Issue has been confirmed and acknowledged by Fisker. There is an issue with bumps on the road while braking and is a safety issue and should probably have a stop order until it's fixed.  They are replacing sewer lines in my area so the roads are as bad as it gets. Our neighborhoo",
+        "pct": 37,
+        "title": "Service Brakes",
+        "blurb": "324 reports (37%) · 1 fire · 9 crash · 4 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 211,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I'm driving on hill/uneven pavement, either foot off of the accelerator (regen engaged and on high) or foot on the brake pedal and actively pushing the brake.  The brake disengages and the car lurches forward. Feels the the car is being push forward for a split second. Making it ",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "211 reports (24%) · 1 fire · 6 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 122,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "\"Auto Emergency Braking\" and \"Lane Keep System\" warning messages are constantly being displayed when car is driven at particular azimuth and angle directions relative to the sun.  Assuming these systems are truly unavailable, this is a major safety hazard.  Even if the systems ar",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "122 reports (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 90,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I have noticed a number of times that when I push the stalk on the Fisker, which is supposed to move it from Drive to Park, that it has gone from Drive to Neutral. I have caught this happening probably 6 or so times in the 150 drives I have taken in the last two months. The solut",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "90 reports (10%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

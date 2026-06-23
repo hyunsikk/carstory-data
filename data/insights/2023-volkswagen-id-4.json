@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-id-4",
+  "make": "Volkswagen",
+  "model": "ID.4",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/ID.4#complaints",
+  "generatedAt": "2026-06-23T16:42:04.574Z",
+  "total": 438,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 218,
+      "crash": 10,
+      "fire": 5,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "On December 29, 2022, I took delivery of a brand new 2023 ID.4 Pro S AWD with 20 miles on the odometer. The vehicle was showing a 12V battery warning the following day. I drove it for about 80 miles that day to ensure that the 12V battery is charged in case it was not properly lo",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 69,
+      "crash": 26,
+      "fire": 0,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "VW ID4 2023 Day two owning ID4, driver's door would not open. I was at the dealership at the time and I was told to make an appointment to fix it. I was also told, it was a thing happening with some new VW ID4 2023. Some sort of short circuit. I went home, did some research, I le",
+      "pct": 16
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 60,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While stopped at a red light, the passenger door opened unprompted & by itself twice. I tried to lock the door on the driver panel, however that seemed to not work as the light did not illuminate signaling the doors locked. When I began driving, the same door opened again by itse",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 51,
+      "crash": 18,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "While I was pulling into a parking space in a parking garage, the car suddenly accelerated to a high rate of speed and crashed into the wall of the parking garage.  The front and side air bags deployed.  The crash caused significant front end damage to the car.  The passenger (my",
+      "pct": 12
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 47,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Our forward collision warning, automatic emergency braking, rear cross traffic warning systems stopped working on our 2023 ID.4 with 2500 miles on it about 2 weeks ago.  Took it to the dealership on 3/3/23 for repairs, after 4 hours the tech came out and was clueless what to what",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Id.4 owners report most",
+    "summary": "Across 438 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 218,
+        "crash": 10,
+        "fire": 5,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "On December 29, 2022, I took delivery of a brand new 2023 ID.4 Pro S AWD with 20 miles on the odometer. The vehicle was showing a 12V battery warning the following day. I drove it for about 80 miles that day to ensure that the 12V battery is charged in case it was not properly lo",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "218 reports (50%) · 5 fire · 10 crash · 7 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 69,
+        "crash": 26,
+        "fire": 0,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "VW ID4 2023 Day two owning ID4, driver's door would not open. I was at the dealership at the time and I was told to make an appointment to fix it. I was also told, it was a thing happening with some new VW ID4 2023. Some sort of short circuit. I went home, did some research, I le",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "69 reports (16%) · 26 crash · 15 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 60,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While stopped at a red light, the passenger door opened unprompted & by itself twice. I tried to lock the door on the driver panel, however that seemed to not work as the light did not illuminate signaling the doors locked. When I began driving, the same door opened again by itse",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "60 reports (14%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 51,
+        "crash": 18,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "While I was pulling into a parking space in a parking garage, the car suddenly accelerated to a high rate of speed and crashed into the wall of the parking garage.  The front and side air bags deployed.  The crash caused significant front end damage to the car.  The passenger (my",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "51 reports (12%) · 18 crash · 10 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 47,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Our forward collision warning, automatic emergency braking, rear cross traffic warning systems stopped working on our 2023 ID.4 with 2500 miles on it about 2 weeks ago.  Took it to the dealership on 3/3/23 for repairs, after 4 hours the tech came out and was clueless what to what",
+        "pct": 11,
+        "title": "Back Over Prevention",
+        "blurb": "47 reports (11%) · 4 crash · 2 injured"
+      }
+    ]
+  }
+}

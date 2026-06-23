@@ -1,0 +1,128 @@
+{
+  "slug": "2024-ram-promaster",
+  "make": "Ram",
+  "model": "ProMaster",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/RAM/PROMASTER#complaints",
+  "generatedAt": "2026-06-23T16:40:23.784Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Adaptive Cruise Control (ACC) randomly quits working, produces a yellow warning light and digital message saying it has failed and service required.  This failure happens at completely random times and last for hours to days and then randomly starts working again.  This began hap",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving down the interstate, the vehicle shut off completely without warning. I had to put it in park and quickly turn it back on. It drove for a few hundred miles and did it again. Then, at miles 9769 and 9980 it did it again. 4 times in less than 10,000 miles on the vehic",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving down the interstate, the vehicle shut off completely without warning. I had to put it in park and quickly turn it back on. It drove for a few hundred miles and did it again. Then, at miles 9769 and 9980 it did it again. 4 times in less than 10,000 miles on the vehic",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Ram Promaster 2500. The contact stated that while driving at 30-35 MPH, the steering wheel was difficult to turn to the right direction. The contact stated that the power steering failed to function as designed. No warning lights were illuminated. The loca",
+      "pct": 17
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I feel unsafe and frustrated, the vehicle is experiencing, frequent uncommanded braking events, false activations of the automatic emergency braking system and lane keeping warnings with random self steering adjustments.I have reported this to my Ram service center in Shakopee, M",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Ram Promaster owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Adaptive Cruise Control (ACC) randomly quits working, produces a yellow warning light and digital message saying it has failed and service required.  This failure happens at completely random times and last for hours to days and then randomly starts working again.  This began hap",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving down the interstate, the vehicle shut off completely without warning. I had to put it in park and quickly turn it back on. It drove for a few hundred miles and did it again. Then, at miles 9769 and 9980 it did it again. 4 times in less than 10,000 miles on the vehic",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "3 reports (25%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving down the interstate, the vehicle shut off completely without warning. I had to put it in park and quickly turn it back on. It drove for a few hundred miles and did it again. Then, at miles 9769 and 9980 it did it again. 4 times in less than 10,000 miles on the vehic",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "3 reports (25%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Ram Promaster 2500. The contact stated that while driving at 30-35 MPH, the steering wheel was difficult to turn to the right direction. The contact stated that the power steering failed to function as designed. No warning lights were illuminated. The loca",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I feel unsafe and frustrated, the vehicle is experiencing, frequent uncommanded braking events, false activations of the automatic emergency braking system and lane keeping warnings with random self steering adjustments.I have reported this to my Ram service center in Shakopee, M",
+        "pct": 8,
+        "title": "Lane Departure",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

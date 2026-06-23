@@ -1,0 +1,84 @@
+{
+  "slug": "2020-bmw-4-series",
+  "make": "BMW",
+  "model": "4 Series",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/4%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:47.015Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I owned a 2020 BMW 430i (VIN: [XXX] ) manufactured in March 2019 at the Regensburg plant. This vehicle matches the exact criteria of NHTSA Recall 19V-352 for defective knee airbags that may fail to deploy in an accident. I was involved in a serious crash on [XXX], and the airbags",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW 430I. The contact stated while driving 55 MPH, the low coolant warning light was illuminated, and the message \"Engine Overheating\" was displayed. The vehicle was parked at the place of employment. The coolant level was checked an hour later by the cont",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW 430i. The contact stated while his wife was driving below 10 MPH and depressing on the brake pedal, the vehicle failed to stop as needed. The contact stated no warning light was illuminated. The driver parked the vehicle and then had the vehicle towed ",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw 4 Series owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Air Bags (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I owned a 2020 BMW 430i (VIN: [XXX] ) manufactured in March 2019 at the Regensburg plant. This vehicle matches the exact criteria of NHTSA Recall 19V-352 for defective knee airbags that may fail to deploy in an accident. I was involved in a serious crash on [XXX], and the airbags",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "1 report (33%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW 430I. The contact stated while driving 55 MPH, the low coolant warning light was illuminated, and the message \"Engine Overheating\" was displayed. The vehicle was parked at the place of employment. The coolant level was checked an hour later by the cont",
+        "pct": 33,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW 430i. The contact stated while his wife was driving below 10 MPH and depressing on the brake pedal, the vehicle failed to stop as needed. The contact stated no warning light was illuminated. The driver parked the vehicle and then had the vehicle towed ",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

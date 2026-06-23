@@ -1,0 +1,128 @@
+{
+  "slug": "2021-kia-niro",
+  "make": "Kia",
+  "model": "Niro",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/KIA/NIRO#complaints",
+  "generatedAt": "2026-06-23T16:36:31.518Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received important safety recall letter for  NHTSA recall # 23V534. the HCA & or Fuse might need to be replaced .  I brought the 2021 Nero to my local Kia dealership, Eagle kia ,Riverhead NY on January 18th. The dealership still has the vehicle & claims that a code came up when",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received important safety recall letter for  NHTSA recall # 23V534. the HCA & or Fuse might need to be replaced .  I brought the 2021 Nero to my local Kia dealership, Eagle kia ,Riverhead NY on January 18th. The dealership still has the vehicle & claims that a code came up when",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received important safety recall letter for  NHTSA recall # 23V534. the HCA & or Fuse might need to be replaced .  I brought the 2021 Nero to my local Kia dealership, Eagle kia ,Riverhead NY on January 18th. The dealership still has the vehicle & claims that a code came up when",
+      "pct": 22
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was backing out of a tandem parking spot in a private garage and got too close to a pillar, and tried to pull forward into the spot. It felt like the car got snagged on the pillar, but while pulling forward slowly, the gas pedal snapped off and the car accelerated quickly and u",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on a major highway, my sunroof suddenly exploded.  Luckily the screen was pulled shut otherwise I would have been covered in glass.  I was able to drive to the next exit and park the vehicle to then get out and observe the damage.  There was a gaping hole in the sun",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Kia Niro owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received important safety recall letter for  NHTSA recall # 23V534. the HCA & or Fuse might need to be replaced .  I brought the 2021 Nero to my local Kia dealership, Eagle kia ,Riverhead NY on January 18th. The dealership still has the vehicle & claims that a code came up when",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received important safety recall letter for  NHTSA recall # 23V534. the HCA & or Fuse might need to be replaced .  I brought the 2021 Nero to my local Kia dealership, Eagle kia ,Riverhead NY on January 18th. The dealership still has the vehicle & claims that a code came up when",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received important safety recall letter for  NHTSA recall # 23V534. the HCA & or Fuse might need to be replaced .  I brought the 2021 Nero to my local Kia dealership, Eagle kia ,Riverhead NY on January 18th. The dealership still has the vehicle & claims that a code came up when",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was backing out of a tandem parking spot in a private garage and got too close to a pillar, and tried to pull forward into the spot. It felt like the car got snagged on the pillar, but while pulling forward slowly, the gas pedal snapped off and the car accelerated quickly and u",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (11%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on a major highway, my sunroof suddenly exploded.  Luckily the screen was pulled shut otherwise I would have been covered in glass.  I was able to drive to the next exit and park the vehicle to then get out and observe the damage.  There was a gaping hole in the sun",
+        "pct": 11,
+        "title": "Visibility",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

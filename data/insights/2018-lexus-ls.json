@@ -1,0 +1,128 @@
+{
+  "slug": "2018-lexus-ls",
+  "make": "Lexus",
+  "model": "LS",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LEXUS/LS#complaints",
+  "generatedAt": "2026-06-23T16:37:23.106Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I AM FILING THIS COMPLAINT TODAY WITH LEXUS CORPORATION BECAUSE BOTH MY DEALERSHIP, NEW COUNTRY LEXUS OF LATHAM, AND LEXUS CORPORATION HAVE CHOSEN TO IGNORE THE DANGER THEY HAVE PLACED MYSELF AND MY FAMILY.  I HAVE PURCHASED THREE LEXUS' OVER THE YEARS FROM NEW COUNTRY LEXUS AND ",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE COLLISION AVOIDANCE SYSTEM BLOWS FUSES AND STOPS WORKING, BUT THE LIGHT ON THE DASH CONTINUES TO INDICATE THAT EVERYTHING IS WORKING.    IN OTHER WORDS, THERE IS NO WAY TO LEARN THAT THE COLLISION SYSTEM IS OFFLINE UNLESS YOU'RE WILLING TO SIMULATE A NEAR CERTAIN COLLISION (W",
+      "pct": 30
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Large lump/lumps on the lower left / bottom portion of the driver's seat, protruding from the seat bottom closest to the lower bolster. As a direct result my left leg loses its circulation, it causes numbness and muscle pain in thigh and groin due to this.   Regardless of seat ad",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE HESITATES WHILE DRIVING. RECALL ANNOUNCED TO US 1/20/2020. HAVE ATTEMPTED NUMEROUS TIMES TO HAVE DEALERSHIP DO THE FREE RECALL REPAIR. EVEN WHILE THERE FOR OIL CHANGES AND REGULAR SERVICES THROUGHOUT THIS YEAR. HAVE BEEN TOLD EACH TIME THEY NEED TO ORDER THE PART AND THEY",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 LEXUS LS 500. THE CONTACT STATED THAT WHILE DRIVING AT 70 MPH, THE VEHICLE SHIFTED FROM TENTH GEAR TO FOURTH GEAR WITHOUT WARNING. THE RPMS REVVED UP AND THE CONTACT FLICKED THE SWITCH ON THE STEERING WHEEL TO GO BACK TO THE TENTH GEAR. THE FAILURE REC",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lexus Ls owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Wheels (30% of reports).",
+    "issues": [
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I AM FILING THIS COMPLAINT TODAY WITH LEXUS CORPORATION BECAUSE BOTH MY DEALERSHIP, NEW COUNTRY LEXUS OF LATHAM, AND LEXUS CORPORATION HAVE CHOSEN TO IGNORE THE DANGER THEY HAVE PLACED MYSELF AND MY FAMILY.  I HAVE PURCHASED THREE LEXUS' OVER THE YEARS FROM NEW COUNTRY LEXUS AND ",
+        "pct": 30,
+        "title": "Wheels",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE COLLISION AVOIDANCE SYSTEM BLOWS FUSES AND STOPS WORKING, BUT THE LIGHT ON THE DASH CONTINUES TO INDICATE THAT EVERYTHING IS WORKING.    IN OTHER WORDS, THERE IS NO WAY TO LEARN THAT THE COLLISION SYSTEM IS OFFLINE UNLESS YOU'RE WILLING TO SIMULATE A NEAR CERTAIN COLLISION (W",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Large lump/lumps on the lower left / bottom portion of the driver's seat, protruding from the seat bottom closest to the lower bolster. As a direct result my left leg loses its circulation, it causes numbness and muscle pain in thigh and groin due to this.   Regardless of seat ad",
+        "pct": 10,
+        "title": "Seats",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE HESITATES WHILE DRIVING. RECALL ANNOUNCED TO US 1/20/2020. HAVE ATTEMPTED NUMEROUS TIMES TO HAVE DEALERSHIP DO THE FREE RECALL REPAIR. EVEN WHILE THERE FOR OIL CHANGES AND REGULAR SERVICES THROUGHOUT THIS YEAR. HAVE BEEN TOLD EACH TIME THEY NEED TO ORDER THE PART AND THEY",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 LEXUS LS 500. THE CONTACT STATED THAT WHILE DRIVING AT 70 MPH, THE VEHICLE SHIFTED FROM TENTH GEAR TO FOURTH GEAR WITHOUT WARNING. THE RPMS REVVED UP AND THE CONTACT FLICKED THE SWITCH ON THE STEERING WHEEL TO GO BACK TO THE TENTH GEAR. THE FAILURE REC",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2015-nissan-370z",
+  "make": "Nissan",
+  "model": "370Z",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/NISSAN/370Z#complaints",
+  "generatedAt": "2026-06-23T16:39:04.828Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On 9/4/2023, both airbags in my daughter’s 2015 Nissan 370-Z violently exploded open erroneously at a stop-sign, when my daughter had, unknowingly, slowly rolled into the protruding hitch of the truck in front of her; the imperceptible impact of which my (driver) daughter and (pa",
+      "pct": 33
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 NISSAN 370Z. THE CONTACT STATED THAT THE DRIVER SIDE HEADLIGHTS FAILED TO WORK. THE VEHICLE WAS TAKEN TO PREMIER NISSAN IN PARIS, TENNESSEE WHERE IT WAS DIAGNOSED THAT THE ENTIRE HEADLIGHT ASSEMBLY NEEDED REPLACEMENT DUE TO WATER CONDENSATION BUILD-UP.",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 NISSAN 370Z. THE CONTACT STATED THAT THE CLUTCH PEDAL WAS STUCK TO THE FLOOR OF THE VEHICLE. THE CONTACT TOOK THE VEHICLE TO A LOCAL DEALER AND THE GTI FLUID WAS REPLACED. THE FAILURE RECURRED TWO MONTHS LATER. THE VEHICLE WAS TAKEN TO THE DEALER AGAIN",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Nissan 370z owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Air Bags (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On 9/4/2023, both airbags in my daughter’s 2015 Nissan 370-Z violently exploded open erroneously at a stop-sign, when my daughter had, unknowingly, slowly rolled into the protruding hitch of the truck in front of her; the imperceptible impact of which my (driver) daughter and (pa",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "1 report (33%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 NISSAN 370Z. THE CONTACT STATED THAT THE DRIVER SIDE HEADLIGHTS FAILED TO WORK. THE VEHICLE WAS TAKEN TO PREMIER NISSAN IN PARIS, TENNESSEE WHERE IT WAS DIAGNOSED THAT THE ENTIRE HEADLIGHT ASSEMBLY NEEDED REPLACEMENT DUE TO WATER CONDENSATION BUILD-UP.",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 NISSAN 370Z. THE CONTACT STATED THAT THE CLUTCH PEDAL WAS STUCK TO THE FLOOR OF THE VEHICLE. THE CONTACT TOOK THE VEHICLE TO A LOCAL DEALER AND THE GTI FLUID WAS REPLACED. THE FAILURE RECURRED TWO MONTHS LATER. THE VEHICLE WAS TAKEN TO THE DEALER AGAIN",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-honda-prologue",
+  "make": "Honda",
+  "model": "Prologue",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HONDA/PROLOGUE#complaints",
+  "generatedAt": "2026-06-23T16:32:57.123Z",
+  "total": 786,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 246,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 Honda Prologue.  The contact stated that while driving at an undisclosed speed, the steering wheel seized.  In addition, the brake pedal was depressed, however, the vehicle failed to stop as intended.  The vehicle speed increased independently. As a resul",
+      "pct": 31
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 202,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle Drive Shaft makes clicking noise at the CV Joint. Vehicle part is backordered due to nationwide shortage caused by vehicle defect on numerous 2024 Honda Prologues. There is no code on dashboard. Honda service has looked at vehicle and stated noise is caused by the CV join",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 152,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "On [XXX], around 8 PM, I was driving north towards DeLand, Florida on the highway at approximately 70+ miles per hour when my 2024 Honda Prologue started to slow down on its own. The air conditioning system shut down, and a warning displayed on the dash: “Service High Voltage Sys",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 141,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When backing up rear park assist slams on brakes with no person or vehicle in sight.   Incident #2  While driving on the highway all screens including radio and instruments went out leaving no access to range or speed. Had to take to Honda dealer for factory reset.   Incident #3 ",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 119,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "When backing up rear park assist slams on brakes with no person or vehicle in sight.   Incident #2  While driving on the highway all screens including radio and instruments went out leaving no access to range or speed. Had to take to Honda dealer for factory reset.   Incident #3 ",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Honda Prologue owners report most",
+    "summary": "Across 786 owner complaints to NHTSA, the most reported area is Steering (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 246,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 Honda Prologue.  The contact stated that while driving at an undisclosed speed, the steering wheel seized.  In addition, the brake pedal was depressed, however, the vehicle failed to stop as intended.  The vehicle speed increased independently. As a resul",
+        "pct": 31,
+        "title": "Steering",
+        "blurb": "246 reports (31%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 202,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle Drive Shaft makes clicking noise at the CV Joint. Vehicle part is backordered due to nationwide shortage caused by vehicle defect on numerous 2024 Honda Prologues. There is no code on dashboard. Honda service has looked at vehicle and stated noise is caused by the CV join",
+        "pct": 26,
+        "title": "Suspension",
+        "blurb": "202 reports (26%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 152,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "On [XXX], around 8 PM, I was driving north towards DeLand, Florida on the highway at approximately 70+ miles per hour when my 2024 Honda Prologue started to slow down on its own. The air conditioning system shut down, and a warning displayed on the dash: “Service High Voltage Sys",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "152 reports (19%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 141,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When backing up rear park assist slams on brakes with no person or vehicle in sight.   Incident #2  While driving on the highway all screens including radio and instruments went out leaving no access to range or speed. Had to take to Honda dealer for factory reset.   Incident #3 ",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "141 reports (18%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 119,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "When backing up rear park assist slams on brakes with no person or vehicle in sight.   Incident #2  While driving on the highway all screens including radio and instruments went out leaving no access to range or speed. Had to take to Honda dealer for factory reset.   Incident #3 ",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "119 reports (15%) · 3 crash · 8 injured"
+      }
+    ]
+  }
+}

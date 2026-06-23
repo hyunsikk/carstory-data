@@ -1,0 +1,128 @@
+{
+  "slug": "2023-subaru-outback",
+  "make": "Subaru",
+  "model": "Outback",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/OUTBACK#complaints",
+  "generatedAt": "2026-06-23T16:40:51.196Z",
+  "total": 84,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 20,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Subaru Outback. The contact stated while driving 65 MPH with the cruise control activated, the vehicle made a sudden stop without warning. The contact stated that several minutes later the vehicle operated normally. The vehicle was not diagnosed or repaire",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Subaru Outback. The contact stated that upon purchasing the vehicle from the dealer on October 3, 2022, he noticed that the automatic collision alert to the Emergency Services, the diagnostic alert, the remote services, the SOS emergency alert, the stolen ",
+      "pct": 19
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA,  I am writing to report an issue I have experienced with the windshield of my Subaru vehicle. Recently, I noticed a crack on the passenger side of the windshield, which initially measured around 5 inches in length. To my surprise, the crack expanded to over 10 inches ",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Subaru Outback. The contact stated that while parked with the brake pedal depressed when the vehicle suddenly lunged forward and jumped the curb onto the sidewalk. The vehicle ended up in the glass of the store in front of the parking space. The air bags d",
+      "pct": 7
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This car is equipped with adaptive headlights. When the headlights are turned on, each projects a rectangular shadow. These shadows move when you drive and look like animals coming across the road. Apparently, Subaru says this is normal operation. The dealer noted that it is an i",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Subaru Outback owners report most",
+    "summary": "Across 84 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 20,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Subaru Outback. The contact stated while driving 65 MPH with the cruise control activated, the vehicle made a sudden stop without warning. The contact stated that several minutes later the vehicle operated normally. The vehicle was not diagnosed or repaire",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "20 reports (24%) · 1 fire · 3 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Subaru Outback. The contact stated that upon purchasing the vehicle from the dealer on October 3, 2022, he noticed that the automatic collision alert to the Emergency Services, the diagnostic alert, the remote services, the SOS emergency alert, the stolen ",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "16 reports (19%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA,  I am writing to report an issue I have experienced with the windshield of my Subaru vehicle. Recently, I noticed a crack on the passenger side of the windshield, which initially measured around 5 inches in length. To my surprise, the crack expanded to over 10 inches ",
+        "pct": 19,
+        "title": "Visibility/Wiper",
+        "blurb": "16 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Subaru Outback. The contact stated that while parked with the brake pedal depressed when the vehicle suddenly lunged forward and jumped the curb onto the sidewalk. The vehicle ended up in the glass of the store in front of the parking space. The air bags d",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "6 reports (7%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This car is equipped with adaptive headlights. When the headlights are turned on, each projects a rectangular shadow. These shadows move when you drive and look like animals coming across the road. Apparently, Subaru says this is normal operation. The dealer noted that it is an i",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "6 reports (7%)"
+      }
+    ]
+  }
+}

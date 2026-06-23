@@ -1,0 +1,128 @@
+{
+  "slug": "2022-cadillac-escalade",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CADILLAC/ESCALADE#complaints",
+  "generatedAt": "2026-06-23T16:27:47.336Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 52,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Cadillac Escalade. The contact stated that upon starting the vehicle, the RPM’s revved up and down continuously and the vehicle shuddered significantly. The contact stated that he depressed the brake pedal and shifted into drive (D), and the failure ceased",
+      "pct": 78
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I only had my 2022 Cadillac Escalade for 3 months and noticed black oil drippings in my garage. Took it to Cadillac dealership for inspection I was told it was a seal leaking. Within a month I noticed the same issue black oil drippings in the garage, but I also started to smell a",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Cadillac Escalade.  The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of t",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Cadillac Escalade. The contact stated that while driving at various speeds, the engine shut off without warning. Despite the failure, the engine restarted immediately after the failure. The vehicle was taken to the dealer on several occasions; however, the",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Incident #1 - exiting a parking garage and the vehicle shut off. My wife was able to pull into a parking spot.  the vehicle was towed to the dealer and the resolution was a faulty fuel pump module.  Incident #2 - My wife was at highway speed 65mph during rush hour 4 lanes of traf",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Cadillac Escalade owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Engine (78% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 52,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Cadillac Escalade. The contact stated that upon starting the vehicle, the RPM’s revved up and down continuously and the vehicle shuddered significantly. The contact stated that he depressed the brake pedal and shifted into drive (D), and the failure ceased",
+        "pct": 78,
+        "title": "Engine",
+        "blurb": "52 reports (78%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I only had my 2022 Cadillac Escalade for 3 months and noticed black oil drippings in my garage. Took it to Cadillac dealership for inspection I was told it was a seal leaking. Within a month I noticed the same issue black oil drippings in the garage, but I also started to smell a",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "10 reports (15%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Cadillac Escalade.  The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of t",
+        "pct": 13,
+        "title": "Engine And Engine Cooling",
+        "blurb": "9 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Cadillac Escalade. The contact stated that while driving at various speeds, the engine shut off without warning. Despite the failure, the engine restarted immediately after the failure. The vehicle was taken to the dealer on several occasions; however, the",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "6 reports (9%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Incident #1 - exiting a parking garage and the vehicle shut off. My wife was able to pull into a parking spot.  the vehicle was towed to the dealer and the resolution was a faulty fuel pump module.  Incident #2 - My wife was at highway speed 65mph during rush hour 4 lanes of traf",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (7%)"
+      }
+    ]
+  }
+}

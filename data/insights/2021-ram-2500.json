@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ram-2500",
+  "make": "Ram",
+  "model": "2500",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/RAM/2500#complaints",
+  "generatedAt": "2026-06-23T16:40:11.270Z",
+  "total": 102,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At a stop light after 10 min of normal driving on country and city roads my truck started smoking from front passenger wheel well. Smoke intensified and quickly turned black. Immediately pulled over and found flames burning through front passenger wheel liner and from around pass",
+      "pct": 34
+    },
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At a stop light after 10 min of normal driving on country and city roads my truck started smoking from front passenger wheel well. Smoke intensified and quickly turned black. Immediately pulled over and found flames burning through front passenger wheel liner and from around pass",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 23,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "traveling at slow speeds the motor has abruptly died, loss of steering, acceleration, and brakes were a result. Message came up on dash to shift the truck to park. The parking bake automatically was applied when vehicle slowed to approximately  3 mph leaving the truck stranded in",
+      "pct": 23
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The tailgate unlocked and dropped, hitting the trailer jack and damaging the tailgate.  The tailgate was locked and shut, this was confirmed before we left the house.  The tailgate dropped sometime while driving to another location. The truck is available for inspection.  This pu",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "traveling at slow speeds the motor has abruptly died, loss of steering, acceleration, and brakes were a result. Message came up on dash to shift the truck to park. The parking bake automatically was applied when vehicle slowed to approximately  3 mph leaving the truck stranded in",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ram 2500 owners report most",
+    "summary": "Across 102 owner complaints to NHTSA, the most reported area is Electrical System (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At a stop light after 10 min of normal driving on country and city roads my truck started smoking from front passenger wheel well. Smoke intensified and quickly turned black. Immediately pulled over and found flames burning through front passenger wheel liner and from around pass",
+        "pct": 34,
+        "title": "Electrical System",
+        "blurb": "35 reports (34%) · 5 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At a stop light after 10 min of normal driving on country and city roads my truck started smoking from front passenger wheel well. Smoke intensified and quickly turned black. Immediately pulled over and found flames burning through front passenger wheel liner and from around pass",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "25 reports (25%) · 5 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 23,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "traveling at slow speeds the motor has abruptly died, loss of steering, acceleration, and brakes were a result. Message came up on dash to shift the truck to park. The parking bake automatically was applied when vehicle slowed to approximately  3 mph leaving the truck stranded in",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "23 reports (23%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The tailgate unlocked and dropped, hitting the trailer jack and damaging the tailgate.  The tailgate was locked and shut, this was confirmed before we left the house.  The tailgate dropped sometime while driving to another location. The truck is available for inspection.  This pu",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "12 reports (12%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "traveling at slow speeds the motor has abruptly died, loss of steering, acceleration, and brakes were a result. Message came up on dash to shift the truck to park. The parking bake automatically was applied when vehicle slowed to approximately  3 mph leaving the truck stranded in",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "9 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2022-acura-ilx",
+  "make": "Acura",
+  "model": "ILX",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/ACURA/ILX#complaints",
+  "generatedAt": "2026-06-23T16:24:47.589Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am experiencing what I believe to be unauthorized remote access/control of my 2022 Acura ILX. I suspect the extra set of keys provided by the dealership was given to unauthorized parties without my consent. The vehicle has exhibited sudden and unexplained changes in acceleratio",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am experiencing what I believe to be unauthorized remote access/control of my 2022 Acura ILX. I suspect the extra set of keys provided by the dealership was given to unauthorized parties without my consent. The vehicle has exhibited sudden and unexplained changes in acceleratio",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The paint on the vehicle is chipping away. There are a few spots on the vehicle that the paint is chipping away. This can lead to rust. I purchased the vehicle new and the vehicle does not even have 5k miles as of now.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Acura Ilx owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am experiencing what I believe to be unauthorized remote access/control of my 2022 Acura ILX. I suspect the extra set of keys provided by the dealership was given to unauthorized parties without my consent. The vehicle has exhibited sudden and unexplained changes in acceleratio",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am experiencing what I believe to be unauthorized remote access/control of my 2022 Acura ILX. I suspect the extra set of keys provided by the dealership was given to unauthorized parties without my consent. The vehicle has exhibited sudden and unexplained changes in acceleratio",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The paint on the vehicle is chipping away. There are a few spots on the vehicle that the paint is chipping away. This can lead to rust. I purchased the vehicle new and the vehicle does not even have 5k miles as of now.",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

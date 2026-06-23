@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-06-23T16:28:55.049Z",
+  "total": 194,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 101,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Tahoe. The contact stated while driving various speeds, the vehicle would shake with the check engine and several other unknown warning lights illuminated. Upon restarting the vehicle, the vehicle failed to move out of park(P) with the warning li",
+      "pct": 52
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 38,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have a chevy with the 6.2 V8 engine. First we were at a stop light on the highway and the car shifted into Neutral and would not come out for two light cycles. My wife and children were stuck at the light with car's swerving around them at 65+. Finally it shifted into Drive. W",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Less than four weeks after having purchased a new 2023 Chevrolet Tahoe LT the backup and 360-degree surround vision camera system completely failed.  The cameras would intermittently flicker or would lose connection all together preventing the driver from being able to reverse ha",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving this rental vehicle in traffic it shutdown and came to an abrupt halt. All lights on the dash were flashing, emergency hazard lights would not turn on.  Attempted to restart vehicle with no result. After 2 minutes vehicle dash lights went off and hazard lights were ",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Exhaust leaks in to the cab. This has happened on several Chevrolet Tahoe Police Package Vehicle models that we have. Here are the Vin #'s [XXX]  [XXX]   [XXX]   [XXX]   [XXX]   Several other Sheriff's Offices have had the same issues with their Tahoe PPV's- Big Stone County, Dod",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Tahoe owners report most",
+    "summary": "Across 194 owner complaints to NHTSA, the most reported area is Engine (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 101,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Tahoe. The contact stated while driving various speeds, the vehicle would shake with the check engine and several other unknown warning lights illuminated. Upon restarting the vehicle, the vehicle failed to move out of park(P) with the warning li",
+        "pct": 52,
+        "title": "Engine",
+        "blurb": "101 reports (52%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 38,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have a chevy with the 6.2 V8 engine. First we were at a stop light on the highway and the car shifted into Neutral and would not come out for two light cycles. My wife and children were stuck at the light with car's swerving around them at 65+. Finally it shifted into Drive. W",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "38 reports (20%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Less than four weeks after having purchased a new 2023 Chevrolet Tahoe LT the backup and 360-degree surround vision camera system completely failed.  The cameras would intermittently flicker or would lose connection all together preventing the driver from being able to reverse ha",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "35 reports (18%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving this rental vehicle in traffic it shutdown and came to an abrupt halt. All lights on the dash were flashing, emergency hazard lights would not turn on.  Attempted to restart vehicle with no result. After 2 minutes vehicle dash lights went off and hazard lights were ",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "20 reports (10%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Exhaust leaks in to the cab. This has happened on several Chevrolet Tahoe Police Package Vehicle models that we have. Here are the Vin #'s [XXX]  [XXX]   [XXX]   [XXX]   [XXX]   Several other Sheriff's Offices have had the same issues with their Tahoe PPV's- Big Stone County, Dod",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "17 reports (9%)"
+      }
+    ]
+  }
+}

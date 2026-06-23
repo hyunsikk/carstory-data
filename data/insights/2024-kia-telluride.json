@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-telluride",
+  "make": "Kia",
+  "model": "Telluride",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/TELLURIDE#complaints",
+  "generatedAt": "2026-06-23T16:37:05.590Z",
+  "total": 198,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 41,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Telluride. The contact stated while driving approximately 40 MPH in snow mode, the vehicle failed to accelerate as needed. The vehicle was started but was unable to drive as needed for approximately 30 minutes. The contact stated that after turning off",
+      "pct": 21
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving under normal conditions and with significant distance from another vehicle in front of me, a small rock/pebble hit the windshield of my vehicle, which caused a rock chip. The rock chip quickly \"spidered\" out and spread within a matter of an hour. Currently there are",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 27,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On multiple occasions, the automatic braking has engaged while reversing even though there has been no risk of collision. It has happened with no cars, pedestrians, or other obstacles in sight. The brakes engage suddenly and with no warning causing the car to come to a violent st",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Subject: Urgent Safety Concern Regarding 2024 Kia Telluride – Defective Trim/Molding Adhesive  Dear National Highway Traffic Safety Administration (NHTSA),  I am writing to report a significant safety concern regarding my 2024 Kia Telluride. Specifically, the horizontal trim/mold",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Telluride. The contact stated that while driving with the vehicle in Snow Mode, the vehicle failed to accelerate as needed. The contact switched to Sport Mode for the vehicle to respond and accelerate as needed. There were no warning lights illuminated",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Telluride owners report most",
+    "summary": "Across 198 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 41,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Telluride. The contact stated while driving approximately 40 MPH in snow mode, the vehicle failed to accelerate as needed. The vehicle was started but was unable to drive as needed for approximately 30 minutes. The contact stated that after turning off",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "41 reports (21%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving under normal conditions and with significant distance from another vehicle in front of me, a small rock/pebble hit the windshield of my vehicle, which caused a rock chip. The rock chip quickly \"spidered\" out and spread within a matter of an hour. Currently there are",
+        "pct": 15,
+        "title": "Visibility/Wiper",
+        "blurb": "29 reports (15%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 27,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On multiple occasions, the automatic braking has engaged while reversing even though there has been no risk of collision. It has happened with no cars, pedestrians, or other obstacles in sight. The brakes engage suddenly and with no warning causing the car to come to a violent st",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "27 reports (14%) · 4 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Subject: Urgent Safety Concern Regarding 2024 Kia Telluride – Defective Trim/Molding Adhesive  Dear National Highway Traffic Safety Administration (NHTSA),  I am writing to report a significant safety concern regarding my 2024 Kia Telluride. Specifically, the horizontal trim/mold",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "24 reports (12%) · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Telluride. The contact stated that while driving with the vehicle in Snow Mode, the vehicle failed to accelerate as needed. The contact switched to Sport Mode for the vehicle to respond and accelerate as needed. There were no warning lights illuminated",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "15 reports (8%)"
+      }
+    ]
+  }
+}

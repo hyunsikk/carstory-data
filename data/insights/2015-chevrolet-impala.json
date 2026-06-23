@@ -1,0 +1,128 @@
+{
+  "slug": "2015-chevrolet-impala",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/CHEVROLET/IMPALA#complaints",
+  "generatedAt": "2026-06-23T16:28:28.014Z",
+  "total": 298,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 95,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LATENT DEFECT IN CHEVROLET 2015 IMPALA IGNITION SYSTEMS THAT GM (GENERAL MOTORS) WILL NOT FIX.      THE KEYLESS ENTRY FOB WAS REDESIGN FROM PART NUMBER GM/L 22733524 TO PART NUMBER GM 13584829, WHICH HAS RESULTED IN ALL THE PUSH BUTTON SWITCHES NOW RAISED ABOVE THE KEYLESS HOUSIN",
+      "pct": 32
+    },
+    {
+      "component": "STEERING",
+      "count": 44,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2015 CHEVROLET IMPALA. THE CONTACT STATED THAT WHILE DRIVING AT UNKNOWN SPEEDS AND ATTEMPTING TO MAKE A COMPLETE STOP, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE WOULD NOT STOP. THE CONTACT ALSO STATED THAT THE STEERING WHEEL FAILED TO RESPOND CAUSING T",
+      "pct": 15
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 42,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET IMPALA. WHILE REVERSING OUT OF A PARKING SPACE, THE REAR CAMERA FAILED TO OPERATE AND THE DRIVER'S SIDE LANE DEPARTURE ALERT FAILED. THE VEHICLE WAS TAKEN TO A LOCAL DEALER (DOAN CHEVROLET, 5049 W RIDGE RD, SPENCERPORT, NY 14559) WHERE IT WAS",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 29,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "LETTER FROM CONGRESSMAN PERRY ON BEHALF OF CONSTITUENT RE 2015 CHEVY IMPALA AIRBAG DEFECT.  *SMD  THE CONSUMER STATED THE FRONT PASSENGER SEAT AIR BAG SENSOR WOULD NOT TURN ON UNLESS  A PERSON OF ADEQUATE WEIGHT WAS SITTING IN THE SEAT WITHOUT ANY CUSHION.  THE CONSUMER'S WIFE HA",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 24,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I PURCHASED A NEW 2015 CHEVROLET IMPALA LT2 ON JUNE 30, 2015 WITH 25 MILES ON THE ODOMETER FROM RED RIVER CHEVY, BOSSIER CITY, LA. THE GPS AND NAVIGATION AND THE WHOLE INFOTAINMENT SYSTEM STOPPED WORKING. ONSTAR COULD NOT LOCATE MY VEHICLE. IT KEPT SAYING I WAS IN TEXAS WHEN I HA",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Chevrolet Impala owners report most",
+    "summary": "Across 298 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 95,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LATENT DEFECT IN CHEVROLET 2015 IMPALA IGNITION SYSTEMS THAT GM (GENERAL MOTORS) WILL NOT FIX.      THE KEYLESS ENTRY FOB WAS REDESIGN FROM PART NUMBER GM/L 22733524 TO PART NUMBER GM 13584829, WHICH HAS RESULTED IN ALL THE PUSH BUTTON SWITCHES NOW RAISED ABOVE THE KEYLESS HOUSIN",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "95 reports (32%) · 4 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 44,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2015 CHEVROLET IMPALA. THE CONTACT STATED THAT WHILE DRIVING AT UNKNOWN SPEEDS AND ATTEMPTING TO MAKE A COMPLETE STOP, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE WOULD NOT STOP. THE CONTACT ALSO STATED THAT THE STEERING WHEEL FAILED TO RESPOND CAUSING T",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "44 reports (15%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 42,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET IMPALA. WHILE REVERSING OUT OF A PARKING SPACE, THE REAR CAMERA FAILED TO OPERATE AND THE DRIVER'S SIDE LANE DEPARTURE ALERT FAILED. THE VEHICLE WAS TAKEN TO A LOCAL DEALER (DOAN CHEVROLET, 5049 W RIDGE RD, SPENCERPORT, NY 14559) WHERE IT WAS",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "42 reports (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 29,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "LETTER FROM CONGRESSMAN PERRY ON BEHALF OF CONSTITUENT RE 2015 CHEVY IMPALA AIRBAG DEFECT.  *SMD  THE CONSUMER STATED THE FRONT PASSENGER SEAT AIR BAG SENSOR WOULD NOT TURN ON UNLESS  A PERSON OF ADEQUATE WEIGHT WAS SITTING IN THE SEAT WITHOUT ANY CUSHION.  THE CONSUMER'S WIFE HA",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "29 reports (10%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 24,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I PURCHASED A NEW 2015 CHEVROLET IMPALA LT2 ON JUNE 30, 2015 WITH 25 MILES ON THE ODOMETER FROM RED RIVER CHEVY, BOSSIER CITY, LA. THE GPS AND NAVIGATION AND THE WHOLE INFOTAINMENT SYSTEM STOPPED WORKING. ONSTAR COULD NOT LOCATE MY VEHICLE. IT KEPT SAYING I WAS IN TEXAS WHEN I HA",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "24 reports (8%) · 1 fire · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

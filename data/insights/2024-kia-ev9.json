@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-ev9",
+  "make": "Kia",
+  "model": "EV9",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/EV9#complaints",
+  "generatedAt": "2026-06-23T16:36:26.031Z",
+  "total": 204,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 102,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle has a 12v battery that runs accessory systems that is charged by the main battery. The vehicle has an issue where the main battery does not charge the 12v. Nothing on the vehicle will function and you can not enter the vehicle. You can also not charge the vehicle. Thi",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While using adaptive cruise control on the highway, my car almost rear ended the car in front of me when it surged ahead around a slight curve in the road.    I was travelling approximately 5mph below the set cruise speed due to the traffic ahead.  It appears that my vehicle lost",
+      "pct": 12
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 21,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The manufacturer failed to align the vehicle at all prior to leaving the factory. The failed parts all have to do with the alignment. My safety was put at risk because of the persistent pull while driving, shaking while driving, instability at high speeds, and the fact that the t",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While using adaptive cruise control on the highway, my car almost rear ended the car in front of me when it surged ahead around a slight curve in the road.    I was travelling approximately 5mph below the set cruise speed due to the traffic ahead.  It appears that my vehicle lost",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While using adaptive cruise control on the highway, my car almost rear ended the car in front of me when it surged ahead around a slight curve in the road.    I was travelling approximately 5mph below the set cruise speed due to the traffic ahead.  It appears that my vehicle lost",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Ev9 owners report most",
+    "summary": "Across 204 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 102,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle has a 12v battery that runs accessory systems that is charged by the main battery. The vehicle has an issue where the main battery does not charge the 12v. Nothing on the vehicle will function and you can not enter the vehicle. You can also not charge the vehicle. Thi",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "102 reports (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While using adaptive cruise control on the highway, my car almost rear ended the car in front of me when it surged ahead around a slight curve in the road.    I was travelling approximately 5mph below the set cruise speed due to the traffic ahead.  It appears that my vehicle lost",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "24 reports (12%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 21,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The manufacturer failed to align the vehicle at all prior to leaving the factory. The failed parts all have to do with the alignment. My safety was put at risk because of the persistent pull while driving, shaking while driving, instability at high speeds, and the fact that the t",
+        "pct": 10,
+        "title": "Suspension",
+        "blurb": "21 reports (10%) · 1 fire"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While using adaptive cruise control on the highway, my car almost rear ended the car in front of me when it surged ahead around a slight curve in the road.    I was travelling approximately 5mph below the set cruise speed due to the traffic ahead.  It appears that my vehicle lost",
+        "pct": 10,
+        "title": "Lane Departure",
+        "blurb": "20 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While using adaptive cruise control on the highway, my car almost rear ended the car in front of me when it surged ahead around a slight curve in the road.    I was travelling approximately 5mph below the set cruise speed due to the traffic ahead.  It appears that my vehicle lost",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "17 reports (8%)"
+      }
+    ]
+  }
+}

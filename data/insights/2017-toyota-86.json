@@ -1,0 +1,62 @@
+{
+  "slug": "2017-toyota-86",
+  "make": "Toyota",
+  "model": "86",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/TOYOTA/86#complaints",
+  "generatedAt": "2026-06-23T16:41:12.138Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VALVE SPRINGS ON CYLINDER TWO HAVE NOT ENOUGH TENSION CAR ISN'T WORKING RIGHT NEEDS NEW VALVE SPRINGS",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS MY SON WAS DRIVING FROM DAVENPORT ON I-4 TO CONNECT WITH I-75 ON HIS WAY TO NAPLES, ON THURSDAY JANUARY 10, 2019 AROUND 10:50 AM, HE SUDDENLY ENCOUNTERED A LARGE METAL OBJECT ON THE ROAD.  HE HAD NO OPPORTUNITY TO TO MOVE OVER AS THERE WHERE MANY OTHER VEHICLES ON THE ROAD AND",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Toyota 86 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VALVE SPRINGS ON CYLINDER TWO HAVE NOT ENOUGH TENSION CAR ISN'T WORKING RIGHT NEEDS NEW VALVE SPRINGS",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS MY SON WAS DRIVING FROM DAVENPORT ON I-4 TO CONNECT WITH I-75 ON HIS WAY TO NAPLES, ON THURSDAY JANUARY 10, 2019 AROUND 10:50 AM, HE SUDDENLY ENCOUNTERED A LARGE METAL OBJECT ON THE ROAD.  HE HAD NO OPPORTUNITY TO TO MOVE OVER AS THERE WHERE MANY OTHER VEHICLES ON THE ROAD AND",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-santa-fe",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/SANTA%20FE#complaints",
+  "generatedAt": "2026-06-23T16:33:57.748Z",
+  "total": 125,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 35,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Two incidents prior to taking in to the dealership:  Thursday, 6/27: Car would not reverse when trying to get out of parking spot. Even though it was indicating reverse it kept moving forward in neutral  Friday, 6/28: Car would not go into park. When I tried to set it in park it ",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When driving the cluster panel with speedometer etc goes black for a bit and then comes back on.  Also, all the warning lights will come on sporadically at the same time and stay on for a few seconds then go away, or just stay on until car is turned off.  Heads up display also go",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased this car new from Crain Hyundai, Conway AR, on 4/1/2024. On 4/3 we called dealer because Bluelink reported 13 maintenance critical issues needed immediate service. Took the vehicle to dealer on 4/4. They worked on vehicle, said they fixed issue and notices would disappe",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When placed in \"Park\" the vehicle's brakes did not engage, which allowed the vehicle to roll backwards when I exited the vehicle. I was able to reproduce the problem again and I recorded a video showing the problem.  When pressing \"Park\" on the electronic shifter, the dashboard d",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While the car was in park, we used the auto start feature to get the A/C going as we walked to the car. We heard a loud popping sound then shut the car off. My husband looked under the hood to look around for what could have made the noise and asked me to start the car. When I di",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Santa Fe owners report most",
+    "summary": "Across 125 owner complaints to NHTSA, the most reported area is Power Train (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 35,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Two incidents prior to taking in to the dealership:  Thursday, 6/27: Car would not reverse when trying to get out of parking spot. Even though it was indicating reverse it kept moving forward in neutral  Friday, 6/28: Car would not go into park. When I tried to set it in park it ",
+        "pct": 28,
+        "title": "Power Train",
+        "blurb": "35 reports (28%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When driving the cluster panel with speedometer etc goes black for a bit and then comes back on.  Also, all the warning lights will come on sporadically at the same time and stay on for a few seconds then go away, or just stay on until car is turned off.  Heads up display also go",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "22 reports (18%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased this car new from Crain Hyundai, Conway AR, on 4/1/2024. On 4/3 we called dealer because Bluelink reported 13 maintenance critical issues needed immediate service. Took the vehicle to dealer on 4/4. They worked on vehicle, said they fixed issue and notices would disappe",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (10%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When placed in \"Park\" the vehicle's brakes did not engage, which allowed the vehicle to roll backwards when I exited the vehicle. I was able to reproduce the problem again and I recorded a video showing the problem.  When pressing \"Park\" on the electronic shifter, the dashboard d",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "12 reports (10%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While the car was in park, we used the auto start feature to get the A/C going as we walked to the car. We heard a loud popping sound then shut the car off. My husband looked under the hood to look around for what could have made the noise and asked me to start the car. When I di",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "9 reports (7%)"
+      }
+    ]
+  }
+}

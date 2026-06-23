@@ -1,0 +1,128 @@
+{
+  "slug": "2022-bmw-x3",
+  "make": "BMW",
+  "model": "X3",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X3#complaints",
+  "generatedAt": "2026-06-23T16:27:00.336Z",
+  "total": 64,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving at approximately 45 mph on Florida Highway 10 with no other cars around the sunroof suddenly shattered. There was a loud “pop” and the sound of glass hitting the top of the car. The sunroof and shade were closed at the time and most of the glass ended up in the stre",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "- Bracket holding KAFAS camera system to windshield failed causing Driver Assistance system errors in vehicle; surrounding area gets very hot to the touch - System errors restricted certain driver assistance features including collision warnings - Problem was found by two dealers",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have two major concerns 1) When I drive in the snow and engage \"traction control\" the brakes stop working properly - to the point that I had to stomp on the pedal with both feet to get them to kick in. It was truly terrifying. Another friend with a 2023 model X3 experienced the",
+      "pct": 13
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "instrument cluster sporadically working.  front collision and lane departure not working when the cluster isn't working. unable to judge speed accurately, Yes problem has been reproduced by Sandy Sansing BMW in Pensacola FL.no the part hasn't been inspected.no other warmings but ",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When a door or hatch is opened, the car horn is continuously activated for up to two minutes. No switches or key fob buttons deactivate the horn. The dealer service department thinks it is a defective switch or relay in the steering column. The vehicle is underivable because of h",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X3 owners report most",
+    "summary": "Across 64 owner complaints to NHTSA, the most reported area is Structure (17% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving at approximately 45 mph on Florida Highway 10 with no other cars around the sunroof suddenly shattered. There was a loud “pop” and the sound of glass hitting the top of the car. The sunroof and shade were closed at the time and most of the glass ended up in the stre",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "11 reports (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "- Bracket holding KAFAS camera system to windshield failed causing Driver Assistance system errors in vehicle; surrounding area gets very hot to the touch - System errors restricted certain driver assistance features including collision warnings - Problem was found by two dealers",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (16%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have two major concerns 1) When I drive in the snow and engage \"traction control\" the brakes stop working properly - to the point that I had to stomp on the pedal with both feet to get them to kick in. It was truly terrifying. Another friend with a 2023 model X3 experienced the",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "8 reports (13%) · 3 fire"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "instrument cluster sporadically working.  front collision and lane departure not working when the cluster isn't working. unable to judge speed accurately, Yes problem has been reproduced by Sandy Sansing BMW in Pensacola FL.no the part hasn't been inspected.no other warmings but ",
+        "pct": 13,
+        "title": "Lane Departure",
+        "blurb": "8 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When a door or hatch is opened, the car horn is continuously activated for up to two minutes. No switches or key fob buttons deactivate the horn. The dealer service department thinks it is a defective switch or relay in the steering column. The vehicle is underivable because of h",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "7 reports (11%)"
+      }
+    ]
+  }
+}

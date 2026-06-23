@@ -1,0 +1,62 @@
+{
+  "slug": "2024-subaru-brz",
+  "make": "Subaru",
+  "model": "BRZ",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/SUBARU/BRZ#complaints",
+  "generatedAt": "2026-06-23T16:40:36.293Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Stock fuel lines on the driver side of vehicle are having rubbing/clearance issues with the hood and are causing engine fires for the 2022+ Subaru BRZ/Toyota GR86 model vehicles.",
+      "pct": 50
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Stock fuel lines on the driver side of vehicle are having rubbing/clearance issues with the hood and are causing engine fires for the 2022+ Subaru BRZ/Toyota GR86 model vehicles.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Subaru Brz owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Stock fuel lines on the driver side of vehicle are having rubbing/clearance issues with the hood and are causing engine fires for the 2022+ Subaru BRZ/Toyota GR86 model vehicles.",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Stock fuel lines on the driver side of vehicle are having rubbing/clearance issues with the hood and are causing engine fires for the 2022+ Subaru BRZ/Toyota GR86 model vehicles.",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-ioniq-6",
+  "make": "Hyundai",
+  "model": "Ioniq 6",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/IONIQ%206#complaints",
+  "generatedAt": "2026-06-23T16:33:28.491Z",
+  "total": 36,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This incident just happened around 9:50pm. I have a 2024 ioniq 6 SEL with 2900 miles. I lost power to my motor while going below 45 mph. The gage that shows acceleration and recharge, zeroed out, showing absolutely nothing. Once I came to a complete stop, I had to restart the car",
+      "pct": 56
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This incident just happened around 9:50pm. I have a 2024 ioniq 6 SEL with 2900 miles. I lost power to my motor while going below 45 mph. The gage that shows acceleration and recharge, zeroed out, showing absolutely nothing. Once I came to a complete stop, I had to restart the car",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ICCU failure DTC P1A9096 12 volt battery depleted charge and would not charge off of traction battery shutting down all systems.  Vehicle stopped on the middle of highway creating a safety issue.  Vehicle was in previously and had all recalls performed related this possible issue",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I was driving home from work, a loud POP went off under my car, and sirens began to go off. I was given a critical error, and told to immediately contact a dealership. My car began to slow, and would only go 25 mph. Luckily for me I was within a few miles of a dealership, but ",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Today, I had a scary situation on my 2024 Hyundai Ioniq 6 limited. While backing out of a parking space, I put my foot on the brake to place the car in drive and the car kept rolling back no matter what I did and almost crash into the car park across. I was able to finally stop t",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Ioniq 6 owners report most",
+    "summary": "Across 36 owner complaints to NHTSA, the most reported area is Electrical System (56% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This incident just happened around 9:50pm. I have a 2024 ioniq 6 SEL with 2900 miles. I lost power to my motor while going below 45 mph. The gage that shows acceleration and recharge, zeroed out, showing absolutely nothing. Once I came to a complete stop, I had to restart the car",
+        "pct": 56,
+        "title": "Electrical System",
+        "blurb": "20 reports (56%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This incident just happened around 9:50pm. I have a 2024 ioniq 6 SEL with 2900 miles. I lost power to my motor while going below 45 mph. The gage that shows acceleration and recharge, zeroed out, showing absolutely nothing. Once I came to a complete stop, I had to restart the car",
+        "pct": 19,
+        "title": "Vehicle Speed Control",
+        "blurb": "7 reports (19%) · 2 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ICCU failure DTC P1A9096 12 volt battery depleted charge and would not charge off of traction battery shutting down all systems.  Vehicle stopped on the middle of highway creating a safety issue.  Vehicle was in previously and had all recalls performed related this possible issue",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "5 reports (14%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I was driving home from work, a loud POP went off under my car, and sirens began to go off. I was given a critical error, and told to immediately contact a dealership. My car began to slow, and would only go 25 mph. Luckily for me I was within a few miles of a dealership, but ",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Today, I had a scary situation on my 2024 Hyundai Ioniq 6 limited. While backing out of a parking space, I put my foot on the brake to place the car in drive and the car kept rolling back no matter what I did and almost crash into the car park across. I was able to finally stop t",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "3 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-avalon",
+  "make": "Toyota",
+  "model": "Avalon",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/AVALON#complaints",
+  "generatedAt": "2026-06-23T16:41:13.560Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The vehicle was proceeding on the freeway when the drivers side rear tire blew out and went completely flat. The low pressure tire warning system that alerted us never indicated that the air pressure was low or getting low, but rather it had instantly dropped to 0 PSI. There was ",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After a maintenance service, i was made aware of an oil leak from where the bank 1 head gasket meets the timing cover. Verbally quoted for $6500 due to the “extensive labor” costs of replacing the gasket.",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Went to dealer cause air bag malfunction came on they said it was the driver seat belt clicker being faulty. They wanted 250 to fix it. I fixed it myself for 50. To find out it was the passenger clicker. They have a recall on the passenger but dealer lied said it was driver side ",
+      "pct": 13
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Went to dealer cause air bag malfunction came on they said it was the driver seat belt clicker being faulty. They wanted 250 to fix it. I fixed it myself for 50. To find out it was the passenger clicker. They have a recall on the passenger but dealer lied said it was driver side ",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Infotainment screen went black when car had 42,000mi. Took to toyota dealer and charged $200 for same reset i did at home also charging ports do not work. Can't get any gps or anything information on car through screen all Took place in 2023",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Avalon owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Tires (25% of reports).",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The vehicle was proceeding on the freeway when the drivers side rear tire blew out and went completely flat. The low pressure tire warning system that alerted us never indicated that the air pressure was low or getting low, but rather it had instantly dropped to 0 PSI. There was ",
+        "pct": 25,
+        "title": "Tires",
+        "blurb": "2 reports (25%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After a maintenance service, i was made aware of an oil leak from where the bank 1 head gasket meets the timing cover. Verbally quoted for $6500 due to the “extensive labor” costs of replacing the gasket.",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Went to dealer cause air bag malfunction came on they said it was the driver seat belt clicker being faulty. They wanted 250 to fix it. I fixed it myself for 50. To find out it was the passenger clicker. They have a recall on the passenger but dealer lied said it was driver side ",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Went to dealer cause air bag malfunction came on they said it was the driver seat belt clicker being faulty. They wanted 250 to fix it. I fixed it myself for 50. To find out it was the passenger clicker. They have a recall on the passenger but dealer lied said it was driver side ",
+        "pct": 13,
+        "title": "Seat Belts",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Infotainment screen went black when car had 42,000mi. Took to toyota dealer and charged $200 for same reset i did at home also charging ports do not work. Can't get any gps or anything information on car through screen all Took place in 2023",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

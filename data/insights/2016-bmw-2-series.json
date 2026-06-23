@@ -1,0 +1,128 @@
+{
+  "slug": "2016-bmw-2-series",
+  "make": "BMW",
+  "model": "2 Series",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/2%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:42.183Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON FEB 2, 2017 MY CAR (2016 BMW 228I) SPONTANEOUSLY COMBUSTED IN MY DRIVEWAY AFTER BEING PARKED FOR APPROXIMATELY 4-1/2 HOURS.  THE VEHICLE HAD LESS THAT 13,000 MILES ON THE ODOMETER, AND WAS LAST SERVICED (WHICH WAS THE 1ST SCHEDULED SERVICE) THREE MONTHS PRIOR AT THE BMW DEALER",
+      "pct": 61
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW 228I. The contact stated that intermittently, while driving at undisclosed speeds and depressing the brake pedal, there was an abnormal odor of smoke. The braking lamp malfunction light was illuminated. The vehicle was taken to an independent mechanic ",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW 228I. The contact stated that intermittently, while driving at undisclosed speeds and depressing the brake pedal, there was an abnormal odor of smoke. The braking lamp malfunction light was illuminated. The vehicle was taken to an independent mechanic ",
+      "pct": 11
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOTH FRONT SEAT BELTS BECOME EASILY TANGLED/TWISTED AND WILL NOT RETRACT. THE ONLY WAY TO GET OUT OF THE BELT IS TO PULL IT ALL THE WAY OUT AND THEN IT GETS STUCK ALL THE WAY OUT AND WILL NOT RETRACT.   THIS HAPPENS ON AVERAGE EVERY 50 TIMES OF USING THE BELT.  I HAVE RETURNED IT",
+      "pct": 11
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In 2019, I purchased a pre-owned BMW 228i from BMW Northwest. Recently, it was discovered that an incorrect front-sized rim has been installed on the rear wheel of my car. This has resulted in having three front rims and only one rear rim on my vehicle. The car has exclusively in",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw 2 Series owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Electrical System (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON FEB 2, 2017 MY CAR (2016 BMW 228I) SPONTANEOUSLY COMBUSTED IN MY DRIVEWAY AFTER BEING PARKED FOR APPROXIMATELY 4-1/2 HOURS.  THE VEHICLE HAD LESS THAT 13,000 MILES ON THE ODOMETER, AND WAS LAST SERVICED (WHICH WAS THE 1ST SCHEDULED SERVICE) THREE MONTHS PRIOR AT THE BMW DEALER",
+        "pct": 61,
+        "title": "Electrical System",
+        "blurb": "11 reports (61%) · 1 fire"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW 228I. The contact stated that intermittently, while driving at undisclosed speeds and depressing the brake pedal, there was an abnormal odor of smoke. The braking lamp malfunction light was illuminated. The vehicle was taken to an independent mechanic ",
+        "pct": 50,
+        "title": "Engine And Engine Cooling",
+        "blurb": "9 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW 228I. The contact stated that intermittently, while driving at undisclosed speeds and depressing the brake pedal, there was an abnormal odor of smoke. The braking lamp malfunction light was illuminated. The vehicle was taken to an independent mechanic ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOTH FRONT SEAT BELTS BECOME EASILY TANGLED/TWISTED AND WILL NOT RETRACT. THE ONLY WAY TO GET OUT OF THE BELT IS TO PULL IT ALL THE WAY OUT AND THEN IT GETS STUCK ALL THE WAY OUT AND WILL NOT RETRACT.   THIS HAPPENS ON AVERAGE EVERY 50 TIMES OF USING THE BELT.  I HAVE RETURNED IT",
+        "pct": 11,
+        "title": "Seat Belts",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In 2019, I purchased a pre-owned BMW 228i from BMW Northwest. Recently, it was discovered that an incorrect front-sized rim has been installed on the rear wheel of my car. This has resulted in having three front rims and only one rear rim on my vehicle. The car has exclusively in",
+        "pct": 6,
+        "title": "Wheels",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

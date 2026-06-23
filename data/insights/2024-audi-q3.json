@@ -1,0 +1,128 @@
+{
+  "slug": "2024-audi-q3",
+  "make": "Audi",
+  "model": "Q3",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/Q3#complaints",
+  "generatedAt": "2026-06-23T16:25:56.045Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Audi Q3. The contact stated that while turning off the vehicle, the vehicle independently restarted upon exiting the vehicle. The contact also stated that the vehicle failed to automatically lock upon exiting the vehicle as designed. On multiple occasions ",
+      "pct": 35
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The brakes are making a loud grinding noise, especially when the car is first used from a cold start. I have taken it to Audi 2 times and been told it is multiple reasons that are causing it and they say there is no fixing it. First, I was told it had been sitting for a while and",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We are submitting this formal complaint regarding a recurring and unresolved issue with the HVAC (air conditioning) system in our 2024 Audi Q3 Quattro S Line. Since February 2024, we have consistently experienced failures in the climate control system, particularly after exposure",
+      "pct": 12
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Audi Q3.  The contact stated that while driving approximately 10 MPH, a second vehicle T- Boned crashed into the driver's side of the vehicle. During the crash, no air bags deployed, and the collision avoidance system did not activate to alert the driver. ",
+      "pct": 6
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle’s Adaptive Cruise Control (ACC) system intermittently fails to detect vehicles directly ahead at lower speeds. When this occurs, the car maintains the set speed instead of slowing down, creating a potential collision risk. The issue has been present since the vehicle ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Q3 owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Audi Q3. The contact stated that while turning off the vehicle, the vehicle independently restarted upon exiting the vehicle. The contact also stated that the vehicle failed to automatically lock upon exiting the vehicle as designed. On multiple occasions ",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "6 reports (35%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The brakes are making a loud grinding noise, especially when the car is first used from a cold start. I have taken it to Audi 2 times and been told it is multiple reasons that are causing it and they say there is no fixing it. First, I was told it had been sitting for a while and",
+        "pct": 24,
+        "title": "Service Brakes",
+        "blurb": "4 reports (24%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We are submitting this formal complaint regarding a recurring and unresolved issue with the HVAC (air conditioning) system in our 2024 Audi Q3 Quattro S Line. Since February 2024, we have consistently experienced failures in the climate control system, particularly after exposure",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Audi Q3.  The contact stated that while driving approximately 10 MPH, a second vehicle T- Boned crashed into the driver's side of the vehicle. During the crash, no air bags deployed, and the collision avoidance system did not activate to alert the driver. ",
+        "pct": 6,
+        "title": "Air Bags",
+        "blurb": "1 report (6%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle’s Adaptive Cruise Control (ACC) system intermittently fails to detect vehicles directly ahead at lower speeds. When this occurs, the car maintains the set speed instead of slowing down, creating a potential collision risk. The issue has been present since the vehicle ",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

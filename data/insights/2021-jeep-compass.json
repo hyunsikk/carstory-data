@@ -1,0 +1,128 @@
+{
+  "slug": "2021-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T16:35:42.050Z",
+  "total": 76,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "It’s happened 3 times now. I’ll be driving and everything is fine, and suddenly an error will pop up on the dash that will read “coolant temp too high” and the entire car will power down while driving. It’s almost caused me to wreck all 3 times. The coolant had been at a normal t",
+      "pct": 41
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2021 jeep Compass transmission and front camera has been causing me problems. My car for months has been jumping out of gear and jerking forward. The jerk get to a point where it feels as if someone just hit me from behind. These jerks almost caused me to get into about 3 acci",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED THIS VEHICLE IN JULY 2021.  I DRIVE IT 2-3 TIMES PER WEEK.  EACH WEEK I PUT IN BETWEEN $15-$20 IN GAS TO BRING THE FUEL LEVEL BACK UP TO THE FULL MARK. THE JEEPS DOES NOT HAVE GOOD FUEL ECONOMY. IT DEFINITELY DOES NOT REACH 22-25MPG. I DRIVE IT ABOUT 30MINUTES EACH WA",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A noise, coming front the front end of my 2021 Jeep Compass is generated while is driving at low velocity (15 mph or slower). The noise intensity increases when the jeep is driven for over an hour.   I took the jeep to dealer on Nov 3, 2021, with 701 miles to have it checked and ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Jeep's engine decided to shut off at a red light. This jeep has the automatic shutoff for the engine when idling too long. I could not restart the engine. I blocked 2 lanes of traffic, and was unable to push the vehicle out of the way. I Tried restarting the engine several ti",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Jeep Compass owners report most",
+    "summary": "Across 76 owner complaints to NHTSA, the most reported area is Electrical System (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "It’s happened 3 times now. I’ll be driving and everything is fine, and suddenly an error will pop up on the dash that will read “coolant temp too high” and the entire car will power down while driving. It’s almost caused me to wreck all 3 times. The coolant had been at a normal t",
+        "pct": 41,
+        "title": "Electrical System",
+        "blurb": "31 reports (41%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2021 jeep Compass transmission and front camera has been causing me problems. My car for months has been jumping out of gear and jerking forward. The jerk get to a point where it feels as if someone just hit me from behind. These jerks almost caused me to get into about 3 acci",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "16 reports (21%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED THIS VEHICLE IN JULY 2021.  I DRIVE IT 2-3 TIMES PER WEEK.  EACH WEEK I PUT IN BETWEEN $15-$20 IN GAS TO BRING THE FUEL LEVEL BACK UP TO THE FULL MARK. THE JEEPS DOES NOT HAVE GOOD FUEL ECONOMY. IT DEFINITELY DOES NOT REACH 22-25MPG. I DRIVE IT ABOUT 30MINUTES EACH WA",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "8 reports (11%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A noise, coming front the front end of my 2021 Jeep Compass is generated while is driving at low velocity (15 mph or slower). The noise intensity increases when the jeep is driven for over an hour.   I took the jeep to dealer on Nov 3, 2021, with 701 miles to have it checked and ",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "6 reports (8%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Jeep's engine decided to shut off at a red light. This jeep has the automatic shutoff for the engine when idling too long. I could not restart the engine. I blocked 2 lanes of traffic, and was unable to push the vehicle out of the way. I Tried restarting the engine several ti",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "6 reports (8%)"
+      }
+    ]
+  }
+}

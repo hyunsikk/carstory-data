@@ -1,0 +1,128 @@
+{
+  "slug": "2014-audi-a5",
+  "make": "Audi",
+  "model": "A5",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/AUDI/A5#complaints",
+  "generatedAt": "2026-06-23T16:25:20.393Z",
+  "total": 29,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CHECK ENGINE LIGHT CAME ON WHILE ON THE HIGHWAY, TRANSMISSION WOULD NOT AUTOMATICALLY SHIFT UP BEYOND 6TH GEAR (8 SPEED TRANSMISSION) AT HIGHWAY SPEEDS.  TRANSMISSION COULD BE SHIFTED MANUALLY INTO 7TH AND 8TH GEARS, BUT ENGINE WAS LUGGING ON LEVEL HIGHWAY AT 60MPH.  AUDI SERVICE",
+      "pct": 34
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2014 AUDI A5 WITH APPROX 62K MILES.  THE STEERING SYSTEM HAS BEGUN TO OFFER INCONSISTENT RESISTANCE TO DRIVER INPUT, WHICH IMPACTS DRIVER'S ABILITY TO JUDGE THE AMOUNT OF FORCE NEEDED TO TURN THE WHEEL TO THE DESIRED POSITION.  WHEN TURNING THE WHEEL FROM CENTER TO EITHER STOP, T",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AUDI OF SEATTLE CONFIRMED 1/22/2018 THAT MY CAR IS FUNCTIONING AS DESIGNED, BUT I BELIEVE THIS DESIGN IS UNSAFE AND UNDESIRABLE.  SPECIFICALLY, WHEN DRIVING IN REVERSE USING THE BACKUP CAMERA VIEW, IF I RECEIVE AN INCOMING CELL PHONE CALL TO MY PAIRED PHONE, THE CAR PRIORITIZES T",
+      "pct": 24
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving the car I press the gas pedal and it loses power or won't accelerate at all, then all of a sudden something happens and it lunges forward fast it is scary I have almost crashed 2 times.  This issues is intermittent, thus the driver has no control of when the car is ",
+      "pct": 7
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AUDI OF SEATTLE CONFIRMED 1/22/2018 THAT MY CAR IS FUNCTIONING AS DESIGNED, BUT I BELIEVE THIS DESIGN IS UNSAFE AND UNDESIRABLE.  SPECIFICALLY, WHEN DRIVING IN REVERSE USING THE BACKUP CAMERA VIEW, IF I RECEIVE AN INCOMING CELL PHONE CALL TO MY PAIRED PHONE, THE CAR PRIORITIZES T",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Audi A5 owners report most",
+    "summary": "Across 29 owner complaints to NHTSA, the most reported area is Engine (34% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CHECK ENGINE LIGHT CAME ON WHILE ON THE HIGHWAY, TRANSMISSION WOULD NOT AUTOMATICALLY SHIFT UP BEYOND 6TH GEAR (8 SPEED TRANSMISSION) AT HIGHWAY SPEEDS.  TRANSMISSION COULD BE SHIFTED MANUALLY INTO 7TH AND 8TH GEARS, BUT ENGINE WAS LUGGING ON LEVEL HIGHWAY AT 60MPH.  AUDI SERVICE",
+        "pct": 34,
+        "title": "Engine",
+        "blurb": "10 reports (34%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2014 AUDI A5 WITH APPROX 62K MILES.  THE STEERING SYSTEM HAS BEGUN TO OFFER INCONSISTENT RESISTANCE TO DRIVER INPUT, WHICH IMPACTS DRIVER'S ABILITY TO JUDGE THE AMOUNT OF FORCE NEEDED TO TURN THE WHEEL TO THE DESIRED POSITION.  WHEN TURNING THE WHEEL FROM CENTER TO EITHER STOP, T",
+        "pct": 31,
+        "title": "Steering",
+        "blurb": "9 reports (31%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AUDI OF SEATTLE CONFIRMED 1/22/2018 THAT MY CAR IS FUNCTIONING AS DESIGNED, BUT I BELIEVE THIS DESIGN IS UNSAFE AND UNDESIRABLE.  SPECIFICALLY, WHEN DRIVING IN REVERSE USING THE BACKUP CAMERA VIEW, IF I RECEIVE AN INCOMING CELL PHONE CALL TO MY PAIRED PHONE, THE CAR PRIORITIZES T",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "7 reports (24%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving the car I press the gas pedal and it loses power or won't accelerate at all, then all of a sudden something happens and it lunges forward fast it is scary I have almost crashed 2 times.  This issues is intermittent, thus the driver has no control of when the car is ",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AUDI OF SEATTLE CONFIRMED 1/22/2018 THAT MY CAR IS FUNCTIONING AS DESIGNED, BUT I BELIEVE THIS DESIGN IS UNSAFE AND UNDESIRABLE.  SPECIFICALLY, WHEN DRIVING IN REVERSE USING THE BACKUP CAMERA VIEW, IF I RECEIVE AN INCOMING CELL PHONE CALL TO MY PAIRED PHONE, THE CAR PRIORITIZES T",
+        "pct": 7,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

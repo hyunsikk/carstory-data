@@ -1,0 +1,128 @@
+{
+  "slug": "2017-chevrolet-ss",
+  "make": "Chevrolet",
+  "model": "SS",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/CHEVROLET/SS#complaints",
+  "generatedAt": "2026-06-23T16:44:41.213Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY POWER STEERING HAS A TENDENCY TO FAIL DURING OPERATION OF THE VEHICLE. I HAVE HAD MY POWER STEERING CEASE TO FUNCTION, AND BECOME EXTREMELY DIFFICULT TO CONTROL THE VEHICLE AT SPEED. LUCKILY I WAS ON THE HIGHWAY, AND ABLE TO SAFELY MANEUVER THE VEHICLE TO THE SIDE OF THE HIGHW",
+      "pct": 43
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Right rear sealed wheel bearing failed and was just replaced at 50,564 miles at a cost of $1,142,82, parts, tax, and labor. I have seen correspondence from approximately 12 other owners of this model vehicle (12,500 imported to the USA by Chevrolet over 4 years), who have all exp",
+      "pct": 29
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The airbag warning light activated and two separate service facilities confirmed the problem was with the seatbelt tensioner cable. This could put the driver at risk of serious injury in a collision as the seatbelt may not properly restrain the driver. This car has a recall for m",
+      "pct": 14
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The airbag warning light activated and two separate service facilities confirmed the problem was with the seatbelt tensioner cable. This could put the driver at risk of serious injury in a collision as the seatbelt may not properly restrain the driver. This car has a recall for m",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I was driving, my car decided to just turn off. All of the electronics turned off and I lost ignition. Moments later, while I was still rolling, the car turned back on. This issue has happened multiple times but nothing super serios ever happened and i was able to maintain con",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Chevrolet Ss owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Steering (43% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY POWER STEERING HAS A TENDENCY TO FAIL DURING OPERATION OF THE VEHICLE. I HAVE HAD MY POWER STEERING CEASE TO FUNCTION, AND BECOME EXTREMELY DIFFICULT TO CONTROL THE VEHICLE AT SPEED. LUCKILY I WAS ON THE HIGHWAY, AND ABLE TO SAFELY MANEUVER THE VEHICLE TO THE SIDE OF THE HIGHW",
+        "pct": 43,
+        "title": "Steering",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Right rear sealed wheel bearing failed and was just replaced at 50,564 miles at a cost of $1,142,82, parts, tax, and labor. I have seen correspondence from approximately 12 other owners of this model vehicle (12,500 imported to the USA by Chevrolet over 4 years), who have all exp",
+        "pct": 29,
+        "title": "Suspension",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The airbag warning light activated and two separate service facilities confirmed the problem was with the seatbelt tensioner cable. This could put the driver at risk of serious injury in a collision as the seatbelt may not properly restrain the driver. This car has a recall for m",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The airbag warning light activated and two separate service facilities confirmed the problem was with the seatbelt tensioner cable. This could put the driver at risk of serious injury in a collision as the seatbelt may not properly restrain the driver. This car has a recall for m",
+        "pct": 14,
+        "title": "Seat Belts",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I was driving, my car decided to just turn off. All of the electronics turned off and I lost ignition. Moments later, while I was still rolling, the car turned back on. This issue has happened multiple times but nothing super serios ever happened and i was able to maintain con",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

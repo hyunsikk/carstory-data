@@ -1,0 +1,62 @@
+{
+  "slug": "2024-toyota-gr86",
+  "make": "Toyota",
+  "model": "GR86",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/GR86#complaints",
+  "generatedAt": "2026-06-23T16:41:21.431Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I discovered what appears to be severe rubbing on one of the fuel lines in my 2024 Toyota GR86. The car has just over 6,000 miles on it, and the rubbing is so severe that it has removed the printed writing on the line and smoothed out the hose to the point where it is flat. From ",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Myself and others online have noticed unusual wear on fuel lines located in the engine bay. There are 3 fuel lines on the right side of the engine bay to the right of the intake manifold that can become chafed. Because these are fuel lines I find the fact that they have wear to b",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Gr86 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I discovered what appears to be severe rubbing on one of the fuel lines in my 2024 Toyota GR86. The car has just over 6,000 miles on it, and the rubbing is so severe that it has removed the printed writing on the line and smoothed out the hose to the point where it is flat. From ",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Myself and others online have noticed unusual wear on fuel lines located in the engine bay. There are 3 fuel lines on the right side of the engine bay to the right of the intake manifold that can become chafed. Because these are fuel lines I find the fact that they have wear to b",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

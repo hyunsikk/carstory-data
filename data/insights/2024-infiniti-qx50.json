@@ -1,0 +1,128 @@
+{
+  "slug": "2024-infiniti-qx50",
+  "make": "Infiniti",
+  "model": "QX50",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/INFINITI/QX50#complaints",
+  "generatedAt": "2026-06-23T16:34:49.299Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The system falsely beeps and displays collision alerts even when no vehicles or objects are present.  The system has also initiated braking on the highway with no obstacle present, which is a major safety concern for me and for other drivers.  Conversely, when an actual vehicle a",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The system falsely beeps and displays collision alerts even when no vehicles or objects are present.  The system has also initiated braking on the highway with no obstacle present, which is a major safety concern for me and for other drivers.  Conversely, when an actual vehicle a",
+      "pct": 50
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle screens repeatedly rebooting over a 2 month period. Auto high beams stopped working. Chassis control error on dash occurred. Smoke smell in cabin occurred after dealer returned the vehicle from a repair attempt. Vehicle had to be towed back up . Dealer reporting they can ",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Infiniti Qx50 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The system falsely beeps and displays collision alerts even when no vehicles or objects are present.  The system has also initiated braking on the highway with no obstacle present, which is a major safety concern for me and for other drivers.  Conversely, when an actual vehicle a",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The system falsely beeps and displays collision alerts even when no vehicles or objects are present.  The system has also initiated braking on the highway with no obstacle present, which is a major safety concern for me and for other drivers.  Conversely, when an actual vehicle a",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle screens repeatedly rebooting over a 2 month period. Auto high beams stopped working. Chassis control error on dash occurred. Smoke smell in cabin occurred after dealer returned the vehicle from a repair attempt. Vehicle had to be towed back up . Dealer reporting they can ",
+        "pct": 25,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine bearing failures, sudden loss of power, stalling, or complete engine failure — creating crash risks.",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:23.671Z",
+  "total": 769,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 634,
+      "crash": 9,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 RAM 3500. WHILE DRIVING APPROXIMATELY 35 MPH, THE VEHICLE ACCELERATED WHEN THE BRAKE PEDAL WAS DEPRESSED. IN ADDITION, THE HILL ASSIST WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO LANDER MCLARTY DODGE CHRYSLER JEEP RAM (6533 UNIVERSITY DR NW",
+      "pct": 82
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 132,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INTEGRATED BRAKE SYSTEM FOR TOWING TRAILERS (ITBS) DOES NOT WORK. SAFETY HAZARD AS THE TRUCK CAN NOT STOP THE 150000 POUND 29T ARCTIC FOX 5TH WHEEL.  AFTER 4 ATTEMPTS DODGE GAVE UP AND SAID THE ITBS WORKS AS DESIGNED.  THE 5TH WHEEL WAS CERTIFIED THAT THE BRAKES WORK WITH OTHER T",
+      "pct": 17
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 124,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Ram 3500.  The contact stated while driving at an undisclosed speed, the ABS unit became inoperable without warning. The safety feature failed, and the vehicle lost traction control, hydraulic braking, and cruise control. The vehicle was taken to the local",
+      "pct": 16
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 107,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CRUISE CONTROL FAILED TO DISCONNECT.  UPON REPEATED ATTEMPTS TO DISENGAGE THE CRUISE CONTROL UNIT, THE SPEED INCREASED INCREMENTALLY WITH EACH ATTEMPT.  HOLDING THE CANCEL BUTTON CAUSED THE UNIT TO APPEAR TO DISENGAGE, BUT RELEASING THE CANCEL BUTTON CAUSED THE UNIT TO REENGAGE A",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 60,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ABS and Traction control pump system electrical failure. Went to a Dodge Dealer and had the system read due to light coming on and off. Originally started around 38,000 miles on the truck. A code came up C0020-01. ABS pump motor control electrical failure. Researched on the net. ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ram 3500 owners report most",
+    "summary": "Across 769 owner complaints to NHTSA, the most reported area is Service Brakes (82% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 634,
+        "crash": 9,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 RAM 3500. WHILE DRIVING APPROXIMATELY 35 MPH, THE VEHICLE ACCELERATED WHEN THE BRAKE PEDAL WAS DEPRESSED. IN ADDITION, THE HILL ASSIST WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO LANDER MCLARTY DODGE CHRYSLER JEEP RAM (6533 UNIVERSITY DR NW",
+        "pct": 82,
+        "title": "Service Brakes",
+        "blurb": "634 reports (82%) · 1 fire · 9 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 132,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INTEGRATED BRAKE SYSTEM FOR TOWING TRAILERS (ITBS) DOES NOT WORK. SAFETY HAZARD AS THE TRUCK CAN NOT STOP THE 150000 POUND 29T ARCTIC FOX 5TH WHEEL.  AFTER 4 ATTEMPTS DODGE GAVE UP AND SAID THE ITBS WORKS AS DESIGNED.  THE 5TH WHEEL WAS CERTIFIED THAT THE BRAKES WORK WITH OTHER T",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "132 reports (17%) · 1 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 124,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Ram 3500.  The contact stated while driving at an undisclosed speed, the ABS unit became inoperable without warning. The safety feature failed, and the vehicle lost traction control, hydraulic braking, and cruise control. The vehicle was taken to the local",
+        "pct": 16,
+        "title": "Hydraulic",
+        "blurb": "124 reports (16%) · 4 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 107,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CRUISE CONTROL FAILED TO DISCONNECT.  UPON REPEATED ATTEMPTS TO DISENGAGE THE CRUISE CONTROL UNIT, THE SPEED INCREASED INCREMENTALLY WITH EACH ATTEMPT.  HOLDING THE CANCEL BUTTON CAUSED THE UNIT TO APPEAR TO DISENGAGE, BUT RELEASING THE CANCEL BUTTON CAUSED THE UNIT TO REENGAGE A",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "107 reports (14%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 60,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ABS and Traction control pump system electrical failure. Went to a Dodge Dealer and had the system read due to light coming on and off. Originally started around 38,000 miles on the truck. A code came up C0020-01. ABS pump motor control electrical failure. Researched on the net. ",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "60 reports (8%)"
+      }
+    ]
+  }
+}

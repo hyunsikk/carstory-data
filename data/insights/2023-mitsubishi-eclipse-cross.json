@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mitsubishi-eclipse-cross",
+  "make": "Mitsubishi",
+  "model": "Eclipse Cross",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MITSUBISHI/ECLIPSE%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:38:49.461Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Mitsubishi Eclipse Cross. The contact stated while driving at night with the low beam headlights activated, there was a shadow illuminated in the field of view and the road ahead was not visible. Additionally, while driving downhill at night with the low-b",
+      "pct": 40
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Mitsubishi Eclipse Cross. The contact stated that while the vehicle was at the independent mechanic for a service appointment, the contact was informed that the front and rear differentials were failing. The contact was informed of the clicking sound when ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Mitsubishi Eclipse Cross. The contact stated that while the vehicle was at the independent mechanic for a service appointment, the contact was informed that the front and rear differentials were failing. The contact was informed of the clicking sound when ",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mitsubishi Eclipse Cross owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Exterior Lighting (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Mitsubishi Eclipse Cross. The contact stated while driving at night with the low beam headlights activated, there was a shadow illuminated in the field of view and the road ahead was not visible. Additionally, while driving downhill at night with the low-b",
+        "pct": 40,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (40%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Mitsubishi Eclipse Cross. The contact stated that while the vehicle was at the independent mechanic for a service appointment, the contact was informed that the front and rear differentials were failing. The contact was informed of the clicking sound when ",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Mitsubishi Eclipse Cross. The contact stated that while the vehicle was at the independent mechanic for a service appointment, the contact was informed that the front and rear differentials were failing. The contact was informed of the clicking sound when ",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

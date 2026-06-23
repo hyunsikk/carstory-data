@@ -1,0 +1,106 @@
+{
+  "slug": "2018-volvo-s60",
+  "make": "Volvo",
+  "model": "S60",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/VOLVO/S60#complaints",
+  "generatedAt": "2026-06-23T16:42:17.370Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light appeared on my 2018 Volvo s60. After taking the car to 2 Independent mechanics and the dealer, it was diagnosed as an Engine Control Module (ECM) failure. My 2018 Volvo s60 has ONLY 44,200 miles. The dealer stated that they \"haven't seen this failure in car",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light appeared on my 2018 Volvo s60. After taking the car to 2 Independent mechanics and the dealer, it was diagnosed as an Engine Control Module (ECM) failure. My 2018 Volvo s60 has ONLY 44,200 miles. The dealer stated that they \"haven't seen this failure in car",
+      "pct": 25
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Volvo S60. The contact stated that the HVAC system fan was inoperable, and the front windshield could not be defrosted. The vehicle was taken to the local dealer who replaced the fan, and the failure was remedied. The manufacturer was notified of the failu",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN PRESSING BRAKE PEDAL A POPPING SOUND WAS NOTICED AND THEN BRAKES WERE LOST. FORTUNATELY CAR WAS PARKED IN A STREET.  SERVICE LOCATION STATED THAT \"BRAKE BOOSTER BROKE, IT IS A MAN MADE PART\". CAR HAS ONLY 10500 MILES ON IT.",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Volvo S60 owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light appeared on my 2018 Volvo s60. After taking the car to 2 Independent mechanics and the dealer, it was diagnosed as an Engine Control Module (ECM) failure. My 2018 Volvo s60 has ONLY 44,200 miles. The dealer stated that they \"haven't seen this failure in car",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light appeared on my 2018 Volvo s60. After taking the car to 2 Independent mechanics and the dealer, it was diagnosed as an Engine Control Module (ECM) failure. My 2018 Volvo s60 has ONLY 44,200 miles. The dealer stated that they \"haven't seen this failure in car",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Volvo S60. The contact stated that the HVAC system fan was inoperable, and the front windshield could not be defrosted. The vehicle was taken to the local dealer who replaced the fan, and the failure was remedied. The manufacturer was notified of the failu",
+        "pct": 25,
+        "title": "Visibility",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN PRESSING BRAKE PEDAL A POPPING SOUND WAS NOTICED AND THEN BRAKES WERE LOST. FORTUNATELY CAR WAS PARKED IN A STREET.  SERVICE LOCATION STATED THAT \"BRAKE BOOSTER BROKE, IT IS A MAN MADE PART\". CAR HAS ONLY 10500 MILES ON IT.",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

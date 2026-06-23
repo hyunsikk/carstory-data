@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-5-series",
+  "make": "BMW",
+  "model": "5 Series",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/5%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:30.002Z",
+  "total": 25,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2021 BMW 540I. CONSUMER WRITES IN REGARDS TO MULTIPLE DEFECTS DUE TO BATTERY MANAGEMENT ISSUE.   THE CONSUMER STATED THE VEHICLE HAS EXPERIENCED MULITPLE OCCASIONS OF FAILURES WITH THE BREAKING SYSTEM. THE DRIVER HAD TO PRESS THE PEDAL TO THE FLOOR IN ORDER TO STOP THE VEHICLE. T",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After pulling into a parking space and stopping, the braking system became unresponsive. While stopped with the foot on the brakes, attempts to place the car in park failed.  After pumping the brakes, the car rolled forward as the car idled and the brakes were unresponsive as it ",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My family was driving home on California [XXX]  approaching [XXX]. Suddenly we saw heavy white smoke coming from our vehicle. Vehicles behind us had to almost stop as the smoke was very thick and covered all lanes. We pulled over and turned off the car. I started checking the con",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW 530I. The contact stated that upon starting the vehicle, the vehicle hesitated. There were no warning lights illuminated. The vehicle was taken to the local dealer, where it was diagnosed with motor mount failure. There was an abnormal pulling sound de",
+      "pct": 8
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW 530I. The contact stated that the edge of the air bag leather cover was folding in, which enlarged the split between the air bag cover and the steering wheel. The vehicle was taken to an unknown dealer, where it was inspected, and the dealer informed t",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw 5 Series owners report most",
+    "summary": "Across 25 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2021 BMW 540I. CONSUMER WRITES IN REGARDS TO MULTIPLE DEFECTS DUE TO BATTERY MANAGEMENT ISSUE.   THE CONSUMER STATED THE VEHICLE HAS EXPERIENCED MULITPLE OCCASIONS OF FAILURES WITH THE BREAKING SYSTEM. THE DRIVER HAD TO PRESS THE PEDAL TO THE FLOOR IN ORDER TO STOP THE VEHICLE. T",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "6 reports (24%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After pulling into a parking space and stopping, the braking system became unresponsive. While stopped with the foot on the brakes, attempts to place the car in park failed.  After pumping the brakes, the car rolled forward as the car idled and the brakes were unresponsive as it ",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "4 reports (16%) · 2 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My family was driving home on California [XXX]  approaching [XXX]. Suddenly we saw heavy white smoke coming from our vehicle. Vehicles behind us had to almost stop as the smoke was very thick and covered all lanes. We pulled over and turned off the car. I started checking the con",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (12%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW 530I. The contact stated that upon starting the vehicle, the vehicle hesitated. There were no warning lights illuminated. The vehicle was taken to the local dealer, where it was diagnosed with motor mount failure. There was an abnormal pulling sound de",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "2 reports (8%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW 530I. The contact stated that the edge of the air bag leather cover was folding in, which enlarged the split between the air bag cover and the steering wheel. The vehicle was taken to an unknown dealer, where it was inspected, and the dealer informed t",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

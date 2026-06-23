@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-s4",
+  "make": "Audi",
+  "model": "S4",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/S4#complaints",
+  "generatedAt": "2026-06-23T16:43:05.899Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SOS module. Audi had a service for the known problem internally (Service Action 90T2) then stopped it apparently but many of us still experiencing issues that were not able to get the part corrected. SOS, GPS, Bluetooth, all hands free does not work. 6 months plus of waiting for ",
+      "pct": 88
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The primary infotainment/mmi screen randomly turns off and a system reboot occurs, which can take a period of time. This causes a loss of all parking sensors, rear view cameras, navigation etc. Dangerous when the system dies in the middle of a bustle parking lot or having to rest",
+      "pct": 56
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle software (known as Audi MMI) has been continuously rebooting every 30 seconds after the vehicle is started. This causes the entire dashboard (and entertainment screen) to repeatedly reboot which is very distracting while driving. While backing out of a parking spot, t",
+      "pct": 6
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Multimedia Interface (MMI) Touchscreen Radio will constantly reboot while driving regardless of variables. Diagnosis’ have proven problem to be undeterminable, this is a serious safety concern as I have lost back up camera and other safety features while driving, while I awai",
+      "pct": 6
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Audi MMI (infotainment) frequently resets during use of car.  Spoke to tech at audi and they confirmed this is an issue on many 2020 audi A4 and S4 vehicles.  The blind spot monitors, parking sensors, and backup cameras all disabled when this happens.  It can happen at any time.",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi S4 owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Electrical System (88% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SOS module. Audi had a service for the known problem internally (Service Action 90T2) then stopped it apparently but many of us still experiencing issues that were not able to get the part corrected. SOS, GPS, Bluetooth, all hands free does not work. 6 months plus of waiting for ",
+        "pct": 88,
+        "title": "Electrical System",
+        "blurb": "14 reports (88%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The primary infotainment/mmi screen randomly turns off and a system reboot occurs, which can take a period of time. This causes a loss of all parking sensors, rear view cameras, navigation etc. Dangerous when the system dies in the middle of a bustle parking lot or having to rest",
+        "pct": 56,
+        "title": "Back Over Prevention",
+        "blurb": "9 reports (56%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle software (known as Audi MMI) has been continuously rebooting every 30 seconds after the vehicle is started. This causes the entire dashboard (and entertainment screen) to repeatedly reboot which is very distracting while driving. While backing out of a parking spot, t",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Multimedia Interface (MMI) Touchscreen Radio will constantly reboot while driving regardless of variables. Diagnosis’ have proven problem to be undeterminable, this is a serious safety concern as I have lost back up camera and other safety features while driving, while I awai",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Audi MMI (infotainment) frequently resets during use of car.  Spoke to tech at audi and they confirmed this is an issue on many 2020 audi A4 and S4 vehicles.  The blind spot monitors, parking sensors, and backup cameras all disabled when this happens.  It can happen at any time.",
+        "pct": 6,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

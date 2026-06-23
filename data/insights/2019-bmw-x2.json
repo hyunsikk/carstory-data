@@ -1,0 +1,84 @@
+{
+  "slug": "2019-bmw-x2",
+  "make": "BMW",
+  "model": "X2",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/X2#complaints",
+  "generatedAt": "2026-06-23T16:44:08.969Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My battery died.  After a AAA jump, the car started fine but the right-rear-taillight-signal malfunctioned.  It was working fine prior to the battery dying.    I purchased a new battery and the mechanic said my right-rear-taillight was getting an electrical signal and the bulb wo",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE M35I TURBO MALFUNCTIONS AND RESULTS IN A 1-3 SECOND LAG THAT PRODUCES A VERY DANGEROUS DRIVING SITUATION. YOU PRESS THE ACCELERATOR AND THE CAR DOESN'T MOVE FOR A FEW SECONDS THEN ALL OF A SUDDEN IT BURSTS AHEAD EXPLOSIVELY.",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE M35I TURBO MALFUNCTIONS AND RESULTS IN A 1-3 SECOND LAG THAT PRODUCES A VERY DANGEROUS DRIVING SITUATION. YOU PRESS THE ACCELERATOR AND THE CAR DOESN'T MOVE FOR A FEW SECONDS THEN ALL OF A SUDDEN IT BURSTS AHEAD EXPLOSIVELY.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw X2 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Exterior Lighting (50% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My battery died.  After a AAA jump, the car started fine but the right-rear-taillight-signal malfunctioned.  It was working fine prior to the battery dying.    I purchased a new battery and the mechanic said my right-rear-taillight was getting an electrical signal and the bulb wo",
+        "pct": 50,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE M35I TURBO MALFUNCTIONS AND RESULTS IN A 1-3 SECOND LAG THAT PRODUCES A VERY DANGEROUS DRIVING SITUATION. YOU PRESS THE ACCELERATOR AND THE CAR DOESN'T MOVE FOR A FEW SECONDS THEN ALL OF A SUDDEN IT BURSTS AHEAD EXPLOSIVELY.",
+        "pct": 50,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE M35I TURBO MALFUNCTIONS AND RESULTS IN A 1-3 SECOND LAG THAT PRODUCES A VERY DANGEROUS DRIVING SITUATION. YOU PRESS THE ACCELERATOR AND THE CAR DOESN'T MOVE FOR A FEW SECONDS THEN ALL OF A SUDDEN IT BURSTS AHEAD EXPLOSIVELY.",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

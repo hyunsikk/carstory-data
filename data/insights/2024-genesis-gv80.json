@@ -1,0 +1,128 @@
+{
+  "slug": "2024-genesis-gv80",
+  "make": "Genesis",
+  "model": "GV80",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GENESIS/GV80#complaints",
+  "generatedAt": "2026-06-23T16:31:12.952Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After 3 weeks of sitting idle, the car door had trouble to open. We changed the key batteries but didn’t fix the issue. The next day, car door opened without issue and the car was fine to drive. The 3rd day, the car went dead with no response to the key. The 4th day it came back ",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Defective software issue that has not been corrected since owner took possession of vehicle. Customer/Client is told to deal with the Engineering dept. at Genesis Corporate and it is out of the hands of the dealer. The software effects a lot of moving parts and safety features wi",
+      "pct": 29
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While at a stop sign on a hill the brakes failed. Brake pedal released and sunk to the floor while pressed at a stop sign. I lost control of the car and had to swerve to the opposite side of the road to avoid collision. I then attempted to engage the emergency brake but that fail",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While at a stop sign on a hill the brakes failed. Brake pedal released and sunk to the floor while pressed at a stop sign. I lost control of the car and had to swerve to the opposite side of the road to avoid collision. I then attempted to engage the emergency brake but that fail",
+      "pct": 18
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1. ·On [XXX] I was driving on the freeway at highway speeds when the car shut itself down and went into neutral and accessory mode. No warning lights came on. Nothing happened if I hit the gas or the brake or tried to change the gear. With the car being shut down, I could have be",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Genesis Gv80 owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Engine (29% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After 3 weeks of sitting idle, the car door had trouble to open. We changed the key batteries but didn’t fix the issue. The next day, car door opened without issue and the car was fine to drive. The 3rd day, the car went dead with no response to the key. The 4th day it came back ",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "5 reports (29%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Defective software issue that has not been corrected since owner took possession of vehicle. Customer/Client is told to deal with the Engineering dept. at Genesis Corporate and it is out of the hands of the dealer. The software effects a lot of moving parts and safety features wi",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "5 reports (29%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While at a stop sign on a hill the brakes failed. Brake pedal released and sunk to the floor while pressed at a stop sign. I lost control of the car and had to swerve to the opposite side of the road to avoid collision. I then attempted to engage the emergency brake but that fail",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While at a stop sign on a hill the brakes failed. Brake pedal released and sunk to the floor while pressed at a stop sign. I lost control of the car and had to swerve to the opposite side of the road to avoid collision. I then attempted to engage the emergency brake but that fail",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1. ·On [XXX] I was driving on the freeway at highway speeds when the car shut itself down and went into neutral and accessory mode. No warning lights came on. Nothing happened if I hit the gas or the brake or tried to change the gear. With the car being shut down, I could have be",
+        "pct": 12,
+        "title": "Wheels",
+        "blurb": "2 reports (12%) · 1 injured"
+      }
+    ]
+  }
+}

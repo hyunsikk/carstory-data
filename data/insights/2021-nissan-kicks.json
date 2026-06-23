@@ -1,0 +1,128 @@
+{
+  "slug": "2021-nissan-kicks",
+  "make": "Nissan",
+  "model": "Kicks",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/KICKS#complaints",
+  "generatedAt": "2026-06-23T16:39:16.852Z",
+  "total": 70,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drivers side door lock will not function properly. The remote will successfully lock/unlock all of the other doors. If the drivers door is locked with the key it will remain locked despite the other doors unlocking with the remote. This problem has been widely reported on Nissan ",
+      "pct": 34
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have experienced my forward collision warning light coming on when driving toward the sun in the mornings on my way to work. When I go into a shade it turns off but immediately pops back on and slows my car down when I return into the sunlight. It has not done this since I boug",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Blend doors on the heater do not work. If the temperature is set to 62 degrees, cold air as expected comes out of vents. If set to 63 degrees, maximum hot air comes out of vents, even after the cabin is warmed up. This is distracting to keep fumbling with the temperature control,",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On September 5th 2021 I purchased a new Nissan Kicks from Pine Belt Nissan, 229 Route 37 East of Toms River, NJ. 08753.  On Saturday September 11th 2021 I was on my way to work and stopped at the light, the car make a different sound and feel. By the time the light changes and I ",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact rented a 2021 Nissan Kicks. The contact stated that while driving at a slow speed in heavy traffic, the vehicle inadvertently lost motive power. After coming to a complete stop and shifting into park, the contact became aware that the transmission had seized, and the ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Kicks owners report most",
+    "summary": "Across 70 owner complaints to NHTSA, the most reported area is Structure (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drivers side door lock will not function properly. The remote will successfully lock/unlock all of the other doors. If the drivers door is locked with the key it will remain locked despite the other doors unlocking with the remote. This problem has been widely reported on Nissan ",
+        "pct": 34,
+        "title": "Structure",
+        "blurb": "24 reports (34%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have experienced my forward collision warning light coming on when driving toward the sun in the mornings on my way to work. When I go into a shade it turns off but immediately pops back on and slows my car down when I return into the sunlight. It has not done this since I boug",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "15 reports (21%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Blend doors on the heater do not work. If the temperature is set to 62 degrees, cold air as expected comes out of vents. If set to 63 degrees, maximum hot air comes out of vents, even after the cabin is warmed up. This is distracting to keep fumbling with the temperature control,",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "11 reports (16%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On September 5th 2021 I purchased a new Nissan Kicks from Pine Belt Nissan, 229 Route 37 East of Toms River, NJ. 08753.  On Saturday September 11th 2021 I was on my way to work and stopped at the light, the car make a different sound and feel. By the time the light changes and I ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "7 reports (10%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact rented a 2021 Nissan Kicks. The contact stated that while driving at a slow speed in heavy traffic, the vehicle inadvertently lost motive power. After coming to a complete stop and shifting into park, the contact became aware that the transmission had seized, and the ",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "6 reports (9%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

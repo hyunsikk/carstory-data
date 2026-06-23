@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-seltos",
+  "make": "Kia",
+  "model": "Seltos",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/SELTOS#complaints",
+  "generatedAt": "2026-06-23T16:36:44.977Z",
+  "total": 41,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "All systems failed, including all lights, speedometer, ALL ADAS - this happened in more than one occasion. When I put the car in park it still registered to be in drive mode. Safety of myself and others at risk- the headlights and brake/taillights went out while driving in the da",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine valve making a loud noise ( assuming it might be an engine oil leak) I just acquired the vehicle last month Sept 2023.  Brand new. I informed the dealership,  and they want me to drive it back to the service department, to be checked. I told the sales agent that i am afrai",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Seltos. The contact received notification of NHTSA Campaign Number: 23V531000 (Power Train) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repa",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "All systems failed, including all lights, speedometer, ALL ADAS - this happened in more than one occasion. When I put the car in park it still registered to be in drive mode. Safety of myself and others at risk- the headlights and brake/taillights went out while driving in the da",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Issue Description: I am reporting a crack that has suddenly appeared in the windshield of my vehicle. This crack aligns with the rearview mirror and has spread quickly.  Details:  Date of occurrence: The crack was first noticed on the morning of [XXX]. Recent vehicle use: We rece",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Seltos owners report most",
+    "summary": "Across 41 owner complaints to NHTSA, the most reported area is Electrical System (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "All systems failed, including all lights, speedometer, ALL ADAS - this happened in more than one occasion. When I put the car in park it still registered to be in drive mode. Safety of myself and others at risk- the headlights and brake/taillights went out while driving in the da",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "15 reports (37%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine valve making a loud noise ( assuming it might be an engine oil leak) I just acquired the vehicle last month Sept 2023.  Brand new. I informed the dealership,  and they want me to drive it back to the service department, to be checked. I told the sales agent that i am afrai",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "5 reports (12%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Seltos. The contact received notification of NHTSA Campaign Number: 23V531000 (Power Train) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repa",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "All systems failed, including all lights, speedometer, ALL ADAS - this happened in more than one occasion. When I put the car in park it still registered to be in drive mode. Safety of myself and others at risk- the headlights and brake/taillights went out while driving in the da",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (10%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Issue Description: I am reporting a crack that has suddenly appeared in the windshield of my vehicle. This crack aligns with the rearview mirror and has spread quickly.  Details:  Date of occurrence: The crack was first noticed on the morning of [XXX]. Recent vehicle use: We rece",
+        "pct": 7,
+        "title": "Visibility/Wiper",
+        "blurb": "3 reports (7%)"
+      }
+    ]
+  }
+}

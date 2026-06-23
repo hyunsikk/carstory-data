@@ -1,0 +1,128 @@
+{
+  "slug": "2024-cadillac-lyriq",
+  "make": "Cadillac",
+  "model": "Lyriq",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CADILLAC/LYRIQ#complaints",
+  "generatedAt": "2026-06-23T16:27:49.578Z",
+  "total": 107,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Cadillac Lyriq. The contact stated while driving undisclosed speeds, the instrument panel went blank for approximately 3-seconds. While driving in the driveway, the brakes applied aggressively. While approaching a stop light, the collision detection system",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 34,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Cadillac Lyriq. The contact stated while driving undisclosed speeds, the instrument panel went blank for approximately 3-seconds. While driving in the driveway, the brakes applied aggressively. While approaching a stop light, the collision detection system",
+      "pct": 32
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When in reverse abrupt automatic braking occurs. Safety hazard with abrupt stop around other vehicles, hard braking causes driver and passenger to pitch forward. No warning. Automatic Braking disabled, sensors checked, settings adjusted by dealer. Dealer says there is nothing the",
+      "pct": 23
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 19,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Headlights on vehicle “droop” after driving 20 minutes or more. They start off okay and then become non existent l, pointing directly down toward the pavement in front of the vehicle and you can’t see more than 1 car length in front of you.  You must turn the vehicle off and then",
+      "pct": 18
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 18,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "When in reverse abrupt automatic braking occurs. Safety hazard with abrupt stop around other vehicles, hard braking causes driver and passenger to pitch forward. No warning. Automatic Braking disabled, sensors checked, settings adjusted by dealer. Dealer says there is nothing the",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Cadillac Lyriq owners report most",
+    "summary": "Across 107 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Cadillac Lyriq. The contact stated while driving undisclosed speeds, the instrument panel went blank for approximately 3-seconds. While driving in the driveway, the brakes applied aggressively. While approaching a stop light, the collision detection system",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "35 reports (33%) · 1 fire · 3 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 34,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Cadillac Lyriq. The contact stated while driving undisclosed speeds, the instrument panel went blank for approximately 3-seconds. While driving in the driveway, the brakes applied aggressively. While approaching a stop light, the collision detection system",
+        "pct": 32,
+        "title": "Forward Collision Avoidance",
+        "blurb": "34 reports (32%) · 10 crash · 4 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When in reverse abrupt automatic braking occurs. Safety hazard with abrupt stop around other vehicles, hard braking causes driver and passenger to pitch forward. No warning. Automatic Braking disabled, sensors checked, settings adjusted by dealer. Dealer says there is nothing the",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "25 reports (23%) · 9 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 19,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Headlights on vehicle “droop” after driving 20 minutes or more. They start off okay and then become non existent l, pointing directly down toward the pavement in front of the vehicle and you can’t see more than 1 car length in front of you.  You must turn the vehicle off and then",
+        "pct": 18,
+        "title": "Exterior Lighting",
+        "blurb": "19 reports (18%) · 1 fire"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 18,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "When in reverse abrupt automatic braking occurs. Safety hazard with abrupt stop around other vehicles, hard braking causes driver and passenger to pitch forward. No warning. Automatic Braking disabled, sensors checked, settings adjusted by dealer. Dealer says there is nothing the",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "18 reports (17%) · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

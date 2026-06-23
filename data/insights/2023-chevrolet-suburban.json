@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-suburban",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/SUBURBAN#complaints",
+  "generatedAt": "2026-06-23T16:28:50.658Z",
+  "total": 107,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 56,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving the vehicle on an interstate highway with the flow of traffic at 70 mph, without warning the engine shut off. This caused loss of speed and loss of power steering, almost causing me to be hit in the rear end twice at highway speeds. There were no warning lights or any ins",
+      "pct": 52
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There were no accidents or near accidents but the computer system was spitting out different problems and telling me that different system were needing service such as the ESC system, the steering wheel column l, collision traction , etc plus the engine light came on. Thus occurr",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving the vehicle on an interstate highway with the flow of traffic at 70 mph, without warning the engine shut off. This caused loss of speed and loss of power steering, almost causing me to be hit in the rear end twice at highway speeds. There were no warning lights or any ins",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of t",
+      "pct": 6
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Question 1)   I’m experiencing bubbling under the factory paint and it’s available for inspection   Question 2)   Unknown   Question 3)   Yes   Question 4)   Yes it has been inspected by Chevrolet dealership   Question 5)   I noticed the defects when I bought the vehicle brand ne",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Suburban owners report most",
+    "summary": "Across 107 owner complaints to NHTSA, the most reported area is Engine (52% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 56,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving the vehicle on an interstate highway with the flow of traffic at 70 mph, without warning the engine shut off. This caused loss of speed and loss of power steering, almost causing me to be hit in the rear end twice at highway speeds. There were no warning lights or any ins",
+        "pct": 52,
+        "title": "Engine",
+        "blurb": "56 reports (52%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There were no accidents or near accidents but the computer system was spitting out different problems and telling me that different system were needing service such as the ESC system, the steering wheel column l, collision traction , etc plus the engine light came on. Thus occurr",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "13 reports (12%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving the vehicle on an interstate highway with the flow of traffic at 70 mph, without warning the engine shut off. This caused loss of speed and loss of power steering, almost causing me to be hit in the rear end twice at highway speeds. There were no warning lights or any ins",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "12 reports (11%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of t",
+        "pct": 6,
+        "title": "Engine And Engine Cooling",
+        "blurb": "6 reports (6%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Question 1)   I’m experiencing bubbling under the factory paint and it’s available for inspection   Question 2)   Unknown   Question 3)   Yes   Question 4)   Yes it has been inspected by Chevrolet dealership   Question 5)   I noticed the defects when I bought the vehicle brand ne",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "5 reports (5%) · 2 injured"
+      }
+    ]
+  }
+}

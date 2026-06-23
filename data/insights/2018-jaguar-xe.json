@@ -1,0 +1,128 @@
+{
+  "slug": "2018-jaguar-xe",
+  "make": "Jaguar",
+  "model": "XE",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/JAGUAR/XE#complaints",
+  "generatedAt": "2026-06-23T16:35:17.684Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Jaguar XE. The contact stated that on several occasions while driving at various speeds, the instrument cluster went blank, and the vehicle stalled. The contact stated that an unknown service required message and other unknown warning lights were illuminat",
+      "pct": 25
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DEALER LEASES ME A CAR THAT DOES NOT PROPERLY FIT A CHILD BOOSTER SEAT. SEAT IS 12 INCHES IN WIDTH AND THE BOOSTER SEATS DO NOT COME LESS THAT 15 INCHES WIDE. I HAVE CONTACT THE DEALER AND AS WELL LEFT MY CAR FOR SEVERAL DAY TO ONLY RECEIVE NOTIFICATION THAT THEY WILL NOT BE ABLE",
+      "pct": 25
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Jaguar XE. The contact stated that while driving, there was an abnormally strong fuel odor in the cabin of the vehicle. The vehicle was taken to a dealer where a diagnostic test was performed, and the contact was informed that the low-pressure fuel tank ne",
+      "pct": 13
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Jaguar XE. The contact stated that while driving, there was an abnormally strong fuel odor in the cabin of the vehicle. The vehicle was taken to a dealer where a diagnostic test was performed, and the contact was informed that the low-pressure fuel tank ne",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When it rains, the trunk fills with water killing the batter and causing all kinds of electrical problems.  This issue is well documented and confirmed by doing a simple Google search “Water on the Jaguar XE trunk” or visit any of the Jaguar forums that are filled with complaints",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Jaguar Xe owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Jaguar XE. The contact stated that on several occasions while driving at various speeds, the instrument cluster went blank, and the vehicle stalled. The contact stated that an unknown service required message and other unknown warning lights were illuminat",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DEALER LEASES ME A CAR THAT DOES NOT PROPERLY FIT A CHILD BOOSTER SEAT. SEAT IS 12 INCHES IN WIDTH AND THE BOOSTER SEATS DO NOT COME LESS THAT 15 INCHES WIDE. I HAVE CONTACT THE DEALER AND AS WELL LEFT MY CAR FOR SEVERAL DAY TO ONLY RECEIVE NOTIFICATION THAT THEY WILL NOT BE ABLE",
+        "pct": 25,
+        "title": "Seat Belts",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Jaguar XE. The contact stated that while driving, there was an abnormally strong fuel odor in the cabin of the vehicle. The vehicle was taken to a dealer where a diagnostic test was performed, and the contact was informed that the low-pressure fuel tank ne",
+        "pct": 13,
+        "title": "Fuel System",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Jaguar XE. The contact stated that while driving, there was an abnormally strong fuel odor in the cabin of the vehicle. The vehicle was taken to a dealer where a diagnostic test was performed, and the contact was informed that the low-pressure fuel tank ne",
+        "pct": 13,
+        "title": "Gasoline",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When it rains, the trunk fills with water killing the batter and causing all kinds of electrical problems.  This issue is well documented and confirmed by doing a simple Google search “Water on the Jaguar XE trunk” or visit any of the Jaguar forums that are filled with complaints",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

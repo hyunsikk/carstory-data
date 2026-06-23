@@ -1,0 +1,128 @@
+{
+  "slug": "2021-buick-envision",
+  "make": "Buick",
+  "model": "Envision",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BUICK/ENVISION#complaints",
+  "generatedAt": "2026-06-23T16:27:26.686Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving at 45 mph the vehicle stopped running in traffic.  Able to get off road and vehicle would not start.  Engine turned over but did not fire.  Waited about 10 min. while on phone with dealer and tried again.  It started.  Able to drive approx. 2 miles to dealer.  Dealer says",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Buick Envision. The contact stated that while stopped in traffic on the highway, while accelerating, the transmission started slipping and the vehicle jerked abnormally before starting to drive normally. The vehicle was taken to a local dealer where the ve",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Buick Envision. The contact stated that while driving at various speeds, the Lane Change Alert with Side Blind Zone Alert malfunctioned. The contact stated that while driving at an undisclosed speed, the side-view mirror illuminated erroneously while drivi",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I push on the accelerator the car hesitates and then surges forward. I took the vehicle to the dealership where they recreated the problem however it was not throwing any codes. After examination they determined that the problem was turbo lag. I was advised to continue drivi",
+      "pct": 9
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As going down the road the tire blew out. The vehicle is new and only has 6389 miles on the vehicle. Feel there was a defect in the tire that caused this. No warning or anything came on to advise that it was low or needed attention. It blew out and damaged the wheel, fender and d",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Buick Envision owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving at 45 mph the vehicle stopped running in traffic.  Able to get off road and vehicle would not start.  Engine turned over but did not fire.  Waited about 10 min. while on phone with dealer and tried again.  It started.  Able to drive approx. 2 miles to dealer.  Dealer says",
+        "pct": 26,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (26%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Buick Envision. The contact stated that while stopped in traffic on the highway, while accelerating, the transmission started slipping and the vehicle jerked abnormally before starting to drive normally. The vehicle was taken to a local dealer where the ve",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "5 reports (22%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Buick Envision. The contact stated that while driving at various speeds, the Lane Change Alert with Side Blind Zone Alert malfunctioned. The contact stated that while driving at an undisclosed speed, the side-view mirror illuminated erroneously while drivi",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "5 reports (22%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I push on the accelerator the car hesitates and then surges forward. I took the vehicle to the dealership where they recreated the problem however it was not throwing any codes. After examination they determined that the problem was turbo lag. I was advised to continue drivi",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As going down the road the tire blew out. The vehicle is new and only has 6389 miles on the vehicle. Feel there was a defect in the tire that caused this. No warning or anything came on to advise that it was low or needed attention. It blew out and damaged the wheel, fender and d",
+        "pct": 9,
+        "title": "Tires",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

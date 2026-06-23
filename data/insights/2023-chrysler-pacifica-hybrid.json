@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chrysler-pacifica-hybrid",
+  "make": "Chrysler",
+  "model": "Pacifica Hybrid",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHRYSLER/PACIFICA%20HYBRID#complaints",
+  "generatedAt": "2026-06-23T16:29:14.185Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving the van a day after I bought it with only 42 miles on it,  was going to make a turn onto a busy road and the car made a horrible noise and suddenly stopped.  After a minute the 03A \"fix\" came on warning me to pull over safely but the car had stopped on it's own and ",
+      "pct": 46
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The power train system of our vehicle experienced a critical malfunction, as indicated by the \"Service Charging System\" error message and engine light on the dashboard, leading to a loss of power in the accelerator. We are willing to cooperate and make the vehicle available for i",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My air conditioner went out in my car three weeks after purchase. I took it to the dealership. They replace several parts and said that there was an electrical issue they ran into. They said they had to get approval from Chrysler engineering in order to replace the part. The car ",
+      "pct": 36
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My air conditioner went out in my car three weeks after purchase. I took it to the dealership. They replace several parts and said that there was an electrical issue they ran into. They said they had to get approval from Chrysler engineering in order to replace the part. The car ",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I engaged the speed control (NOT adaptive speed control, also equipped on this car), and set my desired speed. I pressed and held the SET+ button to increase speed, as demonstrated at 1:27 on this video [XXX]  from Mopar for an older model of this vehicle. When I released the but",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chrysler Pacifica Hybrid owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Engine (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving the van a day after I bought it with only 42 miles on it,  was going to make a turn onto a busy road and the car made a horrible noise and suddenly stopped.  After a minute the 03A \"fix\" came on warning me to pull over safely but the car had stopped on it's own and ",
+        "pct": 46,
+        "title": "Engine",
+        "blurb": "18 reports (46%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The power train system of our vehicle experienced a critical malfunction, as indicated by the \"Service Charging System\" error message and engine light on the dashboard, leading to a loss of power in the accelerator. We are willing to cooperate and make the vehicle available for i",
+        "pct": 38,
+        "title": "Power Train",
+        "blurb": "15 reports (38%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My air conditioner went out in my car three weeks after purchase. I took it to the dealership. They replace several parts and said that there was an electrical issue they ran into. They said they had to get approval from Chrysler engineering in order to replace the part. The car ",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "14 reports (36%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My air conditioner went out in my car three weeks after purchase. I took it to the dealership. They replace several parts and said that there was an electrical issue they ran into. They said they had to get approval from Chrysler engineering in order to replace the part. The car ",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (13%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I engaged the speed control (NOT adaptive speed control, also equipped on this car), and set my desired speed. I pressed and held the SET+ button to increase speed, as demonstrated at 1:27 on this video [XXX]  from Mopar for an older model of this vehicle. When I released the but",
+        "pct": 13,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (13%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2024-lotus-emira",
+  "make": "Lotus",
+  "model": "Emira",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/LOTUS/EMIRA#complaints",
+  "generatedAt": "2026-06-23T16:46:13.725Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Seatbelts are installed on vehicles “twisted” and may cause the belt to not lay flat across the body. This may cause injury in the event of an accident, as weight would not be distributed evenly across the fabric. LOTUS corporate claims installation in this manner is intentional ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Lotus Emira owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Seat Belts (100% of reports).",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Seatbelts are installed on vehicles “twisted” and may cause the belt to not lay flat across the body. This may cause injury in the event of an accident, as weight would not be distributed evenly across the fabric. LOTUS corporate claims installation in this manner is intentional ",
+        "pct": 100,
+        "title": "Seat Belts",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

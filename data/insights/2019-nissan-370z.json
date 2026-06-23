@@ -1,0 +1,40 @@
+{
+  "slug": "2019-nissan-370z",
+  "make": "Nissan",
+  "model": "370Z",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/NISSAN/370Z#complaints",
+  "generatedAt": "2026-06-23T16:39:06.641Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car exhibits behavior detailed in Nissan TSB with classification EC19-011, reference number NTB19-018. Lack of power after engine cold soak. After engine sits for days, or even hours, upon startup, the accelerator is limited to about 5mph and 1500-2000 rpm. Very slow. It does thi",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Nissan 370z owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (100% of reports).",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car exhibits behavior detailed in Nissan TSB with classification EC19-011, reference number NTB19-018. Lack of power after engine cold soak. After engine sits for days, or even hours, upon startup, the accelerator is limited to about 5mph and 1500-2000 rpm. Very slow. It does thi",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-volvo-xc40",
+  "make": "Volvo",
+  "model": "XC40",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/VOLVO/XC40#complaints",
+  "generatedAt": "2026-06-23T16:42:31.520Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "am writing to formally report a serious issue involving the sale of a Certified Pre-Owned Volvo by a franchised Volvo dealership in Pennsylvania that I believe violates consumer protection standards and certified vehicle regulations.  On [XXX], I purchased a 2024 Volvo XC40 from ",
+      "pct": 44
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "am writing to formally report a serious issue involving the sale of a Certified Pre-Owned Volvo by a franchised Volvo dealership in Pennsylvania that I believe violates consumer protection standards and certified vehicle regulations.  On [XXX], I purchased a 2024 Volvo XC40 from ",
+      "pct": 44
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I pulled over right side of street to park behind a parked vehicle to a visit house across the street. Was too far out from curb so I backed up about 12-15 feet or so. Put car in drive and slowly started to drive toward curb when car suddenly accelerated very hard. I turned steer",
+      "pct": 33
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The complaint is for Software Update 7.3 and the previous update for the 2024 Volvo XC40. Those updates modified the rear backup camera view, directing the camera downward. This is a critical problem when backing out of diagonal parking, where an adjacent vehicle blocks the backu",
+      "pct": 22
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Passenger side map light activates and locks on for no reason. This can be particularly disruptive at night. The only way to switch off the light is by cycling the dome lights disruptive and dangerous at night. Light may still activate and lock on for no reason.",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Volvo Xc40 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "am writing to formally report a serious issue involving the sale of a Certified Pre-Owned Volvo by a franchised Volvo dealership in Pennsylvania that I believe violates consumer protection standards and certified vehicle regulations.  On [XXX], I purchased a 2024 Volvo XC40 from ",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "4 reports (44%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "am writing to formally report a serious issue involving the sale of a Certified Pre-Owned Volvo by a franchised Volvo dealership in Pennsylvania that I believe violates consumer protection standards and certified vehicle regulations.  On [XXX], I purchased a 2024 Volvo XC40 from ",
+        "pct": 44,
+        "title": "Service Brakes",
+        "blurb": "4 reports (44%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I pulled over right side of street to park behind a parked vehicle to a visit house across the street. Was too far out from curb so I backed up about 12-15 feet or so. Put car in drive and slowly started to drive toward curb when car suddenly accelerated very hard. I turned steer",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The complaint is for Software Update 7.3 and the previous update for the 2024 Volvo XC40. Those updates modified the rear backup camera view, directing the camera downward. This is a critical problem when backing out of diagonal parking, where an adjacent vehicle blocks the backu",
+        "pct": 22,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Passenger side map light activates and locks on for no reason. This can be particularly disruptive at night. The only way to switch off the light is by cycling the dome lights disruptive and dangerous at night. Light may still activate and lock on for no reason.",
+        "pct": 11,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

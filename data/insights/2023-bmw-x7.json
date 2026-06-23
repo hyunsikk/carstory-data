@@ -1,0 +1,128 @@
+{
+  "slug": "2023-bmw-x7",
+  "make": "BMW",
+  "model": "X7",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X7#complaints",
+  "generatedAt": "2026-06-23T16:27:09.177Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X7. The contact stated while driving at an undisclosed speed, the contact received an alert to emergency stop the vehicle. The contact then stated that while attempting to stop the vehicle, she merged right when the ABS warning light illuminated and th",
+      "pct": 63
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X7. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reas",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X7. The contact stated while driving 45-50 MPH, the message \"Unable to Drive\" and SOS messages were displayed. The vehicle then came to a complete stop, almost causing a crash. The contact turned off and restarted the vehicle and the vehicle responded ",
+      "pct": 18
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X7. The contact received notification of NHTSA Campaign Number 24V104000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the m",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our vehicle dies while driving down the highway, twice now in less than 30 days. I drivetrain and low-power warning came on, but the car died and wouldn't start. The obvious risk is that we were driving on the highway and barely avoided being in an accident as I tried to steer us",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X7 owners report most",
+    "summary": "Across 40 owner complaints to NHTSA, the most reported area is Service Brakes (63% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X7. The contact stated while driving at an undisclosed speed, the contact received an alert to emergency stop the vehicle. The contact then stated that while attempting to stop the vehicle, she merged right when the ABS warning light illuminated and th",
+        "pct": 63,
+        "title": "Service Brakes",
+        "blurb": "25 reports (63%) · 1 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X7. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reas",
+        "pct": 33,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "13 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X7. The contact stated while driving 45-50 MPH, the message \"Unable to Drive\" and SOS messages were displayed. The vehicle then came to a complete stop, almost causing a crash. The contact turned off and restarted the vehicle and the vehicle responded ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "7 reports (18%) · 1 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X7. The contact received notification of NHTSA Campaign Number 24V104000 (Electronic Stability Control (ESC), Service Brakes) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the m",
+        "pct": 13,
+        "title": "Hydraulic",
+        "blurb": "5 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our vehicle dies while driving down the highway, twice now in less than 30 days. I drivetrain and low-power warning came on, but the car died and wouldn't start. The obvious risk is that we were driving on the highway and barely avoided being in an accident as I tried to steer us",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "3 reports (8%)"
+      }
+    ]
+  }
+}

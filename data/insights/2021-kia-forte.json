@@ -1,0 +1,128 @@
+{
+  "slug": "2021-kia-forte",
+  "make": "Kia",
+  "model": "Forte",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/KIA/FORTE#complaints",
+  "generatedAt": "2026-06-23T16:36:27.543Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My main issue is concerning a critical design flaw that has been found due to a social media challenge called the Kia Challenge where people are able to start up and steal a Kia after only using a USB cord adapter (found near the key start on the steering wheel) without needing a",
+      "pct": 33
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have noticed recently that the car keeps all of a sudden pulling to the right and I have not had the lane assistance on since a week after I bought the car. It is at 4000 miles right now and this problem began at approximately 3000 miles. Not sure if anyone else has noticed thi",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A defect in 2021 Kia Forte vehicle engine start and security systems allows for the rear window to be broken without an alarm activation and the car to be started without a key or key-like device. The vehicle can be started with something as simple as a screwdriver. Vehicles of t",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle has issues where transmission actuator will stop functioning causing sudden loss of acceleration. Was doing 70 MPH in expressway and vehicle stopped accelerating. Issue has occurred two times, both times being serviced by Dealership, after receiving the vehicle back, issu",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I got into an accident by being struck by lightning.  I lost consciousness when I came to I was very confuse. I was in the side of a bridge with my foot on the brake looking at a river. My car was totally! My airbags didn’t even deploy. I’ve been paying the price for this with hi",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Kia Forte owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My main issue is concerning a critical design flaw that has been found due to a social media challenge called the Kia Challenge where people are able to start up and steal a Kia after only using a USB cord adapter (found near the key start on the steering wheel) without needing a",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "22 reports (33%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have noticed recently that the car keeps all of a sudden pulling to the right and I have not had the lane assistance on since a week after I bought the car. It is at 4000 miles right now and this problem began at approximately 3000 miles. Not sure if anyone else has noticed thi",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "9 reports (13%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A defect in 2021 Kia Forte vehicle engine start and security systems allows for the rear window to be broken without an alarm activation and the car to be started without a key or key-like device. The vehicle can be started with something as simple as a screwdriver. Vehicles of t",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "8 reports (12%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle has issues where transmission actuator will stop functioning causing sudden loss of acceleration. Was doing 70 MPH in expressway and vehicle stopped accelerating. Issue has occurred two times, both times being serviced by Dealership, after receiving the vehicle back, issu",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "7 reports (10%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I got into an accident by being struck by lightning.  I lost consciousness when I came to I was very confuse. I was in the side of a bridge with my foot on the brake looking at a river. My car was totally! My airbags didn’t even deploy. I’ve been paying the price for this with hi",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "6 reports (9%) · 5 crash · 4 injured"
+      }
+    ]
+  }
+}

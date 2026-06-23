@@ -1,0 +1,128 @@
+{
+  "slug": "2022-bmw-x7",
+  "make": "BMW",
+  "model": "X7",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X7#complaints",
+  "generatedAt": "2026-06-23T16:27:08.568Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on interstate 10 near New Orleans, the computer software system malfunction resulting in loss of power steering and 90% loss of braking action requiring a great distant to stop.Vehicle was towed  into shop and was found to have 184 codes violated. No parts were repl",
+      "pct": 22
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing this complaint regarding a persistent safety issue with the rear cross traffic alert (RCTA) system in my 2022 BMW X7. The system consistently fails to detect approaching vehicles, pedestrians, and cyclists unless they are within approximately two feet of the rear of t",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on interstate 10 near New Orleans, the computer software system malfunction resulting in loss of power steering and 90% loss of braking action requiring a great distant to stop.Vehicle was towed  into shop and was found to have 184 codes violated. No parts were repl",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on interstate 10 near New Orleans, the computer software system malfunction resulting in loss of power steering and 90% loss of braking action requiring a great distant to stop.Vehicle was towed  into shop and was found to have 184 codes violated. No parts were repl",
+      "pct": 11
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front passenger side door is unable to open from inside or outside the vehicle. The door actuator failed, and this has been confirmed by the dealer.   This is an obvious safety issue as it prevents egress in an emergency.   According to Internet forums, this seems to be a kno",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X7 owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on interstate 10 near New Orleans, the computer software system malfunction resulting in loss of power steering and 90% loss of braking action requiring a great distant to stop.Vehicle was towed  into shop and was found to have 184 codes violated. No parts were repl",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "4 reports (22%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing this complaint regarding a persistent safety issue with the rear cross traffic alert (RCTA) system in my 2022 BMW X7. The system consistently fails to detect approaching vehicles, pedestrians, and cyclists unless they are within approximately two feet of the rear of t",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "3 reports (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on interstate 10 near New Orleans, the computer software system malfunction resulting in loss of power steering and 90% loss of braking action requiring a great distant to stop.Vehicle was towed  into shop and was found to have 184 codes violated. No parts were repl",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "3 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on interstate 10 near New Orleans, the computer software system malfunction resulting in loss of power steering and 90% loss of braking action requiring a great distant to stop.Vehicle was towed  into shop and was found to have 184 codes violated. No parts were repl",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front passenger side door is unable to open from inside or outside the vehicle. The door actuator failed, and this has been confirmed by the dealer.   This is an obvious safety issue as it prevents egress in an emergency.   According to Internet forums, this seems to be a kno",
+        "pct": 6,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

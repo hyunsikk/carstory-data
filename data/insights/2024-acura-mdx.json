@@ -1,0 +1,128 @@
+{
+  "slug": "2024-acura-mdx",
+  "make": "Acura",
+  "model": "MDX",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/ACURA/MDX#complaints",
+  "generatedAt": "2026-06-23T16:24:52.807Z",
+  "total": 36,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Acura MDX. The contact stated that when the vehicle was cold started, the rearview camera delayed in showing an image after the transmission was shifted into reverse(R). Additionally, the contact stated while driving approximately 40 MPH, the instrument cl",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was lightly stepped on the gas coming off a complete stop with no cars in front of me. The automatic breaking came on hard and a sensor flashed to BRAKE as if I was going to hit someone but there was nobody in front of me. The sensor alert system was turned off 15min prior as I",
+      "pct": 28
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was lightly stepped on the gas coming off a complete stop with no cars in front of me. The automatic breaking came on hard and a sensor flashed to BRAKE as if I was going to hit someone but there was nobody in front of me. The sensor alert system was turned off 15min prior as I",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This car only has 2500 miles on it.  When it was just driven a few weeks in January, 2024, the car would start jerking while driving down the highway going a consistent 55-60 miles per hour.  We took it back to the dealer in St. Louis and they told us they were unable to duplicat",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving, the power steering in my car failed. I was unable to turn the steering wheel beyond 0.5” or so. Luckily, I was driving only 25mph on an empty road, so I was able to take my time and pull over. But had I been on the highway, this would have been a fatal crash for my",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Acura Mdx owners report most",
+    "summary": "Across 36 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Acura MDX. The contact stated that when the vehicle was cold started, the rearview camera delayed in showing an image after the transmission was shifted into reverse(R). Additionally, the contact stated while driving approximately 40 MPH, the instrument cl",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "10 reports (28%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was lightly stepped on the gas coming off a complete stop with no cars in front of me. The automatic breaking came on hard and a sensor flashed to BRAKE as if I was going to hit someone but there was nobody in front of me. The sensor alert system was turned off 15min prior as I",
+        "pct": 28,
+        "title": "Service Brakes",
+        "blurb": "10 reports (28%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was lightly stepped on the gas coming off a complete stop with no cars in front of me. The automatic breaking came on hard and a sensor flashed to BRAKE as if I was going to hit someone but there was nobody in front of me. The sensor alert system was turned off 15min prior as I",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (14%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This car only has 2500 miles on it.  When it was just driven a few weeks in January, 2024, the car would start jerking while driving down the highway going a consistent 55-60 miles per hour.  We took it back to the dealer in St. Louis and they told us they were unable to duplicat",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "5 reports (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving, the power steering in my car failed. I was unable to turn the steering wheel beyond 0.5” or so. Luckily, I was driving only 25mph on an empty road, so I was able to take my time and pull over. But had I been on the highway, this would have been a fatal crash for my",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "4 reports (11%)"
+      }
+    ]
+  }
+}

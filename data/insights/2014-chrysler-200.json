@@ -1,0 +1,128 @@
+{
+  "slug": "2014-chrysler-200",
+  "make": "Chrysler",
+  "model": "200",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/CHRYSLER/200#complaints",
+  "generatedAt": "2026-06-23T16:29:00.118Z",
+  "total": 192,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 68,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 13,
+      "deaths": 1,
+      "sample": "WHEN WE WERE INVOLVED IN THE ACCIDENT, WE WERE GOING INTERSTATE SPEED IN NEBRASKA AT 80 MPH, WE HIT A LARGE ROAD SIGN THAT TOTALED OUR VEHICLE. OUR AIRBAGS DID NOT DEPLOY AND I HAVE PHOTOS AND VIDEOS. ALSO MY CAR IS AT PERFORMANCE AUTO BODY SHOP IN LINCOLN NEBRASKA AND THE AIRBAG",
+      "pct": 35
+    },
+    {
+      "component": "ENGINE",
+      "count": 38,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 1,
+      "sample": "VEHICLE: 2014 CHRYSLER 200. SCENE: HUNTINGTON AVE. BOSTON, MA, IN SLOW MID-DAY TRAFFIC (12:30 PM).  THE ENGINE SUDDENLY SHUT OFF. STEERING AND BRAKES BECAME INOPERABLE. I DID NOT EVEN REALIZE THAT THE ENGINE HAD STOPPED RUNNING UNTIL AFTER I TRIED TO USE THE STEERING AND BRAKES. ",
+      "pct": 20
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE DRIVER SEAT BELT HAS SOME ISSUES WITH BUCKLING. ULTIMATELY, IT DOES BUCKLE BUT IT IS NOT SECURE. THERE HAS BEEN INSTANCES WHERE IT UNBUCKLED BECAUSE OF A BODY MOVEMENT. IN ORDER TO BUCKLE IT I HAVE TO INSERT THE BELT INTO THE BUCKLE AT LEAST 5-6 TIMES, AND EVEN THEN I AM NOT ",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 CHRYSLER 200. THE CONTACT STATED THAT THE VEHICLE'S SUSPENSION WAS UNSTABLE. THE VEHICLE COASTED FROM LEFT TO RIGHT INTERMITTENTLY. IN ADDITION, THERE WAS A SHORT IN THE INSTRUMENT PANEL, THE GAUGES FLASHED REPEATEDLY, AND THE ABS SENSOR ILLUMINATED IN",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 20,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "VEHICLE: 2014 CHRYSLER 200. SCENE: HUNTINGTON AVE. BOSTON, MA, IN SLOW MID-DAY TRAFFIC (12:30 PM).  THE ENGINE SUDDENLY SHUT OFF. STEERING AND BRAKES BECAME INOPERABLE. I DID NOT EVEN REALIZE THAT THE ENGINE HAD STOPPED RUNNING UNTIL AFTER I TRIED TO USE THE STEERING AND BRAKES. ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Chrysler 200 owners report most",
+    "summary": "Across 192 owner complaints to NHTSA, the most reported area is Air Bags (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 68,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 13,
+        "deaths": 1,
+        "sample": "WHEN WE WERE INVOLVED IN THE ACCIDENT, WE WERE GOING INTERSTATE SPEED IN NEBRASKA AT 80 MPH, WE HIT A LARGE ROAD SIGN THAT TOTALED OUR VEHICLE. OUR AIRBAGS DID NOT DEPLOY AND I HAVE PHOTOS AND VIDEOS. ALSO MY CAR IS AT PERFORMANCE AUTO BODY SHOP IN LINCOLN NEBRASKA AND THE AIRBAG",
+        "pct": 35,
+        "title": "Air Bags",
+        "blurb": "68 reports (35%) · 11 crash · 13 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 38,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 1,
+        "sample": "VEHICLE: 2014 CHRYSLER 200. SCENE: HUNTINGTON AVE. BOSTON, MA, IN SLOW MID-DAY TRAFFIC (12:30 PM).  THE ENGINE SUDDENLY SHUT OFF. STEERING AND BRAKES BECAME INOPERABLE. I DID NOT EVEN REALIZE THAT THE ENGINE HAD STOPPED RUNNING UNTIL AFTER I TRIED TO USE THE STEERING AND BRAKES. ",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "38 reports (20%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE DRIVER SEAT BELT HAS SOME ISSUES WITH BUCKLING. ULTIMATELY, IT DOES BUCKLE BUT IT IS NOT SECURE. THERE HAS BEEN INSTANCES WHERE IT UNBUCKLED BECAUSE OF A BODY MOVEMENT. IN ORDER TO BUCKLE IT I HAVE TO INSERT THE BELT INTO THE BUCKLE AT LEAST 5-6 TIMES, AND EVEN THEN I AM NOT ",
+        "pct": 18,
+        "title": "Seat Belts",
+        "blurb": "34 reports (18%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 CHRYSLER 200. THE CONTACT STATED THAT THE VEHICLE'S SUSPENSION WAS UNSTABLE. THE VEHICLE COASTED FROM LEFT TO RIGHT INTERMITTENTLY. IN ADDITION, THERE WAS A SHORT IN THE INSTRUMENT PANEL, THE GAUGES FLASHED REPEATEDLY, AND THE ABS SENSOR ILLUMINATED IN",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "33 reports (17%) · 2 fire · 3 crash · 5 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 20,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "VEHICLE: 2014 CHRYSLER 200. SCENE: HUNTINGTON AVE. BOSTON, MA, IN SLOW MID-DAY TRAFFIC (12:30 PM).  THE ENGINE SUDDENLY SHUT OFF. STEERING AND BRAKES BECAME INOPERABLE. I DID NOT EVEN REALIZE THAT THE ENGINE HAD STOPPED RUNNING UNTIL AFTER I TRIED TO USE THE STEERING AND BRAKES. ",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "20 reports (10%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

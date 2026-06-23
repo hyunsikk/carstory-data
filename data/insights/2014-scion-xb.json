@@ -1,0 +1,106 @@
+{
+  "slug": "2014-scion-xb",
+  "make": "Scion",
+  "model": "xB",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/SCION/XB#complaints",
+  "generatedAt": "2026-06-23T16:40:32.079Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR BURNING OIL,  128000 MILES. OIL LIGHT CAN ON BEFORE OIL CHANGE WAS NEEDED. CHECKED OIL LEVEL IT WAS REALLY LOW. NO VISIBLE LEAKS.  I HAD TO ADD 1 QUART OF OIL 1 MONTH GETTING OIL CHANGED. I HAVE READ THAT SCION XB HAS HAD A PROBLEM WITH OIL CONSUMPTION BECAUSE OF THE PISTON R",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 SCION XB. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V005000 (AIR BAGS). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. MIKE ERDMAN TOYOTA (4650 FL-520, COCOA, FL 32926, (321) 453",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 SCION XB. THE CONTACT STATED THAT THERE WAS PREMATURE RUST ON THE ROOF OF THE VEHICLE, WHICH PROGRESSED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER WHO PAINTED THE TOP OF THE WINDSHIELD NEAR THE ROOF. THE EXTENSIVE RUST WAS NOT COATED BY THE DEA",
+      "pct": 22
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 SCION XB.  THE CONTACT STATED THAT THE BRAKE PEDAL WAS APPLIED HOWEVER WAS LOSE. THE VEHICLE FAILED TO STOP AND CRASHED INTO A VEHICLE. THERE WERE NO WARNING LIGHTS ILLUMINATED. THERE WERE NO REPORTED INJURIES. THE AIR BAGS DID NOT DEPLOY. THE CONTACT ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Scion Xb owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR BURNING OIL,  128000 MILES. OIL LIGHT CAN ON BEFORE OIL CHANGE WAS NEEDED. CHECKED OIL LEVEL IT WAS REALLY LOW. NO VISIBLE LEAKS.  I HAD TO ADD 1 QUART OF OIL 1 MONTH GETTING OIL CHANGED. I HAVE READ THAT SCION XB HAS HAD A PROBLEM WITH OIL CONSUMPTION BECAUSE OF THE PISTON R",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 SCION XB. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V005000 (AIR BAGS). THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. MIKE ERDMAN TOYOTA (4650 FL-520, COCOA, FL 32926, (321) 453",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 SCION XB. THE CONTACT STATED THAT THERE WAS PREMATURE RUST ON THE ROOF OF THE VEHICLE, WHICH PROGRESSED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER WHO PAINTED THE TOP OF THE WINDSHIELD NEAR THE ROOF. THE EXTENSIVE RUST WAS NOT COATED BY THE DEA",
+        "pct": 22,
+        "title": "Structure",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 SCION XB.  THE CONTACT STATED THAT THE BRAKE PEDAL WAS APPLIED HOWEVER WAS LOSE. THE VEHICLE FAILED TO STOP AND CRASHED INTO A VEHICLE. THERE WERE NO WARNING LIGHTS ILLUMINATED. THERE WERE NO REPORTED INJURIES. THE AIR BAGS DID NOT DEPLOY. THE CONTACT ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "1 report (11%) · 1 crash"
+      }
+    ]
+  }
+}

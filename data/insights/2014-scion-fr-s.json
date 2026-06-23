@@ -1,0 +1,62 @@
+{
+  "slug": "2014-scion-fr-s",
+  "make": "Scion",
+  "model": "FR-S",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/SCION/FR-S#complaints",
+  "generatedAt": "2026-06-23T16:40:28.719Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE FREEWAY AND MY CAR STARTED TO SLOW DOWN. I PULLED OFF THE FREEWAY AND MY ENGINE KONKED OUT/DIED. FEELING UNSAFE TO DRIVE VEHICLE I HAD TO HAVE IT TOWED TO NEAREST MECHANIC. UPON HIS VISUAL INSPECTION AND BY STARTING IT UP HE HEARD A LOUD KNOCKING. THEN HE INF",
+      "pct": 80
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 SCION FR-S. THE CONTACT STATED THAT THE SEAT BELT PRETENSIONER FAILED TO OPERATE CORRECTLY AS THE PASSENGER'S AND DRIVER'S DOOR AJAR WARNING LIGHT ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE FAILURE RECURRED. THE MANUFACTURER WAS NOT M",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Scion Fr-S owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Engine (80% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE FREEWAY AND MY CAR STARTED TO SLOW DOWN. I PULLED OFF THE FREEWAY AND MY ENGINE KONKED OUT/DIED. FEELING UNSAFE TO DRIVE VEHICLE I HAD TO HAVE IT TOWED TO NEAREST MECHANIC. UPON HIS VISUAL INSPECTION AND BY STARTING IT UP HE HEARD A LOUD KNOCKING. THEN HE INF",
+        "pct": 80,
+        "title": "Engine",
+        "blurb": "4 reports (80%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 SCION FR-S. THE CONTACT STATED THAT THE SEAT BELT PRETENSIONER FAILED TO OPERATE CORRECTLY AS THE PASSENGER'S AND DRIVER'S DOOR AJAR WARNING LIGHT ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE FAILURE RECURRED. THE MANUFACTURER WAS NOT M",
+        "pct": 20,
+        "title": "Seat Belts",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

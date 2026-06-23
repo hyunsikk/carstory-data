@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mercedes-benz-c-class",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/C-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:18.223Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving and all of a sudden a loud sound started occurring and the sound appeared to come from my breaks as if they were about to give out. The car is currently at Mercedes getting looked at. I’m concerned for my safety as I have taken this car in for two other issues in th",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within the first week of ownership (delivery on 1/15/24), the car's parking and/or front collision sensors started malfunctioning on a regular basis.  The sensors repeatedly gave off false alerts when the car would approach intersections even though no obstacles were in front of,",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Friday [XXX] at approximately [XXX]. My wife and I were driving our 2024 C-Class 300 (~8,000 miles on this vehicle) on [XXX]  and entering the intersection of [XXX]. Riverside, CA 92506 when all of sudden the car just died (the engine stopped running, pushing the gas pedal wit",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within the first week of ownership (delivery on 1/15/24), the car's parking and/or front collision sensors started malfunctioning on a regular basis.  The sensors repeatedly gave off false alerts when the car would approach intersections even though no obstacles were in front of,",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dealership: Mercedes-Benz of Santa Fe, 2586 Camino Entrada, Santa Fe, NM 87507 I am filing this complaint regarding multiple unresolved safety defects in my 2024 Mercedes-Benz C300 persisting across numerous repair visits since February 2026. Defect 1 – Recurring Strut Assembly: ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz C-Class owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Service Brakes (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving and all of a sudden a loud sound started occurring and the sound appeared to come from my breaks as if they were about to give out. The car is currently at Mercedes getting looked at. I’m concerned for my safety as I have taken this car in for two other issues in th",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "4 reports (33%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within the first week of ownership (delivery on 1/15/24), the car's parking and/or front collision sensors started malfunctioning on a regular basis.  The sensors repeatedly gave off false alerts when the car would approach intersections even though no obstacles were in front of,",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Friday [XXX] at approximately [XXX]. My wife and I were driving our 2024 C-Class 300 (~8,000 miles on this vehicle) on [XXX]  and entering the intersection of [XXX]. Riverside, CA 92506 when all of sudden the car just died (the engine stopped running, pushing the gas pedal wit",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within the first week of ownership (delivery on 1/15/24), the car's parking and/or front collision sensors started malfunctioning on a regular basis.  The sensors repeatedly gave off false alerts when the car would approach intersections even though no obstacles were in front of,",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "2 reports (17%) · 1 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dealership: Mercedes-Benz of Santa Fe, 2586 Camino Entrada, Santa Fe, NM 87507 I am filing this complaint regarding multiple unresolved safety defects in my 2024 Mercedes-Benz C300 persisting across numerous repair visits since February 2026. Defect 1 – Recurring Strut Assembly: ",
+        "pct": 8,
+        "title": "Suspension",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "2017-lincoln-mkt",
+  "make": "Lincoln",
+  "model": "MKT",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/LINCOLN/MKT#complaints",
+  "generatedAt": "2026-06-23T16:37:44.574Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Lincoln MKT. The contact received notification of NHTSA Campaign Number:25V827000 (Structure) however, the part to do the recall repair was not yet available. The local dealer was not made aware of the issue. The contact stated that the manufacturer had ex",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Lincoln MKT. The contact stated while driving after the vehicle had been in idling for 4-5 minutes, there was an excessive amount of smoke coming from the exhaust pipe. There was no warning light illuminated. The contact stated that the vehicle was making ",
+      "pct": 33
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS VEHICLE IS A RENTAL FROM BUDGET.  ON 11/10 - 11/11/17, DRIVING FROM FT MYERS, FL TO KNOXVILLE, TN, ON I-75, AT HIGHWAY SPEEDS OF 55-80 MPH, WHILE CHANGING LANES, VEHICLE WOULD START TO STEER SMOOTHLY EITHER TO LEFT OR RIGHT, AND THEN SUDDENLY THE VEHICLE WOULD SURGE (DART) M",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Lincoln Mkt owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Structure (33% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Lincoln MKT. The contact received notification of NHTSA Campaign Number:25V827000 (Structure) however, the part to do the recall repair was not yet available. The local dealer was not made aware of the issue. The contact stated that the manufacturer had ex",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Lincoln MKT. The contact stated while driving after the vehicle had been in idling for 4-5 minutes, there was an excessive amount of smoke coming from the exhaust pipe. There was no warning light illuminated. The contact stated that the vehicle was making ",
+        "pct": 33,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS VEHICLE IS A RENTAL FROM BUDGET.  ON 11/10 - 11/11/17, DRIVING FROM FT MYERS, FL TO KNOXVILLE, TN, ON I-75, AT HIGHWAY SPEEDS OF 55-80 MPH, WHILE CHANGING LANES, VEHICLE WOULD START TO STEER SMOOTHLY EITHER TO LEFT OR RIGHT, AND THEN SUDDENLY THE VEHICLE WOULD SURGE (DART) M",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

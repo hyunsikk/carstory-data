@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-tucson",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/TUCSON#complaints",
+  "generatedAt": "2026-06-23T16:34:21.926Z",
+  "total": 83,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 23,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The forward collision avoidance system made me have accident. I was driving on the expressway, the forward collision made the car stop abruptly, then accelerate. As I was veering to the right, the car stopped again in the middle of the expressway causing me to have an accident. T",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "the entire computer system shorted out throughout the entire car. It did not let me select above all of what it affected. The entire car malfunction due to the dealer not doing predelivery inspection. They have the vehicle and have not given me a written explanation or reports as",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I brought my vehicle in to Allstar hyundai in Baton Rouge about a month after purchasing it. I told the service manager my brakes are squealing through out the day. He drove it nothing. He stated it is because of moisture. Not true. Squealing brakes means the brakes will go out. ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the entire computer system shorted out throughout the entire car. It did not let me select above all of what it affected. The entire car malfunction due to the dealer not doing predelivery inspection. They have the vehicle and have not given me a written explanation or reports as",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The forward collision avoidance system made me have accident. I was driving on the expressway, the forward collision made the car stop abruptly, then accelerate. As I was veering to the right, the car stopped again in the middle of the expressway causing me to have an accident. T",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Tucson owners report most",
+    "summary": "Across 83 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 23,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The forward collision avoidance system made me have accident. I was driving on the expressway, the forward collision made the car stop abruptly, then accelerate. As I was veering to the right, the car stopped again in the middle of the expressway causing me to have an accident. T",
+        "pct": 28,
+        "title": "Forward Collision Avoidance",
+        "blurb": "23 reports (28%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "the entire computer system shorted out throughout the entire car. It did not let me select above all of what it affected. The entire car malfunction due to the dealer not doing predelivery inspection. They have the vehicle and have not given me a written explanation or reports as",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "15 reports (18%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I brought my vehicle in to Allstar hyundai in Baton Rouge about a month after purchasing it. I told the service manager my brakes are squealing through out the day. He drove it nothing. He stated it is because of moisture. Not true. Squealing brakes means the brakes will go out. ",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "14 reports (17%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the entire computer system shorted out throughout the entire car. It did not let me select above all of what it affected. The entire car malfunction due to the dealer not doing predelivery inspection. They have the vehicle and have not given me a written explanation or reports as",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "12 reports (14%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The forward collision avoidance system made me have accident. I was driving on the expressway, the forward collision made the car stop abruptly, then accelerate. As I was veering to the right, the car stopped again in the middle of the expressway causing me to have an accident. T",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "8 reports (10%) · 1 crash"
+      }
+    ]
+  }
+}

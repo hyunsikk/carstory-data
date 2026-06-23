@@ -1,0 +1,128 @@
+{
+  "slug": "2023-ford-bronco",
+  "make": "Ford",
+  "model": "Bronco",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/FORD/BRONCO#complaints",
+  "generatedAt": "2026-06-23T16:29:40.324Z",
+  "total": 209,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 89,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The wipers on low mode stop working after about 30 seconds, requiring to turn off/on again or try the higher wiper speed. On a rainy day, when the wipers stopped there was near zero visibility. There were now warning lights when they stopped working.   I see many other 2023 Ford ",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The screen on the radio freezes/glitches at random times. Navigation no longer updates despite still, providing audio prompts. Requires the vehicle to be parked and turned off to fix it each time. Creates major issue when navigating unfamiliar areas and suddenly needing to pull o",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While at a stop with vehicle running, the vehicle sputters and stalls when trying to accelerate/start moving. This has happened multiple times when stopped at an intersection and creating a safety hazard for the occupants of the vehicle. Multiple attempts to restart it have to be",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within the first 500 miles on my brand new bronco, I noticed a strange burning smell after driving it one day. The next morning when I started it, I heard what I thought was a heat shield rattle, and as I continued to drive my bronco to work throughout the week the noise got wors",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Emergency brake failure. I have a very slight slope on my driveway. My car rolled halfway down my driveway. I assumed I did something wrong although I knew I had the car in gear with the E brake on. Two hours later I came back from an errand parked on my driveway was sitting in m",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Ford Bronco owners report most",
+    "summary": "Across 209 owner complaints to NHTSA, the most reported area is Visibility/Wiper (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 89,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The wipers on low mode stop working after about 30 seconds, requiring to turn off/on again or try the higher wiper speed. On a rainy day, when the wipers stopped there was near zero visibility. There were now warning lights when they stopped working.   I see many other 2023 Ford ",
+        "pct": 43,
+        "title": "Visibility/Wiper",
+        "blurb": "89 reports (43%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The screen on the radio freezes/glitches at random times. Navigation no longer updates despite still, providing audio prompts. Requires the vehicle to be parked and turned off to fix it each time. Creates major issue when navigating unfamiliar areas and suddenly needing to pull o",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "22 reports (11%) · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While at a stop with vehicle running, the vehicle sputters and stalls when trying to accelerate/start moving. This has happened multiple times when stopped at an intersection and creating a safety hazard for the occupants of the vehicle. Multiple attempts to restart it have to be",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "19 reports (9%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within the first 500 miles on my brand new bronco, I noticed a strange burning smell after driving it one day. The next morning when I started it, I heard what I thought was a heat shield rattle, and as I continued to drive my bronco to work throughout the week the noise got wors",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "19 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Emergency brake failure. I have a very slight slope on my driveway. My car rolled halfway down my driveway. I assumed I did something wrong although I knew I had the car in gear with the E brake on. Two hours later I came back from an errand parked on my driveway was sitting in m",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "15 reports (7%)"
+      }
+    ]
+  }
+}

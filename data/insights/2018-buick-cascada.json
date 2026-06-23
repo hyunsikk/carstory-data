@@ -1,0 +1,128 @@
+{
+  "slug": "2018-buick-cascada",
+  "make": "Buick",
+  "model": "Cascada",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BUICK/CASCADA#complaints",
+  "generatedAt": "2026-06-23T16:44:30.339Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Buick Cascada. The contact stated that while operating the vehicle, there was a whistling sound coming from the engine compartment, with the check engine warning light displayed. The vehicle was taken to the local dealer who diagnosed that the intake manif",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PCV Failure at 62,000 miles.  GM extended warranty on 2016 models that demonstrated this problem.  Appears to be a design flaw and often fails again after repair. $2000 + job to repair",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Chirping sound from under hood took to GM dealer, they changed the belt and transitioned and was still chirping.  Now say it is pvc/camshaft cover.",
+      "pct": 11
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "17-NA-216 was originally issued in in 2017 updated in 2019 to include 2018 model.  Back windshield detaches from canvas/folding top. Was concerned primarily about safety of my child who drives car that windshield would completely fly off when driving.  I replaced the folding top ",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact rented a 2018 Buick Cascada. The contact stated while driving at 5 MPH and making a right turn, the brake pedal was depressed but failed to respond, which caused another vehicle going at an undisclosed speed to crash into the front driver side of the vehicle. There we",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Buick Cascada owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Engine And Engine Cooling (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Buick Cascada. The contact stated that while operating the vehicle, there was a whistling sound coming from the engine compartment, with the check engine warning light displayed. The vehicle was taken to the local dealer who diagnosed that the intake manif",
+        "pct": 22,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PCV Failure at 62,000 miles.  GM extended warranty on 2016 models that demonstrated this problem.  Appears to be a design flaw and often fails again after repair. $2000 + job to repair",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Chirping sound from under hood took to GM dealer, they changed the belt and transitioned and was still chirping.  Now say it is pvc/camshaft cover.",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "17-NA-216 was originally issued in in 2017 updated in 2019 to include 2018 model.  Back windshield detaches from canvas/folding top. Was concerned primarily about safety of my child who drives car that windshield would completely fly off when driving.  I replaced the folding top ",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact rented a 2018 Buick Cascada. The contact stated while driving at 5 MPH and making a right turn, the brake pedal was depressed but failed to respond, which caused another vehicle going at an undisclosed speed to crash into the front driver side of the vehicle. There we",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "1 report (11%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

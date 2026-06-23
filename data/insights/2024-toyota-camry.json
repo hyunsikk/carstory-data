@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-camry",
+  "make": "Toyota",
+  "model": "Camry",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/CAMRY#complaints",
+  "generatedAt": "2026-06-23T16:41:18.249Z",
+  "total": 44,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a vibration sound that occurs when the brake is pressed or depressed.  When driving the sound is not present.  I brought it to the Smithtown Toyota dealership and they couldn’t find anything and said they heard nothing in the video I sent.  After countless hours troubles",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "i believe my airbags are not going to function properly due to sensors or the airbags themselves. the dashboard warning light \"doesn't stay on long enough\" to indicate an issue per service tech and wouldn't be assesed. there are no independent locations that can pull any reports ",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When using lane trace assist as part of the adaptive cruise control the vehicle will violently pull the steering wheel to the left or right out of the lane. This will occur even with vehicles in the lane it pulls to that are detected by the blind spot monitoring system. Brought t",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When using lane trace assist as part of the adaptive cruise control the vehicle will violently pull the steering wheel to the left or right out of the lane. This will occur even with vehicles in the lane it pulls to that are detected by the blind spot monitoring system. Brought t",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a vibration sound that occurs when the brake is pressed or depressed.  When driving the sound is not present.  I brought it to the Smithtown Toyota dealership and they couldn’t find anything and said they heard nothing in the video I sent.  After countless hours troubles",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Camry owners report most",
+    "summary": "Across 44 owner complaints to NHTSA, the most reported area is Structure (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a vibration sound that occurs when the brake is pressed or depressed.  When driving the sound is not present.  I brought it to the Smithtown Toyota dealership and they couldn’t find anything and said they heard nothing in the video I sent.  After countless hours troubles",
+        "pct": 25,
+        "title": "Structure",
+        "blurb": "11 reports (25%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "i believe my airbags are not going to function properly due to sensors or the airbags themselves. the dashboard warning light \"doesn't stay on long enough\" to indicate an issue per service tech and wouldn't be assesed. there are no independent locations that can pull any reports ",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "5 reports (11%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When using lane trace assist as part of the adaptive cruise control the vehicle will violently pull the steering wheel to the left or right out of the lane. This will occur even with vehicles in the lane it pulls to that are detected by the blind spot monitoring system. Brought t",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (11%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When using lane trace assist as part of the adaptive cruise control the vehicle will violently pull the steering wheel to the left or right out of the lane. This will occur even with vehicles in the lane it pulls to that are detected by the blind spot monitoring system. Brought t",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "4 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a vibration sound that occurs when the brake is pressed or depressed.  When driving the sound is not present.  I brought it to the Smithtown Toyota dealership and they couldn’t find anything and said they heard nothing in the video I sent.  After countless hours troubles",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "4 reports (9%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-06-23T16:28:29.155Z",
+  "total": 74,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS WAS A RENTAL CAR, EQUIPPED WITH AN ELECTRONIC KEY FOB AND A STARTER/TURN ENGINE-OFF BUTTON ON THE DASHBOARD. THIS PARTICULAR VEHICLE COULD  BE LOCKED REMOTELY FROM OUTSIDE THE VEHICLE, WHILE IT CONTINUED TO RUN. ADDITIONALLY, IT APPERED THAT AN OCCUPANT OF THE LOCKED  VEHICL",
+      "pct": 32
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Malibu. The contact stated that when the gear shifter was shifted into park(P), the vehicle started to roll. The contact stated that the shift to park message was then illuminated. The contact turned off and restarted the vehicle. The vehicle was",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "3 times now, the car has turned off while in gear or in motion. In an Arbys drive thru on a hill above a highway. Backing out of a parking spot in VA. And pulling through a busy intersection in VA. The safety hazard is that you lose power brakes and steering when a vehicle isn’t ",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The computer was not recognizing my car being in the correct gear shift. It did this for a few days until finally,  I couldn't drive it. The car would not recognize any part of the gear being in the correct position. The car would not move forward or reverse, resulting in a tow. ",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vin is most likely affected by the aftermarket DTN inflator wheel airbag. Please let the final owner know of this. This vehicle was sold to Rightway Automotive credit from Tallmadge Ohio on October 19, 2022 who then sold it to the current owner.",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Malibu owners report most",
+    "summary": "Across 74 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS WAS A RENTAL CAR, EQUIPPED WITH AN ELECTRONIC KEY FOB AND A STARTER/TURN ENGINE-OFF BUTTON ON THE DASHBOARD. THIS PARTICULAR VEHICLE COULD  BE LOCKED REMOTELY FROM OUTSIDE THE VEHICLE, WHILE IT CONTINUED TO RUN. ADDITIONALLY, IT APPERED THAT AN OCCUPANT OF THE LOCKED  VEHICL",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "24 reports (32%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Malibu. The contact stated that when the gear shifter was shifted into park(P), the vehicle started to roll. The contact stated that the shift to park message was then illuminated. The contact turned off and restarted the vehicle. The vehicle was",
+        "pct": 32,
+        "title": "Power Train",
+        "blurb": "24 reports (32%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "3 times now, the car has turned off while in gear or in motion. In an Arbys drive thru on a hill above a highway. Backing out of a parking spot in VA. And pulling through a busy intersection in VA. The safety hazard is that you lose power brakes and steering when a vehicle isn’t ",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "12 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The computer was not recognizing my car being in the correct gear shift. It did this for a few days until finally,  I couldn't drive it. The car would not recognize any part of the gear being in the correct position. The car would not move forward or reverse, resulting in a tow. ",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (11%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vin is most likely affected by the aftermarket DTN inflator wheel airbag. Please let the final owner know of this. This vehicle was sold to Rightway Automotive credit from Tallmadge Ohio on October 19, 2022 who then sold it to the current owner.",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "5 reports (7%)"
+      }
+    ]
+  }
+}

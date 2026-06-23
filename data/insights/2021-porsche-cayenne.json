@@ -1,0 +1,128 @@
+{
+  "slug": "2021-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:45.979Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Problem with the hybrid system and the engine control system.  Unit changed automatically and unexpectedly from battery power mode to engine power mode when on battery power mode only.  This change is not supposed to happen.  This failure happened when starting the unit, put on d",
+      "pct": 29
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dashboard leather is separating and was told this could affect the airbag deployment in the case of an accident. Porsche dealership is asking 10k outside of warranty to replace the dash. If it was just cosmetic I could deal with it, but now that it is a safety concern for my pass",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Porsche Cayenne. The contact stated that while driving from a complete stop, the steering wheel felt loose. There were no warning lights illuminated. The vehicle was towed to the dealer where it was diagnosed that the tie rod bolt, track bolt, and hexagon ",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Much like thousands of Cayenne drivers, I am constantly let down by an ongoing issue with Adaptive Cruise Control failures with an error message that reads, “Adaptive Cruise Control unavailable.”  THIS MAY CAUSE SERIOUS INJURY OR DEATH IF NOT REPAIRED AS VEHICULAR COLLISION RATES",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While coming to a stop the vehicle lurches around 1200 rpms as the rpms are falling. The vehicle appears to already be in 1st gear when this happens. This can be replicated in all driving modes. observation: when braking or even when coasting to a stop the vehicle will slow down ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Porsche Cayenne owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Electrical System (29% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Problem with the hybrid system and the engine control system.  Unit changed automatically and unexpectedly from battery power mode to engine power mode when on battery power mode only.  This change is not supposed to happen.  This failure happened when starting the unit, put on d",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "5 reports (29%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dashboard leather is separating and was told this could affect the airbag deployment in the case of an accident. Porsche dealership is asking 10k outside of warranty to replace the dash. If it was just cosmetic I could deal with it, but now that it is a safety concern for my pass",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Porsche Cayenne. The contact stated that while driving from a complete stop, the steering wheel felt loose. There were no warning lights illuminated. The vehicle was towed to the dealer where it was diagnosed that the tie rod bolt, track bolt, and hexagon ",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Much like thousands of Cayenne drivers, I am constantly let down by an ongoing issue with Adaptive Cruise Control failures with an error message that reads, “Adaptive Cruise Control unavailable.”  THIS MAY CAUSE SERIOUS INJURY OR DEATH IF NOT REPAIRED AS VEHICULAR COLLISION RATES",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While coming to a stop the vehicle lurches around 1200 rpms as the rpms are falling. The vehicle appears to already be in 1st gear when this happens. This can be replicated in all driving modes. observation: when braking or even when coasting to a stop the vehicle will slow down ",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "2 reports (12%)"
+      }
+    ]
+  }
+}

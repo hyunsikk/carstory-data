@@ -1,0 +1,84 @@
+{
+  "slug": "2024-audi-sq5",
+  "make": "Audi",
+  "model": "SQ5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/SQ5#complaints",
+  "generatedAt": "2026-06-23T16:43:19.196Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? AUDI PRESENSE SENSOR IS GOING OFF RANDOMLY WHEN THERE IS NO RISK FOR COLLISION. BRAKES ABRUPTLY, SEATBELT TIGHTENS, CAR TURNS OFF IN THE MIDDLE OF THE ROAD. FROM LEASE START WEEK 1T",
+      "pct": 40
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The following problem happened 3 times.  I was making a right hand turn with plenty of clearance when the car seized.  Engine shut down, lights on dash said MALFUNCTION and many other lights lit.  Oncoming traffic approached and nearly smashed into my car.  This also happened mak",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The rear hatch lid has a mechanism that closes the hatch when foot movement is sensed near the rear bumper.  Unfortunately, it sometimes detects foot movement when a person is working on baggage in the luggage area. It then sets off an alarm and attempts to close the hatch on the",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Sq5 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (40% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request? AUDI PRESENSE SENSOR IS GOING OFF RANDOMLY WHEN THERE IS NO RISK FOR COLLISION. BRAKES ABRUPTLY, SEATBELT TIGHTENS, CAR TURNS OFF IN THE MIDDLE OF THE ROAD. FROM LEASE START WEEK 1T",
+        "pct": 40,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The following problem happened 3 times.  I was making a right hand turn with plenty of clearance when the car seized.  Engine shut down, lights on dash said MALFUNCTION and many other lights lit.  Oncoming traffic approached and nearly smashed into my car.  This also happened mak",
+        "pct": 20,
+        "title": "Lane Departure",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The rear hatch lid has a mechanism that closes the hatch when foot movement is sensed near the rear bumper.  Unfortunately, it sometimes detects foot movement when a person is working on baggage in the luggage area. It then sets off an alarm and attempts to close the hatch on the",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%) · 2 injured"
+      }
+    ]
+  }
+}

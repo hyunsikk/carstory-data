@@ -1,0 +1,128 @@
+{
+  "slug": "2023-genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/G70#complaints",
+  "generatedAt": "2026-06-23T16:30:58.970Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had my car for almost 6 months and in that time frame twice my car while driving on the highway my car went into limp mode and was not responding. I was unable to accelerate. It was almost like I wasn’t able to control my car. All lights on the dash came on. I recieved DTC",
+      "pct": 32
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dealer did not complete recall while in service Nov 15 2024, service order shows parts are on back order. After 2 months I reached out to Corp who reached out to dealer. Both copr and the dealer ended up calling back just yesterday, however the message from copr stated the part i",
+      "pct": 32
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had my car for almost 6 months and in that time frame twice my car while driving on the highway my car went into limp mode and was not responding. I was unable to accelerate. It was almost like I wasn’t able to control my car. All lights on the dash came on. I recieved DTC",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dealer did not complete recall while in service Nov 15 2024, service order shows parts are on back order. After 2 months I reached out to Corp who reached out to dealer. Both copr and the dealer ended up calling back just yesterday, however the message from copr stated the part i",
+      "pct": 21
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unintentional acceleration - parked car crashed into garage wall, damaging front bumper and home structure. Have lost all faith in vehicle. Sensors and automatic brake failed. Car concerns have been reported and waiting 6-8 weeks for GMA to deem if it is eligible for an investiga",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis G70 owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had my car for almost 6 months and in that time frame twice my car while driving on the highway my car went into limp mode and was not responding. I was unable to accelerate. It was almost like I wasn’t able to control my car. All lights on the dash came on. I recieved DTC",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "6 reports (32%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dealer did not complete recall while in service Nov 15 2024, service order shows parts are on back order. After 2 months I reached out to Corp who reached out to dealer. Both copr and the dealer ended up calling back just yesterday, however the message from copr stated the part i",
+        "pct": 32,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (32%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had my car for almost 6 months and in that time frame twice my car while driving on the highway my car went into limp mode and was not responding. I was unable to accelerate. It was almost like I wasn’t able to control my car. All lights on the dash came on. I recieved DTC",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "4 reports (21%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dealer did not complete recall while in service Nov 15 2024, service order shows parts are on back order. After 2 months I reached out to Corp who reached out to dealer. Both copr and the dealer ended up calling back just yesterday, however the message from copr stated the part i",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "4 reports (21%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unintentional acceleration - parked car crashed into garage wall, damaging front bumper and home structure. Have lost all faith in vehicle. Sensors and automatic brake failed. Car concerns have been reported and waiting 6-8 weeks for GMA to deem if it is eligible for an investiga",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (16%) · 2 crash"
+      }
+    ]
+  }
+}

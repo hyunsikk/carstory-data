@@ -1,0 +1,128 @@
+{
+  "slug": "2024-genesis-gv70",
+  "make": "Genesis",
+  "model": "GV70",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GENESIS/GV70#complaints",
+  "generatedAt": "2026-06-23T16:31:10.438Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I moved my Genesis GV-70 to my home in Reno, NV.  My complaint is in regard to my car becoming very dangerous!  I'm giving you my move to Reno because its relevant to this complaint.  I didn't need quick acceleration while I was living in Florida.  In Reno, I have to merge onto R",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was entering a highway when my vehicle lost the ability to accelerate. Complete loss of acceleration, audible and visual notifications on my dashboard that were difficult to read as I was dealing with a dangerous situation. I was fortunate that there was a pull out immediately ",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I moved my Genesis GV-70 to my home in Reno, NV.  My complaint is in regard to my car becoming very dangerous!  I'm giving you my move to Reno because its relevant to this complaint.  I didn't need quick acceleration while I was living in Florida.  In Reno, I have to merge onto R",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "•Malfunctions: •Brakes: Failed multiple times, including during a critical incident on 11/9/2024, where I couldn’t stop the car, risking a severe collision. •Steering: The steering system failed during the same event, making the car uncontrollable. •Acceleration: The vehicle unex",
+      "pct": 18
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The digital instrument cluster in my 2024 Genesis GV70 has failed multiple times while driving.  The vehicle was taken to the dealership on December 20, 2025 for instrument cluster malfunction. The vehicle remained in the shop for approximately four weeks, and the instrument clus",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Genesis Gv70 owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Power Train (35% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I moved my Genesis GV-70 to my home in Reno, NV.  My complaint is in regard to my car becoming very dangerous!  I'm giving you my move to Reno because its relevant to this complaint.  I didn't need quick acceleration while I was living in Florida.  In Reno, I have to merge onto R",
+        "pct": 35,
+        "title": "Power Train",
+        "blurb": "6 reports (35%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was entering a highway when my vehicle lost the ability to accelerate. Complete loss of acceleration, audible and visual notifications on my dashboard that were difficult to read as I was dealing with a dangerous situation. I was fortunate that there was a pull out immediately ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I moved my Genesis GV-70 to my home in Reno, NV.  My complaint is in regard to my car becoming very dangerous!  I'm giving you my move to Reno because its relevant to this complaint.  I didn't need quick acceleration while I was living in Florida.  In Reno, I have to merge onto R",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "•Malfunctions: •Brakes: Failed multiple times, including during a critical incident on 11/9/2024, where I couldn’t stop the car, risking a severe collision. •Steering: The steering system failed during the same event, making the car uncontrollable. •Acceleration: The vehicle unex",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (18%) · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The digital instrument cluster in my 2024 Genesis GV70 has failed multiple times while driving.  The vehicle was taken to the dealership on December 20, 2025 for instrument cluster malfunction. The vehicle remained in the shop for approximately four weeks, and the instrument clus",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (12%)"
+      }
+    ]
+  }
+}

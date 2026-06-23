@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-santa-fe",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/SANTA%20FE#complaints",
+  "generatedAt": "2026-06-23T16:33:58.789Z",
+  "total": 196,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 39,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Stopped at left turn lane light. Light turns green and vehicle engine revolutions increase as I press on gas pedal but car does not move. Cars behind me lean on their horns and take evasive maneuvers to go around me. Car finally goes very slowly and transmission disengages in mid",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "May 5th 2023 my car was broken in to.The back passenger window was broken out and the steering column was tour out .The car was undrivable. The car was towed May 18th to Nalley Hyundai.I just got my car back today Aug 11. I understand Hyundai is suing TikTok I was given a number.",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 34,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Forward collision warning system engaged unexpectedly, braked hard to the point of smelling burnt tires.  No collision imminent.  Normal driving conditions.    On a second occasion, stopped at a traffic light, the vehicle suddenly warned of foward parking collision.  Front camera",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2023 Hyundia Santa Fe bought brand new from the dealership. During the course of the last month and a half the vehicle has done things with unknown origin. The panic alarm will randomly go off when the vehicle is turned off, no one is in it, or even near it. By locking the vehicl",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 22,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "All lights that come on when you first start the vehicle stay on. ABS, forward collision, rear collision, side mirror check, down hill brake, etc. The brakes and brake pedal would lock up when attempting to brake. Pedal stays locked but the wheels didn’t seem too. Brake system wo",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Santa Fe owners report most",
+    "summary": "Across 196 owner complaints to NHTSA, the most reported area is Power Train (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 39,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Stopped at left turn lane light. Light turns green and vehicle engine revolutions increase as I press on gas pedal but car does not move. Cars behind me lean on their horns and take evasive maneuvers to go around me. Car finally goes very slowly and transmission disengages in mid",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "39 reports (20%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "May 5th 2023 my car was broken in to.The back passenger window was broken out and the steering column was tour out .The car was undrivable. The car was towed May 18th to Nalley Hyundai.I just got my car back today Aug 11. I understand Hyundai is suing TikTok I was given a number.",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "34 reports (17%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 34,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Forward collision warning system engaged unexpectedly, braked hard to the point of smelling burnt tires.  No collision imminent.  Normal driving conditions.    On a second occasion, stopped at a traffic light, the vehicle suddenly warned of foward parking collision.  Front camera",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "34 reports (17%) · 1 fire · 5 crash · 4 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2023 Hyundia Santa Fe bought brand new from the dealership. During the course of the last month and a half the vehicle has done things with unknown origin. The panic alarm will randomly go off when the vehicle is turned off, no one is in it, or even near it. By locking the vehicl",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "33 reports (17%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 22,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "All lights that come on when you first start the vehicle stay on. ABS, forward collision, rear collision, side mirror check, down hill brake, etc. The brakes and brake pedal would lock up when attempting to brake. Pedal stays locked but the wheels didn’t seem too. Brake system wo",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "22 reports (11%) · 1 crash · 4 injured"
+      }
+    ]
+  }
+}

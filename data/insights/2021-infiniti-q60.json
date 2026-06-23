@@ -1,0 +1,106 @@
+{
+  "slug": "2021-infiniti-q60",
+  "make": "Infiniti",
+  "model": "Q60",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/INFINITI/Q60#complaints",
+  "generatedAt": "2026-06-23T16:34:41.860Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING THE CAR AT APPROXIMATELY 75 MPH DOWN THE HIGHWAY.   SEVERAL WARNING LIGHTS CAME ON IN THE DASH INCLUDING THE CRASH SENSORS, AND THE CAR LOST ALL POWER.  I WAS ABLE TO SAFELY PULL THE CAR OVER TO THE SIDE OF THE ROAD.   I TRIED TO RESTART THE CAR WITH NO SUCCESS.  ON",
+      "pct": 67
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Infiniti Q60.  The contact stated while driving at an undisclosed speed, the malfunction warning light illuminated. The vehicle was taken to the dealer where it was diagnosed with a fractured aluminum bracket that sits between the front bumpers. The contac",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING THE CAR AT APPROXIMATELY 75 MPH DOWN THE HIGHWAY.   SEVERAL WARNING LIGHTS CAME ON IN THE DASH INCLUDING THE CRASH SENSORS, AND THE CAR LOST ALL POWER.  I WAS ABLE TO SAFELY PULL THE CAR OVER TO THE SIDE OF THE ROAD.   I TRIED TO RESTART THE CAR WITH NO SUCCESS.  ON",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING THE CAR AT APPROXIMATELY 75 MPH DOWN THE HIGHWAY.   SEVERAL WARNING LIGHTS CAME ON IN THE DASH INCLUDING THE CRASH SENSORS, AND THE CAR LOST ALL POWER.  I WAS ABLE TO SAFELY PULL THE CAR OVER TO THE SIDE OF THE ROAD.   I TRIED TO RESTART THE CAR WITH NO SUCCESS.  ON",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Infiniti Q60 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING THE CAR AT APPROXIMATELY 75 MPH DOWN THE HIGHWAY.   SEVERAL WARNING LIGHTS CAME ON IN THE DASH INCLUDING THE CRASH SENSORS, AND THE CAR LOST ALL POWER.  I WAS ABLE TO SAFELY PULL THE CAR OVER TO THE SIDE OF THE ROAD.   I TRIED TO RESTART THE CAR WITH NO SUCCESS.  ON",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Infiniti Q60.  The contact stated while driving at an undisclosed speed, the malfunction warning light illuminated. The vehicle was taken to the dealer where it was diagnosed with a fractured aluminum bracket that sits between the front bumpers. The contac",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING THE CAR AT APPROXIMATELY 75 MPH DOWN THE HIGHWAY.   SEVERAL WARNING LIGHTS CAME ON IN THE DASH INCLUDING THE CRASH SENSORS, AND THE CAR LOST ALL POWER.  I WAS ABLE TO SAFELY PULL THE CAR OVER TO THE SIDE OF THE ROAD.   I TRIED TO RESTART THE CAR WITH NO SUCCESS.  ON",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING THE CAR AT APPROXIMATELY 75 MPH DOWN THE HIGHWAY.   SEVERAL WARNING LIGHTS CAME ON IN THE DASH INCLUDING THE CRASH SENSORS, AND THE CAR LOST ALL POWER.  I WAS ABLE TO SAFELY PULL THE CAR OVER TO THE SIDE OF THE ROAD.   I TRIED TO RESTART THE CAR WITH NO SUCCESS.  ON",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

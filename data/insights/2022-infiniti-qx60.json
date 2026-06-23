@@ -1,0 +1,128 @@
+{
+  "slug": "2022-infiniti-qx60",
+  "make": "Infiniti",
+  "model": "QX60",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/INFINITI/QX60#complaints",
+  "generatedAt": "2026-06-23T16:34:56.748Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car does not start once it is parked, ignition is turned off and car is locked.  The car requires a jump in order for it to start.  Once it is jumped, the car has malfunction alerts, the battery light is lit in the vehicle and some features of the car do not work (i.e. lane a",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle shifts from drive into neutral intermittently. This has happed several times over the coarse of 2 years that we have had vehicle. It has occurred on both highway and street driving and is a major safety concern. We have brought it into the dealership and they could no",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was moving down a small slope behind other vehicles at a speed of 40-50 mph. In order to slow down a bit, I decided to manually downshift gear, I pressed the left switch and expected that after changing gear the speed it would begin to decline. But instead of slowing down, I fe",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I'm pressing the brakes on the car at all speeds (more noticeable at slower speeds) the car jerks before it comes to a complete stop.  When the car is first turned on, the cars brakes smoothly.  Unfortunately, after a few times braking, the car will jerk before the car fully",
+      "pct": 9
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2022 QX60 equipped with a Panoramic Moonroof.  While in Florida 850 miles from home, I was traveling alone at about 35mph when I heard a loud explosion.  It sounded like a gun shot at close range.  I kept driving but observed my surroundings and there was no traffic, no construct",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Infiniti Qx60 owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Electrical System (23% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car does not start once it is parked, ignition is turned off and car is locked.  The car requires a jump in order for it to start.  Once it is jumped, the car has malfunction alerts, the battery light is lit in the vehicle and some features of the car do not work (i.e. lane a",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "5 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle shifts from drive into neutral intermittently. This has happed several times over the coarse of 2 years that we have had vehicle. It has occurred on both highway and street driving and is a major safety concern. We have brought it into the dealership and they could no",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was moving down a small slope behind other vehicles at a speed of 40-50 mph. In order to slow down a bit, I decided to manually downshift gear, I pressed the left switch and expected that after changing gear the speed it would begin to decline. But instead of slowing down, I fe",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I'm pressing the brakes on the car at all speeds (more noticeable at slower speeds) the car jerks before it comes to a complete stop.  When the car is first turned on, the cars brakes smoothly.  Unfortunately, after a few times braking, the car will jerk before the car fully",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2022 QX60 equipped with a Panoramic Moonroof.  While in Florida 850 miles from home, I was traveling alone at about 35mph when I heard a loud explosion.  It sounded like a gun shot at close range.  I kept driving but observed my surroundings and there was no traffic, no construct",
+        "pct": 5,
+        "title": "Structure",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2016-honda-cr-z",
+  "make": "Honda",
+  "model": "CR-Z",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/HONDA/CR-Z#complaints",
+  "generatedAt": "2026-06-23T16:32:14.539Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My driver’s side door handle has broken. I have the broken handle if you need it. It’s a safety issue because it delays entering the car from the driver’s side, which could endanger an owner or a passenger who needs to get inside the vehicle. Apparently, this is a known problem i",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Honda Cr-Z owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Structure (50% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My driver’s side door handle has broken. I have the broken handle if you need it. It’s a safety issue because it delays entering the car from the driver’s side, which could endanger an owner or a passenger who needs to get inside the vehicle. Apparently, this is a known problem i",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

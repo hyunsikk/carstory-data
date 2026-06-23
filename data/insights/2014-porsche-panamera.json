@@ -1,0 +1,128 @@
+{
+  "slug": "2014-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:53.474Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR A PANAMERA S 2014 IS SHOWING THE ISSUES PRESENTED IN THE SAFETY RECALL 19V-446.  IF I MOVE THE SHIFT LEVEL TO \"PARK\" POSITION AND REMOVE THE IGNITION KEY, THE CAR IS NOT REALLY IN \"PARK\".  IF THE THE CAR IS IN A SLOPE IT WILL MOVE.  I PUT MY VIN NUMBER IN YOUR SITE AND POR",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING VERY SLOW OUT OF MY DRIVEWAY TO TURN LEFT INTO THE STREET OF MY SUBDIVISION , BUT THE STEERING WHEEL DID NOT TURN AND THE CAR SUDDENLY ACCELERATED , I HIT THE RAKES NOTHING HAPPENED AND THE CAR KEPT GOING STRAIT HITTING THE FENCE AND THE HOUSE AHEAD AND CRASHED ON T",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE CAR WAS DRIVEN SLOWLY (5 MPH) TO THE BACK OF LARGE PARKING LOT. AS THE SPACE WAS ENTERED AND DRIVER ATTEMPTED TO STOP CAR, THE CAR ACCELERATED AND CONTINUED THROUGH THE END OF THE PARKING SPACE, WENT OVER THE GRASS DIVIDER, DOWN A HILL AND HIT A PARKED CAR. DRIVER WAS ATTEMPT",
+      "pct": 25
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A few times there has been condensation collecting in the passenger front head light.  This time the condensation has damaged the headlight to where it does not work anymore.",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR GOT A PROBLEM WITH THEIR STEREO SYSTEM AND BACK CAMERA.  THEY TRIED COUPLE OF TIMES BUT WAS UNABLE TO FIX IT. ACCORDING TO THEM THEY EVEN INSTALLED NEW PCM UNIT. BUT THE PROBLEM WAS NEVER RESOLVED.",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Porsche Panamera owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR A PANAMERA S 2014 IS SHOWING THE ISSUES PRESENTED IN THE SAFETY RECALL 19V-446.  IF I MOVE THE SHIFT LEVEL TO \"PARK\" POSITION AND REMOVE THE IGNITION KEY, THE CAR IS NOT REALLY IN \"PARK\".  IF THE THE CAR IS IN A SLOPE IT WILL MOVE.  I PUT MY VIN NUMBER IN YOUR SITE AND POR",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "4 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING VERY SLOW OUT OF MY DRIVEWAY TO TURN LEFT INTO THE STREET OF MY SUBDIVISION , BUT THE STEERING WHEEL DID NOT TURN AND THE CAR SUDDENLY ACCELERATED , I HIT THE RAKES NOTHING HAPPENED AND THE CAR KEPT GOING STRAIT HITTING THE FENCE AND THE HOUSE AHEAD AND CRASHED ON T",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "3 reports (25%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE CAR WAS DRIVEN SLOWLY (5 MPH) TO THE BACK OF LARGE PARKING LOT. AS THE SPACE WAS ENTERED AND DRIVER ATTEMPTED TO STOP CAR, THE CAR ACCELERATED AND CONTINUED THROUGH THE END OF THE PARKING SPACE, WENT OVER THE GRASS DIVIDER, DOWN A HILL AND HIT A PARKED CAR. DRIVER WAS ATTEMPT",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "3 reports (25%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A few times there has been condensation collecting in the passenger front head light.  This time the condensation has damaged the headlight to where it does not work anymore.",
+        "pct": 17,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR GOT A PROBLEM WITH THEIR STEREO SYSTEM AND BACK CAMERA.  THEY TRIED COUPLE OF TIMES BUT WAS UNABLE TO FIX IT. ACCORDING TO THEM THEY EVEN INSTALLED NEW PCM UNIT. BUT THE PROBLEM WAS NEVER RESOLVED.",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "2 reports (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T16:31:20.638Z",
+  "total": 365,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 149,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE MANUAL GEAR SHIFTER CONTROLS IN LOW GEAR ON THE CENTER CONSOLE DO NOT SHIFT.  THE MANUAL CONTROL WORKED DURING THE TEST DRIVE AT THE DEALERSHIP WHEN THE CAR HAD 17 MILES ON IT, MARCH 10, 2019.  THE SHIFTER FAILURE WAS FIRST NOTICED WHEN THE CAR HAD ABOUT 500 MILES ON IT, COMI",
+      "pct": 41
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 100,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY MOTHER HAS BECOME TRAPPED TWO TIMES DUE TO THE LOCKS ON THE VEHICLE NOT WORKING. THE ISSUE ONLY HAPPENS WHEN IT RAINS. I TOOK THE VEHICLE TO THE DEALERSHIP AND THEY SAID THEY REPLACED SOME KIND MECHANISM AND THAT EVERYTHING WAS GOOD TO GO. IT RAINED AGAIN YESTERDAY AND MY MOTH",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 46,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT 500 MILES PAST THE WARRANTY EXPIRATION THE RADIATOR DEVELOPED A CRACK ALONG THE TOP SEAM. THE DEALERSHIP SAID IT WAS A MANUFACTURES DEFECT AS THE VEHICLE WAS LESS THAN TWO YEARS OLD. GMC DECLINED TO REPLACE THE PART BECAUSE IT WAS 500 MILES PAST THE WARRANTY ALTHOUGH THEY DID ",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle will have a message on the dash that says “drive with care steering assist is reduced”, the fans will come on and stay on, and the temperature hand will quit working along with air conditioner. It has not been inspected, I am not sure if the steering assist being reduced ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY 2019 GMC ACADIA HAS ABRUPTLY AUTOMATICALLY BRAKED WHILE DRIVING BETWEEN 10- 15 MPH AND WITHOUT ANY CARS NEAR THE VEHICLE. IT SLAMS ON THE BRAKE LIKE IT'S THE PARKING BRAKE AND MAKES A GRINDING NOISE.. THIS HAS OCCURRED ON 2 DIFFERENT OCCASIONS. AFTER THE 1ST TIME THE SERVICE P",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Gmc Acadia owners report most",
+    "summary": "Across 365 owner complaints to NHTSA, the most reported area is Power Train (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 149,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE MANUAL GEAR SHIFTER CONTROLS IN LOW GEAR ON THE CENTER CONSOLE DO NOT SHIFT.  THE MANUAL CONTROL WORKED DURING THE TEST DRIVE AT THE DEALERSHIP WHEN THE CAR HAD 17 MILES ON IT, MARCH 10, 2019.  THE SHIFTER FAILURE WAS FIRST NOTICED WHEN THE CAR HAD ABOUT 500 MILES ON IT, COMI",
+        "pct": 41,
+        "title": "Power Train",
+        "blurb": "149 reports (41%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 100,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY MOTHER HAS BECOME TRAPPED TWO TIMES DUE TO THE LOCKS ON THE VEHICLE NOT WORKING. THE ISSUE ONLY HAPPENS WHEN IT RAINS. I TOOK THE VEHICLE TO THE DEALERSHIP AND THEY SAID THEY REPLACED SOME KIND MECHANISM AND THAT EVERYTHING WAS GOOD TO GO. IT RAINED AGAIN YESTERDAY AND MY MOTH",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "100 reports (27%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 46,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT 500 MILES PAST THE WARRANTY EXPIRATION THE RADIATOR DEVELOPED A CRACK ALONG THE TOP SEAM. THE DEALERSHIP SAID IT WAS A MANUFACTURES DEFECT AS THE VEHICLE WAS LESS THAN TWO YEARS OLD. GMC DECLINED TO REPLACE THE PART BECAUSE IT WAS 500 MILES PAST THE WARRANTY ALTHOUGH THEY DID ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "46 reports (13%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle will have a message on the dash that says “drive with care steering assist is reduced”, the fans will come on and stay on, and the temperature hand will quit working along with air conditioner. It has not been inspected, I am not sure if the steering assist being reduced ",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "29 reports (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY 2019 GMC ACADIA HAS ABRUPTLY AUTOMATICALLY BRAKED WHILE DRIVING BETWEEN 10- 15 MPH AND WITHOUT ANY CARS NEAR THE VEHICLE. IT SLAMS ON THE BRAKE LIKE IT'S THE PARKING BRAKE AND MAKES A GRINDING NOISE.. THIS HAS OCCURRED ON 2 DIFFERENT OCCASIONS. AFTER THE 1ST TIME THE SERVICE P",
+        "pct": 4,
+        "title": "Service Brakes",
+        "blurb": "15 reports (4%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

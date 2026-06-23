@@ -1,0 +1,128 @@
+{
+  "slug": "2023-chevrolet-colorado",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CHEVROLET/COLORADO#complaints",
+  "generatedAt": "2026-06-23T16:28:09.508Z",
+  "total": 129,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 44,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Chevrolet Colorado. The contact stated while driving 35 MPH, the vehicle experienced phantom braking with an audible alert and an unknown warning light illuminated. The contact was able to safely drive the vehicle to the residence. The vehicle was not diag",
+      "pct": 34
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 38,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I've had two problems both dealing with the truck's infotainment system.  The first problem was that the software \"glitched\" and the screen became unusable (see attached pictures).  The headlight controls are exclusively accessed through this screen and I had to remove the negati",
+      "pct": 29
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Driver backed the truck out of a parking spot and the brakes did not engage. The service engine soon light then came on and said it was an anti-lock brake failure. Their have been two guesses so far as to what caused this. A faulty master cylinder or an issue with the engine cont",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2 incidents.  1. The blind spot indication (driver side) gives false readings sometimes. Will light up at various times in clear weather with no vehicle next to me. Sensors checked and were clean.  2. The vehicle had a dead battery. It was jumped by roadside assistance.  When sta",
+      "pct": 16
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2 incidents.  1. The blind spot indication (driver side) gives false readings sometimes. Will light up at various times in clear weather with no vehicle next to me. Sensors checked and were clean.  2. The vehicle had a dead battery. It was jumped by roadside assistance.  When sta",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Chevrolet Colorado owners report most",
+    "summary": "Across 129 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 44,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Chevrolet Colorado. The contact stated while driving 35 MPH, the vehicle experienced phantom braking with an audible alert and an unknown warning light illuminated. The contact was able to safely drive the vehicle to the residence. The vehicle was not diag",
+        "pct": 34,
+        "title": "Forward Collision Avoidance",
+        "blurb": "44 reports (34%) · 2 crash · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 38,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I've had two problems both dealing with the truck's infotainment system.  The first problem was that the software \"glitched\" and the screen became unusable (see attached pictures).  The headlight controls are exclusively accessed through this screen and I had to remove the negati",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "38 reports (29%) · 1 crash · 5 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Driver backed the truck out of a parking spot and the brakes did not engage. The service engine soon light then came on and said it was an anti-lock brake failure. Their have been two guesses so far as to what caused this. A faulty master cylinder or an issue with the engine cont",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "24 reports (19%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2 incidents.  1. The blind spot indication (driver side) gives false readings sometimes. Will light up at various times in clear weather with no vehicle next to me. Sensors checked and were clean.  2. The vehicle had a dead battery. It was jumped by roadside assistance.  When sta",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "20 reports (16%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2 incidents.  1. The blind spot indication (driver side) gives false readings sometimes. Will light up at various times in clear weather with no vehicle next to me. Sensors checked and were clean.  2. The vehicle had a dead battery. It was jumped by roadside assistance.  When sta",
+        "pct": 12,
+        "title": "Lane Departure",
+        "blurb": "16 reports (12%)"
+      }
+    ]
+  }
+}

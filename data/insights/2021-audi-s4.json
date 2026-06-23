@@ -1,0 +1,40 @@
+{
+  "slug": "2021-audi-s4",
+  "make": "Audi",
+  "model": "S4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/S4#complaints",
+  "generatedAt": "2026-06-23T16:43:05.293Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi S4. The contact stated that while driving at an undisclosed speed, the vehicle experienced a loss of automotive power. The check engine warning light was illuminated. The message \"Drive System Malfunction - Please Contact Service\" was displayed. In ad",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi S4 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi S4. The contact stated that while driving at an undisclosed speed, the vehicle experienced a loss of automotive power. The check engine warning light was illuminated. The message \"Drive System Malfunction - Please Contact Service\" was displayed. In ad",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

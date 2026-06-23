@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-seltos",
+  "make": "Kia",
+  "model": "Seltos",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/SELTOS#complaints",
+  "generatedAt": "2026-06-23T16:36:44.976Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia Seltos. The contact stated that while at a complete stop with her foot on the brake pedal, the vehicle independently lunged forward without warning. The contact also stated that while the vehicle was parked, the engine revved uncontrollably without war",
+      "pct": 36
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have been having issues with my touch screen in my car. I bought my car new and the console has not worked correctly. I’ve had this issue with the console since 7/22… have been begging KIA America to fix it. Today I was driving backwards and my backup camera was on. Then when I",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car sensors go off when they aren’t supposed to. My front collision sensor goes off when cars are 2 cars in front of me. My side sensors will go off when I’m im the only one on a street. My console has electrical issues… internal issues. This car qualifies for Lemon Law. That’",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The check engine light came on .. for a day then went off. Took it they said they couldn’t find anything.. 2 days later a symbol triangle with exclamation point. Not sure what it means but the orange warning lights wouldn’t come on if nothing is wrong 24 thousand miles on it . Al",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Saturday, December 24th of 2022, the right driver passenger window randomly shattered, the car windows were perfectly fine on Friday, December 23rd . The had been sitting parked in the parking lot in front our house, off and unharmed; which was confirmed by our cameras. The ri",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Seltos owners report most",
+    "summary": "Across 42 owner complaints to NHTSA, the most reported area is Engine (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia Seltos. The contact stated that while at a complete stop with her foot on the brake pedal, the vehicle independently lunged forward without warning. The contact also stated that while the vehicle was parked, the engine revved uncontrollably without war",
+        "pct": 36,
+        "title": "Engine",
+        "blurb": "15 reports (36%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have been having issues with my touch screen in my car. I bought my car new and the console has not worked correctly. I’ve had this issue with the console since 7/22… have been begging KIA America to fix it. Today I was driving backwards and my backup camera was on. Then when I",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "14 reports (33%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car sensors go off when they aren’t supposed to. My front collision sensor goes off when cars are 2 cars in front of me. My side sensors will go off when I’m im the only one on a street. My console has electrical issues… internal issues. This car qualifies for Lemon Law. That’",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (10%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The check engine light came on .. for a day then went off. Took it they said they couldn’t find anything.. 2 days later a symbol triangle with exclamation point. Not sure what it means but the orange warning lights wouldn’t come on if nothing is wrong 24 thousand miles on it . Al",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "4 reports (10%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Saturday, December 24th of 2022, the right driver passenger window randomly shattered, the car windows were perfectly fine on Friday, December 23rd . The had been sitting parked in the parking lot in front our house, off and unharmed; which was confirmed by our cameras. The ri",
+        "pct": 10,
+        "title": "Visibility",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-nissan-armada",
+  "make": "Nissan",
+  "model": "Armada",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/NISSAN/ARMADA#complaints",
+  "generatedAt": "2026-06-23T16:39:09.841Z",
+  "total": 71,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BCI MALFUNCTION MESSAGE DISPLAYED ON THE DASH ALONG WITH OTHER INDICATORS. VEHICLE WOULDN'T START. SERVICE DEPARTMENT SUGGESTED TO CONTINUE TO PRESS THE BRAKE AND PUSH START BUTTON WHILE I WAITED FOR ROAD SIDE ASSISTANCE TOW. AFTER ABOUT 15 MIN THE VEHICLE STARTED. MINUTES LATER ",
+      "pct": 52
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BCI MALFUNCTION MESSAGE DISPLAYED ON THE DASH ALONG WITH OTHER INDICATORS. VEHICLE WOULDN'T START. SERVICE DEPARTMENT SUGGESTED TO CONTINUE TO PRESS THE BRAKE AND PUSH START BUTTON WHILE I WAITED FOR ROAD SIDE ASSISTANCE TOW. AFTER ABOUT 15 MIN THE VEHICLE STARTED. MINUTES LATER ",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON SOMEWHAT RANDOM OCCASIONS THE VEHICLE WILL NOT START, IN TOTAL OVER 13 SEPARATE OCCASIONS. AT TIMES IT WILL START AFTER 5 OR 6 ATTEMPTS SOMETIMES 20 ATTEMPTS. ON THE LAST 5 OCCASIONS IT WOULD NOT START UNTIL A BATTERY CHARGER OR OTHER BATTERY WAS USED. I HAVE USED THE LAST OCC",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BCI MALFUNCTION EARRING, SHOWS ON THE DASHBOARD. THIS ISSUE OCCURRED SINCE JANUARY, THE ENTIRE SYSTEM SHUTS OFF, PRE COLLISION, BACK UP WARNING, CRUISE CONTROL, AND SONAR SYSTEM, ALL GOES OFF. MOREOVER, THE CAR WOULD NOT START, HAVE TO PUSH THE BRAKES 3 TO 6 TIME IN ORDER TO TURN",
+      "pct": 10
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving car on highway the rear felt like it was going one way while I was steering another. Took to dealer that just replaced rear suspension on 2/23/22. They saw that the rear tires were worn on the inside to the point of exposed wires. The tires checked out fine on 2/23/",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Nissan Armada owners report most",
+    "summary": "Across 71 owner complaints to NHTSA, the most reported area is Electrical System (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BCI MALFUNCTION MESSAGE DISPLAYED ON THE DASH ALONG WITH OTHER INDICATORS. VEHICLE WOULDN'T START. SERVICE DEPARTMENT SUGGESTED TO CONTINUE TO PRESS THE BRAKE AND PUSH START BUTTON WHILE I WAITED FOR ROAD SIDE ASSISTANCE TOW. AFTER ABOUT 15 MIN THE VEHICLE STARTED. MINUTES LATER ",
+        "pct": 52,
+        "title": "Electrical System",
+        "blurb": "37 reports (52%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BCI MALFUNCTION MESSAGE DISPLAYED ON THE DASH ALONG WITH OTHER INDICATORS. VEHICLE WOULDN'T START. SERVICE DEPARTMENT SUGGESTED TO CONTINUE TO PRESS THE BRAKE AND PUSH START BUTTON WHILE I WAITED FOR ROAD SIDE ASSISTANCE TOW. AFTER ABOUT 15 MIN THE VEHICLE STARTED. MINUTES LATER ",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "11 reports (15%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON SOMEWHAT RANDOM OCCASIONS THE VEHICLE WILL NOT START, IN TOTAL OVER 13 SEPARATE OCCASIONS. AT TIMES IT WILL START AFTER 5 OR 6 ATTEMPTS SOMETIMES 20 ATTEMPTS. ON THE LAST 5 OCCASIONS IT WOULD NOT START UNTIL A BATTERY CHARGER OR OTHER BATTERY WAS USED. I HAVE USED THE LAST OCC",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "9 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BCI MALFUNCTION EARRING, SHOWS ON THE DASHBOARD. THIS ISSUE OCCURRED SINCE JANUARY, THE ENTIRE SYSTEM SHUTS OFF, PRE COLLISION, BACK UP WARNING, CRUISE CONTROL, AND SONAR SYSTEM, ALL GOES OFF. MOREOVER, THE CAR WOULD NOT START, HAVE TO PUSH THE BRAKES 3 TO 6 TIME IN ORDER TO TURN",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (10%) · 1 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving car on highway the rear felt like it was going one way while I was steering another. Took to dealer that just replaced rear suspension on 2/23/22. They saw that the rear tires were worn on the inside to the point of exposed wires. The tires checked out fine on 2/23/",
+        "pct": 8,
+        "title": "Suspension",
+        "blurb": "6 reports (8%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2017-kia-cadenza",
+  "make": "Kia",
+  "model": "Cadenza",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/KIA/CADENZA#complaints",
+  "generatedAt": "2026-06-23T16:36:18.888Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OUTSIDE AIR TEMP SENSOR HAS DEFECT. IT READS 32 DEGREES F. WHEN TEMPS ARE OVER 80 F OUTSIDE. WON'T ALLOW AUTO AIR CONDITIONING TO WORK. THE ENGINE EMISSION CONTROL WARNING LIGHT COMES ON AND STAYS ON. HAVE HAD IN THE DEALERSHIP 3 TIMES AND THEY KEEP TELLING ME MY GAS CAP IS NOT S",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OUTSIDE AIR TEMP SENSOR HAS DEFECT. IT READS 32 DEGREES F. WHEN TEMPS ARE OVER 80 F OUTSIDE. WON'T ALLOW AUTO AIR CONDITIONING TO WORK. THE ENGINE EMISSION CONTROL WARNING LIGHT COMES ON AND STAYS ON. HAVE HAD IN THE DEALERSHIP 3 TIMES AND THEY KEEP TELLING ME MY GAS CAP IS NOT S",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SHORTLY AFTER FILLING FUEL TANK A STRONG RAW FUEL ODOR EMANATED FROM THE LEFT SIDE OF THE VEHICLE NEAR THE FUEL DOOR. THE SMELL WAS MOST PRONOUNCED OUTSIDE THE VEHICLE. INITIALLY I THOUGHT SOME FUEL HAD SPILLED, BUT THE SMELL LASTED SEVERAL DAYS UNTIL THE TANK WAS DEPLETED TO 1/2",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BRAKE ISSUE: I HAD AN ACCIDENT DUE TO A BRAKE FAILURE ON THIS CAR.  I WAS DRIVING VERY SLOWLY GOING DOWNHILL (SPEEDS 0 TO 10 MPH) IN A LINE OF CARS STOPPING AND GOING, STOPPING AND GOING MANY TIMES.  AT FIRST THE BRAKE PEDAL FELT NORMAL AS PRESSURE WAS APPLIED THE CAR SLOWED THEN",
+      "pct": 10
+    },
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR CUPPED TIRES AROUND 17000 MILES.  DEALER BLAMED ME FOR CAR NOT BEING ALIGNED AND NOT ROTATED FREQUENTLY ENOUGH  I.E. 7500 MILES.  I DISAGREED WITH DEALER FILED COMPLAINT WITH KIA AND THEY MADE A COMPROMISE AND I PAID FOR 2 TIRES AND KIA PAID FOR 2 TIRES, DIFFERENT TIRE BRAND ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Kia Cadenza owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OUTSIDE AIR TEMP SENSOR HAS DEFECT. IT READS 32 DEGREES F. WHEN TEMPS ARE OVER 80 F OUTSIDE. WON'T ALLOW AUTO AIR CONDITIONING TO WORK. THE ENGINE EMISSION CONTROL WARNING LIGHT COMES ON AND STAYS ON. HAVE HAD IN THE DEALERSHIP 3 TIMES AND THEY KEEP TELLING ME MY GAS CAP IS NOT S",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "10 reports (32%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OUTSIDE AIR TEMP SENSOR HAS DEFECT. IT READS 32 DEGREES F. WHEN TEMPS ARE OVER 80 F OUTSIDE. WON'T ALLOW AUTO AIR CONDITIONING TO WORK. THE ENGINE EMISSION CONTROL WARNING LIGHT COMES ON AND STAYS ON. HAVE HAD IN THE DEALERSHIP 3 TIMES AND THEY KEEP TELLING ME MY GAS CAP IS NOT S",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "6 reports (19%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SHORTLY AFTER FILLING FUEL TANK A STRONG RAW FUEL ODOR EMANATED FROM THE LEFT SIDE OF THE VEHICLE NEAR THE FUEL DOOR. THE SMELL WAS MOST PRONOUNCED OUTSIDE THE VEHICLE. INITIALLY I THOUGHT SOME FUEL HAD SPILLED, BUT THE SMELL LASTED SEVERAL DAYS UNTIL THE TANK WAS DEPLETED TO 1/2",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (16%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BRAKE ISSUE: I HAD AN ACCIDENT DUE TO A BRAKE FAILURE ON THIS CAR.  I WAS DRIVING VERY SLOWLY GOING DOWNHILL (SPEEDS 0 TO 10 MPH) IN A LINE OF CARS STOPPING AND GOING, STOPPING AND GOING MANY TIMES.  AT FIRST THE BRAKE PEDAL FELT NORMAL AS PRESSURE WAS APPLIED THE CAR SLOWED THEN",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "3 reports (10%) · 2 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR CUPPED TIRES AROUND 17000 MILES.  DEALER BLAMED ME FOR CAR NOT BEING ALIGNED AND NOT ROTATED FREQUENTLY ENOUGH  I.E. 7500 MILES.  I DISAGREED WITH DEALER FILED COMPLAINT WITH KIA AND THEY MADE A COMPROMISE AND I PAID FOR 2 TIRES AND KIA PAID FOR 2 TIRES, DIFFERENT TIRE BRAND ",
+        "pct": 10,
+        "title": "Wheels",
+        "blurb": "3 reports (10%)"
+      }
+    ]
+  }
+}

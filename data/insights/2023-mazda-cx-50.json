@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mazda-cx-50",
+  "make": "Mazda",
+  "model": "CX-50",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MAZDA/CX-50#complaints",
+  "generatedAt": "2026-06-23T16:38:00.049Z",
+  "total": 57,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 10:16 am, I was driving home on Hall Rd. in Michigan.  Hall Road is currently under construction and only two lanes are open and the speed is 40mph.  It was raining pretty hard and also very windy. I was traveling West in the left lane and i noticed people in front of me began",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Safety systems disables when Sunlight hits directly on the car. I own Toyota and honda, they Never had problems with sunlight.  sudden loss of safety systems, caused warnings on dash, which was a distraction, especially when Sun hits directly at the car/driver. I verified the cam",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 10:16 am, I was driving home on Hall Rd. in Michigan.  Hall Road is currently under construction and only two lanes are open and the speed is 40mph.  It was raining pretty hard and also very windy. I was traveling West in the left lane and i noticed people in front of me began",
+      "pct": 16
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The manufacturer has deceived buyers concerning the towing capabilities:  https://insidemazda.mazdausa.com/the-mazda-way/mazda-cx-50-offers-confident-towing-capabilities/  I bought the OEM tow hitch and wiring to achieve the advertised 3500 lb towing capacity, but according to th",
+      "pct": 11
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Shock absorber severe noise driving over road imperfections , lower front ball joint failure full pull through of the joint off of the control arm assembly pulling the cv axle apart and basically having the front wheel more or less completely separate from the body where the vehi",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mazda Cx-50 owners report most",
+    "summary": "Across 57 owner complaints to NHTSA, the most reported area is Service Brakes (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 10:16 am, I was driving home on Hall Rd. in Michigan.  Hall Road is currently under construction and only two lanes are open and the speed is 40mph.  It was raining pretty hard and also very windy. I was traveling West in the left lane and i noticed people in front of me began",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "14 reports (25%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Safety systems disables when Sunlight hits directly on the car. I own Toyota and honda, they Never had problems with sunlight.  sudden loss of safety systems, caused warnings on dash, which was a distraction, especially when Sun hits directly at the car/driver. I verified the cam",
+        "pct": 23,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (23%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 10:16 am, I was driving home on Hall Rd. in Michigan.  Hall Road is currently under construction and only two lanes are open and the speed is 40mph.  It was raining pretty hard and also very windy. I was traveling West in the left lane and i noticed people in front of me began",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "9 reports (16%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The manufacturer has deceived buyers concerning the towing capabilities:  https://insidemazda.mazdausa.com/the-mazda-way/mazda-cx-50-offers-confident-towing-capabilities/  I bought the OEM tow hitch and wiring to achieve the advertised 3500 lb towing capacity, but according to th",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "6 reports (11%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Shock absorber severe noise driving over road imperfections , lower front ball joint failure full pull through of the joint off of the control arm assembly pulling the cv axle apart and basically having the front wheel more or less completely separate from the body where the vehi",
+        "pct": 9,
+        "title": "Suspension",
+        "blurb": "5 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2020-bmw-m4",
+  "make": "BMW",
+  "model": "M4",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/M4#complaints",
+  "generatedAt": "2026-06-23T16:43:58.241Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW M4. The contact stated while driving approximately 40 MPH, there was a failure with the wheelbase and the front end was raising off the ground while turning. The contact stated there was no warning light illuminated. The contact performed a personal di",
+      "pct": 100
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW M4. The contact stated while driving approximately 40 MPH, there was a failure with the wheelbase and the front end was raising off the ground while turning. The contact stated there was no warning light illuminated. The contact performed a personal di",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw M4 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Suspension (100% of reports).",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW M4. The contact stated while driving approximately 40 MPH, there was a failure with the wheelbase and the front end was raising off the ground while turning. The contact stated there was no warning light illuminated. The contact performed a personal di",
+        "pct": 100,
+        "title": "Suspension",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW M4. The contact stated while driving approximately 40 MPH, there was a failure with the wheelbase and the front end was raising off the ground while turning. The contact stated there was no warning light illuminated. The contact performed a personal di",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

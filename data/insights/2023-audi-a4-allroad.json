@@ -1,0 +1,40 @@
+{
+  "slug": "2023-audi-a4-allroad",
+  "make": "Audi",
+  "model": "A4 allroad",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/AUDI/A4%20ALLROAD#complaints",
+  "generatedAt": "2026-06-23T16:42:58.636Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "EQUIPMENT",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car Play function of the MMI randomly (both wired and wireless) becomes unavailable in the system. When this happens, MMI does not connect to the previously connected phone, hands-free calls through MMI Bluetooth are not working as well. The local dealer (Audi of Lubbock) was not",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Audi A4 Allroad owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Equipment (100% of reports).",
+    "issues": [
+      {
+        "component": "EQUIPMENT",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car Play function of the MMI randomly (both wired and wireless) becomes unavailable in the system. When this happens, MMI does not connect to the previously connected phone, hands-free calls through MMI Bluetooth are not working as well. The local dealer (Audi of Lubbock) was not",
+        "pct": 100,
+        "title": "Equipment",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-buick-envista",
+  "make": "Buick",
+  "model": "Envista",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BUICK/ENVISTA#complaints",
+  "generatedAt": "2026-06-23T16:44:31.785Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought my car in January with 7 miles on it. Back in February I tried to get back into my car and my car would not unlock from the remote or from my Buick app. The car was not responding. I had to wait 20 mins and remove the battery 3 times from the remote for it to work.   The",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Engine began smoking on freeway while driving in rural gap between metro cities.  Then a sound like driving over a 2 liter bottle occurred.  After I pulled over,  there was smoke coming out the coolant reservoir. The coolant reservoir was empty! It's using 1/3 gallon prediluted d",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While sitting at a stoplight, my vehicle began chiming along with the following symbols illuminated on the dash: Brake System Warning Light, Antilock Brake System (ABS), Malfunction Indicator Lamp, Electronic Stability Control (ESC). I also received the following warning messages",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The instrument panel intermittently blacks out during vehicle startup or while driving. I haven't had my vehicle for 30 days and it's happened many many times, almost caused an accident due to the distraction it has caused. No warning signs prior to the screen blacking out. Servi",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving and while trying to put on brakes and stop I couldn't . I noticed that the Antilock Braking System light came on along with other lights. I almost hit a car because I could not stop. I was very frantic and scared. I could have hurt someone including myself. I am sti",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Buick Envista owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought my car in January with 7 miles on it. Back in February I tried to get back into my car and my car would not unlock from the remote or from my Buick app. The car was not responding. I had to wait 20 mins and remove the battery 3 times from the remote for it to work.   The",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "24 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Engine began smoking on freeway while driving in rural gap between metro cities.  Then a sound like driving over a 2 liter bottle occurred.  After I pulled over,  there was smoke coming out the coolant reservoir. The coolant reservoir was empty! It's using 1/3 gallon prediluted d",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "7 reports (15%) · 2 fire · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While sitting at a stoplight, my vehicle began chiming along with the following symbols illuminated on the dash: Brake System Warning Light, Antilock Brake System (ABS), Malfunction Indicator Lamp, Electronic Stability Control (ESC). I also received the following warning messages",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The instrument panel intermittently blacks out during vehicle startup or while driving. I haven't had my vehicle for 30 days and it's happened many many times, almost caused an accident due to the distraction it has caused. No warning signs prior to the screen blacking out. Servi",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving and while trying to put on brakes and stop I couldn't . I noticed that the Antilock Braking System light came on along with other lights. I almost hit a car because I could not stop. I was very frantic and scared. I could have hurt someone including myself. I am sti",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

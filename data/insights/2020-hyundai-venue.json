@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-venue",
+  "make": "Hyundai",
+  "model": "Venue",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/VENUE#complaints",
+  "generatedAt": "2026-06-23T16:34:30.535Z",
+  "total": 41,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Hyundai Venue. The contact received notification of NHTSA Campaign Number: 22V458000 (Seat Belts) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the rec",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Initially experienced a strange minor revving of RPMs up and down when I had sustained pressure on the gas pedal at highway speeds. The gas pedal slowly became less responsive and, after a short time, I lost all ability to accelerate the vehicle and needed to pull over on the sho",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The horn on my steering wheel has stopped working for the second time even after malfunctioning and broken part was replaced a few months ago.  I noticed now that I once again have no horn sound when pressing on the steering wheel.  The car is up for inspection in July and I have",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The lane departure system is great though it moves the wheel quite a bit. My issue is, when the vehicle is passing an intersection with active lane departure on, it pulls the vehicle toward medians and forces the driver to pull it back into the center of the lane.  Active forward",
+      "pct": 7
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving my car on the way back from a trip, about an hour away. While driving about 70 MPH on the highway, my car started to feel like it was lurching forward, and the RPMs started shooting up and down uncontrollably. I tried to write it off as faulty cruise control or the ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Hyundai Venue owners report most",
+    "summary": "Across 41 owner complaints to NHTSA, the most reported area is Seat Belts (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Hyundai Venue. The contact received notification of NHTSA Campaign Number: 22V458000 (Seat Belts) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the rec",
+        "pct": 20,
+        "title": "Seat Belts",
+        "blurb": "8 reports (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Initially experienced a strange minor revving of RPMs up and down when I had sustained pressure on the gas pedal at highway speeds. The gas pedal slowly became less responsive and, after a short time, I lost all ability to accelerate the vehicle and needed to pull over on the sho",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "7 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The horn on my steering wheel has stopped working for the second time even after malfunctioning and broken part was replaced a few months ago.  I noticed now that I once again have no horn sound when pressing on the steering wheel.  The car is up for inspection in July and I have",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "5 reports (12%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The lane departure system is great though it moves the wheel quite a bit. My issue is, when the vehicle is passing an intersection with active lane departure on, it pulls the vehicle toward medians and forces the driver to pull it back into the center of the lane.  Active forward",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (7%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving my car on the way back from a trip, about an hour away. While driving about 70 MPH on the highway, my car started to feel like it was lurching forward, and the RPMs started shooting up and down uncontrollably. I tried to write it off as faulty cruise control or the ",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "3 reports (7%)"
+      }
+    ]
+  }
+}

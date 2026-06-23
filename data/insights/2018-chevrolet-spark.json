@@ -1,0 +1,128 @@
+{
+  "slug": "2018-chevrolet-spark",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CHEVROLET/SPARK#complaints",
+  "generatedAt": "2026-06-23T16:28:43.046Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CHEVROLET SPARK CANNOT DECIDE WHAT GEAR IT WANTS TO BE IN, CAUSING DELAYS THAT ARE DANGEROUS WHEN PULLING OUT IN TRAFFIC OR TURNING ACROSS LINES OF TRAFFIC. FOR INSTANCE, I SLOW DOWN TO GET INTO THE CENTER TURNING LANE OF A 5-LANE STREET AND THEN WHEN CLEAR, I ACCELERATE TO MA",
+      "pct": 38
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS A PERIODIC OCCURANCE WHEN GOING STARTING AT 0MPH AT ANY POINT DURING A TRIP. NORMALLY THE ENGINE WILL REV SMOOTHLY BUT THERE ARE TIMES WHEN GOING FROM A COMPLETE STOP TO GETTING TO AT LEAST 30MPH IT FEELS AS IF THE ENGINE IS JUST TAKING IN AIR AND IT JUST REVS UP AND THE ",
+      "pct": 38
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FROM TIME TO TIME WHEN BRAKING, A THUMPING SOUND IS HEARD IN THE REAR DRUM BRAKES OF MY BRAND NEW CHEVY SPARK. I CANNOT DECIDE WHICH ONE THE NOISE IS COMING FROM, OR BOTH. IT WILL GO AWAY AFTER A WHILE. IT OCCURS MORE FREQUENTLY WHEN I NEED TO BRAKE HARD, BUT NOT ALWAYS. AND IT D",
+      "pct": 38
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN I TRY TO ACCELERATE FROM A STOP, THE CAR CAN'T DECIDE IF IT WANTS TO MOVE OR NOT AND IT WILL JUST SIT AND REV AND HAS ALMOST CAUSED SEVERAL ACCIDENTS AS I AM PULLING OUT INTO TRAFFIC",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS A PERIODIC OCCURANCE WHEN GOING STARTING AT 0MPH AT ANY POINT DURING A TRIP. NORMALLY THE ENGINE WILL REV SMOOTHLY BUT THERE ARE TIMES WHEN GOING FROM A COMPLETE STOP TO GETTING TO AT LEAST 30MPH IT FEELS AS IF THE ENGINE IS JUST TAKING IN AIR AND IT JUST REVS UP AND THE ",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Chevrolet Spark owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (38% of reports).",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CHEVROLET SPARK CANNOT DECIDE WHAT GEAR IT WANTS TO BE IN, CAUSING DELAYS THAT ARE DANGEROUS WHEN PULLING OUT IN TRAFFIC OR TURNING ACROSS LINES OF TRAFFIC. FOR INSTANCE, I SLOW DOWN TO GET INTO THE CENTER TURNING LANE OF A 5-LANE STREET AND THEN WHEN CLEAR, I ACCELERATE TO MA",
+        "pct": 38,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS A PERIODIC OCCURANCE WHEN GOING STARTING AT 0MPH AT ANY POINT DURING A TRIP. NORMALLY THE ENGINE WILL REV SMOOTHLY BUT THERE ARE TIMES WHEN GOING FROM A COMPLETE STOP TO GETTING TO AT LEAST 30MPH IT FEELS AS IF THE ENGINE IS JUST TAKING IN AIR AND IT JUST REVS UP AND THE ",
+        "pct": 38,
+        "title": "Engine",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FROM TIME TO TIME WHEN BRAKING, A THUMPING SOUND IS HEARD IN THE REAR DRUM BRAKES OF MY BRAND NEW CHEVY SPARK. I CANNOT DECIDE WHICH ONE THE NOISE IS COMING FROM, OR BOTH. IT WILL GO AWAY AFTER A WHILE. IT OCCURS MORE FREQUENTLY WHEN I NEED TO BRAKE HARD, BUT NOT ALWAYS. AND IT D",
+        "pct": 38,
+        "title": "Service Brakes",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN I TRY TO ACCELERATE FROM A STOP, THE CAR CAN'T DECIDE IF IT WANTS TO MOVE OR NOT AND IT WILL JUST SIT AND REV AND HAS ALMOST CAUSED SEVERAL ACCIDENTS AS I AM PULLING OUT INTO TRAFFIC",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS A PERIODIC OCCURANCE WHEN GOING STARTING AT 0MPH AT ANY POINT DURING A TRIP. NORMALLY THE ENGINE WILL REV SMOOTHLY BUT THERE ARE TIMES WHEN GOING FROM A COMPLETE STOP TO GETTING TO AT LEAST 30MPH IT FEELS AS IF THE ENGINE IS JUST TAKING IN AIR AND IT JUST REVS UP AND THE ",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (25%)"
+      }
+    ]
+  }
+}

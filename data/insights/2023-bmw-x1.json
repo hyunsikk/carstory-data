@@ -1,0 +1,128 @@
+{
+  "slug": "2023-bmw-x1",
+  "make": "BMW",
+  "model": "X1",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/BMW/X1#complaints",
+  "generatedAt": "2026-06-23T16:26:56.653Z",
+  "total": 70,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 53,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control, Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable",
+      "pct": 76
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control, Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable",
+      "pct": 44
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 BMW X1. The contact stated while driving at an undisclosed speed and coming to a stop at a red light, the brake pedal was depressed; however, the vehicle failed to slow down. The contact stated that several unknown warning lights were illuminated. The cont",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This report is for a 2023 BMW x1 with a dual clutch transmission.  I was driving on a four lane road with a 35 mph speed limit and attempting to make a  left turn.  I was stopped at the light waiting the oncoming traffic to clear to make the left turn (from the left most of the t",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The recall number for the incident is 24V-104. The car was recalled in February and the recall repair was completed May 2, 2024. The car is currently at BMW and is available for inspection.BMW has confirmed that the parts they replaced in May malfunctioned. They claim that some o",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Bmw X1 owners report most",
+    "summary": "Across 70 owner complaints to NHTSA, the most reported area is Service Brakes (76% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 53,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control, Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable",
+        "pct": 76,
+        "title": "Service Brakes",
+        "blurb": "53 reports (76%) · 1 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X1. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control, Service Brakes) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable",
+        "pct": 44,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "31 reports (44%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 BMW X1. The contact stated while driving at an undisclosed speed and coming to a stop at a red light, the brake pedal was depressed; however, the vehicle failed to slow down. The contact stated that several unknown warning lights were illuminated. The cont",
+        "pct": 31,
+        "title": "Hydraulic",
+        "blurb": "22 reports (31%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This report is for a 2023 BMW x1 with a dual clutch transmission.  I was driving on a four lane road with a 35 mph speed limit and attempting to make a  left turn.  I was stopped at the light waiting the oncoming traffic to clear to make the left turn (from the left most of the t",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "6 reports (9%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The recall number for the incident is 24V-104. The car was recalled in February and the recall repair was completed May 2, 2024. The car is currently at BMW and is available for inspection.BMW has confirmed that the parts they replaced in May malfunctioned. They claim that some o",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (7%) · 1 crash"
+      }
+    ]
+  }
+}

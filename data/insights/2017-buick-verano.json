@@ -1,0 +1,128 @@
+{
+  "slug": "2017-buick-verano",
+  "make": "Buick",
+  "model": "Verano",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BUICK/VERANO#complaints",
+  "generatedAt": "2026-06-23T16:27:32.329Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle seems to loose power, radio & power sterring turn off and back on constantly. Shows message \" Service Stability Track\". I took it back to the lot where I purchased it, they had 2 different mechanics look at it and they could not figure out what is wrong with it. Picked up",
+      "pct": 44
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving 40 mph all dash electronics went off as going to turn into parking lot medium traffic steering very very hard to turn, made into lot pulled immediately into first open space engine stalled. Put into park attempted to restart, click-click-click like dead battery opened hoo",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS PULLING INTO A PARKING PLACE IN A RESTAURANT PARKING LOT AFTER TURNING OFF A CITY STREET.  ALL OF A SUDDEN THE CAR WAS LUNGING FORWARD INSTEAD OF STOPPING.  IT HIT A STEEL FENCE CABLE WHICH PUSHED IT ONTO A METAL FENCE POST AND STOPPED.  THE 4 SIDE AIRBAGS OPENED UP AND THE",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving 40 mph all dash electronics went off as going to turn into parking lot medium traffic steering very very hard to turn, made into lot pulled immediately into first open space engine stalled. Put into park attempted to restart, click-click-click like dead battery opened hoo",
+      "pct": 22
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS PULLING INTO A PARKING PLACE IN A RESTAURANT PARKING LOT AFTER TURNING OFF A CITY STREET.  ALL OF A SUDDEN THE CAR WAS LUNGING FORWARD INSTEAD OF STOPPING.  IT HIT A STEEL FENCE CABLE WHICH PUSHED IT ONTO A METAL FENCE POST AND STOPPED.  THE 4 SIDE AIRBAGS OPENED UP AND THE",
+      "pct": 22
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Buick Verano owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle seems to loose power, radio & power sterring turn off and back on constantly. Shows message \" Service Stability Track\". I took it back to the lot where I purchased it, they had 2 different mechanics look at it and they could not figure out what is wrong with it. Picked up",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "4 reports (44%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving 40 mph all dash electronics went off as going to turn into parking lot medium traffic steering very very hard to turn, made into lot pulled immediately into first open space engine stalled. Put into park attempted to restart, click-click-click like dead battery opened hoo",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "3 reports (33%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS PULLING INTO A PARKING PLACE IN A RESTAURANT PARKING LOT AFTER TURNING OFF A CITY STREET.  ALL OF A SUDDEN THE CAR WAS LUNGING FORWARD INSTEAD OF STOPPING.  IT HIT A STEEL FENCE CABLE WHICH PUSHED IT ONTO A METAL FENCE POST AND STOPPED.  THE 4 SIDE AIRBAGS OPENED UP AND THE",
+        "pct": 22,
+        "title": "Structure",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving 40 mph all dash electronics went off as going to turn into parking lot medium traffic steering very very hard to turn, made into lot pulled immediately into first open space engine stalled. Put into park attempted to restart, click-click-click like dead battery opened hoo",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS PULLING INTO A PARKING PLACE IN A RESTAURANT PARKING LOT AFTER TURNING OFF A CITY STREET.  ALL OF A SUDDEN THE CAR WAS LUNGING FORWARD INSTEAD OF STOPPING.  IT HIT A STEEL FENCE CABLE WHICH PUSHED IT ONTO A METAL FENCE POST AND STOPPED.  THE 4 SIDE AIRBAGS OPENED UP AND THE",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "2 reports (22%)"
+      }
+    ]
+  }
+}

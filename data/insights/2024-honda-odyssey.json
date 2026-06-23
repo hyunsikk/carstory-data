@@ -1,0 +1,128 @@
+{
+  "slug": "2024-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-06-23T16:32:35.351Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On occasion, engine fails to restart on its own from a complete stop at a traffic light or road intersection when the Auto Idle Stop function is engaged.  Engine and electronics in vehicle completely shut off, requiring the driver to put the vehicle in park and turn the car on ag",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Honda Odyssey. The contact stated that upon coming to a complete stop, the vehicle began to hesitate and idle abnormally rough. Upon resuming driving, the vehicle returned to normal functionality, but the failure became a regular occurrence. No warning lig",
+      "pct": 31
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "This vehicle has a feature that displays the posted speed limit on the dash display. The dealership, McGrath Honda in St. Charles, IL has told me this information is gathered by the camera system. Periodically the vehicle will pick up the Highway number sign and use that to displ",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The start stop system has failed to restart at a busy traffic light more than half a dozen different times after a 1 hour drive.  Short drives do not bring this issue out.  This got me stuck at a light, drivers annoyed honking and confused as I try to get my vehicle to start agai",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Vehicle start up diagnostics show multiple failures, including ABS, e-steering, emergency braking, adaptive speed control. Dealership found a problem with the right rear ABS sensor. The sensor wire harness was severed. The harness showed damage in multiple places (see photos). Be",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Honda Odyssey owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On occasion, engine fails to restart on its own from a complete stop at a traffic light or road intersection when the Auto Idle Stop function is engaged.  Engine and electronics in vehicle completely shut off, requiring the driver to put the vehicle in park and turn the car on ag",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "27 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Honda Odyssey. The contact stated that upon coming to a complete stop, the vehicle began to hesitate and idle abnormally rough. Upon resuming driving, the vehicle returned to normal functionality, but the failure became a regular occurrence. No warning lig",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "21 reports (31%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "This vehicle has a feature that displays the posted speed limit on the dash display. The dealership, McGrath Honda in St. Charles, IL has told me this information is gathered by the camera system. Periodically the vehicle will pick up the Highway number sign and use that to displ",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (15%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The start stop system has failed to restart at a busy traffic light more than half a dozen different times after a 1 hour drive.  Short drives do not bring this issue out.  This got me stuck at a light, drivers annoyed honking and confused as I try to get my vehicle to start agai",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "8 reports (12%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Vehicle start up diagnostics show multiple failures, including ABS, e-steering, emergency braking, adaptive speed control. Dealership found a problem with the right rear ABS sensor. The sensor wire harness was severed. The harness showed damage in multiple places (see photos). Be",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "5 reports (7%) · 1 injured"
+      }
+    ]
+  }
+}

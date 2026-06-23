@@ -1,0 +1,128 @@
+{
+  "slug": "2016-honda-hr-v",
+  "make": "Honda",
+  "model": "HR-V",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/HONDA/HR-V#complaints",
+  "generatedAt": "2026-06-23T16:32:22.821Z",
+  "total": 237,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 73,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AUTOMOBILE STALLED WITHOUT WARNING AT LOW SPEEDS, THIS LEAD TO NEAR COLLISION AT INTERSECTION AS THE CAR BECAME DISABLED IN THE MIDDLE OF THE ROAD, CAR REQUIRED MULTIPLE RESTARTS TO SAFELY GET IT INTO A AUTOMOBILE SERVICE STATION; HONDA ROAD SIDE ASSISTANCE DISPATCHED A TOW TRUCK",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 56,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "T.P.M.S. - LIGHT COMES ON REGULARLY, WITHOUT TIRES BEING AT INCORRECT PRESSURES. RANDOM OCCURRENCES SOMETIMES TIRES ARE LOW, SOMETIMES THEY ARE PERFECTLY SET. THIS IS A \"SAFETY ISSUE\" AND CONCERNS ME, AS THIS COULD CAUSE A WRECK. THE TIRE PRESSUE MONITORING SYSTEM IS FAULTY, HOND",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 HONDA HR-V. THE CONTACT STATED THAT THERE WAS AN ABNORMAL NOISE COMING FROM THE VEHICLE. THE CONTACT DISCOVERED THAT THERE WAS A DEEP LINE ON THE ROTORS. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FAILURE WAS UNABLE TO BE DETERMINED. THE MANUFACTURE",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY HONDA HR-V 2016 VEHICLE AT 70 MPH ON US-175 IN KAUFMAN, TEXAS, THE VEHICLE SUDDENLY SPAN OUT OF CONTROL AND TURNED COUNTERCLOCKWISE 360 DEGREES FOR TWO FULL ROTATIONS UNTIL BEING STOPPED BY SLAMMING INTO THE GUARDRAIL. THE VEHICLE WAS EQUIPPED BY HONDA WITH MICHE",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AUTOMOBILE STALLED WITHOUT WARNING AT LOW SPEEDS, THIS LEAD TO NEAR COLLISION AT INTERSECTION AS THE CAR BECAME DISABLED IN THE MIDDLE OF THE ROAD, CAR REQUIRED MULTIPLE RESTARTS TO SAFELY GET IT INTO A AUTOMOBILE SERVICE STATION; HONDA ROAD SIDE ASSISTANCE DISPATCHED A TOW TRUCK",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Honda Hr-V owners report most",
+    "summary": "Across 237 owner complaints to NHTSA, the most reported area is Power Train (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 73,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AUTOMOBILE STALLED WITHOUT WARNING AT LOW SPEEDS, THIS LEAD TO NEAR COLLISION AT INTERSECTION AS THE CAR BECAME DISABLED IN THE MIDDLE OF THE ROAD, CAR REQUIRED MULTIPLE RESTARTS TO SAFELY GET IT INTO A AUTOMOBILE SERVICE STATION; HONDA ROAD SIDE ASSISTANCE DISPATCHED A TOW TRUCK",
+        "pct": 31,
+        "title": "Power Train",
+        "blurb": "73 reports (31%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 56,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "T.P.M.S. - LIGHT COMES ON REGULARLY, WITHOUT TIRES BEING AT INCORRECT PRESSURES. RANDOM OCCURRENCES SOMETIMES TIRES ARE LOW, SOMETIMES THEY ARE PERFECTLY SET. THIS IS A \"SAFETY ISSUE\" AND CONCERNS ME, AS THIS COULD CAUSE A WRECK. THE TIRE PRESSUE MONITORING SYSTEM IS FAULTY, HOND",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "56 reports (24%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 HONDA HR-V. THE CONTACT STATED THAT THERE WAS AN ABNORMAL NOISE COMING FROM THE VEHICLE. THE CONTACT DISCOVERED THAT THERE WAS A DEEP LINE ON THE ROTORS. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FAILURE WAS UNABLE TO BE DETERMINED. THE MANUFACTURE",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "25 reports (11%) · 6 crash · 4 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY HONDA HR-V 2016 VEHICLE AT 70 MPH ON US-175 IN KAUFMAN, TEXAS, THE VEHICLE SUDDENLY SPAN OUT OF CONTROL AND TURNED COUNTERCLOCKWISE 360 DEGREES FOR TWO FULL ROTATIONS UNTIL BEING STOPPED BY SLAMMING INTO THE GUARDRAIL. THE VEHICLE WAS EQUIPPED BY HONDA WITH MICHE",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "22 reports (9%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AUTOMOBILE STALLED WITHOUT WARNING AT LOW SPEEDS, THIS LEAD TO NEAR COLLISION AT INTERSECTION AS THE CAR BECAME DISABLED IN THE MIDDLE OF THE ROAD, CAR REQUIRED MULTIPLE RESTARTS TO SAFELY GET IT INTO A AUTOMOBILE SERVICE STATION; HONDA ROAD SIDE ASSISTANCE DISPATCHED A TOW TRUCK",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "22 reports (9%) · 1 fire"
+      }
+    ]
+  }
+}

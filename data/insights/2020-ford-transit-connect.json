@@ -1,0 +1,128 @@
+{
+  "slug": "2020-ford-transit-connect",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/FORD/TRANSIT%20CONNECT#complaints",
+  "generatedAt": "2026-06-23T16:45:07.583Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission failed with only 17,000 miles (mostly highway) on the car. The car did not move forward from a parked location. It only moved in reverse. It had to be towed to the nearest dealership and when they examined it, it did not move in reverse either. Even though it is unde",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Ford Transit Connect. The contact stated that while driving at 65 MPH, the brakes locked up. After releasing the brake pedal, the vehicle began to shake abnormally. While driving, the power steering became inoperable. The Hill Assist, traction control, and",
+      "pct": 17
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Ford Transit Connect. The contact stated that the windshield was leaking. The vehicle was taken to the local dealer to be repaired under NHTSA Campaign Number: 22V192000 (Visibility) but the vehicle was not repaired. The dealer was unable to locate a mecha",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON TWO DIFFERENT OCCASIONS THE DASH INDICATOR STATED AS FOLLOWS: \"PRE-COLLISION ASSIST NOT AVAILABLE\".  WHEN THIS ERROR MESSAGE APPEARS, THE CAR DOES NOT ACCELERATE PROPERLY.  THE TRANSMISSION SEEMS TO FLUCTUATE BETWEEN GEARS, AND THE CAR WILL NOT ACCELERATE, AND THE VEHICLE SEEM",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While traveling at highway speed the vehicle suddenly and without any warning lost propulsion and died forcing the driver to pull over. As a result of how sudden the failure was the driver was just barely able to find a safe place to pull off the road. The vehicle would not start",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Ford Transit Connect owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission failed with only 17,000 miles (mostly highway) on the car. The car did not move forward from a parked location. It only moved in reverse. It had to be towed to the nearest dealership and when they examined it, it did not move in reverse either. Even though it is unde",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "10 reports (33%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Ford Transit Connect. The contact stated that while driving at 65 MPH, the brakes locked up. After releasing the brake pedal, the vehicle began to shake abnormally. While driving, the power steering became inoperable. The Hill Assist, traction control, and",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Ford Transit Connect. The contact stated that the windshield was leaking. The vehicle was taken to the local dealer to be repaired under NHTSA Campaign Number: 22V192000 (Visibility) but the vehicle was not repaired. The dealer was unable to locate a mecha",
+        "pct": 13,
+        "title": "Visibility",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON TWO DIFFERENT OCCASIONS THE DASH INDICATOR STATED AS FOLLOWS: \"PRE-COLLISION ASSIST NOT AVAILABLE\".  WHEN THIS ERROR MESSAGE APPEARS, THE CAR DOES NOT ACCELERATE PROPERLY.  THE TRANSMISSION SEEMS TO FLUCTUATE BETWEEN GEARS, AND THE CAR WILL NOT ACCELERATE, AND THE VEHICLE SEEM",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While traveling at highway speed the vehicle suddenly and without any warning lost propulsion and died forcing the driver to pull over. As a result of how sudden the failure was the driver was just barely able to find a safe place to pull off the road. The vehicle would not start",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

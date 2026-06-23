@@ -1,0 +1,128 @@
+{
+  "slug": "2024-kia-niro",
+  "make": "Kia",
+  "model": "Niro",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/KIA/NIRO#complaints",
+  "generatedAt": "2026-06-23T16:36:31.387Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "What happened?  While driving my 2025 KIA Niro on [XXX] , I stopped at a red light behind another vehicle. Suddenly, my car was rear-ended by another vehicle, causing a significant impact that pushed my car forward into the vehicle in front. The seat belts deployed but I sustaine",
+      "pct": 38
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Forward collision system fully activated while driving eastbound in the fast lane on [XXX] .  The sun was behind me. No glare. No cars or objects were in front of me or next to me.  The dashboard started flashing and warning sounds activated and the car slammed on the brakes itse",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Hyundai Niro Hybrid. The contact stated that while at a stop light the warning message \"transmission overheating\" had displayed and the vehicle did not drive forward. The contact attempted to push the vehicle offer the road when suddenly the vehicle accele",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The interior surface of the windshield freezes during cold weather operation, beginning at the edges of the windshield and progressing toward the center directly into the driver’s line of sight. This significantly impairs visibility and requires approximately 20–30 minutes of veh",
+      "pct": 13
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Kia Niro. The contact stated that while driving at approximately 65-70 MPH on the highway, the radio panel went blank. The vehicle was blowing cold air on the driver's side while the passenger’s side was blowing hot air. The contact stated that there was s",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Kia Niro owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Electrical System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "What happened?  While driving my 2025 KIA Niro on [XXX] , I stopped at a red light behind another vehicle. Suddenly, my car was rear-ended by another vehicle, causing a significant impact that pushed my car forward into the vehicle in front. The seat belts deployed but I sustaine",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "3 reports (38%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Forward collision system fully activated while driving eastbound in the fast lane on [XXX] .  The sun was behind me. No glare. No cars or objects were in front of me or next to me.  The dashboard started flashing and warning sounds activated and the car slammed on the brakes itse",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (25%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Hyundai Niro Hybrid. The contact stated that while at a stop light the warning message \"transmission overheating\" had displayed and the vehicle did not drive forward. The contact attempted to push the vehicle offer the road when suddenly the vehicle accele",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "1 report (13%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The interior surface of the windshield freezes during cold weather operation, beginning at the edges of the windshield and progressing toward the center directly into the driver’s line of sight. This significantly impairs visibility and requires approximately 20–30 minutes of veh",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Kia Niro. The contact stated that while driving at approximately 65-70 MPH on the highway, the radio panel went blank. The vehicle was blowing cold air on the driver's side while the passenger’s side was blowing hot air. The contact stated that there was s",
+        "pct": 13,
+        "title": "Tires",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

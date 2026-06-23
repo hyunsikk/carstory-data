@@ -1,0 +1,106 @@
+{
+  "slug": "2019-mazda-mazda6",
+  "make": "Mazda",
+  "model": "Mazda6",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/MAZDA/MAZDA6#complaints",
+  "generatedAt": "2026-06-23T16:38:08.765Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Dear NHTSA,  I am writing to submit a safety complaint regarding my 2019 Mazda 6 GTR. Below are the details of the issue:  Vehicle Information:  Make: Mazda Model: 6 GTR Year: 2019 VIN: [XXX]  Problem Description: My vehicle began to overheat while driving.  The vehicle has appro",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The forward smart city brake malfunction front radar sense malfunction caused my car to slow down on the express with the check engine light blinking.",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER PURCHASING A 2019 MAZDA6 IN JULY 2019, THERE HAVE BEEN MULTIPLE OCCASIONS IN WHICH I START THE CAR AND THE DISPLAY SCREEN FREEZES OR IS BLACK, NOT DISPLAYING ANYTHING.  AT THE SAME TIME, THE CONTROL BUTTONS ON THE STEERING WHEEL DO NOT WORK.  I'VE ALSO EXPERIENCED A LONG DE",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING TO WORK THIS MORNING AND STEERING WHEEL WAS TURN TO RIGHT TO KEEP STRAIGHT AND FELT LIKE SOMETHING WAS LOOSE. I DROVE HOME AND HIT THE BRAKES AND CAR VEERED TO THE RIGHT HARD. THE CAR DID NOT FEEL RIGHT WHEN I GOT HOME I FOUND PASSENGER FRONT TIRE WAS NOT STRAIGHT A",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Mazda Mazda6 owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (17% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Dear NHTSA,  I am writing to submit a safety complaint regarding my 2019 Mazda 6 GTR. Below are the details of the issue:  Vehicle Information:  Make: Mazda Model: 6 GTR Year: 2019 VIN: [XXX]  Problem Description: My vehicle began to overheat while driving.  The vehicle has appro",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The forward smart city brake malfunction front radar sense malfunction caused my car to slow down on the express with the check engine light blinking.",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER PURCHASING A 2019 MAZDA6 IN JULY 2019, THERE HAVE BEEN MULTIPLE OCCASIONS IN WHICH I START THE CAR AND THE DISPLAY SCREEN FREEZES OR IS BLACK, NOT DISPLAYING ANYTHING.  AT THE SAME TIME, THE CONTROL BUTTONS ON THE STEERING WHEEL DO NOT WORK.  I'VE ALSO EXPERIENCED A LONG DE",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING TO WORK THIS MORNING AND STEERING WHEEL WAS TURN TO RIGHT TO KEEP STRAIGHT AND FELT LIKE SOMETHING WAS LOOSE. I DROVE HOME AND HIT THE BRAKES AND CAR VEERED TO THE RIGHT HARD. THE CAR DID NOT FEEL RIGHT WHEN I GOT HOME I FOUND PASSENGER FRONT TIRE WAS NOT STRAIGHT A",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

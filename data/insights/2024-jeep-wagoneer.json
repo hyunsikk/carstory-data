@@ -1,0 +1,128 @@
+{
+  "slug": "2024-jeep-wagoneer",
+  "make": "Jeep",
+  "model": "Wagoneer",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/JEEP/WAGONEER#complaints",
+  "generatedAt": "2026-06-23T16:45:17.307Z",
+  "total": 38,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle is 4 months old and has 2300 miles on it.   Randomly and suddenly the vehicle will lose power while in traffic. No steering or engine power. It will abruptly coast to a stop, put itself into park, and stall. Several lights will come on. All the lights but the check engine",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Vehicle is 4 months old and has 2300 miles on it.   Randomly and suddenly the vehicle will lose power while in traffic. No steering or engine power. It will abruptly coast to a stop, put itself into park, and stall. Several lights will come on. All the lights but the check engine",
+      "pct": 47
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle is one week old from dealership with 382 miles on odometer at time of incident. Driving under normal conditions. Paved city street in dry weather. Vehicle lost engine power and showed the error message on gauge cluster “shift into p”. Accelerator would not work till stopp",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "At stoplight getting ready to turn left light turns green I proceed going about 15 20 mph in the middle of the intersection middle of the turn the car just slammed on its brakes. I thought I got in a car accident but looked around and there was no other cars around. This was very",
+      "pct": 16
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is the 3rd time the Jeep Wagooner has \"bricked up.\" The vehicle will shut off without notice and lose all power, the emergency brake comes on and stops vehicle abruptly. This poses safety risk to driver passengers and surrounding vehicles. The car will not be able to be rest",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Jeep Wagoneer owners report most",
+    "summary": "Across 38 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle is 4 months old and has 2300 miles on it.   Randomly and suddenly the vehicle will lose power while in traffic. No steering or engine power. It will abruptly coast to a stop, put itself into park, and stall. Several lights will come on. All the lights but the check engine",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "19 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Vehicle is 4 months old and has 2300 miles on it.   Randomly and suddenly the vehicle will lose power while in traffic. No steering or engine power. It will abruptly coast to a stop, put itself into park, and stall. Several lights will come on. All the lights but the check engine",
+        "pct": 47,
+        "title": "Electrical System",
+        "blurb": "18 reports (47%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle is one week old from dealership with 382 miles on odometer at time of incident. Driving under normal conditions. Paved city street in dry weather. Vehicle lost engine power and showed the error message on gauge cluster “shift into p”. Accelerator would not work till stopp",
+        "pct": 24,
+        "title": "Power Train",
+        "blurb": "9 reports (24%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "At stoplight getting ready to turn left light turns green I proceed going about 15 20 mph in the middle of the intersection middle of the turn the car just slammed on its brakes. I thought I got in a car accident but looked around and there was no other cars around. This was very",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "6 reports (16%) · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is the 3rd time the Jeep Wagooner has \"bricked up.\" The vehicle will shut off without notice and lose all power, the emergency brake comes on and stops vehicle abruptly. This poses safety risk to driver passengers and surrounding vehicles. The car will not be able to be rest",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "4 reports (11%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-ford-flex",
+  "make": "Ford",
+  "model": "Flex",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/FORD/FLEX#complaints",
+  "generatedAt": "2026-06-23T16:45:04.864Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE VEHICLES FRONT LEFT AND RIGHT TIRES ARE RETRACTED INTO THE WHEEL WELL, FOR EXAMPLE WHEN GOING OVER A SPEED BUMP OR CURB TOO FAST, THERE IS A SHARP PIECE OF METAL THAT STICKS OUT OF THE BODY WHERE THE PLASTIC COWLING AND THE FENDER MEET.  I'VE HAD TO REPLACE TWO TIRES SO ",
+      "pct": 28
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup camera goes from working to blue screen when backing up.  I've reset the settings but continue to have the same issue. Very dangerous. It's the same issue/problem that you just fined Ford $165 million dollars. The models covered by the Ford recall included the 2020 Ford Ed",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE AIR CONDITIONER WILL TURN OFF BY ITSELF OR BLOW HOT AIR OUT OF NO WHERE. SOMETIMES IT WILL BLOW HOT AIR IN THE FRONT AND COLD IN THE REAR AND VICE VERSA. THE RADIO INTERMITTENTLY SHUTS OFF AS WELL. THERE ARE TIMES WHERE MY KEY FAB WILL NOT LOCK OR UNLOCK MY CAR. THE A/C PROBL",
+      "pct": 18
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 7-28-21, the Right Rear Toe Link Broke while I was driving, the wheel was sticking out and could not be driven. I have the old broken part and loose part.  On 7-30-21, I had the broken part on right rear replaced  and the Left rear part was loose and replaced also.  As far as ",
+      "pct": 15
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recall has not been remedied, and it has been over six months.I was told it would be remedied by june or ford would be held accountable for compensating for repairs on the.Recall. #25SA9/25v695 The recall addresses the camera for backing up witch is still not functioning in a saf",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ford Flex owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Structure (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE VEHICLES FRONT LEFT AND RIGHT TIRES ARE RETRACTED INTO THE WHEEL WELL, FOR EXAMPLE WHEN GOING OVER A SPEED BUMP OR CURB TOO FAST, THERE IS A SHARP PIECE OF METAL THAT STICKS OUT OF THE BODY WHERE THE PLASTIC COWLING AND THE FENDER MEET.  I'VE HAD TO REPLACE TWO TIRES SO ",
+        "pct": 28,
+        "title": "Structure",
+        "blurb": "17 reports (28%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup camera goes from working to blue screen when backing up.  I've reset the settings but continue to have the same issue. Very dangerous. It's the same issue/problem that you just fined Ford $165 million dollars. The models covered by the Ford recall included the 2020 Ford Ed",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "12 reports (20%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE AIR CONDITIONER WILL TURN OFF BY ITSELF OR BLOW HOT AIR OUT OF NO WHERE. SOMETIMES IT WILL BLOW HOT AIR IN THE FRONT AND COLD IN THE REAR AND VICE VERSA. THE RADIO INTERMITTENTLY SHUTS OFF AS WELL. THERE ARE TIMES WHERE MY KEY FAB WILL NOT LOCK OR UNLOCK MY CAR. THE A/C PROBL",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "11 reports (18%) · 4 crash"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 7-28-21, the Right Rear Toe Link Broke while I was driving, the wheel was sticking out and could not be driven. I have the old broken part and loose part.  On 7-30-21, I had the broken part on right rear replaced  and the Left rear part was loose and replaced also.  As far as ",
+        "pct": 15,
+        "title": "Suspension",
+        "blurb": "9 reports (15%) · 1 crash"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recall has not been remedied, and it has been over six months.I was told it would be remedied by june or ford would be held accountable for compensating for repairs on the.Recall. #25SA9/25v695 The recall addresses the camera for backing up witch is still not functioning in a saf",
+        "pct": 3,
+        "title": "Lane Departure",
+        "blurb": "2 reports (3%)"
+      }
+    ]
+  }
+}

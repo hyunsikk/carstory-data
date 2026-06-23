@@ -1,0 +1,40 @@
+{
+  "slug": "2020-mercedes-benz-g-class",
+  "make": "Mercedes-Benz",
+  "model": "G-Class",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MERCEDES-BENZ/G-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:28.726Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On this vehicle the oil pump-oil control valve has malfunctioned.  The vehicle has 54000 miles on it and the repair costs $8500.  The part is only $300 but the transmission must  be removed to repair the vehicle.   The safety of people is not compromised by the part. The malfunct",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mercedes-Benz G-Class owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On this vehicle the oil pump-oil control valve has malfunctioned.  The vehicle has 54000 miles on it and the repair costs $8500.  The part is only $300 but the transmission must  be removed to repair the vehicle.   The safety of people is not compromised by the part. The malfunct",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

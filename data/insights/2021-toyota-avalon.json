@@ -1,0 +1,128 @@
+{
+  "slug": "2021-toyota-avalon",
+  "make": "Toyota",
+  "model": "Avalon",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/AVALON#complaints",
+  "generatedAt": "2026-06-23T16:41:13.671Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Avalon. The contact received notification of NHTSA Campaign Number: 23V865000 (Air Bags); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the reca",
+      "pct": 57
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Avalon HV. The contact stated that while driving, all the instrument control panel lights were illuminated. The vehicle was taken to the local dealer eight or nine times  where it was diagnosed there  was moisture in the brakes, the brake assembly, ",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Avalon. The contact stated that while driving at approximately 35 MPH, the vehicle failed to properly accelerate and stalled. The contact restarted the vehicle, and the vehicle drove as designed. There were no warning lights illuminated. The vehicle",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Cruise control stopped working while driving interstate speed.  Would not work and all lights on dashboard came on . Proceeded to Nearest dealership and was informed that I needed a brake switch.  Did not fix the problem.  Have been informed that I need a wiring harness! About  t",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Avalon. The contact stated while diving approximately 50 MPH, the engine and transmission warning lights illuminated. The contact also stated that the windshield had detached from the frame. The contact stated that the rear doors were failing to clo",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Toyota Avalon owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Air Bags (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Avalon. The contact received notification of NHTSA Campaign Number: 23V865000 (Air Bags); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the reca",
+        "pct": 57,
+        "title": "Air Bags",
+        "blurb": "12 reports (57%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Avalon HV. The contact stated that while driving, all the instrument control panel lights were illuminated. The vehicle was taken to the local dealer eight or nine times  where it was diagnosed there  was moisture in the brakes, the brake assembly, ",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "4 reports (19%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Avalon. The contact stated that while driving at approximately 35 MPH, the vehicle failed to properly accelerate and stalled. The contact restarted the vehicle, and the vehicle drove as designed. There were no warning lights illuminated. The vehicle",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Cruise control stopped working while driving interstate speed.  Would not work and all lights on dashboard came on . Proceeded to Nearest dealership and was informed that I needed a brake switch.  Did not fix the problem.  Have been informed that I need a wiring harness! About  t",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Avalon. The contact stated while diving approximately 50 MPH, the engine and transmission warning lights illuminated. The contact also stated that the windshield had detached from the frame. The contact stated that the rear doors were failing to clo",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

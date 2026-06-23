@@ -1,0 +1,62 @@
+{
+  "slug": "2023-jaguar-i-pace",
+  "make": "Jaguar",
+  "model": "I-PACE",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JAGUAR/I-PACE#complaints",
+  "generatedAt": "2026-06-23T16:45:13.172Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "No heat or defroster or fan on automatic when you override fan only cold air no way to heat car or reduce snow and ice on car",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact stated that while driving at an undisclosed speed, a failure was noticed with a 2023 Jaguar I-Pace operated under the Waymo ride-share program. The vehicle would intermittently stop in the middle of traffic while completing rideshare trips. The contact expressed a con",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jaguar I-Pace owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Visibility/Wiper (50% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "No heat or defroster or fan on automatic when you override fan only cold air no way to heat car or reduce snow and ice on car",
+        "pct": 50,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact stated that while driving at an undisclosed speed, a failure was noticed with a 2023 Jaguar I-Pace operated under the Waymo ride-share program. The vehicle would intermittently stop in the middle of traffic while completing rideshare trips. The contact expressed a con",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

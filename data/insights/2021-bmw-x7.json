@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-x7",
+  "make": "BMW",
+  "model": "X7",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/X7#complaints",
+  "generatedAt": "2026-06-23T16:27:08.106Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transfer case became damaged causing shuddering and loss of power while turning and accelerating. Once failed all power lost to rear wheels. My vehicle is available for inspection upon request and the problem has been confirmed by BMW dealership and replacement is required. A",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving a car with family and all of a sudden we all started smelling a burning smell but we thought it must be from outside. However, in just few seconds the vents started throwing vapors so I stopped the car hoping it may stop if some minor damage. However, the hood start",
+      "pct": 26
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While merging onto the highway the car violently jerked itself into the left lane without warning, nearly causing me to collide with another car. Error messages about \"driver assistance\" appeared. All  screens then went black and the car rebooted. It pulled away from the directio",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving a car with family and all of a sudden we all started smelling a burning smell but we thought it must be from outside. However, in just few seconds the vents started throwing vapors so I stopped the car hoping it may stop if some minor damage. However, the hood start",
+      "pct": 11
+    },
+    {
+      "component": "SEATS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 BMW X7. The contact stated while driving at an undisclosed speed, the warning light illuminated \"third row rear seats not fully locked\". The contact stated that while transporting his children, the sensor did not recognize individuals seated on the seat. T",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw X7 owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Power Train (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transfer case became damaged causing shuddering and loss of power while turning and accelerating. Once failed all power lost to rear wheels. My vehicle is available for inspection upon request and the problem has been confirmed by BMW dealership and replacement is required. A",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "9 reports (26%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving a car with family and all of a sudden we all started smelling a burning smell but we thought it must be from outside. However, in just few seconds the vents started throwing vapors so I stopped the car hoping it may stop if some minor damage. However, the hood start",
+        "pct": 26,
+        "title": "Engine",
+        "blurb": "9 reports (26%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While merging onto the highway the car violently jerked itself into the left lane without warning, nearly causing me to collide with another car. Error messages about \"driver assistance\" appeared. All  screens then went black and the car rebooted. It pulled away from the directio",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "5 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving a car with family and all of a sudden we all started smelling a burning smell but we thought it must be from outside. However, in just few seconds the vents started throwing vapors so I stopped the car hoping it may stop if some minor damage. However, the hood start",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "4 reports (11%) · 2 fire"
+      },
+      {
+        "component": "SEATS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 BMW X7. The contact stated while driving at an undisclosed speed, the warning light illuminated \"third row rear seats not fully locked\". The contact stated that while transporting his children, the sensor did not recognize individuals seated on the seat. T",
+        "pct": 11,
+        "title": "Seats",
+        "blurb": "4 reports (11%) · 1 injured"
+      }
+    ]
+  }
+}

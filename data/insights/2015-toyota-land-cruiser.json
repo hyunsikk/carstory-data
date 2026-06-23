@@ -1,0 +1,62 @@
+{
+  "slug": "2015-toyota-land-cruiser",
+  "make": "Toyota",
+  "model": "Land Cruiser",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/TOYOTA/LAND%20CRUISER#complaints",
+  "generatedAt": "2026-06-23T16:41:23.455Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SALUDOS  TENGO UN TOYOTA PRADO 2015 VIVO EN SAN JOSE COSTA RICA  Y EL 2 DE ESTE MES TUVE UNA COLISION DE MAGNITUD CONSIDERABLE, A PESAR DE LO CUAL LAS BOLSAS DE AIRE NO SE ABRIERON, TENGO INTERES  EN QUE SE INVESTIGUE LA CAUSA, PUES LA MAYORIA DE PERSONAS VIAJAMOS CONFIADAS EN LA",
+      "pct": 100
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 TOYOTA LAND CRUISER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 18V887000 (AIR BAGS, SEAT BELTS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE DEALER (NORM REEVES TOYOTA SAN DIEGO, 5910 MISSION GORGE RD, SAN DIEGO, CA 92120) WAS CONTACTED AN",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Toyota Land Cruiser owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SALUDOS  TENGO UN TOYOTA PRADO 2015 VIVO EN SAN JOSE COSTA RICA  Y EL 2 DE ESTE MES TUVE UNA COLISION DE MAGNITUD CONSIDERABLE, A PESAR DE LO CUAL LAS BOLSAS DE AIRE NO SE ABRIERON, TENGO INTERES  EN QUE SE INVESTIGUE LA CAUSA, PUES LA MAYORIA DE PERSONAS VIAJAMOS CONFIADAS EN LA",
+        "pct": 100,
+        "title": "Air Bags",
+        "blurb": "2 reports (100%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 TOYOTA LAND CRUISER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 18V887000 (AIR BAGS, SEAT BELTS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE DEALER (NORM REEVES TOYOTA SAN DIEGO, 5910 MISSION GORGE RD, SAN DIEGO, CA 92120) WAS CONTACTED AN",
+        "pct": 50,
+        "title": "Seat Belts",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

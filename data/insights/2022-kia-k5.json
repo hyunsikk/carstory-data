@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-k5",
+  "make": "Kia",
+  "model": "K5",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/K5#complaints",
+  "generatedAt": "2026-06-23T16:36:29.739Z",
+  "total": 118,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 31,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On December 28th 2022 between the 6:30 am to 8:00 my car was parked and caught on fire. I have filed a complaint with Kia and since then I have gotten the run around about them looking into the vehicle and seeing what cause the issue. My car was still under the manufacture warran",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 24,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia K5. The contact stated that while driving 60 mph, she struck two deers that jumped into the roadway. No safety object detection was activated during the failure. The vehicle went to the left and right and stalled. The driver-side door was jammed. The a",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 23,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia K5. The contact stated that with the key inserted in the ignition and turned to the ON position, the locks failed to automatically lock as designed. The failure only occurs while the vehicle was turned on. The vehicle was securely locked using this met",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 20,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I bought a 2022 Kia K5 on 06/18/2021. On 12/31/2021, the check engine light came on, it shows code P088000 in the Kia Access app. Transmission control system issue. It started to jerk slightly when shifting into reverse. The engine is working twice as hard as it should when tryin",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 11,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 2,
+      "sample": "Vehicle will brake suddenly and without notice while using the adaptive cruise control option.  The system believes there is a vehicle in front of the car when none is present.  This is usually attributed to a vehicle exiting or when somebody passes and does not leave enough room",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia K5 owners report most",
+    "summary": "Across 118 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 31,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On December 28th 2022 between the 6:30 am to 8:00 my car was parked and caught on fire. I have filed a complaint with Kia and since then I have gotten the run around about them looking into the vehicle and seeing what cause the issue. My car was still under the manufacture warran",
+        "pct": 26,
+        "title": "Fuel/Propulsion System",
+        "blurb": "31 reports (26%) · 2 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 24,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia K5. The contact stated that while driving 60 mph, she struck two deers that jumped into the roadway. No safety object detection was activated during the failure. The vehicle went to the left and right and stalled. The driver-side door was jammed. The a",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "24 reports (20%) · 2 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 23,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia K5. The contact stated that with the key inserted in the ignition and turned to the ON position, the locks failed to automatically lock as designed. The failure only occurs while the vehicle was turned on. The vehicle was securely locked using this met",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "23 reports (19%) · 1 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 20,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I bought a 2022 Kia K5 on 06/18/2021. On 12/31/2021, the check engine light came on, it shows code P088000 in the Kia Access app. Transmission control system issue. It started to jerk slightly when shifting into reverse. The engine is working twice as hard as it should when tryin",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "20 reports (17%) · 1 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 11,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 2,
+        "sample": "Vehicle will brake suddenly and without notice while using the adaptive cruise control option.  The system believes there is a vehicle in front of the car when none is present.  This is usually attributed to a vehicle exiting or when somebody passes and does not leave enough room",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "11 reports (9%) · 4 crash · 4 injured"
+      }
+    ]
+  }
+}

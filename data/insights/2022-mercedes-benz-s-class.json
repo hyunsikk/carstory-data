@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mercedes-benz-s-class",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MERCEDES-BENZ/S-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:43.532Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 16,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz S580. The contact stated while driving 35 MPH, the vehicle experienced phantom braking with the Active Brake Assist warning light illuminated. The contact stated that the vehicle operated normally after the failure. The dealer was contacted a",
+      "pct": 36
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz S500. The contact received a notification for NHTSA Campaign Number: 21V00J000 (Electrical System, Communication) however, the parts for the repair were unavailable. The dealer had been notified about the recall and confirmed that parts were ",
+      "pct": 27
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "New S500 Benz, 1700 miles on the car, 2 months on the road only. Issues started right off the batt after purchasing this new S500. Car refuses to start daily, check engine light, 12v battery light, 48v battery needs service light, come on even tho the cars voltage is not low and ",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "New S500 Benz, 1700 miles on the car, 2 months on the road only. Issues started right off the batt after purchasing this new S500. Car refuses to start daily, check engine light, 12v battery light, 48v battery needs service light, come on even tho the cars voltage is not low and ",
+      "pct": 16
+    },
+    {
+      "component": "TIRES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz S500. The contact received a notification for NHTSA Campaign Number: 21V00J000 (Electrical System, Communication) however, the parts for the repair were unavailable. The dealer had been notified about the recall and confirmed that parts were ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mercedes-Benz S-Class owners report most",
+    "summary": "Across 45 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 16,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz S580. The contact stated while driving 35 MPH, the vehicle experienced phantom braking with the Active Brake Assist warning light illuminated. The contact stated that the vehicle operated normally after the failure. The dealer was contacted a",
+        "pct": 36,
+        "title": "Forward Collision Avoidance",
+        "blurb": "16 reports (36%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz S500. The contact received a notification for NHTSA Campaign Number: 21V00J000 (Electrical System, Communication) however, the parts for the repair were unavailable. The dealer had been notified about the recall and confirmed that parts were ",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "12 reports (27%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "New S500 Benz, 1700 miles on the car, 2 months on the road only. Issues started right off the batt after purchasing this new S500. Car refuses to start daily, check engine light, 12v battery light, 48v battery needs service light, come on even tho the cars voltage is not low and ",
+        "pct": 24,
+        "title": "Service Brakes",
+        "blurb": "11 reports (24%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "New S500 Benz, 1700 miles on the car, 2 months on the road only. Issues started right off the batt after purchasing this new S500. Car refuses to start daily, check engine light, 12v battery light, 48v battery needs service light, come on even tho the cars voltage is not low and ",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "7 reports (16%) · 1 fire"
+      },
+      {
+        "component": "TIRES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz S500. The contact received a notification for NHTSA Campaign Number: 21V00J000 (Electrical System, Communication) however, the parts for the repair were unavailable. The dealer had been notified about the recall and confirmed that parts were ",
+        "pct": 11,
+        "title": "Tires",
+        "blurb": "5 reports (11%) · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GENESIS/G70#complaints",
+  "generatedAt": "2026-06-23T16:30:58.659Z",
+  "total": 27,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The headlight assembly is not sealed properly. I had to have the passenger side headlight assembly replaced due to condensation inside of the assembly which can lead to the headlight shorting out. This was replaced by Lee Hyundai in Fayetteville, NC under the warranty. The driver",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Genesis GV70. The contact stated while driving 30 MPH, the vehicle inadvertently lost motive power however, the contact was able to safely coast to the side of the roadway. After restarting the vehicle, the vehicle seemed to return to normal functionality;",
+      "pct": 22
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon pressing the gas pedal to start the car moving after a light turned green, vehicle shuddered, all dash lights came on and vehicle was unable to do anything but coast at a dangerously slow speed. Check engine light remained lit. I pulled over and turned off the engine and cal",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is just over two years old and this has happened three times.  Every light and warning message on the dash comes on all at once and the vehicle is put into limp mode.  Going from 50 miles per hour to a little over 5 miles per hour in just a few seconds.  Genesis also d",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am reporting a recurring drivetrain defect in my 2022 Genesis G70 3.3T Sport Prestige AWD (current mileage: 20,000 miles). The vehicle produces a prominent, loud mechanical whining and droning noise specifically when driving within the speed range of 55 mph to 65 mph. The issue",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Genesis G70 owners report most",
+    "summary": "Across 27 owner complaints to NHTSA, the most reported area is Exterior Lighting (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The headlight assembly is not sealed properly. I had to have the passenger side headlight assembly replaced due to condensation inside of the assembly which can lead to the headlight shorting out. This was replaced by Lee Hyundai in Fayetteville, NC under the warranty. The driver",
+        "pct": 30,
+        "title": "Exterior Lighting",
+        "blurb": "8 reports (30%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Genesis GV70. The contact stated while driving 30 MPH, the vehicle inadvertently lost motive power however, the contact was able to safely coast to the side of the roadway. After restarting the vehicle, the vehicle seemed to return to normal functionality;",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "6 reports (22%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon pressing the gas pedal to start the car moving after a light turned green, vehicle shuddered, all dash lights came on and vehicle was unable to do anything but coast at a dangerously slow speed. Check engine light remained lit. I pulled over and turned off the engine and cal",
+        "pct": 22,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (22%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is just over two years old and this has happened three times.  Every light and warning message on the dash comes on all at once and the vehicle is put into limp mode.  Going from 50 miles per hour to a little over 5 miles per hour in just a few seconds.  Genesis also d",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am reporting a recurring drivetrain defect in my 2022 Genesis G70 3.3T Sport Prestige AWD (current mileage: 20,000 miles). The vehicle produces a prominent, loud mechanical whining and droning noise specifically when driving within the speed range of 55 mph to 65 mph. The issue",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

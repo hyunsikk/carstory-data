@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-venza",
+  "make": "Toyota",
+  "model": "Venza",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/VENZA#complaints",
+  "generatedAt": "2026-06-23T16:41:36.819Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "Complete brake failure when exiting freeway resulted in crashing into a concrete barrier and guardrail at a high rate of speed before impacting another vehicle. Vehicle has an electronic emergency brake that could not be engaged. Vehicle could not be put in reverse or park to slo",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the interstate the volume on the radio went to full max volume, blasting in our ears,  scaring us and in a frantic mode tried to shut it off with no avail almost could have caused an accident. None of the controls on the panel or steering wheel would turn it off.",
+      "pct": 20
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Toyota Venza. The contact stated that while his wife was attempting to park the vehicle and with her foot on the brake pedal, the vehicle suddenly accelerated on its own. As a result, the driver collided with another parked vehicle ahead, lightly damaging ",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the headlights are on Low, not High beam, there is a dark horizontal round area and vertical streak (shadow) in the illuminated area in front of the vehicle. The dark area looks like an a large dark basket ball. It is only the left headlight. This shadow area prevents full i",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Head on collision driving 40-45 MPH - a Mercedes pulled out in front of me and I slammed into their vehicle. My air bags did not deploy nor was there auto braking system. The crash indicator also did not call the police. My car is totaled. There is no way this vehicle is not part",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Venza owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "Complete brake failure when exiting freeway resulted in crashing into a concrete barrier and guardrail at a high rate of speed before impacting another vehicle. Vehicle has an electronic emergency brake that could not be engaged. Vehicle could not be put in reverse or park to slo",
+        "pct": 30,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (30%) · 5 crash · 8 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the interstate the volume on the radio went to full max volume, blasting in our ears,  scaring us and in a frantic mode tried to shut it off with no avail almost could have caused an accident. None of the controls on the panel or steering wheel would turn it off.",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "4 reports (20%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Toyota Venza. The contact stated that while his wife was attempting to park the vehicle and with her foot on the brake pedal, the vehicle suddenly accelerated on its own. As a result, the driver collided with another parked vehicle ahead, lightly damaging ",
+        "pct": 15,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (15%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the headlights are on Low, not High beam, there is a dark horizontal round area and vertical streak (shadow) in the illuminated area in front of the vehicle. The dark area looks like an a large dark basket ball. It is only the left headlight. This shadow area prevents full i",
+        "pct": 15,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (15%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Head on collision driving 40-45 MPH - a Mercedes pulled out in front of me and I slammed into their vehicle. My air bags did not deploy nor was there auto braking system. The crash indicator also did not call the police. My car is totaled. There is no way this vehicle is not part",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "2 reports (10%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

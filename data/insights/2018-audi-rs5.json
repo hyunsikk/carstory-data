@@ -1,0 +1,40 @@
+{
+  "slug": "2018-audi-rs5",
+  "make": "Audi",
+  "model": "RS5",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/RS5#complaints",
+  "generatedAt": "2026-06-23T16:43:31.314Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Autonomous Emergency Services Notification Feature: Audi has informed its owners of vehicles made from 2018 and earlier that a safety feature provided as standard equipment in the vehicle will no longer be available because of the inevitable shut down of 3G wireless systems acros",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi Rs5 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Autonomous Emergency Services Notification Feature: Audi has informed its owners of vehicles made from 2018 and earlier that a safety feature provided as standard equipment in the vehicle will no longer be available because of the inevitable shut down of 3G wireless systems acros",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

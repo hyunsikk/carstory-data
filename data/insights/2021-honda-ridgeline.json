@@ -1,0 +1,128 @@
+{
+  "slug": "2021-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-06-23T16:32:50.787Z",
+  "total": 94,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When vehicle is in drive, stopped on a steep hill, and allowed to slip backward the software puts the transmission in neutral  and shuts of the engine off. This leaves the vehicle coasting backwards with very little steering or brakes. This happened to me and I coasted backward a",
+      "pct": 27
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT NIGHT EVEN WITH NO TRAFFIC AHEAD, THE AUTOMATIC HIGH BEAMS RARELY TURN ON. WHEN THEY DO, THEY TURN OFF ALMOST IMMEDIATELY DUE TO REFLECTIONS FROM ROAD SIGNS AND EVEN SMALL ROAD MARKERS. OCCASIONALLY, THEY'LL FAIL TO DIM IN A TIMELY FASHION OR WILL FLASH CAUSING O",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "HAVING AN ISSUE WITH MY BRAND NEW 2021 RIDGELINE. AUDIO WHEN I'M HOOKED UP WITH ANDROID AUTO OR WITH BLUETOOTH DOES THIS WEIRD VOLUME ADJUSTMENT THING WHEN STANDING STILL. I'VE RESET EVERYTHING DONE ALL THE TROUBLESHOOTING, EVEN TOOK IT TO DEALER WHO SAID OH IT'S NORMAL TO HAVE A",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2021 Honda Ridgeline Sport equipped with CMBS an automatic braking system that is supposed to be a safety feature, but actually makes the car more dangerous.   The problem with the Ridgeline Sport collision mitigation braking system is that it attempts to mitigate crashe",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When vehicle is in drive, stopped on a steep hill, and allowed to slip backward the software puts the transmission in neutral  and shuts of the engine off. This leaves the vehicle coasting backwards with very little steering or brakes. This happened to me and I coasted backward a",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Honda Ridgeline owners report most",
+    "summary": "Across 94 owner complaints to NHTSA, the most reported area is Engine (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When vehicle is in drive, stopped on a steep hill, and allowed to slip backward the software puts the transmission in neutral  and shuts of the engine off. This leaves the vehicle coasting backwards with very little steering or brakes. This happened to me and I coasted backward a",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "25 reports (27%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT NIGHT EVEN WITH NO TRAFFIC AHEAD, THE AUTOMATIC HIGH BEAMS RARELY TURN ON. WHEN THEY DO, THEY TURN OFF ALMOST IMMEDIATELY DUE TO REFLECTIONS FROM ROAD SIGNS AND EVEN SMALL ROAD MARKERS. OCCASIONALLY, THEY'LL FAIL TO DIM IN A TIMELY FASHION OR WILL FLASH CAUSING O",
+        "pct": 15,
+        "title": "Exterior Lighting",
+        "blurb": "14 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "HAVING AN ISSUE WITH MY BRAND NEW 2021 RIDGELINE. AUDIO WHEN I'M HOOKED UP WITH ANDROID AUTO OR WITH BLUETOOTH DOES THIS WEIRD VOLUME ADJUSTMENT THING WHEN STANDING STILL. I'VE RESET EVERYTHING DONE ALL THE TROUBLESHOOTING, EVEN TOOK IT TO DEALER WHO SAID OH IT'S NORMAL TO HAVE A",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "13 reports (14%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2021 Honda Ridgeline Sport equipped with CMBS an automatic braking system that is supposed to be a safety feature, but actually makes the car more dangerous.   The problem with the Ridgeline Sport collision mitigation braking system is that it attempts to mitigate crashe",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (13%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When vehicle is in drive, stopped on a steep hill, and allowed to slip backward the software puts the transmission in neutral  and shuts of the engine off. This leaves the vehicle coasting backwards with very little steering or brakes. This happened to me and I coasted backward a",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "11 reports (12%)"
+      }
+    ]
+  }
+}

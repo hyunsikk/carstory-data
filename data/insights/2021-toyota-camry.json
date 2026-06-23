@@ -1,0 +1,128 @@
+{
+  "slug": "2021-toyota-camry",
+  "make": "Toyota",
+  "model": "Camry",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/CAMRY#complaints",
+  "generatedAt": "2026-06-23T16:41:19.196Z",
+  "total": 151,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 76,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "I crashed into the metal guardrail on the side of the highway after swerving to avoid a car that lost a tire in front of me. The car was totalled with siginificant damage to the front, engine compartment, and windshield. But the airbags did not inflate. I was the only person in t",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact's wife leased a 2021 Toyota Camry. The contact stated that while his wife was pulling into a parking space, the brake pedal was depressed but failed to respond. He stated that his wife continued to depress the brake pedal but it would not respond, causing the vehicle ",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Camry. The contact stated that while attempting to park her vehicle in her apartment complex parking lot, her vehicle continued to lurch forward without warning despite multiple attempts to stop. Due to the failure, the contact hit a gate as the veh",
+      "pct": 7
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Update to previous Complaint filingNHTSA ID Number: 11451933 .  Toyota has not accepted responsibility yet acknowledged that the ABS \"worked\" when the problem was that the Auto Emergency Braking system did not work . In addition a Toyota dealer service employee drove the car and ",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Camry. The contact stated that while driving at various speeds, the transmission and power steering failed to operate as designed. There was no warning light illuminated. The contact stated that the vehicle acceleration and the power steering functi",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Toyota Camry owners report most",
+    "summary": "Across 151 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 76,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "I crashed into the metal guardrail on the side of the highway after swerving to avoid a car that lost a tire in front of me. The car was totalled with siginificant damage to the front, engine compartment, and windshield. But the airbags did not inflate. I was the only person in t",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "76 reports (50%) · 10 crash · 12 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact's wife leased a 2021 Toyota Camry. The contact stated that while his wife was pulling into a parking space, the brake pedal was depressed but failed to respond. He stated that his wife continued to depress the brake pedal but it would not respond, causing the vehicle ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "16 reports (11%) · 5 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Camry. The contact stated that while attempting to park her vehicle in her apartment complex parking lot, her vehicle continued to lurch forward without warning despite multiple attempts to stop. Due to the failure, the contact hit a gate as the veh",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "11 reports (7%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Update to previous Complaint filingNHTSA ID Number: 11451933 .  Toyota has not accepted responsibility yet acknowledged that the ABS \"worked\" when the problem was that the Auto Emergency Braking system did not work . In addition a Toyota dealer service employee drove the car and ",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (7%) · 6 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Camry. The contact stated that while driving at various speeds, the transmission and power steering failed to operate as designed. There was no warning light illuminated. The contact stated that the vehicle acceleration and the power steering functi",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "8 reports (5%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

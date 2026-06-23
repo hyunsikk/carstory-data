@@ -1,0 +1,128 @@
+{
+  "slug": "2021-dodge-charger",
+  "make": "Dodge",
+  "model": "Charger",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/DODGE/CHARGER#complaints",
+  "generatedAt": "2026-06-23T16:29:20.753Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving home from work when my vehicle lost control, when trying to steer my steering wheel straight the rear end of my vehicle locked up and ended up in a guard rail , there was nothing in the road or any pedestrian or other cars I have no idea what caused my car to lock up but ",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issue with the vehicle is inconsistent and delayed power delivery. On numerous occasions, when trying to accelerate quickly in low gears (1 through 3), the vehicle exhibits an obvious restriction and/or lack of thrust. The vehicle does accelerate (sometimes poorly with hesita",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT ONLY 256 MILES, THE VEHICLE EITHER SHUTS OFF WHILE DRIVING OR WILL NOT START AFTER IT'S PARKED. THE FIRST OCCURRENCE OF THE ENGINE TURNING OFF WAS WHILE I WAS DRIVING. THE VEHICLE APPEARED TO STALL. AFTER SEVERAL ATTEMPTS THE VEHICLE RESTARTED. THERE HAS SINCE BEEN 3 NO START ",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Headlight low/high beam keeps going out and comes back on. It seems like the wiring harness overheating, bulb is fine but continues to go out and on. 2. Transmission, does a very aggressive down shift at gear 6 it makes the car jump and if it happens too much, my car won't acc",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AT ONLY 256 MILES, THE VEHICLE EITHER SHUTS OFF WHILE DRIVING OR WILL NOT START AFTER IT'S PARKED. THE FIRST OCCURRENCE OF THE ENGINE TURNING OFF WAS WHILE I WAS DRIVING. THE VEHICLE APPEARED TO STALL. AFTER SEVERAL ATTEMPTS THE VEHICLE RESTARTED. THERE HAS SINCE BEEN 3 NO START ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Dodge Charger owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Air Bags (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving home from work when my vehicle lost control, when trying to steer my steering wheel straight the rear end of my vehicle locked up and ended up in a guard rail , there was nothing in the road or any pedestrian or other cars I have no idea what caused my car to lock up but ",
+        "pct": 40,
+        "title": "Air Bags",
+        "blurb": "12 reports (40%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issue with the vehicle is inconsistent and delayed power delivery. On numerous occasions, when trying to accelerate quickly in low gears (1 through 3), the vehicle exhibits an obvious restriction and/or lack of thrust. The vehicle does accelerate (sometimes poorly with hesita",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "5 reports (17%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT ONLY 256 MILES, THE VEHICLE EITHER SHUTS OFF WHILE DRIVING OR WILL NOT START AFTER IT'S PARKED. THE FIRST OCCURRENCE OF THE ENGINE TURNING OFF WAS WHILE I WAS DRIVING. THE VEHICLE APPEARED TO STALL. AFTER SEVERAL ATTEMPTS THE VEHICLE RESTARTED. THERE HAS SINCE BEEN 3 NO START ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "3 reports (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Headlight low/high beam keeps going out and comes back on. It seems like the wiring harness overheating, bulb is fine but continues to go out and on. 2. Transmission, does a very aggressive down shift at gear 6 it makes the car jump and if it happens too much, my car won't acc",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AT ONLY 256 MILES, THE VEHICLE EITHER SHUTS OFF WHILE DRIVING OR WILL NOT START AFTER IT'S PARKED. THE FIRST OCCURRENCE OF THE ENGINE TURNING OFF WAS WHILE I WAS DRIVING. THE VEHICLE APPEARED TO STALL. AFTER SEVERAL ATTEMPTS THE VEHICLE RESTARTED. THERE HAS SINCE BEEN 3 NO START ",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

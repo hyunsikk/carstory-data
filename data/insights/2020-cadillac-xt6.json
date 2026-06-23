@@ -1,0 +1,128 @@
+{
+  "slug": "2020-cadillac-xt6",
+  "make": "Cadillac",
+  "model": "XT6",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CADILLAC/XT6#complaints",
+  "generatedAt": "2026-06-23T16:27:56.538Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BRAND NEW OFF DEALER LOT NEEDED NEW BATTERY. FROM THAT POINT FORWARD THE VEHICLE'S ELECTRONICS CONSTANTLY MALFUNCTIONED. THE DEALER TRIED EVERYTHING INCLUDING WORKING WITH CADILLAC FOR NEW PARTS AND SUGGESTIONS TO MAKE THE ELECTRICAL SYSTEM FUNCTION NORMALLY.  AFTER THREE WEEKS O",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Intermittent shifting problems. Is stuttering when shifting. There seems to be an ongoing problem according to online and G M itself why isn't this recalled. There is no starting point it is intermittent on going. At the 1st instance they recorded it but it didn't get fixed and n",
+      "pct": 23
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup Camera issues.  I have had my 2020 XT6 Cadillac in for service three times.  They have not been able to fix the issue.  This is an intermittent issue at times and other times it stays off for a long period of time.  I have a black screen with a camera with a red circle and",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2020 CADILLAC XT6 WITH ALL OPTIONS AND NEW VEHICLE WITH LESS THAN 400 MILES, FUEL GAUGE INDICATOR HASH MARKS THAT SHOW THE LEVEL OF FUEL ON THE FUEL GAUGE INTERMITTENTLY STOP WORKING UPON ENGINE STARTUP. DEALER HAS ALREADY CHECKED COMPUTER CODES AND FOUND NO ERROR CODES. DEALER S",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Cadillac Case number is 9-6766521074. The Cadillac CT6 has a flaw in the intelligent braking assist(IBA) software. When no collision is imminent, pushing the brake even slightly results in extremely hard overbraking causing all items to fly forward. There is no way to turn off IB",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Cadillac Xt6 owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BRAND NEW OFF DEALER LOT NEEDED NEW BATTERY. FROM THAT POINT FORWARD THE VEHICLE'S ELECTRONICS CONSTANTLY MALFUNCTIONED. THE DEALER TRIED EVERYTHING INCLUDING WORKING WITH CADILLAC FOR NEW PARTS AND SUGGESTIONS TO MAKE THE ELECTRICAL SYSTEM FUNCTION NORMALLY.  AFTER THREE WEEKS O",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "11 reports (31%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Intermittent shifting problems. Is stuttering when shifting. There seems to be an ongoing problem according to online and G M itself why isn't this recalled. There is no starting point it is intermittent on going. At the 1st instance they recorded it but it didn't get fixed and n",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "8 reports (23%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup Camera issues.  I have had my 2020 XT6 Cadillac in for service three times.  They have not been able to fix the issue.  This is an intermittent issue at times and other times it stays off for a long period of time.  I have a black screen with a camera with a red circle and",
+        "pct": 20,
+        "title": "Back Over Prevention",
+        "blurb": "7 reports (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2020 CADILLAC XT6 WITH ALL OPTIONS AND NEW VEHICLE WITH LESS THAN 400 MILES, FUEL GAUGE INDICATOR HASH MARKS THAT SHOW THE LEVEL OF FUEL ON THE FUEL GAUGE INTERMITTENTLY STOP WORKING UPON ENGINE STARTUP. DEALER HAS ALREADY CHECKED COMPUTER CODES AND FOUND NO ERROR CODES. DEALER S",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Cadillac Case number is 9-6766521074. The Cadillac CT6 has a flaw in the intelligent braking assist(IBA) software. When no collision is imminent, pushing the brake even slightly results in extremely hard overbraking causing all items to fly forward. There is no way to turn off IB",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

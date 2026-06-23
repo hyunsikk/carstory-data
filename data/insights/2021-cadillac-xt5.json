@@ -1,0 +1,128 @@
+{
+  "slug": "2021-cadillac-xt5",
+  "make": "Cadillac",
+  "model": "XT5",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CADILLAC/XT5#complaints",
+  "generatedAt": "2026-06-23T16:27:53.819Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while driving in stop-and-go traffic, the contact rear-ended a vehicle in front. The contact crashed the vehicle at approximately 5 mph;  however, the collision caused severe front end damage to the vehicle. The air ba",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while stopped at a traffic signal, the signal turned green; however, when the accelerator pedal was depressed, the vehicle hesitated before responding as needed. The contact stated that the vehicle lunged into motion. ",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while his wife was reversing and exiting the residential driveway, the back over prevention sensor activated. The contact stated the back over prevention warning light illuminated.   The contact stated that there were ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When braking — both at low speeds and when slowing from highway speeds (40+ mph) — vehicle feels like engine revs and is still pushing against the brakes. Requires very firm pedal pressure to hold car in place; if brake pressure is eased, vehicle surges forward until it finally s",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Cadillac Xt5 owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while driving in stop-and-go traffic, the contact rear-ended a vehicle in front. The contact crashed the vehicle at approximately 5 mph;  however, the collision caused severe front end damage to the vehicle. The air ba",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "4 reports (33%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while stopped at a traffic signal, the signal turned green; however, when the accelerator pedal was depressed, the vehicle hesitated before responding as needed. The contact stated that the vehicle lunged into motion. ",
+        "pct": 17,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated that while his wife was reversing and exiting the residential driveway, the back over prevention sensor activated. The contact stated the back over prevention warning light illuminated.   The contact stated that there were ",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Cadillac XT4. The contact stated while driving 40-45 MPH, the vehicle suddenly stopped, and was shifted into park but failed to restart. There were no warning lights illuminated. The vehicle was towed to the local dealer where it was diagnosed and determin",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When braking — both at low speeds and when slowing from highway speeds (40+ mph) — vehicle feels like engine revs and is still pushing against the brakes. Requires very firm pedal pressure to hold car in place; if brake pressure is eased, vehicle surges forward until it finally s",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

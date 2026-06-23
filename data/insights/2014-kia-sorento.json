@@ -1,0 +1,128 @@
+{
+  "slug": "2014-kia-sorento",
+  "make": "Kia",
+  "model": "Sorento",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/KIA/SORENTO#complaints",
+  "generatedAt": "2026-06-23T16:36:53.998Z",
+  "total": 973,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 382,
+      "crash": 2,
+      "fire": 29,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "ON JANUARY 2014, I BOUGHT A KIA SORENTO, 2014.  ON THE SAME DAY I NOTICE A STRANGE NOISE ON THE ENGINE. I TOOK THE CAR BACK TO MEDINA AUTO IN CAGUAS, PUERTO RICO (DEALER) AND THEY SAID THAT THE NOISE WAS DUE TO THE GDI MOTOR TYPE. I TOOK THE CAR SEVERAL TIMES BACK THE DEALER, WIT",
+      "pct": 39
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 158,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 KIA SORENTO. THE CONTACT ATTEMPTED TO CLOSE THE LIFT GATE BY PRESSING THE CLOSE BUTTON, BUT WHEN IT CLOSED  IT OPENED INDEPENDENTLY. THE CONTACT ATTEMPTED TO CLOSE IT MANUALLY BUT THE LIFT GATE WOULD NOT CLOSE. THE VEHICLE WAS TAKEN TO THE DEALER FOR I",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 150,
+      "crash": 5,
+      "fire": 9,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "CPSC:X1380106A. 2014 KIA SORENTO. CONSUMER STATED THE CONCERN IS NOT BEING ABLE TO READ THE  ELECTROLUMINESCENT SPEEDOMETER IN THE DAYLIGHT. *LN  THE CONSUMER STATED IT WAS DIFFICULT TO SEE HOW FAST HE WAS GOING. THE SUNLIGHT GLARE MADE IT NEARLY IMPOSSIBLE TO SEE AND IT REQUIRED",
+      "pct": 15
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 86,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CANNOT READ OR EXTREMELY DIFFICULT TO READ THE SPEEDOMETER IN DAYLIGHT MOST OF THE TIME.   WORSE ON BRIGHTER DAYS.  MUST TAKE EYES OFF ROAD FOR SEVERAL SECONDS TO FIND NEEDLE TO DETERMINE SPEED.  ILLUMINATION IS FINE AT NIGHT OR IN VERY SHADED AREAS  (IE GARAGE).  SEEMS AS IF INS",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 81,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "SINCE BUYING THE 2014 KIA FWD 4-CYL VEHICLE, I HAVE HAD ABOUT 5 INSTANCES WHERE THE CAR WOULD NOT START AFTER I PRESSED THE BRAKE PEDAL AND THEN THE IGNITION SWITCH. KIA AND HYUNDAI HAD BRAKE SWITCH ISSUES IN MODELS CIRCA 2011 AND EARLIER, BUT I COULD NOT FIND ANYTHING ABOUT WHET",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Kia Sorento owners report most",
+    "summary": "Across 973 owner complaints to NHTSA, the most reported area is Engine (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 382,
+        "crash": 2,
+        "fire": 29,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "ON JANUARY 2014, I BOUGHT A KIA SORENTO, 2014.  ON THE SAME DAY I NOTICE A STRANGE NOISE ON THE ENGINE. I TOOK THE CAR BACK TO MEDINA AUTO IN CAGUAS, PUERTO RICO (DEALER) AND THEY SAID THAT THE NOISE WAS DUE TO THE GDI MOTOR TYPE. I TOOK THE CAR SEVERAL TIMES BACK THE DEALER, WIT",
+        "pct": 39,
+        "title": "Engine",
+        "blurb": "382 reports (39%) · 29 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 158,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 KIA SORENTO. THE CONTACT ATTEMPTED TO CLOSE THE LIFT GATE BY PRESSING THE CLOSE BUTTON, BUT WHEN IT CLOSED  IT OPENED INDEPENDENTLY. THE CONTACT ATTEMPTED TO CLOSE IT MANUALLY BUT THE LIFT GATE WOULD NOT CLOSE. THE VEHICLE WAS TAKEN TO THE DEALER FOR I",
+        "pct": 16,
+        "title": "Structure",
+        "blurb": "158 reports (16%) · 2 fire · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 150,
+        "crash": 5,
+        "fire": 9,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "CPSC:X1380106A. 2014 KIA SORENTO. CONSUMER STATED THE CONCERN IS NOT BEING ABLE TO READ THE  ELECTROLUMINESCENT SPEEDOMETER IN THE DAYLIGHT. *LN  THE CONSUMER STATED IT WAS DIFFICULT TO SEE HOW FAST HE WAS GOING. THE SUNLIGHT GLARE MADE IT NEARLY IMPOSSIBLE TO SEE AND IT REQUIRED",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "150 reports (15%) · 9 fire · 5 crash · 3 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 86,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CANNOT READ OR EXTREMELY DIFFICULT TO READ THE SPEEDOMETER IN DAYLIGHT MOST OF THE TIME.   WORSE ON BRIGHTER DAYS.  MUST TAKE EYES OFF ROAD FOR SEVERAL SECONDS TO FIND NEEDLE TO DETERMINE SPEED.  ILLUMINATION IS FINE AT NIGHT OR IN VERY SHADED AREAS  (IE GARAGE).  SEEMS AS IF INS",
+        "pct": 9,
+        "title": "Exterior Lighting",
+        "blurb": "86 reports (9%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 81,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "SINCE BUYING THE 2014 KIA FWD 4-CYL VEHICLE, I HAVE HAD ABOUT 5 INSTANCES WHERE THE CAR WOULD NOT START AFTER I PRESSED THE BRAKE PEDAL AND THEN THE IGNITION SWITCH. KIA AND HYUNDAI HAD BRAKE SWITCH ISSUES IN MODELS CIRCA 2011 AND EARLIER, BUT I COULD NOT FIND ANYTHING ABOUT WHET",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "81 reports (8%) · 2 fire · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

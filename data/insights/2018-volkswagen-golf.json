@@ -1,0 +1,128 @@
+{
+  "slug": "2018-volkswagen-golf",
+  "make": "Volkswagen",
+  "model": "Golf",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/VOLKSWAGEN/GOLF#complaints",
+  "generatedAt": "2026-06-23T16:41:49.649Z",
+  "total": 37,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER CAR HAS BEEN DRIVEN LONG ENOUGH TO BE COMPLETELY WARMED UP AND THEN PARKED, ON RE-ENTERING THE CAR AND BEFORE STARTING IT, THERE IS A STRONG ODOR OF GASOLINE NOTICEABLE TO THE DRIVER AND FRONT-SEAT PASSENGER. ONCE THE ENGINE HAS BEEN STARTED AND THE VENTILATION FAN HAS RUN,",
+      "pct": 27
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "IMMEDIATELY AFTER BEGINNING TO LEAVE WORK ON NOVEMBER 13, 2019, I NOTICED THE SUNROOF ON MY 2018 VW GOLF WAS SHATTERING AND CRUMBLING AWAY, STARTING TOWARD THE FRONT AND CENTER OF THE SUNROOF. THE INITIAL BREAK MUST HAVE OCCURRED EITHER AS IT WAS SITTING IN THE PARKING LOT AT WOR",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER RESTARTING HOT ENGINE AFTER A BRIEF STOP, CAR MIGHT STUMBLE DURING FIRST ATTEMPT TO ACCELERATE, FOR EXAMPLE TRYING TO ENTER TRAFFIC FROM A PARKING LOT.  THIS HAS HAPPENED SEVERAL TIMES AND HAS BEEN CAUSE FOR ALARM. THE ENGINE IS RUNNING BUT FEELS AS IF IT IS NOT.  THIS IS N",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SO WHAT HAPPEN WAS EVER SINCE I GOT MY 2018 GOLF GTI AUTOBAHN DSG, I'VE EXPERIENCED ISSUES WITH THE TRANSMISSION, IT JERKS WHEN SLOWING DOWN FROM 2ND GEAR TO FIRST AND SOMETIMES FROM 4TH THROUGH 1ST. I TOOK IN THE CAR TO THE DEALERSHIP AND THEY SAID NOTHING WAS WRONG I TOOK IT TO",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Had forward collision assist (turned on by default at engine start) turned on. When entering an intersection, vehicle stopped short to a full stop right in front of a metal plate on the road in the intersection. Had there been a vehicle behind me, the system may have needlessly c",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Volkswagen Golf owners report most",
+    "summary": "Across 37 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (27% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER CAR HAS BEEN DRIVEN LONG ENOUGH TO BE COMPLETELY WARMED UP AND THEN PARKED, ON RE-ENTERING THE CAR AND BEFORE STARTING IT, THERE IS A STRONG ODOR OF GASOLINE NOTICEABLE TO THE DRIVER AND FRONT-SEAT PASSENGER. ONCE THE ENGINE HAS BEEN STARTED AND THE VENTILATION FAN HAS RUN,",
+        "pct": 27,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (27%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "IMMEDIATELY AFTER BEGINNING TO LEAVE WORK ON NOVEMBER 13, 2019, I NOTICED THE SUNROOF ON MY 2018 VW GOLF WAS SHATTERING AND CRUMBLING AWAY, STARTING TOWARD THE FRONT AND CENTER OF THE SUNROOF. THE INITIAL BREAK MUST HAVE OCCURRED EITHER AS IT WAS SITTING IN THE PARKING LOT AT WOR",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "5 reports (14%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER RESTARTING HOT ENGINE AFTER A BRIEF STOP, CAR MIGHT STUMBLE DURING FIRST ATTEMPT TO ACCELERATE, FOR EXAMPLE TRYING TO ENTER TRAFFIC FROM A PARKING LOT.  THIS HAS HAPPENED SEVERAL TIMES AND HAS BEEN CAUSE FOR ALARM. THE ENGINE IS RUNNING BUT FEELS AS IF IT IS NOT.  THIS IS N",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SO WHAT HAPPEN WAS EVER SINCE I GOT MY 2018 GOLF GTI AUTOBAHN DSG, I'VE EXPERIENCED ISSUES WITH THE TRANSMISSION, IT JERKS WHEN SLOWING DOWN FROM 2ND GEAR TO FIRST AND SOMETIMES FROM 4TH THROUGH 1ST. I TOOK IN THE CAR TO THE DEALERSHIP AND THEY SAID NOTHING WAS WRONG I TOOK IT TO",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "4 reports (11%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Had forward collision assist (turned on by default at engine start) turned on. When entering an intersection, vehicle stopped short to a full stop right in front of a metal plate on the road in the intersection. Had there been a vehicle behind me, the system may have needlessly c",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (8%)"
+      }
+    ]
+  }
+}

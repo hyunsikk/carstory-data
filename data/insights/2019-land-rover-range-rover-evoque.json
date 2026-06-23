@@ -1,0 +1,128 @@
+{
+  "slug": "2019-land-rover-range-rover-evoque",
+  "make": "Land Rover",
+  "model": "Range Rover Evoque",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LAND%20ROVER/RANGE%20ROVER%20EVOQUE#complaints",
+  "generatedAt": "2026-06-23T16:37:12.068Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the interstate I released the cruise and slowed down when coming up on an 18 wheeler.  When it was clear I began to change lanes to the left and tried to accelerate but the engine would not respond. About 5 or 6 seconds later it finally responded.  This has happe",
+      "pct": 30
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Land Rover Range Rover Evoque. The contact stated that upon attempting to lock the doors using the remote control or from inside the vehicle, the doors failed to lock as designed. The contact also stated that the rearview camera, and the driver’s and passe",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my 2019 Range Rover Evoque on the highway on [XXX], the headliner on my vehicle just suddenly collapsed, hitting me in the head while driving and blocking my view of my rear windshield and rear view mirror and startling me almost causing a serious accident at 70 mil",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Malfunction Indicator Lamp illuminated with VCT diagnostic trouble codes stored in module; increased induction noise while driving; reduction in performance; and camshaft over speed.  This was covered in N481 but has expired. I have owned my vehicle since June 2020 and was not no",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Land Rover Range Rover Evoque. The contact stated that while driving 50 MPH, there was water entering through the windshield onto the dashboard. Additionally, the hazard light failed to turn off as needed. The contact drove to the dealer however, the vehic",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Land Rover Range Rover Evoque owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (30% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the interstate I released the cruise and slowed down when coming up on an 18 wheeler.  When it was clear I began to change lanes to the left and tried to accelerate but the engine would not respond. About 5 or 6 seconds later it finally responded.  This has happe",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Land Rover Range Rover Evoque. The contact stated that upon attempting to lock the doors using the remote control or from inside the vehicle, the doors failed to lock as designed. The contact also stated that the rearview camera, and the driver’s and passe",
+        "pct": 20,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my 2019 Range Rover Evoque on the highway on [XXX], the headliner on my vehicle just suddenly collapsed, hitting me in the head while driving and blocking my view of my rear windshield and rear view mirror and startling me almost causing a serious accident at 70 mil",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Malfunction Indicator Lamp illuminated with VCT diagnostic trouble codes stored in module; increased induction noise while driving; reduction in performance; and camshaft over speed.  This was covered in N481 but has expired. I have owned my vehicle since June 2020 and was not no",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Land Rover Range Rover Evoque. The contact stated that while driving 50 MPH, there was water entering through the windshield onto the dashboard. Additionally, the hazard light failed to turn off as needed. The contact drove to the dealer however, the vehic",
+        "pct": 10,
+        "title": "Visibility",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

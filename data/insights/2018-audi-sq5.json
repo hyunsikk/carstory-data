@@ -1,0 +1,128 @@
+{
+  "slug": "2018-audi-sq5",
+  "make": "Audi",
+  "model": "SQ5",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/SQ5#complaints",
+  "generatedAt": "2026-06-23T16:43:20.038Z",
+  "total": 22,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Audi SQ 5. The contact stated while driving 65 MPH in rainy weather, several unknown warning lights started blinking and the rear windshield wiper independently activated, and contact was unable to turn off the rear windshield wiper. The contact pulled ove",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During a rainstorm, water drained from roof drains that are apparently supposed to be cleaned & maintenance done by dealership on a regular basis but were clogged due to them not being any maintenance done.  Water shorted out the entire control module for the entire vehicle compu",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 AUDI SQ5. WHILE DRIVING APPROXIMATELY 25 MPH, THE COLLISION AVOIDANCE SYSTEM ERRONEOUSLY ACTIVATED AND CAUSED THE VEHICLE TO ABRUPTLY STOP. THERE WERE NO OTHER VEHICLES IN THE VICINITY AT THE TIME OF THE FAILURE. THE CONTACT INDICATED THAT THE FAILURE ",
+      "pct": 18
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After a hard rainstorm the Comfort System Control Module (CCM) errored apparently from getting wet from a clogged sun roof drainage line, causing water to enter the rear left side compartment in which the CCM is housed (behind the insulation). The entire area is still damp 3 days",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING, THE 'STEERING MALFUNCTION' WARNING LIGHT CAME ON. THE WARNING SAID THAT IT WAS OK TO DRIVE. ON THE SAME DAY, THE STEERING WHEEL BECAME ASKEW AND WAS NO LONGER ALIGNED.  THIS MADE IT VERY DIFFICULT TO DRIVE THE CAR.  THE DEALER REPLACED THE ENTIRE STEERING COLUMN IN",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi Sq5 owners report most",
+    "summary": "Across 22 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Audi SQ 5. The contact stated while driving 65 MPH in rainy weather, several unknown warning lights started blinking and the rear windshield wiper independently activated, and contact was unable to turn off the rear windshield wiper. The contact pulled ove",
+        "pct": 32,
+        "title": "Electrical System",
+        "blurb": "7 reports (32%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During a rainstorm, water drained from roof drains that are apparently supposed to be cleaned & maintenance done by dealership on a regular basis but were clogged due to them not being any maintenance done.  Water shorted out the entire control module for the entire vehicle compu",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "4 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 AUDI SQ5. WHILE DRIVING APPROXIMATELY 25 MPH, THE COLLISION AVOIDANCE SYSTEM ERRONEOUSLY ACTIVATED AND CAUSED THE VEHICLE TO ABRUPTLY STOP. THERE WERE NO OTHER VEHICLES IN THE VICINITY AT THE TIME OF THE FAILURE. THE CONTACT INDICATED THAT THE FAILURE ",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (18%) · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After a hard rainstorm the Comfort System Control Module (CCM) errored apparently from getting wet from a clogged sun roof drainage line, causing water to enter the rear left side compartment in which the CCM is housed (behind the insulation). The entire area is still damp 3 days",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING, THE 'STEERING MALFUNCTION' WARNING LIGHT CAME ON. THE WARNING SAID THAT IT WAS OK TO DRIVE. ON THE SAME DAY, THE STEERING WHEEL BECAME ASKEW AND WAS NO LONGER ALIGNED.  THIS MADE IT VERY DIFFICULT TO DRIVE THE CAR.  THE DEALER REPLACED THE ENTIRE STEERING COLUMN IN",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "2 reports (9%)"
+      }
+    ]
+  }
+}

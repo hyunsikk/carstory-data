@@ -1,0 +1,128 @@
+{
+  "slug": "2017-acura-ilx",
+  "make": "Acura",
+  "model": "ILX",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/ACURA/ILX#complaints",
+  "generatedAt": "2026-06-23T16:24:45.802Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN COMING TO A STOP AT A RED LIGHT, THE CAR CONTINUED TO ROLL FORWARD. AT THIS TIME, I STEPPED ON THE BRAKE WITH ADDED PRESSURE BUT THE CAR CONTINUED TO ROLL. THEN I SHIFTED THE CAR INTO PARK BUT THAT DID NOT STOP THE VEHICLE AND IT ROLLED INTO A TRUCK IN FRONT AT LESS THAN 5 M",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR JERKS, SLIPS AND HESITATES WHEN SHIFTING FROM REVERSE TO DRIVE AND WHEN DRIVING AT LOW SPEEDS.  ALREADY TAKEN TO DEALER TO LOOK AT, WAS TOLD IT'S BECAUSE CAR WAS IN \"BREAK-IN\" PERIOD, HOWEVER NOW THAT IT HAS 1K MILES, ISSUES ARE STILL OCCURRING.  I'VE SEEN REPORTS OF THE TLX ",
+      "pct": 20
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Acura ILX. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed, and there was an abnormal sound coming from the vehicle. No warning lights were illuminated. The vehicle was taken to the dealer, where the contact was",
+      "pct": 5
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello, I recently bought this used car. Its a 2017 Acura ILX with fairly low miles ( 85k ). After the 2nd night of having it, the alarm started going off in the middle of the night and all the lights were flickering in the dashboard.  The car wouldn't start so I had to jump it in",
+      "pct": 5
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "225/40r18 tires has a splitting on side wall it’s impossible to see unless the split location on the ground I tried to talk to the manufacturer but they don’t have a way to connect them. I have replaced one tire it has same problem tire shop noticed it they said they can put it b",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Acura Ilx owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Service Brakes (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN COMING TO A STOP AT A RED LIGHT, THE CAR CONTINUED TO ROLL FORWARD. AT THIS TIME, I STEPPED ON THE BRAKE WITH ADDED PRESSURE BUT THE CAR CONTINUED TO ROLL. THEN I SHIFTED THE CAR INTO PARK BUT THAT DID NOT STOP THE VEHICLE AND IT ROLLED INTO A TRUCK IN FRONT AT LESS THAN 5 M",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "5 reports (25%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR JERKS, SLIPS AND HESITATES WHEN SHIFTING FROM REVERSE TO DRIVE AND WHEN DRIVING AT LOW SPEEDS.  ALREADY TAKEN TO DEALER TO LOOK AT, WAS TOLD IT'S BECAUSE CAR WAS IN \"BREAK-IN\" PERIOD, HOWEVER NOW THAT IT HAS 1K MILES, ISSUES ARE STILL OCCURRING.  I'VE SEEN REPORTS OF THE TLX ",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "4 reports (20%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Acura ILX. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed, and there was an abnormal sound coming from the vehicle. No warning lights were illuminated. The vehicle was taken to the dealer, where the contact was",
+        "pct": 5,
+        "title": "Hydraulic",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello, I recently bought this used car. Its a 2017 Acura ILX with fairly low miles ( 85k ). After the 2nd night of having it, the alarm started going off in the middle of the night and all the lights were flickering in the dashboard.  The car wouldn't start so I had to jump it in",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "225/40r18 tires has a splitting on side wall it’s impossible to see unless the split location on the ground I tried to talk to the manufacturer but they don’t have a way to connect them. I have replaced one tire it has same problem tire shop noticed it they said they can put it b",
+        "pct": 5,
+        "title": "Tires",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

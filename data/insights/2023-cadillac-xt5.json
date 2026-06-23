@@ -1,0 +1,128 @@
+{
+  "slug": "2023-cadillac-xt5",
+  "make": "Cadillac",
+  "model": "XT5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CADILLAC/XT5#complaints",
+  "generatedAt": "2026-06-23T16:27:55.528Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "11/12/2022 / At Highway speed vehicle became unresponsive to throttle. Engine would increase in RPMs as indicated on Tach and speedometer would show increased speed, but acceleration was not noticeable and a gear grinding sound was heard. Unable to move vehicle in any direction. ",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that on two occasions while driving at approximately 25 MPH, the steering wheel seized, and the vehicle veered to the side of the road. Additionally, the gear shifter malfunctioned and the light to indicate that the vehicle",
+      "pct": 29
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that upon purchase of the vehicle, she was informed that the full camera system had yet to be installed and that the part would become available in the 4th quarter of 2022. The contact also stated that while driving at vari",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that the brake pedal would depress to the floorboard without warning. The contact had taken the vehicle to a dealer where a diagnostic was performed. The dealer received various diagnostic codes all related to the brake mas",
+      "pct": 7
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that the brake pedal would depress to the floorboard without warning. The contact had taken the vehicle to a dealer where a diagnostic was performed. The dealer received various diagnostic codes all related to the brake mas",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Cadillac Xt5 owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Power Train (36% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "11/12/2022 / At Highway speed vehicle became unresponsive to throttle. Engine would increase in RPMs as indicated on Tach and speedometer would show increased speed, but acceleration was not noticeable and a gear grinding sound was heard. Unable to move vehicle in any direction. ",
+        "pct": 36,
+        "title": "Power Train",
+        "blurb": "5 reports (36%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that on two occasions while driving at approximately 25 MPH, the steering wheel seized, and the vehicle veered to the side of the road. Additionally, the gear shifter malfunctioned and the light to indicate that the vehicle",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "4 reports (29%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that upon purchase of the vehicle, she was informed that the full camera system had yet to be installed and that the part would become available in the 4th quarter of 2022. The contact also stated that while driving at vari",
+        "pct": 21,
+        "title": "Back Over Prevention",
+        "blurb": "3 reports (21%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that the brake pedal would depress to the floorboard without warning. The contact had taken the vehicle to a dealer where a diagnostic was performed. The dealer received various diagnostic codes all related to the brake mas",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac XT5. The contact stated that the brake pedal would depress to the floorboard without warning. The contact had taken the vehicle to a dealer where a diagnostic was performed. The dealer received various diagnostic codes all related to the brake mas",
+        "pct": 7,
+        "title": "Hydraulic",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

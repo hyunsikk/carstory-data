@@ -1,0 +1,128 @@
+{
+  "slug": "2021-buick-encore-gx",
+  "make": "Buick",
+  "model": "Encore GX",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BUICK/ENCORE%20GX#complaints",
+  "generatedAt": "2026-06-23T16:27:24.055Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Buick Encore GX. The contact stated that while at a stop sign, the RPM was fluctuating from 0 to 3,000 RPM. The contact stated that the vehicle stalled with the check engine warning light illuminated. The vehicle was able to be restarted. The contact menti",
+      "pct": 29
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought my vehicle the later part of 2021 and the transmission and engine no longer work and need to be replaced. When I first purchased the vehicle the battery completely died in less than 6 months. Numerous repairs and now the warranty won't work since I am over 60000 miles ev",
+      "pct": 21
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I'm in need of a repair on my 2021 Buick Encore GX. It was seen at GM of Marion on July 30 for a warning light that came on as I was driving down the road after having an oil change. It stated my power was reduced. I took it in, and they told me they had just diagnosed this probl",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The brake system failed upon pulling into a parking space. Had it happened a few, short moments before, there would have been a high probability of a crash.  The vehicle was taken to Hardy Buick GMC Chevrolet. Upon reading the codes, I was told that the vehicle needs a new master",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Buick Encore GX. The contact stated while driving approximately 60 MPH, the check engine warning light illuminated with the “Engine Power Reduced message displayed. The contact stated that the vehicle lost motive power and the vehicle failed to exceed 25 M",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Buick Encore Gx owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Engine (29% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Buick Encore GX. The contact stated that while at a stop sign, the RPM was fluctuating from 0 to 3,000 RPM. The contact stated that the vehicle stalled with the check engine warning light illuminated. The vehicle was able to be restarted. The contact menti",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "14 reports (29%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought my vehicle the later part of 2021 and the transmission and engine no longer work and need to be replaced. When I first purchased the vehicle the battery completely died in less than 6 months. Numerous repairs and now the warranty won't work since I am over 60000 miles ev",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "10 reports (21%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I'm in need of a repair on my 2021 Buick Encore GX. It was seen at GM of Marion on July 30 for a warning light that came on as I was driving down the road after having an oil change. It stated my power was reduced. I took it in, and they told me they had just diagnosed this probl",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (15%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The brake system failed upon pulling into a parking space. Had it happened a few, short moments before, there would have been a high probability of a crash.  The vehicle was taken to Hardy Buick GMC Chevrolet. Upon reading the codes, I was told that the vehicle needs a new master",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "7 reports (15%) · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Buick Encore GX. The contact stated while driving approximately 60 MPH, the check engine warning light illuminated with the “Engine Power Reduced message displayed. The contact stated that the vehicle lost motive power and the vehicle failed to exceed 25 M",
+        "pct": 8,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (8%)"
+      }
+    ]
+  }
+}

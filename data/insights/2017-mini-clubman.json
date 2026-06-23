@@ -1,0 +1,128 @@
+{
+  "slug": "2017-mini-clubman",
+  "make": "MINI",
+  "model": "Clubman",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/MINI/CLUBMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:38.444Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car has a warning light \"secure car against rolling\" at first I thought it was a reminder to set the parking brake.  The next warning light was \"service required\" - I just bought this 2017 Mini Clubman two weeks ago so I took it to the mini dealer service center.  The motor m",
+      "pct": 26
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A MELTED SOCKET AND EXPOSED WIRE FOR MY RIGHT HEADLIGHT BULB (HIGH/LOW BEAM MALFUNCTION ERROR).  THE WHOLE HEADLIGHT IS CLOUDY WHICH I ASSUME IS FROM WHEN THE SOCKET MELTED/BURNED UP.  I HAVE NO FUNCTIONING HEADLIGHT ON THE RIGHT SIDE, THOUGH THE TURN SIGNAL STILL WORKS.  ",
+      "pct": 22
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I DONT OWN A 2017 MINI CLUBMAN, BUT WAS DRIVING BEHIND ONE ON THE INTERSTATE. I ENDED UP ALMOST REAR ENDING THE CLUBMAN WHEN TRAFFIC CAME TO A SUDDEN STOP BECAUSE THE BRAKE LIGHTS ARE THE SMALL LIGHTS ON THE BUMPER THAT CAN BE EASILY CONFUSED AS REAR FOG LIGHTS/REFLECTORS INSTEAD",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Odometer Fraud. The contact purchased a 2017 Mini Clubman. The contact stated that upon taking the vehicle to the dealer for servicing, the dealer informed the contact that based on the Carfax history report, there was a mileage discrepancy; however, the contact did not have the ",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I went into HGreg Nissan of Buena Park/Nissan of Buena Park on  [XXX] to look at a car. When I got there, I asked to see the car that they had advertised. Once I signed the necessary paperwork, purchased a bumper-to-bumper warranty as told by the salesperson. I was also told that",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Mini Clubman owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Power Train (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car has a warning light \"secure car against rolling\" at first I thought it was a reminder to set the parking brake.  The next warning light was \"service required\" - I just bought this 2017 Mini Clubman two weeks ago so I took it to the mini dealer service center.  The motor m",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "6 reports (26%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A MELTED SOCKET AND EXPOSED WIRE FOR MY RIGHT HEADLIGHT BULB (HIGH/LOW BEAM MALFUNCTION ERROR).  THE WHOLE HEADLIGHT IS CLOUDY WHICH I ASSUME IS FROM WHEN THE SOCKET MELTED/BURNED UP.  I HAVE NO FUNCTIONING HEADLIGHT ON THE RIGHT SIDE, THOUGH THE TURN SIGNAL STILL WORKS.  ",
+        "pct": 22,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (22%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I DONT OWN A 2017 MINI CLUBMAN, BUT WAS DRIVING BEHIND ONE ON THE INTERSTATE. I ENDED UP ALMOST REAR ENDING THE CLUBMAN WHEN TRAFFIC CAME TO A SUDDEN STOP BECAUSE THE BRAKE LIGHTS ARE THE SMALL LIGHTS ON THE BUMPER THAT CAN BE EASILY CONFUSED AS REAR FOG LIGHTS/REFLECTORS INSTEAD",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "3 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Odometer Fraud. The contact purchased a 2017 Mini Clubman. The contact stated that upon taking the vehicle to the dealer for servicing, the dealer informed the contact that based on the Carfax history report, there was a mileage discrepancy; however, the contact did not have the ",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I went into HGreg Nissan of Buena Park/Nissan of Buena Park on  [XXX] to look at a car. When I got there, I asked to see the car that they had advertised. Once I signed the necessary paperwork, purchased a bumper-to-bumper warranty as told by the salesperson. I was also told that",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "2 reports (9%) · 1 fire"
+      }
+    ]
+  }
+}

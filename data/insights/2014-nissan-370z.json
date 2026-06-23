@@ -1,0 +1,106 @@
+{
+  "slug": "2014-nissan-370z",
+  "make": "Nissan",
+  "model": "370Z",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/NISSAN/370Z#complaints",
+  "generatedAt": "2026-06-23T16:39:04.822Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS INCIDENT OCCURRED AT A BUSY INTERSECTION DURING HEAVY TRAFFIC.   MANUAL TRANSMISSION  SUNNY, AIR TEMP APPROX 75 F.  THE VEHICLE HAD BEEN DRIVEN APPOX 0.25 MILES  & 2 MINUTES IMMEDIATELY PRIOR TO EVENT AND PARKED FOR THE PREVIOUS 4 HOURS.    DRIVER PARTIALLY ENGAGED THE CLUTC",
+      "pct": 80
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my 2014 Nissan 370Z with only around 43,000 miles, the car suddenly made a loud bang in the rear area and then would not shift normally in automatic mode while I was on the highway with my child in the car. When I inspected the underside afterward, there were no flu",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE PASSENGER SIDE AIRBAG WILL NOT OPERATE WHEN THE PASSENGER IN THE VEHICLE IS LESS THAN 130 POUNDS.  I HAVE SPOKEN WITH MY LOCAL NISSAN DEALERSHIP AND WITH A DIRECT EMPLOYEE OF NISSAN AND HAVE BEEN TOLD THAT IT IS BECAUSE OF THE WEIGHT AND BODY STRUCTURE OF THE PASSENGER.  WHEN",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 NISSAN 370Z. WHILE DRIVING 20 MPH, THE CHECK ENGINE INDICATOR ILLUMINATED AND THE VEHICLE STALLED.  THE CONTACT TURNED OFF AND RESTARTED THE VEHICLE; HOWEVER, WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO ACCELERATE OVER 5 MPH. THE DE",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Nissan 370z owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (80% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS INCIDENT OCCURRED AT A BUSY INTERSECTION DURING HEAVY TRAFFIC.   MANUAL TRANSMISSION  SUNNY, AIR TEMP APPROX 75 F.  THE VEHICLE HAD BEEN DRIVEN APPOX 0.25 MILES  & 2 MINUTES IMMEDIATELY PRIOR TO EVENT AND PARKED FOR THE PREVIOUS 4 HOURS.    DRIVER PARTIALLY ENGAGED THE CLUTC",
+        "pct": 80,
+        "title": "Power Train",
+        "blurb": "8 reports (80%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my 2014 Nissan 370Z with only around 43,000 miles, the car suddenly made a loud bang in the rear area and then would not shift normally in automatic mode while I was on the highway with my child in the car. When I inspected the underside afterward, there were no flu",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE PASSENGER SIDE AIRBAG WILL NOT OPERATE WHEN THE PASSENGER IN THE VEHICLE IS LESS THAN 130 POUNDS.  I HAVE SPOKEN WITH MY LOCAL NISSAN DEALERSHIP AND WITH A DIRECT EMPLOYEE OF NISSAN AND HAVE BEEN TOLD THAT IT IS BECAUSE OF THE WEIGHT AND BODY STRUCTURE OF THE PASSENGER.  WHEN",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 NISSAN 370Z. WHILE DRIVING 20 MPH, THE CHECK ENGINE INDICATOR ILLUMINATED AND THE VEHICLE STALLED.  THE CONTACT TURNED OFF AND RESTARTED THE VEHICLE; HOWEVER, WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO ACCELERATE OVER 5 MPH. THE DE",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

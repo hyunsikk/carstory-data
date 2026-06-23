@@ -1,0 +1,128 @@
+{
+  "slug": "2016-ford-transit",
+  "make": "Ford",
+  "model": "Transit",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/FORD/TRANSIT#complaints",
+  "generatedAt": "2026-06-23T16:30:54.122Z",
+  "total": 148,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 59,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 1,
+      "sample": "FLEX COUPLING BETWEEN TRANSMISSION AND DRIVE SHAFT ROUTINELY FAILS BETWEEN 30,000 - 35,000 MILES.  THIS CAN CREATE A DANGEROUS SITUATION WHERE THE DRIVE SHAFT COULD BE FORCED INTO THE PASSENGER COMPARTMENT WHEN IT COMES INTO CONTACT WITH THE ROAD.  ADDITIONALLY, THE FAILURE OF TH",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE VEHICLE WILL STOP ACCEPTING ACCELERATOR COMMANDS RANDOMLY. IT WILL REFUSE TO ACCELERATE WHEN THE ACCELERATOR IS DEPRESSED. THERE HAVE BEEN 4 OF THESE VEHICLES IN OUR FLEET DO THIS. FORD IS AWARE OF THE PROBLEM BUT REFUSES TO DO ANYTHING ABOUT IT TO ACCOMMODATE THE DRIVERS EVE",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FORD TRANSIT IS DESIGNED TO ALLOW THE IGNITION KEY TO BE TURNED OFF WHILE IT'S IN ANY GEAR INCLUDING WHILE IT'S IN DRIVE ON THE HIGHWAY. TURNING THIS KEY WHILE ON THE HIGHWAY WILL CAUSE THE POWER STEERING TO GO OUT CAUSING A DANGEROUS SITUATION FOR THE DRIVER. MY VAN HAS TURNED I",
+      "pct": 8
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 12,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 FORD TRANSIT. THE CONTACT STATED THAT THE BACK UP CAMERA FAILED TO PROVIDE THE APPROPRIATE VISIBILITY CLEARANCE. THE CONTACT EXPERIENCED A FAILURE FOR WHICH THE CAMERA DID NOT PROVIDE ADEQUATE VISIBILITY AND THE VEHICLE DID NOT CLEAR A LOCATION, WHICH ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 2,
+      "sample": "TL* THE CONTACT OWNED A 2016 FORD TRANSIT. WHILE DRIVING APPROXIMATELY 15 MPH, THE CONTACT HEARD A BANGING SOUND AND THE VEHICLE PULLED TO THE RIGHT. THE CONTACT HAD TO FORCE THE VEHICLE TO THE LEFT TO AVOID STRIKING TWO PARKED VEHICLES. THE VEHICLE TRAVELED APPROXIMATELY 60 YARD",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Ford Transit owners report most",
+    "summary": "Across 148 owner complaints to NHTSA, the most reported area is Power Train (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 59,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 1,
+        "sample": "FLEX COUPLING BETWEEN TRANSMISSION AND DRIVE SHAFT ROUTINELY FAILS BETWEEN 30,000 - 35,000 MILES.  THIS CAN CREATE A DANGEROUS SITUATION WHERE THE DRIVE SHAFT COULD BE FORCED INTO THE PASSENGER COMPARTMENT WHEN IT COMES INTO CONTACT WITH THE ROAD.  ADDITIONALLY, THE FAILURE OF TH",
+        "pct": 40,
+        "title": "Power Train",
+        "blurb": "59 reports (40%) · 1 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE VEHICLE WILL STOP ACCEPTING ACCELERATOR COMMANDS RANDOMLY. IT WILL REFUSE TO ACCELERATE WHEN THE ACCELERATOR IS DEPRESSED. THERE HAVE BEEN 4 OF THESE VEHICLES IN OUR FLEET DO THIS. FORD IS AWARE OF THE PROBLEM BUT REFUSES TO DO ANYTHING ABOUT IT TO ACCOMMODATE THE DRIVERS EVE",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "20 reports (14%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FORD TRANSIT IS DESIGNED TO ALLOW THE IGNITION KEY TO BE TURNED OFF WHILE IT'S IN ANY GEAR INCLUDING WHILE IT'S IN DRIVE ON THE HIGHWAY. TURNING THIS KEY WHILE ON THE HIGHWAY WILL CAUSE THE POWER STEERING TO GO OUT CAUSING A DANGEROUS SITUATION FOR THE DRIVER. MY VAN HAS TURNED I",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "12 reports (8%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 12,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 FORD TRANSIT. THE CONTACT STATED THAT THE BACK UP CAMERA FAILED TO PROVIDE THE APPROPRIATE VISIBILITY CLEARANCE. THE CONTACT EXPERIENCED A FAILURE FOR WHICH THE CAMERA DID NOT PROVIDE ADEQUATE VISIBILITY AND THE VEHICLE DID NOT CLEAR A LOCATION, WHICH ",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "12 reports (8%) · 1 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 2,
+        "sample": "TL* THE CONTACT OWNED A 2016 FORD TRANSIT. WHILE DRIVING APPROXIMATELY 15 MPH, THE CONTACT HEARD A BANGING SOUND AND THE VEHICLE PULLED TO THE RIGHT. THE CONTACT HAD TO FORCE THE VEHICLE TO THE LEFT TO AVOID STRIKING TWO PARKED VEHICLES. THE VEHICLE TRAVELED APPROXIMATELY 60 YARD",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "11 reports (7%) · 2 crash"
+      }
+    ]
+  }
+}

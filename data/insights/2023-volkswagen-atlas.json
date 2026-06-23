@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-atlas",
+  "make": "Volkswagen",
+  "model": "Atlas",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/ATLAS#complaints",
+  "generatedAt": "2026-06-23T16:41:44.365Z",
+  "total": 112,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving down the road at about 50 mph, the vehicle engine shut off. The vehicle lost all power to the engine, dash board, and steering. The vehicle was unable to be moved as it could not be shifted into neutral so as to push it out of the roadway. After approximately 30 min",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving down the road at about 50 mph, the vehicle engine shut off. The vehicle lost all power to the engine, dash board, and steering. The vehicle was unable to be moved as it could not be shifted into neutral so as to push it out of the roadway. After approximately 30 min",
+      "pct": 21
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The Airbag warning light turns on/off at random times while operating vehicle. Sometimes the light remains on until the vehicle is restarted. During the events, only the driver was in the vehicle and nothing was on top of the passenger seats.  There is also a pop-up Airbag messag",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased brand new 2023 Atlas Premium R line. First few weeks noticed exposed wires above pedals under steering wheel area, A/C not blowing cold air and touchscreen glitches. Took back to dealer March 2-18. They put a panel over exposed wires factory forgot. They also said they ",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I'm emailing due to issues with my 2023 Cross Sport I purchased. It's a dire situation, as I had issues with my 2021 Cross Sport and VW ended up repurchasing the vehicle from me due a number of safety concerns. During my search for a new vehicle, I could not find anything that I ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Atlas owners report most",
+    "summary": "Across 112 owner complaints to NHTSA, the most reported area is Engine (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving down the road at about 50 mph, the vehicle engine shut off. The vehicle lost all power to the engine, dash board, and steering. The vehicle was unable to be moved as it could not be shifted into neutral so as to push it out of the roadway. After approximately 30 min",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "31 reports (28%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving down the road at about 50 mph, the vehicle engine shut off. The vehicle lost all power to the engine, dash board, and steering. The vehicle was unable to be moved as it could not be shifted into neutral so as to push it out of the roadway. After approximately 30 min",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "24 reports (21%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The Airbag warning light turns on/off at random times while operating vehicle. Sometimes the light remains on until the vehicle is restarted. During the events, only the driver was in the vehicle and nothing was on top of the passenger seats.  There is also a pop-up Airbag messag",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "22 reports (20%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased brand new 2023 Atlas Premium R line. First few weeks noticed exposed wires above pedals under steering wheel area, A/C not blowing cold air and touchscreen glitches. Took back to dealer March 2-18. They put a panel over exposed wires factory forgot. They also said they ",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "14 reports (13%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I'm emailing due to issues with my 2023 Cross Sport I purchased. It's a dire situation, as I had issues with my 2021 Cross Sport and VW ended up repurchasing the vehicle from me due a number of safety concerns. During my search for a new vehicle, I could not find anything that I ",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (9%)"
+      }
+    ]
+  }
+}

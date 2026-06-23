@@ -1,0 +1,40 @@
+{
+  "slug": "2020-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/M5#complaints",
+  "generatedAt": "2026-06-23T16:26:50.045Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Coolant expansion tank is leaking on fuel injectors, coils and plugs on engine below causing ‘drivetrain malfunction’ which puts vehicle into Limp Mode. Car can begin to shudder, misfire and stall.  BMW has an SIB on the expansion tank, but has done nothing to address the compone",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw M5 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Coolant expansion tank is leaking on fuel injectors, coils and plugs on engine below causing ‘drivetrain malfunction’ which puts vehicle into Limp Mode. Car can begin to shudder, misfire and stall.  BMW has an SIB on the expansion tank, but has done nothing to address the compone",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

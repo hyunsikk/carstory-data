@@ -1,0 +1,106 @@
+{
+  "slug": "2024-mercedes-benz-glb",
+  "make": "Mercedes-Benz",
+  "model": "GLB",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/GLB#complaints",
+  "generatedAt": "2026-06-23T16:38:33.454Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Every time I start my new Mercedes, the backup camera MUST recalibrate itself even if I never put the vehicle in reverse and am driving forward.  This happens throughout the entire drive, every single time.  The Mercedes forums all corroborate this as other models; not just the G",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Exhaust temperature sensor or harness messed up by 8k miles just bought car with only 2k miles already in the shop 2 times",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. Transmission Problem     Vehicle Rolls backwards when the gear / transmission is in \"Drive\".  It happens in these two situations: a) I am stopped at a Traffic Light which is Red. The road is at a moderate upward incline. When the Light turns Green, and I move my foot from the ",
+      "pct": 25
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Every time I start my new Mercedes, the backup camera MUST recalibrate itself even if I never put the vehicle in reverse and am driving forward.  This happens throughout the entire drive, every single time.  The Mercedes forums all corroborate this as other models; not just the G",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Glb owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Every time I start my new Mercedes, the backup camera MUST recalibrate itself even if I never put the vehicle in reverse and am driving forward.  This happens throughout the entire drive, every single time.  The Mercedes forums all corroborate this as other models; not just the G",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Exhaust temperature sensor or harness messed up by 8k miles just bought car with only 2k miles already in the shop 2 times",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. Transmission Problem     Vehicle Rolls backwards when the gear / transmission is in \"Drive\".  It happens in these two situations: a) I am stopped at a Traffic Light which is Red. The road is at a moderate upward incline. When the Light turns Green, and I move my foot from the ",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Every time I start my new Mercedes, the backup camera MUST recalibrate itself even if I never put the vehicle in reverse and am driving forward.  This happens throughout the entire drive, every single time.  The Mercedes forums all corroborate this as other models; not just the G",
+        "pct": 25,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

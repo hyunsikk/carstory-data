@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-grand-highlander",
+  "make": "Toyota",
+  "model": "Grand Highlander",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/GRAND%20HIGHLANDER#complaints",
+  "generatedAt": "2026-06-23T16:45:45.218Z",
+  "total": 192,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 38,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Very loud Popping/clicking noises when turning/accelerating from a stop. Only had 2,162 miles on the vehicle when this happened. While driving, it also felt like my front driver side wheel was wobbling-very unsafe. Called Toyota roadside assistance and had car towed to dealership",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 29,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "There has been a recall impacting the safety of driving this vehicle (air bag related) and the dealer and manufacturer have provided no ETA on when there will be a fix for this or when the vehicle will be safe again to transport our children. In our view we should be refunded in ",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our vehicle loses power after initial startup when you first accelerate. We have had three incidents where we were pulling out from a stop sign or stoplight on a major road and you press the gas and the car shutters and doesn’t move at all. All three times a car accident almost o",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Myself and all Grand Highlander owners of the new version that just came out in 2024, we have the same fuel issue. The car is only registering half a tank of gas. If you go to the grand Highlander forum every driver is reporting the exact same issue over the last three months tha",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Toyota provides the ability to use a phone for a key. Only one key was provided due to chip shortages. My phone has been registered as a key. I left my home with only my phone. Upon coming out of the store my phone would not open the door after trying numerous fixes including cal",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Grand Highlander owners report most",
+    "summary": "Across 192 owner complaints to NHTSA, the most reported area is Power Train (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 38,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Very loud Popping/clicking noises when turning/accelerating from a stop. Only had 2,162 miles on the vehicle when this happened. While driving, it also felt like my front driver side wheel was wobbling-very unsafe. Called Toyota roadside assistance and had car towed to dealership",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "38 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 29,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "There has been a recall impacting the safety of driving this vehicle (air bag related) and the dealer and manufacturer have provided no ETA on when there will be a fix for this or when the vehicle will be safe again to transport our children. In our view we should be refunded in ",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "29 reports (15%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our vehicle loses power after initial startup when you first accelerate. We have had three incidents where we were pulling out from a stop sign or stoplight on a major road and you press the gas and the car shutters and doesn’t move at all. All three times a car accident almost o",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "28 reports (15%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Myself and all Grand Highlander owners of the new version that just came out in 2024, we have the same fuel issue. The car is only registering half a tank of gas. If you go to the grand Highlander forum every driver is reporting the exact same issue over the last three months tha",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "23 reports (12%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Toyota provides the ability to use a phone for a key. Only one key was provided due to chip shortages. My phone has been registered as a key. I left my home with only my phone. Upon coming out of the store my phone would not open the door after trying numerous fixes including cal",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "21 reports (11%)"
+      }
+    ]
+  }
+}

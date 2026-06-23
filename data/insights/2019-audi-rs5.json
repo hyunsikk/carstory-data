@@ -1,0 +1,62 @@
+{
+  "slug": "2019-audi-rs5",
+  "make": "Audi",
+  "model": "RS5",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/RS5#complaints",
+  "generatedAt": "2026-06-23T16:43:31.538Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Could you please make Audi add my car to the recall list? Thank you- Audi has issued a recall for certain models due to a software issue affecting the Emergency Call (SOS) system. This malfunction can prevent the system from establishing an online connection and receiving cell br",
+      "pct": 67
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My husband and son were driving down the road and the sunroof exploded causing glass shards to go everywhere. Temp was 43 degree. According to my husband, it sounded like a bomb went off. Both my husband and son were covered in glass. We had to pull small glass pieces from my son",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi Rs5 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Could you please make Audi add my car to the recall list? Thank you- Audi has issued a recall for certain models due to a software issue affecting the Emergency Call (SOS) system. This malfunction can prevent the system from establishing an online connection and receiving cell br",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My husband and son were driving down the road and the sunroof exploded causing glass shards to go everywhere. Temp was 43 degree. According to my husband, it sounded like a bomb went off. Both my husband and son were covered in glass. We had to pull small glass pieces from my son",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

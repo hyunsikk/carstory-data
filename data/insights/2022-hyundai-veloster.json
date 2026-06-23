@@ -1,0 +1,62 @@
+{
+  "slug": "2022-hyundai-veloster",
+  "make": "Hyundai",
+  "model": "Veloster",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/VELOSTER#complaints",
+  "generatedAt": "2026-06-23T16:34:29.534Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "LANE DEPARTURE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car ships with \"summer\" tires that cannot be used when it is cold.  I replaced the tires with GOODYEAR EAGLE EXHILARATE 235 /35 R19 91Y XL VSB.  After the change the Blind Spot Warning sensors continuously false trigger (both driver and passenger side).  I contacted the deale",
+      "pct": 89
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DCT transmission failed to shift out of first gear, engine over rev light came on (white, yellow, RED - 7000 RPM!).  Got it off the road.  Car did it 3 times on the 50 mile trip.  Had it towed to dealer, Thomas Hyundai in Cumberland, Md.  They said they couldn't duplicate it, car",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Hyundai Veloster owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Lane Departure (89% of reports).",
+    "issues": [
+      {
+        "component": "LANE DEPARTURE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car ships with \"summer\" tires that cannot be used when it is cold.  I replaced the tires with GOODYEAR EAGLE EXHILARATE 235 /35 R19 91Y XL VSB.  After the change the Blind Spot Warning sensors continuously false trigger (both driver and passenger side).  I contacted the deale",
+        "pct": 89,
+        "title": "Lane Departure",
+        "blurb": "8 reports (89%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DCT transmission failed to shift out of first gear, engine over rev light came on (white, yellow, RED - 7000 RPM!).  Got it off the road.  Car did it 3 times on the 50 mile trip.  Had it towed to dealer, Thomas Hyundai in Cumberland, Md.  They said they couldn't duplicate it, car",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

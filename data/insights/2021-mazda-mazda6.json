@@ -1,0 +1,106 @@
+{
+  "slug": "2021-mazda-mazda6",
+  "make": "Mazda",
+  "model": "Mazda6",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MAZDA/MAZDA6#complaints",
+  "generatedAt": "2026-06-23T16:38:09.152Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issue I am experiencing is one that many are in regards to the oil consumption. My check oil light came on prematurely in regards to the recommended scheduling for these sorts of vehicles, at around 3500 miles approximately. This is a vehicle that experienced this issue under",
+      "pct": 76
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Visibility/safety issue with OEM Mazda windshields. Objects appear highly distorted from all angles, making it hard to judge distance, read road signs, and drive safely without a disorienting level of distraction occurring at all times. Some objects appear magnified while others ",
+      "pct": 12
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Infotainment system malfunctions. The rear view camera freezes, not with the current conditions but a still picture of a street I do not recognize. This puts not only myself at risk for an accident but those of others as well. This malfunction has been taken into the dealersh",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Oil Consumption Defect. I bought car on  7/10/21. Mazda aware of the problem at the time  and still sold me the car. Since then I have had to add oil in between oil changes. Mazda states problem cannot be fixed.  My car vin # included with defected cars. My Limited New Car Warran",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mazda Mazda6 owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Engine (76% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issue I am experiencing is one that many are in regards to the oil consumption. My check oil light came on prematurely in regards to the recommended scheduling for these sorts of vehicles, at around 3500 miles approximately. This is a vehicle that experienced this issue under",
+        "pct": 76,
+        "title": "Engine",
+        "blurb": "13 reports (76%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Visibility/safety issue with OEM Mazda windshields. Objects appear highly distorted from all angles, making it hard to judge distance, read road signs, and drive safely without a disorienting level of distraction occurring at all times. Some objects appear magnified while others ",
+        "pct": 12,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Infotainment system malfunctions. The rear view camera freezes, not with the current conditions but a still picture of a street I do not recognize. This puts not only myself at risk for an accident but those of others as well. This malfunction has been taken into the dealersh",
+        "pct": 6,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Oil Consumption Defect. I bought car on  7/10/21. Mazda aware of the problem at the time  and still sold me the car. Since then I have had to add oil in between oil changes. Mazda states problem cannot be fixed.  My car vin # included with defected cars. My Limited New Car Warran",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

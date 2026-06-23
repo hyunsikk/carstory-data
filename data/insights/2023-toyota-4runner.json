@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-4runner",
+  "make": "Toyota",
+  "model": "4Runner",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/4RUNNER#complaints",
+  "generatedAt": "2026-06-23T16:41:10.425Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Toyota 4Runner equipped with Nitto Tires, Tire Line: Ridge Grappler, Tire Size: 265/70/R17, DOT Number: 737079K4222. The contact stated while driving 58 MPH, the steering wheel was vibrating. The vehicle was taken to the dealer, where it was determined tha",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When using the low beams, there is a distinctive shadow or blotch that is evident on the driver's side only in the 2023 4 Runner Limited.  I understand from others that it is due to the LED anti glare technology mandated to be used by the government.  This shadow or blotch is NOT",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2023 Toyota 4Runner. The contact stated that while the husband was driving approximately 35 MPH, the brake pedal was depressed but the pedal became stiff and did not slow down as intended. As a result, the contact collided with two vehicles. The air bags deplo",
+      "pct": 7
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On [XXX] while driving approximately 60 mph on a straight smooth highway only about 4 miles from my home my 4 Runner started violently shaking. The whole vehicle was shaking like the wheels were going to fall off. The steering wheel was shaking and I was shaking due to the amount",
+      "pct": 7
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "On 2/21/2023, my parents jumped into the backseat of my parked car and began putting on their seatbelts. They were met with resistance and were unable to retract their seatbelts. This was very arcane because I seldom have any backseat passengers and I don't load any heavy cargo i",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota 4runner owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Tires (10% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Toyota 4Runner equipped with Nitto Tires, Tire Line: Ridge Grappler, Tire Size: 265/70/R17, DOT Number: 737079K4222. The contact stated while driving 58 MPH, the steering wheel was vibrating. The vehicle was taken to the dealer, where it was determined tha",
+        "pct": 10,
+        "title": "Tires",
+        "blurb": "3 reports (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When using the low beams, there is a distinctive shadow or blotch that is evident on the driver's side only in the 2023 4 Runner Limited.  I understand from others that it is due to the LED anti glare technology mandated to be used by the government.  This shadow or blotch is NOT",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "3 reports (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2023 Toyota 4Runner. The contact stated that while the husband was driving approximately 35 MPH, the brake pedal was depressed but the pedal became stiff and did not slow down as intended. As a result, the contact collided with two vehicles. The air bags deplo",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "2 reports (7%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On [XXX] while driving approximately 60 mph on a straight smooth highway only about 4 miles from my home my 4 Runner started violently shaking. The whole vehicle was shaking like the wheels were going to fall off. The steering wheel was shaking and I was shaking due to the amount",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "On 2/21/2023, my parents jumped into the backseat of my parked car and began putting on their seatbelts. They were met with resistance and were unable to retract their seatbelts. This was very arcane because I seldom have any backseat passengers and I don't load any heavy cargo i",
+        "pct": 7,
+        "title": "Seat Belts",
+        "blurb": "2 reports (7%) · 1 fire · 1 crash · 4 injured"
+      }
+    ]
+  }
+}

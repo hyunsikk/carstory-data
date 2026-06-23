@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-palisade",
+  "make": "Hyundai",
+  "model": "Palisade",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/PALISADE#complaints",
+  "generatedAt": "2026-06-23T16:33:50.595Z",
+  "total": 376,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 81,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine shut off suddenly while driving 3x times in 17 days of ownership, brand new car. It happened leaving the highway (decreasing speed around 40-55mph) and the brake doesn't work properly when it happens (makes it hard to break and then suddenly brake at once). I was happy",
+      "pct": 22
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 63,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Hyundai Palisade. The contact stated that while occupying the front passenger's seat and buckling the seat belt, the seat unbuckled independently. The contact stated that the failure had been recurring. The dealer and the manufacturer were not notified of ",
+      "pct": 17
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 53,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Both rear side windows have a significant haze/cloudiness that is unable to be removed despite heavy cleaning. It appears that the acoustic laminate layer within the glass is hazy, impeding the driver’s view when the sun hit the glass causing difficulty seeing other traffic or ob",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I purchased this vehicle on 9/17 and since day 1 the infotainment system will not turn on when starting the car.  It has a digital instrument display and infotainment which control 90% of the vehicle functions.  I have opened a case with Hyundai # 20328505 who took 2 weeks t call",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car would not accelerate when the gas pedal was pushed. It was in snow mode and we had to switch modes to make it go. My wipers also stopped working when snow and ice collected at the base. We had to remove all of the snow and ice before they would work. It was actively snowin",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Palisade owners report most",
+    "summary": "Across 376 owner complaints to NHTSA, the most reported area is Service Brakes (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 81,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine shut off suddenly while driving 3x times in 17 days of ownership, brand new car. It happened leaving the highway (decreasing speed around 40-55mph) and the brake doesn't work properly when it happens (makes it hard to break and then suddenly brake at once). I was happy",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "81 reports (22%) · 3 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 63,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Hyundai Palisade. The contact stated that while occupying the front passenger's seat and buckling the seat belt, the seat unbuckled independently. The contact stated that the failure had been recurring. The dealer and the manufacturer were not notified of ",
+        "pct": 17,
+        "title": "Seat Belts",
+        "blurb": "63 reports (17%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 53,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Both rear side windows have a significant haze/cloudiness that is unable to be removed despite heavy cleaning. It appears that the acoustic laminate layer within the glass is hazy, impeding the driver’s view when the sun hit the glass causing difficulty seeing other traffic or ob",
+        "pct": 14,
+        "title": "Visibility/Wiper",
+        "blurb": "53 reports (14%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I purchased this vehicle on 9/17 and since day 1 the infotainment system will not turn on when starting the car.  It has a digital instrument display and infotainment which control 90% of the vehicle functions.  I have opened a case with Hyundai # 20328505 who took 2 weeks t call",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "35 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car would not accelerate when the gas pedal was pushed. It was in snow mode and we had to switch modes to make it go. My wipers also stopped working when snow and ice collected at the base. We had to remove all of the snow and ice before they would work. It was actively snowin",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "34 reports (9%)"
+      }
+    ]
+  }
+}

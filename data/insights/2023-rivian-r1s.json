@@ -1,0 +1,128 @@
+{
+  "slug": "2023-rivian-r1s",
+  "make": "Rivian",
+  "model": "R1S",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/RIVIAN/R1S#complaints",
+  "generatedAt": "2026-06-23T16:40:28.756Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the passenger seat is occupied, we intermittently get a message that the airbag is off (and the heating/ac controls for the passenger side go away).  This occurred when the seat was occupied by two of my sons (one 6'1\", 145 lbs and the other 5'9\" and 155 lbs).  We took the c",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RIVIAN CHANGED THE HORN AND NO ONE CAN HEAR ME.  [XXX]   Watch this video to understand. Rivian tells me there is nothing to fix because this is the new cost cutting design. Recall these ASAP   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B",
+      "pct": 21
+    },
+    {
+      "component": "SEATS",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the passenger seat is occupied, we intermittently get a message that the airbag is off (and the heating/ac controls for the passenger side go away).  This occurred when the seat was occupied by two of my sons (one 6'1\", 145 lbs and the other 5'9\" and 155 lbs).  We took the c",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Stopped at McDonalds drive through waiting to order with my foot on the brake and the vehicle lunged forward rearending the car stopped 5 feet in front of me ordering. I was trying to brake but it kept pushing the car in front of me then careened to the right hitting a sign and a",
+      "pct": 11
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was headed straight but stopped so that I could move into a left turn lane. As I got into the left turn lane and was straightening up behind the person in front of me at almost a dead stop the R1S lunged forward and accelerated at a high rate of speed hitting the car in front o",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Rivian R1s owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Air Bags (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the passenger seat is occupied, we intermittently get a message that the airbag is off (and the heating/ac controls for the passenger side go away).  This occurred when the seat was occupied by two of my sons (one 6'1\", 145 lbs and the other 5'9\" and 155 lbs).  We took the c",
+        "pct": 42,
+        "title": "Air Bags",
+        "blurb": "28 reports (42%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RIVIAN CHANGED THE HORN AND NO ONE CAN HEAR ME.  [XXX]   Watch this video to understand. Rivian tells me there is nothing to fix because this is the new cost cutting design. Recall these ASAP   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "14 reports (21%) · 3 crash"
+      },
+      {
+        "component": "SEATS",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the passenger seat is occupied, we intermittently get a message that the airbag is off (and the heating/ac controls for the passenger side go away).  This occurred when the seat was occupied by two of my sons (one 6'1\", 145 lbs and the other 5'9\" and 155 lbs).  We took the c",
+        "pct": 18,
+        "title": "Seats",
+        "blurb": "12 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Stopped at McDonalds drive through waiting to order with my foot on the brake and the vehicle lunged forward rearending the car stopped 5 feet in front of me ordering. I was trying to brake but it kept pushing the car in front of me then careened to the right hitting a sign and a",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (11%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was headed straight but stopped so that I could move into a left turn lane. As I got into the left turn lane and was straightening up behind the person in front of me at almost a dead stop the R1S lunged forward and accelerated at a high rate of speed hitting the car in front o",
+        "pct": 9,
+        "title": "Seat Belts",
+        "blurb": "6 reports (9%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

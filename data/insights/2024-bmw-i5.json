@@ -1,0 +1,128 @@
+{
+  "slug": "2024-bmw-i5",
+  "make": "BMW",
+  "model": "i5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/I5#complaints",
+  "generatedAt": "2026-06-23T16:44:24.571Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recall of thousands of BMWs starting February 12, 2024. My car was recently included in this with a \"remedy unavailable.\" Spoke to BMW north america, including the recall department, corporate customer service, and multiple local BMW service centers. No remedy available and unkno",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW I5. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonabl",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Make extreme high fan noise during and after super fast charging sessions (Electrify America), overheating issues, unlike all other Evs that do not. Constant clunking sound during and after departing from sessions. Periodic banging sound when parked. Sounds can be observed inside",
+      "pct": 20
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW i5. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic). The contact stated that when the vehicle was started, the \"Driver Restraint System Malfunction\" message was displ",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving east bound on [XXX]  near the [XXX] exit and using the fully automated driving (where I am watching the road to take over if necessary but the vehicle was maintaining speed and steering) I received the following errors: (I symbol error) Reduced driver assistance, (t",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw I5 owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Service Brakes (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recall of thousands of BMWs starting February 12, 2024. My car was recently included in this with a \"remedy unavailable.\" Spoke to BMW north america, including the recall department, corporate customer service, and multiple local BMW service centers. No remedy available and unkno",
+        "pct": 40,
+        "title": "Service Brakes",
+        "blurb": "8 reports (40%) · 1 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW I5. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonabl",
+        "pct": 25,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "5 reports (25%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Make extreme high fan noise during and after super fast charging sessions (Electrify America), overheating issues, unlike all other Evs that do not. Constant clunking sound during and after departing from sessions. Periodic banging sound when parked. Sounds can be observed inside",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "4 reports (20%)"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW i5. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic). The contact stated that when the vehicle was started, the \"Driver Restraint System Malfunction\" message was displ",
+        "pct": 20,
+        "title": "Hydraulic",
+        "blurb": "4 reports (20%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving east bound on [XXX]  near the [XXX] exit and using the fully automated driving (where I am watching the road to take over if necessary but the vehicle was maintaining speed and steering) I received the following errors: (I symbol error) Reduced driver assistance, (t",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (15%) · 1 crash"
+      }
+    ]
+  }
+}

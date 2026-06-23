@@ -1,0 +1,128 @@
+{
+  "slug": "2016-nissan-leaf",
+  "make": "Nissan",
+  "model": "Leaf",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/NISSAN/LEAF#complaints",
+  "generatedAt": "2026-06-23T16:39:19.625Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE APPROACHING AN INTERSECTION IN A BUSY AREA OF SAN DIEGO COUNTY, THE BRAKES FAILED ON MY NISSAN LEAF.  THE BRAKE SHUDDERED UNDER MY FOOT, MUCH LIKE ANTI-LOCK BRAKES DO WHEN THEY'RE ENGAGED.  AFTER I FELT THE SHUDDERING, THE BRAKE PEDAL WENT DOWN BUT THE VEHICLE DID NOT DECEL",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DECEMBER 07, 2016  I BOUGHT NISSAN LEAF 2016 IN JUNE 30, 2016. ON NOVEMBER 29, 2016, IT JUST STOPPED AND NOT GOING IN REVERSE OR FORWARD, JUST STAY ON NEUTRAL AND PARK. IT HAS TWO RECALLS ISSUED BY TRANSPORT CANADA (# 2016179 AN # 2016302). NISSAN CANADA NEVER SEND MY ANY NOTIFIC",
+      "pct": 37
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY BATTERY LOST 2 OF MY 12 RANGE BARS AND NISSAN DOES NOT SEE ANY OF THIS AS AN ISSUE,   OCTOBER 06,  2016 -  110 MILE RANGE  MARCH  04,   2017 -     AUGUST 28,  2017 -  76 MILE RANGE ' 1 BAR LOSS  OCTOBER 23, 2017 -  65 - 72 MILE RANGE ' 2 BAR LOSS    I CAN NO LONGER MAKE MY COM",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car shifted into neutral at highway speeds and would not go back into drive on 3 separate occasions over the past 6 days.  Car is an EV and there was no warning and the battery SOC was 50% or more on all occasions.  Can can be shifted from neutral to park only, not drive or rever",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We were driving the car on a highway (the 405 in Los Angeles) in the midafternoon on December 21.  We were going uphill and in the flow of traffic.  I'd say the speed was about 60-65.  The car was functioning well.  Then, the driver accelerated to pass a car and suddenly the car ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Nissan Leaf owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Service Brakes (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE APPROACHING AN INTERSECTION IN A BUSY AREA OF SAN DIEGO COUNTY, THE BRAKES FAILED ON MY NISSAN LEAF.  THE BRAKE SHUDDERED UNDER MY FOOT, MUCH LIKE ANTI-LOCK BRAKES DO WHEN THEY'RE ENGAGED.  AFTER I FELT THE SHUDDERING, THE BRAKE PEDAL WENT DOWN BUT THE VEHICLE DID NOT DECEL",
+        "pct": 43,
+        "title": "Service Brakes",
+        "blurb": "15 reports (43%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DECEMBER 07, 2016  I BOUGHT NISSAN LEAF 2016 IN JUNE 30, 2016. ON NOVEMBER 29, 2016, IT JUST STOPPED AND NOT GOING IN REVERSE OR FORWARD, JUST STAY ON NEUTRAL AND PARK. IT HAS TWO RECALLS ISSUED BY TRANSPORT CANADA (# 2016179 AN # 2016302). NISSAN CANADA NEVER SEND MY ANY NOTIFIC",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "13 reports (37%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY BATTERY LOST 2 OF MY 12 RANGE BARS AND NISSAN DOES NOT SEE ANY OF THIS AS AN ISSUE,   OCTOBER 06,  2016 -  110 MILE RANGE  MARCH  04,   2017 -     AUGUST 28,  2017 -  76 MILE RANGE ' 1 BAR LOSS  OCTOBER 23, 2017 -  65 - 72 MILE RANGE ' 2 BAR LOSS    I CAN NO LONGER MAKE MY COM",
+        "pct": 23,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (23%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car shifted into neutral at highway speeds and would not go back into drive on 3 separate occasions over the past 6 days.  Car is an EV and there was no warning and the battery SOC was 50% or more on all occasions.  Can can be shifted from neutral to park only, not drive or rever",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "3 reports (9%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We were driving the car on a highway (the 405 in Los Angeles) in the midafternoon on December 21.  We were going uphill and in the flow of traffic.  I'd say the speed was about 60-65.  The car was functioning well.  Then, the driver accelerated to pass a car and suddenly the car ",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

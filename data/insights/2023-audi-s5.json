@@ -1,0 +1,84 @@
+{
+  "slug": "2023-audi-s5",
+  "make": "Audi",
+  "model": "S5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/AUDI/S5#complaints",
+  "generatedAt": "2026-06-23T16:43:08.477Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front driver-side tire experienced a full tire tread separation at highway speeds. It caused minimal damage to the vehicle's rim. No crash, other damage, or injuries occurred.  Tire size 255/35R19 96H XL",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I got into a car accident that a ton of front end damage (the car was totaled) and none of the airbags deployed. I was alone in the car and wearing my seatbelt. I looked and found no noted recalls for the airbags in my specific car.",
+      "pct": 33
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Fuel gauge does not move at all and showed tank was 5/8 full. However, when I was on the freeway, the vehicle stalled because I was out of gas. Luckily, I was on the right lane and therefore was able to pull over to the side without an incident. This is a new vehicle with faulty ",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Audi S5 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Tires (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front driver-side tire experienced a full tire tread separation at highway speeds. It caused minimal damage to the vehicle's rim. No crash, other damage, or injuries occurred.  Tire size 255/35R19 96H XL",
+        "pct": 33,
+        "title": "Tires",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I got into a car accident that a ton of front end damage (the car was totaled) and none of the airbags deployed. I was alone in the car and wearing my seatbelt. I looked and found no noted recalls for the airbags in my specific car.",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "1 report (33%) · 1 crash · 4 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Fuel gauge does not move at all and showed tank was 5/8 full. However, when I was on the freeway, the vehicle stalled because I was out of gas. Luckily, I was on the right lane and therefore was able to pull over to the side without an incident. This is a new vehicle with faulty ",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

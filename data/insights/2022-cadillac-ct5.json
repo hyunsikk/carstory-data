@@ -1,0 +1,128 @@
+{
+  "slug": "2022-cadillac-ct5",
+  "make": "Cadillac",
+  "model": "CT5",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CADILLAC/CT5#complaints",
+  "generatedAt": "2026-06-23T16:27:37.309Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Front driver side door unable to open from the outside.  Faulty door handle pad.   Initially randomly wouldn’t work, would have to press the pressure pad multiple times or press on specific part of the pad.  Eventually, stopped working all together.  It’s a safety issue if unable",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Received message on dashboard 'Service Safety Restraint System'.  Dealership says that airbag needs to be replaced and it is not safe to drive the car.  Manufacture of the car does not have the part and cannot repair the car.  No timeframe on when the car can be repaired was give",
+      "pct": 25
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front wheels are locking up sometimes when either hitting a bump in the road or just out of the blue while driving. The auto braking will engage quickly and then shut off.",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front wheels are locking up sometimes when either hitting a bump in the road or just out of the blue while driving. The auto braking will engage quickly and then shut off.",
+      "pct": 13
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Cadillac Ct5 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Structure (25% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Front driver side door unable to open from the outside.  Faulty door handle pad.   Initially randomly wouldn’t work, would have to press the pressure pad multiple times or press on specific part of the pad.  Eventually, stopped working all together.  It’s a safety issue if unable",
+        "pct": 25,
+        "title": "Structure",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Received message on dashboard 'Service Safety Restraint System'.  Dealership says that airbag needs to be replaced and it is not safe to drive the car.  Manufacture of the car does not have the part and cannot repair the car.  No timeframe on when the car can be repaired was give",
+        "pct": 25,
+        "title": "Air Bags",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front wheels are locking up sometimes when either hitting a bump in the road or just out of the blue while driving. The auto braking will engage quickly and then shut off.",
+        "pct": 13,
+        "title": "Wheels",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front wheels are locking up sometimes when either hitting a bump in the road or just out of the blue while driving. The auto braking will engage quickly and then shut off.",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint",
+        "pct": 13,
+        "title": "Tires",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

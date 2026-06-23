@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-tahoe",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/TAHOE#complaints",
+  "generatedAt": "2026-06-23T16:28:52.585Z",
+  "total": 59,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "[XXX], my Chevy Tahoe engine sized up with a warning light no oil pressure and the engine turned off. I was left stranded on [XXX]  with no cell phone service and no OnStar. Good thing I had my SXS. I was able to travel to work at the mine site where I work and was able to get ce",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was approaching an intersection to make a left turn from a two-way highway with a posted speed limit of 65mph. Another vehicle had approached the same intersection in the other direction and stopped to make a left turn, so both vehicles were making left turns in opposite direct",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brakes system failure message on highway and couldn’t use brakes without standing on them. Once came to a stop in breakdown lane tow driver took us to closest Chevrolet dealer where we were told our vehicle was unsafe to drive and was basically a toboggan. If we weren’t in slow m",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Tahoe. The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My family and I were returning from vacation from Florida to our home state, North Carolina, when our new Tahoe with 5700 miles started to act strangely.  We hit bad traffic leaving Florida so there was plenty of stop and go type maneuvers.  At one point, the vehicle turned itsel",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Tahoe owners report most",
+    "summary": "Across 59 owner complaints to NHTSA, the most reported area is Engine (32% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "[XXX], my Chevy Tahoe engine sized up with a warning light no oil pressure and the engine turned off. I was left stranded on [XXX]  with no cell phone service and no OnStar. Good thing I had my SXS. I was able to travel to work at the mine site where I work and was able to get ce",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "19 reports (32%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was approaching an intersection to make a left turn from a two-way highway with a posted speed limit of 65mph. Another vehicle had approached the same intersection in the other direction and stopped to make a left turn, so both vehicles were making left turns in opposite direct",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "12 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brakes system failure message on highway and couldn’t use brakes without standing on them. Once came to a stop in breakdown lane tow driver took us to closest Chevrolet dealer where we were told our vehicle was unsafe to drive and was basically a toboggan. If we weren’t in slow m",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "10 reports (17%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Tahoe. The contact received notification of NHTSA Campaign Number: 25V274000 (Engine and Engine Cooling); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time",
+        "pct": 15,
+        "title": "Engine And Engine Cooling",
+        "blurb": "9 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My family and I were returning from vacation from Florida to our home state, North Carolina, when our new Tahoe with 5700 miles started to act strangely.  We hit bad traffic leaving Florida so there was plenty of stop and go type maneuvers.  At one point, the vehicle turned itsel",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "7 reports (12%)"
+      }
+    ]
+  }
+}

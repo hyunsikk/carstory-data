@@ -1,0 +1,128 @@
+{
+  "slug": "2020-cadillac-xt4",
+  "make": "Cadillac",
+  "model": "XT4",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CADILLAC/XT4#complaints",
+  "generatedAt": "2026-06-23T16:27:50.856Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CADILLIAC 2019 XT4 WHITE IN COLOR BRAND NEW TIRES AND RIMS ..ENGINE BLEW UP WHILE TRAVELING TO A PARTY WITH MY GIRLFRIENDS OUTTA TOWN.  IT WAS REALLY BAD...BUT WE STILL HAD A GREAT TIME.  WE HAD IT TOWED AT NO EXPENSE BY A GUY WE MET WHILE ON THE INTERSTATE HE HELPED US TO SAFETY",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 CADILLAC XT4. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V588000 (SERVICE BRAKES) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE MANUFACTURER WAS CONTACTED AND A CASE WAS FILED. ADDITIONALLY, THE CONTACT WAS REF",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The recall i have listed below is a safety issue regarding the vehicles inability to properly stop for pedestrians, objects, traffic, backing up due to camera / software failure. This was fixed in 2022 on my car per the recall. everything worked great until it started happening a",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a Cadillac XT4 with 33K miles.  Last week my battery was dead.  As a senior citizen who is a widow it is important that I not be stuck in a situation where I cannot get my car started which is why I am diligent with my maintenance.  After I finally got my car to the dealer",
+      "pct": 13
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Cadillac XT4. The contact stated that while driving at an undisclosed speed, she heard an abnormal popping sound coming from an unknown location. Additionally, there was a screeching sound coming from the brakes. No warning lights were illuminated. The veh",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Cadillac Xt4 owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Engine (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CADILLIAC 2019 XT4 WHITE IN COLOR BRAND NEW TIRES AND RIMS ..ENGINE BLEW UP WHILE TRAVELING TO A PARTY WITH MY GIRLFRIENDS OUTTA TOWN.  IT WAS REALLY BAD...BUT WE STILL HAD A GREAT TIME.  WE HAD IT TOWED AT NO EXPENSE BY A GUY WE MET WHILE ON THE INTERSTATE HE HELPED US TO SAFETY",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "4 reports (25%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 CADILLAC XT4. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V588000 (SERVICE BRAKES) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE MANUFACTURER WAS CONTACTED AND A CASE WAS FILED. ADDITIONALLY, THE CONTACT WAS REF",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "4 reports (25%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The recall i have listed below is a safety issue regarding the vehicles inability to properly stop for pedestrians, objects, traffic, backing up due to camera / software failure. This was fixed in 2022 on my car per the recall. everything worked great until it started happening a",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a Cadillac XT4 with 33K miles.  Last week my battery was dead.  As a senior citizen who is a widow it is important that I not be stuck in a situation where I cannot get my car started which is why I am diligent with my maintenance.  After I finally got my car to the dealer",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Cadillac XT4. The contact stated that while driving at an undisclosed speed, she heard an abnormal popping sound coming from an unknown location. Additionally, there was a screeching sound coming from the brakes. No warning lights were illuminated. The veh",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

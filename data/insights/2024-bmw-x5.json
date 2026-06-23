@@ -1,0 +1,128 @@
+{
+  "slug": "2024-bmw-x5",
+  "make": "BMW",
+  "model": "X5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/X5#complaints",
+  "generatedAt": "2026-06-23T16:27:08.077Z",
+  "total": 140,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 89,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X5. The contact stated that while driving at an undisclosed speed, the vehicle made abnormal sounds while accelerating. Additionally, while the transmission was in reverse (R), the brake pedal was depressed, but the vehicle failed to stop immediately. ",
+      "pct": 64
+    },
+    {
+      "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+      "count": 56,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X5. The contact stated that while driving at an undisclosed speed, the vehicle made abnormal sounds while accelerating. Additionally, while the transmission was in reverse (R), the brake pedal was depressed, but the vehicle failed to stop immediately. ",
+      "pct": 40
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 47,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW X5. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic) however, the part to do the repair was unavailable. The contact stated that the manufacturer exceeded a reasonable",
+      "pct": 34
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BMW of North America is hiding problems with brand new vehicles. Their German website returns at least 2 recall codes for my car and the US website states there are none, yet my car has been in the service department just days after taking delivery until now which is a month late",
+      "pct": 16
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 16,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Driving 75mph on I90 westbound from Spokane to Seattle at about 9 am on 09/24/23, cruise control on with assisted driving. Red alert on screen then car suddenly went from 75 to 20 in a few seconds, pulled over on side and then able to drive again. Luckily, no one was behind when ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw X5 owners report most",
+    "summary": "Across 140 owner complaints to NHTSA, the most reported area is Service Brakes (64% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 89,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X5. The contact stated that while driving at an undisclosed speed, the vehicle made abnormal sounds while accelerating. Additionally, while the transmission was in reverse (R), the brake pedal was depressed, but the vehicle failed to stop immediately. ",
+        "pct": 64,
+        "title": "Service Brakes",
+        "blurb": "89 reports (64%) · 3 crash"
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "count": 56,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X5. The contact stated that while driving at an undisclosed speed, the vehicle made abnormal sounds while accelerating. Additionally, while the transmission was in reverse (R), the brake pedal was depressed, but the vehicle failed to stop immediately. ",
+        "pct": 40,
+        "title": "Electronic Stability Control (Esc)",
+        "blurb": "56 reports (40%) · 2 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 47,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW X5. The contact received notification of NHTSA Campaign Number: 24V104000 (Electronic Stability Control (ESC), Service Brakes, Hydraulic) however, the part to do the repair was unavailable. The contact stated that the manufacturer exceeded a reasonable",
+        "pct": 34,
+        "title": "Hydraulic",
+        "blurb": "47 reports (34%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BMW of North America is hiding problems with brand new vehicles. Their German website returns at least 2 recall codes for my car and the US website states there are none, yet my car has been in the service department just days after taking delivery until now which is a month late",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "22 reports (16%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 16,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Driving 75mph on I90 westbound from Spokane to Seattle at about 9 am on 09/24/23, cruise control on with assisted driving. Red alert on screen then car suddenly went from 75 to 20 in a few seconds, pulled over on side and then able to drive again. Luckily, no one was behind when ",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "16 reports (11%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

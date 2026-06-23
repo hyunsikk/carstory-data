@@ -1,0 +1,128 @@
+{
+  "slug": "2024-acura-integra",
+  "make": "Acura",
+  "model": "Integra",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/ACURA/INTEGRA#complaints",
+  "generatedAt": "2026-06-23T16:24:48.719Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 51,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving 65+ MPH on the highway the vehicle begins to glide. Left or right. It is hard to bring back into center. I noticed it when I get the car two months ago but it is getting worse to the point I’m uncomfortable driving it. I have noticed I am not the only one with this c",
+      "pct": 84
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving in the left lane of a divided highway, using the  adaptive cruise control while passing another vehicle in the right lane. The collision warning light came on, and the brakes were automatically applied. The road was straight, and the car I was passing was the only c",
+      "pct": 3
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Horrible sound coming from wheels even on smooth road surfaces at speeds higher than 50. Coulb be bearings.  The sound has been increasing lately",
+      "pct": 2
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Coolant overflow reservoir leaks",
+      "pct": 2
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When in REVERSE the passenger mirror dips to give a better view of the curb.  Once the vehicle is taken out of REVERSE the mirror does not return to the original position.  I have had the vehicle in the dealership and they say they cannot reproduce the error.  I have brought it i",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Acura Integra owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Steering (84% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 51,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving 65+ MPH on the highway the vehicle begins to glide. Left or right. It is hard to bring back into center. I noticed it when I get the car two months ago but it is getting worse to the point I’m uncomfortable driving it. I have noticed I am not the only one with this c",
+        "pct": 84,
+        "title": "Steering",
+        "blurb": "51 reports (84%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving in the left lane of a divided highway, using the  adaptive cruise control while passing another vehicle in the right lane. The collision warning light came on, and the brakes were automatically applied. The road was straight, and the car I was passing was the only c",
+        "pct": 3,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (3%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Horrible sound coming from wheels even on smooth road surfaces at speeds higher than 50. Coulb be bearings.  The sound has been increasing lately",
+        "pct": 2,
+        "title": "Wheels",
+        "blurb": "1 report (2%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Coolant overflow reservoir leaks",
+        "pct": 2,
+        "title": "Engine",
+        "blurb": "1 report (2%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When in REVERSE the passenger mirror dips to give a better view of the curb.  Once the vehicle is taken out of REVERSE the mirror does not return to the original position.  I have had the vehicle in the dealership and they say they cannot reproduce the error.  I have brought it i",
+        "pct": 2,
+        "title": "Visibility",
+        "blurb": "1 report (2%)"
+      }
+    ]
+  }
+}

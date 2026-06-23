@@ -1,0 +1,84 @@
+{
+  "slug": "2020-audi-a8",
+  "make": "Audi",
+  "model": "A8",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/A8#complaints",
+  "generatedAt": "2026-06-23T16:25:36.948Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "8/23/2021-I was slowing down at a red light and getting ready to stop but the light turned green and so high pushed on the gas to go before I got to a full stop. The battery warning light came on so I turned around to go back home can you swap cars. My fiancé had to go to work th",
+      "pct": 67
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Audi 2020 A8L Engine Fire 3/6/2024 Confirmed by Fire Department, American Family Insurance Unclear if it has been inspected by the Audi U.S. No indication has been received. Incident occurred March 6th, 2024 at approximately 3pm. Operated vehicle in early morning to meet friends ",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "8/23/2021-I was slowing down at a red light and getting ready to stop but the light turned green and so high pushed on the gas to go before I got to a full stop. The battery warning light came on so I turned around to go back home can you swap cars. My fiancé had to go to work th",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi A8 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "8/23/2021-I was slowing down at a red light and getting ready to stop but the light turned green and so high pushed on the gas to go before I got to a full stop. The battery warning light came on so I turned around to go back home can you swap cars. My fiancé had to go to work th",
+        "pct": 67,
+        "title": "Electrical System",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Audi 2020 A8L Engine Fire 3/6/2024 Confirmed by Fire Department, American Family Insurance Unclear if it has been inspected by the Audi U.S. No indication has been received. Incident occurred March 6th, 2024 at approximately 3pm. Operated vehicle in early morning to meet friends ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "8/23/2021-I was slowing down at a red light and getting ready to stop but the light turned green and so high pushed on the gas to go before I got to a full stop. The battery warning light came on so I turned around to go back home can you swap cars. My fiancé had to go to work th",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

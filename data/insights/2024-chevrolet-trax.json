@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-trax",
+  "make": "Chevrolet",
+  "model": "Trax",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/TRAX#complaints",
+  "generatedAt": "2026-06-23T16:44:53.657Z",
+  "total": 153,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 56,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Trax. The contact stated that the instrument cluster was flickering. The contact stated that the Forward Collision Avoidance system engaged without any objects nearby. While at a stop, the automatic STOP/START feature became inoperable. The vehic",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 45,
+      "crash": 1,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle is programmed to shut off, if the driver leaves the vehicle with the key fob, after 15 minutes.  This is very dangerous.  I left my pet in the car, in the Florida sun, with the air conditioner running, while I stepped into a store briefly.  When I got back to the car",
+      "pct": 29
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Auto headlights turn headlights ON in sunshine.  Then OFF in daytime shade.  (when driving down a tree lined road, lights come on when not under tree shade, then off with every tree shade, gives the appearance I am \"flashing\" my headlights, same thing with underpasses, etc.   Lig",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Trax. The contact stated that while driving approximately 60-72 MPH, with the cruise control activated or turned off, the contact detected an intermittent pulsation.  The contact stated it was like the brakes had engaged or the transmission was s",
+      "pct": 7
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Chevrolet Trax. The contact stated that while driving approximately 60-72 MPH, with the cruise control activated or turned off, the contact detected an intermittent pulsation.  The contact stated it was like the brakes had engaged or the transmission was s",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Trax owners report most",
+    "summary": "Across 153 owner complaints to NHTSA, the most reported area is Electrical System (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 56,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Trax. The contact stated that the instrument cluster was flickering. The contact stated that the Forward Collision Avoidance system engaged without any objects nearby. While at a stop, the automatic STOP/START feature became inoperable. The vehic",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "56 reports (37%) · 2 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 45,
+        "crash": 1,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle is programmed to shut off, if the driver leaves the vehicle with the key fob, after 15 minutes.  This is very dangerous.  I left my pet in the car, in the Florida sun, with the air conditioner running, while I stepped into a store briefly.  When I got back to the car",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "45 reports (29%) · 5 fire · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Auto headlights turn headlights ON in sunshine.  Then OFF in daytime shade.  (when driving down a tree lined road, lights come on when not under tree shade, then off with every tree shade, gives the appearance I am \"flashing\" my headlights, same thing with underpasses, etc.   Lig",
+        "pct": 11,
+        "title": "Exterior Lighting",
+        "blurb": "17 reports (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Trax. The contact stated that while driving approximately 60-72 MPH, with the cruise control activated or turned off, the contact detected an intermittent pulsation.  The contact stated it was like the brakes had engaged or the transmission was s",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "11 reports (7%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Chevrolet Trax. The contact stated that while driving approximately 60-72 MPH, with the cruise control activated or turned off, the contact detected an intermittent pulsation.  The contact stated it was like the brakes had engaged or the transmission was s",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "10 reports (7%) · 1 fire"
+      }
+    ]
+  }
+}

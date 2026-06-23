@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-ioniq-5",
+  "make": "Hyundai",
+  "model": "Ioniq 5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/IONIQ%205#complaints",
+  "generatedAt": "2026-06-23T16:33:30.918Z",
+  "total": 375,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 265,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I've owned this car for 4 months now. We own 2 electric cars, 1 ioniq 5 and 1 Fiat 500e. We have a level 2 charger in the garage. A month ago I noticed the ioniq stopped charging overnight. When I tried the next day, it charged for about 30 minutes, then I would get a msg on my p",
+      "pct": 71
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 71,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When using the most aggressive braking energy recovery mode in the Hyundai Ioniq 5 (i-Pedal), the brake lights do not illuminate despite the aggressive nature of the braking provided by this mode. This mode brings the car to a full and complete stop and is very similar to command",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 65,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The charging system in the 2023 Ioniq 5 has multiple issues with connectivity and charging above a certain threshold. When charging at home using an electrician certified install by Merit and a county approved installation and Emporia EVSE 48A charger, the car prompts with a mess",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 37,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned: Rear electric motor. Specifically the \"engine oil pump\" that is used to cool the rear motor. The pump does not respond to MCU commands and does not cool the motor. This causes the motor to overheat after about an hour of highway d",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 26,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "While driving on the interstate my 2023 Ioniq 5 SEL RWD experienced a failure with the front radar system stating that it was blocked. In reality there was nothing physically blocking the system which was verified on multiple pullovers to check the front of the vehicle. This caus",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Ioniq 5 owners report most",
+    "summary": "Across 375 owner complaints to NHTSA, the most reported area is Electrical System (71% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 265,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I've owned this car for 4 months now. We own 2 electric cars, 1 ioniq 5 and 1 Fiat 500e. We have a level 2 charger in the garage. A month ago I noticed the ioniq stopped charging overnight. When I tried the next day, it charged for about 30 minutes, then I would get a msg on my p",
+        "pct": 71,
+        "title": "Electrical System",
+        "blurb": "265 reports (71%) · 1 fire · 4 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 71,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When using the most aggressive braking energy recovery mode in the Hyundai Ioniq 5 (i-Pedal), the brake lights do not illuminate despite the aggressive nature of the braking provided by this mode. This mode brings the car to a full and complete stop and is very similar to command",
+        "pct": 19,
+        "title": "Power Train",
+        "blurb": "71 reports (19%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 65,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The charging system in the 2023 Ioniq 5 has multiple issues with connectivity and charging above a certain threshold. When charging at home using an electrician certified install by Merit and a county approved installation and Emporia EVSE 48A charger, the car prompts with a mess",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "65 reports (17%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 37,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned: Rear electric motor. Specifically the \"engine oil pump\" that is used to cool the rear motor. The pump does not respond to MCU commands and does not cool the motor. This causes the motor to overheat after about an hour of highway d",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "37 reports (10%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 26,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "While driving on the interstate my 2023 Ioniq 5 SEL RWD experienced a failure with the front radar system stating that it was blocked. In reality there was nothing physically blocking the system which was verified on multiple pullovers to check the front of the vehicle. This caus",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "26 reports (7%) · 6 crash · 2 injured"
+      }
+    ]
+  }
+}

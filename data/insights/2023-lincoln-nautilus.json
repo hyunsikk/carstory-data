@@ -1,0 +1,128 @@
+{
+  "slug": "2023-lincoln-nautilus",
+  "make": "Lincoln",
+  "model": "Nautilus",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/LINCOLN/NAUTILUS#complaints",
+  "generatedAt": "2026-06-23T16:37:53.909Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2023 Nautilus is currently at the dealership I purchased from.Shults Lincoln.  Steering column, tilt and telescopic adjustments. While driving vehicle the tilt and telescopic moves on its on. This has happened mulitudes of times. The most danderous event occured while my wife ",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During an emergency break, when applying full force to the break, and the vehicle is traveling at 20 or less mph, the vehicle cannot come to a full stop.  Automatic Emergency Braking and pre-collision warning failed to engage.  When pressing the break with full force, loud noise ",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During an emergency break, when applying full force to the break, and the vehicle is traveling at 20 or less mph, the vehicle cannot come to a full stop.  Automatic Emergency Braking and pre-collision warning failed to engage.  When pressing the break with full force, loud noise ",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The backup camera freezes to a single still frame and does not show the accurate view of the rear of the vehicle while backing.  Since the camera is frozen to a still frame, any moving object that moves to the rear of the backing vehicle would not be visible in the image that the",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased vehicle 7/29/23 While driving 8/19, vehicle auto-shifted from drive into neutral and the check engine light appeared.  I was in the process of accelerating from the on ramp & moving to the left lane.  Attempts to return the vehicle to drive were unsuccessful & I coasted",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Lincoln Nautilus owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2023 Nautilus is currently at the dealership I purchased from.Shults Lincoln.  Steering column, tilt and telescopic adjustments. While driving vehicle the tilt and telescopic moves on its on. This has happened mulitudes of times. The most danderous event occured while my wife ",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During an emergency break, when applying full force to the break, and the vehicle is traveling at 20 or less mph, the vehicle cannot come to a full stop.  Automatic Emergency Braking and pre-collision warning failed to engage.  When pressing the break with full force, loud noise ",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During an emergency break, when applying full force to the break, and the vehicle is traveling at 20 or less mph, the vehicle cannot come to a full stop.  Automatic Emergency Braking and pre-collision warning failed to engage.  When pressing the break with full force, loud noise ",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The backup camera freezes to a single still frame and does not show the accurate view of the rear of the vehicle while backing.  Since the camera is frozen to a still frame, any moving object that moves to the rear of the backing vehicle would not be visible in the image that the",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased vehicle 7/29/23 While driving 8/19, vehicle auto-shifted from drive into neutral and the check engine light appeared.  I was in the process of accelerating from the on ramp & moving to the left lane.  Attempts to return the vehicle to drive were unsuccessful & I coasted",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2021-mazda-cx-3",
+  "make": "Mazda",
+  "model": "CX-3",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MAZDA/CX-3#complaints",
+  "generatedAt": "2026-06-23T16:45:26.366Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Having the exact same issue as was outlined and allegedly repaired in the prior service bulletin 06-001/20. Obviously this bulletin only applies to vehicles up to model year 2020. I have checked the model number on the steering motor to determine that it is the \"updated\" design. ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mazda Cx-3 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Steering (100% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Having the exact same issue as was outlined and allegedly repaired in the prior service bulletin 06-001/20. Obviously this bulletin only applies to vehicles up to model year 2020. I have checked the model number on the steering motor to determine that it is the \"updated\" design. ",
+        "pct": 100,
+        "title": "Steering",
+        "blurb": "3 reports (100%)"
+      }
+    ]
+  }
+}

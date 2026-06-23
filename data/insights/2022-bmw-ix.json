@@ -1,0 +1,128 @@
+{
+  "slug": "2022-bmw-ix",
+  "make": "BMW",
+  "model": "iX",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/IX#complaints",
+  "generatedAt": "2026-06-23T16:26:43.578Z",
+  "total": 29,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I ordered BMW ix50 in 10/1/21, got delivered on 05/20/22. Only after 39 days on 06/08/22 and about 1000 miles BMW stopped running and I called BMW roadside assistance to take to the dealership. The car was “fixed” and picked-up back from the dealership on 07/06/22. The reason was",
+      "pct": 34
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had 6-8 instances where the car \"takes off\" and accelerates without my touching the accelerator. It is not full-acceleration but strong enough that if a car was immediately in front of me - I might hit it. Hitting the brakes stops the acceleration and the car then drives n",
+      "pct": 24
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The steering rack on my under 2 year old BMW iX with ~21k miles needed to be replaced.  The vehicle displayed an intermittent warning about increased steering effort and to contact my service center.  Upon taking it in they diagnosed it as a steering rack issue.  Before taking it",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Under \"B\" drive mode which is the \"one pedal driving\" with automatic regenerative braking, occasionally when I release the pedal completely expecting the vehicle to slow down/stop, the vehicle instead will lunge forward.  This has happened twice, thankfully at low speeds in a par",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was traveling on 6/12 at approximately 4:30 AM at around 65 MPH when I received a warning message something to the effect of “emergency system malfunction - vehicle will now stop”. I lost all throttle and the vehicle slowed to a stop. Due to the lack of other vehicles present a",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw Ix owners report most",
+    "summary": "Across 29 owner complaints to NHTSA, the most reported area is Electrical System (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I ordered BMW ix50 in 10/1/21, got delivered on 05/20/22. Only after 39 days on 06/08/22 and about 1000 miles BMW stopped running and I called BMW roadside assistance to take to the dealership. The car was “fixed” and picked-up back from the dealership on 07/06/22. The reason was",
+        "pct": 34,
+        "title": "Electrical System",
+        "blurb": "10 reports (34%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had 6-8 instances where the car \"takes off\" and accelerates without my touching the accelerator. It is not full-acceleration but strong enough that if a car was immediately in front of me - I might hit it. Hitting the brakes stops the acceleration and the car then drives n",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (24%) · 2 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The steering rack on my under 2 year old BMW iX with ~21k miles needed to be replaced.  The vehicle displayed an intermittent warning about increased steering effort and to contact my service center.  Upon taking it in they diagnosed it as a steering rack issue.  Before taking it",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Under \"B\" drive mode which is the \"one pedal driving\" with automatic regenerative braking, occasionally when I release the pedal completely expecting the vehicle to slow down/stop, the vehicle instead will lunge forward.  This has happened twice, thankfully at low speeds in a par",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was traveling on 6/12 at approximately 4:30 AM at around 65 MPH when I received a warning message something to the effect of “emergency system malfunction - vehicle will now stop”. I lost all throttle and the vehicle slowed to a stop. Due to the lack of other vehicles present a",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "3 reports (10%)"
+      }
+    ]
+  }
+}

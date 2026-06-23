@@ -1,0 +1,84 @@
+{
+  "slug": "2017-lotus-evora",
+  "make": "Lotus",
+  "model": "Evora",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/LOTUS/EVORA#complaints",
+  "generatedAt": "2026-06-23T16:46:11.394Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving on an interstate highway a MIL (Malfunction Indicator Light) illuminated and within less than 5 seconds, the engine went into shutdown mode. I was able to safely clear the highway but on a central lane and heavy traffic it would have been impossible to safely clear the hi",
+      "pct": 67
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Lotus Evora. The contact stated that there was a clunking sound coming from the rear suspension. The vehicle was taken to a certified mechanic who was certified to work on Lotus vehicles, but not associated with the dealer, and the rear suspension arm was ",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving on an interstate highway a MIL (Malfunction Indicator Light) illuminated and within less than 5 seconds, the engine went into shutdown mode. I was able to safely clear the highway but on a central lane and heavy traffic it would have been impossible to safely clear the hi",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Lotus Evora owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving on an interstate highway a MIL (Malfunction Indicator Light) illuminated and within less than 5 seconds, the engine went into shutdown mode. I was able to safely clear the highway but on a central lane and heavy traffic it would have been impossible to safely clear the hi",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Lotus Evora. The contact stated that there was a clunking sound coming from the rear suspension. The vehicle was taken to a certified mechanic who was certified to work on Lotus vehicles, but not associated with the dealer, and the rear suspension arm was ",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving on an interstate highway a MIL (Malfunction Indicator Light) illuminated and within less than 5 seconds, the engine went into shutdown mode. I was able to safely clear the highway but on a central lane and heavy traffic it would have been impossible to safely clear the hi",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

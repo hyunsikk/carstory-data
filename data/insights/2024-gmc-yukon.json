@@ -1,0 +1,128 @@
+{
+  "slug": "2024-gmc-yukon",
+  "make": "GMC",
+  "model": "Yukon",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GMC/YUKON#complaints",
+  "generatedAt": "2026-06-23T16:31:50.195Z",
+  "total": 140,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 97,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Driving on highway and engine cut off with no warning.  No dash lights to show a warning.  3321 miles on engine.  The vehicle was unable to be  put in neutral  for the police to push it out of the highway.  Three Moncks Corner police cars surrounded the vehicle to maintain safety",
+      "pct": 69
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While accelerating up to 55MPH, the vehicle automatically shifted into neutral without warning. We tried to shift it back into Drive, nothing happened. We pulled off the road to try and shift in a reduced speed and still nothing. We finally came to a stop and tried to shift it in",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The motor is randomly revving at braking so far only under 10 miles an hour. Yesterday it stalled twice on me and cut off braking under 10 miles an hour. I had to come to a complete stop while restarting the vehicle. Definitely has me worried if it happens on the highway or highe",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 GMC Yukon XL. The contact stated that while driving at an undisclosed speed, the engine vibrated abnormally. There was no warning light illuminated. The contact received notification of NHTSA Campaign Number:  25V274000 (Engine and Engine Cooling); however",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine of my 2024 GMC Yukon Denali failed unexpectedly at 45 MPH, shutting off without warning and shifting into neutral. My wife, three passengers, and two dogs were in the vehicle, which coasted to a stop. After several attempts, it restarted, and the check engine light ill",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Gmc Yukon owners report most",
+    "summary": "Across 140 owner complaints to NHTSA, the most reported area is Engine (69% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 97,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Driving on highway and engine cut off with no warning.  No dash lights to show a warning.  3321 miles on engine.  The vehicle was unable to be  put in neutral  for the police to push it out of the highway.  Three Moncks Corner police cars surrounded the vehicle to maintain safety",
+        "pct": 69,
+        "title": "Engine",
+        "blurb": "97 reports (69%) · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While accelerating up to 55MPH, the vehicle automatically shifted into neutral without warning. We tried to shift it back into Drive, nothing happened. We pulled off the road to try and shift in a reduced speed and still nothing. We finally came to a stop and tried to shift it in",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "25 reports (18%) · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The motor is randomly revving at braking so far only under 10 miles an hour. Yesterday it stalled twice on me and cut off braking under 10 miles an hour. I had to come to a complete stop while restarting the vehicle. Definitely has me worried if it happens on the highway or highe",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "22 reports (16%) · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 GMC Yukon XL. The contact stated that while driving at an undisclosed speed, the engine vibrated abnormally. There was no warning light illuminated. The contact received notification of NHTSA Campaign Number:  25V274000 (Engine and Engine Cooling); however",
+        "pct": 12,
+        "title": "Engine And Engine Cooling",
+        "blurb": "17 reports (12%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine of my 2024 GMC Yukon Denali failed unexpectedly at 45 MPH, shutting off without warning and shifting into neutral. My wife, three passengers, and two dogs were in the vehicle, which coasted to a stop. After several attempts, it restarted, and the check engine light ill",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (6%)"
+      }
+    ]
+  }
+}

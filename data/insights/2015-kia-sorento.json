@@ -1,0 +1,128 @@
+{
+  "slug": "2015-kia-sorento",
+  "make": "Kia",
+  "model": "Sorento",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/KIA/SORENTO#complaints",
+  "generatedAt": "2026-06-23T16:36:51.549Z",
+  "total": 743,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 357,
+      "crash": 6,
+      "fire": 9,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I PURCHASED A NEW 2015 KIA SORENTO MAY 17, 2014.  AS I WAS DRIVING DOWN THE ROAD LAST NIGHT AT APPROXIMATELY 45MPH, SUDDENLY THE CAR JERKED AROUND, SOUNDED LIKE I DOWNSHIFTED (ALTHOUGH IT'S AN AUTOMATIC) AND I GOT THE DIAGNOSTIC MESSAGE OF THE \"ENGINE CONTROL SYSTEM- POSSIBLE ENG",
+      "pct": 48
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 99,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "OUR 2015 KIA SORENTO LX WITH TOURING PACKAGE WAS PARKED IN OUR DRIVEWAY WHEN THE TAILGATE WINDOW EXPLODED AND SHATTERED ALL OVER THE DRIVEWAY.  FORTUNATELY NO ONE WAS IN OR NEXT TO IT AT THE TIME.  VEHICLE IS BACK AT FUCILLA KIA DEALERSHIP FOR REPAIR.  IT IS ONLY ONE WEEK SINCE W",
+      "pct": 13
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 90,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 KIA SORENTO. THE CONTACT STATED THAT THE HEADLIGHTS ON/OFF SENSOR FAILED TO ILLUMINATE DURING NIGHT HOURS. THE CONTACT ALSO STATED THAT THE HEADLIGHT SENSOR FAILED TO POWER OFF THE HEADLIGHTS OFF DURING THE DAY. THE CONTACT HAD TO POWER OFF THE HEADLIG",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 56,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 KIA SORENTO. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 10 MPH, THE VEHICLE EXPERIENCED A POWER LOSS AND THE ENGINE STALLED. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE VEHICLE NEEDED AN ALTERNATOR AND IT WAS REPAIRED.",
+      "pct": 8
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 42,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I HAD OIL CHANGED AT THE MECHANIC SHOP. A WEEK LATER I DROVE IN THE CITY, THE OIL LIGHT CAME ON AND OFF. THEN THE CAR JUST SHUT DOWN. I HAD IT RESTARTED AND WENT HOME. I CHECKED THE OIL IT WAS ALMOST GONE.  TOOK IT BACK TO THE SHOP. THEY CHECKED EVERYTHING AGAIN AND COULDN'T FIND",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Kia Sorento owners report most",
+    "summary": "Across 743 owner complaints to NHTSA, the most reported area is Engine (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 357,
+        "crash": 6,
+        "fire": 9,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I PURCHASED A NEW 2015 KIA SORENTO MAY 17, 2014.  AS I WAS DRIVING DOWN THE ROAD LAST NIGHT AT APPROXIMATELY 45MPH, SUDDENLY THE CAR JERKED AROUND, SOUNDED LIKE I DOWNSHIFTED (ALTHOUGH IT'S AN AUTOMATIC) AND I GOT THE DIAGNOSTIC MESSAGE OF THE \"ENGINE CONTROL SYSTEM- POSSIBLE ENG",
+        "pct": 48,
+        "title": "Engine",
+        "blurb": "357 reports (48%) · 9 fire · 6 crash · 5 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 99,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "OUR 2015 KIA SORENTO LX WITH TOURING PACKAGE WAS PARKED IN OUR DRIVEWAY WHEN THE TAILGATE WINDOW EXPLODED AND SHATTERED ALL OVER THE DRIVEWAY.  FORTUNATELY NO ONE WAS IN OR NEXT TO IT AT THE TIME.  VEHICLE IS BACK AT FUCILLA KIA DEALERSHIP FOR REPAIR.  IT IS ONLY ONE WEEK SINCE W",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "99 reports (13%) · 1 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 90,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 KIA SORENTO. THE CONTACT STATED THAT THE HEADLIGHTS ON/OFF SENSOR FAILED TO ILLUMINATE DURING NIGHT HOURS. THE CONTACT ALSO STATED THAT THE HEADLIGHT SENSOR FAILED TO POWER OFF THE HEADLIGHTS OFF DURING THE DAY. THE CONTACT HAD TO POWER OFF THE HEADLIG",
+        "pct": 12,
+        "title": "Exterior Lighting",
+        "blurb": "90 reports (12%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 56,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 KIA SORENTO. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 10 MPH, THE VEHICLE EXPERIENCED A POWER LOSS AND THE ENGINE STALLED. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE VEHICLE NEEDED AN ALTERNATOR AND IT WAS REPAIRED.",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "56 reports (8%) · 4 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 42,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I HAD OIL CHANGED AT THE MECHANIC SHOP. A WEEK LATER I DROVE IN THE CITY, THE OIL LIGHT CAME ON AND OFF. THEN THE CAR JUST SHUT DOWN. I HAD IT RESTARTED AND WENT HOME. I CHECKED THE OIL IT WAS ALMOST GONE.  TOOK IT BACK TO THE SHOP. THEY CHECKED EVERYTHING AGAIN AND COULDN'T FIND",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "42 reports (6%) · 1 crash · 3 injured"
+      }
+    ]
+  }
+}

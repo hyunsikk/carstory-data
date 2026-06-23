@@ -1,0 +1,106 @@
+{
+  "slug": "2020-infiniti-q50",
+  "make": "Infiniti",
+  "model": "Q50",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/INFINITI/Q50#complaints",
+  "generatedAt": "2026-06-23T16:34:36.151Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ever since I got the vehicle transmission is trying to give out on the vehicle takes too long to shift gears, takes more rpm to shift gears",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recently, the turbochargers on my vehicle failed prematurely and had to be replaced. Shortly after this repair, and with the vehicle still under 60,000 miles, the engine exploded and failed while driving. This incident posed a severe safety hazard not only to me but to other driv",
+      "pct": 33
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FORWARD EMERGENCY BRAKING (FEB) ACTIVATING WHEN NOT NEEDED.    JANUARY 11TH 2020  FIRST DAY OF OWNING INFNITI Q50 LUXE 3.0T  NO PACKAGES, ONLY FEB (WHICH IS STANDARD ON ALL Q50 NOW)    DRIVING HOME FROM KELLY INFINITI OF DENVERS, MA DEALERSHIP.  ALLEN RD EXTENTION - SPEED LIMIT 3",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FORWARD EMERGENCY BRAKING (FEB) ACTIVATING WHEN NOT NEEDED.    JANUARY 11TH 2020  FIRST DAY OF OWNING INFNITI Q50 LUXE 3.0T  NO PACKAGES, ONLY FEB (WHICH IS STANDARD ON ALL Q50 NOW)    DRIVING HOME FROM KELLY INFINITI OF DENVERS, MA DEALERSHIP.  ALLEN RD EXTENTION - SPEED LIMIT 3",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Infiniti Q50 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ever since I got the vehicle transmission is trying to give out on the vehicle takes too long to shift gears, takes more rpm to shift gears",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recently, the turbochargers on my vehicle failed prematurely and had to be replaced. Shortly after this repair, and with the vehicle still under 60,000 miles, the engine exploded and failed while driving. This incident posed a severe safety hazard not only to me but to other driv",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FORWARD EMERGENCY BRAKING (FEB) ACTIVATING WHEN NOT NEEDED.    JANUARY 11TH 2020  FIRST DAY OF OWNING INFNITI Q50 LUXE 3.0T  NO PACKAGES, ONLY FEB (WHICH IS STANDARD ON ALL Q50 NOW)    DRIVING HOME FROM KELLY INFINITI OF DENVERS, MA DEALERSHIP.  ALLEN RD EXTENTION - SPEED LIMIT 3",
+        "pct": 33,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FORWARD EMERGENCY BRAKING (FEB) ACTIVATING WHEN NOT NEEDED.    JANUARY 11TH 2020  FIRST DAY OF OWNING INFNITI Q50 LUXE 3.0T  NO PACKAGES, ONLY FEB (WHICH IS STANDARD ON ALL Q50 NOW)    DRIVING HOME FROM KELLY INFINITI OF DENVERS, MA DEALERSHIP.  ALLEN RD EXTENTION - SPEED LIMIT 3",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

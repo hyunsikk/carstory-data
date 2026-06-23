@@ -1,0 +1,128 @@
+{
+  "slug": "2024-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-06-23T16:29:53.427Z",
+  "total": 73,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I stopped one day to get some gas and when I tried to start my 2024 Ford escape back up it failed to turn over. I started to get notices from my Ford pass app stating that I was having some issues with my turbine. The vehicle was leaving me stranded every time I tried to start it",
+      "pct": 37
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Ford Escape. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated, and the Forward Collision Avoidance warning light illuminated without an object or vehicle being nearby. Additionally, while operating t",
+      "pct": 26
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On dashboard, states: Regain Control, Bind Spot System Fault, Cross-Traffic System Fault, Front Camera Fault Service Required, Pre-Collision Assist Not Available. We have a [XXX] in the car and the added safety features to assist while driving are faulty. Ford knows it is an issu",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I stopped one day to get some gas and when I tried to start my 2024 Ford escape back up it failed to turn over. I started to get notices from my Ford pass app stating that I was having some issues with my turbine. The vehicle was leaving me stranded every time I tried to start it",
+      "pct": 18
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Alert on my dashboard flashes and I have received several \"Park Aid Malfunction\" Alerts. It advises me the the park assist or sensing system has detected a problem.  It states if you can not activate your sensing system or have frequent active park assist faults, please have syst",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Ford Escape owners report most",
+    "summary": "Across 73 owner complaints to NHTSA, the most reported area is Electrical System (37% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I stopped one day to get some gas and when I tried to start my 2024 Ford escape back up it failed to turn over. I started to get notices from my Ford pass app stating that I was having some issues with my turbine. The vehicle was leaving me stranded every time I tried to start it",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "27 reports (37%) · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Ford Escape. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated, and the Forward Collision Avoidance warning light illuminated without an object or vehicle being nearby. Additionally, while operating t",
+        "pct": 26,
+        "title": "Forward Collision Avoidance",
+        "blurb": "19 reports (26%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On dashboard, states: Regain Control, Bind Spot System Fault, Cross-Traffic System Fault, Front Camera Fault Service Required, Pre-Collision Assist Not Available. We have a [XXX] in the car and the added safety features to assist while driving are faulty. Ford knows it is an issu",
+        "pct": 25,
+        "title": "Lane Departure",
+        "blurb": "18 reports (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I stopped one day to get some gas and when I tried to start my 2024 Ford escape back up it failed to turn over. I started to get notices from my Ford pass app stating that I was having some issues with my turbine. The vehicle was leaving me stranded every time I tried to start it",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "13 reports (18%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Alert on my dashboard flashes and I have received several \"Park Aid Malfunction\" Alerts. It advises me the the park assist or sensing system has detected a problem.  It states if you can not activate your sensing system or have frequent active park assist faults, please have syst",
+        "pct": 14,
+        "title": "Back Over Prevention",
+        "blurb": "10 reports (14%)"
+      }
+    ]
+  }
+}

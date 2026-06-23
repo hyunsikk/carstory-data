@@ -1,0 +1,106 @@
+{
+  "slug": "2018-audi-s3",
+  "make": "Audi",
+  "model": "S3",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/S3#complaints",
+  "generatedAt": "2026-06-23T16:43:03.258Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A) AUDI  OF CENTRAL HOUSTON SOLD US 2018 S3 ON AUG13, 2018 WITH:  1) DELAMINATING WINDSHIELD CREATING A MAJOR SAFETY HAZARD  2) DEFECTIVE WIPER FUNCTION  NB: WINDSHIELD WAS REPLACEMENT ON DEC 31, 2019 WHEN WE HAD ACTUALLY REQUESTED REPLACEMENT OF THE VEHICLE WITH ANOTHER BRAND NE",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was put in Drive \"D\".  As I roll out into traffic and start to accelerate, the car \"bang\" out of gear like it's in neutral, the revs climb, but the car doesn't accelerate and the \"D\" display disappeared from the instrument panel.  The gear selector display on the instrume",
+      "pct": 40
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Audi will not fix the problem.",
+      "pct": 20
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A) AUDI  OF CENTRAL HOUSTON SOLD US 2018 S3 ON AUG13, 2018 WITH:  1) DELAMINATING WINDSHIELD CREATING A MAJOR SAFETY HAZARD  2) DEFECTIVE WIPER FUNCTION  NB: WINDSHIELD WAS REPLACEMENT ON DEC 31, 2019 WHEN WE HAD ACTUALLY REQUESTED REPLACEMENT OF THE VEHICLE WITH ANOTHER BRAND NE",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi S3 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (40% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A) AUDI  OF CENTRAL HOUSTON SOLD US 2018 S3 ON AUG13, 2018 WITH:  1) DELAMINATING WINDSHIELD CREATING A MAJOR SAFETY HAZARD  2) DEFECTIVE WIPER FUNCTION  NB: WINDSHIELD WAS REPLACEMENT ON DEC 31, 2019 WHEN WE HAD ACTUALLY REQUESTED REPLACEMENT OF THE VEHICLE WITH ANOTHER BRAND NE",
+        "pct": 40,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was put in Drive \"D\".  As I roll out into traffic and start to accelerate, the car \"bang\" out of gear like it's in neutral, the revs climb, but the car doesn't accelerate and the \"D\" display disappeared from the instrument panel.  The gear selector display on the instrume",
+        "pct": 40,
+        "title": "Power Train",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Audi will not fix the problem.",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A) AUDI  OF CENTRAL HOUSTON SOLD US 2018 S3 ON AUG13, 2018 WITH:  1) DELAMINATING WINDSHIELD CREATING A MAJOR SAFETY HAZARD  2) DEFECTIVE WIPER FUNCTION  NB: WINDSHIELD WAS REPLACEMENT ON DEC 31, 2019 WHEN WE HAD ACTUALLY REQUESTED REPLACEMENT OF THE VEHICLE WITH ANOTHER BRAND NE",
+        "pct": 20,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

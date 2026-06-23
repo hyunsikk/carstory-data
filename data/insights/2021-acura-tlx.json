@@ -1,0 +1,128 @@
+{
+  "slug": "2021-acura-tlx",
+  "make": "Acura",
+  "model": "TLX",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/ACURA/TLX#complaints",
+  "generatedAt": "2026-06-23T16:25:03.375Z",
+  "total": 60,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle VIN - [XXX]     The vehicle, 2021 Acura TLX, was purchased on June 8, 2021, from the showroom floor of Metro Acura Dealership. The vehicle was sold as being compatible with iPhone, Bluetooth HandsFree Link, and Apple CarPlay. Not to mention the innovative technology, ",
+      "pct": 32
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Acura TLX. The contact stated that while attempting to start the vehicle on one occasion, the vehicle would not start-up. The contact had the vehicle towed to the local dealer to be inspected. The mechanic was unable to duplicate the failure. The vehicle w",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "If the car thinks the door is not fully closed, it will not allow the car to go into drive. My husband put the car into reverse and backed out onto a busy highway.  He tried to put the car into drive and it would not go because the car's electrical system thought the door was not",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "How Acura Lost my Business  The fact that no one from Acura will take responsibility for the ongoing issues has reaffirmed that my long-term commitment to owning Acura’s is over.   Honda will only communicate via the phone and say \"if the dealership can't fix it, neither can Hond",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2021 Acura TLX. The contact stated that while driving the vehicle, a loud abnormal, squealing noise would emit from the brake pedal upon depression without warning. The contact had taken the vehicle back to the dealer where they acknowledged the failure but s",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Acura Tlx owners report most",
+    "summary": "Across 60 owner complaints to NHTSA, the most reported area is Power Train (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle VIN - [XXX]     The vehicle, 2021 Acura TLX, was purchased on June 8, 2021, from the showroom floor of Metro Acura Dealership. The vehicle was sold as being compatible with iPhone, Bluetooth HandsFree Link, and Apple CarPlay. Not to mention the innovative technology, ",
+        "pct": 32,
+        "title": "Power Train",
+        "blurb": "19 reports (32%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Acura TLX. The contact stated that while attempting to start the vehicle on one occasion, the vehicle would not start-up. The contact had the vehicle towed to the local dealer to be inspected. The mechanic was unable to duplicate the failure. The vehicle w",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "10 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "If the car thinks the door is not fully closed, it will not allow the car to go into drive. My husband put the car into reverse and backed out onto a busy highway.  He tried to put the car into drive and it would not go because the car's electrical system thought the door was not",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "9 reports (15%) · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "How Acura Lost my Business  The fact that no one from Acura will take responsibility for the ongoing issues has reaffirmed that my long-term commitment to owning Acura’s is over.   Honda will only communicate via the phone and say \"if the dealership can't fix it, neither can Hond",
+        "pct": 12,
+        "title": "Air Bags",
+        "blurb": "7 reports (12%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2021 Acura TLX. The contact stated that while driving the vehicle, a loud abnormal, squealing noise would emit from the brake pedal upon depression without warning. The contact had taken the vehicle back to the dealer where they acknowledged the failure but s",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (12%) · 1 crash"
+      }
+    ]
+  }
+}

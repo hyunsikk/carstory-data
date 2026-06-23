@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chrysler-pacifica-hybrid",
+  "make": "Chrysler",
+  "model": "Pacifica Hybrid",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHRYSLER/PACIFICA%20HYBRID#complaints",
+  "generatedAt": "2026-06-23T16:29:13.537Z",
+  "total": 26,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact received notification of NHTSA Campaign Number: 23V010000 (Electrical System, Hybrid Propulsion System) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact state",
+      "pct": 50
+    },
+    {
+      "component": "HYBRID PROPULSION SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact received notification of NHTSA Campaign Number: 23V010000 (Electrical System, Hybrid Propulsion System) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact state",
+      "pct": 42
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact received notification of NHTSA Campaign Number: 24V436000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacture",
+      "pct": 31
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact stated while driving at slower speeds, the service charging station light illuminated, and the vehicle stalled. The contact stated that after waiting for 10 to 15 minutes, he was able to restart the vehicle. The contac",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact stated while entering a parking lot, the vehicle lost motive power and stalled with the check engine warning light illuminated. Additionally, the message to shift to park and turn off vehicle was displayed. After sever",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chrysler Pacifica Hybrid owners report most",
+    "summary": "Across 26 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact received notification of NHTSA Campaign Number: 23V010000 (Electrical System, Hybrid Propulsion System) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact state",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "13 reports (50%)"
+      },
+      {
+        "component": "HYBRID PROPULSION SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact received notification of NHTSA Campaign Number: 23V010000 (Electrical System, Hybrid Propulsion System) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact state",
+        "pct": 42,
+        "title": "Hybrid Propulsion System",
+        "blurb": "11 reports (42%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact received notification of NHTSA Campaign Number: 24V436000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacture",
+        "pct": 31,
+        "title": "Back Over Prevention",
+        "blurb": "8 reports (31%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact stated while driving at slower speeds, the service charging station light illuminated, and the vehicle stalled. The contact stated that after waiting for 10 to 15 minutes, he was able to restart the vehicle. The contac",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chrysler Pacifica Hybrid. The contact stated while entering a parking lot, the vehicle lost motive power and stalled with the check engine warning light illuminated. Additionally, the message to shift to park and turn off vehicle was displayed. After sever",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "3 reports (12%)"
+      }
+    ]
+  }
+}

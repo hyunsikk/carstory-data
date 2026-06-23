@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-bronco-sport",
+  "make": "Ford",
+  "model": "Bronco Sport",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/BRONCO%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:29:42.837Z",
+  "total": 321,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 71,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my 2022 Ford Bronco Sport several alerts flashed in the dash area including lane assist, front end collision and even just a wrench in a box.  All audio was lost.  Then the entire dash went dark.  All information in the instrument panel disappeared.  The tachometer ",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 71,
+      "crash": 1,
+      "fire": 6,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Car had 3000 miles on it, started rough idling randomly then the check engine light came on and was flashing. Drove straight to the Ford Dealership in Elko, Nevada and barely made it the 5 miles as the car wanted to die, had gas pedal all the way to the floor and was barely going",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 54,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The wrench icon which refers to the Powertrain system keeps coming on. I received a message from the Ford pass system that there was (Fault) in the Powertrain system. That power was reduced. Further it said to see a dealer right away. All of the Ford Dealers in my area are all bo",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 49,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Brakes make a grinding sound at low speed. When in reverse, brakes make a humming sound. This was the same issue that caused a recall of previous models, however my vehicle is not covered by the recall. Took the vehicle to the dealer and they said “we know there is a noise but th",
+      "pct": 15
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 45,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Bronco Sport. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of t",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ford Bronco Sport owners report most",
+    "summary": "Across 321 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 71,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my 2022 Ford Bronco Sport several alerts flashed in the dash area including lane assist, front end collision and even just a wrench in a box.  All audio was lost.  Then the entire dash went dark.  All information in the instrument panel disappeared.  The tachometer ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "71 reports (22%) · 3 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 71,
+        "crash": 1,
+        "fire": 6,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Car had 3000 miles on it, started rough idling randomly then the check engine light came on and was flashing. Drove straight to the Ford Dealership in Elko, Nevada and barely made it the 5 miles as the car wanted to die, had gas pedal all the way to the floor and was barely going",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "71 reports (22%) · 6 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 54,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The wrench icon which refers to the Powertrain system keeps coming on. I received a message from the Ford pass system that there was (Fault) in the Powertrain system. That power was reduced. Further it said to see a dealer right away. All of the Ford Dealers in my area are all bo",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "54 reports (17%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 49,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Brakes make a grinding sound at low speed. When in reverse, brakes make a humming sound. This was the same issue that caused a recall of previous models, however my vehicle is not covered by the recall. Took the vehicle to the dealer and they said “we know there is a noise but th",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "49 reports (15%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 45,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Bronco Sport. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of t",
+        "pct": 14,
+        "title": "Fuel System",
+        "blurb": "45 reports (14%) · 3 fire · 3 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-lincoln-continental",
+  "make": "Lincoln",
+  "model": "Continental",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/LINCOLN/CONTINENTAL#complaints",
+  "generatedAt": "2026-06-23T16:37:40.189Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln Continental. The contact stated while driving 68-70 MPH, an unknown chime engaged and the message \"Door May Open Unexpectedly - Caution\" was displayed. Additionally, the power train warning light was illuminated. The contact was able to drive to he",
+      "pct": 27
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drivers door latch is failing to engage properly making it so the door can not closed right away. No matter how you close the door it always pushes right back open sometimes the door will semi latch but still poses the hazard of opening while driving. It has been inspected by the",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS A COMPANY CAR AND I SOMETIMES WORK FROM THE BACK SEAT DURING MY TRAVEL TO CLIENTS AS IT'S LARGE AND COMFORTABLE.    I RECENTLY HAD OCCASION TO MEET WITH A CLIENT DURING INCLEMENT WEATHER SO WE WERE IN THE REAR OF MY CAR FOR ABOUT 30 MINUTES.  AFTER THIS TIME I COULD NOT R",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Lincoln Continental. The contact received notification of NHTSA Campaign Number: 22V6440000 (Back Over Prevention) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recently purchased this vehicle, it’s got a different problem all the time usually electronics. The other day I was in a fender bender because I’m driving with the steering wheel 30-45 degrees to the right just so I can drive safe. Essence ford in Stuart FL  where I purchased it,",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Lincoln Continental owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Latches/Locks/Linkages (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln Continental. The contact stated while driving 68-70 MPH, an unknown chime engaged and the message \"Door May Open Unexpectedly - Caution\" was displayed. Additionally, the power train warning light was illuminated. The contact was able to drive to he",
+        "pct": 27,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "8 reports (27%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drivers door latch is failing to engage properly making it so the door can not closed right away. No matter how you close the door it always pushes right back open sometimes the door will semi latch but still poses the hazard of opening while driving. It has been inspected by the",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS A COMPANY CAR AND I SOMETIMES WORK FROM THE BACK SEAT DURING MY TRAVEL TO CLIENTS AS IT'S LARGE AND COMFORTABLE.    I RECENTLY HAD OCCASION TO MEET WITH A CLIENT DURING INCLEMENT WEATHER SO WE WERE IN THE REAR OF MY CAR FOR ABOUT 30 MINUTES.  AFTER THIS TIME I COULD NOT R",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Lincoln Continental. The contact received notification of NHTSA Campaign Number: 22V6440000 (Back Over Prevention) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recently purchased this vehicle, it’s got a different problem all the time usually electronics. The other day I was in a fender bender because I’m driving with the steering wheel 30-45 degrees to the right just so I can drive safe. Essence ford in Stuart FL  where I purchased it,",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "3 reports (10%) · 1 crash"
+      }
+    ]
+  }
+}

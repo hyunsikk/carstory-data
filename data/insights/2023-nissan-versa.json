@@ -1,0 +1,128 @@
+{
+  "slug": "2023-nissan-versa",
+  "make": "Nissan",
+  "model": "Versa",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/VERSA#complaints",
+  "generatedAt": "2026-06-23T16:39:36.139Z",
+  "total": 37,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car lost power and would not go over 40 MPH.  This made for a dangerous situation on the road.  P2615-00 A Crankshaft Position Sensor code was thrown, but when I took it to the dealer they could not replicate the problem.  I have video documentation of the problem I can provi",
+      "pct": 62
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car lost power and would not go over 40 MPH.  This made for a dangerous situation on the road.  P2615-00 A Crankshaft Position Sensor code was thrown, but when I took it to the dealer they could not replicate the problem.  I have video documentation of the problem I can provi",
+      "pct": 41
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had stalled my car and after I restarted it my car had a significant loss of power.  I shifted and car would not accelerate at all top speed was 25-30 mph.  I had my gas pedal depressed and no change in speed/ I limped to a dealership turned car off and restarted and car was ba",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car lost power and would not go over 40 MPH.  This made for a dangerous situation on the road.  P2615-00 A Crankshaft Position Sensor code was thrown, but when I took it to the dealer they could not replicate the problem.  I have video documentation of the problem I can provi",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2023 Nissan Versa S5MT has a reoccurring issue where under a stall condition the car will occasionally loose all power on a restart. This happened once in traffic. I got to a red light and fumbled the clutch pedal and stalled in stopped traffic. I went to get in front of a sem",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Versa owners report most",
+    "summary": "Across 37 owner complaints to NHTSA, the most reported area is Engine (62% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car lost power and would not go over 40 MPH.  This made for a dangerous situation on the road.  P2615-00 A Crankshaft Position Sensor code was thrown, but when I took it to the dealer they could not replicate the problem.  I have video documentation of the problem I can provi",
+        "pct": 62,
+        "title": "Engine",
+        "blurb": "23 reports (62%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car lost power and would not go over 40 MPH.  This made for a dangerous situation on the road.  P2615-00 A Crankshaft Position Sensor code was thrown, but when I took it to the dealer they could not replicate the problem.  I have video documentation of the problem I can provi",
+        "pct": 41,
+        "title": "Power Train",
+        "blurb": "15 reports (41%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had stalled my car and after I restarted it my car had a significant loss of power.  I shifted and car would not accelerate at all top speed was 25-30 mph.  I had my gas pedal depressed and no change in speed/ I limped to a dealership turned car off and restarted and car was ba",
+        "pct": 35,
+        "title": "Vehicle Speed Control",
+        "blurb": "13 reports (35%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car lost power and would not go over 40 MPH.  This made for a dangerous situation on the road.  P2615-00 A Crankshaft Position Sensor code was thrown, but when I took it to the dealer they could not replicate the problem.  I have video documentation of the problem I can provi",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "7 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2023 Nissan Versa S5MT has a reoccurring issue where under a stall condition the car will occasionally loose all power on a restart. This happened once in traffic. I got to a red light and fumbled the clutch pedal and stalled in stopped traffic. I went to get in front of a sem",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (11%)"
+      }
+    ]
+  }
+}

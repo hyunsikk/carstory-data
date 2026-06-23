@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-06-23T16:29:54.045Z",
+  "total": 316,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 90,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Escape. The contact stated while driving 65 MPH, there was an abnormally loud sound coming from underneath the hood. The contact stated there was no warning light illuminated. The contact took the vehicle to the local dealer, where it was diagnosed wi",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 48,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Escape. The contact stated that while the vehicle was in reverse, an abnormally loud humming noise would emit from the vehicle upon depression of the brake pedal without warning. The contact had taken the vehicle to the dealer on numerous occasions an",
+      "pct": 15
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 40,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+      "pct": 13
+    },
+    {
+      "component": "GASOLINE",
+      "count": 40,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 38,
+      "crash": 1,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact’s daughter owned a 2021 Ford Escape. The contact stated that while her daughter was driving at an unknown speed, the coolant warning light illuminated. As the contact's daughter began to pull over, she began to lose control of the vehicle as a black smoke started comi",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Escape owners report most",
+    "summary": "Across 316 owner complaints to NHTSA, the most reported area is Structure (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 90,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Escape. The contact stated while driving 65 MPH, there was an abnormally loud sound coming from underneath the hood. The contact stated there was no warning light illuminated. The contact took the vehicle to the local dealer, where it was diagnosed wi",
+        "pct": 28,
+        "title": "Structure",
+        "blurb": "90 reports (28%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 48,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Escape. The contact stated that while the vehicle was in reverse, an abnormally loud humming noise would emit from the vehicle upon depression of the brake pedal without warning. The contact had taken the vehicle to the dealer on numerous occasions an",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "48 reports (15%) · 6 crash · 3 injured"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 40,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+        "pct": 13,
+        "title": "Fuel System",
+        "blurb": "40 reports (13%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 40,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+        "pct": 13,
+        "title": "Gasoline",
+        "blurb": "40 reports (13%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 38,
+        "crash": 1,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact’s daughter owned a 2021 Ford Escape. The contact stated that while her daughter was driving at an unknown speed, the coolant warning light illuminated. As the contact's daughter began to pull over, she began to lose control of the vehicle as a black smoke started comi",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "38 reports (12%) · 5 fire · 1 crash"
+      }
+    ]
+  }
+}

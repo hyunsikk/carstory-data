@@ -1,0 +1,128 @@
+{
+  "slug": "2024-toyota-corolla-cross",
+  "make": "Toyota",
+  "model": "Corolla Cross",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/TOYOTA/COROLLA%20CROSS#complaints",
+  "generatedAt": "2026-06-23T16:45:42.118Z",
+  "total": 37,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When i unlocked my vehicle and step on the brakes and press the ignition, the car suddenly alarms and says “check hybrid system, ignition on, no key detected”. Several attenpts are made and it keeps happening five times until it stops. This condition kept me from travelling and d",
+      "pct": 27
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving down long hills, car jumps out of adaptive cruise control.  Car just goes into coasting mode and never picks up again.  Speed drops and car doesn't return to cruise. If you step on accelerator cruise doses return.   This occurred many times descending Blue Mountain ",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "After turning left into a parking spot,car did not stop as usual.The  car went over curb and hit a 'no overnight parking sign.The collision bent the sign pole and damaged my driver front black bumper. I was stunned and did not realize it was a vehicle error, at first.    I have o",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission failed at 7,000 miles and had to be replaced. Car in repair facility 3/25-5/8/24. 5/18 - Engine slipped out of gear on hill/driveway, wouldn’t engage, unresponsive  5/20 - engine hesitation when taking off 5/21 - engine bogging down on acceleration 5/21 - engine unre",
+      "pct": 14
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After dark, the vehicle was started and the dashboard touchscreen that displays backup camera and other information was moderately bright. The display setting was set to 'Automatic', expecting the screen to dim when ambient light is low. On shifting into forward gear, the screen ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Toyota Corolla Cross owners report most",
+    "summary": "Across 37 owner complaints to NHTSA, the most reported area is Electrical System (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When i unlocked my vehicle and step on the brakes and press the ignition, the car suddenly alarms and says “check hybrid system, ignition on, no key detected”. Several attenpts are made and it keeps happening five times until it stops. This condition kept me from travelling and d",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "10 reports (27%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving down long hills, car jumps out of adaptive cruise control.  Car just goes into coasting mode and never picks up again.  Speed drops and car doesn't return to cruise. If you step on accelerator cruise doses return.   This occurred many times descending Blue Mountain ",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "6 reports (16%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "After turning left into a parking spot,car did not stop as usual.The  car went over curb and hit a 'no overnight parking sign.The collision bent the sign pole and damaged my driver front black bumper. I was stunned and did not realize it was a vehicle error, at first.    I have o",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "6 reports (16%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission failed at 7,000 miles and had to be replaced. Car in repair facility 3/25-5/8/24. 5/18 - Engine slipped out of gear on hill/driveway, wouldn’t engage, unresponsive  5/20 - engine hesitation when taking off 5/21 - engine bogging down on acceleration 5/21 - engine unre",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "5 reports (14%) · 1 fire"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After dark, the vehicle was started and the dashboard touchscreen that displays backup camera and other information was moderately bright. The display setting was set to 'Automatic', expecting the screen to dim when ambient light is low. On shifting into forward gear, the screen ",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "5 reports (14%) · 1 crash"
+      }
+    ]
+  }
+}

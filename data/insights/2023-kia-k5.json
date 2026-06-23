@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-k5",
+  "make": "Kia",
+  "model": "K5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/K5#complaints",
+  "generatedAt": "2026-06-23T16:36:29.661Z",
+  "total": 95,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "I was driving on [XXX] Orlando Florida on [xxx] doing approximately 70 miles an hour when a large explosion occurred out and within my car the whole car shook this happened twice within a 5 mile radius. The car was eventually brought to Kia city in Orlando, where they determined ",
+      "pct": 35
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 13,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia K5. The contact stated that the rear passenger's side chrome trim extending to the trunk had separated from the vehicle. The contact related the failure to TSB Number: SA552. The contact was concerned that the failure could cause a road safety hazard. ",
+      "pct": 14
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia K5. The contact stated that the interior of the vehicle had an abnormal gasoline odor. The contact stated that the gasoline odor was inside and surrounding the outside of the vehicle.  The vehicle was taken to the dealer. The vehicle was not diagnosed ",
+      "pct": 13
+    },
+    {
+      "component": "GASOLINE",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Kia K5. The contact stated that the interior of the vehicle had an abnormal gasoline odor. The contact stated that the gasoline odor was inside and surrounding the outside of the vehicle.  The vehicle was taken to the dealer. The vehicle was not diagnosed ",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was 4 months old when I was trying to get home when all of a sudden I noticed all the engine lights started to go out. With a few minutes on the road, the car automatically shut down in the middle of the road. My head almost hit the steering wheel and I was so close to hi",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia K5 owners report most",
+    "summary": "Across 95 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "I was driving on [XXX] Orlando Florida on [xxx] doing approximately 70 miles an hour when a large explosion occurred out and within my car the whole car shook this happened twice within a 5 mile radius. The car was eventually brought to Kia city in Orlando, where they determined ",
+        "pct": 35,
+        "title": "Fuel/Propulsion System",
+        "blurb": "33 reports (35%) · 6 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 13,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia K5. The contact stated that the rear passenger's side chrome trim extending to the trunk had separated from the vehicle. The contact related the failure to TSB Number: SA552. The contact was concerned that the failure could cause a road safety hazard. ",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "13 reports (14%) · 2 crash"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia K5. The contact stated that the interior of the vehicle had an abnormal gasoline odor. The contact stated that the gasoline odor was inside and surrounding the outside of the vehicle.  The vehicle was taken to the dealer. The vehicle was not diagnosed ",
+        "pct": 13,
+        "title": "Fuel System",
+        "blurb": "12 reports (13%) · 3 injured"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Kia K5. The contact stated that the interior of the vehicle had an abnormal gasoline odor. The contact stated that the gasoline odor was inside and surrounding the outside of the vehicle.  The vehicle was taken to the dealer. The vehicle was not diagnosed ",
+        "pct": 13,
+        "title": "Gasoline",
+        "blurb": "12 reports (13%) · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was 4 months old when I was trying to get home when all of a sudden I noticed all the engine lights started to go out. With a few minutes on the road, the car automatically shut down in the middle of the road. My head almost hit the steering wheel and I was so close to hi",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "11 reports (12%)"
+      }
+    ]
+  }
+}

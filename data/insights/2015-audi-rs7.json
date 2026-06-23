@@ -1,0 +1,40 @@
+{
+  "slug": "2015-audi-rs7",
+  "make": "Audi",
+  "model": "RS7",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/AUDI/RS7#complaints",
+  "generatedAt": "2026-06-23T16:43:37.393Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE STALLED IN TRAFFIC, RANDOMLY, WITH NO OTHER WARNING SIGNS. SUBSEQUENT ATTEMPTS TO RE-START THE CAR FAILED. CAR NEEDED TO BE PUSHED OUT OF TRAFFIC AND TOWED TO DEALERSHIP. DISCOVERED THAT THERE WAS A TURBOCHARGER FAILURE IN ONE BANK (DRIVER'S SIDE) THAT NEEDED TO BE REPLAC",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Audi Rs7 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE STALLED IN TRAFFIC, RANDOMLY, WITH NO OTHER WARNING SIGNS. SUBSEQUENT ATTEMPTS TO RE-START THE CAR FAILED. CAR NEEDED TO BE PUSHED OUT OF TRAFFIC AND TOWED TO DEALERSHIP. DISCOVERED THAT THERE WAS A TURBOCHARGER FAILURE IN ONE BANK (DRIVER'S SIDE) THAT NEEDED TO BE REPLAC",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "2 reports (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-ioniq-5",
+  "make": "Hyundai",
+  "model": "Ioniq 5",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/IONIQ%205#complaints",
+  "generatedAt": "2026-06-23T16:33:31.046Z",
+  "total": 397,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 299,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I started my car up right after charging on a rainy day at 2500 miles exactly and got 5 warnings. Check battery, lane assist warning, abs warning, parking brake warning, forward collision warning and bling spot collision avoidance warning lights were on.  More or less all these s",
+      "pct": 75
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 87,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car randomly stops charging when plugged into either of my Level 2 home Juicebox 40 chargers before it reaches capacity, generally after adding another 4-8% to the battery.  It was impossible for me to fully charge the car without plugging it in multiple times.  The service p",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 83,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact's father owns a 2022 Hyundai Ioniq 5. The contact stated that as her father attempted to place the vehicle into reverse(R) while in park(P), the gear shifter failed to operate as needed. As her father exited the vehicle with the gear shifter in the park(P)position, th",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On February 6, 2023 at approximately 9:50 a.m. I was driving my Hyundai Ioniq 5 SEL northbound on CA Highway 135, Santa Maria, when I heard a loud pop coming from my car.   Within a few seconds my car lost speed rapidly, from 55 mph to 25 then a second later 22 mph . I tried to a",
+      "pct": 9
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 24,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on the highway using advanced highway assist and the car became completely unresponsive.  I was traveling 75mph on a major highway with a semi behind me and one to my right in the slow lane.  The car stopped accelerating and I was unable to resume driving.  I was fo",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Hyundai Ioniq 5 owners report most",
+    "summary": "Across 397 owner complaints to NHTSA, the most reported area is Electrical System (75% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 299,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I started my car up right after charging on a rainy day at 2500 miles exactly and got 5 warnings. Check battery, lane assist warning, abs warning, parking brake warning, forward collision warning and bling spot collision avoidance warning lights were on.  More or less all these s",
+        "pct": 75,
+        "title": "Electrical System",
+        "blurb": "299 reports (75%) · 1 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 87,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car randomly stops charging when plugged into either of my Level 2 home Juicebox 40 chargers before it reaches capacity, generally after adding another 4-8% to the battery.  It was impossible for me to fully charge the car without plugging it in multiple times.  The service p",
+        "pct": 22,
+        "title": "Fuel/Propulsion System",
+        "blurb": "87 reports (22%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 83,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact's father owns a 2022 Hyundai Ioniq 5. The contact stated that as her father attempted to place the vehicle into reverse(R) while in park(P), the gear shifter failed to operate as needed. As her father exited the vehicle with the gear shifter in the park(P)position, th",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "83 reports (21%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On February 6, 2023 at approximately 9:50 a.m. I was driving my Hyundai Ioniq 5 SEL northbound on CA Highway 135, Santa Maria, when I heard a loud pop coming from my car.   Within a few seconds my car lost speed rapidly, from 55 mph to 25 then a second later 22 mph . I tried to a",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "35 reports (9%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 24,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on the highway using advanced highway assist and the car became completely unresponsive.  I was traveling 75mph on a major highway with a semi behind me and one to my right in the slow lane.  The car stopped accelerating and I was unable to resume driving.  I was fo",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "24 reports (6%) · 2 crash"
+      }
+    ]
+  }
+}

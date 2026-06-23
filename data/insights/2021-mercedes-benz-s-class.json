@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mercedes-benz-s-class",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MERCEDES-BENZ/S-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:43.417Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Upon startup, the back up camera will not display when putting the car in reverse.  I could not see if any pedestrians were behind me when backing out of a parking spot.  This problem has happened 2 times in the last 2 weeks.  So far, the camera resumes working after the car has ",
+      "pct": 30
+    },
+    {
+      "component": "WHEELS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had 3 tire failures(blowouts)when I have hit potholes with my 21” wheels and Pirelli P Zero tires. I read on a MBZ Forum for my specific make of car - 2021/2022 MBZ S580 - that many others have experienced the same failures with these Pirelli tires. Those that have Micheli",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Mercedes-Benz S580. The contact stated while driving approximately 5 MPH, the brakes failed to function as needed while the brake pedal was being depressed. The failure resulted in a crash. There were no injuries sustained. The contact stated that the acci",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Mercedes-Benz S580. The contact received a notification for NHTSA Campaign Number: 21V843000 (Engine and Engine Cooling) however, the part to do the recall repair was unavailable. The dealer had been notified about the recall; however, the contact was info",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Background:  This is a V-8, gas vehicle.The 12-volt battery gives CRITICAL CHARGE notifications constantly.   Incident:  Dry pavement, 400-mile, January winter night, highway driving in Wisconsin Northwoods at posted 70 mph; some with cruise control, some without cruise control. ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mercedes-Benz S-Class owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Electrical System (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Upon startup, the back up camera will not display when putting the car in reverse.  I could not see if any pedestrians were behind me when backing out of a parking spot.  This problem has happened 2 times in the last 2 weeks.  So far, the camera resumes working after the car has ",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "10 reports (30%) · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had 3 tire failures(blowouts)when I have hit potholes with my 21” wheels and Pirelli P Zero tires. I read on a MBZ Forum for my specific make of car - 2021/2022 MBZ S580 - that many others have experienced the same failures with these Pirelli tires. Those that have Micheli",
+        "pct": 18,
+        "title": "Wheels",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Mercedes-Benz S580. The contact stated while driving approximately 5 MPH, the brakes failed to function as needed while the brake pedal was being depressed. The failure resulted in a crash. There were no injuries sustained. The contact stated that the acci",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (15%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Mercedes-Benz S580. The contact received a notification for NHTSA Campaign Number: 21V843000 (Engine and Engine Cooling) however, the part to do the recall repair was unavailable. The dealer had been notified about the recall; however, the contact was info",
+        "pct": 15,
+        "title": "Engine And Engine Cooling",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Background:  This is a V-8, gas vehicle.The 12-volt battery gives CRITICAL CHARGE notifications constantly.   Incident:  Dry pavement, 400-mile, January winter night, highway driving in Wisconsin Northwoods at posted 70 mph; some with cruise control, some without cruise control. ",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

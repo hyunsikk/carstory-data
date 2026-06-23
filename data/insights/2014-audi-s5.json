@@ -1,0 +1,128 @@
+{
+  "slug": "2014-audi-s5",
+  "make": "Audi",
+  "model": "S5",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/AUDI/S5#complaints",
+  "generatedAt": "2026-06-23T16:43:06.435Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING IN A CONSTRUCTION ZONE NEAR MY HOME IN HEAVY TRAFFIC IN RUSH HOUR ON AUGUST 21, 2019, WHEN THE VEHICLE STOPPED DEAD WITH NO WARNING; THE ENGINE SIMPLY CUT OFF.  IT WOULD NOT RESTART. THE CAR BEHIND MANAGED TO STOP, BUT THE SITUATION LED TO CARS PASSING ME BY DRIVING",
+      "pct": 40
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering Defective - Do Not Drive Vehicle warning on cluster. Almost impossible to turn steering wheel. Thank goodness did not happen at highway speed. Only 50k miles. YMM not one in the extended warranty that was offered by Audi with this issue. Needed $4k whole new steering rac",
+      "pct": 20
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup camera, and MMI SYSTEM DONT WORK GOOGLE MAP,suspension front has been replaced at 90k miles",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup camera, and MMI SYSTEM DONT WORK GOOGLE MAP,suspension front has been replaced at 90k miles",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup camera, and MMI SYSTEM DONT WORK GOOGLE MAP,suspension front has been replaced at 90k miles",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Audi S5 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (40% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING IN A CONSTRUCTION ZONE NEAR MY HOME IN HEAVY TRAFFIC IN RUSH HOUR ON AUGUST 21, 2019, WHEN THE VEHICLE STOPPED DEAD WITH NO WARNING; THE ENGINE SIMPLY CUT OFF.  IT WOULD NOT RESTART. THE CAR BEHIND MANAGED TO STOP, BUT THE SITUATION LED TO CARS PASSING ME BY DRIVING",
+        "pct": 40,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering Defective - Do Not Drive Vehicle warning on cluster. Almost impossible to turn steering wheel. Thank goodness did not happen at highway speed. Only 50k miles. YMM not one in the extended warranty that was offered by Audi with this issue. Needed $4k whole new steering rac",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup camera, and MMI SYSTEM DONT WORK GOOGLE MAP,suspension front has been replaced at 90k miles",
+        "pct": 20,
+        "title": "Suspension",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup camera, and MMI SYSTEM DONT WORK GOOGLE MAP,suspension front has been replaced at 90k miles",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup camera, and MMI SYSTEM DONT WORK GOOGLE MAP,suspension front has been replaced at 90k miles",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-accent",
+  "make": "Hyundai",
+  "model": "Accent",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/ACCENT#complaints",
+  "generatedAt": "2026-06-23T16:33:02.200Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I owned a 2017 Elantra and now I own a 2020 Accent. Both cars had the same on and off problem. When I am at an intersection and have to step on the gas to get thru the intersection quickly, when I step on the gas nothing happens. I have to pump the gas several times to get going.",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY GRANDDAUGHTER WAS DRIVING ON A FREEWAY NEAR DALLAS TX. AS SHE SLOWED FOR AN UPCOMING CONSTRUCTION ZONE SHE WAS REAR-ENDED BY BY ANOTHER VEHICLE. PROPELLING HER INTO THE GUARD RAIL AND FURTHER TO THE RIGHT ENDING UP IN THE RIGHT LANE OF THE FREEWAY. THE VEHICLE WAS A TOTAL LOSS",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2012 Hyundai Accent. The contact stated while driving approximately 55-60 mph, the hood was released without warning and cracked the front windshield. The local dealer was not contacted. The vehicle was not diagnosed nor repaired. The manufacturer was notified ",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle does the same thing as NHTSA ID Number: 11423521 and now I know not to bother taking it in for service for this issue.  I was validated when I read that complaint as I have and continue to experience the same non-responsive issue when I accelerate from a complete stop ",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle does the same thing as NHTSA ID Number: 11423521 and now I know not to bother taking it in for service for this issue.  I was validated when I read that complaint as I have and continue to experience the same non-responsive issue when I accelerate from a complete stop ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Hyundai Accent owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I owned a 2017 Elantra and now I own a 2020 Accent. Both cars had the same on and off problem. When I am at an intersection and have to step on the gas to get thru the intersection quickly, when I step on the gas nothing happens. I have to pump the gas several times to get going.",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "4 reports (33%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY GRANDDAUGHTER WAS DRIVING ON A FREEWAY NEAR DALLAS TX. AS SHE SLOWED FOR AN UPCOMING CONSTRUCTION ZONE SHE WAS REAR-ENDED BY BY ANOTHER VEHICLE. PROPELLING HER INTO THE GUARD RAIL AND FURTHER TO THE RIGHT ENDING UP IN THE RIGHT LANE OF THE FREEWAY. THE VEHICLE WAS A TOTAL LOSS",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "2 reports (17%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2012 Hyundai Accent. The contact stated while driving approximately 55-60 mph, the hood was released without warning and cracked the front windshield. The local dealer was not contacted. The vehicle was not diagnosed nor repaired. The manufacturer was notified ",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle does the same thing as NHTSA ID Number: 11423521 and now I know not to bother taking it in for service for this issue.  I was validated when I read that complaint as I have and continue to experience the same non-responsive issue when I accelerate from a complete stop ",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle does the same thing as NHTSA ID Number: 11423521 and now I know not to bother taking it in for service for this issue.  I was validated when I read that complaint as I have and continue to experience the same non-responsive issue when I accelerate from a complete stop ",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (17%)"
+      }
+    ]
+  }
+}

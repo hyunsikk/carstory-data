@@ -1,0 +1,128 @@
+{
+  "slug": "2023-kia-rio",
+  "make": "Kia",
+  "model": "Rio",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/RIO#complaints",
+  "generatedAt": "2026-06-23T16:36:39.008Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I started my car, during the warm-up process, it dropped revs and turned off. After several tries, it turned on. While driving, when the vehicle was stopped, it began to jerk slightly. The safety risk is that the car, while I am driving, could turn off and cause an accident,",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hi [XXX]   My Kia Rio 2023 S vin number is [XXX] . Bought a couple months back new at Summit Place Kia Auburn Hills michigan.  Once I drive off I realised the steering wheel alignment is off. The car does not drive straight when steering wheel is straight. I called my salesman an",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I started my car, during the warm-up process, it dropped revs and turned off. After several tries, it turned on. While driving, when the vehicle was stopped, it began to jerk slightly. The safety risk is that the car, while I am driving, could turn off and cause an accident,",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a new 2023 Kia Rio on Mar. 13. Within 30 hours of getting it home it was entered by thieves who wrecked the ignition system trying to steal it. The dealer did not inform me of the great danger of theft of Kia models like mine. They did not urge me to get an anti-theft de",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hi [XXX]   My Kia Rio 2023 S vin number is [XXX] . Bought a couple months back new at Summit Place Kia Auburn Hills michigan.  Once I drive off I realised the steering wheel alignment is off. The car does not drive straight when steering wheel is straight. I called my salesman an",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Rio owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Engine (25% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I started my car, during the warm-up process, it dropped revs and turned off. After several tries, it turned on. While driving, when the vehicle was stopped, it began to jerk slightly. The safety risk is that the car, while I am driving, could turn off and cause an accident,",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hi [XXX]   My Kia Rio 2023 S vin number is [XXX] . Bought a couple months back new at Summit Place Kia Auburn Hills michigan.  Once I drive off I realised the steering wheel alignment is off. The car does not drive straight when steering wheel is straight. I called my salesman an",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I started my car, during the warm-up process, it dropped revs and turned off. After several tries, it turned on. While driving, when the vehicle was stopped, it began to jerk slightly. The safety risk is that the car, while I am driving, could turn off and cause an accident,",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a new 2023 Kia Rio on Mar. 13. Within 30 hours of getting it home it was entered by thieves who wrecked the ignition system trying to steal it. The dealer did not inform me of the great danger of theft of Kia models like mine. They did not urge me to get an anti-theft de",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hi [XXX]   My Kia Rio 2023 S vin number is [XXX] . Bought a couple months back new at Summit Place Kia Auburn Hills michigan.  Once I drive off I realised the steering wheel alignment is off. The car does not drive straight when steering wheel is straight. I called my salesman an",
+        "pct": 17,
+        "title": "Suspension",
+        "blurb": "2 reports (17%)"
+      }
+    ]
+  }
+}

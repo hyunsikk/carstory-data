@@ -1,0 +1,128 @@
+{
+  "slug": "2024-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T16:31:17.501Z",
+  "total": 53,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving and making a left turn at a traffic light when all of a sudden, every light lit up on my dashboard.  Then the dashboard turned completely black along with the radio screen.  When the dashboard went black, I tried to stop by hitting the brakes to pull over.  The brak",
+      "pct": 42
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2024 brand new Acadia Denali trim with 1k miles was brought in to the dealership because of 'popping' and 'grinding' noise when turning, most loudest when turning to and from the right. It was also very much felt on the steering wheel.  Dealer took apart the front right strut ass",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle is 3 months old with 4650 miles. I was driving on the turnpike and without notice a warning on the dash advised that there was no oil pressure and to pull over. I had the vehicle towed to a dealer out of state since we were 3 hours from home. The dealer called today to",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving and making a left turn at a traffic light when all of a sudden, every light lit up on my dashboard.  Then the dashboard turned completely black along with the radio screen.  When the dashboard went black, I tried to stop by hitting the brakes to pull over.  The brak",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On our drive home from Colorado back to Wyoming. Our 2024 GMC Acadia AT4 had 3,076 miles on the SUV. No problems leading up to this point. Has we crossed the Wyoming boarder emergency light comes off shut vehicle off immediately. Oil pressure low. I pulled over on the side of the",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Gmc Acadia owners report most",
+    "summary": "Across 53 owner complaints to NHTSA, the most reported area is Service Brakes (42% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving and making a left turn at a traffic light when all of a sudden, every light lit up on my dashboard.  Then the dashboard turned completely black along with the radio screen.  When the dashboard went black, I tried to stop by hitting the brakes to pull over.  The brak",
+        "pct": 42,
+        "title": "Service Brakes",
+        "blurb": "22 reports (42%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2024 brand new Acadia Denali trim with 1k miles was brought in to the dealership because of 'popping' and 'grinding' noise when turning, most loudest when turning to and from the right. It was also very much felt on the steering wheel.  Dealer took apart the front right strut ass",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (19%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle is 3 months old with 4650 miles. I was driving on the turnpike and without notice a warning on the dash advised that there was no oil pressure and to pull over. I had the vehicle towed to a dealer out of state since we were 3 hours from home. The dealer called today to",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "9 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving and making a left turn at a traffic light when all of a sudden, every light lit up on my dashboard.  Then the dashboard turned completely black along with the radio screen.  When the dashboard went black, I tried to stop by hitting the brakes to pull over.  The brak",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "8 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On our drive home from Colorado back to Wyoming. Our 2024 GMC Acadia AT4 had 3,076 miles on the SUV. No problems leading up to this point. Has we crossed the Wyoming boarder emergency light comes off shut vehicle off immediately. Oil pressure low. I pulled over on the side of the",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "7 reports (13%)"
+      }
+    ]
+  }
+}

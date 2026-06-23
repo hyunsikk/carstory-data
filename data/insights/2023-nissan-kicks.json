@@ -1,0 +1,128 @@
+{
+  "slug": "2023-nissan-kicks",
+  "make": "Nissan",
+  "model": "Kicks",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/NISSAN/KICKS#complaints",
+  "generatedAt": "2026-06-23T16:39:17.100Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The components that failed in multiple instances include the engine shutting off in traffic at a stop light, the failure to accelerate as if the engine is stuck, and the forward collision warning indicator repeatedly coming on while driving with no one is front of me. An accident",
+      "pct": 37
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The components that failed in multiple instances include the engine shutting off in traffic at a stop light, the failure to accelerate as if the engine is stuck, and the forward collision warning indicator repeatedly coming on while driving with no one is front of me. An accident",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The components that failed in multiple instances include the engine shutting off in traffic at a stop light, the failure to accelerate as if the engine is stuck, and the forward collision warning indicator repeatedly coming on while driving with no one is front of me. An accident",
+      "pct": 17
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "March 2023 Master Warning Light symbol on dashboard and Rear Automatic Braking (RAB) Warning Light symbol on dashboard. Warning Malfunction See Owner's Manual and Warning Parking Sensor Error See Owner's Manual. June 2023 Warning No Key Detected, Check Rear Seat for All Articles ",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On July 5,2023, I was parking the Nissan Kicks in a street parking spot with my family on board. As I attempted to apply the brakes, I inadvertently pressed both the brake and gas pedals simultaneously due to the insufficient clearance between them. This unexpected response cause",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Nissan Kicks owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The components that failed in multiple instances include the engine shutting off in traffic at a stop light, the failure to accelerate as if the engine is stuck, and the forward collision warning indicator repeatedly coming on while driving with no one is front of me. An accident",
+        "pct": 37,
+        "title": "Forward Collision Avoidance",
+        "blurb": "11 reports (37%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The components that failed in multiple instances include the engine shutting off in traffic at a stop light, the failure to accelerate as if the engine is stuck, and the forward collision warning indicator repeatedly coming on while driving with no one is front of me. An accident",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "7 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The components that failed in multiple instances include the engine shutting off in traffic at a stop light, the failure to accelerate as if the engine is stuck, and the forward collision warning indicator repeatedly coming on while driving with no one is front of me. An accident",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "March 2023 Master Warning Light symbol on dashboard and Rear Automatic Braking (RAB) Warning Light symbol on dashboard. Warning Malfunction See Owner's Manual and Warning Parking Sensor Error See Owner's Manual. June 2023 Warning No Key Detected, Check Rear Seat for All Articles ",
+        "pct": 13,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On July 5,2023, I was parking the Nissan Kicks in a street parking spot with my family on board. As I attempted to apply the brakes, I inadvertently pressed both the brake and gas pedals simultaneously due to the insufficient clearance between them. This unexpected response cause",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "4 reports (13%) · 1 crash"
+      }
+    ]
+  }
+}

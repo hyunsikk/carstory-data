@@ -1,0 +1,128 @@
+{
+  "slug": "2018-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:45.310Z",
+  "total": 13,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The day we took our Porsche home, we noticed a lot of heat generation in the car- but we thought it will be fine going further, given the attention to detail of Porsche's Automobile Engineering.  The following days were not any better for my daughter- she missed a major accident ",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INTERMITTENT LACK OF ACCELERATION WHEN TAKING LEFT TURNS FROM A DEAD STOP.   CAR WAS A DEALER LOANER WITH 9000 MILES ON SPEEDOMETER. I PURCHASED THE CAR IN AUGUST, 2018.   WITHIN THE FIRST 1000 MILES AND IN LESS THAN FOUR WEEKS I EXPERIENCED  A SERIOUS LACK OF ACCELERATION ON TWO",
+      "pct": 23
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN TRYING TO ACCELERATE INTO TRAFFIC VEHICLE WILL EXPERIENCE WHAT FEELS LIKE A DEAD SPOT IN THE ACCELERATOR AND THEN LURCH FORWARD AT A HIGH SPEED THIS CONDITION HAS BEEN REPORTED ON NUMEROUS COMPLAINT SITE CONCERNING VARIOUS PORSCHE VEHICLES AND SPECIFICALL CONCERNING PORSCHE ",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Porsche Cayenne that equipped with leather dashboard are peeling off over the time. If the vehicle in an accident, the airbag on the passenger side dashboard may not deploy correctly. I am finding many cayenne owners are having this issue. I really hope NTSB can issue a recal",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving through a parking lot, less than five miles an hour, and suddenly heard a horrible knocking sound. Stopped and looked under the car.  Nothing. Drove it very slowly to mechanic less than a mile away.  Front drive shaft had collapsed and fallen down, according to the mechan",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Porsche Cayenne owners report most",
+    "summary": "Across 13 owner complaints to NHTSA, the most reported area is Electrical System (23% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The day we took our Porsche home, we noticed a lot of heat generation in the car- but we thought it will be fine going further, given the attention to detail of Porsche's Automobile Engineering.  The following days were not any better for my daughter- she missed a major accident ",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "3 reports (23%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INTERMITTENT LACK OF ACCELERATION WHEN TAKING LEFT TURNS FROM A DEAD STOP.   CAR WAS A DEALER LOANER WITH 9000 MILES ON SPEEDOMETER. I PURCHASED THE CAR IN AUGUST, 2018.   WITHIN THE FIRST 1000 MILES AND IN LESS THAN FOUR WEEKS I EXPERIENCED  A SERIOUS LACK OF ACCELERATION ON TWO",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "3 reports (23%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN TRYING TO ACCELERATE INTO TRAFFIC VEHICLE WILL EXPERIENCE WHAT FEELS LIKE A DEAD SPOT IN THE ACCELERATOR AND THEN LURCH FORWARD AT A HIGH SPEED THIS CONDITION HAS BEEN REPORTED ON NUMEROUS COMPLAINT SITE CONCERNING VARIOUS PORSCHE VEHICLES AND SPECIFICALL CONCERNING PORSCHE ",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Porsche Cayenne that equipped with leather dashboard are peeling off over the time. If the vehicle in an accident, the airbag on the passenger side dashboard may not deploy correctly. I am finding many cayenne owners are having this issue. I really hope NTSB can issue a recal",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "2 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving through a parking lot, less than five miles an hour, and suddenly heard a horrible knocking sound. Stopped and looked under the car.  Nothing. Drove it very slowly to mechanic less than a mile away.  Front drive shaft had collapsed and fallen down, according to the mechan",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

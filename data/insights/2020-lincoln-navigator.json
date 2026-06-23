@@ -1,0 +1,128 @@
+{
+  "slug": "2020-lincoln-navigator",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LINCOLN/NAVIGATOR#complaints",
+  "generatedAt": "2026-06-23T16:37:56.730Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 16,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle set on adaptive cruise control, car accelerated to get back up to set speed and had a hard \"clunk\" sound. Driver turned off cruise control and attempted to accelerate vehicle. Vehicle tachometer revved up, transmission didn't shift properly, still shifting hard or not shi",
+      "pct": 57
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE'VE HAD THIS VEHICLE FOR A LITTLE LESS THAN TWO MONTHS. THE APP STARTED SENDING NOTIFICATIONS ABOUT THE CAR GOING INTO DEEP SLEEP AND NEEDING TO CONSERVE BATTERY WITHIN A WEEK AFTER PURCHASE. WE WERE UNABLE TO USE REMOTE UNLOCK OR START. JAN 10, IT WAS DEAD AFTER SITTING OVERNI",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Catastrophic engine failure on 2020 Lincoln Navigator at 93,000 miles. Oil contamination in cylinder 6 caused complete compression loss due to piston ring failure. The engine suffers from failed cam phases and excessive carbon build up which are known failure points of this engin",
+      "pct": 11
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Both front headlight and rear headlight seals are faulty resulting in a water leak, causing headlight and taillights to become inoperable at 60k miles.",
+      "pct": 4
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The collision warning doesn't warn sometimes. Nothing goes off when Im approaching and or have slammed on my breaks to avoid a collision. Sometimes it goes off at a great distance when it doesn't make sense to go off.  I just bought the car used and have noticed this a lot. Also ",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lincoln Navigator owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Power Train (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 16,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle set on adaptive cruise control, car accelerated to get back up to set speed and had a hard \"clunk\" sound. Driver turned off cruise control and attempted to accelerate vehicle. Vehicle tachometer revved up, transmission didn't shift properly, still shifting hard or not shi",
+        "pct": 57,
+        "title": "Power Train",
+        "blurb": "16 reports (57%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE'VE HAD THIS VEHICLE FOR A LITTLE LESS THAN TWO MONTHS. THE APP STARTED SENDING NOTIFICATIONS ABOUT THE CAR GOING INTO DEEP SLEEP AND NEEDING TO CONSERVE BATTERY WITHIN A WEEK AFTER PURCHASE. WE WERE UNABLE TO USE REMOTE UNLOCK OR START. JAN 10, IT WAS DEAD AFTER SITTING OVERNI",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "4 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Catastrophic engine failure on 2020 Lincoln Navigator at 93,000 miles. Oil contamination in cylinder 6 caused complete compression loss due to piston ring failure. The engine suffers from failed cam phases and excessive carbon build up which are known failure points of this engin",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "3 reports (11%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Both front headlight and rear headlight seals are faulty resulting in a water leak, causing headlight and taillights to become inoperable at 60k miles.",
+        "pct": 4,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The collision warning doesn't warn sometimes. Nothing goes off when Im approaching and or have slammed on my breaks to avoid a collision. Sometimes it goes off at a great distance when it doesn't make sense to go off.  I just bought the car used and have noticed this a lot. Also ",
+        "pct": 4,
+        "title": "Lane Departure",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

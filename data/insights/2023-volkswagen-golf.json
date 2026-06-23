@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-golf",
+  "make": "Volkswagen",
+  "model": "Golf",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/GOLF#complaints",
+  "generatedAt": "2026-06-23T16:41:52.679Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicles infotainment system does not turn on at startup - several error messages for safety features by most importantly, rear camera does not work when infotainment system screen is down and requires the dealer to activate it or fully black screen. Took to VW three times and th",
+      "pct": 55
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2023 GTI’s rear camera, cross traffic sensors and parking sensors not functioning as Infotainment system controls these systems, and is consistently blacking out and showing errors. Had VW in for several services and dealer told me it’s a VW Software issue. Hence, this issue is l",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This car should be under an active recall for 2022/2023 Volkswagen GTI/R due to insecurely installed radiator. But it's not listed somehow.  The radiator was loose and caused rupture in coolant hose, and loss of coolant.",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Having consistent issues with safety features and infotainment system that locks up with errors.  Since new my VW Gti has been experiencing drivers' assistants' issues. At times the backup camera does not work. At times the the whole infotainment system will have various differen",
+      "pct": 18
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Back up camera not working due to infotainment system not working.  Dealer is aware, says they are waiting for a software update.",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Golf owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Electrical System (55% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicles infotainment system does not turn on at startup - several error messages for safety features by most importantly, rear camera does not work when infotainment system screen is down and requires the dealer to activate it or fully black screen. Took to VW three times and th",
+        "pct": 55,
+        "title": "Electrical System",
+        "blurb": "6 reports (55%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2023 GTI’s rear camera, cross traffic sensors and parking sensors not functioning as Infotainment system controls these systems, and is consistently blacking out and showing errors. Had VW in for several services and dealer told me it’s a VW Software issue. Hence, this issue is l",
+        "pct": 27,
+        "title": "Back Over Prevention",
+        "blurb": "3 reports (27%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This car should be under an active recall for 2022/2023 Volkswagen GTI/R due to insecurely installed radiator. But it's not listed somehow.  The radiator was loose and caused rupture in coolant hose, and loss of coolant.",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Having consistent issues with safety features and infotainment system that locks up with errors.  Since new my VW Gti has been experiencing drivers' assistants' issues. At times the backup camera does not work. At times the the whole infotainment system will have various differen",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Back up camera not working due to infotainment system not working.  Dealer is aware, says they are waiting for a software update.",
+        "pct": 9,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (9%)"
+      }
+    ]
+  }
+}

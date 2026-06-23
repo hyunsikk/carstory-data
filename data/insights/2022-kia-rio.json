@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-rio",
+  "make": "Kia",
+  "model": "Rio",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/RIO#complaints",
+  "generatedAt": "2026-06-23T16:36:38.938Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Rio. The contact stated that while stopped at a traffic light, the contact heard an abnormally loud bang and believed that the vehicle had been struck in the rear by an object. The contact opened the trunk and became aware that the trunk shocks had bec",
+      "pct": 20
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Rio. The contact stated that the rearview camera would intermittently turn on while driving at various speeds. The contact also stated that while in reverse(R), the camera would intermittently display a blank or distorted image. Recently, the contact s",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When my car is running it makes a knocking noise from engine I have taken it th the dealer they heard it but said they can figure out where it's coming from. The engine runs hotter than normal. The rods I think are the cause",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When traveling 60 mph and slowing to try to stop, brake pedal went all the way to the floor and vehicle would not brake. Had to engage emergency brake to stop vehicle during normal operation on multiple occasions.  Once while stopped at a red light, vehicle was completely stopped",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The windshield wipers only work consistently on the last two settings. When you push the wiper gear down to the initial setting where you can adjust the speed with the dial, it struggles to move or doesn’t move at all. I can hear the wiper gear trying to lift the wipers, but noth",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia Rio owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Latches/Locks/Linkages (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Rio. The contact stated that while stopped at a traffic light, the contact heard an abnormally loud bang and believed that the vehicle had been struck in the rear by an object. The contact opened the trunk and became aware that the trunk shocks had bec",
+        "pct": 20,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "2 reports (20%) · 1 crash"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Rio. The contact stated that the rearview camera would intermittently turn on while driving at various speeds. The contact also stated that while in reverse(R), the camera would intermittently display a blank or distorted image. Recently, the contact s",
+        "pct": 10,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (10%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When my car is running it makes a knocking noise from engine I have taken it th the dealer they heard it but said they can figure out where it's coming from. The engine runs hotter than normal. The rods I think are the cause",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When traveling 60 mph and slowing to try to stop, brake pedal went all the way to the floor and vehicle would not brake. Had to engage emergency brake to stop vehicle during normal operation on multiple occasions.  Once while stopped at a red light, vehicle was completely stopped",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The windshield wipers only work consistently on the last two settings. When you push the wiper gear down to the initial setting where you can adjust the speed with the dial, it struggles to move or doesn’t move at all. I can hear the wiper gear trying to lift the wipers, but noth",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

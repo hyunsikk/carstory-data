@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-q5",
+  "make": "Audi",
+  "model": "Q5",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/Q5#complaints",
+  "generatedAt": "2026-06-23T16:26:01.017Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Q5 HAS A VERY SERIOUS DEFECT, THAT IS, THERE IS A GATEWAY MODULE LOCATED UNDER THE REAR SEAT CUSHION/CUP HOLDER. ALL OF THE COMMUNICATIONS TO ALL THE CONTROLLERS GO THROUGH THIS LITTLE BOX. IF WATER SPILLS, IT COLLECTS AROUND THE GATEWAY AND CORRODES IT, WHICH WILL SHUT DOWN THE ",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Q5 HAS A VERY SERIOUS DEFECT, THAT IS, THERE IS A GATEWAY MODULE LOCATED UNDER THE REAR SEAT CUSHION/CUP HOLDER. ALL OF THE COMMUNICATIONS TO ALL THE CONTROLLERS GO THROUGH THIS LITTLE BOX. IF WATER SPILLS, IT COLLECTS AROUND THE GATEWAY AND CORRODES IT, WHICH WILL SHUT DOWN THE ",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "when using cruise control, the vehicle suddenly brakes. If set a 70mph it will jam on the brakes and reset to 45 mph. This has caused near rear collisions. This is a recurring problem,.Audi service tried 3 times to identify the problem. Google has  other owners with the same prob",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Q5 HAS A VERY SERIOUS DEFECT, THAT IS, THERE IS A GATEWAY MODULE LOCATED UNDER THE REAR SEAT CUSHION/CUP HOLDER. ALL OF THE COMMUNICATIONS TO ALL THE CONTROLLERS GO THROUGH THIS LITTLE BOX. IF WATER SPILLS, IT COLLECTS AROUND THE GATEWAY AND CORRODES IT, WHICH WILL SHUT DOWN THE ",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was driving down a slight hill in 1/2 inch of snow at 5MPH and when I tired to gently brake as I descended the hill, the brake pedal had no resistance and went flat to the floor. I had no brakes. I then tried to steer towards the side of the road and the steering wheel complete",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi Q5 owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Electrical System (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Q5 HAS A VERY SERIOUS DEFECT, THAT IS, THERE IS A GATEWAY MODULE LOCATED UNDER THE REAR SEAT CUSHION/CUP HOLDER. ALL OF THE COMMUNICATIONS TO ALL THE CONTROLLERS GO THROUGH THIS LITTLE BOX. IF WATER SPILLS, IT COLLECTS AROUND THE GATEWAY AND CORRODES IT, WHICH WILL SHUT DOWN THE ",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "24 reports (36%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Q5 HAS A VERY SERIOUS DEFECT, THAT IS, THERE IS A GATEWAY MODULE LOCATED UNDER THE REAR SEAT CUSHION/CUP HOLDER. ALL OF THE COMMUNICATIONS TO ALL THE CONTROLLERS GO THROUGH THIS LITTLE BOX. IF WATER SPILLS, IT COLLECTS AROUND THE GATEWAY AND CORRODES IT, WHICH WILL SHUT DOWN THE ",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "15 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "when using cruise control, the vehicle suddenly brakes. If set a 70mph it will jam on the brakes and reset to 45 mph. This has caused near rear collisions. This is a recurring problem,.Audi service tried 3 times to identify the problem. Google has  other owners with the same prob",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "10 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Q5 HAS A VERY SERIOUS DEFECT, THAT IS, THERE IS A GATEWAY MODULE LOCATED UNDER THE REAR SEAT CUSHION/CUP HOLDER. ALL OF THE COMMUNICATIONS TO ALL THE CONTROLLERS GO THROUGH THIS LITTLE BOX. IF WATER SPILLS, IT COLLECTS AROUND THE GATEWAY AND CORRODES IT, WHICH WILL SHUT DOWN THE ",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "10 reports (15%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was driving down a slight hill in 1/2 inch of snow at 5MPH and when I tired to gently brake as I descended the hill, the brake pedal had no resistance and went flat to the floor. I had no brakes. I then tried to steer towards the side of the road and the steering wheel complete",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "4 reports (6%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

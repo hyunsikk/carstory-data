@@ -1,0 +1,84 @@
+{
+  "slug": "2022-mini-clubman",
+  "make": "MINI",
+  "model": "Clubman",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MINI/CLUBMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:39.257Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Issue 1 - Engine had a rough idle - dealer investigation found that the \"upper engine mount had collapsed completely allowing the engine to rest on the housing\". This problem occurred at 52 months from new vehicle purchase at 24,165 miles (warranty is 4 years, 50,000 miles). The ",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Issue 1 - Engine had a rough idle - dealer investigation found that the \"upper engine mount had collapsed completely allowing the engine to rest on the housing\". This problem occurred at 52 months from new vehicle purchase at 24,165 miles (warranty is 4 years, 50,000 miles). The ",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact's nephew owned a 2022 Mini Cooper Clubman. The contact stated that while the nephew was driving approximately 35 MPH the braking system suddenly failed and the brake pedal extended to the floor causing the vehicle to crash into a tree. During the crash, the vehicle wa",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mini Clubman owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Steering (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Issue 1 - Engine had a rough idle - dealer investigation found that the \"upper engine mount had collapsed completely allowing the engine to rest on the housing\". This problem occurred at 52 months from new vehicle purchase at 24,165 miles (warranty is 4 years, 50,000 miles). The ",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Issue 1 - Engine had a rough idle - dealer investigation found that the \"upper engine mount had collapsed completely allowing the engine to rest on the housing\". This problem occurred at 52 months from new vehicle purchase at 24,165 miles (warranty is 4 years, 50,000 miles). The ",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact's nephew owned a 2022 Mini Cooper Clubman. The contact stated that while the nephew was driving approximately 35 MPH the braking system suddenly failed and the brake pedal extended to the floor causing the vehicle to crash into a tree. During the crash, the vehicle wa",
+        "pct": 50,
+        "title": "Service Brakes",
+        "blurb": "1 report (50%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

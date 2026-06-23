@@ -1,0 +1,128 @@
+{
+  "slug": "2024-land-rover-range-rover",
+  "make": "Land Rover",
+  "model": "Range Rover",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/LAND%20ROVER/RANGE%20ROVER#complaints",
+  "generatedAt": "2026-06-23T16:37:10.288Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 2,
+      "sample": "Was on the highway and there was a rumbling noise coming from under the car. It would only happen at highway speeds. (The dealer said this was normal and happened when he trest drive another car of the same model.)  When driving at parking lot speeds and making sharp turns, the c",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 2,
+      "sample": "On first occastions while driving at 60+ MPH on a busy highway, the vehicle beeped for a few seconds and the dashboard went blank, engine died, no brakes, no power steering.  It was only a miracle that saved me from being hit at a high speed by other drivers.  The dealer charged ",
+      "pct": 30
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On first occastions while driving at 60+ MPH on a busy highway, the vehicle beeped for a few seconds and the dashboard went blank, engine died, no brakes, no power steering.  It was only a miracle that saved me from being hit at a high speed by other drivers.  The dealer charged ",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On first occastions while driving at 60+ MPH on a busy highway, the vehicle beeped for a few seconds and the dashboard went blank, engine died, no brakes, no power steering.  It was only a miracle that saved me from being hit at a high speed by other drivers.  The dealer charged ",
+      "pct": 20
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component is Land Rover windshields and design of 2024 vehicles. I am on my 6th windshield in a little over a year since purchase. I have had a crack and runs in my vision  on the window more than a clear vision through the windshield. The Land Rover Company/manufacturer/deal",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Land Rover Range Rover owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 2,
+        "sample": "Was on the highway and there was a rumbling noise coming from under the car. It would only happen at highway speeds. (The dealer said this was normal and happened when he trest drive another car of the same model.)  When driving at parking lot speeds and making sharp turns, the c",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "3 reports (30%) · 2 crash · 6 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 2,
+        "sample": "On first occastions while driving at 60+ MPH on a busy highway, the vehicle beeped for a few seconds and the dashboard went blank, engine died, no brakes, no power steering.  It was only a miracle that saved me from being hit at a high speed by other drivers.  The dealer charged ",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "3 reports (30%) · 2 crash · 6 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On first occastions while driving at 60+ MPH on a busy highway, the vehicle beeped for a few seconds and the dashboard went blank, engine died, no brakes, no power steering.  It was only a miracle that saved me from being hit at a high speed by other drivers.  The dealer charged ",
+        "pct": 30,
+        "title": "Service Brakes",
+        "blurb": "3 reports (30%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On first occastions while driving at 60+ MPH on a busy highway, the vehicle beeped for a few seconds and the dashboard went blank, engine died, no brakes, no power steering.  It was only a miracle that saved me from being hit at a high speed by other drivers.  The dealer charged ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component is Land Rover windshields and design of 2024 vehicles. I am on my 6th windshield in a little over a year since purchase. I have had a crack and runs in my vision  on the window more than a clear vision through the windshield. The Land Rover Company/manufacturer/deal",
+        "pct": 20,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (20%)"
+      }
+    ]
+  }
+}

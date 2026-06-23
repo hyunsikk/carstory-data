@@ -1,0 +1,128 @@
+{
+  "slug": "2016-jeep-renegade",
+  "make": "Jeep",
+  "model": "Renegade",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/JEEP/RENEGADE#complaints",
+  "generatedAt": "2026-06-23T16:36:06.424Z",
+  "total": 426,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 172,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR \"SERVICE ENGINE\" LIGHT CAME ON AS WELL AS A MESSAGE ON THE DASHBOARD WITH THE WORDS \"SAFETY ASSIST\" AND \"SECURITY\".  I IMMEDIATELY BROUGHT THE CAR TO THE DEALER.  AFTER 2 DAYS IN THE SHOP, THEY SAID IT WAS (AS POSTED ON THE PAPERWORK RELEASED TO ME) \"CYLINDER 3 MISFIRE AND",
+      "pct": 40
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 118,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WE PURCHASED A BRAND NEW 2016 JEEP RENEGADE LATITUDE ON JUNE 11, 2016. ON JULY 1, 2016 AT APPROXIMATELY 400 MILES THE CAR BEGAN TO MALFUNCTION. ON JULY 1, THE VEHICLE WAS STARTED VIA THE PUSH-START IGNITION AND RAN UNTIL THE WINDSHIELD WIPERS WERE POWERED ON, AT WHICH POINT THE C",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 73,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "VEHICLE ACCELERATED ON ITS OWN. DRIVER TOOK FOOT OFF THE BRAKE FROM DEAD STOP AND THE RENEGADE SUDDENLY ACCELERATED ON ITS OWN WITHOUT TOUCHING THE ACCELERATOR. THE INSTURMENT PANEL FLASHED AND FLICKERED VARIOUS TROUBLE INDICATIONS AND THEN STOPPED WITH THE MESSAGE TO SERVICE THE",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VIBRATING/RUMBLING NOISE THROUGH GAS PEDAL AND REAR DIFFERENTIAL BETWEEN 29-34 MPH WHILE USING CRUISE/NOT USING CRUISE/LETTING OFF GAS PEDAL SLOWLY; DEALERSHIP CLAIMS ITS THE HIGH GEARING, ITS NORMAL, WE CANT REPLICATE, CHRYSLER REP STATES THE SAME THING, YET I TAKE THE SERVICE M",
+      "pct": 7
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 26,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "VEHICLE WAS PURCHASED MAY 16, 2016.    ON AUGUST 6, 2016 THE VEHICLE COMPLETELY SHUT OFF WHILE TRAVELING 60 MPH DOWN THE INTERSTATE. THE ELECTRONIC TRACTION CONTROL LIGHT CAME ON AND THE 4-WHEEL DRIVE LIGHTS SHUTOFF COMPLETELY. IT ONLY TRAVELED APPROXIMATELY 20-30 FEET BEFORE COM",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Jeep Renegade owners report most",
+    "summary": "Across 426 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 172,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR \"SERVICE ENGINE\" LIGHT CAME ON AS WELL AS A MESSAGE ON THE DASHBOARD WITH THE WORDS \"SAFETY ASSIST\" AND \"SECURITY\".  I IMMEDIATELY BROUGHT THE CAR TO THE DEALER.  AFTER 2 DAYS IN THE SHOP, THEY SAID IT WAS (AS POSTED ON THE PAPERWORK RELEASED TO ME) \"CYLINDER 3 MISFIRE AND",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "172 reports (40%) · 3 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 118,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WE PURCHASED A BRAND NEW 2016 JEEP RENEGADE LATITUDE ON JUNE 11, 2016. ON JULY 1, 2016 AT APPROXIMATELY 400 MILES THE CAR BEGAN TO MALFUNCTION. ON JULY 1, THE VEHICLE WAS STARTED VIA THE PUSH-START IGNITION AND RAN UNTIL THE WINDSHIELD WIPERS WERE POWERED ON, AT WHICH POINT THE C",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "118 reports (28%) · 2 fire · 1 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 73,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "VEHICLE ACCELERATED ON ITS OWN. DRIVER TOOK FOOT OFF THE BRAKE FROM DEAD STOP AND THE RENEGADE SUDDENLY ACCELERATED ON ITS OWN WITHOUT TOUCHING THE ACCELERATOR. THE INSTURMENT PANEL FLASHED AND FLICKERED VARIOUS TROUBLE INDICATIONS AND THEN STOPPED WITH THE MESSAGE TO SERVICE THE",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "73 reports (17%) · 3 crash · 7 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VIBRATING/RUMBLING NOISE THROUGH GAS PEDAL AND REAR DIFFERENTIAL BETWEEN 29-34 MPH WHILE USING CRUISE/NOT USING CRUISE/LETTING OFF GAS PEDAL SLOWLY; DEALERSHIP CLAIMS ITS THE HIGH GEARING, ITS NORMAL, WE CANT REPLICATE, CHRYSLER REP STATES THE SAME THING, YET I TAKE THE SERVICE M",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "29 reports (7%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 26,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "VEHICLE WAS PURCHASED MAY 16, 2016.    ON AUGUST 6, 2016 THE VEHICLE COMPLETELY SHUT OFF WHILE TRAVELING 60 MPH DOWN THE INTERSTATE. THE ELECTRONIC TRACTION CONTROL LIGHT CAME ON AND THE 4-WHEEL DRIVE LIGHTS SHUTOFF COMPLETELY. IT ONLY TRAVELED APPROXIMATELY 20-30 FEET BEFORE COM",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "26 reports (6%) · 1 fire · 1 crash · 6 injured"
+      }
+    ]
+  }
+}

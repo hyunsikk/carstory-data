@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mercedes-benz-s-class",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MERCEDES-BENZ/S-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:43.721Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I leased a 2023 Mercedes from Grapevine Mercedes.  When I test drove the vehicle the car had a check engine light on. The sales man said he would get that fixed.  The salesman had the service tech clear the code without addressing the issue.  A week later the check engine light c",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I leased a 2023 Mercedes from Grapevine Mercedes.  When I test drove the vehicle the car had a check engine light on. The sales man said he would get that fixed.  The salesman had the service tech clear the code without addressing the issue.  A week later the check engine light c",
+      "pct": 25
+    },
+    {
+      "component": "TIRES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had 9985 miles on my 2023 Mercedes S580V when the front passenger tire experienced a blowout earlier this year. The tire failed right after I had my first A service which did not show an issue with tires.  Today is 10/30/2024 and I have 13978 miles on my vehicle. The driver sid",
+      "pct": 25
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car was designed too low.  When parked at a supermarket, Publix in surfside Miami Beach, when ready to leave the parking bumper pulled at the front bumper and disconnected it partially.  A north miami Mercedes Benz service department said this is not unusual as this car is ve",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on highways using cruise control and adaptive cruise control the vehicle decelerates without driver input. The system also misreads or fails to update speed limit signs causing incorrect cruise speeds and sudden speed changes.  This behavior has occurred repeatedly ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mercedes-Benz S-Class owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I leased a 2023 Mercedes from Grapevine Mercedes.  When I test drove the vehicle the car had a check engine light on. The sales man said he would get that fixed.  The salesman had the service tech clear the code without addressing the issue.  A week later the check engine light c",
+        "pct": 42,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (42%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I leased a 2023 Mercedes from Grapevine Mercedes.  When I test drove the vehicle the car had a check engine light on. The sales man said he would get that fixed.  The salesman had the service tech clear the code without addressing the issue.  A week later the check engine light c",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had 9985 miles on my 2023 Mercedes S580V when the front passenger tire experienced a blowout earlier this year. The tire failed right after I had my first A service which did not show an issue with tires.  Today is 10/30/2024 and I have 13978 miles on my vehicle. The driver sid",
+        "pct": 25,
+        "title": "Tires",
+        "blurb": "3 reports (25%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car was designed too low.  When parked at a supermarket, Publix in surfside Miami Beach, when ready to leave the parking bumper pulled at the front bumper and disconnected it partially.  A north miami Mercedes Benz service department said this is not unusual as this car is ve",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "2 reports (17%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on highways using cruise control and adaptive cruise control the vehicle decelerates without driver input. The system also misreads or fails to update speed limit signs causing incorrect cruise speeds and sudden speed changes.  This behavior has occurred repeatedly ",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2015-kia-cadenza",
+  "make": "Kia",
+  "model": "Cadenza",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/KIA/CADENZA#complaints",
+  "generatedAt": "2026-06-23T16:36:18.122Z",
+  "total": 48,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2015 KIA CADENZA. WHILE THE VEHICLE WAS BEING OPERATED, THE FRONT SEAT PASSENGER NOTICED SMOKE AND A BURNING ODOR COMING FROM THE AIR VENTS. THE FAILURE OCCURRED WITHOUT WARNING. THE CONTACT PULLED THE VEHICLE OVER TO THE SIDE OF THE ROAD AND EXITED BEFORE",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON PRESSING ENGINE PUSH BUTTON START A STRONG ODOR OF GASOLINE FILLED THE CABIN COMPARTMENT DURING IDLING WHILE THE CAR WAS IN PARK. THE ENGINE STARTED AS NORMAL WITH NO INDICATION OF MALFUNCTION. AS CAR WAS PUT INTO DRIVE AND DRIVEN A SHORT DISTANCE LESS THAN 500 FEET FROM MY ",
+      "pct": 27
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Kia Cadenza. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was made aware of the issue and confirmed that parts were not y",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Kia Cadenza. The contact stated that the front windshield was loose and could be pushed out. The vehicle was taken to the local dealer but, vehicle was not diagnosed or repaired. The manufacturer was notified of the failure and referred the contact to the ",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING HOME FROM WORK TUESDAY EVENING, THEN I NOTICED MY HEAD LIGHTS FLICKER TWICE. I THOUGHT NOTHING OF IT THEN THEY SUDDENLY SHUT OFF. I FLIPPED THE SWITCH BACK AND FORTH UNTIL IT TURNED ON. THEN 5 MINUTES INTO THE DRIVE THEY COMPLETELY SHUT OFF AGAIN BUT THIS TIME THEY ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Kia Cadenza owners report most",
+    "summary": "Across 48 owner complaints to NHTSA, the most reported area is Electrical System (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2015 KIA CADENZA. WHILE THE VEHICLE WAS BEING OPERATED, THE FRONT SEAT PASSENGER NOTICED SMOKE AND A BURNING ODOR COMING FROM THE AIR VENTS. THE FAILURE OCCURRED WITHOUT WARNING. THE CONTACT PULLED THE VEHICLE OVER TO THE SIDE OF THE ROAD AND EXITED BEFORE",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "13 reports (27%) · 2 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON PRESSING ENGINE PUSH BUTTON START A STRONG ODOR OF GASOLINE FILLED THE CABIN COMPARTMENT DURING IDLING WHILE THE CAR WAS IN PARK. THE ENGINE STARTED AS NORMAL WITH NO INDICATION OF MALFUNCTION. AS CAR WAS PUT INTO DRIVE AND DRIVEN A SHORT DISTANCE LESS THAN 500 FEET FROM MY ",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "13 reports (27%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Kia Cadenza. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. The local dealer was made aware of the issue and confirmed that parts were not y",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Kia Cadenza. The contact stated that the front windshield was loose and could be pushed out. The vehicle was taken to the local dealer but, vehicle was not diagnosed or repaired. The manufacturer was notified of the failure and referred the contact to the ",
+        "pct": 10,
+        "title": "Visibility",
+        "blurb": "5 reports (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING HOME FROM WORK TUESDAY EVENING, THEN I NOTICED MY HEAD LIGHTS FLICKER TWICE. I THOUGHT NOTHING OF IT THEN THEY SUDDENLY SHUT OFF. I FLIPPED THE SWITCH BACK AND FORTH UNTIL IT TURNED ON. THEN 5 MINUTES INTO THE DRIVE THEY COMPLETELY SHUT OFF AGAIN BUT THIS TIME THEY ",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "4 reports (8%)"
+      }
+    ]
+  }
+}

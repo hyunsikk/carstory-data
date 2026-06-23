@@ -1,0 +1,128 @@
+{
+  "slug": "2021-nissan-altima",
+  "make": "Nissan",
+  "model": "Altima",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/ALTIMA#complaints",
+  "generatedAt": "2026-06-23T16:39:08.391Z",
+  "total": 63,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 21,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving home from work I  experienced my fourth or fifth malfunction error flashing across my digital display. It scares me because this time is different.  This time the flash made the seat vibrate and before I had a chance to react, I totally lost control Of my steering e",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving home from work I  experienced my fourth or fifth malfunction error flashing across my digital display. It scares me because this time is different.  This time the flash made the seat vibrate and before I had a chance to react, I totally lost control Of my steering e",
+      "pct": 29
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "First of all I know there is a break in period.  The stering seems to be loose at times almost to loose when I’m turning , especially a more sharper turn. The brakes are loud at a stop almost like they are warped but it only has 300 miles.the suspension, brakes,,underneath the fr",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This has been an ongoing issue for over 2 years where I go somewhere, park and come back out and my car won’t start. I literally have to have someone come in to give me a jump so the whole time I was thinking it was a bad battery so I went and bought a new battery. Well fast forw",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "First of all I know there is a break in period.  The stering seems to be loose at times almost to loose when I’m turning , especially a more sharper turn. The brakes are loud at a stop almost like they are warped but it only has 300 miles.the suspension, brakes,,underneath the fr",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Altima owners report most",
+    "summary": "Across 63 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 21,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving home from work I  experienced my fourth or fifth malfunction error flashing across my digital display. It scares me because this time is different.  This time the flash made the seat vibrate and before I had a chance to react, I totally lost control Of my steering e",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "21 reports (33%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving home from work I  experienced my fourth or fifth malfunction error flashing across my digital display. It scares me because this time is different.  This time the flash made the seat vibrate and before I had a chance to react, I totally lost control Of my steering e",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "18 reports (29%) · 1 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "First of all I know there is a break in period.  The stering seems to be loose at times almost to loose when I’m turning , especially a more sharper turn. The brakes are loud at a stop almost like they are warped but it only has 300 miles.the suspension, brakes,,underneath the fr",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "18 reports (29%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This has been an ongoing issue for over 2 years where I go somewhere, park and come back out and my car won’t start. I literally have to have someone come in to give me a jump so the whole time I was thinking it was a bad battery so I went and bought a new battery. Well fast forw",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "6 reports (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "First of all I know there is a break in period.  The stering seems to be loose at times almost to loose when I’m turning , especially a more sharper turn. The brakes are loud at a stop almost like they are warped but it only has 300 miles.the suspension, brakes,,underneath the fr",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "6 reports (10%) · 1 fire · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

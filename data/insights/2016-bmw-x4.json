@@ -1,0 +1,128 @@
+{
+  "slug": "2016-bmw-x4",
+  "make": "BMW",
+  "model": "X4",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/BMW/X4#complaints",
+  "generatedAt": "2026-06-23T16:44:15.370Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My daughter [XXX]  had an oil change on 2-23-2024, and was told that fluid was leaking. In less than 2 weeks, the leakage had worsen. All the electrical components were flashing and the vehicle was cutting on and off. Eventually it stopped running. Her fiance, [XXX] , had the veh",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW X4. The contact received notification of NHTSA Campaign Number: 24V608000 (ENGINE AND ENGINE COOLING, ELECTRICAL SYSTEM); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amou",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 BMW X4. THE CONTACT STATED WHILE DRIVING 30 MPH, THE VEHICLE LOSS MOTIVE POWER. THE VEHICLE DROVE OVER A CURB CAUSING DAMAGE TO THE SUSPENSION. THE CONTACT HAD THE VEHICLE TOWED TO A REPAIR SHOP WHERE AN INDEPENDENT MECHANIC INSPECTED THE VEHICLE AND S",
+      "pct": 20
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 BMW X4. The contact stated that while driving at various speeds, an abnormal popping noise was coming from vehicle while driving over a speed bump or while turning the steering wheel in either direction. The contact stated that no warning lights were illum",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After starting vehicle and putting it into drive, I received a Parking Brake Malfunction error message.  The electronic parking brake was engaged and it could not be release allowing the vehicle to move.  I attempted to reset the electronic parking brake following the dealerships",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Bmw X4 owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My daughter [XXX]  had an oil change on 2-23-2024, and was told that fluid was leaking. In less than 2 weeks, the leakage had worsen. All the electrical components were flashing and the vehicle was cutting on and off. Eventually it stopped running. Her fiance, [XXX] , had the veh",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "4 reports (40%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW X4. The contact received notification of NHTSA Campaign Number: 24V608000 (ENGINE AND ENGINE COOLING, ELECTRICAL SYSTEM); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amou",
+        "pct": 20,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 BMW X4. THE CONTACT STATED WHILE DRIVING 30 MPH, THE VEHICLE LOSS MOTIVE POWER. THE VEHICLE DROVE OVER A CURB CAUSING DAMAGE TO THE SUSPENSION. THE CONTACT HAD THE VEHICLE TOWED TO A REPAIR SHOP WHERE AN INDEPENDENT MECHANIC INSPECTED THE VEHICLE AND S",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 BMW X4. The contact stated that while driving at various speeds, an abnormal popping noise was coming from vehicle while driving over a speed bump or while turning the steering wheel in either direction. The contact stated that no warning lights were illum",
+        "pct": 20,
+        "title": "Suspension",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After starting vehicle and putting it into drive, I received a Parking Brake Malfunction error message.  The electronic parking brake was engaged and it could not be release allowing the vehicle to move.  I attempted to reset the electronic parking brake following the dealerships",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

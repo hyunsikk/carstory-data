@@ -1,0 +1,128 @@
+{
+  "slug": "2015-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:14.454Z",
+  "total": 136,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 32,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE TRANSMISSION IS SEVERELY LIMITED BY TORQUE MANAGEMENT. IF YOU STEP ON THE GAS PEDAL THE TRUCK BARELY MOVES. IT MOVES AT ITS OWN PACE INSTEAD OF BEING UNDER YOUR CONTROL. THIS CAN CREATES SOME VERY DANGEROUS MERGING SITUATIONS WHERE YOU ARE TRYING TO MERGE WITH TRAFFIC AND THE",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 27,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DEAD ACCELERATOR PEDAL.  WHEN APPLYING ACCELERATOR THERE IS A PERIOD OF TIME WHEN NOTHING HAPPENS.  THIS IS PARTICULARLY CONCERNING AS IT LEAVES THE VEHICLE OCCUPANTS AND THE VEHICLE ESSENTIALLY DEAD AND IN HARMS WAY WHILE TRYING TO MANEUVER IN TRAFFIC, MERGING, TURNING, EMERGENC",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 24,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS A PARTICULARLY DANGEROUS SITUATION BECAUSE THERE IS NO METHOD TO KNOW, IN ADVANCE, THE FACTORY INTEGRATED TRAILER BRAKE MODULE (ITBM) WILL FAIL TO PROVIDE FULL VOLTAGE TO THE ELECTRIC TRAILER BRAKES  I ATTACHED MY 13,000 POUND FIFTH WHEEL TRAILER TO MY TRUCK AND FOLLOWING",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 DODGE RAM 3500. WHILE DRIVING 55 MPH AND HAULING A TRAILER, THE STEERING WHEEL BEGAN TO TURN INDEPENDENTLY COUNTER CLOCKWISE AND BLOCKED THE INSTRUMENT PANEL. THE CONTACT PULLED THE VEHICLE OVER, LOOKED UNDERNEATH, AND NOTICED SOME BOLTS WERE LOOSE FRO",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THIS IS A PARTICULARLY DANGEROUS SITUATION BECAUSE THERE IS NO METHOD TO KNOW, IN ADVANCE, THE FACTORY INTEGRATED TRAILER BRAKE MODULE (ITBM) WILL FAIL TO PROVIDE FULL VOLTAGE TO THE ELECTRIC TRAILER BRAKES  I ATTACHED MY 13,000 POUND FIFTH WHEEL TRAILER TO MY TRUCK AND FOLLOWING",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Ram 3500 owners report most",
+    "summary": "Across 136 owner complaints to NHTSA, the most reported area is Power Train (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 32,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE TRANSMISSION IS SEVERELY LIMITED BY TORQUE MANAGEMENT. IF YOU STEP ON THE GAS PEDAL THE TRUCK BARELY MOVES. IT MOVES AT ITS OWN PACE INSTEAD OF BEING UNDER YOUR CONTROL. THIS CAN CREATES SOME VERY DANGEROUS MERGING SITUATIONS WHERE YOU ARE TRYING TO MERGE WITH TRAFFIC AND THE",
+        "pct": 24,
+        "title": "Power Train",
+        "blurb": "32 reports (24%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 27,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DEAD ACCELERATOR PEDAL.  WHEN APPLYING ACCELERATOR THERE IS A PERIOD OF TIME WHEN NOTHING HAPPENS.  THIS IS PARTICULARLY CONCERNING AS IT LEAVES THE VEHICLE OCCUPANTS AND THE VEHICLE ESSENTIALLY DEAD AND IN HARMS WAY WHILE TRYING TO MANEUVER IN TRAFFIC, MERGING, TURNING, EMERGENC",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "27 reports (20%) · 3 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 24,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS A PARTICULARLY DANGEROUS SITUATION BECAUSE THERE IS NO METHOD TO KNOW, IN ADVANCE, THE FACTORY INTEGRATED TRAILER BRAKE MODULE (ITBM) WILL FAIL TO PROVIDE FULL VOLTAGE TO THE ELECTRIC TRAILER BRAKES  I ATTACHED MY 13,000 POUND FIFTH WHEEL TRAILER TO MY TRUCK AND FOLLOWING",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "24 reports (18%) · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 DODGE RAM 3500. WHILE DRIVING 55 MPH AND HAULING A TRAILER, THE STEERING WHEEL BEGAN TO TURN INDEPENDENTLY COUNTER CLOCKWISE AND BLOCKED THE INSTRUMENT PANEL. THE CONTACT PULLED THE VEHICLE OVER, LOOKED UNDERNEATH, AND NOTICED SOME BOLTS WERE LOOSE FRO",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "21 reports (15%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THIS IS A PARTICULARLY DANGEROUS SITUATION BECAUSE THERE IS NO METHOD TO KNOW, IN ADVANCE, THE FACTORY INTEGRATED TRAILER BRAKE MODULE (ITBM) WILL FAIL TO PROVIDE FULL VOLTAGE TO THE ELECTRIC TRAILER BRAKES  I ATTACHED MY 13,000 POUND FIFTH WHEEL TRAILER TO MY TRUCK AND FOLLOWING",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "19 reports (14%) · 2 fire · 1 injured"
+      }
+    ]
+  }
+}

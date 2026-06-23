@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-mustang-mach-e",
+  "make": "Ford",
+  "model": "Mustang Mach-E",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/MUSTANG%20MACH-E#complaints",
+  "generatedAt": "2026-06-23T16:30:50.382Z",
+  "total": 333,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 147,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING DOWN THE ROAD (IN MOTION / CITY STREET) AT 30 MILES PER HOUR IN MY BRAND NEW (4 WEEK OLD / 2200 MILES) ALL ELECTRIC FORD MACH E, THE DISPLAY FLASHED MULTIPLE WARNING LIGHTS THAT CAME TOO QUICKLY TO DECIPHER, AND THEN THE CAR WENT DEAD.  I WAS ABLE TO PULL OFF THE",
+      "pct": 44
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 103,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHEN I START UP THE CAR, AND THE TEMPERATURE IS BELOW 50 DEGREES, THE \"PRE-COLLISION ASSIST\" IS NOT AVAILABLE, THE \"PARK AID\" MALFUNCTIONS AND THE \"BLIND SPOT DETECTION WITH CROSS TRAFFIC\" IS INOPERATIVE....THE ALERTS ARE ON THE DASH, AND COME AS ALERTS TO MY PHONE.  THE CAR CAN ",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 47,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING DOWN THE ROAD (IN MOTION / CITY STREET) AT 30 MILES PER HOUR IN MY BRAND NEW (4 WEEK OLD / 2200 MILES) ALL ELECTRIC FORD MACH E, THE DISPLAY FLASHED MULTIPLE WARNING LIGHTS THAT CAME TOO QUICKLY TO DECIPHER, AND THEN THE CAR WENT DEAD.  I WAS ABLE TO PULL OFF THE",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 46,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As the vehicle was braking to a stop at a stoplight the rear motors began chattering. The vehicle stopped and gave multiple error messages including \"Shift System Fault\" and \"Stop Vehicle Safely.\" It locked the parking brake and could not be moved. It was stuck in the middle of a",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 36,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING DOWN THE ROAD (IN MOTION / CITY STREET) AT 30 MILES PER HOUR IN MY BRAND NEW (4 WEEK OLD / 2200 MILES) ALL ELECTRIC FORD MACH E, THE DISPLAY FLASHED MULTIPLE WARNING LIGHTS THAT CAME TOO QUICKLY TO DECIPHER, AND THEN THE CAR WENT DEAD.  I WAS ABLE TO PULL OFF THE",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Mustang Mach-E owners report most",
+    "summary": "Across 333 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 147,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING DOWN THE ROAD (IN MOTION / CITY STREET) AT 30 MILES PER HOUR IN MY BRAND NEW (4 WEEK OLD / 2200 MILES) ALL ELECTRIC FORD MACH E, THE DISPLAY FLASHED MULTIPLE WARNING LIGHTS THAT CAME TOO QUICKLY TO DECIPHER, AND THEN THE CAR WENT DEAD.  I WAS ABLE TO PULL OFF THE",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "147 reports (44%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 103,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHEN I START UP THE CAR, AND THE TEMPERATURE IS BELOW 50 DEGREES, THE \"PRE-COLLISION ASSIST\" IS NOT AVAILABLE, THE \"PARK AID\" MALFUNCTIONS AND THE \"BLIND SPOT DETECTION WITH CROSS TRAFFIC\" IS INOPERATIVE....THE ALERTS ARE ON THE DASH, AND COME AS ALERTS TO MY PHONE.  THE CAR CAN ",
+        "pct": 31,
+        "title": "Forward Collision Avoidance",
+        "blurb": "103 reports (31%) · 4 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 47,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING DOWN THE ROAD (IN MOTION / CITY STREET) AT 30 MILES PER HOUR IN MY BRAND NEW (4 WEEK OLD / 2200 MILES) ALL ELECTRIC FORD MACH E, THE DISPLAY FLASHED MULTIPLE WARNING LIGHTS THAT CAME TOO QUICKLY TO DECIPHER, AND THEN THE CAR WENT DEAD.  I WAS ABLE TO PULL OFF THE",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "47 reports (14%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 46,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As the vehicle was braking to a stop at a stoplight the rear motors began chattering. The vehicle stopped and gave multiple error messages including \"Shift System Fault\" and \"Stop Vehicle Safely.\" It locked the parking brake and could not be moved. It was stuck in the middle of a",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "46 reports (14%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 36,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING DOWN THE ROAD (IN MOTION / CITY STREET) AT 30 MILES PER HOUR IN MY BRAND NEW (4 WEEK OLD / 2200 MILES) ALL ELECTRIC FORD MACH E, THE DISPLAY FLASHED MULTIPLE WARNING LIGHTS THAT CAME TOO QUICKLY TO DECIPHER, AND THEN THE CAR WENT DEAD.  I WAS ABLE TO PULL OFF THE",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "36 reports (11%) · 6 crash · 4 injured"
+      }
+    ]
+  }
+}

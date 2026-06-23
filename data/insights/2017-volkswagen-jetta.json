@@ -1,0 +1,128 @@
+{
+  "slug": "2017-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T16:42:03.003Z",
+  "total": 158,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN JETTA. WHILE DRIVING APPROXIMATELY 65 MPH, THE VEHICLE SUDDENLY HAD A LOSS OF POWER, AND THE ENGINE, EPC, AND VARIOUS OTHER WARNING INDICATORS FLASHED. THE VEHICLE COASTED TO A STALL. THE CONTACT WAS ABLE TO RESTART THE VEHICLE AFTER SOME AT",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN JETTA. THE CONTACT STATED THAT THE VEHICLE WHEELS SEIZED WHICH RESULTED IN THE VEHICLE HITTING THE SIDE WALK WHILE BEING OPERATED APPROXIMATELY 20 MPH. THE FAILURE OCCURRED WITHOUT WARNING. THE VEHICLE WAS TOWED TO A SALVAGE YARD AND THE VEH",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 29,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN JETTA. WHILE DRIVING 60 MPH, A FUEL ODOR WAS DETECTED COMING FROM THE AIR CONDITIONING VENTS. THE CONTACT FELT NAUSEOUS, LIGHT HEADED, AND DIZZY. MEDICAL ATTENTION WAS NOT RECEIVED. THE VEHICLE WAS NOT TAKEN TO A DEALER FOR DIAGNOSTIC TESTIN",
+      "pct": 18
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 21,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THE PASSENGER SIDE AIRBAGS DEPLOYED WITHOUT PROVOCATION IN THE CAR I HAD JUST PURCHASED ON MARCH 21, 2017. I HAD JUST PULLED TO A STOP TO ALLOW A PASSENGER TO DISEMBARK IN THE PARKING LOT OF A CONVENIENCE STORE. THE AIRBAGS DEPLOYED MAKING A HORRIFIC NOISE AND ENGULFING THE INSID",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I NEEDED TO MAKE A LEFT HAND TURN FROM A STREET INTO A COMPLEX, WAS STILL MOVING AT APPROXIMATELY 25MPH AND WHEN I WENT TO APPLY THE BRAKES, THE VEHICLE WAS NOT SLOWING OR STOPPING. AS I CONTINUED TRYING TO MAKE THE TURN, THE VEHICLE DID NOT SLOW DOWN UNTIL I HIT THE CURB AND LAT",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Volkswagen Jetta owners report most",
+    "summary": "Across 158 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN JETTA. WHILE DRIVING APPROXIMATELY 65 MPH, THE VEHICLE SUDDENLY HAD A LOSS OF POWER, AND THE ENGINE, EPC, AND VARIOUS OTHER WARNING INDICATORS FLASHED. THE VEHICLE COASTED TO A STALL. THE CONTACT WAS ABLE TO RESTART THE VEHICLE AFTER SOME AT",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "33 reports (21%) · 4 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN JETTA. THE CONTACT STATED THAT THE VEHICLE WHEELS SEIZED WHICH RESULTED IN THE VEHICLE HITTING THE SIDE WALK WHILE BEING OPERATED APPROXIMATELY 20 MPH. THE FAILURE OCCURRED WITHOUT WARNING. THE VEHICLE WAS TOWED TO A SALVAGE YARD AND THE VEH",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "31 reports (20%) · 1 fire · 3 crash · 2 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 29,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 VOLKSWAGEN JETTA. WHILE DRIVING 60 MPH, A FUEL ODOR WAS DETECTED COMING FROM THE AIR CONDITIONING VENTS. THE CONTACT FELT NAUSEOUS, LIGHT HEADED, AND DIZZY. MEDICAL ATTENTION WAS NOT RECEIVED. THE VEHICLE WAS NOT TAKEN TO A DEALER FOR DIAGNOSTIC TESTIN",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "29 reports (18%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 21,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THE PASSENGER SIDE AIRBAGS DEPLOYED WITHOUT PROVOCATION IN THE CAR I HAD JUST PURCHASED ON MARCH 21, 2017. I HAD JUST PULLED TO A STOP TO ALLOW A PASSENGER TO DISEMBARK IN THE PARKING LOT OF A CONVENIENCE STORE. THE AIRBAGS DEPLOYED MAKING A HORRIFIC NOISE AND ENGULFING THE INSID",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "21 reports (13%) · 8 crash · 5 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I NEEDED TO MAKE A LEFT HAND TURN FROM A STREET INTO A COMPLEX, WAS STILL MOVING AT APPROXIMATELY 25MPH AND WHEN I WENT TO APPLY THE BRAKES, THE VEHICLE WAS NOT SLOWING OR STOPPING. AS I CONTINUED TRYING TO MAKE THE TURN, THE VEHICLE DID NOT SLOW DOWN UNTIL I HIT THE CURB AND LAT",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "15 reports (9%) · 1 fire · 5 crash · 2 injured"
+      }
+    ]
+  }
+}

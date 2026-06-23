@@ -1,0 +1,128 @@
+{
+  "slug": "2021-subaru-legacy",
+  "make": "Subaru",
+  "model": "Legacy",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/SUBARU/LEGACY#complaints",
+  "generatedAt": "2026-06-23T16:40:46.376Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Subaru Legacy. The contact received notification of NHTSA Campaign Number: 24V227000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reason",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There seems to be an issue with the infotainment system. The system will randomly turn off which also turns off the safety features. I would like to associate this while CarPlay is in use, but I have witnessed it happen without CarPlay. Subaru has already replaced the head unit u",
+      "pct": 16
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield spontaneously cracked while using defrost function on 9/9/2021. Crack started from bottom center of windshield, at the ceramic defrost line, below rubber seal. Crack approximately 6 inches long. Called Subaru within minutes and directed to take to dealership to have ph",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subaru has released a service bulletin regarding concerns with the Thermo Control Valve in specific vehicles. Unfortunately, individuals with vehicles bearing a rebuilt title, including myself, are required to cover expenses exceeding $2,000 out of their own pockets. Despite evid",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CVT Transmission Failure.  Failure occurred at approximately 66,706 miles on 5/16/25.  The Check Engine and AT Temp lights appeared in the instrument cluster.  The driving conditions when this happened were a safety concern.  First, the vehicle would crawl, shutter, and almost st",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Subaru Legacy owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Air Bags (19% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Subaru Legacy. The contact received notification of NHTSA Campaign Number: 24V227000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reason",
+        "pct": 19,
+        "title": "Air Bags",
+        "blurb": "6 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There seems to be an issue with the infotainment system. The system will randomly turn off which also turns off the safety features. I would like to associate this while CarPlay is in use, but I have witnessed it happen without CarPlay. Subaru has already replaced the head unit u",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "5 reports (16%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield spontaneously cracked while using defrost function on 9/9/2021. Crack started from bottom center of windshield, at the ceramic defrost line, below rubber seal. Crack approximately 6 inches long. Called Subaru within minutes and directed to take to dealership to have ph",
+        "pct": 16,
+        "title": "Visibility/Wiper",
+        "blurb": "5 reports (16%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subaru has released a service bulletin regarding concerns with the Thermo Control Valve in specific vehicles. Unfortunately, individuals with vehicles bearing a rebuilt title, including myself, are required to cover expenses exceeding $2,000 out of their own pockets. Despite evid",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "2 reports (6%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CVT Transmission Failure.  Failure occurred at approximately 66,706 miles on 5/16/25.  The Check Engine and AT Temp lights appeared in the instrument cluster.  The driving conditions when this happened were a safety concern.  First, the vehicle would crawl, shutter, and almost st",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "2 reports (6%)"
+      }
+    ]
+  }
+}

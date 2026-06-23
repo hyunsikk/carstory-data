@@ -1,0 +1,128 @@
+{
+  "slug": "2023-mazda-cx-5",
+  "make": "Mazda",
+  "model": "CX-5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MAZDA/CX-5#complaints",
+  "generatedAt": "2026-06-23T16:37:59.691Z",
+  "total": 57,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Brand new 2023 Mazda CX-5 with 150 miles on it experienced unintended acceleration while braking. Pulled into a parking spot with my foot on the brakes but the car didn't stop & even accelerated over a sidewalk and into a building. I experienced a bruise from the seatbelt. Airbag",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The power liftgate on the 2023 Mazda CX-5 SUV closes with sufficient force that the vehicle owner's manual warns of possible serious injury or even death, and cautions the operator to be sure that people or objects are not in the way of closure. However, the actual design of the ",
+      "pct": 16
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the vehicle light position is on Off at night the daytime running lights on the front of the vehicle come on which appear to be the same as the normal headlights, but the back lights are completely out.  The brake lights work, but the back tail lights and licence plate light",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Mazda CX-5 Premium Between May and September this year, the MyMazda app has alerted me two times that the oil level was low. I manually checked and it was indeed low. The first time I brought it to a Firestone service center to have it checked and they verified that the level was",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The vehicle continues to have safety features malfunctions with its sensors. The forward facing camera sensor and the Blind Spot Monitoring Sensor continues to malfunctions when driving in clear visibility with light to heavy traffic at random times during a day. These features a",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mazda Cx-5 owners report most",
+    "summary": "Across 57 owner complaints to NHTSA, the most reported area is Service Brakes (16% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Brand new 2023 Mazda CX-5 with 150 miles on it experienced unintended acceleration while braking. Pulled into a parking spot with my foot on the brakes but the car didn't stop & even accelerated over a sidewalk and into a building. I experienced a bruise from the seatbelt. Airbag",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "9 reports (16%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The power liftgate on the 2023 Mazda CX-5 SUV closes with sufficient force that the vehicle owner's manual warns of possible serious injury or even death, and cautions the operator to be sure that people or objects are not in the way of closure. However, the actual design of the ",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "9 reports (16%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the vehicle light position is on Off at night the daytime running lights on the front of the vehicle come on which appear to be the same as the normal headlights, but the back lights are completely out.  The brake lights work, but the back tail lights and licence plate light",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "8 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Mazda CX-5 Premium Between May and September this year, the MyMazda app has alerted me two times that the oil level was low. I manually checked and it was indeed low. The first time I brought it to a Firestone service center to have it checked and they verified that the level was",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "7 reports (12%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The vehicle continues to have safety features malfunctions with its sensors. The forward facing camera sensor and the Blind Spot Monitoring Sensor continues to malfunctions when driving in clear visibility with light to heavy traffic at random times during a day. These features a",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (9%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

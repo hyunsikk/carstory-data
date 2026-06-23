@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/FORD/EDGE#complaints",
+  "generatedAt": "2026-06-23T16:29:43.830Z",
+  "total": 93,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2021 Ford Edge SEL with 22,000 miles on it, bought new less than 2 years ago, would intermittently show a warning notification on the dash saying “AWD temporarily disabled”. The car drove different when the warning came on. It was slow to accelerate and more difficult to turn.",
+      "pct": 30
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received a recall letter from Ford Motor Company dated April 2022 for recall notice 22S14 / NHTSA Recall 22V151. The risk is \"A rear-view camera that intermittently displays a blank or distorted image can reduce the driver's view of what is behind the vehicle, increasing the ri",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After the over-the-air update due to the rear-camera recall, the front-facing camera no longer works after approximately 15 seconds of the car being turned on.  Turn on car: front camera is fine. 15 seconds: front camera no longer turns on  It is supposed to be operational under ",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle was traveling on a rural road when driver attempted to brake.  Driver witnessed flames from under their vehicle when applying brakes.  Driver had to stop the vehicle by laying it in a ditch and escaping the engulfed car. Post accident it was noted and shown a significant ",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On April 26, 2022 the dealer performed the recall (Ford 22S!4) a software fix to correct a rear camera problem, I was NOT experiencing on my 2021 Ford Edge ST.  It took the entire day to do the procedure, and after getting the car back, I experienced what seemed to be some tempor",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ford Edge owners report most",
+    "summary": "Across 93 owner complaints to NHTSA, the most reported area is Power Train (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2021 Ford Edge SEL with 22,000 miles on it, bought new less than 2 years ago, would intermittently show a warning notification on the dash saying “AWD temporarily disabled”. The car drove different when the warning came on. It was slow to accelerate and more difficult to turn.",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "28 reports (30%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received a recall letter from Ford Motor Company dated April 2022 for recall notice 22S14 / NHTSA Recall 22V151. The risk is \"A rear-view camera that intermittently displays a blank or distorted image can reduce the driver's view of what is behind the vehicle, increasing the ri",
+        "pct": 19,
+        "title": "Back Over Prevention",
+        "blurb": "18 reports (19%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After the over-the-air update due to the rear-camera recall, the front-facing camera no longer works after approximately 15 seconds of the car being turned on.  Turn on car: front camera is fine. 15 seconds: front camera no longer turns on  It is supposed to be operational under ",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "13 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle was traveling on a rural road when driver attempted to brake.  Driver witnessed flames from under their vehicle when applying brakes.  Driver had to stop the vehicle by laying it in a ditch and escaping the engulfed car. Post accident it was noted and shown a significant ",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "8 reports (9%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On April 26, 2022 the dealer performed the recall (Ford 22S!4) a software fix to correct a rear camera problem, I was NOT experiencing on my 2021 Ford Edge ST.  It took the entire day to do the procedure, and after getting the car back, I experienced what seemed to be some tempor",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

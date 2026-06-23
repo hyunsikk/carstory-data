@@ -1,0 +1,40 @@
+{
+  "slug": "2015-audi-s7",
+  "make": "Audi",
+  "model": "S7",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/AUDI/S7#complaints",
+  "generatedAt": "2026-06-23T16:43:10.923Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My turbochargers failed due to oil starvation caused by a clogged oil screen.  My vehicle had 71,393 miles on it when the turbos failed and had no prior problems or warning lights.  While driving to the dealership for a Passenger Occupant Detection System recall (unrelated issue ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Audi S7 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Engine (100% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My turbochargers failed due to oil starvation caused by a clogged oil screen.  My vehicle had 71,393 miles on it when the turbos failed and had no prior problems or warning lights.  While driving to the dealership for a Passenger Occupant Detection System recall (unrelated issue ",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-bmw-x5",
+  "make": "BMW",
+  "model": "X5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/X5#complaints",
+  "generatedAt": "2026-06-23T16:27:04.798Z",
+  "total": 96,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 38,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NAVIGATION DISPLAY AND RIGHT SIDE OF INSTRUMENT PANEL GO BLANK INTERMITTENTLY AND THEN RESET AND COME BACK ON AFTER ABOUT 10 SECONDS. DISPLAY GOES OFF DURING PERIODS OF DRIVING AND OR STATIONARY WITH VEHICLE ENGINE RUNNING. OCCURS DURING TIMES AT HIGHWAY SPEEDS AND CITY DRIVING. ",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 24,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Grievance/Complaint for 2020 X5 BMW Firer December 9, 2021 (49 days Owner) I was on my way to work, and I stopped at the local Bank of America drive through. While on my way, I received two (2) malfunction message saying the same thing, “ Scam Likely 1-470-781-9727; (Check Contro",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE PARKING THE VEHICLE IN A HEAD-ON PARKING SPOT, THE CAR SUDDENLY ACCELERATED WITHOUT WARNING AND HIT A WALL.  THE CAR THEN WENT INTO REVERSE AND SPED UP RAPIDLY UNTIL IT HIT A CONCRETE PATIO ON THE OTHER SIDE OF THE PARKING LOT.  THE BRAKE PEDAL WAS DEPRESSED WITH SUBSTANTIA",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW X5. The contact stated that upon starting the vehicle, the check engine warning illuminated on the instrument panel. The vehicle was taken to the dealer, who diagnosed a failure with the active air flap controller. The vehicle was not repaired. The man",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "BMW front cup holders have hole in bottom and it allows condensation/liquid to migrate through bottom to air bag sensor located directly underneath cup holders.  Consumers are at risk of air bags going off unintentionally and/or not going off at all.  Sensor should not be directl",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw X5 owners report most",
+    "summary": "Across 96 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 38,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NAVIGATION DISPLAY AND RIGHT SIDE OF INSTRUMENT PANEL GO BLANK INTERMITTENTLY AND THEN RESET AND COME BACK ON AFTER ABOUT 10 SECONDS. DISPLAY GOES OFF DURING PERIODS OF DRIVING AND OR STATIONARY WITH VEHICLE ENGINE RUNNING. OCCURS DURING TIMES AT HIGHWAY SPEEDS AND CITY DRIVING. ",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "38 reports (40%) · 4 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 24,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Grievance/Complaint for 2020 X5 BMW Firer December 9, 2021 (49 days Owner) I was on my way to work, and I stopped at the local Bank of America drive through. While on my way, I received two (2) malfunction message saying the same thing, “ Scam Likely 1-470-781-9727; (Check Contro",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "24 reports (25%) · 4 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE PARKING THE VEHICLE IN A HEAD-ON PARKING SPOT, THE CAR SUDDENLY ACCELERATED WITHOUT WARNING AND HIT A WALL.  THE CAR THEN WENT INTO REVERSE AND SPED UP RAPIDLY UNTIL IT HIT A CONCRETE PATIO ON THE OTHER SIDE OF THE PARKING LOT.  THE BRAKE PEDAL WAS DEPRESSED WITH SUBSTANTIA",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "15 reports (16%) · 1 crash"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW X5. The contact stated that upon starting the vehicle, the check engine warning illuminated on the instrument panel. The vehicle was taken to the dealer, who diagnosed a failure with the active air flap controller. The vehicle was not repaired. The man",
+        "pct": 15,
+        "title": "Engine And Engine Cooling",
+        "blurb": "14 reports (15%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "BMW front cup holders have hole in bottom and it allows condensation/liquid to migrate through bottom to air bag sensor located directly underneath cup holders.  Consumers are at risk of air bags going off unintentionally and/or not going off at all.  Sensor should not be directl",
+        "pct": 6,
+        "title": "Air Bags",
+        "blurb": "6 reports (6%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

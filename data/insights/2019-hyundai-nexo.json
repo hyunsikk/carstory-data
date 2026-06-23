@@ -1,0 +1,62 @@
+{
+  "slug": "2019-hyundai-nexo",
+  "make": "Hyundai",
+  "model": "Nexo",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HYUNDAI/NEXO#complaints",
+  "generatedAt": "2026-06-23T16:33:40.954Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought a 2019 Hyundai Nexo Fuel Cell on 04/29/2020 from Lithia Hyundai of Mission Hills without been notified of the two existent recalls with no remedy yet available from Hyundai.  In fact, these Recalls shown in the Carfax report, were undisclosed by giving me to sign the las",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE CAR IS MOVING, A \"REGENERATIVE BRAKE SYSTEM FAILURE\" MAY OCCUR. WHEN THIS ERROR OCCURS, BRAKING EFFECTIVENESS IS DRAMATICALLY REDUCED AND THE CAR'S SPEED IS LIMITED TO 13 MPH. ADDITIONALLY, THE CAR WILL NOT CREEP FORWARD OR HOLD POSITION WHEN THE BRAKE IS RELEASED, POTEN",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Hyundai Nexo owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (33% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought a 2019 Hyundai Nexo Fuel Cell on 04/29/2020 from Lithia Hyundai of Mission Hills without been notified of the two existent recalls with no remedy yet available from Hyundai.  In fact, these Recalls shown in the Carfax report, were undisclosed by giving me to sign the las",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE CAR IS MOVING, A \"REGENERATIVE BRAKE SYSTEM FAILURE\" MAY OCCUR. WHEN THIS ERROR OCCURS, BRAKING EFFECTIVENESS IS DRAMATICALLY REDUCED AND THE CAR'S SPEED IS LIMITED TO 13 MPH. ADDITIONALLY, THE CAR WILL NOT CREEP FORWARD OR HOLD POSITION WHEN THE BRAKE IS RELEASED, POTEN",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

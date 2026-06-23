@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mazda-cx-9",
+  "make": "Mazda",
+  "model": "CX-9",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MAZDA/CX-9#complaints",
+  "generatedAt": "2026-06-23T16:38:03.248Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this vehicle June 5 2021. The vehicle has approximately 9150 miles at this time. I changed the oil the first time at 3222 miles just because it was new and I wanted to have a starting point on oil changes. The car has an app you load on your cell phone for messages. T",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AS I WAS DRIVING DOWNHILL WITH MINIMAL SNOW ON THE GROUND,  I TAPPED MY BRAKES ABOUT 7 TIMES BEFORE THEY LOCKED UP. I WENT TO TURN TO STAY ON THE ROAD AND THE STEERING WHEEL WOULDN'T BUDGE CAUSING ME TO GO OFF THE ROAD,  INTO AN EMBANKMENT. VEHICLE WAS GOING ABOUT 5-10MPH WHEN TH",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "6/29/2023--Vehicle stopped suddenly with i-ACTIVESENSE system malfunction, Dynamic Stability Control malfunction, Engine malfunction, engine output reduced, Front radar sensor malfunction. Dealer said these faults due to bad battery--replaced battery per Service Manager [XXX]  at",
+      "pct": 9
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 4/30/2022 the rear door lift gate opened unexpectedly and hit the ceiling of a parking garage (The Summit at Las Calinas, Irving Texas) , the glass window shattered, glass fell in and outside the car. An unfamiliar beeping was heard before the accident, but the source could no",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was in a parking lot and came to a stop and placed the car in reverse to back into a parking space.  The back-up camera was on and I began to back into the parking space when the car suddenly lurched/jerked forward and accelerated on its own. The car jumped the parking lot medi",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mazda Cx-9 owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this vehicle June 5 2021. The vehicle has approximately 9150 miles at this time. I changed the oil the first time at 3222 miles just because it was new and I wanted to have a starting point on oil changes. The car has an app you load on your cell phone for messages. T",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "17 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AS I WAS DRIVING DOWNHILL WITH MINIMAL SNOW ON THE GROUND,  I TAPPED MY BRAKES ABOUT 7 TIMES BEFORE THEY LOCKED UP. I WENT TO TURN TO STAY ON THE ROAD AND THE STEERING WHEEL WOULDN'T BUDGE CAUSING ME TO GO OFF THE ROAD,  INTO AN EMBANKMENT. VEHICLE WAS GOING ABOUT 5-10MPH WHEN TH",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "4 reports (12%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "6/29/2023--Vehicle stopped suddenly with i-ACTIVESENSE system malfunction, Dynamic Stability Control malfunction, Engine malfunction, engine output reduced, Front radar sensor malfunction. Dealer said these faults due to bad battery--replaced battery per Service Manager [XXX]  at",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 4/30/2022 the rear door lift gate opened unexpectedly and hit the ceiling of a parking garage (The Summit at Las Calinas, Irving Texas) , the glass window shattered, glass fell in and outside the car. An unfamiliar beeping was heard before the accident, but the source could no",
+        "pct": 6,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (6%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was in a parking lot and came to a stop and placed the car in reverse to back into a parking space.  The back-up camera was on and I began to back into the parking space when the car suddenly lurched/jerked forward and accelerated on its own. The car jumped the parking lot medi",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "2 reports (6%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

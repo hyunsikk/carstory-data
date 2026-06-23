@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-a3",
+  "make": "Audi",
+  "model": "A3",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/A3#complaints",
+  "generatedAt": "2026-06-23T16:25:09.483Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi A3. The contact received notification of NHTSA Campaign Number: 21V198000 (Air Bags) however, the part to the recall repair was unavailable. The contact took the vehicle to the local dealer and it was confirmed that the part was not available. The con",
+      "pct": 56
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi A3. The contact stated that while operating the vehicle, the transmission malfunction warning light was displayed, and the vehicle failed to shift into reverse. The vehicle was driven to the local dealer who diagnosed that the transmission mechatronic",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 70,000 miles with only one owner, it develops transmission problems, making it unsafe to drive and control the car; control of the car is lost.  Here is the link from the Dealer   [XXX]   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6",
+      "pct": 6
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Tire Brand: Continental Tire Line / Model: ProContact TX Tire Size: 225/40R18  What Happened:  This is the second tire failure I’ve experienced on Continental ProContact TX tires (OEM on my 2020 Audi A3 S Line). At only 13,000 total miles, I’ve had two separate instances of sidew",
+      "pct": 6
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger occupant detection system has permanently failed and causes my passenger airbag to be off at all times including when a passenger is seated in the vehicle.  The seatbelt sensor also goes off when no one is in the seat. Audi dealership said this is an Audi issue and ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi A3 owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Air Bags (56% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi A3. The contact received notification of NHTSA Campaign Number: 21V198000 (Air Bags) however, the part to the recall repair was unavailable. The contact took the vehicle to the local dealer and it was confirmed that the part was not available. The con",
+        "pct": 56,
+        "title": "Air Bags",
+        "blurb": "9 reports (56%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi A3. The contact stated that while operating the vehicle, the transmission malfunction warning light was displayed, and the vehicle failed to shift into reverse. The vehicle was driven to the local dealer who diagnosed that the transmission mechatronic",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 70,000 miles with only one owner, it develops transmission problems, making it unsafe to drive and control the car; control of the car is lost.  Here is the link from the Dealer   [XXX]   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Tire Brand: Continental Tire Line / Model: ProContact TX Tire Size: 225/40R18  What Happened:  This is the second tire failure I’ve experienced on Continental ProContact TX tires (OEM on my 2020 Audi A3 S Line). At only 13,000 total miles, I’ve had two separate instances of sidew",
+        "pct": 6,
+        "title": "Tires",
+        "blurb": "1 report (6%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger occupant detection system has permanently failed and causes my passenger airbag to be off at all times including when a passenger is seated in the vehicle.  The seatbelt sensor also goes off when no one is in the seat. Audi dealership said this is an Audi issue and ",
+        "pct": 6,
+        "title": "Seat Belts",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

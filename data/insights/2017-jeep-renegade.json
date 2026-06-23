@@ -1,0 +1,128 @@
+{
+  "slug": "2017-jeep-renegade",
+  "make": "Jeep",
+  "model": "Renegade",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/JEEP/RENEGADE#complaints",
+  "generatedAt": "2026-06-23T16:36:09.619Z",
+  "total": 559,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 265,
+      "crash": 2,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 JEEP RENEGADE. WHILE DRIVING 75 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO BILL LUKE CHRYSLER JEEP DODGE RAM (2425 W CAMELBACK RD, PHOENIX, AZ 85015), BUT THE FAILURE COULD NOT BE DUPLICATED OR DIAGNOSED. THE VEHICLE WAS NOT REP",
+      "pct": 47
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 147,
+      "crash": 3,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED MY 2017 JEEP RENEGADE 4X4 ALTITUDE ON MARCH 2, 2017. WITHIN TWO WEEKS BEFORE I HAD 300 MILES ON THE VEHICLE I EXPERIENCED WHAT CAN ONLY BE DESCRIBED AS POWER LOSS IN THE MIDDLE OF AN INTERSECTION DURING A U-TURN. THIS U-TURN WAS NOT AS ACCELERATED SPEEDS IN EXCESS OF ",
+      "pct": 26
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 118,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER FILLING GAS TANK, I TRIED TO START CAR AND IT TOOK A COUPLE OF TRIES TO GET IT TO CRANK OVER.  ONCE IT STARTED, THE CAR WAS MAKING AN INTENSE KNOCKING NOISE AND SPUTTERING SO VIOLENTLY IT ACTUALLY CAUSED THE WHOLE CAR TO ROCK. AFTER A FEW MINUTES IT SETTLED DOWN AND I PULLE",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 94,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED MY 2017 JEEP RENEGADE 4X4 ALTITUDE ON MARCH 2, 2017. WITHIN TWO WEEKS BEFORE I HAD 300 MILES ON THE VEHICLE I EXPERIENCED WHAT CAN ONLY BE DESCRIBED AS POWER LOSS IN THE MIDDLE OF AN INTERSECTION DURING A U-TURN. THIS U-TURN WAS NOT AS ACCELERATED SPEEDS IN EXCESS OF ",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 29,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON AT LEAST SIX DIFFERENT OCCASIONS WHILE MAKING A SLOW SPEED LEFT TURN (UNDER 15 MPH) AND ONCE WHILE MAKING A LEFT U-TURN (AT APPROX. 5 MPH), MY 2017 JEEP RENEGADE EXPERIENCES A LOSS OF POWER AND THE ABS WARNING LIGHT FLASHES. THERE IS NO ACCELERATION WHILE STEPPING ON THE GAS P",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Jeep Renegade owners report most",
+    "summary": "Across 559 owner complaints to NHTSA, the most reported area is Engine (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 265,
+        "crash": 2,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 JEEP RENEGADE. WHILE DRIVING 75 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO BILL LUKE CHRYSLER JEEP DODGE RAM (2425 W CAMELBACK RD, PHOENIX, AZ 85015), BUT THE FAILURE COULD NOT BE DUPLICATED OR DIAGNOSED. THE VEHICLE WAS NOT REP",
+        "pct": 47,
+        "title": "Engine",
+        "blurb": "265 reports (47%) · 3 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 147,
+        "crash": 3,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED MY 2017 JEEP RENEGADE 4X4 ALTITUDE ON MARCH 2, 2017. WITHIN TWO WEEKS BEFORE I HAD 300 MILES ON THE VEHICLE I EXPERIENCED WHAT CAN ONLY BE DESCRIBED AS POWER LOSS IN THE MIDDLE OF AN INTERSECTION DURING A U-TURN. THIS U-TURN WAS NOT AS ACCELERATED SPEEDS IN EXCESS OF ",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "147 reports (26%) · 4 fire · 3 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 118,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER FILLING GAS TANK, I TRIED TO START CAR AND IT TOOK A COUPLE OF TRIES TO GET IT TO CRANK OVER.  ONCE IT STARTED, THE CAR WAS MAKING AN INTENSE KNOCKING NOISE AND SPUTTERING SO VIOLENTLY IT ACTUALLY CAUSED THE WHOLE CAR TO ROCK. AFTER A FEW MINUTES IT SETTLED DOWN AND I PULLE",
+        "pct": 21,
+        "title": "Fuel/Propulsion System",
+        "blurb": "118 reports (21%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 94,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED MY 2017 JEEP RENEGADE 4X4 ALTITUDE ON MARCH 2, 2017. WITHIN TWO WEEKS BEFORE I HAD 300 MILES ON THE VEHICLE I EXPERIENCED WHAT CAN ONLY BE DESCRIBED AS POWER LOSS IN THE MIDDLE OF AN INTERSECTION DURING A U-TURN. THIS U-TURN WAS NOT AS ACCELERATED SPEEDS IN EXCESS OF ",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "94 reports (17%) · 3 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 29,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON AT LEAST SIX DIFFERENT OCCASIONS WHILE MAKING A SLOW SPEED LEFT TURN (UNDER 15 MPH) AND ONCE WHILE MAKING A LEFT U-TURN (AT APPROX. 5 MPH), MY 2017 JEEP RENEGADE EXPERIENCES A LOSS OF POWER AND THE ABS WARNING LIGHT FLASHES. THERE IS NO ACCELERATION WHILE STEPPING ON THE GAS P",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "29 reports (5%) · 3 crash · 1 injured"
+      }
+    ]
+  }
+}

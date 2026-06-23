@@ -1,0 +1,40 @@
+{
+  "slug": "2022-bmw-m4",
+  "make": "BMW",
+  "model": "M4",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/M4#complaints",
+  "generatedAt": "2026-06-23T16:43:59.203Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "COMPANY IS SELLING REFLECTOR INSERTS THAT ARE NOT LEGAL. THE REMOVAL OF SAFETY DEVICE(S) IS SUSPECT AT THIS TIME. THE PART REMOVES THE REFLECTIVE SAFETY FEATURE AND REPLACES WITH A DULL BLACK INSERT PREVENTING REFLECTION OF SAID VEHICLE RENDERING A POSSIBLE SAFETY HAZARD. I DO NO",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw M4 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Visibility (50% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "COMPANY IS SELLING REFLECTOR INSERTS THAT ARE NOT LEGAL. THE REMOVAL OF SAFETY DEVICE(S) IS SUSPECT AT THIS TIME. THE PART REMOVES THE REFLECTIVE SAFETY FEATURE AND REPLACES WITH A DULL BLACK INSERT PREVENTING REFLECTION OF SAID VEHICLE RENDERING A POSSIBLE SAFETY HAZARD. I DO NO",
+        "pct": 50,
+        "title": "Visibility",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

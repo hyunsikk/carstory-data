@@ -1,0 +1,128 @@
+{
+  "slug": "2019-audi-a3",
+  "make": "Audi",
+  "model": "A3",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/A3#complaints",
+  "generatedAt": "2026-06-23T16:25:09.555Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2019 AUDI A3. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V474000 (AIR BAGS). THE CONTACT CALLED AN UNKNOWN DEALER AND WAS INFORMED THAT THE PART WAS NOT AVAILABLE. THE MANUFACTURER WAS CONTACTED AND DID NOT KNOW WHEN THE PA",
+      "pct": 58
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON NJ TURNPIKE ON A 75 MILE TRIP BACK HOME AND AFTER INTO 55 MILES OF THE TRIP, THE VEHICLE COMPLETELY LOST POWER..  I WAS GOING ABOUT 65 MILES OR SO AND IT WAS EXTREMELY SCARY AND DANGEROUS.  WITH THE GRACE OF GOD, I WAS ABLE TO USE THE MOMENTUM TO MAKE IT TO A SID",
+      "pct": 17
+    },
+    {
+      "component": "SEATS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY CAR WITH MY FRIEND IN THE PASSENGER SEAT. ALL OF A SUDDEN CAR STARTED MADE A BEEPING SOUND AND MY DASHBOARD SAID SOMETHING ABOUT SAFETY FEATURE BEING TURNED OFF/LIMITED. ALSO THE PASSENGER AIRBAG OFF LIGHT TURNED ON EVEN WHEN THE PASSENGER SEAT WAS OCCUPIED. THE ",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Audi A3. The contact stated that while driving 65 MPH for a 50-mile trip, the message \"Transmission Failure\" displayed, and the check engine warning light illuminated. The transmission then inadvertently switched from automatic to manual transmission mode ",
+      "pct": 8
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The headlight assembly failed and manufacturer accepts no responsibility and quoted astronomical repair cost. This should not have been an issue with such new components. I've seen many vehicles like mine with the same problem.",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi A3 owners report most",
+    "summary": "Across 12 owner complaints to NHTSA, the most reported area is Air Bags (58% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* TAKATA RECALL. THE CONTACT OWNS A 2019 AUDI A3. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 19V474000 (AIR BAGS). THE CONTACT CALLED AN UNKNOWN DEALER AND WAS INFORMED THAT THE PART WAS NOT AVAILABLE. THE MANUFACTURER WAS CONTACTED AND DID NOT KNOW WHEN THE PA",
+        "pct": 58,
+        "title": "Air Bags",
+        "blurb": "7 reports (58%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON NJ TURNPIKE ON A 75 MILE TRIP BACK HOME AND AFTER INTO 55 MILES OF THE TRIP, THE VEHICLE COMPLETELY LOST POWER..  I WAS GOING ABOUT 65 MILES OR SO AND IT WAS EXTREMELY SCARY AND DANGEROUS.  WITH THE GRACE OF GOD, I WAS ABLE TO USE THE MOMENTUM TO MAKE IT TO A SID",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY CAR WITH MY FRIEND IN THE PASSENGER SEAT. ALL OF A SUDDEN CAR STARTED MADE A BEEPING SOUND AND MY DASHBOARD SAID SOMETHING ABOUT SAFETY FEATURE BEING TURNED OFF/LIMITED. ALSO THE PASSENGER AIRBAG OFF LIGHT TURNED ON EVEN WHEN THE PASSENGER SEAT WAS OCCUPIED. THE ",
+        "pct": 17,
+        "title": "Seats",
+        "blurb": "2 reports (17%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Audi A3. The contact stated that while driving 65 MPH for a 50-mile trip, the message \"Transmission Failure\" displayed, and the check engine warning light illuminated. The transmission then inadvertently switched from automatic to manual transmission mode ",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "1 report (8%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The headlight assembly failed and manufacturer accepts no responsibility and quoted astronomical repair cost. This should not have been an issue with such new components. I've seen many vehicles like mine with the same problem.",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (8%)"
+      }
+    ]
+  }
+}

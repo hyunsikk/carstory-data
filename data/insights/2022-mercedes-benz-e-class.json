@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mercedes-benz-e-class",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MERCEDES-BENZ/E-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:25.706Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving the car on a road I drive daily with my son in a child seat in the back row.  The car inexplicably slammed on the brakes at full force, stopping in time to avoid driving over the shadow of a tree.  Approximately thirty minutes later, there was a loud popping / explo",
+      "pct": 25
+    },
+    {
+      "component": "WHEELS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Two rectangular blocks descend from the plastic shield under the front bumper. These blocks have a squared-off back. These blocks descend for about an inch, and are located a few inches in front of the front edge of the tires. In normal use, when the car is parked in a parking sp",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving last week on a Dallas street.  The public works people had place a 1 inch this rectangular steel cover over, presumably, a hole.  The car slammed on the brakes, with a red light appearing on the instrument panel.  Had a car been behind me, it would have read ended m",
+      "pct": 15
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz E350. The contact stated that on several occasions while driving at various speeds, the vehicle decelerated while the accelerator pedal was depressed. The contact was able to turn off and restart the vehicle. An unknown warning light was illu",
+      "pct": 15
+    },
+    {
+      "component": "GASOLINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz E350. The contact stated that on several occasions while driving at various speeds, the vehicle decelerated while the accelerator pedal was depressed. The contact was able to turn off and restart the vehicle. An unknown warning light was illu",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mercedes-Benz E-Class owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving the car on a road I drive daily with my son in a child seat in the back row.  The car inexplicably slammed on the brakes at full force, stopping in time to avoid driving over the shadow of a tree.  Approximately thirty minutes later, there was a loud popping / explo",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "5 reports (25%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Two rectangular blocks descend from the plastic shield under the front bumper. These blocks have a squared-off back. These blocks descend for about an inch, and are located a few inches in front of the front edge of the tires. In normal use, when the car is parked in a parking sp",
+        "pct": 15,
+        "title": "Wheels",
+        "blurb": "3 reports (15%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving last week on a Dallas street.  The public works people had place a 1 inch this rectangular steel cover over, presumably, a hole.  The car slammed on the brakes, with a red light appearing on the instrument panel.  Had a car been behind me, it would have read ended m",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (15%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz E350. The contact stated that on several occasions while driving at various speeds, the vehicle decelerated while the accelerator pedal was depressed. The contact was able to turn off and restart the vehicle. An unknown warning light was illu",
+        "pct": 15,
+        "title": "Fuel System",
+        "blurb": "3 reports (15%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz E350. The contact stated that on several occasions while driving at various speeds, the vehicle decelerated while the accelerator pedal was depressed. The contact was able to turn off and restart the vehicle. An unknown warning light was illu",
+        "pct": 15,
+        "title": "Gasoline",
+        "blurb": "3 reports (15%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mercedes-benz-g-class",
+  "make": "Mercedes-Benz",
+  "model": "G-Class",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MERCEDES-BENZ/G-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:28.826Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While pulling away from a red light, the vehicle jolted a small amount, then it shut down, only providing power to the dashboard, which produced an array of safety warnings.  Power steering and throttle were completely dead leaving me powerless in traffic.  I pulled to the should",
+      "pct": 60
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While pulling away from a red light, the vehicle jolted a small amount, then it shut down, only providing power to the dashboard, which produced an array of safety warnings.  Power steering and throttle were completely dead leaving me powerless in traffic.  I pulled to the should",
+      "pct": 60
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The brakes locked up in the vehicle and computer system nearly causing deadly accident.",
+      "pct": 20
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "Authorization failed  Limited access is the reason there recalled I can't pair ⁶",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 15,
+      "deaths": 0,
+      "sample": "Authorization failed  Limited access is the reason there recalled I can't pair ⁶",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mercedes-Benz G-Class owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While pulling away from a red light, the vehicle jolted a small amount, then it shut down, only providing power to the dashboard, which produced an array of safety warnings.  Power steering and throttle were completely dead leaving me powerless in traffic.  I pulled to the should",
+        "pct": 60,
+        "title": "Electrical System",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While pulling away from a red light, the vehicle jolted a small amount, then it shut down, only providing power to the dashboard, which produced an array of safety warnings.  Power steering and throttle were completely dead leaving me powerless in traffic.  I pulled to the should",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The brakes locked up in the vehicle and computer system nearly causing deadly accident.",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "Authorization failed  Limited access is the reason there recalled I can't pair ⁶",
+        "pct": 20,
+        "title": "Suspension",
+        "blurb": "1 report (20%) · 1 fire · 1 crash · 15 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 15,
+        "deaths": 0,
+        "sample": "Authorization failed  Limited access is the reason there recalled I can't pair ⁶",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (20%) · 1 fire · 1 crash · 15 injured"
+      }
+    ]
+  }
+}

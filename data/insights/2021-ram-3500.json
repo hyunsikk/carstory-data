@@ -1,0 +1,128 @@
+{
+  "slug": "2021-ram-3500",
+  "make": "Ram",
+  "model": "3500",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/RAM/3500#complaints",
+  "generatedAt": "2026-06-23T16:40:18.183Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our vehicle was involved in a total loss fire from the engine compartment while driving. We were driving the unit and noticed smoke, when we were merging to pull of the road flames started coming up and we immediately exited the vehicle and had to run, because it started popping.",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new truck (226 miles) STOPPED RUNNING on Interstate 90 in Montana.  Very dangerous situation, although was able to pull to side of interstate and was able to tow truck to Butte Montana and no one was injured.  Nonetheless, had this occurred in rural area, snowy mountain pas",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our vehicle was involved in a total loss fire from the engine compartment while driving. We were driving the unit and noticed smoke, when we were merging to pull of the road flames started coming up and we immediately exited the vehicle and had to run, because it started popping.",
+      "pct": 16
+    },
+    {
+      "component": "WHEELS",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ram 3500. The contact received notification of NHTSA Campaign Number: 21V398000 (Wheels) however, the part to do the recall repair was unavailable. The contact took the vehicle to the local dealer and it was confirmed that the part was not yet available. T",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Ram 3500. The contact stated while driving 60 MPH, the check engine, cruise control, 4WD, stability control, the ABS and trailer brake warning lights were illuminated. The contact called the local dealer and made them aware of the failure. The dealer infor",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Ram 3500 owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our vehicle was involved in a total loss fire from the engine compartment while driving. We were driving the unit and noticed smoke, when we were merging to pull of the road flames started coming up and we immediately exited the vehicle and had to run, because it started popping.",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "16 reports (26%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new truck (226 miles) STOPPED RUNNING on Interstate 90 in Montana.  Very dangerous situation, although was able to pull to side of interstate and was able to tow truck to Butte Montana and no one was injured.  Nonetheless, had this occurred in rural area, snowy mountain pas",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "11 reports (18%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our vehicle was involved in a total loss fire from the engine compartment while driving. We were driving the unit and noticed smoke, when we were merging to pull of the road flames started coming up and we immediately exited the vehicle and had to run, because it started popping.",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "10 reports (16%) · 2 fire"
+      },
+      {
+        "component": "WHEELS",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ram 3500. The contact received notification of NHTSA Campaign Number: 21V398000 (Wheels) however, the part to do the recall repair was unavailable. The contact took the vehicle to the local dealer and it was confirmed that the part was not yet available. T",
+        "pct": 11,
+        "title": "Wheels",
+        "blurb": "7 reports (11%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Ram 3500. The contact stated while driving 60 MPH, the check engine, cruise control, 4WD, stability control, the ABS and trailer brake warning lights were illuminated. The contact called the local dealer and made them aware of the failure. The dealer infor",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "6 reports (10%)"
+      }
+    ]
+  }
+}

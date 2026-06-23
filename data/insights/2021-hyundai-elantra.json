@@ -1,0 +1,128 @@
+{
+  "slug": "2021-hyundai-elantra",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/HYUNDAI/ELANTRA#complaints",
+  "generatedAt": "2026-06-23T16:33:14.586Z",
+  "total": 126,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 32,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In the middle of crossing the Verrazzano Narrows Bridge in New York City, the forward collision warning came on and the braking system automatically engaged REPEATEDLY. I was traveling about 30 MPH and had about 4 car lengths between my car and the one in front. The system kept e",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On August 17, my new Elantra lost power steering, and most safety related features.  Most all instrument warning lights came on. Was able to get car to dealer service where they kept car overnight, and reset the error lights.  They told me, they recorded the computer codes, but c",
+      "pct": 22
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 27,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 1,
+      "sample": "The contact owns a 2021 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 22V354000 (Seat Belts) however, the part to do the recall repair was not yet available. The dealer was made aware of the issue. The contact stated that the manufacturer had exceed",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 1/27/2022 my daughter was driving home from school in her 2021 Hyundai Elantra SEL  which was purchased new on 6/19/ 2021 when at 5600 miles on the odometer a message came on the instrument cluster which read put car in neutral and turn off engine, when it was safe to do so sh",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle was slowing down and was halfway into a parking spot. Then, it suddenly accelerated, jumped over commercial parking blocks, and ended up stopping after hitting a wall. My brake was not working at that moment. I initially reported it to Hyundai USA (as a dealership does",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Hyundai Elantra owners report most",
+    "summary": "Across 126 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 32,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In the middle of crossing the Verrazzano Narrows Bridge in New York City, the forward collision warning came on and the braking system automatically engaged REPEATEDLY. I was traveling about 30 MPH and had about 4 car lengths between my car and the one in front. The system kept e",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "32 reports (25%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On August 17, my new Elantra lost power steering, and most safety related features.  Most all instrument warning lights came on. Was able to get car to dealer service where they kept car overnight, and reset the error lights.  They told me, they recorded the computer codes, but c",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "28 reports (22%) · 1 fire"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 27,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 1,
+        "sample": "The contact owns a 2021 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 22V354000 (Seat Belts) however, the part to do the recall repair was not yet available. The dealer was made aware of the issue. The contact stated that the manufacturer had exceed",
+        "pct": 21,
+        "title": "Seat Belts",
+        "blurb": "27 reports (21%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 1/27/2022 my daughter was driving home from school in her 2021 Hyundai Elantra SEL  which was purchased new on 6/19/ 2021 when at 5600 miles on the odometer a message came on the instrument cluster which read put car in neutral and turn off engine, when it was safe to do so sh",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "13 reports (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle was slowing down and was halfway into a parking spot. Then, it suddenly accelerated, jumped over commercial parking blocks, and ended up stopping after hitting a wall. My brake was not working at that moment. I initially reported it to Hyundai USA (as a dealership does",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "10 reports (8%) · 1 crash"
+      }
+    ]
+  }
+}

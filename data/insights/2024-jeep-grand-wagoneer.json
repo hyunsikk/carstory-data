@@ -1,0 +1,128 @@
+{
+  "slug": "2024-jeep-grand-wagoneer",
+  "make": "Jeep",
+  "model": "Grand Wagoneer",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/JEEP/GRAND%20WAGONEER#complaints",
+  "generatedAt": "2026-06-23T16:45:15.165Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle warning indicator lights Electric Power Steering (EPS) fault light comes on and the vehicle becomes hard to steer while driving.  The Stop/Start active light, Engine check/ malfunction light, service power steering light comes on and the vehicle shuts down when idling",
+      "pct": 61
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my kids to school on the freeway I received an alert telling me that my engine was overheating! I was barely given any warning of the rising temperature to allow myself to pull over safely. It never informed me it was rising, only when it was redlined near the max e",
+      "pct": 42
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This issue happened 3 times in a matter of 2 months.  All 3 happened in 3 different intersections. While turning left in the intersection (oncoming traffic also turning left) the vehicle jerks to a full stop in the middle of the intersection with a \"Crash Detected\" message flashi",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This issue happened 3 times in a matter of 2 months.  All 3 happened in 3 different intersections. While turning left in the intersection (oncoming traffic also turning left) the vehicle jerks to a full stop in the middle of the intersection with a \"Crash Detected\" message flashi",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle in question, has been to a certified jeep dealer twice, to remedy the problem of locking axles and the center differential.  The remedy by Crown CDJR in Columbus OH, was to replace the control module.  Performance CDJR of Gorgesville /Columbus OH had removed the cente",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Jeep Grand Wagoneer owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Electrical System (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle warning indicator lights Electric Power Steering (EPS) fault light comes on and the vehicle becomes hard to steer while driving.  The Stop/Start active light, Engine check/ malfunction light, service power steering light comes on and the vehicle shuts down when idling",
+        "pct": 61,
+        "title": "Electrical System",
+        "blurb": "19 reports (61%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my kids to school on the freeway I received an alert telling me that my engine was overheating! I was barely given any warning of the rising temperature to allow myself to pull over safely. It never informed me it was rising, only when it was redlined near the max e",
+        "pct": 42,
+        "title": "Engine",
+        "blurb": "13 reports (42%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This issue happened 3 times in a matter of 2 months.  All 3 happened in 3 different intersections. While turning left in the intersection (oncoming traffic also turning left) the vehicle jerks to a full stop in the middle of the intersection with a \"Crash Detected\" message flashi",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (13%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This issue happened 3 times in a matter of 2 months.  All 3 happened in 3 different intersections. While turning left in the intersection (oncoming traffic also turning left) the vehicle jerks to a full stop in the middle of the intersection with a \"Crash Detected\" message flashi",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle in question, has been to a certified jeep dealer twice, to remedy the problem of locking axles and the center differential.  The remedy by Crown CDJR in Columbus OH, was to replace the control module.  Performance CDJR of Gorgesville /Columbus OH had removed the cente",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "4 reports (13%)"
+      }
+    ]
+  }
+}

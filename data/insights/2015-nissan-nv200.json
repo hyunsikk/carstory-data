@@ -1,0 +1,128 @@
+{
+  "slug": "2015-nissan-nv200",
+  "make": "Nissan",
+  "model": "NV200",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/NISSAN/NV200#complaints",
+  "generatedAt": "2026-06-23T16:45:36.188Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 NISSAN NV200. WHILE DRIVING APPROXIMATELY 60 MPH, THE DRIVER SIDE CURTAIN AIR BAG AND DRIVER'S SIDE SEAT AIR BAG DEPLOYED INDEPENDENTLY AND WITHOUT IMPACT. THE CONTACT SUSTAINED INJURIES TO THE NECK, LEFT ARM, AND RIBS THAT REQUIRED MEDICAL ATTENTION. ",
+      "pct": 48
+    },
+    {
+      "component": "WHEELS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS VEHICLE IS EXPERIENCING SIGNIFICANT, EARLY, UNEVEN TIRE WEAR AND TIRE CUPPING, CREATING POTENTIAL FOR INJURY OF DRIVER AND PASSENGER IF NOT REGULARLY INSPECTED. ALIGNMENT AND ROARING SOUND EVALUATED BY NISSAN AT 12,571 MILES. NISSAN STATED VAN HAD HIT SOMETHING, WHICH WAS CA",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 NISSAN NV200. WHILE DRIVING AT VARIOUS SPEEDS, THE VEHICLE INDEPENDENTLY VEERED FROM LEFT TO RIGHT WHEN THE WIND BLEW HARD WITHOUT WARNING. THE CONTACT DISCOVERED A HOLE IN THE FLOOR BOARD OF THE FRONT DRIVER SIDE OF THE VEHICLE. THE VEHICLE WAS TAKEN ",
+      "pct": 9
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Nissan NV200. The contact stated that the climate control mode failed to defrost the windows. Approximately 3 years after the first failure, the vehicle was repaired; however, the failure reoccurred. The vehicle was taken to the dealer at the first failure",
+      "pct": 4
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle safety switch is bad and Nissan dealers will not sell the part unless you buy the entire transmission. I bought this transmission in Nov 2020 from Nissan Dealer and the part is malfunction allowing it to start in all gears. The warranty on the transmission is 12,000 m",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Nissan Nv200 owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Air Bags (48% of reports).",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 NISSAN NV200. WHILE DRIVING APPROXIMATELY 60 MPH, THE DRIVER SIDE CURTAIN AIR BAG AND DRIVER'S SIDE SEAT AIR BAG DEPLOYED INDEPENDENTLY AND WITHOUT IMPACT. THE CONTACT SUSTAINED INJURIES TO THE NECK, LEFT ARM, AND RIBS THAT REQUIRED MEDICAL ATTENTION. ",
+        "pct": 48,
+        "title": "Air Bags",
+        "blurb": "11 reports (48%) · 2 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS VEHICLE IS EXPERIENCING SIGNIFICANT, EARLY, UNEVEN TIRE WEAR AND TIRE CUPPING, CREATING POTENTIAL FOR INJURY OF DRIVER AND PASSENGER IF NOT REGULARLY INSPECTED. ALIGNMENT AND ROARING SOUND EVALUATED BY NISSAN AT 12,571 MILES. NISSAN STATED VAN HAD HIT SOMETHING, WHICH WAS CA",
+        "pct": 17,
+        "title": "Wheels",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 NISSAN NV200. WHILE DRIVING AT VARIOUS SPEEDS, THE VEHICLE INDEPENDENTLY VEERED FROM LEFT TO RIGHT WHEN THE WIND BLEW HARD WITHOUT WARNING. THE CONTACT DISCOVERED A HOLE IN THE FLOOR BOARD OF THE FRONT DRIVER SIDE OF THE VEHICLE. THE VEHICLE WAS TAKEN ",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Nissan NV200. The contact stated that the climate control mode failed to defrost the windows. Approximately 3 years after the first failure, the vehicle was repaired; however, the failure reoccurred. The vehicle was taken to the dealer at the first failure",
+        "pct": 4,
+        "title": "Visibility",
+        "blurb": "1 report (4%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle safety switch is bad and Nissan dealers will not sell the part unless you buy the entire transmission. I bought this transmission in Nov 2020 from Nissan Dealer and the part is malfunction allowing it to start in all gears. The warranty on the transmission is 12,000 m",
+        "pct": 4,
+        "title": "Power Train",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

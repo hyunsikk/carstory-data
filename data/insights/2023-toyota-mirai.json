@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-mirai",
+  "make": "Toyota",
+  "model": "Mirai",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/MIRAI#complaints",
+  "generatedAt": "2026-06-23T16:45:45.381Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Summary of Issue: I am the owner of a Toyota Mirai that suffered a sudden loss of power due to contaminated hydrogen fuel. The incident rendered the vehicle undrivable and raised serious safety concerns, as loss of propulsion in a fuel-cell vehicle can occur without warning while",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving in traffic, my 2023 Toyota Mirai suffered a sudden and total loss of motive power. The vehicle became completely unresponsive while in 'Drive', presenting a severe safety hazard. The dashboard displayed multiple cascading warnings, including 'FCV System Malfunction'",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Summary of Issue: I am the owner of a Toyota Mirai that suffered a sudden loss of power due to contaminated hydrogen fuel. The incident rendered the vehicle undrivable and raised serious safety concerns, as loss of propulsion in a fuel-cell vehicle can occur without warning while",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On January 26, 2026, at approximately 6:50 AM, I experienced a serious safety-related malfunction in my 2023 Toyota Mirai while entering traffic on Inglewood Avenue in Lawndale, California.  I was pulling out of a parking lot into active traffic at low speed. At the moment I was ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On January 26, 2026, at approximately 6:50 AM, I experienced a serious safety-related malfunction in my 2023 Toyota Mirai while entering traffic on Inglewood Avenue in Lawndale, California.  I was pulling out of a parking lot into active traffic at low speed. At the moment I was ",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Mirai owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Summary of Issue: I am the owner of a Toyota Mirai that suffered a sudden loss of power due to contaminated hydrogen fuel. The incident rendered the vehicle undrivable and raised serious safety concerns, as loss of propulsion in a fuel-cell vehicle can occur without warning while",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving in traffic, my 2023 Toyota Mirai suffered a sudden and total loss of motive power. The vehicle became completely unresponsive while in 'Drive', presenting a severe safety hazard. The dashboard displayed multiple cascading warnings, including 'FCV System Malfunction'",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Summary of Issue: I am the owner of a Toyota Mirai that suffered a sudden loss of power due to contaminated hydrogen fuel. The incident rendered the vehicle undrivable and raised serious safety concerns, as loss of propulsion in a fuel-cell vehicle can occur without warning while",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On January 26, 2026, at approximately 6:50 AM, I experienced a serious safety-related malfunction in my 2023 Toyota Mirai while entering traffic on Inglewood Avenue in Lawndale, California.  I was pulling out of a parking lot into active traffic at low speed. At the moment I was ",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On January 26, 2026, at approximately 6:50 AM, I experienced a serious safety-related malfunction in my 2023 Toyota Mirai while entering traffic on Inglewood Avenue in Lawndale, California.  I was pulling out of a parking lot into active traffic at low speed. At the moment I was ",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

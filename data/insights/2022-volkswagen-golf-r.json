@@ -1,0 +1,128 @@
+{
+  "slug": "2022-volkswagen-golf-r",
+  "make": "Volkswagen",
+  "model": "Golf R",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/VOLKSWAGEN/GOLF%20R#complaints",
+  "generatedAt": "2026-06-23T16:46:00.502Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Travel assistance failure are constant and the emergency braking system engages occasionally which can be a detriment to the occupants. The constant chiming and notifications are a distraction and the car has to be stopped and turned off in hopes of the system resetting properly.",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Travel assistance failure are constant and the emergency braking system engages occasionally which can be a detriment to the occupants. The constant chiming and notifications are a distraction and the car has to be stopped and turned off in hopes of the system resetting properly.",
+      "pct": 40
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Travel Assist is disabled which includes Adaptive Cruise Control and Lane Keep Assist. The warning lights flash on and off, sometimes multiple times a second, sounding a loud beeping each time. It is triggered at engine start and persists through all speeds. I have experienced it",
+      "pct": 30
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While stopped at a stoplight, the infotainment system went blank and all sorts of errors showed on dashboard display.  The infotainment system continued to turn on and off approximately every 30 seconds. No audio, no backup camera and limited to no functionality via the infotainm",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Travel Assist is disabled which includes Adaptive Cruise Control and Lane Keep Assist. The warning lights flash on and off, sometimes multiple times a second, sounding a loud beeping each time. It is triggered at engine start and persists through all speeds. I have experienced it",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Volkswagen Golf R owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (50% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Travel assistance failure are constant and the emergency braking system engages occasionally which can be a detriment to the occupants. The constant chiming and notifications are a distraction and the car has to be stopped and turned off in hopes of the system resetting properly.",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Travel assistance failure are constant and the emergency braking system engages occasionally which can be a detriment to the occupants. The constant chiming and notifications are a distraction and the car has to be stopped and turned off in hopes of the system resetting properly.",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "4 reports (40%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Travel Assist is disabled which includes Adaptive Cruise Control and Lane Keep Assist. The warning lights flash on and off, sometimes multiple times a second, sounding a loud beeping each time. It is triggered at engine start and persists through all speeds. I have experienced it",
+        "pct": 30,
+        "title": "Steering",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While stopped at a stoplight, the infotainment system went blank and all sorts of errors showed on dashboard display.  The infotainment system continued to turn on and off approximately every 30 seconds. No audio, no backup camera and limited to no functionality via the infotainm",
+        "pct": 10,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Travel Assist is disabled which includes Adaptive Cruise Control and Lane Keep Assist. The warning lights flash on and off, sometimes multiple times a second, sounding a loud beeping each time. It is triggered at engine start and persists through all speeds. I have experienced it",
+        "pct": 10,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

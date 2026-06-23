@@ -1,0 +1,62 @@
+{
+  "slug": "2014-porsche-911",
+  "make": "Porsche",
+  "model": "911",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/PORSCHE/911#complaints",
+  "generatedAt": "2026-06-23T16:39:39.298Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS MODEL, IF IT COMES WITH ONE OF THE TWO LIGHT COLORED DASHBOARDS AVAILABLE (MINE IS ONE-BEIGE), HAS SEVERE GLARE PROBLEMS, CAUSED BY THE NUMBER OF VENTS, SPEAKER, AND OTHER OPENINGS ON THE UPPER DASH, ALL OF WHICH REFLECT IN THE WINDOW.   PORSCHE NORTH AMERICA HAS VERIFIED TH",
+      "pct": 50
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS MODEL, IF IT COMES WITH ONE OF THE TWO LIGHT COLORED DASHBOARDS AVAILABLE (MINE IS ONE-BEIGE), HAS SEVERE GLARE PROBLEMS, CAUSED BY THE NUMBER OF VENTS, SPEAKER, AND OTHER OPENINGS ON THE UPPER DASH, ALL OF WHICH REFLECT IN THE WINDOW.   PORSCHE NORTH AMERICA HAS VERIFIED TH",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Porsche 911 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Structure (50% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS MODEL, IF IT COMES WITH ONE OF THE TWO LIGHT COLORED DASHBOARDS AVAILABLE (MINE IS ONE-BEIGE), HAS SEVERE GLARE PROBLEMS, CAUSED BY THE NUMBER OF VENTS, SPEAKER, AND OTHER OPENINGS ON THE UPPER DASH, ALL OF WHICH REFLECT IN THE WINDOW.   PORSCHE NORTH AMERICA HAS VERIFIED TH",
+        "pct": 50,
+        "title": "Structure",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS MODEL, IF IT COMES WITH ONE OF THE TWO LIGHT COLORED DASHBOARDS AVAILABLE (MINE IS ONE-BEIGE), HAS SEVERE GLARE PROBLEMS, CAUSED BY THE NUMBER OF VENTS, SPEAKER, AND OTHER OPENINGS ON THE UPPER DASH, ALL OF WHICH REFLECT IN THE WINDOW.   PORSCHE NORTH AMERICA HAS VERIFIED TH",
+        "pct": 50,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

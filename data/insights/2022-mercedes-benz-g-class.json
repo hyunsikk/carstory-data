@@ -1,0 +1,84 @@
+{
+  "slug": "2022-mercedes-benz-g-class",
+  "make": "Mercedes-Benz",
+  "model": "G-Class",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MERCEDES-BENZ/G-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:29.424Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz G63 AMG. The contact received notification of NHTSA Campaign Number: 23V880000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer h",
+      "pct": 75
+    },
+    {
+      "component": "GASOLINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mercedes-Benz G63 AMG. The contact received notification of NHTSA Campaign Number: 23V880000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer h",
+      "pct": 75
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Mercedes refuses to come up with a solution.  I have been dealing with this for 8 months now.  I asked that they buy the car back since it is a safety concern.  I do not feel safe driving it.  yet i have to keep paying for the car that sits there?  They are not coming up with a s",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Mercedes-Benz G-Class owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Fuel System (75% of reports).",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz G63 AMG. The contact received notification of NHTSA Campaign Number: 23V880000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer h",
+        "pct": 75,
+        "title": "Fuel System",
+        "blurb": "3 reports (75%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mercedes-Benz G63 AMG. The contact received notification of NHTSA Campaign Number: 23V880000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer h",
+        "pct": 75,
+        "title": "Gasoline",
+        "blurb": "3 reports (75%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Mercedes refuses to come up with a solution.  I have been dealing with this for 8 months now.  I asked that they buy the car back since it is a safety concern.  I do not feel safe driving it.  yet i have to keep paying for the car that sits there?  They are not coming up with a s",
+        "pct": 25,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

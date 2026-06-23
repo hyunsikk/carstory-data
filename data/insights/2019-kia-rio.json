@@ -1,0 +1,128 @@
+{
+  "slug": "2019-kia-rio",
+  "make": "Kia",
+  "model": "Rio",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/KIA/RIO#complaints",
+  "generatedAt": "2026-06-23T16:36:37.607Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown of specifics. I was driving up a hill. I heard a loud pop. I pulled off the side of the road. The battery light, oil light, and one other came on. I turned my car off. Tried to start it, again however it sounded like the starter wasn't working. Then smoke started to come ",
+      "pct": 29
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2019 KIA RIO. WHILE DRIVING 35 MPH IN THE RIGHT LANE, ANOTHER VEHICLE TURNED FROM THE CENTER LANE AND CRASHED HEAD ON INTO THE CONTACT'S VEHICLE. THE AIR BAG FAILED TO DEPLOY. AS A RESULT, THE CONTACT SUSTAINED NECK, SHOULDER, RIGHT FOOT, AND LEFT KNEE INJ",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 KIA RIO. THE CONTACT STATED THAT WHILE ACCELERATING FROM A STOP, THE VEHICLE HESITATED WHILE CHANGING GEARS. THE CONTACT STATED THAT THERE WAS NO WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO KIA OF STOCKTON LOCATED AT (6215 HOLMAN RD, STOCKTON, ",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "STEERING HAS AN INTERMITTENT PULL TO THE LEFT.",
+      "pct": 10
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There was no accident the radio/backup camera shuts down completely on the inside of the car when the car is too hot inside",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Kia Rio owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Engine (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown of specifics. I was driving up a hill. I heard a loud pop. I pulled off the side of the road. The battery light, oil light, and one other came on. I turned my car off. Tried to start it, again however it sounded like the starter wasn't working. Then smoke started to come ",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "6 reports (29%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2019 KIA RIO. WHILE DRIVING 35 MPH IN THE RIGHT LANE, ANOTHER VEHICLE TURNED FROM THE CENTER LANE AND CRASHED HEAD ON INTO THE CONTACT'S VEHICLE. THE AIR BAG FAILED TO DEPLOY. AS A RESULT, THE CONTACT SUSTAINED NECK, SHOULDER, RIGHT FOOT, AND LEFT KNEE INJ",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "3 reports (14%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 KIA RIO. THE CONTACT STATED THAT WHILE ACCELERATING FROM A STOP, THE VEHICLE HESITATED WHILE CHANGING GEARS. THE CONTACT STATED THAT THERE WAS NO WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO KIA OF STOCKTON LOCATED AT (6215 HOLMAN RD, STOCKTON, ",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "STEERING HAS AN INTERMITTENT PULL TO THE LEFT.",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There was no accident the radio/backup camera shuts down completely on the inside of the car when the car is too hot inside",
+        "pct": 5,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

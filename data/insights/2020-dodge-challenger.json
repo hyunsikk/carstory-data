@@ -1,0 +1,128 @@
+{
+  "slug": "2020-dodge-challenger",
+  "make": "Dodge",
+  "model": "Challenger",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/DODGE/CHALLENGER#complaints",
+  "generatedAt": "2026-06-23T16:29:17.523Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE SCREEN FOR THE STEREO CONTINUOUSLY FLASHES LIKE IT IS SHORTING AND THE TOGGLE BUTTONS CONTINUOUSLY FREEZE. WHEN TAKEN BACK TO THE DEALER, THEY SAID THERE IS NO ISSUE THAT CHRYSLER SAID I NEEDED TO MAKE SURE MY CHARGER HAD NO DUST IN IT AND MAKE SURE THE SLOT HAD NONE EITHER. ",
+      "pct": 35
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Dodge Challenger. The contact stated that while driving approximately 30 MPH, the vehicle momentarily powered off; while coasting to the side of the road, the vehicle suddenly powered back on and continued to drive as needed. The contact stated that during",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In your own words, tell us what happened. Cro I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a complete stop. I pressed the clutch to engage the gear into neutral. Suddenly I h",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In your own words, tell us what happened. Cro I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a complete stop. I pressed the clutch to engage the gear into neutral. Suddenly I h",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A DODGE CHALLENGER. THE PLACE I BOUGHT IT IS HUNTINGTON BEACH DODGE RAM JEEP DEALER. I GOT OUT OF THE DEALER AND THE SHAFT OF THE CAR WAS OUT OF THE WAY, I WAS ALMOST HAVING AN ACCIDENT.I WENT BACK TO THE DEALER AND EXPLAINED THE SITUATION. THEY TOLD ME TO GIVE THE CAR T",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Dodge Challenger owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE SCREEN FOR THE STEREO CONTINUOUSLY FLASHES LIKE IT IS SHORTING AND THE TOGGLE BUTTONS CONTINUOUSLY FREEZE. WHEN TAKEN BACK TO THE DEALER, THEY SAID THERE IS NO ISSUE THAT CHRYSLER SAID I NEEDED TO MAKE SURE MY CHARGER HAD NO DUST IN IT AND MAKE SURE THE SLOT HAD NONE EITHER. ",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "7 reports (35%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Dodge Challenger. The contact stated that while driving approximately 30 MPH, the vehicle momentarily powered off; while coasting to the side of the road, the vehicle suddenly powered back on and continued to drive as needed. The contact stated that during",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "4 reports (20%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In your own words, tell us what happened. Cro I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a complete stop. I pressed the clutch to engage the gear into neutral. Suddenly I h",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "3 reports (15%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In your own words, tell us what happened. Cro I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a complete stop. I pressed the clutch to engage the gear into neutral. Suddenly I h",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (15%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A DODGE CHALLENGER. THE PLACE I BOUGHT IT IS HUNTINGTON BEACH DODGE RAM JEEP DEALER. I GOT OUT OF THE DEALER AND THE SHAFT OF THE CAR WAS OUT OF THE WAY, I WAS ALMOST HAVING AN ACCIDENT.I WENT BACK TO THE DEALER AND EXPLAINED THE SITUATION. THEY TOLD ME TO GIVE THE CAR T",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "3 reports (15%)"
+      }
+    ]
+  }
+}

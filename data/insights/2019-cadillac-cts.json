@@ -1,0 +1,128 @@
+{
+  "slug": "2019-cadillac-cts",
+  "make": "Cadillac",
+  "model": "CTS",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/CADILLAC/CTS#complaints",
+  "generatedAt": "2026-06-23T16:27:42.524Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The rear differential started making noise and growling. Upon draining the differential, we found a lot of metal debris. Upon reading on this issue, we found that Cadillac has had this issue with past models. It seems that the original G.M. part is no longer available. This could",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I believe it’s the transmission it’s not changing gears like it supposed to only have 52,000 miles on the dash. It’s have to be defective. No Incident",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Cadillac CTS. The contact stated that while driving at 40 MPH, the check engine warning light illuminated. The vehicle was taken to an Auto Parts Store and was diagnosed with catalytic converter failure. The contact stated that upon cleaning the catalytic ",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Cadillac CTS. The contact stated that the trim on the steering wheel had started to peel off. Due to the failure, the edges of the steering wheel where the trim was located had started peeling off and were sharp, causing serious concerns while driving the ",
+      "pct": 10
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The backup camera grid on our 2019 vehicle disappears most of the time when we start in reverse after turning on the engine.  We have taken our vehicle into local Cadillac dealership service departments over the past 3 years and they have replaced cables, backup camera, radio equ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Cadillac Cts owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Power Train (30% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The rear differential started making noise and growling. Upon draining the differential, we found a lot of metal debris. Upon reading on this issue, we found that Cadillac has had this issue with past models. It seems that the original G.M. part is no longer available. This could",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "3 reports (30%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I believe it’s the transmission it’s not changing gears like it supposed to only have 52,000 miles on the dash. It’s have to be defective. No Incident",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Cadillac CTS. The contact stated that while driving at 40 MPH, the check engine warning light illuminated. The vehicle was taken to an Auto Parts Store and was diagnosed with catalytic converter failure. The contact stated that upon cleaning the catalytic ",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Cadillac CTS. The contact stated that the trim on the steering wheel had started to peel off. Due to the failure, the edges of the steering wheel where the trim was located had started peeling off and were sharp, causing serious concerns while driving the ",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The backup camera grid on our 2019 vehicle disappears most of the time when we start in reverse after turning on the engine.  We have taken our vehicle into local Cadillac dealership service departments over the past 3 years and they have replaced cables, backup camera, radio equ",
+        "pct": 10,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

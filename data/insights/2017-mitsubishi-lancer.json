@@ -1,0 +1,106 @@
+{
+  "slug": "2017-mitsubishi-lancer",
+  "make": "Mitsubishi",
+  "model": "Lancer",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/MITSUBISHI/LANCER#complaints",
+  "generatedAt": "2026-06-23T16:38:51.348Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Airbag light came on saying there is something wrong with my car. No recalls for this vehicle even though this is a huge safety concern and is by default a problem with how the manufacturer made the vehicle.",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transmission has a severe shudder and lack of power. The malfunction occurs frequently and most recently has occurred while making a left turn in an intersection when the vehicle suddenly stumbled in the middle of the intersection with oncoming traffic nearing. The problem ha",
+      "pct": 33
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I FINALLY GOT HOME TO LOOK AT MY NEW CAR AND I WANT  CAR THAT HAS NO SCRATCHES OR PAINT EVEN COMING OFF SLIGHTLY.... THIS A HARDLY THING YOU CAN SEE AND MY DEFROST, WHEN IS CUT ON, MAKES A CLICK/POP NOISE EARLY IN MORNING... I WANT A CAR ALSO WITH SPORT MODE A MITSUBISHI LANCER T",
+      "pct": 17
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I FINALLY GOT HOME TO LOOK AT MY NEW CAR AND I WANT  CAR THAT HAS NO SCRATCHES OR PAINT EVEN COMING OFF SLIGHTLY.... THIS A HARDLY THING YOU CAN SEE AND MY DEFROST, WHEN IS CUT ON, MAKES A CLICK/POP NOISE EARLY IN MORNING... I WANT A CAR ALSO WITH SPORT MODE A MITSUBISHI LANCER T",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Mitsubishi Lancer owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Airbag light came on saying there is something wrong with my car. No recalls for this vehicle even though this is a huge safety concern and is by default a problem with how the manufacturer made the vehicle.",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "3 reports (50%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transmission has a severe shudder and lack of power. The malfunction occurs frequently and most recently has occurred while making a left turn in an intersection when the vehicle suddenly stumbled in the middle of the intersection with oncoming traffic nearing. The problem ha",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I FINALLY GOT HOME TO LOOK AT MY NEW CAR AND I WANT  CAR THAT HAS NO SCRATCHES OR PAINT EVEN COMING OFF SLIGHTLY.... THIS A HARDLY THING YOU CAN SEE AND MY DEFROST, WHEN IS CUT ON, MAKES A CLICK/POP NOISE EARLY IN MORNING... I WANT A CAR ALSO WITH SPORT MODE A MITSUBISHI LANCER T",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I FINALLY GOT HOME TO LOOK AT MY NEW CAR AND I WANT  CAR THAT HAS NO SCRATCHES OR PAINT EVEN COMING OFF SLIGHTLY.... THIS A HARDLY THING YOU CAN SEE AND MY DEFROST, WHEN IS CUT ON, MAKES A CLICK/POP NOISE EARLY IN MORNING... I WANT A CAR ALSO WITH SPORT MODE A MITSUBISHI LANCER T",
+        "pct": 17,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

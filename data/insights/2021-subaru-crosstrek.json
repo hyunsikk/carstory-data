@@ -1,0 +1,128 @@
+{
+  "slug": "2021-subaru-crosstrek",
+  "make": "Subaru",
+  "model": "Crosstrek",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/SUBARU/CROSSTREK#complaints",
+  "generatedAt": "2026-06-23T16:40:39.902Z",
+  "total": 107,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE IS EQUIPPED WITH EYESIGHT, WHICH IS A SUBARU TECHNOLOGY THAT INCLUDES ADAPTIVE CRUISE CONTROL, FORWARD COLLISON WARNING/BREAKING, LANE DEPARTURE WARNING, REAR AUTOMATIC BRAKING, ETC.    SUBARU CLAIMS THAT WINDSHIELD REPLACEMENTS MUST USE SUBARU GLASS DUE THE OPTICAL CL",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The battery dies completely, seemingly under colder conditions. In the first case it was after 6 days of not turning the car on, however the next time it happened after only a day and a half of not turning on the vehicle. The vehicle is only a few months old so the battery or oth",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was crossing two lanes of a very busy ocean front street when the engine “bogged down” .  I let off on the gas pedal and then depressed it again, which then caused the engine to go off. I the quickly restarted the engine and was able to get out of the way of oncoming traffic.  ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE LANE KEEPING FEATURE WILL RANDOMLY CAUSE THE VEHICLE TO VEER TOWARDS THE CENTER LINE AT A VARIETY OF SPEEDS AND UNDER A VARIETY OF CONDITIONS, REQUIRING IMMEDIATE DRIVER CORRECTION TO AVOID CROSSING THE CENTER LINE. NO ACCIDENT HAS OCCURRED BUT THE SYSTEM IS NOW DEACTIVATED. ",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have been experiencing shuddering/jerking/hesitation in my vehicle since July.  The dealership has had it in their service department several times and cannot diagnose the issue.  Subaru of America was contacted and gave no resolution to repairing the vehicle.  They did not ins",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Subaru Crosstrek owners report most",
+    "summary": "Across 107 owner complaints to NHTSA, the most reported area is Visibility/Wiper (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE IS EQUIPPED WITH EYESIGHT, WHICH IS A SUBARU TECHNOLOGY THAT INCLUDES ADAPTIVE CRUISE CONTROL, FORWARD COLLISON WARNING/BREAKING, LANE DEPARTURE WARNING, REAR AUTOMATIC BRAKING, ETC.    SUBARU CLAIMS THAT WINDSHIELD REPLACEMENTS MUST USE SUBARU GLASS DUE THE OPTICAL CL",
+        "pct": 27,
+        "title": "Visibility/Wiper",
+        "blurb": "29 reports (27%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The battery dies completely, seemingly under colder conditions. In the first case it was after 6 days of not turning the car on, however the next time it happened after only a day and a half of not turning on the vehicle. The vehicle is only a few months old so the battery or oth",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "14 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was crossing two lanes of a very busy ocean front street when the engine “bogged down” .  I let off on the gas pedal and then depressed it again, which then caused the engine to go off. I the quickly restarted the engine and was able to get out of the way of oncoming traffic.  ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "14 reports (13%) · 2 fire · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE LANE KEEPING FEATURE WILL RANDOMLY CAUSE THE VEHICLE TO VEER TOWARDS THE CENTER LINE AT A VARIETY OF SPEEDS AND UNDER A VARIETY OF CONDITIONS, REQUIRING IMMEDIATE DRIVER CORRECTION TO AVOID CROSSING THE CENTER LINE. NO ACCIDENT HAS OCCURRED BUT THE SYSTEM IS NOW DEACTIVATED. ",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (12%) · 1 fire · 2 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have been experiencing shuddering/jerking/hesitation in my vehicle since July.  The dealership has had it in their service department several times and cannot diagnose the issue.  Subaru of America was contacted and gave no resolution to repairing the vehicle.  They did not ins",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "12 reports (11%) · 2 crash"
+      }
+    ]
+  }
+}

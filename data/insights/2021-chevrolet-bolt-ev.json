@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-bolt-ev",
+  "make": "Chevrolet",
+  "model": "Bolt EV",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/BOLT%20EV#complaints",
+  "generatedAt": "2026-06-23T16:28:01.337Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Backup camera on while driving at freeway speeds:  While driving on the highway, the infotainment system started having trouble.  First my Carplay disconnected and I couldn't reconnect.  When trying to fix it, I hit the 'home' button.  Then the backup camera displayed on the disp",
+      "pct": 50
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I PURCHASED THE VEHICLE NEW FROM DIAMOND CHEVROLET ON APRIL 17 THE 2021 CHEVY BOLT HAD 3 MILES ON THE ODO I DROVE THE BOLT 3 MORE MILES AND THE VEHICLE LOST POWER AND REDUCED SPEED ON THE FREEWAY ALMOST CAUSING AN ACCIDENT. THE DISPLAY FLASHED A WARNING OF REDUCED POWER AND THE B",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I started to leave the driveway in a forward driving position, my brand new Chevy bolt with only 2430 miles on it put itself into park. It made a terrible metal grinding noise and jolted us forward. My foot was still on the accelerator because I thought it was going to drive b",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At random times even while driving:  First and most importantly, speed will read 0 MPH while driving.  Second the following errors will appear on the dash: \"Steering Assist Reduced Drive with Care\" \"Pedestrian Friendly Alert System\"  Also, the following lights in the dash light u",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I started to leave the driveway in a forward driving position, my brand new Chevy bolt with only 2430 miles on it put itself into park. It made a terrible metal grinding noise and jolted us forward. My foot was still on the accelerator because I thought it was going to drive b",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Bolt Ev owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Backup camera on while driving at freeway speeds:  While driving on the highway, the infotainment system started having trouble.  First my Carplay disconnected and I couldn't reconnect.  When trying to fix it, I hit the 'home' button.  Then the backup camera displayed on the disp",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "33 reports (50%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I PURCHASED THE VEHICLE NEW FROM DIAMOND CHEVROLET ON APRIL 17 THE 2021 CHEVY BOLT HAD 3 MILES ON THE ODO I DROVE THE BOLT 3 MORE MILES AND THE VEHICLE LOST POWER AND REDUCED SPEED ON THE FREEWAY ALMOST CAUSING AN ACCIDENT. THE DISPLAY FLASHED A WARNING OF REDUCED POWER AND THE B",
+        "pct": 23,
+        "title": "Fuel/Propulsion System",
+        "blurb": "15 reports (23%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I started to leave the driveway in a forward driving position, my brand new Chevy bolt with only 2430 miles on it put itself into park. It made a terrible metal grinding noise and jolted us forward. My foot was still on the accelerator because I thought it was going to drive b",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "10 reports (15%) · 2 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At random times even while driving:  First and most importantly, speed will read 0 MPH while driving.  Second the following errors will appear on the dash: \"Steering Assist Reduced Drive with Care\" \"Pedestrian Friendly Alert System\"  Also, the following lights in the dash light u",
+        "pct": 12,
+        "title": "Steering",
+        "blurb": "8 reports (12%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I started to leave the driveway in a forward driving position, my brand new Chevy bolt with only 2430 miles on it put itself into park. It made a terrible metal grinding noise and jolted us forward. My foot was still on the accelerator because I thought it was going to drive b",
+        "pct": 6,
+        "title": "Engine",
+        "blurb": "4 reports (6%)"
+      }
+    ]
+  }
+}

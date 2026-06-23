@@ -1,0 +1,40 @@
+{
+  "slug": "2024-audi-q7",
+  "make": "Audi",
+  "model": "Q7",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/Q7#complaints",
+  "generatedAt": "2026-06-23T16:26:06.586Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The emergency call is malfunctioning in the overhead console.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Q7 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The emergency call is malfunctioning in the overhead console.",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

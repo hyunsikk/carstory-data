@@ -1,0 +1,128 @@
+{
+  "slug": "2019-audi-a4",
+  "make": "Audi",
+  "model": "A4",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/A4#complaints",
+  "generatedAt": "2026-06-23T16:25:14.510Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing a complaint concerning my recent experience with the Audi service department located in San Rafael, California. On May 24, 2021 I brought my 2019 Audi A4 in for service due to an error message stating, \"Front parking aid: malfunction! Obstacles cannot be detected\". I ",
+      "pct": 40
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I am filing a complaint concerning my recent experience with the Audi service department located in San Rafael, California. On May 24, 2021 I brought my 2019 Audi A4 in for service due to an error message stating, \"Front parking aid: malfunction! Obstacles cannot be detected\". I ",
+      "pct": 40
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Owner of 2019 A4 recently purchased from dealership after lease expired in Feb.2023. Currently with only  36,800 miles, took vehicle to inspect on Nov.24th and nothing but a front light replacement and suggestion of new tires in inspection video. The factory warranty due to expir",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle was inspected at 50,000 miles by the dealer and report says that passenger side motor mount was leaking.  They also said that the motor mount will deteriorate rapidly and will affect the safety of the vehicle.",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front passenger airbag light goes on and off randomly whenever if there is someone sits at the front passenger seat. The problem is exactly same as described in Recall 21V874000. Audi A4 2019 is on the list of recall, but my car wasn't been recalled for no reason.",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi A4 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing a complaint concerning my recent experience with the Audi service department located in San Rafael, California. On May 24, 2021 I brought my 2019 Audi A4 in for service due to an error message stating, \"Front parking aid: malfunction! Obstacles cannot be detected\". I ",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I am filing a complaint concerning my recent experience with the Audi service department located in San Rafael, California. On May 24, 2021 I brought my 2019 Audi A4 in for service due to an error message stating, \"Front parking aid: malfunction! Obstacles cannot be detected\". I ",
+        "pct": 40,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (40%) · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Owner of 2019 A4 recently purchased from dealership after lease expired in Feb.2023. Currently with only  36,800 miles, took vehicle to inspect on Nov.24th and nothing but a front light replacement and suggestion of new tires in inspection video. The factory warranty due to expir",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle was inspected at 50,000 miles by the dealer and report says that passenger side motor mount was leaking.  They also said that the motor mount will deteriorate rapidly and will affect the safety of the vehicle.",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front passenger airbag light goes on and off randomly whenever if there is someone sits at the front passenger seat. The problem is exactly same as described in Recall 21V874000. Audi A4 2019 is on the list of recall, but my car wasn't been recalled for no reason.",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

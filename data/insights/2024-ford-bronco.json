@@ -1,0 +1,128 @@
+{
+  "slug": "2024-ford-bronco",
+  "make": "Ford",
+  "model": "Bronco",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/FORD/BRONCO#complaints",
+  "generatedAt": "2026-06-23T16:29:38.431Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since I purchased my vehicle I noticed that the left blinker would turn on sometimes when I put my right blinker on and made a right turn. Usually when you use your right blinker and make a right hand turn, as soon as your vehicle straightens out the blinker should then go off. I",
+      "pct": 22
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Ford Bronco. The contact stated while pulling out of the driveway two days after purchasing the vehicle, the contact noticed water leaking on the rear seats through the driver’s and the passenger’s side of the roof. The vehicle was taken to the dealer, whe",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When the Vehicle is put into Neutral Tow Mode and Towed behind a vehicle while using a supplemental braking system. The Bronco's Brake system becomes intermittently Active. Causing the slightest pressure to lock up the brakes. The Same issue as reported in.  SSM 51415 . The Bronc",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving down the road and the front end of the car started to shake.  The power to the car then went out.  The message on the dash said to put it in park and restart so I did.  I was able to get it started, and put it in drive and then it shook again and the power went out.",
+      "pct": 9
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have the following problems.   1. The lane keep sometimes jerks the wheel out of my hand while going around a corner. One time it made me drive off in a ditch.   2.  The windows get stuck and won't completely role up. My car sometimes smells like plastic is burning  3. When i h",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Ford Bronco owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Electrical System (22% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since I purchased my vehicle I noticed that the left blinker would turn on sometimes when I put my right blinker on and made a right turn. Usually when you use your right blinker and make a right hand turn, as soon as your vehicle straightens out the blinker should then go off. I",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "15 reports (22%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Ford Bronco. The contact stated while pulling out of the driveway two days after purchasing the vehicle, the contact noticed water leaking on the rear seats through the driver’s and the passenger’s side of the roof. The vehicle was taken to the dealer, whe",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "12 reports (18%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When the Vehicle is put into Neutral Tow Mode and Towed behind a vehicle while using a supplemental braking system. The Bronco's Brake system becomes intermittently Active. Causing the slightest pressure to lock up the brakes. The Same issue as reported in.  SSM 51415 . The Bronc",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "9 reports (13%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving down the road and the front end of the car started to shake.  The power to the car then went out.  The message on the dash said to put it in park and restart so I did.  I was able to get it started, and put it in drive and then it shook again and the power went out.",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "6 reports (9%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have the following problems.   1. The lane keep sometimes jerks the wheel out of my hand while going around a corner. One time it made me drive off in a ditch.   2.  The windows get stuck and won't completely role up. My car sometimes smells like plastic is burning  3. When i h",
+        "pct": 9,
+        "title": "Lane Departure",
+        "blurb": "6 reports (9%) · 1 crash"
+      }
+    ]
+  }
+}

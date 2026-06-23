@@ -1,0 +1,128 @@
+{
+  "slug": "2015-ram-1500",
+  "make": "Ram",
+  "model": "1500",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/RAM/1500#complaints",
+  "generatedAt": "2026-06-23T16:40:12.123Z",
+  "total": 1415,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 335,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A RAM 1500. WHILE WAITING AT A STOP LIGHT WITH THE BRAKES ENGAGED, THE ENGINE RPMS RAPIDLY INCREASED AFTER PERFORMING AT HIGH SPEEDS. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO THE DEALER; HOWEVER, THE FAILURE WAS NOT DETERMINED. THE VEHICL",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 330,
+      "crash": 6,
+      "fire": 38,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "THE TRUCK IS AN ECODIESEL.  THIS IS A REPLACEMENT TRUCK FROM A BUYBACK ON A 2014.  BOTH TRUCKS ARE THE SAME, ONE 2014 AND ONE 2015.  IN COLD WEATHER THEY FAIL TO START.  BETWEEN THE TWO TRUCKS THEY HAVE BEEN TOWED A TOTAL OF 4 TIMES. ONE TRUCK HAD 2800 MILES THE OTHER 768.  BEEN ",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 225,
+      "crash": 27,
+      "fire": 5,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 DODGE RAM 1500. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBERS: 15V313000 (AIR BAG) AND 14V796000 (POWER TRAIN); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 164,
+      "crash": 4,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THE TRUCK SHUTS OFF WHILE DRIVING,AND MUST BE MANUALLY GUIDED TO SAFETY SO THAT THE VEHICLE CAN BE RESTARTED. THIS OCCURRED THREE TIMES ON THIS DATE AND WAS TAKEN TO THE DEALERSHIP THE NEXT DAY. THE TRUCK DID SHUT OFF FOR THEM AS WELL DURING THEIR TESTING. THE TRUCK IS STILL AT T",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 150,
+      "crash": 11,
+      "fire": 13,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2015 DODGE RAM 1500. THE CONTACT STATED THAT WHILE IN PARK, THE FRONT AND REAR DRIVER SIDE DOORS AND THE INNER PART OF THE REAR END CAUGHT FIRE. THE FIRE EXTINGUISHED ITSELF. A POLICE REPORT WAS FILED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACT",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Ram 1500 owners report most",
+    "summary": "Across 1,415 owner complaints to NHTSA, the most reported area is Steering (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 335,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A RAM 1500. WHILE WAITING AT A STOP LIGHT WITH THE BRAKES ENGAGED, THE ENGINE RPMS RAPIDLY INCREASED AFTER PERFORMING AT HIGH SPEEDS. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO THE DEALER; HOWEVER, THE FAILURE WAS NOT DETERMINED. THE VEHICL",
+        "pct": 24,
+        "title": "Steering",
+        "blurb": "335 reports (24%) · 10 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 330,
+        "crash": 6,
+        "fire": 38,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "THE TRUCK IS AN ECODIESEL.  THIS IS A REPLACEMENT TRUCK FROM A BUYBACK ON A 2014.  BOTH TRUCKS ARE THE SAME, ONE 2014 AND ONE 2015.  IN COLD WEATHER THEY FAIL TO START.  BETWEEN THE TWO TRUCKS THEY HAVE BEEN TOWED A TOTAL OF 4 TIMES. ONE TRUCK HAD 2800 MILES THE OTHER 768.  BEEN ",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "330 reports (23%) · 38 fire · 6 crash · 5 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 225,
+        "crash": 27,
+        "fire": 5,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 DODGE RAM 1500. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBERS: 15V313000 (AIR BAG) AND 14V796000 (POWER TRAIN); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "225 reports (16%) · 5 fire · 27 crash · 9 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 164,
+        "crash": 4,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THE TRUCK SHUTS OFF WHILE DRIVING,AND MUST BE MANUALLY GUIDED TO SAFETY SO THAT THE VEHICLE CAN BE RESTARTED. THIS OCCURRED THREE TIMES ON THIS DATE AND WAS TAKEN TO THE DEALERSHIP THE NEXT DAY. THE TRUCK DID SHUT OFF FOR THEM AS WELL DURING THEIR TESTING. THE TRUCK IS STILL AT T",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "164 reports (12%) · 3 fire · 4 crash · 3 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 150,
+        "crash": 11,
+        "fire": 13,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2015 DODGE RAM 1500. THE CONTACT STATED THAT WHILE IN PARK, THE FRONT AND REAR DRIVER SIDE DOORS AND THE INNER PART OF THE REAR END CAUGHT FIRE. THE FIRE EXTINGUISHED ITSELF. A POLICE REPORT WAS FILED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACT",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "150 reports (11%) · 13 fire · 11 crash · 5 injured"
+      }
+    ]
+  }
+}

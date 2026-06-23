@@ -1,0 +1,128 @@
+{
+  "slug": "2020-mini-countryman",
+  "make": "MINI",
+  "model": "Countryman",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MINI/COUNTRYMAN#complaints",
+  "generatedAt": "2026-06-23T16:42:36.455Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHILE DRIVING IN 10 DEGREE F WEATHER, THE MINI COUNTRYMAN OVERHEATED WITHIN 3 MILES OF DRIVING FROM ORIGINALLY TURNING THE CAR ON (10 MINUTES OF RUN TIME). THE DEALERSHIP NOTED THAT A ROCK PASSED THROUGH THE GRILL THAT PROTECTS THE AUXILLARY COOLING RADIATOR AND DAMAGED THE RADIA",
+      "pct": 33
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "use of USB on steering coulomb causes short and disables power steering while driving. Known issue yet customers still paying for repair.      Motor mount, trans mission mount break, torn, causing potential fatal condition.",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 11,336 my vehicle started shutting down when I was stopped at intersections, red lights, and in stopped traffic. The vehicle continued to do this until 40,817 when if finally shut down and would not restart and had to be towed back to the dealership.  I began reporting the iss",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 11,336 my vehicle started shutting down when I was stopped at intersections, red lights, and in stopped traffic. The vehicle continued to do this until 40,817 when if finally shut down and would not restart and had to be towed back to the dealership.  I began reporting the iss",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TRUNK/REAR HATCH POWER LIFT WILL ENAGE IF KEY FOB HAS HATCH BUTTON PRESSED WHILE CAR IS IN DRIVE OR IN MOTION. HATCH WILL RAISE CREATING SITUATION WHERE OBJECTS CAN FALL OUT OF THE VEHICLE. DISCUSSION WITH DEALER REVEALED OTHERS HAVE SAME ISSUE ONLY ON THE COUNTRYMAN MODELS AND D",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mini Countryman owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Engine (33% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHILE DRIVING IN 10 DEGREE F WEATHER, THE MINI COUNTRYMAN OVERHEATED WITHIN 3 MILES OF DRIVING FROM ORIGINALLY TURNING THE CAR ON (10 MINUTES OF RUN TIME). THE DEALERSHIP NOTED THAT A ROCK PASSED THROUGH THE GRILL THAT PROTECTS THE AUXILLARY COOLING RADIATOR AND DAMAGED THE RADIA",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%) · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "use of USB on steering coulomb causes short and disables power steering while driving. Known issue yet customers still paying for repair.      Motor mount, trans mission mount break, torn, causing potential fatal condition.",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 11,336 my vehicle started shutting down when I was stopped at intersections, red lights, and in stopped traffic. The vehicle continued to do this until 40,817 when if finally shut down and would not restart and had to be towed back to the dealership.  I began reporting the iss",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 11,336 my vehicle started shutting down when I was stopped at intersections, red lights, and in stopped traffic. The vehicle continued to do this until 40,817 when if finally shut down and would not restart and had to be towed back to the dealership.  I began reporting the iss",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TRUNK/REAR HATCH POWER LIFT WILL ENAGE IF KEY FOB HAS HATCH BUTTON PRESSED WHILE CAR IS IN DRIVE OR IN MOTION. HATCH WILL RAISE CREATING SITUATION WHERE OBJECTS CAN FALL OUT OF THE VEHICLE. DISCUSSION WITH DEALER REVEALED OTHERS HAVE SAME ISSUE ONLY ON THE COUNTRYMAN MODELS AND D",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-honda-passport",
+  "make": "Honda",
+  "model": "Passport",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HONDA/PASSPORT#complaints",
+  "generatedAt": "2026-06-23T16:32:40.040Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Rotors went bad with less than  250 miles on new car.  Per American Honda rotors are not defective, because Dealership didn't day were defective; therefore, not covered under warranty, considered wear and tear.  Dealership initially stated the cause of the rotors going bad was me",
+      "pct": 53
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I am having an issue with the turn signal / emergency flasher not making any noise while in operation.  The system visual components work fine.  It's the inability to hear the flashing of the signals while driving down the road    This could lead to issues with other cars trying ",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Breaking and steering wheel malfunction causing accident on December 20th 2024. Car is currently still at dealership for investigation.  My safety was at risk, causing injury to shoulder.  Not sure if problem has been reproduced, not confirmed by dealership as of yet.  Police rep",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At a red light in an intereection the Auto engine idle stopper feature stopped the engine and it failed to power /  restart the engine. The cars electral system locked up. Could not restart engine, and could not put car in neutral because engine needs to be on. Had to car battery",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Breaking and steering wheel malfunction causing accident on December 20th 2024. Car is currently still at dealership for investigation.  My safety was at risk, causing injury to shoulder.  Not sure if problem has been reproduced, not confirmed by dealership as of yet.  Police rep",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Honda Passport owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Service Brakes (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Rotors went bad with less than  250 miles on new car.  Per American Honda rotors are not defective, because Dealership didn't day were defective; therefore, not covered under warranty, considered wear and tear.  Dealership initially stated the cause of the rotors going bad was me",
+        "pct": 53,
+        "title": "Service Brakes",
+        "blurb": "8 reports (53%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I am having an issue with the turn signal / emergency flasher not making any noise while in operation.  The system visual components work fine.  It's the inability to hear the flashing of the signals while driving down the road    This could lead to issues with other cars trying ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "3 reports (20%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Breaking and steering wheel malfunction causing accident on December 20th 2024. Car is currently still at dealership for investigation.  My safety was at risk, causing injury to shoulder.  Not sure if problem has been reproduced, not confirmed by dealership as of yet.  Police rep",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "2 reports (13%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At a red light in an intereection the Auto engine idle stopper feature stopped the engine and it failed to power /  restart the engine. The cars electral system locked up. Could not restart engine, and could not put car in neutral because engine needs to be on. Had to car battery",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Breaking and steering wheel malfunction causing accident on December 20th 2024. Car is currently still at dealership for investigation.  My safety was at risk, causing injury to shoulder.  Not sure if problem has been reproduced, not confirmed by dealership as of yet.  Police rep",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (13%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

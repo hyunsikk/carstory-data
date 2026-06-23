@@ -1,0 +1,62 @@
+{
+  "slug": "2024-porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/PORSCHE/PANAMERA#complaints",
+  "generatedAt": "2026-06-23T16:39:55.137Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this vehicle in July 2025 from Porsche Delaware. The car had 7000 miles on it certified preowned after owning it for one week I started having yellow lights come on for parking lien changer detections driving assistance brought it into Porsche in Clifton Park New York",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this vehicle in July 2025 from Porsche Delaware. The car had 7000 miles on it certified preowned after owning it for one week I started having yellow lights come on for parking lien changer detections driving assistance brought it into Porsche in Clifton Park New York",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Porsche Panamera owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Lane Departure (50% of reports).",
+    "issues": [
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this vehicle in July 2025 from Porsche Delaware. The car had 7000 miles on it certified preowned after owning it for one week I started having yellow lights come on for parking lien changer detections driving assistance brought it into Porsche in Clifton Park New York",
+        "pct": 50,
+        "title": "Lane Departure",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this vehicle in July 2025 from Porsche Delaware. The car had 7000 miles on it certified preowned after owning it for one week I started having yellow lights come on for parking lien changer detections driving assistance brought it into Porsche in Clifton Park New York",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

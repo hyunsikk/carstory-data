@@ -1,0 +1,128 @@
+{
+  "slug": "2023-porsche-macan",
+  "make": "Porsche",
+  "model": "Macan",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/PORSCHE/MACAN#complaints",
+  "generatedAt": "2026-06-23T16:39:52.043Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Vehicle suddenly slammed on brakes on highway I90 in Chicago for NO apparent reason at 25mph.  The car came to an immediate halt and if not for shoulder cars behind me would have stuck me.  I am afraid to drive car.  Dealership down plays faulty sensor, car has 2,000 miles. What ",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2023 Porsche Macan. The contact stated that while driving approximately 40 MPH, the vehicle experienced a loss of automotive power and hesitated to restart as intended. No warning light was illuminated. In addition, the contact stated that while driving approx",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was pulling into a parking space going 3-5 mph when the car suddenly accelerated, jumped the curb and wouldn't stop.   Yes, available for inspection 2. Car wouldn't stop- heading into a storefront with people outside 3. Not yet 4. Yes, dealer and pending with insurance rep 5.  ",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was pulling into a parking space going 3-5 mph when the car suddenly accelerated, jumped the curb and wouldn't stop.   Yes, available for inspection 2. Car wouldn't stop- heading into a storefront with people outside 3. Not yet 4. Yes, dealer and pending with insurance rep 5.  ",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Car sensor showed collision happening, without any external car onsite on a highway. And after pulling the car onto a safe place on the shoulder, upon hitting park gear the side rail airbags deployed. No accident happened to the car but airbags deployed unprovoked causing neck an",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Porsche Macan owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Vehicle suddenly slammed on brakes on highway I90 in Chicago for NO apparent reason at 25mph.  The car came to an immediate halt and if not for shoulder cars behind me would have stuck me.  I am afraid to drive car.  Dealership down plays faulty sensor, car has 2,000 miles. What ",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (50%) · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2023 Porsche Macan. The contact stated that while driving approximately 40 MPH, the vehicle experienced a loss of automotive power and hesitated to restart as intended. No warning light was illuminated. In addition, the contact stated that while driving approx",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was pulling into a parking space going 3-5 mph when the car suddenly accelerated, jumped the curb and wouldn't stop.   Yes, available for inspection 2. Car wouldn't stop- heading into a storefront with people outside 3. Not yet 4. Yes, dealer and pending with insurance rep 5.  ",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was pulling into a parking space going 3-5 mph when the car suddenly accelerated, jumped the curb and wouldn't stop.   Yes, available for inspection 2. Car wouldn't stop- heading into a storefront with people outside 3. Not yet 4. Yes, dealer and pending with insurance rep 5.  ",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "1 report (17%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Car sensor showed collision happening, without any external car onsite on a highway. And after pulling the car onto a safe place on the shoulder, upon hitting park gear the side rail airbags deployed. No accident happened to the car but airbags deployed unprovoked causing neck an",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "1 report (17%) · 1 injured"
+      }
+    ]
+  }
+}

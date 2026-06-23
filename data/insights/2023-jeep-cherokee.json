@@ -1,0 +1,84 @@
+{
+  "slug": "2023-jeep-cherokee",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JEEP/CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T16:35:32.249Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "PARKING BRAKE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the vehicle suddenly came to a complete stop, after which the contact became aware that the parking brake had engaged independently. After restarting the vehicle, the vehicle ret",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Cherokee. The contact stated that while reversing out of the garage the air bags were erroneously deployed. The contact indicated that six of the eight air bags in the vehicle deployed including the front driver and passenger air bags although no cras",
+      "pct": 50
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Cherokee. The contact stated that while reversing out of the garage the air bags were erroneously deployed. The contact indicated that six of the eight air bags in the vehicle deployed including the front driver and passenger air bags although no cras",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jeep Cherokee owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Parking Brake (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "PARKING BRAKE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the vehicle suddenly came to a complete stop, after which the contact became aware that the parking brake had engaged independently. After restarting the vehicle, the vehicle ret",
+        "pct": 50,
+        "title": "Parking Brake",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Cherokee. The contact stated that while reversing out of the garage the air bags were erroneously deployed. The contact indicated that six of the eight air bags in the vehicle deployed including the front driver and passenger air bags although no cras",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Cherokee. The contact stated that while reversing out of the garage the air bags were erroneously deployed. The contact indicated that six of the eight air bags in the vehicle deployed including the front driver and passenger air bags although no cras",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

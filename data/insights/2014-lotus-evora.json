@@ -1,0 +1,62 @@
+{
+  "slug": "2014-lotus-evora",
+  "make": "Lotus",
+  "model": "Evora",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/LOTUS/EVORA#complaints",
+  "generatedAt": "2026-06-23T16:46:10.947Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING AT AROUND 35MPH, THE CAR (LOTUS EVORA) BEGAN TO MISFIRE AND SHUT OFF.  THIS RESULTED IN LOSS OF CONTROL OF THE CAR IN TRAFFIC.",
+      "pct": 67
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UNKOWN , DRIVER REAR UPPER CONTROL ARM BROKEN",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Lotus Evora owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Engine (67% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING AT AROUND 35MPH, THE CAR (LOTUS EVORA) BEGAN TO MISFIRE AND SHUT OFF.  THIS RESULTED IN LOSS OF CONTROL OF THE CAR IN TRAFFIC.",
+        "pct": 67,
+        "title": "Engine",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UNKOWN , DRIVER REAR UPPER CONTROL ARM BROKEN",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

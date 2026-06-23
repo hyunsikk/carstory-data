@@ -1,0 +1,128 @@
+{
+  "slug": "2015-volkswagen-cc",
+  "make": "Volkswagen",
+  "model": "CC",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/VOLKSWAGEN/CC#complaints",
+  "generatedAt": "2026-06-23T16:45:54.424Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LOSS OF MOTIVE POWER WHILE THE VEHICLE IS IN MOTION ON CITY STREET AND LOSS OF POWER FROM STATIONARY POSITION AT RED TRAFFIC LIGHT TO A IN MOTION GREEN LIGHT PRESSED ON PEDAL WITH NO MOTION.  THIS HAPPENED FROM THE DAY I PURCHASED THE CAR WHILE SALESMAN WAS IN THE CAR EXPLAINING ",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LOSS OF MOTIVE POWER WHILE THE VEHICLE IS IN MOTION ON CITY STREET AND LOSS OF POWER FROM STATIONARY POSITION AT RED TRAFFIC LIGHT TO A IN MOTION GREEN LIGHT PRESSED ON PEDAL WITH NO MOTION.  THIS HAPPENED FROM THE DAY I PURCHASED THE CAR WHILE SALESMAN WAS IN THE CAR EXPLAINING ",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I STARTED TO HEAR A WEIRD NOISE WHEN TURNING. A COUPLE OF DAYS LATER THE AIRBAG LIGHT CAME ON AND THE HORN AND BUTTONS ON THE STEERING WHEEL STOPPED WORKING. IT'S VERY DANGEROUS TO DRIVE WITHOUT A HORN AND IT'S SCARY TO KNOW THAT YOUR AIRBAG WON'T DEPLOY IN A CRASH. THIS HAPPENED",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LOSS OF MOTIVE POWER WHILE THE VEHICLE IS IN MOTION ON CITY STREET AND LOSS OF POWER FROM STATIONARY POSITION AT RED TRAFFIC LIGHT TO A IN MOTION GREEN LIGHT PRESSED ON PEDAL WITH NO MOTION.  THIS HAPPENED FROM THE DAY I PURCHASED THE CAR WHILE SALESMAN WAS IN THE CAR EXPLAINING ",
+      "pct": 13
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Volkswagen CC. The contact stated while stopped at a traffic signal, the signal changed to green and the contact depressed the accelerator pedal; however, the vehicle stalled. The contact attempted to restart the vehicle, but the vehicle failed to start. T",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Volkswagen Cc owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (33% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LOSS OF MOTIVE POWER WHILE THE VEHICLE IS IN MOTION ON CITY STREET AND LOSS OF POWER FROM STATIONARY POSITION AT RED TRAFFIC LIGHT TO A IN MOTION GREEN LIGHT PRESSED ON PEDAL WITH NO MOTION.  THIS HAPPENED FROM THE DAY I PURCHASED THE CAR WHILE SALESMAN WAS IN THE CAR EXPLAINING ",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LOSS OF MOTIVE POWER WHILE THE VEHICLE IS IN MOTION ON CITY STREET AND LOSS OF POWER FROM STATIONARY POSITION AT RED TRAFFIC LIGHT TO A IN MOTION GREEN LIGHT PRESSED ON PEDAL WITH NO MOTION.  THIS HAPPENED FROM THE DAY I PURCHASED THE CAR WHILE SALESMAN WAS IN THE CAR EXPLAINING ",
+        "pct": 27,
+        "title": "Air Bags",
+        "blurb": "8 reports (27%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I STARTED TO HEAR A WEIRD NOISE WHEN TURNING. A COUPLE OF DAYS LATER THE AIRBAG LIGHT CAME ON AND THE HORN AND BUTTONS ON THE STEERING WHEEL STOPPED WORKING. IT'S VERY DANGEROUS TO DRIVE WITHOUT A HORN AND IT'S SCARY TO KNOW THAT YOUR AIRBAG WON'T DEPLOY IN A CRASH. THIS HAPPENED",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "5 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LOSS OF MOTIVE POWER WHILE THE VEHICLE IS IN MOTION ON CITY STREET AND LOSS OF POWER FROM STATIONARY POSITION AT RED TRAFFIC LIGHT TO A IN MOTION GREEN LIGHT PRESSED ON PEDAL WITH NO MOTION.  THIS HAPPENED FROM THE DAY I PURCHASED THE CAR WHILE SALESMAN WAS IN THE CAR EXPLAINING ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "4 reports (13%)"
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Volkswagen CC. The contact stated while stopped at a traffic signal, the signal changed to green and the contact depressed the accelerator pedal; however, the vehicle stalled. The contact attempted to restart the vehicle, but the vehicle failed to start. T",
+        "pct": 7,
+        "title": "Fuel System",
+        "blurb": "2 reports (7%)"
+      }
+    ]
+  }
+}

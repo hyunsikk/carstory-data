@@ -1,0 +1,128 @@
+{
+  "slug": "2024-rivian-r1s",
+  "make": "Rivian",
+  "model": "R1S",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/RIVIAN/R1S#complaints",
+  "generatedAt": "2026-06-23T16:40:27.672Z",
+  "total": 16,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Rivian has a 'kneel' option that uses the powered air suspension to lower the vehicle to make entry and exiting the vehicle easier for users.  Yes, this can be turned off or on.  When on, the function stops if a main door (driver/passenger) is open and left open the car will not ",
+      "pct": 25
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Below are the diagnostics that Rivian says happened.  I pulled into a parking space and as I placed my foot on the brake the car launched forward.  I DID NOT hold both peddles down at the same time.  The car malfunctioned and thank god I hit another parked car and not a person.  ",
+      "pct": 19
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Below are the diagnostics that Rivian says happened.  I pulled into a parking space and as I placed my foot on the brake the car launched forward.  I DID NOT hold both peddles down at the same time.  The car malfunctioned and thank god I hit another parked car and not a person.  ",
+      "pct": 19
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On [XXX], I was driving my Rivian R1S on [XXX]  in the far left lane at highway speed on a smooth, straight road when I suddenly and completely lost control of the vehicle without warning. The vehicle swerved right, struck a vehicle in the middle lane, then veered left, spun, and",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our 2024 Rivian came to a stop at a light with three cars in front of it.  We have the video from a home on the street.  ABout 12-15 feet behind the next car.  Rivian comes to a complete stop.  Sits about 5 seconds.  Then car surges forward to rear end the car in front.  that car",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Rivian R1s owners report most",
+    "summary": "Across 16 owner complaints to NHTSA, the most reported area is Suspension (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Rivian has a 'kneel' option that uses the powered air suspension to lower the vehicle to make entry and exiting the vehicle easier for users.  Yes, this can be turned off or on.  When on, the function stops if a main door (driver/passenger) is open and left open the car will not ",
+        "pct": 25,
+        "title": "Suspension",
+        "blurb": "4 reports (25%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Below are the diagnostics that Rivian says happened.  I pulled into a parking space and as I placed my foot on the brake the car launched forward.  I DID NOT hold both peddles down at the same time.  The car malfunctioned and thank god I hit another parked car and not a person.  ",
+        "pct": 19,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (19%) · 2 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Below are the diagnostics that Rivian says happened.  I pulled into a parking space and as I placed my foot on the brake the car launched forward.  I DID NOT hold both peddles down at the same time.  The car malfunctioned and thank god I hit another parked car and not a person.  ",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (19%) · 3 crash"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On [XXX], I was driving my Rivian R1S on [XXX]  in the far left lane at highway speed on a smooth, straight road when I suddenly and completely lost control of the vehicle without warning. The vehicle swerved right, struck a vehicle in the middle lane, then veered left, spun, and",
+        "pct": 13,
+        "title": "Wheels",
+        "blurb": "2 reports (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our 2024 Rivian came to a stop at a light with three cars in front of it.  We have the video from a home on the street.  ABout 12-15 feet behind the next car.  Rivian comes to a complete stop.  Sits about 5 seconds.  Then car surges forward to rear end the car in front.  that car",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "2 reports (13%)"
+      }
+    ]
+  }
+}

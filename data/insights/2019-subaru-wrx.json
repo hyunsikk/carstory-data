@@ -1,0 +1,128 @@
+{
+  "slug": "2019-subaru-wrx",
+  "make": "Subaru",
+  "model": "WRX",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/SUBARU/WRX#complaints",
+  "generatedAt": "2026-06-23T16:40:54.405Z",
+  "total": 29,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was an hour into a 5-hour trip. I stopped the vehicle at a interstate rest area. I then went to start the car again after 5 minutes or so, and it would not start. After getting a jump start, I drove back to my dealership, and they informed me I needed to replace my battery. Thi",
+      "pct": 48
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VERY SIMILAR ISSUES DESCRIBED IN PREVIOUS ENGINE FAILURES REPORTED.  NEW CAR, OFF THE SHOWROOM FLOOR, SERVICED ON FREQUENT.  THERE WAS A SUDDEN LOUD CLUNKY NOISE AND COMPLETE LOSS OF POWER.  7 WEEKS LATER STILL AT SUBARU AND DEALERSHIP NOT ABLE TO IDENTIFY THE ISSUE BUT NOT START",
+      "pct": 38
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've had two fuel pumps replaced under warranty after the 2nd fuel pump failed hours after the Subaru dealership installed it. They installed the 3rd which worked until a week ago when my car stalled at a red light. The car would not start back up and it has since been diagnosed ",
+      "pct": 7
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VERY SIMILAR ISSUES DESCRIBED IN PREVIOUS ENGINE FAILURES REPORTED.  NEW CAR, OFF THE SHOWROOM FLOOR, SERVICED ON FREQUENT.  THERE WAS A SUDDEN LOUD CLUNKY NOISE AND COMPLETE LOSS OF POWER.  7 WEEKS LATER STILL AT SUBARU AND DEALERSHIP NOT ABLE TO IDENTIFY THE ISSUE BUT NOT START",
+      "pct": 7
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I'm driving down the road and unexpectedly the power steering completely goes out and the car is almost impossible to steer. When I shut the car off it usually resets sometimes for only a couple seconds, sometimes longer before the power steering fails again. It has happened in t",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Subaru Wrx owners report most",
+    "summary": "Across 29 owner complaints to NHTSA, the most reported area is Electrical System (48% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was an hour into a 5-hour trip. I stopped the vehicle at a interstate rest area. I then went to start the car again after 5 minutes or so, and it would not start. After getting a jump start, I drove back to my dealership, and they informed me I needed to replace my battery. Thi",
+        "pct": 48,
+        "title": "Electrical System",
+        "blurb": "14 reports (48%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VERY SIMILAR ISSUES DESCRIBED IN PREVIOUS ENGINE FAILURES REPORTED.  NEW CAR, OFF THE SHOWROOM FLOOR, SERVICED ON FREQUENT.  THERE WAS A SUDDEN LOUD CLUNKY NOISE AND COMPLETE LOSS OF POWER.  7 WEEKS LATER STILL AT SUBARU AND DEALERSHIP NOT ABLE TO IDENTIFY THE ISSUE BUT NOT START",
+        "pct": 38,
+        "title": "Engine",
+        "blurb": "11 reports (38%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've had two fuel pumps replaced under warranty after the 2nd fuel pump failed hours after the Subaru dealership installed it. They installed the 3rd which worked until a week ago when my car stalled at a red light. The car would not start back up and it has since been diagnosed ",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VERY SIMILAR ISSUES DESCRIBED IN PREVIOUS ENGINE FAILURES REPORTED.  NEW CAR, OFF THE SHOWROOM FLOOR, SERVICED ON FREQUENT.  THERE WAS A SUDDEN LOUD CLUNKY NOISE AND COMPLETE LOSS OF POWER.  7 WEEKS LATER STILL AT SUBARU AND DEALERSHIP NOT ABLE TO IDENTIFY THE ISSUE BUT NOT START",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "2 reports (7%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I'm driving down the road and unexpectedly the power steering completely goes out and the car is almost impossible to steer. When I shut the car off it usually resets sometimes for only a couple seconds, sometimes longer before the power steering fails again. It has happened in t",
+        "pct": 3,
+        "title": "Steering",
+        "blurb": "1 report (3%)"
+      }
+    ]
+  }
+}

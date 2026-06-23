@@ -1,0 +1,128 @@
+{
+  "slug": "2024-porsche-macan",
+  "make": "Porsche",
+  "model": "Macan",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/PORSCHE/MACAN#complaints",
+  "generatedAt": "2026-06-23T16:39:53.242Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving at 40mph on a town road on a dry, sunny day when, without warning, the brakes slammed on extremely forcefully, almost to a full stop, and a big triangle showed on the dashboard with the words COLLISION WARNING.  I don’t recall if there was an audible alarm or not.  ",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on a major highway ([XXX]) at over 60 MPH, we had a complete and catastrophic system wide shut down of our vehicle, culminating in our car grinding to a halt. This entire process elapsed over a 15-20 second period.  We barely were able to get our vehicle to the \"lef",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on a major highway ([XXX]) at over 60 MPH, we had a complete and catastrophic system wide shut down of our vehicle, culminating in our car grinding to a halt. This entire process elapsed over a 15-20 second period.  We barely were able to get our vehicle to the \"lef",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering Gear. It has been replaced and is not available to inspect. I was unable to turn the steering wheel and had an auto accident as a result. The dealer inspected the vehicle and replaced the steering gear under warranty.  It is probable that the defective gear was sent by t",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving home in my 2024 Porsche Macan 4 EV, at about 65 miles per hour on a divided highway.  I had my climate control set to 75 degrees on both the driver and passenger side of the vehicle.  I believe that the air conditioning was set to off.  I also had the drivers seat h",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Porsche Macan owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving at 40mph on a town road on a dry, sunny day when, without warning, the brakes slammed on extremely forcefully, almost to a full stop, and a big triangle showed on the dashboard with the words COLLISION WARNING.  I don’t recall if there was an audible alarm or not.  ",
+        "pct": 50,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on a major highway ([XXX]) at over 60 MPH, we had a complete and catastrophic system wide shut down of our vehicle, culminating in our car grinding to a halt. This entire process elapsed over a 15-20 second period.  We barely were able to get our vehicle to the \"lef",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on a major highway ([XXX]) at over 60 MPH, we had a complete and catastrophic system wide shut down of our vehicle, culminating in our car grinding to a halt. This entire process elapsed over a 15-20 second period.  We barely were able to get our vehicle to the \"lef",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering Gear. It has been replaced and is not available to inspect. I was unable to turn the steering wheel and had an auto accident as a result. The dealer inspected the vehicle and replaced the steering gear under warranty.  It is probable that the defective gear was sent by t",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "1 report (13%) · 1 crash"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving home in my 2024 Porsche Macan 4 EV, at about 65 miles per hour on a divided highway.  I had my climate control set to 75 degrees on both the driver and passenger side of the vehicle.  I believe that the air conditioning was set to off.  I also had the drivers seat h",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

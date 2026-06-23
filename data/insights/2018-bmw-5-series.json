@@ -1,0 +1,128 @@
+{
+  "slug": "2018-bmw-5-series",
+  "make": "BMW",
+  "model": "5 Series",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/5%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:26:30.779Z",
+  "total": 78,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 35,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR ISSUED A SAFETY WARNING CONCERNING, \"PASSENGER RESTRAINT SYSTEM MALFUNCTION\" STATING THE PASSENGER RESTRAINT SYSTEM IS LIMITED.  WARNING SHOWS UP WHEN PASSENGER SEAT EMPTY AND WHEN CAR IS STATIONARY OR MOVING.  DEALERSHIP SERVICE CENTER VERIFIED VEHICLE HAD ERROR CODE BUT STA",
+      "pct": 45
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 24,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "CAR ISSUED A SAFETY WARNING CONCERNING, \"PASSENGER RESTRAINT SYSTEM MALFUNCTION\" STATING THE PASSENGER RESTRAINT SYSTEM IS LIMITED.  WARNING SHOWS UP WHEN PASSENGER SEAT EMPTY AND WHEN CAR IS STATIONARY OR MOVING.  DEALERSHIP SERVICE CENTER VERIFIED VEHICLE HAD ERROR CODE BUT STA",
+      "pct": 31
+    },
+    {
+      "component": "SEATS",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FOR A FEW MONTHS NOW, MY CAR HAS BEEN THROWING A \"PASSENGER RESTRAINT SYSTEM MALFUNCTION\" ERROR. IT HAPPENS SPORADICALLY AND ONLY STAYS UP FOR BETWEEN 1 AND 5 MINUTES AT A TIME. IT WILL HAPPEN WHETHER THE CAR IS MOVING OR NOT, AND EVEN SOMETIMES AS SOON AS I TURN THE CAR ON. I HA",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE HIGHWAY TO WORK AT 9AM, IT WAS A BEAUTIFUL MORNING TRAFFIC WAS MOVING VERY SMOOTH I WAS GOING 50MPH APPROXIMATELY WHEN ALL OF A SUDDEN MY CAR JERKS FORWARD AND BACKWARD THEN A BEEPING SOUND AND STOP SUDDENLY ON THE VAN WYCK EXPRESSWAY I SAW MY LIFE FLASH IN F",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN BRAKING TO COME TO A STOP AT A LIGHT, THE ENGINE REVVED UP TO OVER 5000 RPM. I HAD TO SHUT OFF THE CAR TO GET IT TO STOP. WHEN I TURNED THE CAR BACK ON, IT IMMEDIATELY REVVED UP TO OVER 7000, WHILE I STOOD ON THE BRAKE TO PREVENT IT FROM MOVING. SHUT IT OFF AGAIN, PUT FLASHE",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw 5 Series owners report most",
+    "summary": "Across 78 owner complaints to NHTSA, the most reported area is Air Bags (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 35,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR ISSUED A SAFETY WARNING CONCERNING, \"PASSENGER RESTRAINT SYSTEM MALFUNCTION\" STATING THE PASSENGER RESTRAINT SYSTEM IS LIMITED.  WARNING SHOWS UP WHEN PASSENGER SEAT EMPTY AND WHEN CAR IS STATIONARY OR MOVING.  DEALERSHIP SERVICE CENTER VERIFIED VEHICLE HAD ERROR CODE BUT STA",
+        "pct": 45,
+        "title": "Air Bags",
+        "blurb": "35 reports (45%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 24,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "CAR ISSUED A SAFETY WARNING CONCERNING, \"PASSENGER RESTRAINT SYSTEM MALFUNCTION\" STATING THE PASSENGER RESTRAINT SYSTEM IS LIMITED.  WARNING SHOWS UP WHEN PASSENGER SEAT EMPTY AND WHEN CAR IS STATIONARY OR MOVING.  DEALERSHIP SERVICE CENTER VERIFIED VEHICLE HAD ERROR CODE BUT STA",
+        "pct": 31,
+        "title": "Seat Belts",
+        "blurb": "24 reports (31%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FOR A FEW MONTHS NOW, MY CAR HAS BEEN THROWING A \"PASSENGER RESTRAINT SYSTEM MALFUNCTION\" ERROR. IT HAPPENS SPORADICALLY AND ONLY STAYS UP FOR BETWEEN 1 AND 5 MINUTES AT A TIME. IT WILL HAPPEN WHETHER THE CAR IS MOVING OR NOT, AND EVEN SOMETIMES AS SOON AS I TURN THE CAR ON. I HA",
+        "pct": 18,
+        "title": "Seats",
+        "blurb": "14 reports (18%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE HIGHWAY TO WORK AT 9AM, IT WAS A BEAUTIFUL MORNING TRAFFIC WAS MOVING VERY SMOOTH I WAS GOING 50MPH APPROXIMATELY WHEN ALL OF A SUDDEN MY CAR JERKS FORWARD AND BACKWARD THEN A BEEPING SOUND AND STOP SUDDENLY ON THE VAN WYCK EXPRESSWAY I SAW MY LIFE FLASH IN F",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "12 reports (15%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN BRAKING TO COME TO A STOP AT A LIGHT, THE ENGINE REVVED UP TO OVER 5000 RPM. I HAD TO SHUT OFF THE CAR TO GET IT TO STOP. WHEN I TURNED THE CAR BACK ON, IT IMMEDIATELY REVVED UP TO OVER 7000, WHILE I STOOD ON THE BRAKE TO PREVENT IT FROM MOVING. SHUT IT OFF AGAIN, PUT FLASHE",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "8 reports (10%)"
+      }
+    ]
+  }
+}

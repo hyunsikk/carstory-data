@@ -1,0 +1,128 @@
+{
+  "slug": "2016-chevrolet-volt",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/CHEVROLET/VOLT#complaints",
+  "generatedAt": "2026-06-23T16:44:55.887Z",
+  "total": 167,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 76,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2016 CHEVY VOLT WOULDN'T START, LESS THAN A YEAR OLD, CURRENT ON MAINTENANCE.  TOWED IT TO DEALER, THEY SAID THERE WERE SOME RECALLS - BUT COULDN'T TELL ME WHAT WAS WRONG.  GOT IT BACK AFTER 2 DAYS, WAS FINE - THEN ON 9/22/16 WOULDN'T START AGAIN - I WAS STRANDED IN THE DARK, GOT",
+      "pct": 46
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 61,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IN REGARD TO RECALL 16055 REPROGRAM HYBRID POWERTRAIN CONTROL; MODULE 2. I HAD THIS RECALL DONE ON JANUARY 5, 2017. THIS SERVICE CHANGES SOME SETTINGS WITHOUT NOTIFICATION TO THE OWNER. CRITICALLY IMPORTANT IT CHANGES THE ENGINE RUN ON REMOTE START FROM OFF TO ON. IF THE OWNER ST",
+      "pct": 37
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 51,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE WAS STATIONARY IN A LEFT TURN LANE AT AN INTERSECTION.  I TOOK MY FOOT OFF THE GAS AND PRESSED THE GAS PEDAL TO ACCELERATE THE CAR THROUGH THE INTERSECTION.  WHEN  I PRESSED THE GAS, THE CAR DID NOT ACCELERATE.  I REPEATEDLY TRIED TO ACCELERATE AND THE CAR SEEMED TO NO",
+      "pct": 31
+    },
+    {
+      "component": "ENGINE",
+      "count": 48,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2016 CHEVY VOLT WOULDN'T START, LESS THAN A YEAR OLD, CURRENT ON MAINTENANCE.  TOWED IT TO DEALER, THEY SAID THERE WERE SOME RECALLS - BUT COULDN'T TELL ME WHAT WAS WRONG.  GOT IT BACK AFTER 2 DAYS, WAS FINE - THEN ON 9/22/16 WOULDN'T START AGAIN - I WAS STRANDED IN THE DARK, GOT",
+      "pct": 29
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE'S AN ODD SITUATION WHEN I'M IN THE ELECTRIC MODE AND AM PASSING OVER A BUMPY BIT OF ROAD: THE VEHICLE ACCELERATES AUTOMATICALLY. THE PART THAT IS TROUBLING IS THAT THESE ARE TIMES WHEN THE DRIVER WOULD WANT TO SLOW DOWN. IT HAS HAPPENED TO ME MANY TIMES. I'VE BEEN LUCKY, SO",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Chevrolet Volt owners report most",
+    "summary": "Across 167 owner complaints to NHTSA, the most reported area is Electrical System (46% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 76,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2016 CHEVY VOLT WOULDN'T START, LESS THAN A YEAR OLD, CURRENT ON MAINTENANCE.  TOWED IT TO DEALER, THEY SAID THERE WERE SOME RECALLS - BUT COULDN'T TELL ME WHAT WAS WRONG.  GOT IT BACK AFTER 2 DAYS, WAS FINE - THEN ON 9/22/16 WOULDN'T START AGAIN - I WAS STRANDED IN THE DARK, GOT",
+        "pct": 46,
+        "title": "Electrical System",
+        "blurb": "76 reports (46%) · 1 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 61,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IN REGARD TO RECALL 16055 REPROGRAM HYBRID POWERTRAIN CONTROL; MODULE 2. I HAD THIS RECALL DONE ON JANUARY 5, 2017. THIS SERVICE CHANGES SOME SETTINGS WITHOUT NOTIFICATION TO THE OWNER. CRITICALLY IMPORTANT IT CHANGES THE ENGINE RUN ON REMOTE START FROM OFF TO ON. IF THE OWNER ST",
+        "pct": 37,
+        "title": "Fuel/Propulsion System",
+        "blurb": "61 reports (37%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 51,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE WAS STATIONARY IN A LEFT TURN LANE AT AN INTERSECTION.  I TOOK MY FOOT OFF THE GAS AND PRESSED THE GAS PEDAL TO ACCELERATE THE CAR THROUGH THE INTERSECTION.  WHEN  I PRESSED THE GAS, THE CAR DID NOT ACCELERATE.  I REPEATEDLY TRIED TO ACCELERATE AND THE CAR SEEMED TO NO",
+        "pct": 31,
+        "title": "Power Train",
+        "blurb": "51 reports (31%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 48,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2016 CHEVY VOLT WOULDN'T START, LESS THAN A YEAR OLD, CURRENT ON MAINTENANCE.  TOWED IT TO DEALER, THEY SAID THERE WERE SOME RECALLS - BUT COULDN'T TELL ME WHAT WAS WRONG.  GOT IT BACK AFTER 2 DAYS, WAS FINE - THEN ON 9/22/16 WOULDN'T START AGAIN - I WAS STRANDED IN THE DARK, GOT",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "48 reports (29%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE'S AN ODD SITUATION WHEN I'M IN THE ELECTRIC MODE AND AM PASSING OVER A BUMPY BIT OF ROAD: THE VEHICLE ACCELERATES AUTOMATICALLY. THE PART THAT IS TROUBLING IS THAT THESE ARE TIMES WHEN THE DRIVER WOULD WANT TO SLOW DOWN. IT HAS HAPPENED TO ME MANY TIMES. I'VE BEEN LUCKY, SO",
+        "pct": 4,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (4%)"
+      }
+    ]
+  }
+}

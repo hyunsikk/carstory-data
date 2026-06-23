@@ -1,0 +1,84 @@
+{
+  "slug": "2023-jeep-wrangler-4xe",
+  "make": "Jeep",
+  "model": "Wrangler 4xe",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JEEP/WRANGLER%204XE#complaints",
+  "generatedAt": "2026-06-23T16:45:17.379Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Wrangler 4XE. The contact stated while driving at various speeds, the battery failed to maintain the charge. The contact sustained minor cuts due to an interior metal chrome lining that had deteriorated. No medical attention was sought. The local deal",
+      "pct": 100
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving to work before daylight the jeep lost all electrical power and cut all lights inside and outside so I couldn't see.  There were no other lights to guide me to a pull off.  I almost hit a concrete barrier because of this.  I just got this vehicle back from replacing ",
+      "pct": 25
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving to work before daylight the jeep lost all electrical power and cut all lights inside and outside so I couldn't see.  There were no other lights to guide me to a pull off.  I almost hit a concrete barrier because of this.  I just got this vehicle back from replacing ",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jeep Wrangler 4xe owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Wrangler 4XE. The contact stated while driving at various speeds, the battery failed to maintain the charge. The contact sustained minor cuts due to an interior metal chrome lining that had deteriorated. No medical attention was sought. The local deal",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "4 reports (100%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving to work before daylight the jeep lost all electrical power and cut all lights inside and outside so I couldn't see.  There were no other lights to guide me to a pull off.  I almost hit a concrete barrier because of this.  I just got this vehicle back from replacing ",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving to work before daylight the jeep lost all electrical power and cut all lights inside and outside so I couldn't see.  There were no other lights to guide me to a pull off.  I almost hit a concrete barrier because of this.  I just got this vehicle back from replacing ",
+        "pct": 25,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

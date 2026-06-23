@@ -1,0 +1,128 @@
+{
+  "slug": "2017-audi-a4",
+  "make": "Audi",
+  "model": "A4",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/AUDI/A4#complaints",
+  "generatedAt": "2026-06-23T16:25:15.515Z",
+  "total": 81,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 AUDI A4. THE CONTACT RECEIVED NHTSA CAMPAIGN NUMBER: 16V955000 (AIR BAGS, SEAT BELT) HOWEVER, THE PARTS TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTU",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 AUDI A4. THE CONTACT STATED THAT THE AC BEGAN TO BLOW HOT AIR. THE DASHBOARD WAS REMOVED TO REPLACE THE SENSOR USED FOR RELEASING COLD AIR. THEN WHILE DRIVING APPROXIMATELY 65 MPH, THE TRANSMISSION WARNING SYSTEM ACTIVATED AND INFORMED THE CONTACT THAT",
+      "pct": 25
+    },
+    {
+      "component": "SEATS",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN I GOT THE CAR IN MAY. AFTER A WEEK, WE WENT WITH FRIENDS OUT. WHEN I BRAKED THE CAR BEGAN TO MOVE INTO THE PASSENGER FRONT SEAT TO THE ADVANCE AND INCLINES UP TO A MAXIMUM FRONT OF THE DASHBOARD. SO IN CASE OF A CAR ACCIDENT, HE WOULD HAVE BEEN DEAD. AUDI DEALER THEY DID NOT",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN I GOT THE CAR IN MAY. AFTER A WEEK, WE WENT WITH FRIENDS OUT. WHEN I BRAKED THE CAR BEGAN TO MOVE INTO THE PASSENGER FRONT SEAT TO THE ADVANCE AND INCLINES UP TO A MAXIMUM FRONT OF THE DASHBOARD. SO IN CASE OF A CAR ACCIDENT, HE WOULD HAVE BEEN DEAD. AUDI DEALER THEY DID NOT",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY VEHICLE IS LEAKING COOLANT. EVERY 8-10K MILES IT GOES BELOW NORMAL LEVEL IN RESERVOIR . THERE IS A DISTINCT ODOR OF COOLANT EACH TIME I GET OUT OF THE VEHICLE. I HAVE HAD AUDI LOOK AT IT 5 TIMES. THEY CONFIRM THE COOLANT LEVELS ARE LOW AND THEY REFILL IT SAYING THEY CAN'T FIND",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Audi A4 owners report most",
+    "summary": "Across 81 owner complaints to NHTSA, the most reported area is Air Bags (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 AUDI A4. THE CONTACT RECEIVED NHTSA CAMPAIGN NUMBER: 16V955000 (AIR BAGS, SEAT BELT) HOWEVER, THE PARTS TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTU",
+        "pct": 32,
+        "title": "Air Bags",
+        "blurb": "26 reports (32%) · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 AUDI A4. THE CONTACT STATED THAT THE AC BEGAN TO BLOW HOT AIR. THE DASHBOARD WAS REMOVED TO REPLACE THE SENSOR USED FOR RELEASING COLD AIR. THEN WHILE DRIVING APPROXIMATELY 65 MPH, THE TRANSMISSION WARNING SYSTEM ACTIVATED AND INFORMED THE CONTACT THAT",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "20 reports (25%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN I GOT THE CAR IN MAY. AFTER A WEEK, WE WENT WITH FRIENDS OUT. WHEN I BRAKED THE CAR BEGAN TO MOVE INTO THE PASSENGER FRONT SEAT TO THE ADVANCE AND INCLINES UP TO A MAXIMUM FRONT OF THE DASHBOARD. SO IN CASE OF A CAR ACCIDENT, HE WOULD HAVE BEEN DEAD. AUDI DEALER THEY DID NOT",
+        "pct": 14,
+        "title": "Seats",
+        "blurb": "11 reports (14%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN I GOT THE CAR IN MAY. AFTER A WEEK, WE WENT WITH FRIENDS OUT. WHEN I BRAKED THE CAR BEGAN TO MOVE INTO THE PASSENGER FRONT SEAT TO THE ADVANCE AND INCLINES UP TO A MAXIMUM FRONT OF THE DASHBOARD. SO IN CASE OF A CAR ACCIDENT, HE WOULD HAVE BEEN DEAD. AUDI DEALER THEY DID NOT",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "10 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY VEHICLE IS LEAKING COOLANT. EVERY 8-10K MILES IT GOES BELOW NORMAL LEVEL IN RESERVOIR . THERE IS A DISTINCT ODOR OF COOLANT EACH TIME I GET OUT OF THE VEHICLE. I HAVE HAD AUDI LOOK AT IT 5 TIMES. THEY CONFIRM THE COOLANT LEVELS ARE LOW AND THEY REFILL IT SAYING THEY CAN'T FIND",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (6%) · 1 crash"
+      }
+    ]
+  }
+}

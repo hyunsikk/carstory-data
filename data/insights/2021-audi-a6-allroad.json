@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-a6-allroad",
+  "make": "Audi",
+  "model": "A6 allroad",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/A6%20ALLROAD#complaints",
+  "generatedAt": "2026-06-23T16:43:01.177Z",
+  "total": 24,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car's fuel guage has been inaccurate since the initial purchase. It would always hang at around 50% and then drop to 5% within 10 miles. Thankfully, we are aware and just check the miles driven so we do not get stranded. Requested fix by dealership, they said there was nothin",
+      "pct": 54
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Today, I was in a protected left turn lane prior to making the turn. When oncoming traffic (4 lanes) cleared, I gently pressed the gas pedal to start the turn, but a red “pre-sense” error triggered and slammed on the brakes. I moved my foot to the brake and then back to the gas, ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At a highway speed of 50 MPH the transmission completely disengaged.  I was driving on a busy highway with no shoulder.  The vehicle continued to coast until I was forced to stop in an unsafe location.  I placed the car in park, then in drive, and it was still disengaged.  I need",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At a highway speed of 50 MPH the transmission completely disengaged.  I was driving on a busy highway with no shoulder.  The vehicle continued to coast until I was forced to stop in an unsafe location.  I placed the car in park, then in drive, and it was still disengaged.  I need",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car's fuel guage has been inaccurate since the initial purchase. It would always hang at around 50% and then drop to 5% within 10 miles. Thankfully, we are aware and just check the miles driven so we do not get stranded. Requested fix by dealership, they said there was nothin",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi A6 Allroad owners report most",
+    "summary": "Across 24 owner complaints to NHTSA, the most reported area is Electrical System (54% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car's fuel guage has been inaccurate since the initial purchase. It would always hang at around 50% and then drop to 5% within 10 miles. Thankfully, we are aware and just check the miles driven so we do not get stranded. Requested fix by dealership, they said there was nothin",
+        "pct": 54,
+        "title": "Electrical System",
+        "blurb": "13 reports (54%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Today, I was in a protected left turn lane prior to making the turn. When oncoming traffic (4 lanes) cleared, I gently pressed the gas pedal to start the turn, but a red “pre-sense” error triggered and slammed on the brakes. I moved my foot to the brake and then back to the gas, ",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At a highway speed of 50 MPH the transmission completely disengaged.  I was driving on a busy highway with no shoulder.  The vehicle continued to coast until I was forced to stop in an unsafe location.  I placed the car in park, then in drive, and it was still disengaged.  I need",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At a highway speed of 50 MPH the transmission completely disengaged.  I was driving on a busy highway with no shoulder.  The vehicle continued to coast until I was forced to stop in an unsafe location.  I placed the car in park, then in drive, and it was still disengaged.  I need",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "3 reports (13%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car's fuel guage has been inaccurate since the initial purchase. It would always hang at around 50% and then drop to 5% within 10 miles. Thankfully, we are aware and just check the miles driven so we do not get stranded. Requested fix by dealership, they said there was nothin",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (8%)"
+      }
+    ]
+  }
+}

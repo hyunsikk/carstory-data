@@ -1,0 +1,128 @@
+{
+  "slug": "2023-jeep-wrangler",
+  "make": "Jeep",
+  "model": "Wrangler",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/JEEP/WRANGLER#complaints",
+  "generatedAt": "2026-06-23T16:36:17.994Z",
+  "total": 325,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 174,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine turned off and vehicle came to an abrupt stop. Battery level showed less than 1% on the 4xe at the time of the stoppage. I was driving about 25 mph when it occurred. Placed the vehicle into park, pressed brakes and restarted vehicle. Went to dealership to complain and they",
+      "pct": 54
+    },
+    {
+      "component": "ENGINE",
+      "count": 92,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Engine turned off and vehicle came to an abrupt stop. Battery level showed less than 1% on the 4xe at the time of the stoppage. I was driving about 25 mph when it occurred. Placed the vehicle into park, pressed brakes and restarted vehicle. Went to dealership to complain and they",
+      "pct": 28
+    },
+    {
+      "component": "STEERING",
+      "count": 54,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Jeep Wrangler. The contact stated while driving approximately 45 MPH, the vehicle was swaying from side to side. The dealer was notified of the failure and informed the contact that the steering was operating as designed. The dealer also informed the conta",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 45,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Purchased the 2023 Jeep Wrangler on Jan 20th.  The next day the vehicle could not start. Displaying a charging system error.  Had to be towed to dealer for repairs with on 285 miles on the odometer.  Upon review it appears the Jeep 4XE are die just driving down the road.  Frighte",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 40,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle was sold unlawfully to me, with an open recall on it. I purchased the brand-new vehicle from Sterling Heights Dodge, Chrysler Jeep New car dealership on 3/23/23. I got at open of business 9am left shortly after 11am with the new car.3/24 The vehicle engine lights cam",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Jeep Wrangler owners report most",
+    "summary": "Across 325 owner complaints to NHTSA, the most reported area is Electrical System (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 174,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine turned off and vehicle came to an abrupt stop. Battery level showed less than 1% on the 4xe at the time of the stoppage. I was driving about 25 mph when it occurred. Placed the vehicle into park, pressed brakes and restarted vehicle. Went to dealership to complain and they",
+        "pct": 54,
+        "title": "Electrical System",
+        "blurb": "174 reports (54%) · 4 fire · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 92,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Engine turned off and vehicle came to an abrupt stop. Battery level showed less than 1% on the 4xe at the time of the stoppage. I was driving about 25 mph when it occurred. Placed the vehicle into park, pressed brakes and restarted vehicle. Went to dealership to complain and they",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "92 reports (28%) · 2 fire · 3 crash · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 54,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Jeep Wrangler. The contact stated while driving approximately 45 MPH, the vehicle was swaying from side to side. The dealer was notified of the failure and informed the contact that the steering was operating as designed. The dealer also informed the conta",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "54 reports (17%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 45,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Purchased the 2023 Jeep Wrangler on Jan 20th.  The next day the vehicle could not start. Displaying a charging system error.  Had to be towed to dealer for repairs with on 285 miles on the odometer.  Upon review it appears the Jeep 4XE are die just driving down the road.  Frighte",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "45 reports (14%) · 1 fire · 2 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 40,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle was sold unlawfully to me, with an open recall on it. I purchased the brand-new vehicle from Sterling Heights Dodge, Chrysler Jeep New car dealership on 3/23/23. I got at open of business 9am left shortly after 11am with the new car.3/24 The vehicle engine lights cam",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "40 reports (12%) · 2 fire"
+      }
+    ]
+  }
+}

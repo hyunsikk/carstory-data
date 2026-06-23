@@ -1,0 +1,128 @@
+{
+  "slug": "2024-volvo-s60-recharge",
+  "make": "Volvo",
+  "model": "S60 Recharge",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/VOLVO/S60%20RECHARGE#complaints",
+  "generatedAt": "2026-06-23T16:46:03.161Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the interstate 5 in Seattle, WA this Volvo rental car from National had the Multi-media screen went blank.  No tell-tales nor instrument readings.  The 360 camera and reverse camera systems worked as not part of the Android system.  The infotainment system encoun",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When slowing to a stop the vehicle is unsmooth and unpredictable, there is also a sudden release when braking downhill (not sure if they are related). There’s been occasions where the car lurched when coming to a stop almost resulting in me rear ending the vehicle in front of me.",
+      "pct": 28
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving in the right hand lane on a two lane road where the speed limit is 30mph. While the road was curving to the left slightly the vehicle's Collision Avoidance System was triggered and swerved the car into the left lane towards on coming traffic and cutting off a car be",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving in the right hand lane on a two lane road where the speed limit is 30mph. While the road was curving to the left slightly the vehicle's Collision Avoidance System was triggered and swerved the car into the left lane towards on coming traffic and cutting off a car be",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Volvo S60. The contact stated that while pulling into a handicap parking spot in the parking spot located in front of Barnes and Noble, on 12/16/2025 around 6:40 P.M., the vehicle experienced uncommanded /unattended acceleration, and the brakes failed when",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Volvo S60 Recharge owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the interstate 5 in Seattle, WA this Volvo rental car from National had the Multi-media screen went blank.  No tell-tales nor instrument readings.  The 360 camera and reverse camera systems worked as not part of the Android system.  The infotainment system encoun",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "5 reports (28%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When slowing to a stop the vehicle is unsmooth and unpredictable, there is also a sudden release when braking downhill (not sure if they are related). There’s been occasions where the car lurched when coming to a stop almost resulting in me rear ending the vehicle in front of me.",
+        "pct": 28,
+        "title": "Service Brakes",
+        "blurb": "5 reports (28%) · 3 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving in the right hand lane on a two lane road where the speed limit is 30mph. While the road was curving to the left slightly the vehicle's Collision Avoidance System was triggered and swerved the car into the left lane towards on coming traffic and cutting off a car be",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "3 reports (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving in the right hand lane on a two lane road where the speed limit is 30mph. While the road was curving to the left slightly the vehicle's Collision Avoidance System was triggered and swerved the car into the left lane towards on coming traffic and cutting off a car be",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (17%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Volvo S60. The contact stated that while pulling into a handicap parking spot in the parking spot located in front of Barnes and Noble, on 12/16/2025 around 6:40 P.M., the vehicle experienced uncommanded /unattended acceleration, and the brakes failed when",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

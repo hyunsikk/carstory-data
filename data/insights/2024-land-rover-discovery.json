@@ -1,0 +1,128 @@
+{
+  "slug": "2024-land-rover-discovery",
+  "make": "Land Rover",
+  "model": "Discovery",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/LAND%20ROVER/DISCOVERY#complaints",
+  "generatedAt": "2026-06-23T16:37:06.129Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRiving down the highway at night in the rain and car died completely... all electronics shut off, car shut off and had no power to steering or breaks or anything.  WOuld not start once it was pulled over and had to be towed to dealer.  At the dealership i was told the leaking wi",
+      "pct": 43
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRiving down the highway at night in the rain and car died completely... all electronics shut off, car shut off and had no power to steering or breaks or anything.  WOuld not start once it was pulled over and had to be towed to dealer.  At the dealership i was told the leaking wi",
+      "pct": 29
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield was leaking into electrical compartment. Caused $10,000 worth of damage and caused the vehicle to be inoperable and stop while driving.",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "JLRNA has identified my vehicle as unsafe to drive due to bonding delamination of the front windshield. As a result, the windshield had water egress. The service department has deemed my vehicle unsafe to drive as the windshield may not be properly bonded to the vehicle body, all",
+      "pct": 14
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on a popular street on [XXXX] which I do all the time. The street is very well maintained. There are very few potholes and no debris in the street. I do know how to dodge pot holes. I was headed south. I left my home early it was [XXX]. I heard a popping noise then ",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Land Rover Discovery owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Electrical System (43% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRiving down the highway at night in the rain and car died completely... all electronics shut off, car shut off and had no power to steering or breaks or anything.  WOuld not start once it was pulled over and had to be towed to dealer.  At the dealership i was told the leaking wi",
+        "pct": 43,
+        "title": "Electrical System",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRiving down the highway at night in the rain and car died completely... all electronics shut off, car shut off and had no power to steering or breaks or anything.  WOuld not start once it was pulled over and had to be towed to dealer.  At the dealership i was told the leaking wi",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield was leaking into electrical compartment. Caused $10,000 worth of damage and caused the vehicle to be inoperable and stop while driving.",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "JLRNA has identified my vehicle as unsafe to drive due to bonding delamination of the front windshield. As a result, the windshield had water egress. The service department has deemed my vehicle unsafe to drive as the windshield may not be properly bonded to the vehicle body, all",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on a popular street on [XXXX] which I do all the time. The street is very well maintained. There are very few potholes and no debris in the street. I do know how to dodge pot holes. I was headed south. I left my home early it was [XXX]. I heard a popping noise then ",
+        "pct": 14,
+        "title": "Tires",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-land-rover-defender",
+  "make": "Land Rover",
+  "model": "Defender",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LAND%20ROVER/DEFENDER#complaints",
+  "generatedAt": "2026-06-23T16:45:20.333Z",
+  "total": 46,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I sell car parts and accessories online through my website powerfulUK.com and I have sold a quantity of smoked rear lights for the Defender 2021 models to the USA. These lights are fitted as an upgrade to the standard lights as they are smoked/tinted.  These smoked lights are the",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING MY VEHICLE AT HIGH SPEEDS ON AN INTERSTATE, THE BATTERY WARNING LIGHT ACTIVATED. BEFORE I WAS ABLE TO PULL THE VEHICLE OVER THE AIR CONDITIONER I'LL PROBABLY BEGIN TO STOP WORKING. FOLLOWING THIS, A SERIES OF MULTIPLE WARNING LIGHTS ACTIVATED. THE VEHICLE WOULD NOT ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hello!  My 2020 P400 Defender is repeatedly not restarting itself at stoplights when the standard auto start/stop functionality engages.    Upon removing my foot from the brake pedal to begin moving, what normally happens is thst the engine restarts itself and I drive off as norm",
+      "pct": 15
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON STRAIGHT HIGHWAY, THE VEHICLE'S LANE KEEP ASSIST FEATURE WHICH WAS TURNED OFF (THE DEFAULT POSITION) ACTIVATED AUTOMATICALLY WITHOUT DRIVER INPUT OR WARNING AND CAUSED THE STEERING WHEEL TO TURN AND ABRUPTLY MOVED THE VEHICLE FROM SIDE TO SIDE. THIS REQUIRED THE ",
+      "pct": 15
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My windshield cracked with no apparent strike with under 5K miles on the vehicle.  Researching this, LOTS of people experience broken windshields on Defenders and Land Rover products.  There are lots of discussion in online owners' forums about the frequency of this and some noti",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Land Rover Defender owners report most",
+    "summary": "Across 46 owner complaints to NHTSA, the most reported area is Exterior Lighting (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I sell car parts and accessories online through my website powerfulUK.com and I have sold a quantity of smoked rear lights for the Defender 2021 models to the USA. These lights are fitted as an upgrade to the standard lights as they are smoked/tinted.  These smoked lights are the",
+        "pct": 30,
+        "title": "Exterior Lighting",
+        "blurb": "14 reports (30%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING MY VEHICLE AT HIGH SPEEDS ON AN INTERSTATE, THE BATTERY WARNING LIGHT ACTIVATED. BEFORE I WAS ABLE TO PULL THE VEHICLE OVER THE AIR CONDITIONER I'LL PROBABLY BEGIN TO STOP WORKING. FOLLOWING THIS, A SERIES OF MULTIPLE WARNING LIGHTS ACTIVATED. THE VEHICLE WOULD NOT ",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "8 reports (17%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hello!  My 2020 P400 Defender is repeatedly not restarting itself at stoplights when the standard auto start/stop functionality engages.    Upon removing my foot from the brake pedal to begin moving, what normally happens is thst the engine restarts itself and I drive off as norm",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "7 reports (15%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON STRAIGHT HIGHWAY, THE VEHICLE'S LANE KEEP ASSIST FEATURE WHICH WAS TURNED OFF (THE DEFAULT POSITION) ACTIVATED AUTOMATICALLY WITHOUT DRIVER INPUT OR WARNING AND CAUSED THE STEERING WHEEL TO TURN AND ABRUPTLY MOVED THE VEHICLE FROM SIDE TO SIDE. THIS REQUIRED THE ",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "7 reports (15%) · 1 fire"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My windshield cracked with no apparent strike with under 5K miles on the vehicle.  Researching this, LOTS of people experience broken windshields on Defenders and Land Rover products.  There are lots of discussion in online owners' forums about the frequency of this and some noti",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "6 reports (13%)"
+      }
+    ]
+  }
+}

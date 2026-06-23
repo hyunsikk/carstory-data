@@ -1,0 +1,128 @@
+{
+  "slug": "2018-ford-taurus",
+  "make": "Ford",
+  "model": "Taurus",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/FORD/TAURUS#complaints",
+  "generatedAt": "2026-06-23T16:30:50.785Z",
+  "total": 44,
+  "issues": [
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Ford Taurus. The contact stated that while reversing, the rearview camera displayed an upside down or blank image. The vehicle was not diagnosed or repaired by an independent mechanic or dealer. The contact related the failure to NHTSA Campaign Number: 25V",
+      "pct": 23
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Ford Taurus. The contact received notification of NHTSA Campaign Number: 25V611000 (Structure); however, the part to do the recall repair was not yet available. The dealer was contacted, and the contact was informed that parts were not yet available. In ad",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I reverse I get a blue screen and or an error message saying “camera is unavailable”. I know there are quite a few fords with a rear camera safety recall however the Taurus limited is not listed but is having the same issue. The fusion is listed which is a very similar car l",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Ford Taurus. The contact stated while reversing from a parking spot, the vehicle began to jerk and hesitate. The contact stated no warning light was illuminated. The contact was able to drive to her destination. The contact continued to experience the fail",
+      "pct": 14
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Ford Taurus. The contact stated that while the vehicle was at the dealer for routine oil service, the dealer noticed that a tow link was worn and advised the contact that the rear tow links needed to be replaced. The manufacturer was contacted and informed",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Ford Taurus owners report most",
+    "summary": "Across 44 owner complaints to NHTSA, the most reported area is Back Over Prevention (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Ford Taurus. The contact stated that while reversing, the rearview camera displayed an upside down or blank image. The vehicle was not diagnosed or repaired by an independent mechanic or dealer. The contact related the failure to NHTSA Campaign Number: 25V",
+        "pct": 23,
+        "title": "Back Over Prevention",
+        "blurb": "10 reports (23%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Ford Taurus. The contact received notification of NHTSA Campaign Number: 25V611000 (Structure); however, the part to do the recall repair was not yet available. The dealer was contacted, and the contact was informed that parts were not yet available. In ad",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "8 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I reverse I get a blue screen and or an error message saying “camera is unavailable”. I know there are quite a few fords with a rear camera safety recall however the Taurus limited is not listed but is having the same issue. The fusion is listed which is a very similar car l",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "7 reports (16%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Ford Taurus. The contact stated while reversing from a parking spot, the vehicle began to jerk and hesitate. The contact stated no warning light was illuminated. The contact was able to drive to her destination. The contact continued to experience the fail",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "6 reports (14%) · 1 crash · 4 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Ford Taurus. The contact stated that while the vehicle was at the dealer for routine oil service, the dealer noticed that a tow link was worn and advised the contact that the rear tow links needed to be replaced. The manufacturer was contacted and informed",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "6 reports (14%) · 1 crash"
+      }
+    ]
+  }
+}

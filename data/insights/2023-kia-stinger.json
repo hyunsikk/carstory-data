@@ -1,0 +1,106 @@
+{
+  "slug": "2023-kia-stinger",
+  "make": "Kia",
+  "model": "Stinger",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/KIA/STINGER#complaints",
+  "generatedAt": "2026-06-23T16:37:01.917Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Kia America is failing to address a significant defect in the sunroof of my Kia Stinger. Despite multiple attempts to resolve this issue with the company directly and using the BBB AUTO line I have received dismissive and unhelpful responses. Kia America is demonstrating a comple",
+      "pct": 60
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon getting warranty repairs done to vehicle, the car started to glitch out the next day in the cabin with multiple electronics. Driver window switch was turning on and off, when it turned off, multiple electronics glitched out in the car. Brought back to dealership as multiple ",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "To whom it may concern,  I spun out on the highway in slippery conditions and hit the guard rail, probably at 50-60mph and none of the airbags deployed.   I contacted KIA and even though the car is located at their dealership they have not even bothered to move this along and get",
+      "pct": 20
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Sunroof explosion",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Kia Stinger owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Structure (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Kia America is failing to address a significant defect in the sunroof of my Kia Stinger. Despite multiple attempts to resolve this issue with the company directly and using the BBB AUTO line I have received dismissive and unhelpful responses. Kia America is demonstrating a comple",
+        "pct": 60,
+        "title": "Structure",
+        "blurb": "3 reports (60%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon getting warranty repairs done to vehicle, the car started to glitch out the next day in the cabin with multiple electronics. Driver window switch was turning on and off, when it turned off, multiple electronics glitched out in the car. Brought back to dealership as multiple ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "To whom it may concern,  I spun out on the highway in slippery conditions and hit the guard rail, probably at 50-60mph and none of the airbags deployed.   I contacted KIA and even though the car is located at their dealership they have not even bothered to move this along and get",
+        "pct": 20,
+        "title": "Air Bags",
+        "blurb": "1 report (20%) · 1 crash"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Sunroof explosion",
+        "pct": 20,
+        "title": "Visibility",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "2022-chevrolet-spark",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/SPARK#complaints",
+  "generatedAt": "2026-06-23T16:28:45.484Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The hood came up while driving",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On 5-3-2025 I rolled my vehicle end over end at least 6 times at a high speed. One of my vehicle safty options was \"Advanced SRS airbags\" During the crash my vehicles side airbags deployed but my drivers steering wheel air bag did not. As a result of them not deploying I smashed ",
+      "pct": 33
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield wipers and stability control and other electrical problems occurred while driving thru the rain.",
+      "pct": 33
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield wipers and stability control and other electrical problems occurred while driving thru the rain.",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Chevrolet Spark owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Structure (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The hood came up while driving",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On 5-3-2025 I rolled my vehicle end over end at least 6 times at a high speed. One of my vehicle safty options was \"Advanced SRS airbags\" During the crash my vehicles side airbags deployed but my drivers steering wheel air bag did not. As a result of them not deploying I smashed ",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "1 report (33%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield wipers and stability control and other electrical problems occurred while driving thru the rain.",
+        "pct": 33,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield wipers and stability control and other electrical problems occurred while driving thru the rain.",
+        "pct": 33,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

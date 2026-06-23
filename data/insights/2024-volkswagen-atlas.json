@@ -1,0 +1,128 @@
+{
+  "slug": "2024-volkswagen-atlas",
+  "make": "Volkswagen",
+  "model": "Atlas",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/VOLKSWAGEN/ATLAS#complaints",
+  "generatedAt": "2026-06-23T16:41:45.321Z",
+  "total": 153,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 39,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I am reaching out to you with urgent news regarding a concerning situation involving Volkswagen and a dangerous malfunction in their vehicles.  After purchasing a brand-new Volkswagen Atlas from Ken Garff in Gilbert AZ, I have encountered persistent malfunctions in the vehicle's ",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 35,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brakes grind and vibrate and have for the past 7,000 miles, dealer continues to say this is normal for Volkswagen, this problem has been reported numerous times to VW and doing an internet search I am not the only one with this problem. Numerous other individuals with these vehic",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 27,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was told by dealership that due to the boosters transmitting radio frequencies in rural areas that it interferes with the adaptive cruise control.  I have gone on 3 trips where this causes the front assist and cruise control to disengage at highway speeds.  Had someone been beh",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 23,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On [XXX], I was driving that vehicle on [XXX] in the vicinity of Port Charlotte and Punta Gorda, Florida, with three persons inside when the vehicle experienced substantial vibration, a loud knocking noise and major loss of power while in the high speed lane. This occurred somewh",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On [XXX], I was driving that vehicle on [XXX] in the vicinity of Port Charlotte and Punta Gorda, Florida, with three persons inside when the vehicle experienced substantial vibration, a loud knocking noise and major loss of power while in the high speed lane. This occurred somewh",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Volkswagen Atlas owners report most",
+    "summary": "Across 153 owner complaints to NHTSA, the most reported area is Electrical System (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 39,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I am reaching out to you with urgent news regarding a concerning situation involving Volkswagen and a dangerous malfunction in their vehicles.  After purchasing a brand-new Volkswagen Atlas from Ken Garff in Gilbert AZ, I have encountered persistent malfunctions in the vehicle's ",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "39 reports (25%) · 2 fire · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 35,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brakes grind and vibrate and have for the past 7,000 miles, dealer continues to say this is normal for Volkswagen, this problem has been reported numerous times to VW and doing an internet search I am not the only one with this problem. Numerous other individuals with these vehic",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "35 reports (23%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 27,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was told by dealership that due to the boosters transmitting radio frequencies in rural areas that it interferes with the adaptive cruise control.  I have gone on 3 trips where this causes the front assist and cruise control to disengage at highway speeds.  Had someone been beh",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "27 reports (18%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 23,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On [XXX], I was driving that vehicle on [XXX] in the vicinity of Port Charlotte and Punta Gorda, Florida, with three persons inside when the vehicle experienced substantial vibration, a loud knocking noise and major loss of power while in the high speed lane. This occurred somewh",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "23 reports (15%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On [XXX], I was driving that vehicle on [XXX] in the vicinity of Port Charlotte and Punta Gorda, Florida, with three persons inside when the vehicle experienced substantial vibration, a loud knocking noise and major loss of power while in the high speed lane. This occurred somewh",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "17 reports (11%) · 2 crash"
+      }
+    ]
+  }
+}

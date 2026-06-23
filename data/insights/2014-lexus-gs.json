@@ -1,0 +1,40 @@
+{
+  "slug": "2014-lexus-gs",
+  "make": "Lexus",
+  "model": "GS",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/LEXUS/GS#complaints",
+  "generatedAt": "2026-06-23T16:37:16.959Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2014 Lexus GS450. The contact stated that while driving at various highway speeds, the electric power steering assist failed to operate as needed, causing the steering wheel to become stuck. The steering wheel became difficult to turn in either direction. The v",
+      "pct": 67
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Lexus Gs owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Steering (67% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2014 Lexus GS450. The contact stated that while driving at various highway speeds, the electric power steering assist failed to operate as needed, causing the steering wheel to become stuck. The steering wheel became difficult to turn in either direction. The v",
+        "pct": 67,
+        "title": "Steering",
+        "blurb": "2 reports (67%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2019-toyota-prius",
+  "make": "Toyota",
+  "model": "Prius",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/TOYOTA/PRIUS#complaints",
+  "generatedAt": "2026-06-23T16:41:26.532Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT A NEW 2019 PRIUS FROM GROSSINGER TOYOTA ON 9/13, WENT BACK TO THE DEALER ON 9/16 TO GET MY OLD CITY STICKER FROM MY OLD CAR (THIS NEW CAR ONLY HAD 61 MILES), THE NEW CAR BROKE WHILE I WAS THERE. THE ENTIRE DASHBOARD WENT OFF (BLINDERS CANNOT BE TURN ON. NO INDICATION OF SP",
+      "pct": 39
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT A NEW 2019 PRIUS FROM GROSSINGER TOYOTA ON 9/13, WENT BACK TO THE DEALER ON 9/16 TO GET MY OLD CITY STICKER FROM MY OLD CAR (THIS NEW CAR ONLY HAD 61 MILES), THE NEW CAR BROKE WHILE I WAS THERE. THE ENTIRE DASHBOARD WENT OFF (BLINDERS CANNOT BE TURN ON. NO INDICATION OF SP",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE INVOLVED IN A ACCIDENT. VEHICLE BRAKE SYSTEM DID NOT WORK. DRIVER HAD FOOT ON BRAKE PEDAL. ANTI COLLISION BREAK SYSTEM DID NOT WORK, VEHICLE SLID FOR 20FT INTO A STOPPED FOR. 2019 PRIUS WAS GOING 35 MPH BEFORE RISK OF COLLISION WAS REALIZED. SIGNIFICANT DAMAGE DONE ON PAS",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT A NEW 2019 PRIUS FROM GROSSINGER TOYOTA ON 9/13, WENT BACK TO THE DEALER ON 9/16 TO GET MY OLD CITY STICKER FROM MY OLD CAR (THIS NEW CAR ONLY HAD 61 MILES), THE NEW CAR BROKE WHILE I WAS THERE. THE ENTIRE DASHBOARD WENT OFF (BLINDERS CANNOT BE TURN ON. NO INDICATION OF SP",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "VEHICLE INVOLVED IN A ACCIDENT. VEHICLE BRAKE SYSTEM DID NOT WORK. DRIVER HAD FOOT ON BRAKE PEDAL. ANTI COLLISION BREAK SYSTEM DID NOT WORK, VEHICLE SLID FOR 20FT INTO A STOPPED FOR. 2019 PRIUS WAS GOING 35 MPH BEFORE RISK OF COLLISION WAS REALIZED. SIGNIFICANT DAMAGE DONE ON PAS",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Toyota Prius owners report most",
+    "summary": "Across 28 owner complaints to NHTSA, the most reported area is Service Brakes (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT A NEW 2019 PRIUS FROM GROSSINGER TOYOTA ON 9/13, WENT BACK TO THE DEALER ON 9/16 TO GET MY OLD CITY STICKER FROM MY OLD CAR (THIS NEW CAR ONLY HAD 61 MILES), THE NEW CAR BROKE WHILE I WAS THERE. THE ENTIRE DASHBOARD WENT OFF (BLINDERS CANNOT BE TURN ON. NO INDICATION OF SP",
+        "pct": 39,
+        "title": "Service Brakes",
+        "blurb": "11 reports (39%) · 5 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT A NEW 2019 PRIUS FROM GROSSINGER TOYOTA ON 9/13, WENT BACK TO THE DEALER ON 9/16 TO GET MY OLD CITY STICKER FROM MY OLD CAR (THIS NEW CAR ONLY HAD 61 MILES), THE NEW CAR BROKE WHILE I WAS THERE. THE ENTIRE DASHBOARD WENT OFF (BLINDERS CANNOT BE TURN ON. NO INDICATION OF SP",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "5 reports (18%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE INVOLVED IN A ACCIDENT. VEHICLE BRAKE SYSTEM DID NOT WORK. DRIVER HAD FOOT ON BRAKE PEDAL. ANTI COLLISION BREAK SYSTEM DID NOT WORK, VEHICLE SLID FOR 20FT INTO A STOPPED FOR. 2019 PRIUS WAS GOING 35 MPH BEFORE RISK OF COLLISION WAS REALIZED. SIGNIFICANT DAMAGE DONE ON PAS",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (14%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT A NEW 2019 PRIUS FROM GROSSINGER TOYOTA ON 9/13, WENT BACK TO THE DEALER ON 9/16 TO GET MY OLD CITY STICKER FROM MY OLD CAR (THIS NEW CAR ONLY HAD 61 MILES), THE NEW CAR BROKE WHILE I WAS THERE. THE ENTIRE DASHBOARD WENT OFF (BLINDERS CANNOT BE TURN ON. NO INDICATION OF SP",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (14%) · 2 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "VEHICLE INVOLVED IN A ACCIDENT. VEHICLE BRAKE SYSTEM DID NOT WORK. DRIVER HAD FOOT ON BRAKE PEDAL. ANTI COLLISION BREAK SYSTEM DID NOT WORK, VEHICLE SLID FOR 20FT INTO A STOPPED FOR. 2019 PRIUS WAS GOING 35 MPH BEFORE RISK OF COLLISION WAS REALIZED. SIGNIFICANT DAMAGE DONE ON PAS",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "4 reports (14%) · 4 crash · 2 injured"
+      }
+    ]
+  }
+}

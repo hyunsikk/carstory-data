@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-06-23T16:28:15.148Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Shifting luggage during a left turn caused the remote front trunk saftey switch inside the trunk to be depressed and open the front trunk, this was at low speed in my neighborhood, no damage or issues occurred, however if this had happened at higher speeds, the front trunk lid co",
+      "pct": 35
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "April 26, 2022??VIA CERTIFIED MAIL General Motors 300 Renaissance Center Detroit, MI 48243   RE:  Request for Informal Dispute Resolution/Buy back  Vehicle:  2022 Chevrolet Corvette  Date of purchase:  4/2/2022           Dealership of purchase:  Southern Chevrolet Alexandria, LA ",
+      "pct": 25
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Corvette. The contact stated that while started and running, the convertible top release button was depressed; however, a wire snapped. The vehicle was taken to the dealer where it was determined that the convertible top cable had snapped and nee",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I ran an update on my c8 corvette, left the car till it was completed. The next day I left with the car and went through the stop sign and through 2 lanes of traffic and almost down a ditch. I live in a country setting. I almost had a very serious accident. I had no brakes. The d",
+      "pct": 10
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "245/35 ZP 19 89Y With only 16,000 miles on this vehicle, the sidewall began to bulge, and then tore, with zero damage to the rim of the wheel, and all air was lost.  Luckily it is a run flat tire so it didn't completely deflate, however, I had great concern that with the tear the",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Chevrolet Corvette owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Shifting luggage during a left turn caused the remote front trunk saftey switch inside the trunk to be depressed and open the front trunk, this was at low speed in my neighborhood, no damage or issues occurred, however if this had happened at higher speeds, the front trunk lid co",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "7 reports (35%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "April 26, 2022??VIA CERTIFIED MAIL General Motors 300 Renaissance Center Detroit, MI 48243   RE:  Request for Informal Dispute Resolution/Buy back  Vehicle:  2022 Chevrolet Corvette  Date of purchase:  4/2/2022           Dealership of purchase:  Southern Chevrolet Alexandria, LA ",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "5 reports (25%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Corvette. The contact stated that while started and running, the convertible top release button was depressed; however, a wire snapped. The vehicle was taken to the dealer where it was determined that the convertible top cable had snapped and nee",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I ran an update on my c8 corvette, left the car till it was completed. The next day I left with the car and went through the stop sign and through 2 lanes of traffic and almost down a ditch. I live in a country setting. I almost had a very serious accident. I had no brakes. The d",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "245/35 ZP 19 89Y With only 16,000 miles on this vehicle, the sidewall began to bulge, and then tore, with zero damage to the rim of the wheel, and all air was lost.  Luckily it is a run flat tire so it didn't completely deflate, however, I had great concern that with the tear the",
+        "pct": 5,
+        "title": "Tires",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

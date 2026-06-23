@@ -1,0 +1,128 @@
+{
+  "slug": "2021-mercedes-benz-glc",
+  "make": "Mercedes-Benz",
+  "model": "GLC",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/MERCEDES-BENZ/GLC#complaints",
+  "generatedAt": "2026-06-23T16:38:35.564Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 29,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE PURCHASED THE 2021 MERCEDES-BENZ GLC 300 4MATIC COUPE AND NOTICED A DESIGN FLAW ON THE CAR. AS YOU CAN SEE IN THE ATTACHED PICTURE, THE FRONT BUMPER PROVIDES NO PROTECTION TO THE RADIATOR. IT HAS ALREADY STARTED CHIPPING DUE TO THE ROCK DAMAGE. THIS CAN LEAVE THE CAR IMPAI",
+      "pct": 48
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle left/front headlight has water condensation and entire headlight doesn't work. Its pretty much not drivable. I brought the vehicle to a manufacturer dealership and they claim that the failure of the headlight is due to physical impact to the exterior of head light. There ",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON APRIL 21, 2021 AT ABOUT 1800 (TIME), LESS THAN 45-HOURS AFTER PURCHASE OF THE NEW 2021 GLC 300 VEHICLE, THE INTERNAL COMBUSTION (ENGINE) MISFIRED AND ABRUPTLY MALFUNCTIONED WHILE IN STEADY ACCELERATION AT 65-MPH. MY FAMILY AND I WERE HEADED EASTBOUND ON THE CA-60 FREEWAY IN LA",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Mercedes-Benz GLC300. The contact received a recall notification for NHTSA Campaign number: 21V354000 (Back Over Prevention, Electrical System). The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The ma",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This is the 3rd incidence of this issue (July, Oct, Dec), but we have been advised that a software update is not yet available from the manufacturer.  In all instances, we were travelling at a normal rate of in-city traffic (30-45 mph) and all of sudden the vehicle will not accel",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Mercedes-Benz Glc owners report most",
+    "summary": "Across 61 owner complaints to NHTSA, the most reported area is Engine (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 29,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE PURCHASED THE 2021 MERCEDES-BENZ GLC 300 4MATIC COUPE AND NOTICED A DESIGN FLAW ON THE CAR. AS YOU CAN SEE IN THE ATTACHED PICTURE, THE FRONT BUMPER PROVIDES NO PROTECTION TO THE RADIATOR. IT HAS ALREADY STARTED CHIPPING DUE TO THE ROCK DAMAGE. THIS CAN LEAVE THE CAR IMPAI",
+        "pct": 48,
+        "title": "Engine",
+        "blurb": "29 reports (48%) · 1 crash"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle left/front headlight has water condensation and entire headlight doesn't work. Its pretty much not drivable. I brought the vehicle to a manufacturer dealership and they claim that the failure of the headlight is due to physical impact to the exterior of head light. There ",
+        "pct": 16,
+        "title": "Exterior Lighting",
+        "blurb": "10 reports (16%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON APRIL 21, 2021 AT ABOUT 1800 (TIME), LESS THAN 45-HOURS AFTER PURCHASE OF THE NEW 2021 GLC 300 VEHICLE, THE INTERNAL COMBUSTION (ENGINE) MISFIRED AND ABRUPTLY MALFUNCTIONED WHILE IN STEADY ACCELERATION AT 65-MPH. MY FAMILY AND I WERE HEADED EASTBOUND ON THE CA-60 FREEWAY IN LA",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Mercedes-Benz GLC300. The contact received a recall notification for NHTSA Campaign number: 21V354000 (Back Over Prevention, Electrical System). The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The ma",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "7 reports (11%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This is the 3rd incidence of this issue (July, Oct, Dec), but we have been advised that a software update is not yet available from the manufacturer.  In all instances, we were travelling at a normal rate of in-city traffic (30-45 mph) and all of sudden the vehicle will not accel",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "3 reports (5%)"
+      }
+    ]
+  }
+}

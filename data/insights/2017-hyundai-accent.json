@@ -1,0 +1,128 @@
+{
+  "slug": "2017-hyundai-accent",
+  "make": "Hyundai",
+  "model": "Accent",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/HYUNDAI/ACCENT#complaints",
+  "generatedAt": "2026-06-23T16:32:59.400Z",
+  "total": 67,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IN OCTOBER OF 2020 THE CAR HAD AN OIL CHANGE. ABOUT A MONTH LATER WHILE DRIVING DOWN THE HIGHWAY I STARTED TO HEAR A TICKING NOISE. WHEN I GOT TO MY HOUSE WE STARTED TO INVESTIGATE WHAT WAS GOING ON. FIRST WE CHECKED THE OIL WHICH WAS NOTHING BUT FUMES BUT THE OIL LIGHT NEVER CAM",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 21,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2017 HYUNDAI ACCENT. WHILE DRIVING 74 MPH, THE AIR BAGS FAILED TO DEPLOY IN THE CONTACT'S VEHICLE AFTER BEING STRUCK ON THE FRONT PASSENGER SIDE QUARTER PANEL. THE VEHICLE TRAVELED  OVER THE MEDIAN, STRUCK AN EMBANKMENT, ROLLED OVER, AND LANDED ON ITS ROOF",
+      "pct": 31
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE DASH LIGHTS; BRAKE, ABS, AND TRACTION CONTROL LIGHTS COME ON. THE SPEEDOMETER ALSO DOES NOT WORK WHILE DRIVING.  THE GAS GAUGE IS GOING UP AND DOWN AND NOT SHOWING THE CORRECT GAS.  THE ELECTRICAL APPEARS TO BE MALFUNCTIONING, BUT THE DEALER HAS YET TO RECREATE THE ISSUE. THI",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I LIVE IN LAS VEGAS NEVADA, THIS VEHICLE OVERHEATS AND SHUTS THE AIR CONDITIONER OFF WHEN IT REACHES  75% ON THE TEMPERATURE GAGE. ANYTIME THE OUTSIDE TEMPERATURE IS ABOVE 100+ DEGREES THE CAR WILL REACH 75%  WHILE DRIVING IN ABOUT 30 MINUTES, IF THE CAR IS STATIONARY IT'LL GET T",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STOPPING ABRUPTLY, GOING AT 15-20MPH ON A MAIN STREET IN STOP AND GO TRAFFIC, NO SNOW OR RAIN, THE BRAKE PEDAL  PUSHES BACK AS IF SOMETHING IS STOPPING THE PEDAL FROM GOING DOWN, IT MAKES A LOUD GRINDING NOISE, AND DOESN'T STOP THE CAR LET ALONE SLOW IT DOWN. THIS HAS HAPPEN",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Hyundai Accent owners report most",
+    "summary": "Across 67 owner complaints to NHTSA, the most reported area is Engine (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IN OCTOBER OF 2020 THE CAR HAD AN OIL CHANGE. ABOUT A MONTH LATER WHILE DRIVING DOWN THE HIGHWAY I STARTED TO HEAR A TICKING NOISE. WHEN I GOT TO MY HOUSE WE STARTED TO INVESTIGATE WHAT WAS GOING ON. FIRST WE CHECKED THE OIL WHICH WAS NOTHING BUT FUMES BUT THE OIL LIGHT NEVER CAM",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "22 reports (33%) · 1 fire"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 21,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2017 HYUNDAI ACCENT. WHILE DRIVING 74 MPH, THE AIR BAGS FAILED TO DEPLOY IN THE CONTACT'S VEHICLE AFTER BEING STRUCK ON THE FRONT PASSENGER SIDE QUARTER PANEL. THE VEHICLE TRAVELED  OVER THE MEDIAN, STRUCK AN EMBANKMENT, ROLLED OVER, AND LANDED ON ITS ROOF",
+        "pct": 31,
+        "title": "Air Bags",
+        "blurb": "21 reports (31%) · 7 crash · 7 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE DASH LIGHTS; BRAKE, ABS, AND TRACTION CONTROL LIGHTS COME ON. THE SPEEDOMETER ALSO DOES NOT WORK WHILE DRIVING.  THE GAS GAUGE IS GOING UP AND DOWN AND NOT SHOWING THE CORRECT GAS.  THE ELECTRICAL APPEARS TO BE MALFUNCTIONING, BUT THE DEALER HAS YET TO RECREATE THE ISSUE. THI",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "9 reports (13%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I LIVE IN LAS VEGAS NEVADA, THIS VEHICLE OVERHEATS AND SHUTS THE AIR CONDITIONER OFF WHEN IT REACHES  75% ON THE TEMPERATURE GAGE. ANYTIME THE OUTSIDE TEMPERATURE IS ABOVE 100+ DEGREES THE CAR WILL REACH 75%  WHILE DRIVING IN ABOUT 30 MINUTES, IF THE CAR IS STATIONARY IT'LL GET T",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "6 reports (9%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STOPPING ABRUPTLY, GOING AT 15-20MPH ON A MAIN STREET IN STOP AND GO TRAFFIC, NO SNOW OR RAIN, THE BRAKE PEDAL  PUSHES BACK AS IF SOMETHING IS STOPPING THE PEDAL FROM GOING DOWN, IT MAKES A LOUD GRINDING NOISE, AND DOESN'T STOP THE CAR LET ALONE SLOW IT DOWN. THIS HAS HAPPEN",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "5 reports (7%) · 1 crash"
+      }
+    ]
+  }
+}

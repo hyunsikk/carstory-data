@@ -1,0 +1,40 @@
+{
+  "slug": "2020-toyota-mirai",
+  "make": "Toyota",
+  "model": "Mirai",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/MIRAI#complaints",
+  "generatedAt": "2026-06-23T16:45:43.938Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was backing up my car very slowly from my friend's drive way to center of street, all the sudently the car lost control, keep backing up with very fast speed 360 degree to hit neighber's front yard wall and concrete street light. back of my car smasshed and total lost.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Toyota Mirai owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was backing up my car very slowly from my friend's drive way to center of street, all the sudently the car lost control, keep backing up with very fast speed 360 degree to hit neighber's front yard wall and concrete street light. back of my car smasshed and total lost.",
+        "pct": 100,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (100%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

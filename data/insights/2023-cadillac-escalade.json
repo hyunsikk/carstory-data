@@ -1,0 +1,128 @@
+{
+  "slug": "2023-cadillac-escalade",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/CADILLAC/ESCALADE#complaints",
+  "generatedAt": "2026-06-23T16:27:49.365Z",
+  "total": 119,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 89,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "INCIDENT:  I was driving on the highway when I heard a strange \"whistling noise.\" Thinking the noise originated from an old van in front of me, I passed it.  The noise grew louder; the vehicle slowed very suddenly and, I pulled to the side of the road. The \"low oil pressure\" ligh",
+      "pct": 75
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Friday 03/03/2023  Off hwy 34 was on i25 for about 5 minutes going 75 I accelerated to 80, to get in my right lane and out of the fast lane got over and a pop up came on my dash board, said press start.  I then realized my car lost power on the interstate with cars going 75-80+ m",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Please explain your complaint in detail: Every Cadillac dealership in the area is refusing to service my vehicle for a serious safety recall •GM #: N222384930  Trailer Brake Control Switch. When I call the dealerships to set up an appointment, they tell me there is a note on my a",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Cadillac Escalade. The contact stated that there was an abnormal squealing sound coming from the vehicle at start-up. There was no warning light illuminated. The contact was notified of NHTSA Campaign Number: 25V274000 (Engine, Engine and Engine Cooling); ",
+      "pct": 10
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "INCIDENT:  I was driving on the highway when I heard a strange \"whistling noise.\" Thinking the noise originated from an old van in front of me, I passed it.  The noise grew louder; the vehicle slowed very suddenly and, I pulled to the side of the road. The \"low oil pressure\" ligh",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Cadillac Escalade owners report most",
+    "summary": "Across 119 owner complaints to NHTSA, the most reported area is Engine (75% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 89,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "INCIDENT:  I was driving on the highway when I heard a strange \"whistling noise.\" Thinking the noise originated from an old van in front of me, I passed it.  The noise grew louder; the vehicle slowed very suddenly and, I pulled to the side of the road. The \"low oil pressure\" ligh",
+        "pct": 75,
+        "title": "Engine",
+        "blurb": "89 reports (75%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Friday 03/03/2023  Off hwy 34 was on i25 for about 5 minutes going 75 I accelerated to 80, to get in my right lane and out of the fast lane got over and a pop up came on my dash board, said press start.  I then realized my car lost power on the interstate with cars going 75-80+ m",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "15 reports (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Please explain your complaint in detail: Every Cadillac dealership in the area is refusing to service my vehicle for a serious safety recall •GM #: N222384930  Trailer Brake Control Switch. When I call the dealerships to set up an appointment, they tell me there is a note on my a",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "15 reports (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Cadillac Escalade. The contact stated that there was an abnormal squealing sound coming from the vehicle at start-up. There was no warning light illuminated. The contact was notified of NHTSA Campaign Number: 25V274000 (Engine, Engine and Engine Cooling); ",
+        "pct": 10,
+        "title": "Engine And Engine Cooling",
+        "blurb": "12 reports (10%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "INCIDENT:  I was driving on the highway when I heard a strange \"whistling noise.\" Thinking the noise originated from an old van in front of me, I passed it.  The noise grew louder; the vehicle slowed very suddenly and, I pulled to the side of the road. The \"low oil pressure\" ligh",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "11 reports (9%)"
+      }
+    ]
+  }
+}

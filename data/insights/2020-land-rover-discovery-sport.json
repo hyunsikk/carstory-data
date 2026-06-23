@@ -1,0 +1,128 @@
+{
+  "slug": "2020-land-rover-discovery-sport",
+  "make": "Land Rover",
+  "model": "Discovery Sport",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LAND%20ROVER/DISCOVERY%20SPORT#complaints",
+  "generatedAt": "2026-06-23T16:37:06.992Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I drive a 2020 Land Rover Discovery Sport, which was serviced over three months. The certified dealership replaced the head gasket, fuel injectors, cylinder heads, and starter engines. The car was less than three years old and had never had any issues before service. The car had ",
+      "pct": 55
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I drive a 2020 Land Rover Discovery Sport, which was serviced over three months. The certified dealership replaced the head gasket, fuel injectors, cylinder heads, and starter engines. The car was less than three years old and had never had any issues before service. The car had ",
+      "pct": 27
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When trying to accelerate at a light turning left while on coming traffic is coming tries to accelerate and car didn’t want to move. Took foot off the gas and didn’t again. The car finally moved if not there is a potential accident.   Also went up a street on hill. Turned right a",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I drive a 2020 Land Rover Discovery Sport, which was serviced over three months. The certified dealership replaced the head gasket, fuel injectors, cylinder heads, and starter engines. The car was less than three years old and had never had any issues before service. The car had ",
+      "pct": 18
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Last Thursday, 5/27/2021, I was driving on the interstate and all of sudden my vehicle became inoperable due to the same issue I have been having all along--mechanical failure of the suspension of the car/wheel.  The bushings, bearings, alignment is out of whack.  The wheel is ou",
+      "pct": 18
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Land Rover Discovery Sport owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Engine (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I drive a 2020 Land Rover Discovery Sport, which was serviced over three months. The certified dealership replaced the head gasket, fuel injectors, cylinder heads, and starter engines. The car was less than three years old and had never had any issues before service. The car had ",
+        "pct": 55,
+        "title": "Engine",
+        "blurb": "6 reports (55%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I drive a 2020 Land Rover Discovery Sport, which was serviced over three months. The certified dealership replaced the head gasket, fuel injectors, cylinder heads, and starter engines. The car was less than three years old and had never had any issues before service. The car had ",
+        "pct": 27,
+        "title": "Electrical System",
+        "blurb": "3 reports (27%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When trying to accelerate at a light turning left while on coming traffic is coming tries to accelerate and car didn’t want to move. Took foot off the gas and didn’t again. The car finally moved if not there is a potential accident.   Also went up a street on hill. Turned right a",
+        "pct": 18,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I drive a 2020 Land Rover Discovery Sport, which was serviced over three months. The certified dealership replaced the head gasket, fuel injectors, cylinder heads, and starter engines. The car was less than three years old and had never had any issues before service. The car had ",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "2 reports (18%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Last Thursday, 5/27/2021, I was driving on the interstate and all of sudden my vehicle became inoperable due to the same issue I have been having all along--mechanical failure of the suspension of the car/wheel.  The bushings, bearings, alignment is out of whack.  The wheel is ou",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "2 reports (18%)"
+      }
+    ]
+  }
+}

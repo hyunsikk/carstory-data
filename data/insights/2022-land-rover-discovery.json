@@ -1,0 +1,128 @@
+{
+  "slug": "2022-land-rover-discovery",
+  "make": "Land Rover",
+  "model": "Discovery",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LAND%20ROVER/DISCOVERY#complaints",
+  "generatedAt": "2026-06-23T16:37:05.429Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car displayed a warning noting of an “an electrical fault” but was still running fine otherwise. Drove straight to service center roughly 5 miles away. About a half a mile away from service center the car experienced a cascading number faults in quick succession. First it was saf",
+      "pct": 57
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The failing component is the same as Land Rover Discovery 2017-2020 recall /N221 service action.  Complaint is to extend this service action/ recall to later production models of Land Rover Discovery in the years 2021 and 2022. The same issues are occurring as reported with Land ",
+      "pct": 29
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving home from work late at night in December 2025. A  Signal came on that said pull to safety or something like that and then I lost power steering and brake control and my entire dash in my vehicle went pitch black.  I was in the middle lane on route 290 and I was very",
+      "pct": 14
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving home from work late at night in December 2025. A  Signal came on that said pull to safety or something like that and then I lost power steering and brake control and my entire dash in my vehicle went pitch black.  I was in the middle lane on route 290 and I was very",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on Ware Rd about 50 MPH on my way home.  The vehicle turned off while I was driving and had to turn into a street before the vehicle stopped moving. There were no warning lamps, messages or other symptoms prior to the failure.  If I had been on a highway, there woul",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Land Rover Discovery owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Electrical System (57% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car displayed a warning noting of an “an electrical fault” but was still running fine otherwise. Drove straight to service center roughly 5 miles away. About a half a mile away from service center the car experienced a cascading number faults in quick succession. First it was saf",
+        "pct": 57,
+        "title": "Electrical System",
+        "blurb": "4 reports (57%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The failing component is the same as Land Rover Discovery 2017-2020 recall /N221 service action.  Complaint is to extend this service action/ recall to later production models of Land Rover Discovery in the years 2021 and 2022. The same issues are occurring as reported with Land ",
+        "pct": 29,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving home from work late at night in December 2025. A  Signal came on that said pull to safety or something like that and then I lost power steering and brake control and my entire dash in my vehicle went pitch black.  I was in the middle lane on route 290 and I was very",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving home from work late at night in December 2025. A  Signal came on that said pull to safety or something like that and then I lost power steering and brake control and my entire dash in my vehicle went pitch black.  I was in the middle lane on route 290 and I was very",
+        "pct": 14,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on Ware Rd about 50 MPH on my way home.  The vehicle turned off while I was driving and had to turn into a street before the vehicle stopped moving. There were no warning lamps, messages or other symptoms prior to the failure.  If I had been on a highway, there woul",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

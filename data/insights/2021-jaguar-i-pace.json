@@ -1,0 +1,40 @@
+{
+  "slug": "2021-jaguar-i-pace",
+  "make": "Jaguar",
+  "model": "I-PACE",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/JAGUAR/I-PACE#complaints",
+  "generatedAt": "2026-06-23T16:45:12.688Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Waymo vehicle made a sudden merge into my vehicle's lane despite only about 1 car space between me and another vehicle in front when the Waymo's lane was blocked.  I had to swerve my car hard left to avoid the Waymo from colliding into my vehicle.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Jaguar I-Pace owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Waymo vehicle made a sudden merge into my vehicle's lane despite only about 1 car space between me and another vehicle in front when the Waymo's lane was blocked.  I had to swerve my car hard left to avoid the Waymo from colliding into my vehicle.",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

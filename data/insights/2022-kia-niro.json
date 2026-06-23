@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-niro",
+  "make": "Kia",
+  "model": "Niro",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/NIRO#complaints",
+  "generatedAt": "2026-06-23T16:36:32.151Z",
+  "total": 27,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Just over 2 weeks after purchase of new Kia Niro the brakes failed completely.  The regenerative brake light appeared in red along with the ABS light and several others.  I was driving in a major highway and had no pressure in the brake pedal, leaving me completely unable to brak",
+      "pct": 26
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car keeps notifying me of an issue with my left break lights, it has been inspected twice to which both times, Kia services said it just needed a new light but yet this problem keeps happening. Nothing pops up on diagnostics and there are no recalls, this is a brand new car less ",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Kia issued a recall warning dated September 29, 2023 regarding a fire hazard in our car. The recall stated that remedy was not available. After two months of no remedy from Kia and failure of Kia's Customer Care Center to respond to our requests for help, we went to the Kia deale",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Kia issued a recall warning dated September 29, 2023 regarding a fire hazard in our car. The recall stated that remedy was not available. After two months of no remedy from Kia and failure of Kia's Customer Care Center to respond to our requests for help, we went to the Kia deale",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "We discovered the passenger airbag \"OFF\" indicator was illuminated during while driving.  My wife needs an orthotic cushion in the seat for anything other than a 10 minute trip.  When the orthopedic cushion is placed in the seat the air bag does not activate.  I went to the deale",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia Niro owners report most",
+    "summary": "Across 27 owner complaints to NHTSA, the most reported area is Service Brakes (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Just over 2 weeks after purchase of new Kia Niro the brakes failed completely.  The regenerative brake light appeared in red along with the ABS light and several others.  I was driving in a major highway and had no pressure in the brake pedal, leaving me completely unable to brak",
+        "pct": 26,
+        "title": "Service Brakes",
+        "blurb": "7 reports (26%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car keeps notifying me of an issue with my left break lights, it has been inspected twice to which both times, Kia services said it just needed a new light but yet this problem keeps happening. Nothing pops up on diagnostics and there are no recalls, this is a brand new car less ",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "5 reports (19%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Kia issued a recall warning dated September 29, 2023 regarding a fire hazard in our car. The recall stated that remedy was not available. After two months of no remedy from Kia and failure of Kia's Customer Care Center to respond to our requests for help, we went to the Kia deale",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "5 reports (19%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Kia issued a recall warning dated September 29, 2023 regarding a fire hazard in our car. The recall stated that remedy was not available. After two months of no remedy from Kia and failure of Kia's Customer Care Center to respond to our requests for help, we went to the Kia deale",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "4 reports (15%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "We discovered the passenger airbag \"OFF\" indicator was illuminated during while driving.  My wife needs an orthotic cushion in the seat for anything other than a 10 minute trip.  When the orthopedic cushion is placed in the seat the air bag does not activate.  I went to the deale",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "3 reports (11%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

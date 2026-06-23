@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-bronco",
+  "make": "Ford",
+  "model": "Bronco",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/BRONCO#complaints",
+  "generatedAt": "2026-06-23T16:29:41.686Z",
+  "total": 340,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 64,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Wipers would not stay working as they should on any setting during heavy snow, sleet, and rain.  Vehicle has several intermittent settings, as well as (2) continuous wiping settings.  The all settings would work as they should for around 60 seconds, then slow down to a very slow ",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 45,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased this vehicle from Portsmouth Ford in Portsmouth NH on January 27, 2022.  I brought the vehicle into AutoFair Ford  (Manchester, NH) on March 16, 2022 as there was a rattling in the engine (at approximately 1519 Miles).   I have not seen the vehicle since.  The vehicle",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 42,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Flat Towing 2021 Ford Bronco with 2.7 V6 engine. After connecting my Bronco to the motorhome and putting it in the tow mode the following will occur. About 45 mins after turning the ignition off and closing the doors the EBB (Electronic Brake Boost) in the Bronco shuts down leavi",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 37,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "my vehicle lost power on the GW bridge in NYC. It has less than 1000 miles and the power, driving at 60 mph just died. To add insult to injury Ford (24hr roadside assistance told me that there were no tow truck available at this time). When my car was finally towed, vis a vie a 3",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Bronco MY 2022 Owners manual pages 288-289 on suv shows how to disengage in features menu the background ESC controls for yaw in the Trailer sway subsystem of ESC.When a dangerious highway sway of a trailer occurs, this subsystem will detect yaw and apply brakes.It is reported on",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ford Bronco owners report most",
+    "summary": "Across 340 owner complaints to NHTSA, the most reported area is Visibility/Wiper (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 64,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Wipers would not stay working as they should on any setting during heavy snow, sleet, and rain.  Vehicle has several intermittent settings, as well as (2) continuous wiping settings.  The all settings would work as they should for around 60 seconds, then slow down to a very slow ",
+        "pct": 19,
+        "title": "Visibility/Wiper",
+        "blurb": "64 reports (19%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 45,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased this vehicle from Portsmouth Ford in Portsmouth NH on January 27, 2022.  I brought the vehicle into AutoFair Ford  (Manchester, NH) on March 16, 2022 as there was a rattling in the engine (at approximately 1519 Miles).   I have not seen the vehicle since.  The vehicle",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "45 reports (13%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 42,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Flat Towing 2021 Ford Bronco with 2.7 V6 engine. After connecting my Bronco to the motorhome and putting it in the tow mode the following will occur. About 45 mins after turning the ignition off and closing the doors the EBB (Electronic Brake Boost) in the Bronco shuts down leavi",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "42 reports (12%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 37,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "my vehicle lost power on the GW bridge in NYC. It has less than 1000 miles and the power, driving at 60 mph just died. To add insult to injury Ford (24hr roadside assistance told me that there were no tow truck available at this time). When my car was finally towed, vis a vie a 3",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "37 reports (11%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Bronco MY 2022 Owners manual pages 288-289 on suv shows how to disengage in features menu the background ESC controls for yaw in the Trailer sway subsystem of ESC.When a dangerious highway sway of a trailer occurs, this subsystem will detect yaw and apply brakes.It is reported on",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "35 reports (10%) · 1 fire · 1 crash"
+      }
+    ]
+  }
+}

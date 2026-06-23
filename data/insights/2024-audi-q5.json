@@ -1,0 +1,128 @@
+{
+  "slug": "2024-audi-q5",
+  "make": "Audi",
+  "model": "Q5",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/Q5#complaints",
+  "generatedAt": "2026-06-23T16:26:02.694Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We were driving on [XXX]  at the posted speed limit of 65 mph.  The adaptive cruise control was activated and the predictive control turned on.   We drove past a [XXX] sign and the car abruptly decreased speed down to the twenties.  Had another car been following us, we could hav",
+      "pct": 61
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am writing regarding a serious issue with my 2024 Audi Q5, which I purchased brand new and have owned for only 12 months. The vehicle has developed premature rotor wear, which is entirely unexpected given its age, my normal driving habits, and Audi’s reputation for quality.    ",
+      "pct": 28
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased 2024 brand new Audi Q5 with Kumho tires - KL33  235\\55R19 from manufacturer Dec 2023. Have the car serviced at the Audi dealership per service recommendation. Tires were inspected and deemed roadworthy Jan 2025. By [XXX] (15 months post new purchase of vehicle) rear tir",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The dash board lights all came on, windows rolled down, car could not be controlled and couldn’t put the gear in park. After further research on the internet, I found that there was a recall on 288,000 Q 5s in 2021 because of this issue. Dealer said the “gateway system” that cont",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2024 Audi Q5, VIN: [XXX]                      Purchase Date: [XXX] The automatic tailgate has a foot sensing devise to open or close the tailgate. The problem is that when I am loading or unloading from the luggage area, my foot sometimes activates the sensor and the tailgate tri",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Q5 owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (61% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We were driving on [XXX]  at the posted speed limit of 65 mph.  The adaptive cruise control was activated and the predictive control turned on.   We drove past a [XXX] sign and the car abruptly decreased speed down to the twenties.  Had another car been following us, we could hav",
+        "pct": 61,
+        "title": "Forward Collision Avoidance",
+        "blurb": "11 reports (61%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am writing regarding a serious issue with my 2024 Audi Q5, which I purchased brand new and have owned for only 12 months. The vehicle has developed premature rotor wear, which is entirely unexpected given its age, my normal driving habits, and Audi’s reputation for quality.    ",
+        "pct": 28,
+        "title": "Service Brakes",
+        "blurb": "5 reports (28%)"
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased 2024 brand new Audi Q5 with Kumho tires - KL33  235\\55R19 from manufacturer Dec 2023. Have the car serviced at the Audi dealership per service recommendation. Tires were inspected and deemed roadworthy Jan 2025. By [XXX] (15 months post new purchase of vehicle) rear tir",
+        "pct": 11,
+        "title": "Tires",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The dash board lights all came on, windows rolled down, car could not be controlled and couldn’t put the gear in park. After further research on the internet, I found that there was a recall on 288,000 Q 5s in 2021 because of this issue. Dealer said the “gateway system” that cont",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2024 Audi Q5, VIN: [XXX]                      Purchase Date: [XXX] The automatic tailgate has a foot sensing devise to open or close the tailgate. The problem is that when I am loading or unloading from the luggage area, my foot sometimes activates the sensor and the tailgate tri",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "2 reports (11%)"
+      }
+    ]
+  }
+}

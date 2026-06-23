@@ -1,0 +1,62 @@
+{
+  "slug": "2019-bentley-bentayga",
+  "make": "Bentley",
+  "model": "Bentayga",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BENTLEY/BENTAYGA#complaints",
+  "generatedAt": "2026-06-23T16:46:22.539Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Bentley Bentayga. The contact stated that while the vehicle was parked and occupied, while attempting to start the vehicle, the contact smelled an abnormal fuel odor inside the vehicle. There was no warning light illuminated. An independent mechanic was co",
+      "pct": 100
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Bentley Bentayga. The contact stated that while the vehicle was parked and occupied, while attempting to start the vehicle, the contact smelled an abnormal fuel odor inside the vehicle. There was no warning light illuminated. An independent mechanic was co",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bentley Bentayga owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Bentley Bentayga. The contact stated that while the vehicle was parked and occupied, while attempting to start the vehicle, the contact smelled an abnormal fuel odor inside the vehicle. There was no warning light illuminated. An independent mechanic was co",
+        "pct": 100,
+        "title": "Fuel System",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Bentley Bentayga. The contact stated that while the vehicle was parked and occupied, while attempting to start the vehicle, the contact smelled an abnormal fuel odor inside the vehicle. There was no warning light illuminated. An independent mechanic was co",
+        "pct": 100,
+        "title": "Gasoline",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

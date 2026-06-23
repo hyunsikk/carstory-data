@@ -1,0 +1,40 @@
+{
+  "slug": "2020-bmw-x2",
+  "make": "BMW",
+  "model": "X2",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/X2#complaints",
+  "generatedAt": "2026-06-23T16:44:11.432Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "In 2026, a 2020 BMW X2 was involved in a 40-50 mph, 60-80 degree driver-side impact. The vehicle rotated 40-80 degrees to the right and struck a curb with enough force to shear both front axles and cause multiple tire explosions. Despite this catastrophic structural failure and e",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw X2 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Air Bags (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "In 2026, a 2020 BMW X2 was involved in a 40-50 mph, 60-80 degree driver-side impact. The vehicle rotated 40-80 degrees to the right and struck a curb with enough force to shear both front axles and cause multiple tire explosions. Despite this catastrophic structural failure and e",
+        "pct": 50,
+        "title": "Air Bags",
+        "blurb": "1 report (50%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

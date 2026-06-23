@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-tucson",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/TUCSON#complaints",
+  "generatedAt": "2026-06-23T16:34:20.592Z",
+  "total": 118,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 25,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Twice in the past two months, I have been driving down the highway going 70 mph with no car in close proximity to the front of me and the automatic emergency braking has activated, suddenly braking for no reason.  In the first instance, there was a car in the lane to the left of ",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 22,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Hyundai Tucson. The contact stated that while driving from a stationary position, the vehicle switched to safe mode and suddenly decelerated, and would not accelerate above 20 - 27 MPH. During the failure, the message \"Limited to 20 MPH\" was displayed. The",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Two days after purchasing this vehicle BRAND NEW, I received a \"Low Oil\" alert. I took it to the nearest Hyundai dealership where a salesman filled the engine with oil. Only a couple hundred miles later I received another \"Low Oil\" alert. I have been attempting to solve this issu",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 17,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle was purchased new from local Hyundai dealership in Dubuque, IA on November 17, 2022 and delivered November 22nd.  Vehicle had just under 200 miles on odometer.  Brake system was working well at that time.  On January 21, 2023 I stopped for a red light.  After a few second",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 16,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I leased this SUV 12/22/2023,upon driving it on 12/26 as i exited a major highway,leaving highway amd entering exit ramp the SUV lost brake funcrion as well as transmission function,absolute total loss of both brake and transmission systems,miraculously I was able to coast to saf",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Tucson owners report most",
+    "summary": "Across 118 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 25,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Twice in the past two months, I have been driving down the highway going 70 mph with no car in close proximity to the front of me and the automatic emergency braking has activated, suddenly braking for no reason.  In the first instance, there was a car in the lane to the left of ",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "25 reports (21%) · 6 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 22,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Hyundai Tucson. The contact stated that while driving from a stationary position, the vehicle switched to safe mode and suddenly decelerated, and would not accelerate above 20 - 27 MPH. During the failure, the message \"Limited to 20 MPH\" was displayed. The",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "22 reports (19%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Two days after purchasing this vehicle BRAND NEW, I received a \"Low Oil\" alert. I took it to the nearest Hyundai dealership where a salesman filled the engine with oil. Only a couple hundred miles later I received another \"Low Oil\" alert. I have been attempting to solve this issu",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "21 reports (18%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 17,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle was purchased new from local Hyundai dealership in Dubuque, IA on November 17, 2022 and delivered November 22nd.  Vehicle had just under 200 miles on odometer.  Brake system was working well at that time.  On January 21, 2023 I stopped for a red light.  After a few second",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "17 reports (14%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 16,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I leased this SUV 12/22/2023,upon driving it on 12/26 as i exited a major highway,leaving highway amd entering exit ramp the SUV lost brake funcrion as well as transmission function,absolute total loss of both brake and transmission systems,miraculously I was able to coast to saf",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "16 reports (14%) · 5 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2016-ford-fiesta",
+  "make": "Ford",
+  "model": "Fiesta",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/FORD/FIESTA#complaints",
+  "generatedAt": "2026-06-23T16:30:31.036Z",
+  "total": 178,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 101,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CLUNK NOISE SHIFTING FROM 1ST TO 2ND GEAR... I HAVE EXPERIENCED THIS FROM THE DAY I PICKED UP THE CAR FROM THE DEALER ON 9/29/16 (45 MILES ON CAR THEN).. I THOUGHT AT FIRST I IMAGINED IT OR JUST NEEDED TO GET USED TO THIS CAR SINCE I HAD JUST TURNED IN A 2014 LEASE CAR BACK TO TO",
+      "pct": 57
+    },
+    {
+      "component": "ENGINE",
+      "count": 33,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MANUAL TRANSMISSION VEHICLE SEEMS TO HAVE OCCASIONAL HESITATION UNDER LOAD WHEN MAINTAINING SPEED, ALL OBSERVED SPEEDS, ALL OBSERVED GEARS (ROUGHLY 30MPH TO 70MPH IN GEARS 3-5).  VEHICLE HAS DONE IS SINCE NEW, (DECEMBER 26, 2016 TO PRESENT) LESS THAN 4,500 MILES ON IT AT PRESENT.",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 FORD FIESTA. THE CONTACT STATED THAT THE VEHICLE STALLED WHILE IN AN INTERSECTION. THE FAILURE OCCURED WITHOUT WARNING. THE FAILURE OCCURRED ON TWO OTHER OCCATIONS. THE VEHICLE WAS TAKEN TO A DEALER, BUT THE FAILURE COULD NOT BE DUPLICATED. THE MANUFAC",
+      "pct": 15
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 11,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 FORD FIESTA. WHILE DRIVING APPROXIMATELY 5 MPH, THE VEHICLE ACCELERATED SPONTANEOUSLY AND STRUCK A TREE. A POLICE REPORT WAS FILED AND THERE WERE NO INJURIES. THE VEHICLE WAS NOT DIAGNOSED BY THE DEALER. THE MANUFACTURER WAS NOT NOTIFIED. THE VEHICLE W",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR WILL NOT START PROPERLY AFTER REFUELING.  YOU HAVE TO PRESS ON THE GAS SEVERAL TIMES AND THEN THE BRAKE TO START IT.  WHEN IT DOES START, YOU NEED TO REV THE ENGINE A COUPLE TIMES TO MAKE SURE IT WON'T DIE AGAIN.  THE TRANSMISSION IS NOW SLIPPING AND DROPS TO NEUTRAL WHIL",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Ford Fiesta owners report most",
+    "summary": "Across 178 owner complaints to NHTSA, the most reported area is Power Train (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 101,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CLUNK NOISE SHIFTING FROM 1ST TO 2ND GEAR... I HAVE EXPERIENCED THIS FROM THE DAY I PICKED UP THE CAR FROM THE DEALER ON 9/29/16 (45 MILES ON CAR THEN).. I THOUGHT AT FIRST I IMAGINED IT OR JUST NEEDED TO GET USED TO THIS CAR SINCE I HAD JUST TURNED IN A 2014 LEASE CAR BACK TO TO",
+        "pct": 57,
+        "title": "Power Train",
+        "blurb": "101 reports (57%) · 5 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 33,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MANUAL TRANSMISSION VEHICLE SEEMS TO HAVE OCCASIONAL HESITATION UNDER LOAD WHEN MAINTAINING SPEED, ALL OBSERVED SPEEDS, ALL OBSERVED GEARS (ROUGHLY 30MPH TO 70MPH IN GEARS 3-5).  VEHICLE HAS DONE IS SINCE NEW, (DECEMBER 26, 2016 TO PRESENT) LESS THAN 4,500 MILES ON IT AT PRESENT.",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "33 reports (19%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 FORD FIESTA. THE CONTACT STATED THAT THE VEHICLE STALLED WHILE IN AN INTERSECTION. THE FAILURE OCCURED WITHOUT WARNING. THE FAILURE OCCURRED ON TWO OTHER OCCATIONS. THE VEHICLE WAS TAKEN TO A DEALER, BUT THE FAILURE COULD NOT BE DUPLICATED. THE MANUFAC",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "26 reports (15%) · 1 fire"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 11,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 FORD FIESTA. WHILE DRIVING APPROXIMATELY 5 MPH, THE VEHICLE ACCELERATED SPONTANEOUSLY AND STRUCK A TREE. A POLICE REPORT WAS FILED AND THERE WERE NO INJURIES. THE VEHICLE WAS NOT DIAGNOSED BY THE DEALER. THE MANUFACTURER WAS NOT NOTIFIED. THE VEHICLE W",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "11 reports (6%) · 3 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR WILL NOT START PROPERLY AFTER REFUELING.  YOU HAVE TO PRESS ON THE GAS SEVERAL TIMES AND THEN THE BRAKE TO START IT.  WHEN IT DOES START, YOU NEED TO REV THE ENGINE A COUPLE TIMES TO MAKE SURE IT WON'T DIE AGAIN.  THE TRANSMISSION IS NOW SLIPPING AND DROPS TO NEUTRAL WHIL",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "11 reports (6%)"
+      }
+    ]
+  }
+}

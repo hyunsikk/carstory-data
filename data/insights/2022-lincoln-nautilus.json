@@ -1,0 +1,106 @@
+{
+  "slug": "2022-lincoln-nautilus",
+  "make": "Lincoln",
+  "model": "Nautilus",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/LINCOLN/NAUTILUS#complaints",
+  "generatedAt": "2026-06-23T16:37:52.507Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a class action lawsuit for the 2019-2021 Nautilus with the 8F35 transmission, which is the same transmission that my 2022 Nautilus has. Ford has also issued multiple technical service bulletins (25-2154, 21-2389) regarding the 8F35 transmission. My transmission has had a",
+      "pct": 50
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The sheet metal around both front door hinges are cracking. Just as the Ford Escape did.",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Good afternoon,  I am an owner of a 2002 Lincoln Nautilus.  I wanted to report an electrical/battery issue with the vehicle that started a year and a half ago.  In the past year and a half I have had 2 battery replacements with the most recent one being changed end of December of",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Submitted by: [XXX] Dealership: Joe Rizza Ford of Orland Park Vehicle: 2021 Lincoln Nautilus VIN: [XXX]  Date: 04/04/25  Overview: Vehicle VIN [XXX]  has shown persistent signs of remote system manipulation, unauthorized firmware behavior, and OTA event spoofing. These symptoms h",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Lincoln Nautilus owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Power Train (50% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a class action lawsuit for the 2019-2021 Nautilus with the 8F35 transmission, which is the same transmission that my 2022 Nautilus has. Ford has also issued multiple technical service bulletins (25-2154, 21-2389) regarding the 8F35 transmission. My transmission has had a",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The sheet metal around both front door hinges are cracking. Just as the Ford Escape did.",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Good afternoon,  I am an owner of a 2002 Lincoln Nautilus.  I wanted to report an electrical/battery issue with the vehicle that started a year and a half ago.  In the past year and a half I have had 2 battery replacements with the most recent one being changed end of December of",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Submitted by: [XXX] Dealership: Joe Rizza Ford of Orland Park Vehicle: 2021 Lincoln Nautilus VIN: [XXX]  Date: 04/04/25  Overview: Vehicle VIN [XXX]  has shown persistent signs of remote system manipulation, unauthorized firmware behavior, and OTA event spoofing. These symptoms h",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

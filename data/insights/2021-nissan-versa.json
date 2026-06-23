@@ -1,0 +1,128 @@
+{
+  "slug": "2021-nissan-versa",
+  "make": "Nissan",
+  "model": "Versa",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/NISSAN/VERSA#complaints",
+  "generatedAt": "2026-06-23T16:39:35.235Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Nissan Versa. The contact stated while depressing the accelerator pedal from a stop sign, the vehicle started stalling. The contact stated the crash indicator warning light was illuminated. The contact took the vehicle to the local dealer, but the mechanic",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Nissan Versa. The contact stated while depressing the accelerator pedal from a stop sign, the vehicle started stalling. The contact stated the crash indicator warning light was illuminated. The contact took the vehicle to the local dealer, but the mechanic",
+      "pct": 23
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WELL DRIVING I NOTICE A CAR WITHOUT BRAKE LIGHTS ON STOPPED IN FRONT OF ME NOT MOVING. QUICKLY GOING TO BRAKE.. I HAD NO BRAKES I PUSHED AGAIN AND TURNED RIGHT. ALMOST INCHES TO HITTING A GAS PUMP. THANKFULLY BUMPS AND BRUISES . I WAS RENTING THE VEHICLE FROM INDIANA DRIVING TO N",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car is still pretty new (less than 6,000 miles) and it is experiencing a loss of coolant. It was near the \"max\" mark on the reservoir when purchased brand new and now it is riding on the \"min\" mark. I have been checking my fluids and such occasionally since the day I bought it an",
+      "pct": 16
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WELL DRIVING I NOTICE A CAR WITHOUT BRAKE LIGHTS ON STOPPED IN FRONT OF ME NOT MOVING. QUICKLY GOING TO BRAKE.. I HAD NO BRAKES I PUSHED AGAIN AND TURNED RIGHT. ALMOST INCHES TO HITTING A GAS PUMP. THANKFULLY BUMPS AND BRUISES . I WAS RENTING THE VEHICLE FROM INDIANA DRIVING TO N",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Nissan Versa owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Power Train (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Nissan Versa. The contact stated while depressing the accelerator pedal from a stop sign, the vehicle started stalling. The contact stated the crash indicator warning light was illuminated. The contact took the vehicle to the local dealer, but the mechanic",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "9 reports (29%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Nissan Versa. The contact stated while depressing the accelerator pedal from a stop sign, the vehicle started stalling. The contact stated the crash indicator warning light was illuminated. The contact took the vehicle to the local dealer, but the mechanic",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "7 reports (23%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WELL DRIVING I NOTICE A CAR WITHOUT BRAKE LIGHTS ON STOPPED IN FRONT OF ME NOT MOVING. QUICKLY GOING TO BRAKE.. I HAD NO BRAKES I PUSHED AGAIN AND TURNED RIGHT. ALMOST INCHES TO HITTING A GAS PUMP. THANKFULLY BUMPS AND BRUISES . I WAS RENTING THE VEHICLE FROM INDIANA DRIVING TO N",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "5 reports (16%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car is still pretty new (less than 6,000 miles) and it is experiencing a loss of coolant. It was near the \"max\" mark on the reservoir when purchased brand new and now it is riding on the \"min\" mark. I have been checking my fluids and such occasionally since the day I bought it an",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "5 reports (16%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WELL DRIVING I NOTICE A CAR WITHOUT BRAKE LIGHTS ON STOPPED IN FRONT OF ME NOT MOVING. QUICKLY GOING TO BRAKE.. I HAD NO BRAKES I PUSHED AGAIN AND TURNED RIGHT. ALMOST INCHES TO HITTING A GAS PUMP. THANKFULLY BUMPS AND BRUISES . I WAS RENTING THE VEHICLE FROM INDIANA DRIVING TO N",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "4 reports (13%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

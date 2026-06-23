@@ -1,0 +1,40 @@
+{
+  "slug": "2022-bmw-x2",
+  "make": "BMW",
+  "model": "X2",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X2#complaints",
+  "generatedAt": "2026-06-23T16:44:11.781Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on the interstate, the drivetrain malfunction warning appeared causing the car to become \"limp.\" This limp mode caused a sudden inability to accelerate in a lane requiring mobility to avoid collision with merging right lane traffic. If this car had not already been ",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X2 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (100% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on the interstate, the drivetrain malfunction warning appeared causing the car to become \"limp.\" This limp mode caused a sudden inability to accelerate in a lane requiring mobility to avoid collision with merging right lane traffic. If this car had not already been ",
+        "pct": 100,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

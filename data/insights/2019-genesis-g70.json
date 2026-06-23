@@ -1,0 +1,128 @@
+{
+  "slug": "2019-genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/GENESIS/G70#complaints",
+  "generatedAt": "2026-06-23T16:30:58.156Z",
+  "total": 58,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine stalled when stopped at a traffic light. There was heavy traffic in front and to the rear of my vehicle. I was in the far right lane. It was 102 degrees outside. I was able to restart the vehicle about two minutes after the initial stall. I was then able to drive the vehic",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since it was new, my 2019 Genesis G70 Twin Turbo with AWD has had occasional long hesitation (it happens every couple of days) when I step on the gas, lasting anywhere from 3 to 10 seconds. It happens from a stop, and also at times when the car is going 5-10 mph. The motor has be",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The infotainment system, while using Apple Car Play, is operating erratically, and at its worst goes to a completely black screen that does not accept any input from the touchscreen. In order to correct this persistent issue, I am either required to switch input sources on the bu",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Genesis G70. The contact stated while the vehicle was stationary at the residence, the contact stated that it was difficult to select gear. The contact stated no warning light was illuminated. The contact also stated while driving at 35 MPH, the vehicle st",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "AT AROUND 8:45 A.M. ON JAN. 19, 2020, I LEFT MY HOUSE, DROVE TO THE ENTRANCE OF THE SUBDIVISION, AND TURNED LEFT ONTO THE CITY STREET.  BECAUSE OF THE BAD WEATHER IN EARLIER HOURS, I KNEW THAT THE ROAD WAS RATHER ICY.  SO I WAS EXTRA CAUTIOUS AND ESTIMATE MY SPEED WAS AROUND 25 M",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Genesis G70 owners report most",
+    "summary": "Across 58 owner complaints to NHTSA, the most reported area is Engine (19% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine stalled when stopped at a traffic light. There was heavy traffic in front and to the rear of my vehicle. I was in the far right lane. It was 102 degrees outside. I was able to restart the vehicle about two minutes after the initial stall. I was then able to drive the vehic",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "11 reports (19%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since it was new, my 2019 Genesis G70 Twin Turbo with AWD has had occasional long hesitation (it happens every couple of days) when I step on the gas, lasting anywhere from 3 to 10 seconds. It happens from a stop, and also at times when the car is going 5-10 mph. The motor has be",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The infotainment system, while using Apple Car Play, is operating erratically, and at its worst goes to a completely black screen that does not accept any input from the touchscreen. In order to correct this persistent issue, I am either required to switch input sources on the bu",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "9 reports (16%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Genesis G70. The contact stated while the vehicle was stationary at the residence, the contact stated that it was difficult to select gear. The contact stated no warning light was illuminated. The contact also stated while driving at 35 MPH, the vehicle st",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "7 reports (12%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "AT AROUND 8:45 A.M. ON JAN. 19, 2020, I LEFT MY HOUSE, DROVE TO THE ENTRANCE OF THE SUBDIVISION, AND TURNED LEFT ONTO THE CITY STREET.  BECAUSE OF THE BAD WEATHER IN EARLIER HOURS, I KNEW THAT THE ROAD WAS RATHER ICY.  SO I WAS EXTRA CAUTIOUS AND ESTIMATE MY SPEED WAS AROUND 25 M",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "6 reports (10%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

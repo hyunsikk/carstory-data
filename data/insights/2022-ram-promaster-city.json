@@ -1,0 +1,84 @@
+{
+  "slug": "2022-ram-promaster-city",
+  "make": "Ram",
+  "model": "ProMaster City",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/RAM/PROMASTER%20CITY#complaints",
+  "generatedAt": "2026-06-23T16:40:26.608Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ram Promaster City. The contact stated that occasionally while shifting into drive or reverse, the RPM increased to 4,000. On several occasions, the failure occurred while the brake pedal was depressed. The contact stated when the vehicle was shifted into ",
+      "pct": 100
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On March 19, 2025 upon driving my car home from a 1 hour commute I sensed a unique, uncommon smell - like some sort of electrical component burning. I parked the car in my garage, turned it off and went inside my house. Within 5 minutes the engine was producing gray smoke followe",
+      "pct": 50
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ram Promaster City. The contact stated that occasionally while shifting into drive or reverse, the RPM increased to 4,000. On several occasions, the failure occurred while the brake pedal was depressed. The contact stated when the vehicle was shifted into ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ram Promaster City owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Engine (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ram Promaster City. The contact stated that occasionally while shifting into drive or reverse, the RPM increased to 4,000. On several occasions, the failure occurred while the brake pedal was depressed. The contact stated when the vehicle was shifted into ",
+        "pct": 100,
+        "title": "Engine",
+        "blurb": "2 reports (100%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On March 19, 2025 upon driving my car home from a 1 hour commute I sensed a unique, uncommon smell - like some sort of electrical component burning. I parked the car in my garage, turned it off and went inside my house. Within 5 minutes the engine was producing gray smoke followe",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ram Promaster City. The contact stated that occasionally while shifting into drive or reverse, the RPM increased to 4,000. On several occasions, the failure occurred while the brake pedal was depressed. The contact stated when the vehicle was shifted into ",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

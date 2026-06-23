@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-a8",
+  "make": "Audi",
+  "model": "A8",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/A8#complaints",
+  "generatedAt": "2026-06-23T16:25:43.265Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.  I took my 2021 AUDI A8 to Audi Rockville located at 1125 Rockville Pike; Rockville, MD 20852 on July 18 to fix the recall. After waiting for 2 hours at the dealership, they told me they must go to BestBuy to buy a USB stick and asked if we co",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Total electrical shutdown over about 2 minutes.  Stranded on road. All electrical systems failed rapidly. Strongly suspect this is part of known BSG/alternator issues with this model.",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Total electrical shutdown over about 2 minutes.  Stranded on road. All electrical systems failed rapidly. Strongly suspect this is part of known BSG/alternator issues with this model.",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "fuel pump leak, dealer claimed the seal is broken from the manufacture, gave out strong gasoline smell",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving in the morning on a November day on a rural road. The rear moon roof exploded outward. The sound was deafening and scared my passenger and I. The center glass exploded outward, scattering glass outside and inside of the car. I believe that if this happened that pass",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi A8 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Electrical System (40% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.  I took my 2021 AUDI A8 to Audi Rockville located at 1125 Rockville Pike; Rockville, MD 20852 on July 18 to fix the recall. After waiting for 2 hours at the dealership, they told me they must go to BestBuy to buy a USB stick and asked if we co",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Total electrical shutdown over about 2 minutes.  Stranded on road. All electrical systems failed rapidly. Strongly suspect this is part of known BSG/alternator issues with this model.",
+        "pct": 40,
+        "title": "Power Train",
+        "blurb": "2 reports (40%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Total electrical shutdown over about 2 minutes.  Stranded on road. All electrical systems failed rapidly. Strongly suspect this is part of known BSG/alternator issues with this model.",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "fuel pump leak, dealer claimed the seal is broken from the manufacture, gave out strong gasoline smell",
+        "pct": 20,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving in the morning on a November day on a rural road. The rear moon roof exploded outward. The sound was deafening and scared my passenger and I. The center glass exploded outward, scattering glass outside and inside of the car. I believe that if this happened that pass",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

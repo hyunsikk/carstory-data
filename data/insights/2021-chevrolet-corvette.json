@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-corvette",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/CHEVROLET/CORVETTE#complaints",
+  "generatedAt": "2026-06-23T16:28:13.221Z",
+  "total": 11,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At approximately 700 miles, my check engine light came on and the car produced an error message that said \"Idle Creep Temporarily Disabled\".  Soon after that the car would lurch, buck on acceleration, and would only drive in even numbered gears.  I felt the car was extremely dang",
+      "pct": 64
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "One week ago received a manufacturer OTA update to install in vehicle which I always download. A few days later I drove vehicle to store and turned vehicle off in parking lot for 5 minutes. Upon returning to vehicle, unable to start vehicle. Vehicle display provided message “Batt",
+      "pct": 36
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "One week ago received a manufacturer OTA update to install in vehicle which I always download. A few days later I drove vehicle to store and turned vehicle off in parking lot for 5 minutes. Upon returning to vehicle, unable to start vehicle. Vehicle display provided message “Batt",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Corvette. The contact stated that the warning message that the front tires were low displayed. The contact added air into the tires but the warning message that the tires were low continued to illuminate. The vehicle was taken to the dealer and t",
+      "pct": 9
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Chevrolet Corvette. The contact stated that the warning message that the front tires were low displayed. The contact added air into the tires but the warning message that the tires were low continued to illuminate. The vehicle was taken to the dealer and t",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Chevrolet Corvette owners report most",
+    "summary": "Across 11 owner complaints to NHTSA, the most reported area is Power Train (64% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At approximately 700 miles, my check engine light came on and the car produced an error message that said \"Idle Creep Temporarily Disabled\".  Soon after that the car would lurch, buck on acceleration, and would only drive in even numbered gears.  I felt the car was extremely dang",
+        "pct": 64,
+        "title": "Power Train",
+        "blurb": "7 reports (64%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "One week ago received a manufacturer OTA update to install in vehicle which I always download. A few days later I drove vehicle to store and turned vehicle off in parking lot for 5 minutes. Upon returning to vehicle, unable to start vehicle. Vehicle display provided message “Batt",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "4 reports (36%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "One week ago received a manufacturer OTA update to install in vehicle which I always download. A few days later I drove vehicle to store and turned vehicle off in parking lot for 5 minutes. Upon returning to vehicle, unable to start vehicle. Vehicle display provided message “Batt",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "1 report (9%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Corvette. The contact stated that the warning message that the front tires were low displayed. The contact added air into the tires but the warning message that the tires were low continued to illuminate. The vehicle was taken to the dealer and t",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "1 report (9%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Chevrolet Corvette. The contact stated that the warning message that the front tires were low displayed. The contact added air into the tires but the warning message that the tires were low continued to illuminate. The vehicle was taken to the dealer and t",
+        "pct": 9,
+        "title": "Wheels",
+        "blurb": "1 report (9%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

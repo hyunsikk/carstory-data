@@ -1,0 +1,128 @@
+{
+  "slug": "2020-mercedes-benz-s-class",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MERCEDES-BENZ/S-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:41.324Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AUTOMATIC DRIVE SHUTS OFF WHEN YOU BRAKE.  HOWEVER, IN A ROLLING STOP AND BRAKE, IT DOES NOT RESTART IN CERTAIN SITUATIONS WHEN YOU ACCELERATE OUT OF THE STOP.  IT IS INCONSISTENT, BUT SERVICE TEAM AT LOCAL DEALER HAVE RECREATED THE SITUATION.  THE CAR IS DESIGNED TO AUTO RESTART",
+      "pct": 29
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The fuel pump My car stopped on the highway [XXX]  on [XXX] with my children in the car with no warning at all. I was so lucky nobody hit us and it took 20 minutes of trying to start it to get off of the highway to a gas station where it cut off again The dealer said it is a know",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mercedes-Benz S 560. The contact stated while driving 10 MPH, the check engine warning light illuminated. The vehicle was taken to the dealer, where the warning light was cleared; however, the failure recurred the following day. The vehicle was taken back ",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Had windshield breakage and replacement on 14 December 2023.  On 29 January 2024, had an apparent windshield strike (pinhead size) and windshield cracked from middle to top. Within 20 minutes crack had spread all across the top of windshield. While parked crack spread down and co",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mercedes-Benz S560. The contact stated that while driving approximately 60 MPH, there was an abnormal sound and shards of glass started entering the vehicle from the sunroof. No injuries were sustained. The vehicle was taken to the dealer; however, the veh",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mercedes-Benz S-Class owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Vehicle Speed Control (29% of reports).",
+    "issues": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AUTOMATIC DRIVE SHUTS OFF WHEN YOU BRAKE.  HOWEVER, IN A ROLLING STOP AND BRAKE, IT DOES NOT RESTART IN CERTAIN SITUATIONS WHEN YOU ACCELERATE OUT OF THE STOP.  IT IS INCONSISTENT, BUT SERVICE TEAM AT LOCAL DEALER HAVE RECREATED THE SITUATION.  THE CAR IS DESIGNED TO AUTO RESTART",
+        "pct": 29,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The fuel pump My car stopped on the highway [XXX]  on [XXX] with my children in the car with no warning at all. I was so lucky nobody hit us and it took 20 minutes of trying to start it to get off of the highway to a gas station where it cut off again The dealer said it is a know",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mercedes-Benz S 560. The contact stated while driving 10 MPH, the check engine warning light illuminated. The vehicle was taken to the dealer, where the warning light was cleared; however, the failure recurred the following day. The vehicle was taken back ",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Had windshield breakage and replacement on 14 December 2023.  On 29 January 2024, had an apparent windshield strike (pinhead size) and windshield cracked from middle to top. Within 20 minutes crack had spread all across the top of windshield. While parked crack spread down and co",
+        "pct": 14,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mercedes-Benz S560. The contact stated that while driving approximately 60 MPH, there was an abnormal sound and shards of glass started entering the vehicle from the sunroof. No injuries were sustained. The vehicle was taken to the dealer; however, the veh",
+        "pct": 14,
+        "title": "Visibility",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

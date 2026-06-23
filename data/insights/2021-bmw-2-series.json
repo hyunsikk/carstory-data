@@ -1,0 +1,128 @@
+{
+  "slug": "2021-bmw-2-series",
+  "make": "BMW",
+  "model": "2 Series",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/2%20SERIES#complaints",
+  "generatedAt": "2026-06-23T16:43:42.192Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BMW DRL (Daytime Running Light) module is is overheating causing damage to the internal fiber optic tube. Dealer said this is a common issue and requires module replacement to prevent requiring a whole headlight assembly as BMW does not sell the fiber optic cable separately. Ligh",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2021 with 25000 miles and a 2023 with 6000 miles which make noise when in reverse. The dealer has stated the rear brake pads likely need replacement and rotors as well. It seems questionable that two exact models two years apart and 20000 miles apart are encountering the",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine mount replace required at 37000 per dealership service inspection.  Informed that it is standard for this part to fail repeatedly during life of engine. Retail price of repair at dealership estimated at $3000, offered repair for $1200.  Informed that a driving hazard and c",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THROTTLE BODY ACTUATOR BMW OEM PART # 13547619008 FITS ALL BMW MODELS 2016-2024. IT HAS BEEN REPORTED TO FAIL ACROSS MULTIPLE BMW MODEL LINES, particularly in the E60, E90, and E92 series. when it fails, the engine power goes into a safe mode which drops the rpms down to idle spe",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw 2 Series owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Exterior Lighting (25% of reports).",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BMW DRL (Daytime Running Light) module is is overheating causing damage to the internal fiber optic tube. Dealer said this is a common issue and requires module replacement to prevent requiring a whole headlight assembly as BMW does not sell the fiber optic cable separately. Ligh",
+        "pct": 25,
+        "title": "Exterior Lighting",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2021 with 25000 miles and a 2023 with 6000 miles which make noise when in reverse. The dealer has stated the rear brake pads likely need replacement and rotors as well. It seems questionable that two exact models two years apart and 20000 miles apart are encountering the",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine mount replace required at 37000 per dealership service inspection.  Informed that it is standard for this part to fail repeatedly during life of engine. Retail price of repair at dealership estimated at $3000, offered repair for $1200.  Informed that a driving hazard and c",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THROTTLE BODY ACTUATOR BMW OEM PART # 13547619008 FITS ALL BMW MODELS 2016-2024. IT HAS BEEN REPORTED TO FAIL ACROSS MULTIPLE BMW MODEL LINES, particularly in the E60, E90, and E92 series. when it fails, the engine power goes into a safe mode which drops the rpms down to idle spe",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

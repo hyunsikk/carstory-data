@@ -1,0 +1,128 @@
+{
+  "slug": "2024-audi-q8",
+  "make": "Audi",
+  "model": "Q8",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/Q8#complaints",
+  "generatedAt": "2026-06-23T16:26:12.296Z",
+  "total": 18,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 3 separate occasions the vehicle has abruptly stopped while making a left turn endangering our lives.  The pre-sense automatic braking malfunctions and stops the vehicle as we begin a left turn.  The turn signal is engaged and the car incorrectly determines it needs to perform",
+      "pct": 44
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Audi Q8. The contact received notification of NHTSA Campaign Number: 23V842000 (Electrical System) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer had exceeded a ",
+      "pct": 39
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our Audiu Q8 has had a host of safety issues since purchased in December 2023 and we have been denied or delayed on a buyback twice. The vehicle has been unable to be moved 3 times due to battery (12V and relay) issues that left my wife and [XXX]  stranded at home. On one occasio",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CHARGING SYSTEM DEFECT: The manufacturer-supplied portable charger (rated 9.6kW at 240V/40A) delivers only 7.4kW — a 23% shortfall. The authorized dealer confirmed this measurement in March 2026 but refused to repair, stating \"no issues.\" The charging rate also degrades over time",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Our Audiu Q8 has had a host of safety issues since purchased in December 2023 and we have been denied or delayed on a buyback twice. The vehicle has been unable to be moved 3 times due to battery (12V and relay) issues that left my wife and [XXX]  stranded at home. On one occasio",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Q8 owners report most",
+    "summary": "Across 18 owner complaints to NHTSA, the most reported area is Service Brakes (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 3 separate occasions the vehicle has abruptly stopped while making a left turn endangering our lives.  The pre-sense automatic braking malfunctions and stops the vehicle as we begin a left turn.  The turn signal is engaged and the car incorrectly determines it needs to perform",
+        "pct": 44,
+        "title": "Service Brakes",
+        "blurb": "8 reports (44%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Audi Q8. The contact received notification of NHTSA Campaign Number: 23V842000 (Electrical System) however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer had exceeded a ",
+        "pct": 39,
+        "title": "Electrical System",
+        "blurb": "7 reports (39%) · 1 fire"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our Audiu Q8 has had a host of safety issues since purchased in December 2023 and we have been denied or delayed on a buyback twice. The vehicle has been unable to be moved 3 times due to battery (12V and relay) issues that left my wife and [XXX]  stranded at home. On one occasio",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (17%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CHARGING SYSTEM DEFECT: The manufacturer-supplied portable charger (rated 9.6kW at 240V/40A) delivers only 7.4kW — a 23% shortfall. The authorized dealer confirmed this measurement in March 2026 but refused to repair, stating \"no issues.\" The charging rate also degrades over time",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "2 reports (11%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Our Audiu Q8 has had a host of safety issues since purchased in December 2023 and we have been denied or delayed on a buyback twice. The vehicle has been unable to be moved 3 times due to battery (12V and relay) issues that left my wife and [XXX]  stranded at home. On one occasio",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (11%) · 1 fire"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-toyota-venza",
+  "make": "Toyota",
+  "model": "Venza",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/VENZA#complaints",
+  "generatedAt": "2026-06-23T16:41:36.146Z",
+  "total": 179,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 74,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle 2 weeks old; small pebble (pea size) hit windshield centered on passenger vision (approx 80% from left to right) ; crack starts to form in windshield to left of driver vision (approx 10% from left to right) starting at the bottom in the black trim section - nowhere near p",
+      "pct": 41
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Venza. The contact stated while the vehicle was parked, the vehicle failed to open or start. The contact was able to jumpstart the vehicle with some assistance and the check engine warning light illuminated. The vehicle was taken to the dealer who d",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 13,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Pulling into a parking spot (under 5 mpg), brakes did not engage. Car drove up onto the sidewalk. Had to put car into reverse to avoid hitting the building.   While in reverse, brakes would not engage as well had to turn off the vehicle to stop it after it hit the curb 20ft behin",
+      "pct": 7
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The venzas headlights, while on low beam only, have 2 shadows or blobs in the drivers view. It is very distracting especially while turning or cornering. It appears as if things are running out in front of the car. The issue is discussed by Venza owners on the Toyota nation blog.",
+      "pct": 7
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 12,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "as I attempted to turn left in the parking lot of a strip mall with several restaurants, my engine suddenly revved and accelerated and despite pumping the brakes several times I could not slow it down or stop it.  As a result I slammed into a concrete berm, kept going and crashed",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Toyota Venza owners report most",
+    "summary": "Across 179 owner complaints to NHTSA, the most reported area is Visibility/Wiper (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 74,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle 2 weeks old; small pebble (pea size) hit windshield centered on passenger vision (approx 80% from left to right) ; crack starts to form in windshield to left of driver vision (approx 10% from left to right) starting at the bottom in the black trim section - nowhere near p",
+        "pct": 41,
+        "title": "Visibility/Wiper",
+        "blurb": "74 reports (41%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Venza. The contact stated while the vehicle was parked, the vehicle failed to open or start. The contact was able to jumpstart the vehicle with some assistance and the check engine warning light illuminated. The vehicle was taken to the dealer who d",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "14 reports (8%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 13,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Pulling into a parking spot (under 5 mpg), brakes did not engage. Car drove up onto the sidewalk. Had to put car into reverse to avoid hitting the building.   While in reverse, brakes would not engage as well had to turn off the vehicle to stop it after it hit the curb 20ft behin",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "13 reports (7%) · 6 crash · 3 injured"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The venzas headlights, while on low beam only, have 2 shadows or blobs in the drivers view. It is very distracting especially while turning or cornering. It appears as if things are running out in front of the car. The issue is discussed by Venza owners on the Toyota nation blog.",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "13 reports (7%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 12,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "as I attempted to turn left in the parking lot of a strip mall with several restaurants, my engine suddenly revved and accelerated and despite pumping the brakes several times I could not slow it down or stop it.  As a result I slammed into a concrete berm, kept going and crashed",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "12 reports (7%) · 5 crash · 5 injured"
+      }
+    ]
+  }
+}

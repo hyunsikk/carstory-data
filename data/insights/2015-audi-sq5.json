@@ -1,0 +1,106 @@
+{
+  "slug": "2015-audi-sq5",
+  "make": "Audi",
+  "model": "SQ5",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/AUDI/SQ5#complaints",
+  "generatedAt": "2026-06-23T16:43:18.209Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Audi SQ5. The contact stated while driving at approximately 40 MPH, there was an abnormal scraping and dragging sound coming from the front of the vehicle. The contact stated there was no warning light illuminated. The contact pulled over and observed that",
+      "pct": 43
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "POWER STEERING DISABLED WHILE DRIVING.  WARNING ON DASH INDICATED THAT POWER STEERING IS DEFECTIVE.  LOSS OF ELECTRONIC STEERING ASSIST WAS IMMEDIATE AND STEERING BECAME EXTREMELY DIFFICULT, IF NOT IMPOSSIBLE.  VEHICLE WAS MOVED TO SHOULDER WITHOUT INCIDENT.  DEALER INDICATED SOF",
+      "pct": 29
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Rear subframe has extensive and significant rust affecting the structural integrity of the critical component…. Have been advised by a qualified certified  mechanic that the vehicle should NOT be driven as doing so could result in catastrophic collapse of the vehicle suspension w",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2015 Audi SQ5. The contact stated while driving at approximately 65 MPH, while the brake pedal was depressed, the brakes failed to engage; the contact had to initiate the emergency brake to bring the vehicle to a halt. No warning light was illuminated. The vehi",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Audi Sq5 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Structure (43% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Audi SQ5. The contact stated while driving at approximately 40 MPH, there was an abnormal scraping and dragging sound coming from the front of the vehicle. The contact stated there was no warning light illuminated. The contact pulled over and observed that",
+        "pct": 43,
+        "title": "Structure",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "POWER STEERING DISABLED WHILE DRIVING.  WARNING ON DASH INDICATED THAT POWER STEERING IS DEFECTIVE.  LOSS OF ELECTRONIC STEERING ASSIST WAS IMMEDIATE AND STEERING BECAME EXTREMELY DIFFICULT, IF NOT IMPOSSIBLE.  VEHICLE WAS MOVED TO SHOULDER WITHOUT INCIDENT.  DEALER INDICATED SOF",
+        "pct": 29,
+        "title": "Steering",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Rear subframe has extensive and significant rust affecting the structural integrity of the critical component…. Have been advised by a qualified certified  mechanic that the vehicle should NOT be driven as doing so could result in catastrophic collapse of the vehicle suspension w",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2015 Audi SQ5. The contact stated while driving at approximately 65 MPH, while the brake pedal was depressed, the brakes failed to engage; the contact had to initiate the emergency brake to bring the vehicle to a halt. No warning light was illuminated. The vehi",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

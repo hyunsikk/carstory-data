@@ -1,0 +1,128 @@
+{
+  "slug": "2023-volkswagen-tiguan",
+  "make": "Volkswagen",
+  "model": "Tiguan",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/VOLKSWAGEN/TIGUAN#complaints",
+  "generatedAt": "2026-06-23T16:42:13.255Z",
+  "total": 57,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehical when engine is cold. Has delays and lags. I didn't think much of it when I first bought it, I assumed the computer was trying to learn. Well car has 12000 miles on it and still does it  I've been to the dealer several times. They have told me this is normal?. Until I ",
+      "pct": 32
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new VW Tiguan. The start stop system has failed since a month after I bought it.  When I am stopped at a stoplight, stop sign or in traffic, often the vehicle will completely shut off and die. The dash displays a message that says must \"manually restart\".  So then you have ",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Happening within the first few weeks of purchase from new in November 2022.  Delay and wildly inconsistent acceleration from a stop.  This is most noticeable within the first 10 minutes of driving and is much worse when cold.  Often, when accelerating from a stop, the vehicle doe",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On [XXX], I took this vehicle to Galpin VW for service on the collision warning system which began to malfunction on a daily basis and would spontaneously come on multiple times throughout the day, without any other vehicles in front of me nor around me.  The service advisor at t",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle stutters or hesitates when accelerating from a stop.  This is even more prevalent when the car has first been started.  This is a major safety issue as when my family is pulling out into traffic the car just lurches forward initially before then finally just taking of",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Volkswagen Tiguan owners report most",
+    "summary": "Across 57 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehical when engine is cold. Has delays and lags. I didn't think much of it when I first bought it, I assumed the computer was trying to learn. Well car has 12000 miles on it and still does it  I've been to the dealer several times. They have told me this is normal?. Until I ",
+        "pct": 32,
+        "title": "Engine",
+        "blurb": "18 reports (32%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new VW Tiguan. The start stop system has failed since a month after I bought it.  When I am stopped at a stoplight, stop sign or in traffic, often the vehicle will completely shut off and die. The dash displays a message that says must \"manually restart\".  So then you have ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "10 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Happening within the first few weeks of purchase from new in November 2022.  Delay and wildly inconsistent acceleration from a stop.  This is most noticeable within the first 10 minutes of driving and is much worse when cold.  Often, when accelerating from a stop, the vehicle doe",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "7 reports (12%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On [XXX], I took this vehicle to Galpin VW for service on the collision warning system which began to malfunction on a daily basis and would spontaneously come on multiple times throughout the day, without any other vehicles in front of me nor around me.  The service advisor at t",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (12%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle stutters or hesitates when accelerating from a stop.  This is even more prevalent when the car has first been started.  This is a major safety issue as when my family is pulling out into traffic the car just lurches forward initially before then finally just taking of",
+        "pct": 9,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (9%)"
+      }
+    ]
+  }
+}

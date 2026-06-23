@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-versa",
+  "make": "Nissan",
+  "model": "Versa",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/VERSA#complaints",
+  "generatedAt": "2026-06-23T16:39:35.529Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've owned this car less than a month and this has happened to me twice. I start to drive the car and experience a severe loss of power. The accelerator is pushed to the floor and the car barely moves. This happened when I was attempting to pass another vehicle. Could have had di",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This manual car puts itself into limp mode any time the engine is killed (If you drop the clutch too quickly because it is a manual transmission) while driving it. Once it is in limp mode (restricted speed and power to protect the engine) it must be pulled over and turned off for",
+      "pct": 29
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issue that I am experiencing has been intermittent, however it seems to be a safety concern that Nissan is not taking seriously. As I am driving at any speed with no cars around me the car collision icon will come on and flash as well as the front portion of the car in the ad",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've owned this car less than a month and this has happened to me twice. I start to drive the car and experience a severe loss of power. The accelerator is pushed to the floor and the car barely moves. This happened when I was attempting to pass another vehicle. Could have had di",
+      "pct": 18
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I brought this car in August 2022 and now out of no where the rear breaking collision system is randomly malfunctioning. There will be nothing near my vehicle or in the line of sight and when you reverse it just slams on breaks and will continue to doo so very few seconds causing",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Nissan Versa owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Power Train (29% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've owned this car less than a month and this has happened to me twice. I start to drive the car and experience a severe loss of power. The accelerator is pushed to the floor and the car barely moves. This happened when I was attempting to pass another vehicle. Could have had di",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "5 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This manual car puts itself into limp mode any time the engine is killed (If you drop the clutch too quickly because it is a manual transmission) while driving it. Once it is in limp mode (restricted speed and power to protect the engine) it must be pulled over and turned off for",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "5 reports (29%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issue that I am experiencing has been intermittent, however it seems to be a safety concern that Nissan is not taking seriously. As I am driving at any speed with no cars around me the car collision icon will come on and flash as well as the front portion of the car in the ad",
+        "pct": 18,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've owned this car less than a month and this has happened to me twice. I start to drive the car and experience a severe loss of power. The accelerator is pushed to the floor and the car barely moves. This happened when I was attempting to pass another vehicle. Could have had di",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I brought this car in August 2022 and now out of no where the rear breaking collision system is randomly malfunctioning. There will be nothing near my vehicle or in the line of sight and when you reverse it just slams on breaks and will continue to doo so very few seconds causing",
+        "pct": 12,
+        "title": "Back Over Prevention",
+        "blurb": "2 reports (12%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-elantra",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/ELANTRA#complaints",
+  "generatedAt": "2026-06-23T16:33:15.862Z",
+  "total": 90,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a car on December 24th 2022 and from the day I left off the lot there were electrical signals showing that the car was malfunctioning. I told [XXX] (the dealer) what was taking place and the dealership never called me or tried to assist with any problems. For months t",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1. False Emergency braking when car from back side passing. Today I was driving in the left lane (lane 1) at ~43MPH. There was no vehicle in front of me and I saw a vehicle applying emergency brakes with a message pop up. At the same time there was a small truck passing me from b",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On [XXX], I was driving to a hair appointment and was getting over to the far right lane. Traffic was stop and go and as I merged into the far right lane, the car flashed an “engine off” red light warning and had the words “put in N.” I quickly realized that the car had died on m",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 23V526000 (Power Train) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I purchased a car on December 24th 2022 and from the day I left off the lot there were electrical signals showing that the car was malfunctioning. I told [XXX] (the dealer) what was taking place and the dealership never called me or tried to assist with any problems. For months t",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Elantra owners report most",
+    "summary": "Across 90 owner complaints to NHTSA, the most reported area is Electrical System (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a car on December 24th 2022 and from the day I left off the lot there were electrical signals showing that the car was malfunctioning. I told [XXX] (the dealer) what was taking place and the dealership never called me or tried to assist with any problems. For months t",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "21 reports (23%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1. False Emergency braking when car from back side passing. Today I was driving in the left lane (lane 1) at ~43MPH. There was no vehicle in front of me and I saw a vehicle applying emergency brakes with a message pop up. At the same time there was a small truck passing me from b",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "19 reports (21%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On [XXX], I was driving to a hair appointment and was getting over to the far right lane. Traffic was stop and go and as I merged into the far right lane, the car flashed an “engine off” red light warning and had the words “put in N.” I quickly realized that the car had died on m",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "16 reports (18%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 23V526000 (Power Train) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "9 reports (10%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I purchased a car on December 24th 2022 and from the day I left off the lot there were electrical signals showing that the car was malfunctioning. I told [XXX] (the dealer) what was taking place and the dealership never called me or tried to assist with any problems. For months t",
+        "pct": 9,
+        "title": "Lane Departure",
+        "blurb": "8 reports (9%) · 2 crash · 2 injured"
+      }
+    ]
+  }
+}

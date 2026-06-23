@@ -1,0 +1,106 @@
+{
+  "slug": "2017-nissan-nv200",
+  "make": "Nissan",
+  "model": "NV200",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/NISSAN/NV200#complaints",
+  "generatedAt": "2026-06-23T16:45:36.781Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "GASOLINE WAS DISCOVERED DRIPPING FROM THE UNDERSIDE OF THE MINI CARGO VAN WHILE BOTH PARKED AND IN MOTION.  FURTHER VISUAL INSPECTION REVEALED THAT THE HOSE BETWEEN THE FUEL DOOR ON THE PASSENGER SIDE OF THE VEHICLE AND THE GASOLINE TANK WAS LEAKING.",
+      "pct": 43
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have a fleet of eighteen NV200s. The one that was listed was just repaired on 11/20/23. It had issues with the occupant air bag system. The issues with the air bag system are happening in other NV200s that we own. I believe there is a defect in these vans that could lead to th",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I understand there is a safety recall on other Nissan NV200's with regard to the ignition system. Where my van is not specifically listed in the recall, I have issues with the ignition switch turning and have to juggle it to get it into the start position. It does not instill con",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Open recall called to fix fuel pump assembly due to fuel pump fuse blowing and engine shutting off, which my vehicle did, however I was charged by the dealership to replace fuel pump. Called nissan directly and still didn't get reimbursed 0",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Nissan Nv200 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (43% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "GASOLINE WAS DISCOVERED DRIPPING FROM THE UNDERSIDE OF THE MINI CARGO VAN WHILE BOTH PARKED AND IN MOTION.  FURTHER VISUAL INSPECTION REVEALED THAT THE HOSE BETWEEN THE FUEL DOOR ON THE PASSENGER SIDE OF THE VEHICLE AND THE GASOLINE TANK WAS LEAKING.",
+        "pct": 43,
+        "title": "Fuel/Propulsion System",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have a fleet of eighteen NV200s. The one that was listed was just repaired on 11/20/23. It had issues with the occupant air bag system. The issues with the air bag system are happening in other NV200s that we own. I believe there is a defect in these vans that could lead to th",
+        "pct": 43,
+        "title": "Air Bags",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I understand there is a safety recall on other Nissan NV200's with regard to the ignition system. Where my van is not specifically listed in the recall, I have issues with the ignition switch turning and have to juggle it to get it into the start position. It does not instill con",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Open recall called to fix fuel pump assembly due to fuel pump fuse blowing and engine shutting off, which my vehicle did, however I was charged by the dealership to replace fuel pump. Called nissan directly and still didn't get reimbursed 0",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

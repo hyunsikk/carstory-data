@@ -1,0 +1,128 @@
+{
+  "slug": "2017-smart-fortwo",
+  "make": "smart",
+  "model": "fortwo",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/SMART/FORTWO#complaints",
+  "generatedAt": "2026-06-23T16:46:08.591Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 SMART FORTWO. THE CONTACT STATED THAT THE VEHICLE DID NOT FULLY CHARGE TO THE MANUFACTURER RECOMMENDED MILEAGE RANGE. IN ADDITION, IN COLD WEATHER CONDITIONS, THE MILEAGE OF THE VEHICLE DROPPED APPROXIMATELY 10 MPH ON THE INSTRUMENT PANEL. MERCEDES-BEN",
+      "pct": 44
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Power Electronics Control Unit (ECM), Part No. A453-900-72-11, and the DC-to-DC converter have both failed, rendering this all-electric vehicle completely inoperable. There is no backup propulsion system. The DC-to-DC converter powers safety-critical systems including lightin",
+      "pct": 22
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 SMART FORTWO. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 17V447000 (STEERING); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. M",
+      "pct": 22
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SEAT BELTS DO NOT RETRACT.  THERE WERE COUPLE OF TIMES WHILE IN TRANSIT ON CITY ROAD, I HAD TO APPLY BRAKE SUDDENLY AND SEAT BELT FAIL TO ENGAGE TO HOLD THE PASSENGER BACK .     ALL THE TIME , BOTH SEAT BELTS DO NOT RETRACT TO THEIR HOME POSITION WHEN NOT IN USE AND CAR IS STOPPE",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Power Electronics Control Unit (ECM), Part No. A453-900-72-11, and the DC-to-DC converter have both failed, rendering this all-electric vehicle completely inoperable. There is no backup propulsion system. The DC-to-DC converter powers safety-critical systems including lightin",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Smart Fortwo owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 SMART FORTWO. THE CONTACT STATED THAT THE VEHICLE DID NOT FULLY CHARGE TO THE MANUFACTURER RECOMMENDED MILEAGE RANGE. IN ADDITION, IN COLD WEATHER CONDITIONS, THE MILEAGE OF THE VEHICLE DROPPED APPROXIMATELY 10 MPH ON THE INSTRUMENT PANEL. MERCEDES-BEN",
+        "pct": 44,
+        "title": "Electrical System",
+        "blurb": "4 reports (44%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Power Electronics Control Unit (ECM), Part No. A453-900-72-11, and the DC-to-DC converter have both failed, rendering this all-electric vehicle completely inoperable. There is no backup propulsion system. The DC-to-DC converter powers safety-critical systems including lightin",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 SMART FORTWO. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 17V447000 (STEERING); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. M",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SEAT BELTS DO NOT RETRACT.  THERE WERE COUPLE OF TIMES WHILE IN TRANSIT ON CITY ROAD, I HAD TO APPLY BRAKE SUDDENLY AND SEAT BELT FAIL TO ENGAGE TO HOLD THE PASSENGER BACK .     ALL THE TIME , BOTH SEAT BELTS DO NOT RETRACT TO THEIR HOME POSITION WHEN NOT IN USE AND CAR IS STOPPE",
+        "pct": 22,
+        "title": "Seat Belts",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Power Electronics Control Unit (ECM), Part No. A453-900-72-11, and the DC-to-DC converter have both failed, rendering this all-electric vehicle completely inoperable. There is no backup propulsion system. The DC-to-DC converter powers safety-critical systems including lightin",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

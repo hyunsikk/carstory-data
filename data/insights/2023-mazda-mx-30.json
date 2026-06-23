@@ -1,0 +1,62 @@
+{
+  "slug": "2023-mazda-mx-30",
+  "make": "Mazda",
+  "model": "MX-30",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/MAZDA/MX-30#complaints",
+  "generatedAt": "2026-06-23T16:45:27.016Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving on ice the car mistakes a lack of steering resistance for hands being off the wheel (especially when both hands are on the wheel providing even resistance to both sides). It will sound an alarm and jerk the wheel to the side to get the driver's attention, but that si",
+      "pct": 100
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving on ice the car mistakes a lack of steering resistance for hands being off the wheel (especially when both hands are on the wheel providing even resistance to both sides). It will sound an alarm and jerk the wheel to the side to get the driver's attention, but that si",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Mazda Mx-30 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Steering (100% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving on ice the car mistakes a lack of steering resistance for hands being off the wheel (especially when both hands are on the wheel providing even resistance to both sides). It will sound an alarm and jerk the wheel to the side to get the driver's attention, but that si",
+        "pct": 100,
+        "title": "Steering",
+        "blurb": "1 report (100%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving on ice the car mistakes a lack of steering resistance for hands being off the wheel (especially when both hands are on the wheel providing even resistance to both sides). It will sound an alarm and jerk the wheel to the side to get the driver's attention, but that si",
+        "pct": 100,
+        "title": "Lane Departure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

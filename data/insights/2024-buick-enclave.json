@@ -1,0 +1,128 @@
+{
+  "slug": "2024-buick-enclave",
+  "make": "Buick",
+  "model": "Enclave",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BUICK/ENCLAVE#complaints",
+  "generatedAt": "2026-06-23T16:27:19.246Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING ON THE INTERSTATE AT APPROX. 70 MPH WHEN THE VEHICLE MADE A LURCH FORWARD MOTION. THE VEHICLE LOST POWER.WE WERE NEAR A EXIT RAMP AND COAST TO THE INTERSECTION. VEHICLE WOULD START BUT WOULD NOT SHIFT OUT OF PARK. WE COULD NOT MOVE THE VEHICLE. IT WOULD NOT EVEN GO INTO N",
+      "pct": 29
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Motor vehicle accident 12/9/2023 in which I was struck from behind by fast moving vehicle, and forced into vehicle directly in front of my vehicle.  No driver airbag deployment, nor did my seatbelt lock, as verified by responding officer.",
+      "pct": 29
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After sitting in a parking lot for 6 days the radio receiver assembly (infotainment control module / head unit) in my 2024 Buick Enclave completely failed with a \"no power\" condition. The screen is blank, there is no audio output, no response to any controls, and the system does ",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I own a 2024 Buick Enclave Avenir the steering wheel has a Whining Noise when vehicle is in motion or standing when turning the steering wheel. The Air Bag is in the steering wheel I am concerned if there is a problem with the steering wheel if the Air Bag could eject from the st",
+      "pct": 14
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple times I have been driving along at interstate speed when the mirrors retracted in to the windows of their own volition without the pressing of the button.  I contacted Nimnicht GMC and scheduled a service for [XXX] of 2024  at their Phillips Highway location in Jacksonvi",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Buick Enclave owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Engine (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING ON THE INTERSTATE AT APPROX. 70 MPH WHEN THE VEHICLE MADE A LURCH FORWARD MOTION. THE VEHICLE LOST POWER.WE WERE NEAR A EXIT RAMP AND COAST TO THE INTERSECTION. VEHICLE WOULD START BUT WOULD NOT SHIFT OUT OF PARK. WE COULD NOT MOVE THE VEHICLE. IT WOULD NOT EVEN GO INTO N",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Motor vehicle accident 12/9/2023 in which I was struck from behind by fast moving vehicle, and forced into vehicle directly in front of my vehicle.  No driver airbag deployment, nor did my seatbelt lock, as verified by responding officer.",
+        "pct": 29,
+        "title": "Seat Belts",
+        "blurb": "2 reports (29%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After sitting in a parking lot for 6 days the radio receiver assembly (infotainment control module / head unit) in my 2024 Buick Enclave completely failed with a \"no power\" condition. The screen is blank, there is no audio output, no response to any controls, and the system does ",
+        "pct": 14,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I own a 2024 Buick Enclave Avenir the steering wheel has a Whining Noise when vehicle is in motion or standing when turning the steering wheel. The Air Bag is in the steering wheel I am concerned if there is a problem with the steering wheel if the Air Bag could eject from the st",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple times I have been driving along at interstate speed when the mirrors retracted in to the windows of their own volition without the pressing of the button.  I contacted Nimnicht GMC and scheduled a service for [XXX] of 2024  at their Phillips Highway location in Jacksonvi",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

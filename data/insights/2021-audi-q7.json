@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-q7",
+  "make": "Audi",
+  "model": "Q7",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/Q7#complaints",
+  "generatedAt": "2026-06-23T16:26:07.448Z",
+  "total": 66,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 40,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I pulled out of the gym after using my key FOB to unlock and start vehicle.  Got a warning asking if Key was in the car, it was, and warning went away.  A 1/4 mile later, while the car was in drive and idle at a red light, the car completely shut/locked down and alarm started bla",
+      "pct": 61
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I pulled out of the gym after using my key FOB to unlock and start vehicle.  Got a warning asking if Key was in the car, it was, and warning went away.  A 1/4 mile later, while the car was in drive and idle at a red light, the car completely shut/locked down and alarm started bla",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi Q7. The contact stated that while driving approximately 50 MPH, the vehicle came to an abrupt stop. The contact went forward and sustained a concussion, and blurred vision and medical attention was provided. The emergency brake malfunction message was",
+      "pct": 11
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The instrument cluster failed as was reported in a previous recall. This failure was caused by a hardware problem which was fixed via a software update. Unfortunately, the hardware (instrument cluster) has already been compromised and warning lights are all lit up and some warnin",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving the vehicle, error messages began appearing on the in-panel dashboard display. At first, a yellow/orange battery icon appeared with the message \"Electrical system: malfunction! Please contact Service\". Within an hour, the car experienced another electrical system ma",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi Q7 owners report most",
+    "summary": "Across 66 owner complaints to NHTSA, the most reported area is Electrical System (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 40,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I pulled out of the gym after using my key FOB to unlock and start vehicle.  Got a warning asking if Key was in the car, it was, and warning went away.  A 1/4 mile later, while the car was in drive and idle at a red light, the car completely shut/locked down and alarm started bla",
+        "pct": 61,
+        "title": "Electrical System",
+        "blurb": "40 reports (61%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I pulled out of the gym after using my key FOB to unlock and start vehicle.  Got a warning asking if Key was in the car, it was, and warning went away.  A 1/4 mile later, while the car was in drive and idle at a red light, the car completely shut/locked down and alarm started bla",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "15 reports (23%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi Q7. The contact stated that while driving approximately 50 MPH, the vehicle came to an abrupt stop. The contact went forward and sustained a concussion, and blurred vision and medical attention was provided. The emergency brake malfunction message was",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (11%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The instrument cluster failed as was reported in a previous recall. This failure was caused by a hardware problem which was fixed via a software update. Unfortunately, the hardware (instrument cluster) has already been compromised and warning lights are all lit up and some warnin",
+        "pct": 8,
+        "title": "Back Over Prevention",
+        "blurb": "5 reports (8%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving the vehicle, error messages began appearing on the in-panel dashboard display. At first, a yellow/orange battery icon appeared with the message \"Electrical system: malfunction! Please contact Service\". Within an hour, the car experienced another electrical system ma",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "5 reports (8%) · 2 crash · 1 injured"
+      }
+    ]
+  }
+}

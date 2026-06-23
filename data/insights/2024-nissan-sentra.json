@@ -1,0 +1,128 @@
+{
+  "slug": "2024-nissan-sentra",
+  "make": "Nissan",
+  "model": "Sentra",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/NISSAN/SENTRA#complaints",
+  "generatedAt": "2026-06-23T16:39:31.130Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "As I was straightening my steering wheel, from a left turn into my driveway, I heard, about half a dozen, very loud, banging noises, coming from the front of my vehicle. This was so loud, that I heard it over the noise of my audio, playing fairly loud, to begin with. This, couple",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I had this car for seven months and in June 13,2024 car failed and caused accident.Prior to the accident the car was shutting off in traffic .Then June 13,2024 caused accident when going to work Car lost control due to computer issues.My vehicle camera and reporter recorded the w",
+      "pct": 23
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "To the best of my knowledg  The front LH drive shaft came off the transaxle case leaving me no power of steering or breaking forcing me into the center divider. if this happened on a freeway driving speed limit or a busy street the accident would be fatal. Problem has been confir",
+      "pct": 23
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Started having problems within first two months of purchase, bought new in April 24. Charge ports stopped working. Also reported to dealer electric burn smell. Hesitate to start/stop with push button. Feels like loses power while driving. Rpms revs unexpectedly. Almost wrecked a ",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "1) While driving at 35 MPH with cruise control on, upon approaching an intersection with a red traffic light on, pushing the brake did not affect the vehicle at all.  After going through the red light (divided roadway at intersection) and making a fast-moving right turn, pressing",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Nissan Sentra owners report most",
+    "summary": "Across 30 owner complaints to NHTSA, the most reported area is Steering (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "As I was straightening my steering wheel, from a left turn into my driveway, I heard, about half a dozen, very loud, banging noises, coming from the front of my vehicle. This was so loud, that I heard it over the noise of my audio, playing fairly loud, to begin with. This, couple",
+        "pct": 27,
+        "title": "Steering",
+        "blurb": "8 reports (27%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I had this car for seven months and in June 13,2024 car failed and caused accident.Prior to the accident the car was shutting off in traffic .Then June 13,2024 caused accident when going to work Car lost control due to computer issues.My vehicle camera and reporter recorded the w",
+        "pct": 23,
+        "title": "Electrical System",
+        "blurb": "7 reports (23%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "To the best of my knowledg  The front LH drive shaft came off the transaxle case leaving me no power of steering or breaking forcing me into the center divider. if this happened on a freeway driving speed limit or a busy street the accident would be fatal. Problem has been confir",
+        "pct": 23,
+        "title": "Suspension",
+        "blurb": "7 reports (23%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Started having problems within first two months of purchase, bought new in April 24. Charge ports stopped working. Also reported to dealer electric burn smell. Hesitate to start/stop with push button. Feels like loses power while driving. Rpms revs unexpectedly. Almost wrecked a ",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "7 reports (23%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "1) While driving at 35 MPH with cruise control on, upon approaching an intersection with a red traffic light on, pushing the brake did not affect the vehicle at all.  After going through the red light (divided roadway at intersection) and making a fast-moving right turn, pressing",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "4 reports (13%) · 1 crash · 1 injured"
+      }
+    ]
+  }
+}

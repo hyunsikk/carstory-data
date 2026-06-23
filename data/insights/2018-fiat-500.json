@@ -1,0 +1,106 @@
+{
+  "slug": "2018-fiat-500",
+  "make": "Fiat",
+  "model": "500",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/FIAT/500#complaints",
+  "generatedAt": "2026-06-23T16:42:42.180Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint",
+      "pct": 20
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Fiat 500. The contact took the vehicle to the local dealer and was informed that the lug nuts needed to be replaced. The vehicle was not repaired. The contact took the vehicle to a tire shop and was informed that the lug nuts needed to be shattered to be r",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR HAS 12XXX MILES ON IT - 80% OF WHICH BEING FREEWAY MILES.  BROUGHT INTO THE DEALER TODAY FOR A COMPLAINT OF THE CAR DIVING TO THE RIGHT WHEN THE BRAKES ARE APPLIED AGGRESSIVELY AT THOSE SPEEDS.  DISCS, PADS, AND CALIPERS ALL FOUND TO BE IN PERFECT CONDITION.  INTERNET FORUMS ",
+      "pct": 20
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUT THE CAR AND WAS CLEANING THE SEATS (I'M A SMOKER SO WIPING THE ASHES OFF) AND NOTICED A DEPRESSION/INDENTATION IN THE DRIVER SEAT AND PASSENGER SEAT AS WELL AS A PLASTIC CORD INDER THE SEAT COVER ON THE PASSENGER SIDE. HAD THE DEALERSHIP LOOK AT IT AND THEY SAID THEY WOULD F",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Fiat 500 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Visibility (20% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint",
+        "pct": 20,
+        "title": "Visibility",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Fiat 500. The contact took the vehicle to the local dealer and was informed that the lug nuts needed to be replaced. The vehicle was not repaired. The contact took the vehicle to a tire shop and was informed that the lug nuts needed to be shattered to be r",
+        "pct": 20,
+        "title": "Wheels",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR HAS 12XXX MILES ON IT - 80% OF WHICH BEING FREEWAY MILES.  BROUGHT INTO THE DEALER TODAY FOR A COMPLAINT OF THE CAR DIVING TO THE RIGHT WHEN THE BRAKES ARE APPLIED AGGRESSIVELY AT THOSE SPEEDS.  DISCS, PADS, AND CALIPERS ALL FOUND TO BE IN PERFECT CONDITION.  INTERNET FORUMS ",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "1 report (20%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUT THE CAR AND WAS CLEANING THE SEATS (I'M A SMOKER SO WIPING THE ASHES OFF) AND NOTICED A DEPRESSION/INDENTATION IN THE DRIVER SEAT AND PASSENGER SEAT AS WELL AS A PLASTIC CORD INDER THE SEAT COVER ON THE PASSENGER SIDE. HAD THE DEALERSHIP LOOK AT IT AND THEY SAID THEY WOULD F",
+        "pct": 20,
+        "title": "Seats",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

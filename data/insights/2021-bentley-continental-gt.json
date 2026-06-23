@@ -1,0 +1,62 @@
+{
+  "slug": "2021-bentley-continental-gt",
+  "make": "Bentley",
+  "model": "Continental GT",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BENTLEY/CONTINENTAL%20GT#complaints",
+  "generatedAt": "2026-06-23T16:46:17.367Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "SEATS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Bentley Continental GT. The contact stated that an occupant was trapped in the rear seat of the vehicle. The contact called the local dealer, but the vehicle was not diagnosed or repaired. The contact stated the failure was related to NHTSA Campaign Number",
+      "pct": 67
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On December 2, 2025 I was  driving on interstate 26, and warning lights came on, at the same time steering locked up and was I unable to steer. I did manage to slowly leave right lane, about 200 yards, and enter shoulder.  I turned off and restarted  many times and finally the st",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bentley Continental Gt owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Seats (67% of reports).",
+    "issues": [
+      {
+        "component": "SEATS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Bentley Continental GT. The contact stated that an occupant was trapped in the rear seat of the vehicle. The contact called the local dealer, but the vehicle was not diagnosed or repaired. The contact stated the failure was related to NHTSA Campaign Number",
+        "pct": 67,
+        "title": "Seats",
+        "blurb": "2 reports (67%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On December 2, 2025 I was  driving on interstate 26, and warning lights came on, at the same time steering locked up and was I unable to steer. I did manage to slowly leave right lane, about 200 yards, and enter shoulder.  I turned off and restarted  many times and finally the st",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

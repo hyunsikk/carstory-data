@@ -1,0 +1,128 @@
+{
+  "slug": "2021-toyota-prius",
+  "make": "Toyota",
+  "model": "Prius",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/PRIUS#complaints",
+  "generatedAt": "2026-06-23T16:41:26.605Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CARBON MONOXIDE SEEPS INTO THE PASSENGER CAR BUT DILLER CANNOT FIND IT AND DID NOT HAVE TOOLS TO DETECT CO LEVEL IN THE CAR. I CAN'T USE THIS CAR BECAUSE WAS POISONED MANY TIMES AND AFTER A SECOND CHECK-UP, THE LEVEL OF CO BECOMES HIGHER SO I CAN'T DRIVE THE CAR WITHOUT POISONING",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CARBON MONOXIDE SEEPS INTO THE PASSENGER CAR BUT DILLER CANNOT FIND IT AND DID NOT HAVE TOOLS TO DETECT CO LEVEL IN THE CAR. I CAN'T USE THIS CAR BECAUSE WAS POISONED MANY TIMES AND AFTER A SECOND CHECK-UP, THE LEVEL OF CO BECOMES HIGHER SO I CAN'T DRIVE THE CAR WITHOUT POISONING",
+      "pct": 33
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Toyota Prius. The contact stated while driving approximately 35 - 45 MPH, the vehicle independently accelerated. The brake pedal was depressed but failed to stop the vehicle immediately. The contact swerved around the vehicle in front and ended up on the o",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Lane keeping assist used in radar cruise control mode during some drive cycles will attempt to maintain the vehicle position to the far extreme of the lane and in some cases actively veer out of the lane. My safety ant others can be put at risk when the vehicle behaves outsid",
+      "pct": 17
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Lane keeping assist used in radar cruise control mode during some drive cycles will attempt to maintain the vehicle position to the far extreme of the lane and in some cases actively veer out of the lane. My safety ant others can be put at risk when the vehicle behaves outsid",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Toyota Prius owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CARBON MONOXIDE SEEPS INTO THE PASSENGER CAR BUT DILLER CANNOT FIND IT AND DID NOT HAVE TOOLS TO DETECT CO LEVEL IN THE CAR. I CAN'T USE THIS CAR BECAUSE WAS POISONED MANY TIMES AND AFTER A SECOND CHECK-UP, THE LEVEL OF CO BECOMES HIGHER SO I CAN'T DRIVE THE CAR WITHOUT POISONING",
+        "pct": 33,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CARBON MONOXIDE SEEPS INTO THE PASSENGER CAR BUT DILLER CANNOT FIND IT AND DID NOT HAVE TOOLS TO DETECT CO LEVEL IN THE CAR. I CAN'T USE THIS CAR BECAUSE WAS POISONED MANY TIMES AND AFTER A SECOND CHECK-UP, THE LEVEL OF CO BECOMES HIGHER SO I CAN'T DRIVE THE CAR WITHOUT POISONING",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "2 reports (33%) · 1 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Toyota Prius. The contact stated while driving approximately 35 - 45 MPH, the vehicle independently accelerated. The brake pedal was depressed but failed to stop the vehicle immediately. The contact swerved around the vehicle in front and ended up on the o",
+        "pct": 17,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Lane keeping assist used in radar cruise control mode during some drive cycles will attempt to maintain the vehicle position to the far extreme of the lane and in some cases actively veer out of the lane. My safety ant others can be put at risk when the vehicle behaves outsid",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Lane keeping assist used in radar cruise control mode during some drive cycles will attempt to maintain the vehicle position to the far extreme of the lane and in some cases actively veer out of the lane. My safety ant others can be put at risk when the vehicle behaves outsid",
+        "pct": 17,
+        "title": "Lane Departure",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

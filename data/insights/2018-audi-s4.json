@@ -1,0 +1,128 @@
+{
+  "slug": "2018-audi-s4",
+  "make": "Audi",
+  "model": "S4",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/AUDI/S4#complaints",
+  "generatedAt": "2026-06-23T16:43:05.542Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN DRIVING IN MANUAL MODE AND TRANSITION FROM ON THE THROTTLE TO OFF-THROTTLE, THERE IS A 1-2 SECOND DELAY BEFORE THE ENGINE STOPS ACCELERATING AND TRANSITIONS TO DECELERATION.  ESPECIALLY IN FIRST GEAR, THIS MEANS THAT THE VEHICLE CONTINUES TO ACCELERATE FOR THAT PERIOD OF TIM",
+      "pct": 57
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Audi Dealer inspection revealed Rear spring is broken and mounts are deteriorating.  Dealer states not common and would result in accident if not repaired.  Research indicates broken springs common with certain Audi vehicles (A4/S4, Q5 & Q7), especially 2018 model year. See Audi ",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE'S PRE SENSE AUTO-BRAKING AND BRAKING ALERT JOLT HAS BEEN ACTIVATING ERRONEOUSLY AND HAVE ALMOST CAUSED ACCIDENTS AT SPEED.  THE SYSTEM CANNOT BE PERMANENTLY DISABLED, IT DEACTIVATES UPON IGNITION RESTART.  THE SYSTEM HAS ERRONEOUSLY AND AGGRESSIVELY JOLTED THE BREAKS ",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE ARE TWO LARGE \"UNDERRIDE GUARD\" PANELS ON THE UNDERSIDE OF THE VEHICLE THAT ARE FASTENED BY SMALL, LOOSE-FITTING PLASTIC CLIPS. THERE IS ALSO FELT SOUND-DEADENING MATERIAL ON THE EXTERIOR SIDE OF THIS PANEL. WHEN THE VEHICLE IS DRIVEN IN RAIN OR SNOW, THE PANEL COLLECTS SNO",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN DRIVING IN MANUAL MODE AND TRANSITION FROM ON THE THROTTLE TO OFF-THROTTLE, THERE IS A 1-2 SECOND DELAY BEFORE THE ENGINE STOPS ACCELERATING AND TRANSITIONS TO DECELERATION.  ESPECIALLY IN FIRST GEAR, THIS MEANS THAT THE VEHICLE CONTINUES TO ACCELERATE FOR THAT PERIOD OF TIM",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Audi S4 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Engine (57% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN DRIVING IN MANUAL MODE AND TRANSITION FROM ON THE THROTTLE TO OFF-THROTTLE, THERE IS A 1-2 SECOND DELAY BEFORE THE ENGINE STOPS ACCELERATING AND TRANSITIONS TO DECELERATION.  ESPECIALLY IN FIRST GEAR, THIS MEANS THAT THE VEHICLE CONTINUES TO ACCELERATE FOR THAT PERIOD OF TIM",
+        "pct": 57,
+        "title": "Engine",
+        "blurb": "4 reports (57%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Audi Dealer inspection revealed Rear spring is broken and mounts are deteriorating.  Dealer states not common and would result in accident if not repaired.  Research indicates broken springs common with certain Audi vehicles (A4/S4, Q5 & Q7), especially 2018 model year. See Audi ",
+        "pct": 14,
+        "title": "Suspension",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE'S PRE SENSE AUTO-BRAKING AND BRAKING ALERT JOLT HAS BEEN ACTIVATING ERRONEOUSLY AND HAVE ALMOST CAUSED ACCIDENTS AT SPEED.  THE SYSTEM CANNOT BE PERMANENTLY DISABLED, IT DEACTIVATES UPON IGNITION RESTART.  THE SYSTEM HAS ERRONEOUSLY AND AGGRESSIVELY JOLTED THE BREAKS ",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE ARE TWO LARGE \"UNDERRIDE GUARD\" PANELS ON THE UNDERSIDE OF THE VEHICLE THAT ARE FASTENED BY SMALL, LOOSE-FITTING PLASTIC CLIPS. THERE IS ALSO FELT SOUND-DEADENING MATERIAL ON THE EXTERIOR SIDE OF THIS PANEL. WHEN THE VEHICLE IS DRIVEN IN RAIN OR SNOW, THE PANEL COLLECTS SNO",
+        "pct": 14,
+        "title": "Structure",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN DRIVING IN MANUAL MODE AND TRANSITION FROM ON THE THROTTLE TO OFF-THROTTLE, THERE IS A 1-2 SECOND DELAY BEFORE THE ENGINE STOPS ACCELERATING AND TRANSITIONS TO DECELERATION.  ESPECIALLY IN FIRST GEAR, THIS MEANS THAT THE VEHICLE CONTINUES TO ACCELERATE FOR THAT PERIOD OF TIM",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

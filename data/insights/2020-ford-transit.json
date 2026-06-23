@@ -1,0 +1,128 @@
+{
+  "slug": "2020-ford-transit",
+  "make": "Ford",
+  "model": "Transit",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/FORD/TRANSIT#complaints",
+  "generatedAt": "2026-06-23T16:30:54.313Z",
+  "total": 81,
+  "issues": [
+    {
+      "component": "SEATS",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "NOTICED THAT A PUMP (FUEL???) WAS CYCLING ON WHEN DRIVER DOOR WAS OPENED AND WHEN KEY WAS INSERTED IN IGNITION. PARKING LIGHTS ALSO TURN ON WHEN DOOR IS OPENED. THE PUMP HAS ALSO CYCLED ON FOR NO APPARENT REASON AFTER ENGINE HAS BEEN TURNED OFF. CHECKED BATTERY WHICH IS LOCATED U",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "DRIVING VEHICLE ON THE ROAD AND EXPERIENCE TRANSMISSION SLIPPING, ABOUT AN HOUR LATER IT STARTED MAKING WHINING NOISE, THEN GEAR SHIFTED AND VEHICLE SKID. STARTED MAKING LIGHT GRINDING NOISE WHILE SHIFTING GEARS. AFTER COOLING, VAN WOULD SHIFT GEARS BUT NOT MOVE, INCLUDING REVERS",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "NOTICED THAT A PUMP (FUEL???) WAS CYCLING ON WHEN DRIVER DOOR WAS OPENED AND WHEN KEY WAS INSERTED IN IGNITION. PARKING LIGHTS ALSO TURN ON WHEN DOOR IS OPENED. THE PUMP HAS ALSO CYCLED ON FOR NO APPARENT REASON AFTER ENGINE HAS BEEN TURNED OFF. CHECKED BATTERY WHICH IS LOCATED U",
+      "pct": 16
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "UPON STARTING THE VEHICLE IN THE DRIVEWAY A STEERING ASSIST WARNING SHOWED IN THE VEHICLE INFORMATION AREA. IT WAS STATIONARY. THE POWER STEERING DID NOT FUNCTION AND THE STEERING WHEEL WAS EXTREMELY DIFFICULT TO TURN.  NEXT DAY STARTED VEHICLE WITHOUT STEERING ASSIST WARNING APP",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We own a fleet of these vans and 5 out of the last 7 purchased from 2020-2023 have had total rear brake system failure.  The calipers are not retracting and are overheating and freezing up the rear brake system.  In some cases leaving our employee(s) stranded on the side of the r",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Ford Transit owners report most",
+    "summary": "Across 81 owner complaints to NHTSA, the most reported area is Seats (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SEATS",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "NOTICED THAT A PUMP (FUEL???) WAS CYCLING ON WHEN DRIVER DOOR WAS OPENED AND WHEN KEY WAS INSERTED IN IGNITION. PARKING LIGHTS ALSO TURN ON WHEN DOOR IS OPENED. THE PUMP HAS ALSO CYCLED ON FOR NO APPARENT REASON AFTER ENGINE HAS BEEN TURNED OFF. CHECKED BATTERY WHICH IS LOCATED U",
+        "pct": 33,
+        "title": "Seats",
+        "blurb": "27 reports (33%) · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "DRIVING VEHICLE ON THE ROAD AND EXPERIENCE TRANSMISSION SLIPPING, ABOUT AN HOUR LATER IT STARTED MAKING WHINING NOISE, THEN GEAR SHIFTED AND VEHICLE SKID. STARTED MAKING LIGHT GRINDING NOISE WHILE SHIFTING GEARS. AFTER COOLING, VAN WOULD SHIFT GEARS BUT NOT MOVE, INCLUDING REVERS",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "17 reports (21%) · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "NOTICED THAT A PUMP (FUEL???) WAS CYCLING ON WHEN DRIVER DOOR WAS OPENED AND WHEN KEY WAS INSERTED IN IGNITION. PARKING LIGHTS ALSO TURN ON WHEN DOOR IS OPENED. THE PUMP HAS ALSO CYCLED ON FOR NO APPARENT REASON AFTER ENGINE HAS BEEN TURNED OFF. CHECKED BATTERY WHICH IS LOCATED U",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "13 reports (16%) · 3 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "UPON STARTING THE VEHICLE IN THE DRIVEWAY A STEERING ASSIST WARNING SHOWED IN THE VEHICLE INFORMATION AREA. IT WAS STATIONARY. THE POWER STEERING DID NOT FUNCTION AND THE STEERING WHEEL WAS EXTREMELY DIFFICULT TO TURN.  NEXT DAY STARTED VEHICLE WITHOUT STEERING ASSIST WARNING APP",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "6 reports (7%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We own a fleet of these vans and 5 out of the last 7 purchased from 2020-2023 have had total rear brake system failure.  The calipers are not retracting and are overheating and freezing up the rear brake system.  In some cases leaving our employee(s) stranded on the side of the r",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "5 reports (6%)"
+      }
+    ]
+  }
+}

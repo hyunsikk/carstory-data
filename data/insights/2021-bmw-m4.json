@@ -1,0 +1,40 @@
+{
+  "slug": "2021-bmw-m4",
+  "make": "BMW",
+  "model": "M4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/M4#complaints",
+  "generatedAt": "2026-06-23T16:43:58.369Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle brake very very loudly. BMw claims this is normal, this is not true. Vehicle has extremely low miles and performs bad when braking.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw M4 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle brake very very loudly. BMw claims this is normal, this is not true. Vehicle has extremely low miles and performs bad when braking.",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

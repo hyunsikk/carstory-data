@@ -1,0 +1,128 @@
+{
+  "slug": "2023-toyota-tacoma",
+  "make": "Toyota",
+  "model": "Tacoma",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TOYOTA/TACOMA#complaints",
+  "generatedAt": "2026-06-23T16:41:30.501Z",
+  "total": 47,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This Toyota Tacoma's soy based wiring attracts rodents and I have had to have repairs for the wiring.  My  2 other older vehicles in the same location that does not have the soy based wiring there no problem.  This is a world wide issue and no one has done nothing about. This is ",
+      "pct": 21
+    },
+    {
+      "component": "STEERING",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Experience steering wheel vibrations between speeds of 60 mph and 80 mph - have taken vehicle to dealership and they have confirmed problem but said it was a characteristic condition of the suspension on vehicle. It is highly distracting when operating a motor vehicle at freeway ",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Wiring harness on the vehicle is being completely replaced due to \"rodent damage\" according to the dealer. I am not an automotive engineer but if compromised wiring finally fails while driving I suspect a number of systems could be affected. There was no indication of this proble",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 7,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "My vehicle was T-boned while driving through an intersection. After being hit, my vehicle continued moving forward, but the brakes would not engage or work.  I pressed them several times and as firmly as possible, but the vehicle would not stop or slow down. As I approached a nea",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received a recall notice saying that welding debris on the rear axle could cause bolts to loosen resulting in parts falling off the truck and crashing. I have called servco Toyota Honolulu service department 3 separate times. Talked to a number of managers and representatives. ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Toyota Tacoma owners report most",
+    "summary": "Across 47 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This Toyota Tacoma's soy based wiring attracts rodents and I have had to have repairs for the wiring.  My  2 other older vehicles in the same location that does not have the soy based wiring there no problem.  This is a world wide issue and no one has done nothing about. This is ",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "10 reports (21%) · 1 fire"
+      },
+      {
+        "component": "STEERING",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Experience steering wheel vibrations between speeds of 60 mph and 80 mph - have taken vehicle to dealership and they have confirmed problem but said it was a characteristic condition of the suspension on vehicle. It is highly distracting when operating a motor vehicle at freeway ",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "8 reports (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Wiring harness on the vehicle is being completely replaced due to \"rodent damage\" according to the dealer. I am not an automotive engineer but if compromised wiring finally fails while driving I suspect a number of systems could be affected. There was no indication of this proble",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "8 reports (17%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 7,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "My vehicle was T-boned while driving through an intersection. After being hit, my vehicle continued moving forward, but the brakes would not engage or work.  I pressed them several times and as firmly as possible, but the vehicle would not stop or slow down. As I approached a nea",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "7 reports (15%) · 4 crash · 3 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received a recall notice saying that welding debris on the rear axle could cause bolts to loosen resulting in parts falling off the truck and crashing. I have called servco Toyota Honolulu service department 3 separate times. Talked to a number of managers and representatives. ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "6 reports (13%)"
+      }
+    ]
+  }
+}

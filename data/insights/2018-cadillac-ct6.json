@@ -1,0 +1,128 @@
+{
+  "slug": "2018-cadillac-ct6",
+  "make": "Cadillac",
+  "model": "CT6",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CADILLAC/CT6#complaints",
+  "generatedAt": "2026-06-23T16:27:40.116Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LOSS OF ALL VEHICLE POWER WHILE TRAVELING ON THE FREEWAY AT HIGHWAY SPEEDS. VEHICLE CHECK ENGINE, POWER LIMITED, AND ELECTRIC MOTOR OVERHEAT WARNING LIGHTS COME ON. THE COMBUSTION ENGINE WILL NOT START, AND BATTERY POWER AVAILABILITY GOES TO ZERO. THIS IS VERY DANGEROUS TO PUBLIC",
+      "pct": 33
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY ENGINE LIGHT IS ON AND THIS IS THE 15TH TIME I HAVE BOUGHT MY CAR IN FOR VARIOUS ENGINE PROBLEMS LIKE ENGINE POWER REDUCED AND OTHER PROBLEMS WITH THIS CAR. THE CAR WOULD JUST STOP IN THE MIDDLE OF THE RIDE OR JERKING AS I DRIVE IT. I HAVE BEEN ON THE HIGHWAY WHEN IT HAS STALL",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY ENGINE LIGHT IS ON AND THIS IS THE 15TH TIME I HAVE BOUGHT MY CAR IN FOR VARIOUS ENGINE PROBLEMS LIKE ENGINE POWER REDUCED AND OTHER PROBLEMS WITH THIS CAR. THE CAR WOULD JUST STOP IN THE MIDDLE OF THE RIDE OR JERKING AS I DRIVE IT. I HAVE BEEN ON THE HIGHWAY WHEN IT HAS STALL",
+      "pct": 33
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yes my car was sold to me with structural damages, and I was told any of this when I purchased it!!!!",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yes my car was sold to me with structural damages, and I was told any of this when I purchased it!!!!",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Cadillac Ct6 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Power Train (33% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LOSS OF ALL VEHICLE POWER WHILE TRAVELING ON THE FREEWAY AT HIGHWAY SPEEDS. VEHICLE CHECK ENGINE, POWER LIMITED, AND ELECTRIC MOTOR OVERHEAT WARNING LIGHTS COME ON. THE COMBUSTION ENGINE WILL NOT START, AND BATTERY POWER AVAILABILITY GOES TO ZERO. THIS IS VERY DANGEROUS TO PUBLIC",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY ENGINE LIGHT IS ON AND THIS IS THE 15TH TIME I HAVE BOUGHT MY CAR IN FOR VARIOUS ENGINE PROBLEMS LIKE ENGINE POWER REDUCED AND OTHER PROBLEMS WITH THIS CAR. THE CAR WOULD JUST STOP IN THE MIDDLE OF THE RIDE OR JERKING AS I DRIVE IT. I HAVE BEEN ON THE HIGHWAY WHEN IT HAS STALL",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY ENGINE LIGHT IS ON AND THIS IS THE 15TH TIME I HAVE BOUGHT MY CAR IN FOR VARIOUS ENGINE PROBLEMS LIKE ENGINE POWER REDUCED AND OTHER PROBLEMS WITH THIS CAR. THE CAR WOULD JUST STOP IN THE MIDDLE OF THE RIDE OR JERKING AS I DRIVE IT. I HAVE BEEN ON THE HIGHWAY WHEN IT HAS STALL",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "3 reports (33%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yes my car was sold to me with structural damages, and I was told any of this when I purchased it!!!!",
+        "pct": 11,
+        "title": "Suspension",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yes my car was sold to me with structural damages, and I was told any of this when I purchased it!!!!",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ram-promaster",
+  "make": "Ram",
+  "model": "ProMaster",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/RAM/PROMASTER#complaints",
+  "generatedAt": "2026-06-23T16:40:24.172Z",
+  "total": 55,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ram Promaster 1500. The contact stated while driving 30 MPH, another vehicle overtook his vehicle and the vehicle experienced phantom braking. The Forward Collision Avoidance warning light was illuminated. Additionally, the contact stated that the odometer",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ram Promaster 2500. The contact stated that while driving at 25 MPH in the rain, the power steering and check engine warning lights illuminated. The contact turned off and restarted the vehicle however, the warning lights remained illuminated. The vehicle ",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Lemon Law Initiated, Chrysler/Mopar Case #[XXX] Support requested for refund of Ram Promaster fleet purchase from Johnson Auto Plaza via [XXX]  Johnson Auto Plaza (originating dealer) 112410 East 136th Brighton, Colorado 80601  [XXX]  06/15/2023 Paonia, Colorado RAM would not tur",
+      "pct": 22
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electronic parking break automatically applies when the vehicle is in gear (drive/reverse) when beginning to drive up or down slopes. This limits drivers ability to control the vehicle when driving up or down hilly terrain. Problem has repeatedly occurred but dealer was not able ",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On November 3, 2023 I was driving the van on the NYS Thruway. I had stopped at a rest area to use the facilities. When I returned to the van about 5 minutes later the vehicle was smoking profusely and objects were falling out of the engine area. By the time i got to the van there",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Ram Promaster owners report most",
+    "summary": "Across 55 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ram Promaster 1500. The contact stated while driving 30 MPH, another vehicle overtook his vehicle and the vehicle experienced phantom braking. The Forward Collision Avoidance warning light was illuminated. Additionally, the contact stated that the odometer",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "14 reports (25%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ram Promaster 2500. The contact stated that while driving at 25 MPH in the rain, the power steering and check engine warning lights illuminated. The contact turned off and restarted the vehicle however, the warning lights remained illuminated. The vehicle ",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "12 reports (22%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Lemon Law Initiated, Chrysler/Mopar Case #[XXX] Support requested for refund of Ram Promaster fleet purchase from Johnson Auto Plaza via [XXX]  Johnson Auto Plaza (originating dealer) 112410 East 136th Brighton, Colorado 80601  [XXX]  06/15/2023 Paonia, Colorado RAM would not tur",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "12 reports (22%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electronic parking break automatically applies when the vehicle is in gear (drive/reverse) when beginning to drive up or down slopes. This limits drivers ability to control the vehicle when driving up or down hilly terrain. Problem has repeatedly occurred but dealer was not able ",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "7 reports (13%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On November 3, 2023 I was driving the van on the NYS Thruway. I had stopped at a rest area to use the facilities. When I returned to the van about 5 minutes later the vehicle was smoking profusely and objects were falling out of the engine area. By the time i got to the van there",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "7 reports (13%) · 1 fire"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-chevrolet-blazer-ev",
+  "make": "Chevrolet",
+  "model": "Blazer EV",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/CHEVROLET/BLAZER%20EV#complaints",
+  "generatedAt": "2026-06-23T16:44:32.933Z",
+  "total": 76,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 23,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 25,
+      "deaths": 0,
+      "sample": "The emergency collision avoidance braking automatically activated for no reason. Twice it happened at highway speed, once at 65 mph, once at 55 mph. On the one occasion we were approaching a highway overpass, it was bright and sunny - I suspect the system saw a shadow that it tho",
+      "pct": 30
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Although the owner's manual specifically states \"When enabled, One-Pedal Driving applies in R (Reverse) and D (Drive). This feature remains enabled until manually disabled by the driver.\"  One pedal drive does not work in reverse.  Car does not creep in reverse like an ICE vehicl",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While this vehicle was in motion the brakes suddenly stopped working. The brake pedal went to the floor with no braking. The screen read brake assist failure. Safety was at risk due to being unable to stop the vehicle until it slowed itself down. This could have resulted in a fat",
+      "pct": 22
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 20,
+      "deaths": 0,
+      "sample": "Wipers, Yes available for inspection  Wipers would not operate regardless of control speed setting while driving on interstate, could not clean windshield and visibility was dangerously diminished The windshield solvent sprayer did NOT work as well  Once I parked, turned off car,",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The High Voltage System failed three separate times within the first 3 months of ownership. Has spent total almost 30 days in the shop getting repairs. It happened at 400 miles, 800 miles, and 2200 miles.  The car was unable to charge, unable to drive at full Highway speeds, and ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Chevrolet Blazer Ev owners report most",
+    "summary": "Across 76 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 23,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 25,
+        "deaths": 0,
+        "sample": "The emergency collision avoidance braking automatically activated for no reason. Twice it happened at highway speed, once at 65 mph, once at 55 mph. On the one occasion we were approaching a highway overpass, it was bright and sunny - I suspect the system saw a shadow that it tho",
+        "pct": 30,
+        "title": "Forward Collision Avoidance",
+        "blurb": "23 reports (30%) · 2 crash · 25 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Although the owner's manual specifically states \"When enabled, One-Pedal Driving applies in R (Reverse) and D (Drive). This feature remains enabled until manually disabled by the driver.\"  One pedal drive does not work in reverse.  Car does not creep in reverse like an ICE vehicl",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "21 reports (28%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While this vehicle was in motion the brakes suddenly stopped working. The brake pedal went to the floor with no braking. The screen read brake assist failure. Safety was at risk due to being unable to stop the vehicle until it slowed itself down. This could have resulted in a fat",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "17 reports (22%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 20,
+        "deaths": 0,
+        "sample": "Wipers, Yes available for inspection  Wipers would not operate regardless of control speed setting while driving on interstate, could not clean windshield and visibility was dangerously diminished The windshield solvent sprayer did NOT work as well  Once I parked, turned off car,",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "10 reports (13%) · 20 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The High Voltage System failed three separate times within the first 3 months of ownership. Has spent total almost 30 days in the shop getting repairs. It happened at 400 miles, 800 miles, and 2200 miles.  The car was unable to charge, unable to drive at full Highway speeds, and ",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (11%)"
+      }
+    ]
+  }
+}

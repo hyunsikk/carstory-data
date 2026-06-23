@@ -1,0 +1,40 @@
+{
+  "slug": "2022-infiniti-q50",
+  "make": "Infiniti",
+  "model": "Q50",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/INFINITI/Q50#complaints",
+  "generatedAt": "2026-06-23T16:34:38.612Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Theft on vehicle.   Thief using remote device to  Unlock my vehicle and steal vehicle without key fob or breaking anything to access vehicle",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Infiniti Q50 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Theft on vehicle.   Thief using remote device to  Unlock my vehicle and steal vehicle without key fob or breaking anything to access vehicle",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

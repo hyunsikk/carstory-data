@@ -1,0 +1,106 @@
+{
+  "slug": "2019-bmw-m5",
+  "make": "BMW",
+  "model": "M5",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/M5#complaints",
+  "generatedAt": "2026-06-23T16:26:49.264Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I actively participate in online F90 forums, and it seems like the coolant expansion tank seems to fail for almost all owners (both pre-LCI and LCI). In many cases, it also damages critical engine components underneath the tank and results in expensive repairs. Indeed, because BM",
+      "pct": 50
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 BMW M5. The contact stated that while driving at an undisclosed speed, the vehicle stalled. The check engine warning light was illuminated. The vehicle was towed. The vehicle was not diagnosed or repaired by an independent mechanic or dealer. The contact r",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine coil and fuel injectors are bad. Injector 8 went bad, followed by 6&7. The next just went bad.   Was told only so many available at dealership because of on going problems.",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine coil and fuel injectors are bad. Injector 8 went bad, followed by 6&7. The next just went bad.   Was told only so many available at dealership because of on going problems.",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw M5 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Engine (50% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I actively participate in online F90 forums, and it seems like the coolant expansion tank seems to fail for almost all owners (both pre-LCI and LCI). In many cases, it also damages critical engine components underneath the tank and results in expensive repairs. Indeed, because BM",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "4 reports (50%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 BMW M5. The contact stated that while driving at an undisclosed speed, the vehicle stalled. The check engine warning light was illuminated. The vehicle was towed. The vehicle was not diagnosed or repaired by an independent mechanic or dealer. The contact r",
+        "pct": 25,
+        "title": "Engine And Engine Cooling",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine coil and fuel injectors are bad. Injector 8 went bad, followed by 6&7. The next just went bad.   Was told only so many available at dealership because of on going problems.",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine coil and fuel injectors are bad. Injector 8 went bad, followed by 6&7. The next just went bad.   Was told only so many available at dealership because of on going problems.",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

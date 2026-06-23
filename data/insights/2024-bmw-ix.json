@@ -1,0 +1,128 @@
+{
+  "slug": "2024-bmw-ix",
+  "make": "BMW",
+  "model": "iX",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/BMW/IX#complaints",
+  "generatedAt": "2026-06-23T16:26:43.323Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 BMW IX. The contact stated while driving 40 MPH, the vehicle stalled. The contact took the vehicle to the local dealer to be diagnosed; however, the cause of the failure was not yet determined. The vehicle was not repaired. Upon investigation, the contact ",
+      "pct": 42
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "Issue 1-   Car Starts to slowdown on its own when on self-drive mode on freeways – Has happened 3 X  - service center has not be able to reproduce the error but many people on BMW forums has complained about the same in various driving conditions. Ours happened on a straight road",
+      "pct": 29
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I was in the driver's seat in one-pedal driving. The car was stopped. I attempted to move the vehicle up a few feet so the driver in the car behind could reach the microphone to order their meal. When I tapped the gas pedal, the car moved slightly, but the engine revved loudly an",
+      "pct": 26
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 4,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Issue 1-   Car Starts to slowdown on its own when on self-drive mode on freeways – Has happened 3 X  - service center has not be able to reproduce the error but many people on BMW forums has complained about the same in various driving conditions. Ours happened on a straight road",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I started my vehicle with my foot on the brake.  I put the car in reverse, with my foot on the brake.  The car went backwards and hit a parked car.  It was 1 car length behind me.  I didn't take my foot off the brake and I pushed it harder.  The car kept going backwards and I cou",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Bmw Ix owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Electrical System (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 BMW IX. The contact stated while driving 40 MPH, the vehicle stalled. The contact took the vehicle to the local dealer to be diagnosed; however, the cause of the failure was not yet determined. The vehicle was not repaired. Upon investigation, the contact ",
+        "pct": 42,
+        "title": "Electrical System",
+        "blurb": "13 reports (42%) · 2 fire · 2 crash · 3 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "Issue 1-   Car Starts to slowdown on its own when on self-drive mode on freeways – Has happened 3 X  - service center has not be able to reproduce the error but many people on BMW forums has complained about the same in various driving conditions. Ours happened on a straight road",
+        "pct": 29,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (29%) · 1 fire · 6 crash · 7 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I was in the driver's seat in one-pedal driving. The car was stopped. I attempted to move the vehicle up a few feet so the driver in the car behind could reach the microphone to order their meal. When I tapped the gas pedal, the car moved slightly, but the engine revved loudly an",
+        "pct": 26,
+        "title": "Service Brakes",
+        "blurb": "8 reports (26%) · 1 fire · 5 crash · 5 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 4,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Issue 1-   Car Starts to slowdown on its own when on self-drive mode on freeways – Has happened 3 X  - service center has not be able to reproduce the error but many people on BMW forums has complained about the same in various driving conditions. Ours happened on a straight road",
+        "pct": 13,
+        "title": "Back Over Prevention",
+        "blurb": "4 reports (13%) · 3 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I started my vehicle with my foot on the brake.  I put the car in reverse, with my foot on the brake.  The car went backwards and hit a parked car.  It was 1 car length behind me.  I didn't take my foot off the brake and I pushed it harder.  The car kept going backwards and I cou",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "3 reports (10%) · 3 crash · 2 injured"
+      }
+    ]
+  }
+}

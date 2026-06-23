@@ -1,0 +1,128 @@
+{
+  "slug": "2020-mercedes-benz-e-class",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MERCEDES-BENZ/E-CLASS#complaints",
+  "generatedAt": "2026-06-23T16:38:24.631Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On October 2, 2021, car caught fire in the engine compartment while car was turned off under carport of home. Car mileage was 18,000. The car was serviced by Mercedes of Marin and driven approximately 25 miles after the service when incident occurred. No warning lamps or messages",
+      "pct": 30
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE DOOR HINGES ARE DEFECTIVE. WHEN THE DOOR IS OPENED, IT CLOSES TOO QUICKLY. THE DETENTS DO NOT WORK. THEY DO NOT HOLD THE DOOR AJAR. THIS IS A LONG, HEAVY DOOR AND WHEN IT SLAMS SHUT ON YOUR LEG, ANKLE OR FOOT IT REALLY HURTS! THE ONLY WAY TO GET OUT OF THE VEHICLE SAFELY IS T",
+      "pct": 15
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mercedes-Benz E450. The contact stated that while shifted into reverse, the back over prevention camera displayed the rear view of the vehicle for approximately 10-seconds before going black. The back over prevention camera remained open despite failing to",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "PLEASE SEE ATTACHED PDF. IT CONCERNS THE TRUNK OPENING AND CLOSING MECHANISM WHICH IS SUPPOSED TO SIGNAL WHEN SOMETHING IS IN THE WAY BEFORE IT CLOSES. THE TRUNK CLOSED WITHOUT WARNING ON MY HEAD. MERCEDES REFUSES TO DISCONNECT THE TRUNK LATCH FEATURE BECAUSE I WILL NOT SIGN A RE",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mercedes-Benz E350. The contact stated while his wife was driving and stopped at a traffic signal, the gasoline saving START/STOP feature turned off the vehicle however, upon depressing the accelerator pedal, the vehicle failed to restart. The contact stat",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Mercedes-Benz E-Class owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Engine (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On October 2, 2021, car caught fire in the engine compartment while car was turned off under carport of home. Car mileage was 18,000. The car was serviced by Mercedes of Marin and driven approximately 25 miles after the service when incident occurred. No warning lamps or messages",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "6 reports (30%) · 2 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE DOOR HINGES ARE DEFECTIVE. WHEN THE DOOR IS OPENED, IT CLOSES TOO QUICKLY. THE DETENTS DO NOT WORK. THEY DO NOT HOLD THE DOOR AJAR. THIS IS A LONG, HEAVY DOOR AND WHEN IT SLAMS SHUT ON YOUR LEG, ANKLE OR FOOT IT REALLY HURTS! THE ONLY WAY TO GET OUT OF THE VEHICLE SAFELY IS T",
+        "pct": 15,
+        "title": "Structure",
+        "blurb": "3 reports (15%) · 1 injured"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mercedes-Benz E450. The contact stated that while shifted into reverse, the back over prevention camera displayed the rear view of the vehicle for approximately 10-seconds before going black. The back over prevention camera remained open despite failing to",
+        "pct": 15,
+        "title": "Back Over Prevention",
+        "blurb": "3 reports (15%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "PLEASE SEE ATTACHED PDF. IT CONCERNS THE TRUNK OPENING AND CLOSING MECHANISM WHICH IS SUPPOSED TO SIGNAL WHEN SOMETHING IS IN THE WAY BEFORE IT CLOSES. THE TRUNK CLOSED WITHOUT WARNING ON MY HEAD. MERCEDES REFUSES TO DISCONNECT THE TRUNK LATCH FEATURE BECAUSE I WILL NOT SIGN A RE",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "3 reports (15%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mercedes-Benz E350. The contact stated while his wife was driving and stopped at a traffic signal, the gasoline saving START/STOP feature turned off the vehicle however, upon depressing the accelerator pedal, the vehicle failed to restart. The contact stat",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "2 reports (10%)"
+      }
+    ]
+  }
+}

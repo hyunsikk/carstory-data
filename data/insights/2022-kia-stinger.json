@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-stinger",
+  "make": "Kia",
+  "model": "Stinger",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/STINGER#complaints",
+  "generatedAt": "2026-06-23T16:37:01.688Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Having an issue with my driver’s door switch lighting and the changing of different ambient lighting colors. They seem to be related.   About a few months into owning my car (purchased May 2021) I was driving to work at night and the lighting on the driver’s door switches would r",
+      "pct": 21
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on the highway at approximately 70 mph when I heard the loudest bang I’ve ever heard before. I then heard glass shattering and thought glass was going to fall all over my 9 month old baby and I. I was in shock and I could have wrecked or drove off the highway from h",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I brought my 2022 Kia Stinger GT -2 in to Greenway Kia, West Palm Beach FL on 02/20/2023 for routine maintenenace, check front end alignment and brake check as there was significant vibration while applying breaks and choppy breaking.  The mileage is 4000 and driven primarily cit",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a vehicle that has a safety recall for the oil feed line that can leak and catch fire and Kia is refusing to perform the recall because my VIN is not in there system. I have the recall notice and the fact my car dies in fact need the recall work and have proved that to the",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The paint on the vehicle is severely damaged, cracking components, fading paint all throughout the vehicle. The hood of the vehicle is showing severe fading, looks cloudy.",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Kia Stinger owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Having an issue with my driver’s door switch lighting and the changing of different ambient lighting colors. They seem to be related.   About a few months into owning my car (purchased May 2021) I was driving to work at night and the lighting on the driver’s door switches would r",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "3 reports (21%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on the highway at approximately 70 mph when I heard the loudest bang I’ve ever heard before. I then heard glass shattering and thought glass was going to fall all over my 9 month old baby and I. I was in shock and I could have wrecked or drove off the highway from h",
+        "pct": 21,
+        "title": "Visibility",
+        "blurb": "3 reports (21%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I brought my 2022 Kia Stinger GT -2 in to Greenway Kia, West Palm Beach FL on 02/20/2023 for routine maintenenace, check front end alignment and brake check as there was significant vibration while applying breaks and choppy breaking.  The mileage is 4000 and driven primarily cit",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a vehicle that has a safety recall for the oil feed line that can leak and catch fire and Kia is refusing to perform the recall because my VIN is not in there system. I have the recall notice and the fact my car dies in fact need the recall work and have proved that to the",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The paint on the vehicle is severely damaged, cracking components, fading paint all throughout the vehicle. The hood of the vehicle is showing severe fading, looks cloudy.",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

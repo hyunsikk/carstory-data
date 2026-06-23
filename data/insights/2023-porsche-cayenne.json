@@ -1,0 +1,106 @@
+{
+  "slug": "2023-porsche-cayenne",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/PORSCHE/CAYENNE#complaints",
+  "generatedAt": "2026-06-23T16:39:47.294Z",
+  "total": 4,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "In-car entertainment, transmissions controls, audio controls, climate controls (front and rear) , car will shut off without turning the key in off position, often times the vehicle will just terminate a call with no warning - no explantion, the rear camera on the screen in revers",
+      "pct": 50
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "i was driving my car and at a stop sign i started accelerating when the light turned green - i must have been going 45 mPH after the light and all of a sudden my car went into hyper acceleration speeding up to 80 mph, i was pumping my brakes and the car was still raging to accele",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In-car entertainment, transmissions controls, audio controls, climate controls (front and rear) , car will shut off without turning the key in off position, often times the vehicle will just terminate a call with no warning - no explantion, the rear camera on the screen in revers",
+      "pct": 25
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The drivers side wiper leaves a streak at drives eye level during most rain events.  My dealer has replaced the wiper 3 times but this has not fixed the issue.  My Dealer has verified this is happening and verified this happens on all Porsche Cayenne vehicles of this age and mode",
+      "pct": 25
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Porsche Cayenne owners report most",
+    "summary": "Across 4 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "In-car entertainment, transmissions controls, audio controls, climate controls (front and rear) , car will shut off without turning the key in off position, often times the vehicle will just terminate a call with no warning - no explantion, the rear camera on the screen in revers",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "2 reports (50%) · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "i was driving my car and at a stop sign i started accelerating when the light turned green - i must have been going 45 mPH after the light and all of a sudden my car went into hyper acceleration speeding up to 80 mph, i was pumping my brakes and the car was still raging to accele",
+        "pct": 25,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (25%) · 1 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In-car entertainment, transmissions controls, audio controls, climate controls (front and rear) , car will shut off without turning the key in off position, often times the vehicle will just terminate a call with no warning - no explantion, the rear camera on the screen in revers",
+        "pct": 25,
+        "title": "Steering",
+        "blurb": "1 report (25%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The drivers side wiper leaves a streak at drives eye level during most rain events.  My dealer has replaced the wiper 3 times but this has not fixed the issue.  My Dealer has verified this is happening and verified this happens on all Porsche Cayenne vehicles of this age and mode",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (25%)"
+      }
+    ]
+  }
+}

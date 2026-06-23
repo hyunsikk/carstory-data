@@ -1,0 +1,128 @@
+{
+  "slug": "2014-ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/FORD/FOCUS#complaints",
+  "generatedAt": "2026-06-23T16:30:51.024Z",
+  "total": 2639,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 1585,
+      "crash": 23,
+      "fire": 3,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "WHEN THE VEHICLE COMES TO A COMPLETE STOP IT ROLLS BACKWARDS BEFORE YOU CAN PLACE YOUR FOOT ONTO THE ACCELERATOR. THE VEHICLE WILL ALSO PULL ITSELF FORWARD OR BACKWARD FROM THE BOTTOM OF A HILL AND CLEARS THE HILL WITHOUT MANUAL ACCELERATION. THE TRANSMISSION SLIPS AND CAUSES A J",
+      "pct": 60
+    },
+    {
+      "component": "ENGINE",
+      "count": 454,
+      "crash": 18,
+      "fire": 8,
+      "injuries": 11,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT OWNS A 2014 FORD FOCUS. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 55 MPH, THE VEHICLE STALLED AND THE STOP SAFELY NOW WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FAILURE WAS UNABLE TO BE REPLICATED. THE MANUFACTURER WAS NOTIFIED O",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 306,
+      "crash": 10,
+      "fire": 1,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON THE FREEWAY THE CAR BEGAN TO DECELERATE, GAS PEDAL WAS NON RESPONSIVE. TRAVELING APPROXIMATELY 60-65 MPH IN 5TH GEAR. DECELERATION OCCURRED IN 5TH GEAR. WAS ONLY ABLE TO MAINTAIN SPEED IN 4TH GEAR, BUT WAS UNABLE TO GO ANY FASTER THAN 50- 55 MPH WITH GAS PEDAL TO",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 274,
+      "crash": 9,
+      "fire": 2,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "I WAS TRAVELING ABOUT 35 MPH WHEN MY CAR FLASHED A MESSAGE \"STOP SAFELY NOW\" AND THE CAR HAD LOST POWER TO THE WHEELS AND I WAS NOW JUST COASTING.  I PULLED THE VEHICLE OFF TO THE SIDE OF THE ROAD.  I WAS ABLE TO TURN OFF THE VEHICLE AND GET IT STARTED AGAIN.  I WAS LUCKY THAT I ",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 225,
+      "crash": 12,
+      "fire": 1,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "I BOUGHT THIS CAR NEW 2 MOS AGO , IT HAS ALWAYS HAD WEIRD STEERING. AS YOU'RE DRIVING IT GETS VERY STIFF AND '\"DARTEY\" AND IT DIFFICULT TO MAINTAIN A STRAIGHT LINE WITHOUT CONSTANT CORRECTION AND IS VERY SENSITIVE AT HIGHER SPEEDS, YOU CHANGE LANES QUICKLY AND WITH LITTLE EFFORT.",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Ford Focus owners report most",
+    "summary": "Across 2,639 owner complaints to NHTSA, the most reported area is Power Train (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 1585,
+        "crash": 23,
+        "fire": 3,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "WHEN THE VEHICLE COMES TO A COMPLETE STOP IT ROLLS BACKWARDS BEFORE YOU CAN PLACE YOUR FOOT ONTO THE ACCELERATOR. THE VEHICLE WILL ALSO PULL ITSELF FORWARD OR BACKWARD FROM THE BOTTOM OF A HILL AND CLEARS THE HILL WITHOUT MANUAL ACCELERATION. THE TRANSMISSION SLIPS AND CAUSES A J",
+        "pct": 60,
+        "title": "Power Train",
+        "blurb": "1,585 reports (60%) · 3 fire · 23 crash · 12 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 454,
+        "crash": 18,
+        "fire": 8,
+        "injuries": 11,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT OWNS A 2014 FORD FOCUS. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 55 MPH, THE VEHICLE STALLED AND THE STOP SAFELY NOW WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FAILURE WAS UNABLE TO BE REPLICATED. THE MANUFACTURER WAS NOTIFIED O",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "454 reports (17%) · 8 fire · 18 crash · 11 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 306,
+        "crash": 10,
+        "fire": 1,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON THE FREEWAY THE CAR BEGAN TO DECELERATE, GAS PEDAL WAS NON RESPONSIVE. TRAVELING APPROXIMATELY 60-65 MPH IN 5TH GEAR. DECELERATION OCCURRED IN 5TH GEAR. WAS ONLY ABLE TO MAINTAIN SPEED IN 4TH GEAR, BUT WAS UNABLE TO GO ANY FASTER THAN 50- 55 MPH WITH GAS PEDAL TO",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "306 reports (12%) · 1 fire · 10 crash · 8 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 274,
+        "crash": 9,
+        "fire": 2,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "I WAS TRAVELING ABOUT 35 MPH WHEN MY CAR FLASHED A MESSAGE \"STOP SAFELY NOW\" AND THE CAR HAD LOST POWER TO THE WHEELS AND I WAS NOW JUST COASTING.  I PULLED THE VEHICLE OFF TO THE SIDE OF THE ROAD.  I WAS ABLE TO TURN OFF THE VEHICLE AND GET IT STARTED AGAIN.  I WAS LUCKY THAT I ",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "274 reports (10%) · 2 fire · 9 crash · 9 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 225,
+        "crash": 12,
+        "fire": 1,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "I BOUGHT THIS CAR NEW 2 MOS AGO , IT HAS ALWAYS HAD WEIRD STEERING. AS YOU'RE DRIVING IT GETS VERY STIFF AND '\"DARTEY\" AND IT DIFFICULT TO MAINTAIN A STRAIGHT LINE WITHOUT CONSTANT CORRECTION AND IS VERY SENSITIVE AT HIGHER SPEEDS, YOU CHANGE LANES QUICKLY AND WITH LITTLE EFFORT.",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "225 reports (9%) · 1 fire · 12 crash · 6 injured"
+      }
+    ]
+  }
+}

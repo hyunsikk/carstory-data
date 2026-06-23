@@ -1,0 +1,128 @@
+{
+  "slug": "2024-audi-q4-e-tron",
+  "make": "Audi",
+  "model": "Q4 e-tron",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/AUDI/Q4%20E-TRON#complaints",
+  "generatedAt": "2026-06-23T16:43:25.979Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "have signed a lease on an Audi Q4 S line prestige and picked it up Saturday [XXX] afternoon, leaving the dealership the car had a yellow warning light, I texted sales team who said it’s ok.  On the drive home (Oakland to West SJ), while driving on [XXX] (about 30 min in) the driv",
+      "pct": 65
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 Audi Q4 E-tron. The contact stated upon driving into the parking lot of an occupied charging station at 30-35 MPH and attempting to pull into the charging station, the vehicle accelerated unintendedly and spun several times. The contact stated that she de",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing this complaint due to ongoing electronic and drivetrain malfunctions that may impact safe vehicle operation.  AWD System Malfunction (Primary Safety Concern)  The vehicle repeatedly displays four-wheel drive system malfunction warnings. I have brought the vehicle to t",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2024 Audi Q4 E-tron. The contact stated upon driving into the parking lot of an occupied charging station at 30-35 MPH and attempting to pull into the charging station, the vehicle accelerated unintendedly and spun several times. The contact stated that she de",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Audi Q4 E-Tron. The contact stated while driving at various speeds, the message \"Vehicle Sound Malfunction! Pedestrian Cannot Hear Vehicle. Please Contact Service\" was displayed. The contact stated that the failure recurred intermittently. The vehicle was ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Audi Q4 E-Tron owners report most",
+    "summary": "Across 20 owner complaints to NHTSA, the most reported area is Electrical System (65% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "have signed a lease on an Audi Q4 S line prestige and picked it up Saturday [XXX] afternoon, leaving the dealership the car had a yellow warning light, I texted sales team who said it’s ok.  On the drive home (Oakland to West SJ), while driving on [XXX] (about 30 min in) the driv",
+        "pct": 65,
+        "title": "Electrical System",
+        "blurb": "13 reports (65%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 Audi Q4 E-tron. The contact stated upon driving into the parking lot of an occupied charging station at 30-35 MPH and attempting to pull into the charging station, the vehicle accelerated unintendedly and spun several times. The contact stated that she de",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "4 reports (20%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing this complaint due to ongoing electronic and drivetrain malfunctions that may impact safe vehicle operation.  AWD System Malfunction (Primary Safety Concern)  The vehicle repeatedly displays four-wheel drive system malfunction warnings. I have brought the vehicle to t",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "2 reports (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2024 Audi Q4 E-tron. The contact stated upon driving into the parking lot of an occupied charging station at 30-35 MPH and attempting to pull into the charging station, the vehicle accelerated unintendedly and spun several times. The contact stated that she de",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "2 reports (10%) · 1 crash"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Audi Q4 E-Tron. The contact stated while driving at various speeds, the message \"Vehicle Sound Malfunction! Pedestrian Cannot Hear Vehicle. Please Contact Service\" was displayed. The contact stated that the failure recurred intermittently. The vehicle was ",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (10%) · 1 crash · 2 injured"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2018-nissan-armada",
+  "make": "Nissan",
+  "model": "Armada",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/NISSAN/ARMADA#complaints",
+  "generatedAt": "2026-06-23T16:39:10.197Z",
+  "total": 73,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 40,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WENT OUT TO MY VEHICLE WHICH UNLOCKED WITH MY POD I WENT TO START IT AND ALL THE DASH BOARD LIGHTS CAME ON BUT THE VEHICLE WOULD NOT START. I JUMPED THE BATTERY AND IT STARTED INSTANTLY SO I TOOK THE VEHICLE TO AN AUTO STORE TO CHECK THE BATTERY WHICH THEY STATED WAS A GREAT BA",
+      "pct": 55
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Nissan Armada is 4 years old with 42,000 miles and has needed two brake switches replaced on it to date. This is RIDICULOUS! This car is completely unsafe. It has failed to start more times than I can count, and it most recently broke down on my on New Years Day. I had to have",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE SUDDENLY WOULD NOT START ON 12/21/2019, THUS LEAVING MY FAMILY AND I STRANDED IN A BRAND NEW VEHICLE. (REPORTED TO NISSAN ROADSIDE ASSISTANCE) BCI MALFUNCTION WARNING (SEE PHOTO) AND THE VEHICLE BEGAN TO AUTOMATICALLY APPLY THE BRAKE AS I WAS DRIVING AND I COULD NOT OVERR",
+      "pct": 19
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENGINE LOSES POWER SUDDENLY AND UNEXPECTEDLY (CHECK ENGINE LIGHT TURNS ON). WITH THE LOSS OF POWER, VEHICLE LOSES SPEED AND ACCELERATION. THIS SITUATION HAS HAPPENED ON FOUR DIFFERENT OCCASIONS. IN ALL CASES THE LOSS OF POWER HAPPENED WHILE DRIVING, THREE OF THE TIMES WHILE D",
+      "pct": 10
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ELECTRICAL SYSTEM ISSUSES.  SO FAR NEEDING TO REPLACE O2SENSOR, PARKING ASSIST SENSORS, DASH SPEEDOMETER ASSEMBLY, REAR CAMERA ASSEMBLY.  OTHER ISSUSE NOT REPAIRS AS OF YET, DRIVING STABILITY, AUTO HEAD LIGHT SENSORS, WHAT EVER CONTROLS STORING RADIO STATIONS, FLUCTUATING BATTERY",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Nissan Armada owners report most",
+    "summary": "Across 73 owner complaints to NHTSA, the most reported area is Electrical System (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 40,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WENT OUT TO MY VEHICLE WHICH UNLOCKED WITH MY POD I WENT TO START IT AND ALL THE DASH BOARD LIGHTS CAME ON BUT THE VEHICLE WOULD NOT START. I JUMPED THE BATTERY AND IT STARTED INSTANTLY SO I TOOK THE VEHICLE TO AN AUTO STORE TO CHECK THE BATTERY WHICH THEY STATED WAS A GREAT BA",
+        "pct": 55,
+        "title": "Electrical System",
+        "blurb": "40 reports (55%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Nissan Armada is 4 years old with 42,000 miles and has needed two brake switches replaced on it to date. This is RIDICULOUS! This car is completely unsafe. It has failed to start more times than I can count, and it most recently broke down on my on New Years Day. I had to have",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "14 reports (19%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE SUDDENLY WOULD NOT START ON 12/21/2019, THUS LEAVING MY FAMILY AND I STRANDED IN A BRAND NEW VEHICLE. (REPORTED TO NISSAN ROADSIDE ASSISTANCE) BCI MALFUNCTION WARNING (SEE PHOTO) AND THE VEHICLE BEGAN TO AUTOMATICALLY APPLY THE BRAKE AS I WAS DRIVING AND I COULD NOT OVERR",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "14 reports (19%) · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENGINE LOSES POWER SUDDENLY AND UNEXPECTEDLY (CHECK ENGINE LIGHT TURNS ON). WITH THE LOSS OF POWER, VEHICLE LOSES SPEED AND ACCELERATION. THIS SITUATION HAS HAPPENED ON FOUR DIFFERENT OCCASIONS. IN ALL CASES THE LOSS OF POWER HAPPENED WHILE DRIVING, THREE OF THE TIMES WHILE D",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "7 reports (10%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ELECTRICAL SYSTEM ISSUSES.  SO FAR NEEDING TO REPLACE O2SENSOR, PARKING ASSIST SENSORS, DASH SPEEDOMETER ASSEMBLY, REAR CAMERA ASSEMBLY.  OTHER ISSUSE NOT REPAIRS AS OF YET, DRIVING STABILITY, AUTO HEAD LIGHT SENSORS, WHAT EVER CONTROLS STORING RADIO STATIONS, FLUCTUATING BATTERY",
+        "pct": 8,
+        "title": "Exterior Lighting",
+        "blurb": "6 reports (8%)"
+      }
+    ]
+  }
+}

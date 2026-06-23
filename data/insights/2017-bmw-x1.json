@@ -1,0 +1,128 @@
+{
+  "slug": "2017-bmw-x1",
+  "make": "BMW",
+  "model": "X1",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/X1#complaints",
+  "generatedAt": "2026-06-23T16:26:55.518Z",
+  "total": 154,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 57,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 BMW X1. THE CONTACT STATED THAT UPON PLACING THE VEHICLE INTO PARK, THE VEHICLE MAY ROLL, APPLY YOUR EMERGENCY BRAKE, CONTACT YOUR SERVICE PROVIDER WARNING MESSAGE WAS DISPLAYED ON THE INSTRUMENT PANEL. THE CONTACT HAD TAKEN THE VEHICLE TO RUSNAK BMW (",
+      "pct": 37
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Warning light appears: Secure Vehicle Against Rolling Error. I went online to see what the issue was and found that there were numerous complaints by BMW X1 owners who discovered that it was a $10 spring in the shifter that dealers were charging between $2,000 and $3,000 to repai",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE TAILGATE AUTOMATICALLY STARTS CLOSING ON ME WHEN I AM LOADING OR UNLOADING.  IT STARTS BEEPING SO I AT LEAST GET A WARNING BUT I HAVE TO PUT MY HAND UP AND STOP IT FROM CRASHING ON MY HEAD.  I HAVE TOLD MY DEALERSHIP ABOUT THIS SINCE THE FIRST FEW TIMES IT HAPPENED, BUT WAS T",
+      "pct": 16
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "REAR HATCH OPENS AND CLOSES SPONTANEOUSLY IF KEY FOB IS IN YOUR POSSESSION AND YOU ARE IN THE VICINITY OF THE REAR HATCH.  BMW SERVICE ADVISER SAID THIS IS A DESIGN ISSUE AND THERE IS NO AVAILABLE FIX.  VEHICLE IS STATIONARY WHEN THIS OCCURS.  I HAVE EXPERIENCED THIS AT LEAST SIX",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have been complaining about roughness for quite some time.   Especially when are is cold.  I have a 2017 X1, less than 40k and the engine mount cracked    BMW Service informed me this is an known issue within BMW.   Not only x1 but X2 and some X3 models.  Also said the others w",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw X1 owners report most",
+    "summary": "Across 154 owner complaints to NHTSA, the most reported area is Power Train (37% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 57,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 BMW X1. THE CONTACT STATED THAT UPON PLACING THE VEHICLE INTO PARK, THE VEHICLE MAY ROLL, APPLY YOUR EMERGENCY BRAKE, CONTACT YOUR SERVICE PROVIDER WARNING MESSAGE WAS DISPLAYED ON THE INSTRUMENT PANEL. THE CONTACT HAD TAKEN THE VEHICLE TO RUSNAK BMW (",
+        "pct": 37,
+        "title": "Power Train",
+        "blurb": "57 reports (37%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Warning light appears: Secure Vehicle Against Rolling Error. I went online to see what the issue was and found that there were numerous complaints by BMW X1 owners who discovered that it was a $10 spring in the shifter that dealers were charging between $2,000 and $3,000 to repai",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "25 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE TAILGATE AUTOMATICALLY STARTS CLOSING ON ME WHEN I AM LOADING OR UNLOADING.  IT STARTS BEEPING SO I AT LEAST GET A WARNING BUT I HAVE TO PUT MY HAND UP AND STOP IT FROM CRASHING ON MY HEAD.  I HAVE TOLD MY DEALERSHIP ABOUT THIS SINCE THE FIRST FEW TIMES IT HAPPENED, BUT WAS T",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "24 reports (16%) · 2 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "REAR HATCH OPENS AND CLOSES SPONTANEOUSLY IF KEY FOB IS IN YOUR POSSESSION AND YOU ARE IN THE VICINITY OF THE REAR HATCH.  BMW SERVICE ADVISER SAID THIS IS A DESIGN ISSUE AND THERE IS NO AVAILABLE FIX.  VEHICLE IS STATIONARY WHEN THIS OCCURS.  I HAVE EXPERIENCED THIS AT LEAST SIX",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "20 reports (13%) · 4 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have been complaining about roughness for quite some time.   Especially when are is cold.  I have a 2017 X1, less than 40k and the engine mount cracked    BMW Service informed me this is an known issue within BMW.   Not only x1 but X2 and some X3 models.  Also said the others w",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "11 reports (7%)"
+      }
+    ]
+  }
+}

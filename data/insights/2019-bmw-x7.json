@@ -1,0 +1,128 @@
+{
+  "slug": "2019-bmw-x7",
+  "make": "BMW",
+  "model": "X7",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/BMW/X7#complaints",
+  "generatedAt": "2026-06-23T16:27:08.013Z",
+  "total": 43,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR WAS PURCHSED ON MARCH 30TH 2019. THE SEATING OF THE CAR WAS MULFUCTIONING EVEN BEFORE THE DELIVERY OF THE CAR. AFTER THREE HOURS OF WORKING ON THE SEATING, THEY FINALLY DECIDED AND CLAIM THE SEATS ARE OKAY, THIS IS THE FIRST FIX. TWO DAYS LATER, THE BATTERY LIGHT STILL KEPT O",
+      "pct": 49
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When trying to start the vehicle it will say that the starter has overheated and to try restarting again in xx seconds. This occurs randomly and the car does not indicate that the engine is over heating, just the starter. When looking online it appears there is an active recall f",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the transfer case for this 2019 is failing, and cannot be repaired without changing the entire case according to the mechanic notes.  there is a significant grinding when turning at slow speeds and a locking-up feeling to the steering.  dealer will not admit to any issues.  car w",
+      "pct": 12
+    },
+    {
+      "component": "SEATS",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR WAS PURCHSED ON MARCH 30TH 2019. THE SEATING OF THE CAR WAS MULFUCTIONING EVEN BEFORE THE DELIVERY OF THE CAR. AFTER THREE HOURS OF WORKING ON THE SEATING, THEY FINALLY DECIDED AND CLAIM THE SEATS ARE OKAY, THIS IS THE FIRST FIX. TWO DAYS LATER, THE BATTERY LIGHT STILL KEPT O",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 BMW X7. The contact stated that upon a warm start of the engine, a \"System Overheating re-starting engine possible after cooling\" message intermittently appeared on the instrument panel. The contact would be forced to open the hood to allow the engine to c",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Bmw X7 owners report most",
+    "summary": "Across 43 owner complaints to NHTSA, the most reported area is Electrical System (49% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR WAS PURCHSED ON MARCH 30TH 2019. THE SEATING OF THE CAR WAS MULFUCTIONING EVEN BEFORE THE DELIVERY OF THE CAR. AFTER THREE HOURS OF WORKING ON THE SEATING, THEY FINALLY DECIDED AND CLAIM THE SEATS ARE OKAY, THIS IS THE FIRST FIX. TWO DAYS LATER, THE BATTERY LIGHT STILL KEPT O",
+        "pct": 49,
+        "title": "Electrical System",
+        "blurb": "21 reports (49%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When trying to start the vehicle it will say that the starter has overheated and to try restarting again in xx seconds. This occurs randomly and the car does not indicate that the engine is over heating, just the starter. When looking online it appears there is an active recall f",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "9 reports (21%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the transfer case for this 2019 is failing, and cannot be repaired without changing the entire case according to the mechanic notes.  there is a significant grinding when turning at slow speeds and a locking-up feeling to the steering.  dealer will not admit to any issues.  car w",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "5 reports (12%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR WAS PURCHSED ON MARCH 30TH 2019. THE SEATING OF THE CAR WAS MULFUCTIONING EVEN BEFORE THE DELIVERY OF THE CAR. AFTER THREE HOURS OF WORKING ON THE SEATING, THEY FINALLY DECIDED AND CLAIM THE SEATS ARE OKAY, THIS IS THE FIRST FIX. TWO DAYS LATER, THE BATTERY LIGHT STILL KEPT O",
+        "pct": 12,
+        "title": "Seats",
+        "blurb": "5 reports (12%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 BMW X7. The contact stated that upon a warm start of the engine, a \"System Overheating re-starting engine possible after cooling\" message intermittently appeared on the instrument panel. The contact would be forced to open the hood to allow the engine to c",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "4 reports (9%)"
+      }
+    ]
+  }
+}

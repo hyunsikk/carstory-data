@@ -1,0 +1,128 @@
+{
+  "slug": "2017-ford-transit",
+  "make": "Ford",
+  "model": "Transit",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/FORD/TRANSIT#complaints",
+  "generatedAt": "2026-06-23T16:30:53.704Z",
+  "total": 95,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 40,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD TRANSIT. WHILE DRIVING UNKNOWN SPEEDS, THE 'TRANSMISSION NEEDS TO BE PLACED IN PARK' WARNING MESSAGE ILLUMINATED AND THE INSTRUMENT PANEL WAS BLANK. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THERE WAS AN ELECTRIC",
+      "pct": 42
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WILL RANDOMLY SHIFT INTO FIRST GEAR TYPICALLY WHILE GOING DOWN HILL ON INTERSTATE AT SPEEDS OF 70 MPH OR GREATER. THE RESULTING SHIFT CAUSES THE ENGINE TO REV FAR PAST RED LINE AND CAUSES SEVERE UNINTENDED  DECELERATION. SITUATION HAPPENS WITHOUT WARNING AND AFTER A FEW M",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2017 FORD TRANSIT. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED A BURNING ODOR COMING FROM THE FRONT OF THE VEHICLE. THE CONTACT NOTICED THAT THE STEREO SPEAKER ABOVE THE FRONT DRIVER'S SEAT STARTED TO SMOKE, AND FLAMES APPEARED FROM TWO WIRES THAT RAN",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE ON HIGH SPEED THE CAR COULD VIBERATE AND SOME TIMES ALSO NOT SITTING IN LANE  AC IN PASSENGER NOT GOOD ITS THE SAME SYSTEM THEY USE FOR FOR A MALL CAR  THINKS KEEP BRAKING LIKE THE PICTURE ATTACHED AND THE CLIP FOR WNDW ISNT SAFE AND STRONG I SHOWED IT FOR FORD ITS A NOW VE",
+      "pct": 6
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My brakes are very soft. They have been bled and still persist to be soft and will go all the way to the floor. I have found many people having this same problem online with no solution. There seems to be a problem with the ABS system or something. It makes it very hard to stop s",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Ford Transit owners report most",
+    "summary": "Across 95 owner complaints to NHTSA, the most reported area is Power Train (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 40,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD TRANSIT. WHILE DRIVING UNKNOWN SPEEDS, THE 'TRANSMISSION NEEDS TO BE PLACED IN PARK' WARNING MESSAGE ILLUMINATED AND THE INSTRUMENT PANEL WAS BLANK. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THERE WAS AN ELECTRIC",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "40 reports (42%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WILL RANDOMLY SHIFT INTO FIRST GEAR TYPICALLY WHILE GOING DOWN HILL ON INTERSTATE AT SPEEDS OF 70 MPH OR GREATER. THE RESULTING SHIFT CAUSES THE ENGINE TO REV FAR PAST RED LINE AND CAUSES SEVERE UNINTENDED  DECELERATION. SITUATION HAPPENS WITHOUT WARNING AND AFTER A FEW M",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "16 reports (17%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2017 FORD TRANSIT. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED A BURNING ODOR COMING FROM THE FRONT OF THE VEHICLE. THE CONTACT NOTICED THAT THE STEREO SPEAKER ABOVE THE FRONT DRIVER'S SEAT STARTED TO SMOKE, AND FLAMES APPEARED FROM TWO WIRES THAT RAN",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "11 reports (12%) · 1 fire · 1 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE ON HIGH SPEED THE CAR COULD VIBERATE AND SOME TIMES ALSO NOT SITTING IN LANE  AC IN PASSENGER NOT GOOD ITS THE SAME SYSTEM THEY USE FOR FOR A MALL CAR  THINKS KEEP BRAKING LIKE THE PICTURE ATTACHED AND THE CLIP FOR WNDW ISNT SAFE AND STRONG I SHOWED IT FOR FORD ITS A NOW VE",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (6%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My brakes are very soft. They have been bled and still persist to be soft and will go all the way to the floor. I have found many people having this same problem online with no solution. There seems to be a problem with the ABS system or something. It makes it very hard to stop s",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "5 reports (5%)"
+      }
+    ]
+  }
+}

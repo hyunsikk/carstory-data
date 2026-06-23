@@ -1,0 +1,40 @@
+{
+  "slug": "2023-audi-a6",
+  "make": "Audi",
+  "model": "A6",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/AUDI/A6#complaints",
+  "generatedAt": "2026-06-23T16:25:30.195Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "UNKNOWN OR OTHER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was driving on the highway, all of a sudden showed a sign of transmission malfunction and started decelerating which I could safely navigate the vehicle to the side of the road, got the vehicle towed to repair shop which they reported a transmission code P17F900- parking lock mec",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Audi A6 owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Unknown Or Other (100% of reports).",
+    "issues": [
+      {
+        "component": "UNKNOWN OR OTHER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was driving on the highway, all of a sudden showed a sign of transmission malfunction and started decelerating which I could safely navigate the vehicle to the side of the road, got the vehicle towed to repair shop which they reported a transmission code P17F900- parking lock mec",
+        "pct": 100,
+        "title": "Unknown Or Other",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

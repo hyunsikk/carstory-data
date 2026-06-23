@@ -1,0 +1,128 @@
+{
+  "slug": "2024-gmc-terrain",
+  "make": "GMC",
+  "model": "Terrain",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/GMC/TERRAIN#complaints",
+  "generatedAt": "2026-06-23T16:31:41.813Z",
+  "total": 44,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON [XXX] my spouse was driving her new 2024 GMC Terrain in Asheville, NC. When suddenly the car stopped and when was able to maintain control and coast to a safe area. The vehicle was subsequently taken to the dealers service center GMC Asheville, NC (Harry's on the Hill). The di",
+      "pct": 41
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 GMC Terrain. The contact stated that while the vehicle was parked, the check engine warning light illuminated. The contact stated that while driving at an undisclosed speed and merging onto the highway, the vehicle experienced a loss of automotive power. T",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Bought new car August 16th 2024. Few days later, I was turning left at a light and the car lost power as I was turning and error messages came up on the dash screen saying service transmission. I also observed that the cars gear indicator went to Park by itself even though the ca",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Bought new car August 16th 2024. Few days later, I was turning left at a light and the car lost power as I was turning and error messages came up on the dash screen saying service transmission. I also observed that the cars gear indicator went to Park by itself even though the ca",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle was running but transmission was in PARK.  Suddenly on screen in front of driver this message appeared: BRAKE SYSTEM FAILURE  43MPH TOP SPEED WARNING  SERVICE ESC.  Vehicle was not moving.  Engine was running but vehicle was in PARK.  I had to drive it home.  Very difficu",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Gmc Terrain owners report most",
+    "summary": "Across 44 owner complaints to NHTSA, the most reported area is Power Train (41% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON [XXX] my spouse was driving her new 2024 GMC Terrain in Asheville, NC. When suddenly the car stopped and when was able to maintain control and coast to a safe area. The vehicle was subsequently taken to the dealers service center GMC Asheville, NC (Harry's on the Hill). The di",
+        "pct": 41,
+        "title": "Power Train",
+        "blurb": "18 reports (41%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 GMC Terrain. The contact stated that while the vehicle was parked, the check engine warning light illuminated. The contact stated that while driving at an undisclosed speed and merging onto the highway, the vehicle experienced a loss of automotive power. T",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "11 reports (25%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Bought new car August 16th 2024. Few days later, I was turning left at a light and the car lost power as I was turning and error messages came up on the dash screen saying service transmission. I also observed that the cars gear indicator went to Park by itself even though the ca",
+        "pct": 23,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (23%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Bought new car August 16th 2024. Few days later, I was turning left at a light and the car lost power as I was turning and error messages came up on the dash screen saying service transmission. I also observed that the cars gear indicator went to Park by itself even though the ca",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "6 reports (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle was running but transmission was in PARK.  Suddenly on screen in front of driver this message appeared: BRAKE SYSTEM FAILURE  43MPH TOP SPEED WARNING  SERVICE ESC.  Vehicle was not moving.  Engine was running but vehicle was in PARK.  I had to drive it home.  Very difficu",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "3 reports (7%)"
+      }
+    ]
+  }
+}

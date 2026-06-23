@@ -1,0 +1,128 @@
+{
+  "slug": "2019-dodge-grand-caravan",
+  "make": "Dodge",
+  "model": "Grand Caravan",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/DODGE/GRAND%20CARAVAN#complaints",
+  "generatedAt": "2026-06-23T16:29:30.639Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "At 99500 the transmission went Kaputt! Repair man says metal shavings obstructed flow of fluid, through the filter, into the transmission, not allowing for running the car forward or backward. Very dangerous as we were driving down a highway when it just stopped working. Vehicle ",
+      "pct": 35
+    },
+    {
+      "component": "SEATS",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2019 DODGE CARAVAN. CONSUMER WRITES IN REGARDS TO HEAD REST FLIPPING DOWN STRIKING WIFE IN HEAD LEAVING A SMALL HEMATOMA. *LD    THE CONSUMER STATED THE STOW N GO SEATS WERE INSTALLED IN THE SECOND ROW.THE CONSUMER'S WIFE SAT IN THE SECOND ROW PASSENGER SIDE. SHE PULLED A LEVER A",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have the oil changed regularly and keep all records and receipts.  I've had the coolant and transmission fluid flushed, the thermostat changed twice, the coolant temperature sensor changed, the oil cooler changed and i checkmy transmission fluid regularly.  My van was over heat",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Recently while leaving home my van started to make a type of noise. I cant quite describe it as it wasn't very whistling or clicking it was just an abnormal sound that it had not been making and I could hear it more when turning my wheel to the left. It started to jump while I dr",
+      "pct": 15
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Passenger side sliding door is stuck in the locked position. Nothing I do will unlock it. The lock doesn't respond to any buttons either on the key fob or on the overhead panel. Also cannot be unlocked manually. It is my belief that this is a serious safety issue for rear passeng",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Dodge Grand Caravan owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Power Train (35% of reports).",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "At 99500 the transmission went Kaputt! Repair man says metal shavings obstructed flow of fluid, through the filter, into the transmission, not allowing for running the car forward or backward. Very dangerous as we were driving down a highway when it just stopped working. Vehicle ",
+        "pct": 35,
+        "title": "Power Train",
+        "blurb": "12 reports (35%) · 1 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2019 DODGE CARAVAN. CONSUMER WRITES IN REGARDS TO HEAD REST FLIPPING DOWN STRIKING WIFE IN HEAD LEAVING A SMALL HEMATOMA. *LD    THE CONSUMER STATED THE STOW N GO SEATS WERE INSTALLED IN THE SECOND ROW.THE CONSUMER'S WIFE SAT IN THE SECOND ROW PASSENGER SIDE. SHE PULLED A LEVER A",
+        "pct": 18,
+        "title": "Seats",
+        "blurb": "6 reports (18%) · 2 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have the oil changed regularly and keep all records and receipts.  I've had the coolant and transmission fluid flushed, the thermostat changed twice, the coolant temperature sensor changed, the oil cooler changed and i checkmy transmission fluid regularly.  My van was over heat",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Recently while leaving home my van started to make a type of noise. I cant quite describe it as it wasn't very whistling or clicking it was just an abnormal sound that it had not been making and I could hear it more when turning my wheel to the left. It started to jump while I dr",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Passenger side sliding door is stuck in the locked position. Nothing I do will unlock it. The lock doesn't respond to any buttons either on the key fob or on the overhead panel. Also cannot be unlocked manually. It is my belief that this is a serious safety issue for rear passeng",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "4 reports (12%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-audi-sq5",
+  "make": "Audi",
+  "model": "SQ5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/AUDI/SQ5#complaints",
+  "generatedAt": "2026-06-23T16:43:19.714Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi SQ5. The contact stated while reversing in her driveway, the automatic braking system activated and the vehicle stopped abruptly. The contact stated that there was a vehicle at a stop sign 500 ft. away from her vehicle when the failure occurred. The c",
+      "pct": 43
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN USING THE LANE-DEPARTURE AND 'STEERING CORRECTION' SYSTEM THIS VEHICLE WILL ATTEMPT TO SUDDENLY, SHARPLY, AND DANGEROUSLY CHANGE LANES.  THIS MORNING (8/26/20), WHILE TRAVELING ON A FOUR LANE DIVIDED HIGHWAY WITH CRUISE CONTROL AND LANE DEPARTURE ACTIVE, THE VEHICLE JERKED L",
+      "pct": 29
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had multiple instances of the emergency breaking applying improperly. On at least two occasions the rear backup/parking sensors detected some sort of object when one didn’t exist and abruptly engaged the breaks despite there being no object behind me. On one occasion I had",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Audi SQ5. The contact stated while reversing in her driveway, the automatic braking system activated and the vehicle stopped abruptly. The contact stated that there was a vehicle at a stop sign 500 ft. away from her vehicle when the failure occurred. The c",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN USING THE LANE-DEPARTURE AND 'STEERING CORRECTION' SYSTEM THIS VEHICLE WILL ATTEMPT TO SUDDENLY, SHARPLY, AND DANGEROUSLY CHANGE LANES.  THIS MORNING (8/26/20), WHILE TRAVELING ON A FOUR LANE DIVIDED HIGHWAY WITH CRUISE CONTROL AND LANE DEPARTURE ACTIVE, THE VEHICLE JERKED L",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Audi Sq5 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (43% of reports).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi SQ5. The contact stated while reversing in her driveway, the automatic braking system activated and the vehicle stopped abruptly. The contact stated that there was a vehicle at a stop sign 500 ft. away from her vehicle when the failure occurred. The c",
+        "pct": 43,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN USING THE LANE-DEPARTURE AND 'STEERING CORRECTION' SYSTEM THIS VEHICLE WILL ATTEMPT TO SUDDENLY, SHARPLY, AND DANGEROUSLY CHANGE LANES.  THIS MORNING (8/26/20), WHILE TRAVELING ON A FOUR LANE DIVIDED HIGHWAY WITH CRUISE CONTROL AND LANE DEPARTURE ACTIVE, THE VEHICLE JERKED L",
+        "pct": 29,
+        "title": "Vehicle Speed Control",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had multiple instances of the emergency breaking applying improperly. On at least two occasions the rear backup/parking sensors detected some sort of object when one didn’t exist and abruptly engaged the breaks despite there being no object behind me. On one occasion I had",
+        "pct": 14,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Audi SQ5. The contact stated while reversing in her driveway, the automatic braking system activated and the vehicle stopped abruptly. The contact stated that there was a vehicle at a stop sign 500 ft. away from her vehicle when the failure occurred. The c",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN USING THE LANE-DEPARTURE AND 'STEERING CORRECTION' SYSTEM THIS VEHICLE WILL ATTEMPT TO SUDDENLY, SHARPLY, AND DANGEROUSLY CHANGE LANES.  THIS MORNING (8/26/20), WHILE TRAVELING ON A FOUR LANE DIVIDED HIGHWAY WITH CRUISE CONTROL AND LANE DEPARTURE ACTIVE, THE VEHICLE JERKED L",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

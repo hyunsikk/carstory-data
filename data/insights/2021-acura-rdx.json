@@ -1,0 +1,128 @@
+{
+  "slug": "2021-acura-rdx",
+  "make": "Acura",
+  "model": "RDX",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/ACURA/RDX#complaints",
+  "generatedAt": "2026-06-23T16:24:56.087Z",
+  "total": 101,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2021 RDX A-spec 7322 miles northbound Hwy 95 Nevada to Oregon, raining. Attempted to pass semi, car behind me also passing semi, sudden loss of power, almost hit from behind, risk of on-coming traffic, able to move to right behind semi. Feeble response to any attempt to accelerat",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2021 ACURA RDX. THE CONTACT STATED THAT WHILE DRIVING, SHE HEARD A CLUNKING AND RATTLING SOUND COMING FROM THE FRONT PASSENGER'S SIDE WHEEL WELL AREA. DURING ACCELERATION AND STOPPING, THE CONTACT HEARD A POPPING SOUND COMING FROM THE REAR WHEELS. THE VEHIC",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My wife, 78 years old, is petite. She weighs 75 lbs, height 4'10.\" The front passenger seat sensors don't register her as sitting in the seat with the result that the passenger air bag is not engaged (the dashboard light indicates the air bag is OFF). My vehicle, 2021 Acura RDX, ",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "BOTH MYSELF AND HUSBAND HAVE HEARD KNOCK OR LOUD POP SOUND.  ONE LOUD KNOCK OR TWO WITH SLIGHT LEVEL CHANGE SUCH AS ENTERING OR LEAVING DRIVEWAY.  MANY OTHER ACURA RDX OWNERS HAVE REPORTED SAME ISSUE.  APPEARS TO BE FLEXING OF PANORAMIC SUNROOF.  MY VEHICLE IS ONE WEEK OLD (WAS C",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have a 2021 RDX. Was on the interstate moving at about 70 MPH coming back from Missouri. Raining. Lots of semis creating huge following misty, hard to see rain. Decided to accelerate to pass a couple. Car nearly stalled and acted like it had lost a cylinder's worth of power. Tu",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Acura Rdx owners report most",
+    "summary": "Across 101 owner complaints to NHTSA, the most reported area is Engine (18% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2021 RDX A-spec 7322 miles northbound Hwy 95 Nevada to Oregon, raining. Attempted to pass semi, car behind me also passing semi, sudden loss of power, almost hit from behind, risk of on-coming traffic, able to move to right behind semi. Feeble response to any attempt to accelerat",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "18 reports (18%) · 2 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2021 ACURA RDX. THE CONTACT STATED THAT WHILE DRIVING, SHE HEARD A CLUNKING AND RATTLING SOUND COMING FROM THE FRONT PASSENGER'S SIDE WHEEL WELL AREA. DURING ACCELERATION AND STOPPING, THE CONTACT HEARD A POPPING SOUND COMING FROM THE REAR WHEELS. THE VEHIC",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "14 reports (14%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My wife, 78 years old, is petite. She weighs 75 lbs, height 4'10.\" The front passenger seat sensors don't register her as sitting in the seat with the result that the passenger air bag is not engaged (the dashboard light indicates the air bag is OFF). My vehicle, 2021 Acura RDX, ",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "11 reports (11%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "BOTH MYSELF AND HUSBAND HAVE HEARD KNOCK OR LOUD POP SOUND.  ONE LOUD KNOCK OR TWO WITH SLIGHT LEVEL CHANGE SUCH AS ENTERING OR LEAVING DRIVEWAY.  MANY OTHER ACURA RDX OWNERS HAVE REPORTED SAME ISSUE.  APPEARS TO BE FLEXING OF PANORAMIC SUNROOF.  MY VEHICLE IS ONE WEEK OLD (WAS C",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "10 reports (10%) · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have a 2021 RDX. Was on the interstate moving at about 70 MPH coming back from Missouri. Raining. Lots of semis creating huge following misty, hard to see rain. Decided to accelerate to pass a couple. Car nearly stalled and acted like it had lost a cylinder's worth of power. Tu",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "9 reports (9%)"
+      }
+    ]
+  }
+}

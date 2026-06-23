@@ -1,0 +1,128 @@
+{
+  "slug": "2020-toyota-avalon",
+  "make": "Toyota",
+  "model": "Avalon",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/AVALON#complaints",
+  "generatedAt": "2026-06-23T16:41:13.160Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "RECALL# 20V-682,IF A VEHICLE STALLS WHILE DRIVING,THIS COULD INCREASE THE RISK OF A CRASH.TOYOTA IS TALKING ABOUT THE RECALL FOR A LOW PRESSURE FUEL PUMP WHICH MAY STOP OPERATING.THIS IS A SERIOUS SAFETY CONDITION WHICH COULD ENDANGER THE LIVES OF MY FAMILY AND MYSELF.THIS CONDIT",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "I represent the family of a fatally injured rollaway victim. It is on their behalf I am reporting the circumstances of this incident and to strongly urge that NHTSA update the rollaway requirements specified in Federal Motor Vehicle Safety Standard 114.  On August 22, 2020, It is",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "To Whom It May Concern,  I am filing this complaint to report Right Toyota in Scottsdale, Arizona, and Toyota Motor Corporation for their mishandling of a critical airbag safety recall (23TA15) on my 2020 Toyota Avalon Hybrid. The lack of transparency, misleading information, and",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TIE ROD LOOSE I heard a clunking noise while turning the steering wheel to the left at very low speeds. Took car in for service Service Mechanic found left outer tie rod end \"with play, loose\" Safety issue: potential loss of steering ability while driving Vehicle has been inspect",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "on 3 lane expressway (US422)about 1/4 mile from where the lanes split( see attached).  No cars in front of me but cars in the lane to my left slowed.  My car suddenly braked causing the car behind me to swerve to my right to avoid a collision.  The adaptive breaking (incorrectly)",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Toyota Avalon owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "RECALL# 20V-682,IF A VEHICLE STALLS WHILE DRIVING,THIS COULD INCREASE THE RISK OF A CRASH.TOYOTA IS TALKING ABOUT THE RECALL FOR A LOW PRESSURE FUEL PUMP WHICH MAY STOP OPERATING.THIS IS A SERIOUS SAFETY CONDITION WHICH COULD ENDANGER THE LIVES OF MY FAMILY AND MYSELF.THIS CONDIT",
+        "pct": 50,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (50%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "I represent the family of a fatally injured rollaway victim. It is on their behalf I am reporting the circumstances of this incident and to strongly urge that NHTSA update the rollaway requirements specified in Federal Motor Vehicle Safety Standard 114.  On August 22, 2020, It is",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (20%) · 1 crash"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "To Whom It May Concern,  I am filing this complaint to report Right Toyota in Scottsdale, Arizona, and Toyota Motor Corporation for their mishandling of a critical airbag safety recall (23TA15) on my 2020 Toyota Avalon Hybrid. The lack of transparency, misleading information, and",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TIE ROD LOOSE I heard a clunking noise while turning the steering wheel to the left at very low speeds. Took car in for service Service Mechanic found left outer tie rod end \"with play, loose\" Safety issue: potential loss of steering ability while driving Vehicle has been inspect",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "on 3 lane expressway (US422)about 1/4 mile from where the lanes split( see attached).  No cars in front of me but cars in the lane to my left slowed.  My car suddenly braked causing the car behind me to swerve to my right to avoid a collision.  The adaptive breaking (incorrectly)",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

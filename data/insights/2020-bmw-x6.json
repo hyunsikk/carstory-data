@@ -1,0 +1,128 @@
+{
+  "slug": "2020-bmw-x6",
+  "make": "BMW",
+  "model": "X6",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/BMW/X6#complaints",
+  "generatedAt": "2026-06-23T16:44:20.538Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I’ve been having issues with the front end since I purchased the vehicle. The dealership had not diagnosed this issue yet in 3 years. It had caused my vehicle to be in the shop continuously, my front driver side tire is worn out. I had to replace all brakes and rotors after 2 yea",
+      "pct": 56
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On July 27, 2024, the parking brake on this car would not disengage, thus, I was unable to drive my car.  We had to turn off the car for 15 minutes and then step on the gas and brake at the same time at which point the park brake \"disengaged.\"  I believe this is a safety/manufact",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 BMW X6. The contact stated that the vehicle failed to start, with the message \"Check Control - Repeat Start Attempt\" displayed. In addition, the check engine warning light remained illuminated. The cause of the failure was not yet determined. The manufactu",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I’ve been having issues with the front end since I purchased the vehicle. The dealership had not diagnosed this issue yet in 3 years. It had caused my vehicle to be in the shop continuously, my front driver side tire is worn out. I had to replace all brakes and rotors after 2 yea",
+      "pct": 11
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On December 28, 2023, the \"Fasten Seat Belt\" sign (rear passenger side seat) and sensor in my BMW x6 starting buzzing even though no one is seating on that seat.  I subsequently brought my car to the dealership and the service consultant did an ocular inspection of my seat belt a",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Bmw X6 owners report most",
+    "summary": "Across 9 owner complaints to NHTSA, the most reported area is Electrical System (56% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I’ve been having issues with the front end since I purchased the vehicle. The dealership had not diagnosed this issue yet in 3 years. It had caused my vehicle to be in the shop continuously, my front driver side tire is worn out. I had to replace all brakes and rotors after 2 yea",
+        "pct": 56,
+        "title": "Electrical System",
+        "blurb": "5 reports (56%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On July 27, 2024, the parking brake on this car would not disengage, thus, I was unable to drive my car.  We had to turn off the car for 15 minutes and then step on the gas and brake at the same time at which point the park brake \"disengaged.\"  I believe this is a safety/manufact",
+        "pct": 22,
+        "title": "Service Brakes",
+        "blurb": "2 reports (22%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 BMW X6. The contact stated that the vehicle failed to start, with the message \"Check Control - Repeat Start Attempt\" displayed. In addition, the check engine warning light remained illuminated. The cause of the failure was not yet determined. The manufactu",
+        "pct": 11,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I’ve been having issues with the front end since I purchased the vehicle. The dealership had not diagnosed this issue yet in 3 years. It had caused my vehicle to be in the shop continuously, my front driver side tire is worn out. I had to replace all brakes and rotors after 2 yea",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "1 report (11%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On December 28, 2023, the \"Fasten Seat Belt\" sign (rear passenger side seat) and sensor in my BMW x6 starting buzzing even though no one is seating on that seat.  I subsequently brought my car to the dealership and the service consultant did an ocular inspection of my seat belt a",
+        "pct": 11,
+        "title": "Seat Belts",
+        "blurb": "1 report (11%)"
+      }
+    ]
+  }
+}

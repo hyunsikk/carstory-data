@@ -1,0 +1,128 @@
+{
+  "slug": "2020-alfa-romeo-stelvio",
+  "make": "Alfa Romeo",
+  "model": "Stelvio",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/ALFA%20ROMEO/STELVIO#complaints",
+  "generatedAt": "2026-06-23T16:42:47.578Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When leaving to go to work, I pressed the button on the gear shift to put the car into reverse and then drive.   I heard something click into the cupholders as I drove.  It was the gear shift button.  The plastic actuator button fell off completely.  It would not fit back in.  I ",
+      "pct": 43
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Alfa Romeo Stelvio. The contact stated while driving at various speeds, the vehicle sputtered, lost motive power, and stalled. The contact stated that after coasting to the side of the roadway, the vehicle was restarted. The contact stated that after resta",
+      "pct": 43
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The gear shifter broke. The button on the back that you compress in order to trigger a button inside of the shifter, broke off and then the button inside got stuck. I was not able to shift gears and even though there was no other issue with the vehicle, I was stuck in a parking l",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was in an accident that was can be contributed to my lane keeping assistance. Once the car crashed into another vehicle my airbags failed to deploy.",
+      "pct": 14
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was in an accident that was can be contributed to my lane keeping assistance. Once the car crashed into another vehicle my airbags failed to deploy.",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Alfa Romeo Stelvio owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Power Train (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When leaving to go to work, I pressed the button on the gear shift to put the car into reverse and then drive.   I heard something click into the cupholders as I drove.  It was the gear shift button.  The plastic actuator button fell off completely.  It would not fit back in.  I ",
+        "pct": 43,
+        "title": "Power Train",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Alfa Romeo Stelvio. The contact stated while driving at various speeds, the vehicle sputtered, lost motive power, and stalled. The contact stated that after coasting to the side of the roadway, the vehicle was restarted. The contact stated that after resta",
+        "pct": 43,
+        "title": "Engine",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The gear shifter broke. The button on the back that you compress in order to trigger a button inside of the shifter, broke off and then the button inside got stuck. I was not able to shift gears and even though there was no other issue with the vehicle, I was stuck in a parking l",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was in an accident that was can be contributed to my lane keeping assistance. Once the car crashed into another vehicle my airbags failed to deploy.",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was in an accident that was can be contributed to my lane keeping assistance. Once the car crashed into another vehicle my airbags failed to deploy.",
+        "pct": 14,
+        "title": "Seat Belts",
+        "blurb": "1 report (14%) · 1 crash"
+      }
+    ]
+  }
+}

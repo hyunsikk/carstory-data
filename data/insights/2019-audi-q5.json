@@ -1,0 +1,128 @@
+{
+  "slug": "2019-audi-q5",
+  "make": "Audi",
+  "model": "Q5",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/AUDI/Q5#complaints",
+  "generatedAt": "2026-06-23T16:25:58.624Z",
+  "total": 46,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2017 AND NEWER AUDI VEHICLES WITH REAR CROSS TRAFFIC ALERT AND POSSIBLY THOSE WITH JUST AUDI PRE-SENSE ARE EXTREMELY FREQUENTLY GENERATING FALSE POSITIVES WHEN REVERSING. THE SYSTEM IS INCORRECTLY SENSING AN OBJECT AND ACTIVATING THE PARKING BRAKE TO AVOID A COLLISION. THIS RESUL",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I received a Safety Recall from Audi of America for my 2019 Audi Q5,   I am pleased that the recall is being done. However, the description of what could happen, in the Safety Recall letter,  should water enter the Gateway Module does not describe what happen to me when the Gatew",
+      "pct": 17
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING AT HIGHWAY SPEEDS ON INTERSTATE 79 JUST OUTSIDE OF CHARLESTOWN WV, THE ALARMS IN THE CAR WENT OFF AND A \"STEERING MALFUNCTION\", \"STOP THE CAR IMMEDIATELY\" MESSAGES WERE DISPLAYED.  THE CAR LOST ALL POWER STEERING ABILITY. IT WAS AN EXTREMELY DANGEROUS AND THANKFULLY THE R",
+      "pct": 15
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "DURING A REAR END COLLISION, THE VEHICLE, A 2019 AUDI Q5, WAS STOPPED, STATIONARY, ON A CITY STREET AT A SIGNAL AND STRUCK IN THE REAR BY ANOTHER VEHICLE GOING APPROX. 30-40 MPH. BOTH REAR SEAT PASSENGERS IN THE AUDI SUSTAINED SIGNIFICANT LOWER BACK INJURY AND ONGOING BACK PAIN P",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2019 Audi Q5. The contact stated that while driving at an undisclosed speed, the catastrophic transmission failure message was displayed and the vehicle inadvertently shifted into manual third gear. The vehicle was waiting to be towed. The dealer was made aware",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2019 Audi Q5 owners report most",
+    "summary": "Across 46 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2017 AND NEWER AUDI VEHICLES WITH REAR CROSS TRAFFIC ALERT AND POSSIBLY THOSE WITH JUST AUDI PRE-SENSE ARE EXTREMELY FREQUENTLY GENERATING FALSE POSITIVES WHEN REVERSING. THE SYSTEM IS INCORRECTLY SENSING AN OBJECT AND ACTIVATING THE PARKING BRAKE TO AVOID A COLLISION. THIS RESUL",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "11 reports (24%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I received a Safety Recall from Audi of America for my 2019 Audi Q5,   I am pleased that the recall is being done. However, the description of what could happen, in the Safety Recall letter,  should water enter the Gateway Module does not describe what happen to me when the Gatew",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "8 reports (17%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING AT HIGHWAY SPEEDS ON INTERSTATE 79 JUST OUTSIDE OF CHARLESTOWN WV, THE ALARMS IN THE CAR WENT OFF AND A \"STEERING MALFUNCTION\", \"STOP THE CAR IMMEDIATELY\" MESSAGES WERE DISPLAYED.  THE CAR LOST ALL POWER STEERING ABILITY. IT WAS AN EXTREMELY DANGEROUS AND THANKFULLY THE R",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "7 reports (15%) · 1 crash"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "DURING A REAR END COLLISION, THE VEHICLE, A 2019 AUDI Q5, WAS STOPPED, STATIONARY, ON A CITY STREET AT A SIGNAL AND STRUCK IN THE REAR BY ANOTHER VEHICLE GOING APPROX. 30-40 MPH. BOTH REAR SEAT PASSENGERS IN THE AUDI SUSTAINED SIGNIFICANT LOWER BACK INJURY AND ONGOING BACK PAIN P",
+        "pct": 11,
+        "title": "Seat Belts",
+        "blurb": "5 reports (11%) · 2 crash · 4 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2019 Audi Q5. The contact stated that while driving at an undisclosed speed, the catastrophic transmission failure message was displayed and the vehicle inadvertently shifted into manual third gear. The vehicle was waiting to be towed. The dealer was made aware",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "5 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

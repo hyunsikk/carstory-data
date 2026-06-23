@@ -1,0 +1,128 @@
+{
+  "slug": "2020-honda-fit",
+  "make": "Honda",
+  "model": "Fit",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HONDA/FIT#complaints",
+  "generatedAt": "2026-06-23T16:32:19.649Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DIGITAL DISPLAY (MILEAGE, OIL LEVEL, FUEL GAUGE, ETC) FAILS WHEN TURNING VEHICLE ON DURING COLD WEATHER. IT REMAINS BACKLIT, BUT ALL TEXT DISAPPEARS. TYPICALLY, THIS HAPPENS WHEN DRIVING ON EITHER HIGHWAY OR CITY STREETS. THIS MEANS AS A DRIVER I'M UNABLE TO SEE IF I NEED FUEL AM",
+      "pct": 21
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Collision Mitigation Braking System (CMBS) consistently provides a false positive when approaching a particular railroad crossing near my home.  When about 20 yards away from the crossing (a single set of tracks) approaching at 30-35mph, the BRAKE warning flashes and beeps fo",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Honda Fit. The contact stated that after starting the vehicle, the warning lights remained illuminated along with the check engine warning light. The vehicle also experienced misfiring while driving at various speeds. The vehicle was taken to the local dea",
+      "pct": 18
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle had entire dash warning lights appear suddenly and had noticed a week prior a vibration/clicking when driving at higher speeds over 50mph. Took to dealer and was told vehicle has had misfires and fuel system was badly dirty and needed an immediate cleaning. Why are the 20",
+      "pct": 12
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple warning light up on dash and loud beeping upon start up. No way to remove warnings which distract. Multiple safety features disabled 95% of time and the randomly work fine 5% of the time. Not related to any obvious damage or incident. Got in car one day to find several w",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Honda Fit owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Electrical System (21% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DIGITAL DISPLAY (MILEAGE, OIL LEVEL, FUEL GAUGE, ETC) FAILS WHEN TURNING VEHICLE ON DURING COLD WEATHER. IT REMAINS BACKLIT, BUT ALL TEXT DISAPPEARS. TYPICALLY, THIS HAPPENS WHEN DRIVING ON EITHER HIGHWAY OR CITY STREETS. THIS MEANS AS A DRIVER I'M UNABLE TO SEE IF I NEED FUEL AM",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "7 reports (21%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Collision Mitigation Braking System (CMBS) consistently provides a false positive when approaching a particular railroad crossing near my home.  When about 20 yards away from the crossing (a single set of tracks) approaching at 30-35mph, the BRAKE warning flashes and beeps fo",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (21%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Honda Fit. The contact stated that after starting the vehicle, the warning lights remained illuminated along with the check engine warning light. The vehicle also experienced misfiring while driving at various speeds. The vehicle was taken to the local dea",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "6 reports (18%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle had entire dash warning lights appear suddenly and had noticed a week prior a vibration/clicking when driving at higher speeds over 50mph. Took to dealer and was told vehicle has had misfires and fuel system was badly dirty and needed an immediate cleaning. Why are the 20",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (12%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple warning light up on dash and loud beeping upon start up. No way to remove warnings which distract. Multiple safety features disabled 95% of time and the randomly work fine 5% of the time. Not related to any obvious damage or incident. Got in car one day to find several w",
+        "pct": 9,
+        "title": "Lane Departure",
+        "blurb": "3 reports (9%)"
+      }
+    ]
+  }
+}

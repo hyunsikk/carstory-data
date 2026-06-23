@@ -1,0 +1,84 @@
+{
+  "slug": "2015-dodge-viper",
+  "make": "Dodge",
+  "model": "Viper",
+  "year": 2015,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2015/DODGE/VIPER#complaints",
+  "generatedAt": "2026-06-23T16:29:35.852Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PICKED CAR UP FROM DEALER AFTER ANOTHER SERVICE COMPLAINT AND THE RADIO, PHONE, AND SEAT WERE NOT WORKING.  I PULLED THE VEHICLE OVER AND DISCOVERED THE CIRCUIT BREAKER FOR FUSE LOCATION #11(POWER SEAT) HAD A DEAD SHORT AND KEPT THE BREAKER TRIPPED CONSTANTLY.  I REMOVED THE BREA",
+      "pct": 100
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PASSENGER WINDOW ROLLS ITSELF DOWN AND THE PASSENGER DOOR LATCH ACTUATES AND OPENS THE DOOR.  THIS STARTED WITH JUST THE DOOR OPENING WHEN THE CAR WOULD SIT OVERNIGHT.  IT THEN LATER PROGRESSED TO ROLLING THE WINDOW DOWN AND OPENING THE DOOR WHILE DRIVING THE VEHICLE.  DEALER IS ",
+      "pct": 33
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PICKED CAR UP FROM DEALER AFTER ANOTHER SERVICE COMPLAINT AND THE RADIO, PHONE, AND SEAT WERE NOT WORKING.  I PULLED THE VEHICLE OVER AND DISCOVERED THE CIRCUIT BREAKER FOR FUSE LOCATION #11(POWER SEAT) HAD A DEAD SHORT AND KEPT THE BREAKER TRIPPED CONSTANTLY.  I REMOVED THE BREA",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2015 Dodge Viper owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Electrical System (100% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PICKED CAR UP FROM DEALER AFTER ANOTHER SERVICE COMPLAINT AND THE RADIO, PHONE, AND SEAT WERE NOT WORKING.  I PULLED THE VEHICLE OVER AND DISCOVERED THE CIRCUIT BREAKER FOR FUSE LOCATION #11(POWER SEAT) HAD A DEAD SHORT AND KEPT THE BREAKER TRIPPED CONSTANTLY.  I REMOVED THE BREA",
+        "pct": 100,
+        "title": "Electrical System",
+        "blurb": "3 reports (100%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PASSENGER WINDOW ROLLS ITSELF DOWN AND THE PASSENGER DOOR LATCH ACTUATES AND OPENS THE DOOR.  THIS STARTED WITH JUST THE DOOR OPENING WHEN THE CAR WOULD SIT OVERNIGHT.  IT THEN LATER PROGRESSED TO ROLLING THE WINDOW DOWN AND OPENING THE DOOR WHILE DRIVING THE VEHICLE.  DEALER IS ",
+        "pct": 33,
+        "title": "Structure",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PICKED CAR UP FROM DEALER AFTER ANOTHER SERVICE COMPLAINT AND THE RADIO, PHONE, AND SEAT WERE NOT WORKING.  I PULLED THE VEHICLE OVER AND DISCOVERED THE CIRCUIT BREAKER FOR FUSE LOCATION #11(POWER SEAT) HAD A DEAD SHORT AND KEPT THE BREAKER TRIPPED CONSTANTLY.  I REMOVED THE BREA",
+        "pct": 33,
+        "title": "Seats",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

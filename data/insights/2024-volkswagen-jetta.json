@@ -1,0 +1,128 @@
+{
+  "slug": "2024-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T16:42:05.977Z",
+  "total": 34,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Hill Start Assist is overly aggressive in these cars. It doesn't release for 3 seconds after foot brake is not applied. Once it stalls the car and your panicked. Then you apply foot brake to restart the car you get to wait another 3 seconds or you stall again. It is inconsist",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased the car with around 70 miles. Dealer filled the car up full with gas when driven off the lot. Check engine light at 300 miles. Took into the dealer to deal with it. Dealer reported misfire on multiple cylinders on start up. Was told I put bad gas in the car when the dea",
+      "pct": 29
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This experience was with a rental vehicle - and I sent an email to the NHTSA address with additional details.  Later, I saw this form.  I am pasting the information here:  Request #[XXX] 2024 VW Jetta Rental Vehicle - Unintended Acceleration / Braking  The vehicle was rented from",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle’s SOS/emergency call system has been inoperative since the vehicle was purchased. At delivery, the emergency call function did not work and displayed error messages.  The vehicle was taken to an authorized Volkswagen dealer, and the OCU (online connectivity unit) modu",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I just got this 2024 Jetta Sport 6 speed manual and tried getting up the drive that's slightly inclined and the brake assist would not disengage or the fuel was cut after it didn't progress then dies. It is possible to power through the brake assist but it will cause premature we",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Volkswagen Jetta owners report most",
+    "summary": "Across 34 owner complaints to NHTSA, the most reported area is Service Brakes (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Hill Start Assist is overly aggressive in these cars. It doesn't release for 3 seconds after foot brake is not applied. Once it stalls the car and your panicked. Then you apply foot brake to restart the car you get to wait another 3 seconds or you stall again. It is inconsist",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "10 reports (29%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased the car with around 70 miles. Dealer filled the car up full with gas when driven off the lot. Check engine light at 300 miles. Took into the dealer to deal with it. Dealer reported misfire on multiple cylinders on start up. Was told I put bad gas in the car when the dea",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "10 reports (29%) · 1 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This experience was with a rental vehicle - and I sent an email to the NHTSA address with additional details.  Later, I saw this form.  I am pasting the information here:  Request #[XXX] 2024 VW Jetta Rental Vehicle - Unintended Acceleration / Braking  The vehicle was rented from",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "4 reports (12%) · 1 fire"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle’s SOS/emergency call system has been inoperative since the vehicle was purchased. At delivery, the emergency call function did not work and displayed error messages.  The vehicle was taken to an authorized Volkswagen dealer, and the OCU (online connectivity unit) modu",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "4 reports (12%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I just got this 2024 Jetta Sport 6 speed manual and tried getting up the drive that's slightly inclined and the brake assist would not disengage or the fuel was cut after it didn't progress then dies. It is possible to power through the brake assist but it will cause premature we",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (12%)"
+      }
+    ]
+  }
+}

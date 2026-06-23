@@ -1,0 +1,128 @@
+{
+  "slug": "2022-bmw-x5",
+  "make": "BMW",
+  "model": "X5",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/BMW/X5#complaints",
+  "generatedAt": "2026-06-23T16:27:05.463Z",
+  "total": 55,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drive Train Malfunction.  At about 1500 miles on the vehicle, while driving on a highway, the vehicle automatically shifted to Neutral. The vehicle came to a full stop on a highway. This could have been a multiple car accident if the cars were going at highway speed. BMW SOS call",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The car's start and stop feature due to the way it is programed started up the car when it was already turned off in a garage causing carbon monoxide to fill up in the garage.  There is no way to turn off the start/stop feature on the car to protect yourself or to make sure it's ",
+      "pct": 22
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "New 2022 BMW X5M with a little over 200 miles on it. Received a message stating, \"driver assistance support reduced\". This driver assistance package controls many of the safety features listed above, and then some (could only select 3 from the list above, but affects more). Sad p",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have started noticing a burning smell whenever the vehicle is plugged into a charging station. At first we thought it was due to the charger, but the issue continued after we replaced the charging unit. Further, we also tried charging the unit at another station and experience",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 BMW X5. The contact stated that his foot was caught on the mat and the vehicle accelerated. The contact had to engage the parking brake to stop the vehicle. There were no warning indicator lights illuminated.  While the vehicle was idling in the driveway, ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Bmw X5 owners report most",
+    "summary": "Across 55 owner complaints to NHTSA, the most reported area is Power Train (25% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drive Train Malfunction.  At about 1500 miles on the vehicle, while driving on a highway, the vehicle automatically shifted to Neutral. The vehicle came to a full stop on a highway. This could have been a multiple car accident if the cars were going at highway speed. BMW SOS call",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "14 reports (25%) · 1 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The car's start and stop feature due to the way it is programed started up the car when it was already turned off in a garage causing carbon monoxide to fill up in the garage.  There is no way to turn off the start/stop feature on the car to protect yourself or to make sure it's ",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "12 reports (22%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "New 2022 BMW X5M with a little over 200 miles on it. Received a message stating, \"driver assistance support reduced\". This driver assistance package controls many of the safety features listed above, and then some (could only select 3 from the list above, but affects more). Sad p",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (16%) · 3 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have started noticing a burning smell whenever the vehicle is plugged into a charging station. At first we thought it was due to the charger, but the issue continued after we replaced the charging unit. Further, we also tried charging the unit at another station and experience",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "9 reports (16%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 BMW X5. The contact stated that his foot was caught on the mat and the vehicle accelerated. The contact had to engage the parking brake to stop the vehicle. There were no warning indicator lights illuminated.  While the vehicle was idling in the driveway, ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "6 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2023-genesis-g80",
+  "make": "Genesis",
+  "model": "G80",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/GENESIS/G80#complaints",
+  "generatedAt": "2026-06-23T16:31:01.453Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Genesis G80. The contact received notification of NHTSA Campaign Number: 24V282000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+      "pct": 38
+    },
+    {
+      "component": "GASOLINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Genesis G80. The contact received notification of NHTSA Campaign Number: 24V282000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+      "pct": 38
+    },
+    {
+      "component": "WHEELS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Description of Incident: The car was sold with a passenger-front Dunlop tire that suffered a critical structural failure where the tread rubber completely wore away, leaving the internal metal cords and plies exposed (visual evidence attached). I was unknowingly operating the veh",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owned a 2023 Genesis G80. The contact stated that a 2001 Ford F-350, pulling a tow trailer, ran a red light while traveling at approximately 50 MPH and crashed into her vehicle. The air bags did not deploy. The contact sustained injuries to her left side, arm, neck, a",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Genesis G80. The contact stated that after a routine maintenance, the “Service Required” warning light illuminated. The vehicle was taken back to the local dealer who was unable to reset the warning light. The vehicle was diagnosed that the computer in the",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Genesis G80 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Fuel System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Genesis G80. The contact received notification of NHTSA Campaign Number: 24V282000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+        "pct": 38,
+        "title": "Fuel System",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Genesis G80. The contact received notification of NHTSA Campaign Number: 24V282000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time f",
+        "pct": 38,
+        "title": "Gasoline",
+        "blurb": "3 reports (38%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Description of Incident: The car was sold with a passenger-front Dunlop tire that suffered a critical structural failure where the tread rubber completely wore away, leaving the internal metal cords and plies exposed (visual evidence attached). I was unknowingly operating the veh",
+        "pct": 13,
+        "title": "Wheels",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owned a 2023 Genesis G80. The contact stated that a 2001 Ford F-350, pulling a tow trailer, ran a red light while traveling at approximately 50 MPH and crashed into her vehicle. The air bags did not deploy. The contact sustained injuries to her left side, arm, neck, a",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "1 report (13%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Genesis G80. The contact stated that after a routine maintenance, the “Service Required” warning light illuminated. The vehicle was taken back to the local dealer who was unable to reset the warning light. The vehicle was diagnosed that the computer in the",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2016-kia-rio",
+  "make": "Kia",
+  "model": "Rio",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/KIA/RIO#complaints",
+  "generatedAt": "2026-06-23T16:36:36.886Z",
+  "total": 77,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 38,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 KIA RIO. WHILE DRIVING 35 MPH, THE VEHICLE STALLED. THE VEHICLE RESTARTED INDEPENDENTLY AFTER A FEW MOMENTS. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE WAS TAKEN TO A DEALER WHERE THE CAUSE OF THE FAILURE COULD NOT BE DETERMINED. THE VEHICLE WAS ",
+      "pct": 49
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "From what I understand kia has no fix for manufacturer recall # SC284UB and NHTSA recall# 23V652. That is unacceptable and unprofessional. Kia is a hugh car dealer and they are saying there is no fix yet! I can't believe kia would put people and families at risk. Kia's action pla",
+      "pct": 23
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2016 Kia Rio. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2016 KIA RIO. A MINUTE AFTER THE CONTACT EXITED THE VEHICLE, IT CAUGHT ON FIRE. THE FIRE DEPARTMENT WAS CALLED AND EXTINGUISHED THE FIRE. THE VEHICLE WAS DESTROYED. THE DEALER (DYER KIA, 21280 US-27, LAKE WALES, FL 33859) WAS CONTACTED AND ADVISED THE CONT",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 KIA RIO. WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO ACCELERATE, BUT THE ENGINE CONTINUED TO OPERATE. THERE WERE NO WARNING INDICATORS ILLUMINATED BEFORE OR AFTER THE FAILURE. THE FAILURE WAS EXPERIENCED NUMEROUS TIMES WHILE AT A ST",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Kia Rio owners report most",
+    "summary": "Across 77 owner complaints to NHTSA, the most reported area is Engine (49% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 38,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 KIA RIO. WHILE DRIVING 35 MPH, THE VEHICLE STALLED. THE VEHICLE RESTARTED INDEPENDENTLY AFTER A FEW MOMENTS. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE WAS TAKEN TO A DEALER WHERE THE CAUSE OF THE FAILURE COULD NOT BE DETERMINED. THE VEHICLE WAS ",
+        "pct": 49,
+        "title": "Engine",
+        "blurb": "38 reports (49%) · 5 fire · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "From what I understand kia has no fix for manufacturer recall # SC284UB and NHTSA recall# 23V652. That is unacceptable and unprofessional. Kia is a hugh car dealer and they are saying there is no fix yet! I can't believe kia would put people and families at risk. Kia's action pla",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "18 reports (23%) · 1 fire · 2 crash"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2016 Kia Rio. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+        "pct": 16,
+        "title": "Hydraulic",
+        "blurb": "12 reports (16%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2016 KIA RIO. A MINUTE AFTER THE CONTACT EXITED THE VEHICLE, IT CAUGHT ON FIRE. THE FIRE DEPARTMENT WAS CALLED AND EXTINGUISHED THE FIRE. THE VEHICLE WAS DESTROYED. THE DEALER (DYER KIA, 21280 US-27, LAKE WALES, FL 33859) WAS CONTACTED AND ADVISED THE CONT",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "8 reports (10%) · 3 fire"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 KIA RIO. WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO ACCELERATE, BUT THE ENGINE CONTINUED TO OPERATE. THERE WERE NO WARNING INDICATORS ILLUMINATED BEFORE OR AFTER THE FAILURE. THE FAILURE WAS EXPERIENCED NUMEROUS TIMES WHILE AT A ST",
+        "pct": 6,
+        "title": "Power Train",
+        "blurb": "5 reports (6%)"
+      }
+    ]
+  }
+}

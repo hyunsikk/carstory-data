@@ -1,0 +1,40 @@
+{
+  "slug": "2020-ram-promaster-city",
+  "make": "Ram",
+  "model": "ProMaster City",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/RAM/PROMASTER%20CITY#complaints",
+  "generatedAt": "2026-06-23T16:40:25.649Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Ram Promaster City. The contact stated that after experiencing a flat tire, it was discovered that the spare tire could not be removed or released from the spare tire mounting section of the vehicle. The vehicle was taken to the local dealer who cut the ti",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Ram Promaster City owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Structure (100% of reports).",
+    "issues": [
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Ram Promaster City. The contact stated that after experiencing a flat tire, it was discovered that the spare tire could not be removed or released from the spare tire mounting section of the vehicle. The vehicle was taken to the local dealer who cut the ti",
+        "pct": 100,
+        "title": "Structure",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

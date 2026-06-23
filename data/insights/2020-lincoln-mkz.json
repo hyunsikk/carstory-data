@@ -1,0 +1,40 @@
+{
+  "slug": "2020-lincoln-mkz",
+  "make": "Lincoln",
+  "model": "MKZ",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/LINCOLN/MKZ#complaints",
+  "generatedAt": "2026-06-23T16:37:51.659Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My daughter almost killed herself in the car at [XXX]; the steering wheel and wheels got stuck. She's stuck at [XXX]  close by [XXX]  in the middle of the road, She's already called the mechanic and towing company and his assistant so I can get to work. The car is under my name  ",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Lincoln Mkz owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Steering (50% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My daughter almost killed herself in the car at [XXX]; the steering wheel and wheels got stuck. She's stuck at [XXX]  close by [XXX]  in the middle of the road, She's already called the mechanic and towing company and his assistant so I can get to work. The car is under my name  ",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

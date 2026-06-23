@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-a6",
+  "make": "Audi",
+  "model": "A6",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/A6#complaints",
+  "generatedAt": "2026-06-23T16:25:29.536Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple warnings indicating to contact dealer (Lane departure, adaptive cruise control, collision avoidance, electrical system, start/stop, etc) then 1 minute later transmission failure and engine failure imminent. After a minute or two my center MMI went blank then my electroni",
+      "pct": 60
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car reported an engine restarter issue (with battery symbol) and recommended to contact the dealer. Car next shut down automatic restart system, and air conditioning stopped working. Within a short period of time (same day), the car listed a red battery symbol and advised to stop",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My alternator was not working and it was a recall and I paid to fix it and they don’t wanna pay me back. I got a new part from audi and fix it at the shop and they don’t wanna pay anything just called and she said we don’t pay only if he’s done at the dealer. And I don’t believe ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car has had multiple issues with warning lights and malfunctioning systems.  Including : 1.Child locks 2.Every single component of the ADAS 3. Emergency services being activated at least a few times a month   - this is an SOS for emergency 911 service.  The repeated, continuo",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 Audi A6. The contact stated while driving at an undisclosed speed, the vehicle overheated. The engine overheating and the low coolant warning light illuminated. In addition, the engine seized. The vehicle was taken to the dealer where it was diagnosed with",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi A6 owners report most",
+    "summary": "Across 15 owner complaints to NHTSA, the most reported area is Electrical System (60% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple warnings indicating to contact dealer (Lane departure, adaptive cruise control, collision avoidance, electrical system, start/stop, etc) then 1 minute later transmission failure and engine failure imminent. After a minute or two my center MMI went blank then my electroni",
+        "pct": 60,
+        "title": "Electrical System",
+        "blurb": "9 reports (60%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car reported an engine restarter issue (with battery symbol) and recommended to contact the dealer. Car next shut down automatic restart system, and air conditioning stopped working. Within a short period of time (same day), the car listed a red battery symbol and advised to stop",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My alternator was not working and it was a recall and I paid to fix it and they don’t wanna pay me back. I got a new part from audi and fix it at the shop and they don’t wanna pay anything just called and she said we don’t pay only if he’s done at the dealer. And I don’t believe ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car has had multiple issues with warning lights and malfunctioning systems.  Including : 1.Child locks 2.Every single component of the ADAS 3. Emergency services being activated at least a few times a month   - this is an SOS for emergency 911 service.  The repeated, continuo",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (13%)"
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 Audi A6. The contact stated while driving at an undisclosed speed, the vehicle overheated. The engine overheating and the low coolant warning light illuminated. In addition, the engine seized. The vehicle was taken to the dealer where it was diagnosed with",
+        "pct": 7,
+        "title": "Engine And Engine Cooling",
+        "blurb": "1 report (7%)"
+      }
+    ]
+  }
+}

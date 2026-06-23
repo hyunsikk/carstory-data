@@ -1,0 +1,128 @@
+{
+  "slug": "2018-toyota-prius-prime",
+  "make": "Toyota",
+  "model": "Prius Prime",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/TOYOTA/PRIUS%20PRIME#complaints",
+  "generatedAt": "2026-06-23T16:45:48.800Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Take foot of break, car accelerates under power. Sooner or later, this is going to result in killing a pedestrian. The question has been for the last year, is this a behavior that can be gotten used to. The answer is definitely NO! This resulted in a near collision with a pedestr",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Airbags deployed prematurely as I was parking my car in a doctor's office parking lot.  The car was going less than 5 mph and I did not hit anything.  The  premature deployment of the airbag startled me and caused me to hit the accelerator instead of the brake and I ended up cras",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "'HYBRID SYSTEM FAILURE' APPEARED ON DASH DISPLAY DURING A LONG (120 MILE) DRIVE AT HIGHWAY SPEED ON SEPTEMBER 24. AFTER DRIVING ABOUT 40 MILES FURTHER, THE 'CHECK ENGINE LIGHT' CAME ON AND THE DISPLAY SAID TO PULL OVER IMMEDIATELY. AS I PULLED OFF THE FREEWAY, MESSAGES TOLD ME TH",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Hi,  My Prius Prime recently just suffered the loss of heat in the middle of winter.  Based on the diagnostic of my local Toyota dealer, it appears one of the metal heater coolant hose had rusted off.  This is not just causing a safety issue of having no issue, it is also a risk ",
+      "pct": 7
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My  2018 Toyota Prius Supreme was parked too far away from the curb in front of a house where we were invited, in a residential area in Naperville IL.  I entered the car to park it properly.  I had my foot on the brakes and pressed the starting button for the engine to turn on.  ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Toyota Prius Prime owners report most",
+    "summary": "Across 14 owner complaints to NHTSA, the most reported area is Power Train (14% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Take foot of break, car accelerates under power. Sooner or later, this is going to result in killing a pedestrian. The question has been for the last year, is this a behavior that can be gotten used to. The answer is definitely NO! This resulted in a near collision with a pedestr",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Airbags deployed prematurely as I was parking my car in a doctor's office parking lot.  The car was going less than 5 mph and I did not hit anything.  The  premature deployment of the airbag startled me and caused me to hit the accelerator instead of the brake and I ended up cras",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "2 reports (14%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "'HYBRID SYSTEM FAILURE' APPEARED ON DASH DISPLAY DURING A LONG (120 MILE) DRIVE AT HIGHWAY SPEED ON SEPTEMBER 24. AFTER DRIVING ABOUT 40 MILES FURTHER, THE 'CHECK ENGINE LIGHT' CAME ON AND THE DISPLAY SAID TO PULL OVER IMMEDIATELY. AS I PULLED OFF THE FREEWAY, MESSAGES TOLD ME TH",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "2 reports (14%)"
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Hi,  My Prius Prime recently just suffered the loss of heat in the middle of winter.  Based on the diagnostic of my local Toyota dealer, it appears one of the metal heater coolant hose had rusted off.  This is not just causing a safety issue of having no issue, it is also a risk ",
+        "pct": 7,
+        "title": "Visibility",
+        "blurb": "1 report (7%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My  2018 Toyota Prius Supreme was parked too far away from the curb in front of a house where we were invited, in a residential area in Naperville IL.  I entered the car to park it properly.  I had my foot on the brakes and pressed the starting button for the engine to turn on.  ",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "1 report (7%) · 1 crash"
+      }
+    ]
+  }
+}

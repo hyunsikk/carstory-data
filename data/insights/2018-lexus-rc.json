@@ -1,0 +1,40 @@
+{
+  "slug": "2018-lexus-rc",
+  "make": "Lexus",
+  "model": "RC",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/LEXUS/RC#complaints",
+  "generatedAt": "2026-06-23T16:37:31.650Z",
+  "total": 1,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The brake pads installed by Lexus squeak as if they need to be replaced. According to the Lexus dealer there is a service bulletin, and the fix is to replace the bad pads. I was told the brakes are fine and that the squeaking doesn't mean anything.",
+      "pct": 100
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Lexus Rc owners report most",
+    "summary": "Across 1 owner complaints to NHTSA, the most reported area is Service Brakes (100% of reports).",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The brake pads installed by Lexus squeak as if they need to be replaced. According to the Lexus dealer there is a service bulletin, and the fix is to replace the bad pads. I was told the brakes are fine and that the squeaking doesn't mean anything.",
+        "pct": 100,
+        "title": "Service Brakes",
+        "blurb": "1 report (100%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T16:31:18.420Z",
+  "total": 142,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On at least 3 occasions, my vehicle’s locks have malfunctioned and I’ve been locked out of my car with one incident being locked out in the rain. Upon approaching my vehicle and using the unlock button on the outside of my door, I was unable to access my vehicle. Then trying my k",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 29,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2021 GMC Acadia. The contact stated while stopped at a stop light and depressing the brake pedal, the engine revved up with the RPM’s increasing up to 15,000. No warning lights were illuminated. The contact stated that the vehicle jerked and vibrated as the tra",
+      "pct": 20
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brand new vehicle purchased from dealer, at 8900 miles transmission slipped. Dealer has for 2 hours and couldn’t find problem, but replaced transmission fluid it was dark. At 9000 it happened again, they have vehicle and said the new transmission fluid is dark and muddy. Only 100",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WIFE WAS DRIVING SOUTHBOUND ON US287 BETWEEN VERNON, TX AND WICHITA FALLS, TX IN A 75MPH SPEED ZONE.  VEHICLE ABRUPTLY AND FOR NO APPARENT REASON SLOWED  AS IF THE BRAKES HAD BEEN APPLIED WITH SUFFICIENT FORCE TO CAUSE HER TO BEND FORWARD AT THE WAIST.  SUBSEQUENTLY, THE VEHICLE ",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electronic parking brake is setting itself without you doing it even when parked on a completely flat surface.  Voice activated assist is going off while driving down the road without you hitting the steering wheel button. 1st dealer I took the car to refused to even address issu",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Gmc Acadia owners report most",
+    "summary": "Across 142 owner complaints to NHTSA, the most reported area is Electrical System (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On at least 3 occasions, my vehicle’s locks have malfunctioned and I’ve been locked out of my car with one incident being locked out in the rain. Upon approaching my vehicle and using the unlock button on the outside of my door, I was unable to access my vehicle. Then trying my k",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "37 reports (26%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 29,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2021 GMC Acadia. The contact stated while stopped at a stop light and depressing the brake pedal, the engine revved up with the RPM’s increasing up to 15,000. No warning lights were illuminated. The contact stated that the vehicle jerked and vibrated as the tra",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "29 reports (20%) · 2 crash"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brand new vehicle purchased from dealer, at 8900 miles transmission slipped. Dealer has for 2 hours and couldn’t find problem, but replaced transmission fluid it was dark. At 9000 it happened again, they have vehicle and said the new transmission fluid is dark and muddy. Only 100",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "22 reports (15%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WIFE WAS DRIVING SOUTHBOUND ON US287 BETWEEN VERNON, TX AND WICHITA FALLS, TX IN A 75MPH SPEED ZONE.  VEHICLE ABRUPTLY AND FOR NO APPARENT REASON SLOWED  AS IF THE BRAKES HAD BEEN APPLIED WITH SUFFICIENT FORCE TO CAUSE HER TO BEND FORWARD AT THE WAIST.  SUBSEQUENTLY, THE VEHICLE ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "17 reports (12%) · 1 crash"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electronic parking brake is setting itself without you doing it even when parked on a completely flat surface.  Voice activated assist is going off while driving down the road without you hitting the steering wheel button. 1st dealer I took the car to refused to even address issu",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "16 reports (11%) · 1 crash"
+      }
+    ]
+  }
+}

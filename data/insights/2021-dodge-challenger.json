@@ -1,0 +1,128 @@
+{
+  "slug": "2021-dodge-challenger",
+  "make": "Dodge",
+  "model": "Challenger",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/DODGE/CHALLENGER#complaints",
+  "generatedAt": "2026-06-23T16:29:18.070Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owned a 2021 Dodge Challenger. The contact stated that while driving on the highway at approximately 55-65 MPH when the vehicle hydroplaned, as a result, the vehicle struck a guard rail head-on and spun out of control. The contact stated that the frontal air bags fail",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transmission/drive shaft thumps and the car \"lurches\" upon start-up. This is somehow related to the push button start. My car is also equipped with a factory remote start and no noise is heard, nor does the car lurch on start-up.  Please refer to video link:  https://youtu.be",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The cars light notifications on instrument cluster panel turned on all of them at the same time while accelerating jerking the car on freeway I have video of that happening and can provide it upon request it did  caused a minor accident but I settled the accident  with other driv",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Challenger less than a week from the dealership and less than 1,000 miles.  Catastrophic fuel pump failure while driving, unable to recover.   Rear view back up camera freezes and stutters causing safety issues.   Radio volume constantly changes while driving and leads to distrac",
+      "pct": 18
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Left frontal Collision between drivers side head assembly and center front of car- with white tail deer about 100-120 lbs. , causing extensive damage to car.  $19,000. Payout from progressive for those extensive repairs.  And airbags never deployed. This seems highly alarming to ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Dodge Challenger owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Air Bags (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owned a 2021 Dodge Challenger. The contact stated that while driving on the highway at approximately 55-65 MPH when the vehicle hydroplaned, as a result, the vehicle struck a guard rail head-on and spun out of control. The contact stated that the frontal air bags fail",
+        "pct": 24,
+        "title": "Air Bags",
+        "blurb": "4 reports (24%) · 3 crash · 2 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transmission/drive shaft thumps and the car \"lurches\" upon start-up. This is somehow related to the push button start. My car is also equipped with a factory remote start and no noise is heard, nor does the car lurch on start-up.  Please refer to video link:  https://youtu.be",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "3 reports (18%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The cars light notifications on instrument cluster panel turned on all of them at the same time while accelerating jerking the car on freeway I have video of that happening and can provide it upon request it did  caused a minor accident but I settled the accident  with other driv",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "3 reports (18%) · 1 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Challenger less than a week from the dealership and less than 1,000 miles.  Catastrophic fuel pump failure while driving, unable to recover.   Rear view back up camera freezes and stutters causing safety issues.   Radio volume constantly changes while driving and leads to distrac",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "3 reports (18%) · 1 fire"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Left frontal Collision between drivers side head assembly and center front of car- with white tail deer about 100-120 lbs. , causing extensive damage to car.  $19,000. Payout from progressive for those extensive repairs.  And airbags never deployed. This seems highly alarming to ",
+        "pct": 12,
+        "title": "Structure",
+        "blurb": "2 reports (12%) · 1 crash"
+      }
+    ]
+  }
+}

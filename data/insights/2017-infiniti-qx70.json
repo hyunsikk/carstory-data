@@ -1,0 +1,128 @@
+{
+  "slug": "2017-infiniti-qx70",
+  "make": "Infiniti",
+  "model": "QX70",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/INFINITI/QX70#complaints",
+  "generatedAt": "2026-06-23T16:45:12.193Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Multiple incidents of car not starting or stalling in rain. 1. After a rainstorm while parked,  noticed water on the driver side floor and dripping from the driver door side under dashboard,  water coming from defective design of sunroof water drains/tubing which are clogged beca",
+      "pct": 43
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 Infiniti QX70. The contact stated that while driving approximately 55 MPH, the transmission was hard shifting into gear. The contact stated that the transmission failed to shift into the proper gear. Additionally, while driving in the rain, the vehicle hyd",
+      "pct": 29
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issue I have experienced involved my car stalling due to an inaccurate fuel gauge reading: basically, ran out of gas on a road while fuel gage was still showing half tank full. Luckily, was able to avoid any accident. The error code came up: P0462, which stands for “Fuel Leve",
+      "pct": 14
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving down the highway on [XXX]  near Tucson, Arizona, when I heard a loud boom and my sunroof shattered. There were no cars in front of me, nor did I see anything in the road. It scared me but luckily I had my sunroof visor closed. I pulled off the freeway to check the d",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A sensor, or trio of sensors, in the passenger side airbag system failed. Nissan/Infiniti says they cant be sure which of the three sensors is causing the problem and needs to replace all three. One of the sensors is integrated into the passenger seat itself and therefore the ent",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Infiniti Qx70 owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Electrical System (43% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Multiple incidents of car not starting or stalling in rain. 1. After a rainstorm while parked,  noticed water on the driver side floor and dripping from the driver door side under dashboard,  water coming from defective design of sunroof water drains/tubing which are clogged beca",
+        "pct": 43,
+        "title": "Electrical System",
+        "blurb": "3 reports (43%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 Infiniti QX70. The contact stated that while driving approximately 55 MPH, the transmission was hard shifting into gear. The contact stated that the transmission failed to shift into the proper gear. Additionally, while driving in the rain, the vehicle hyd",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issue I have experienced involved my car stalling due to an inaccurate fuel gauge reading: basically, ran out of gas on a road while fuel gage was still showing half tank full. Luckily, was able to avoid any accident. The error code came up: P0462, which stands for “Fuel Leve",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving down the highway on [XXX]  near Tucson, Arizona, when I heard a loud boom and my sunroof shattered. There were no cars in front of me, nor did I see anything in the road. It scared me but luckily I had my sunroof visor closed. I pulled off the freeway to check the d",
+        "pct": 14,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A sensor, or trio of sensors, in the passenger side airbag system failed. Nissan/Infiniti says they cant be sure which of the three sensors is causing the problem and needs to replace all three. One of the sensors is integrated into the passenger seat itself and therefore the ent",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

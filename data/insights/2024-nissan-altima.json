@@ -1,0 +1,128 @@
+{
+  "slug": "2024-nissan-altima",
+  "make": "Nissan",
+  "model": "Altima",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/NISSAN/ALTIMA#complaints",
+  "generatedAt": "2026-06-23T16:39:08.224Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving, the auto spontaneously without warning has a near catastrophic failure of all systems (e.g. anti-lock brakes, emissions, control, automatic windows etc.) All warning icon lights are on the driver’s front video are displayed while a central scrolling message reports",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving, the auto spontaneously without warning has a near catastrophic failure of all systems (e.g. anti-lock brakes, emissions, control, automatic windows etc.) All warning icon lights are on the driver’s front video are displayed while a central scrolling message reports",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Wednesday 08/21/2024, at approximately 6:30 pm, my 2024 Nissan Altima completely shut off whiile my wife was driving the car down a very busy road. She narrowly miss being struck by another while attempting to navigate to the center lane of a busy highway with no power. Vehicl",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "This request is due to my concern that a possible manufacturing or other defect in the 2024 Nissan Altima’s steering and/or wheel mechanisms caused a sudden loss of steering control and resulted in a collision and serious injuries. The car was taken possession by National Car Ren",
+      "pct": 13
+    },
+    {
+      "component": "SEATS",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Rear seatbelt sensors in my 2024 Nissan Altima repeatedly beep and show an unbuckled warning, even when the back seat is unoccupied and with zero belongings. This started around 2 months ago. This causes a distraction while driving and may indicate a malfunctioning occupant detec",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Nissan Altima owners report most",
+    "summary": "Across 39 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (13% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving, the auto spontaneously without warning has a near catastrophic failure of all systems (e.g. anti-lock brakes, emissions, control, automatic windows etc.) All warning icon lights are on the driver’s front video are displayed while a central scrolling message reports",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (13%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving, the auto spontaneously without warning has a near catastrophic failure of all systems (e.g. anti-lock brakes, emissions, control, automatic windows etc.) All warning icon lights are on the driver’s front video are displayed while a central scrolling message reports",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "5 reports (13%) · 3 crash · 1 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Wednesday 08/21/2024, at approximately 6:30 pm, my 2024 Nissan Altima completely shut off whiile my wife was driving the car down a very busy road. She narrowly miss being struck by another while attempting to navigate to the center lane of a busy highway with no power. Vehicl",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "5 reports (13%) · 1 fire · 1 crash"
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "This request is due to my concern that a possible manufacturing or other defect in the 2024 Nissan Altima’s steering and/or wheel mechanisms caused a sudden loss of steering control and resulted in a collision and serious injuries. The car was taken possession by National Car Ren",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "5 reports (13%) · 2 crash · 2 injured"
+      },
+      {
+        "component": "SEATS",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Rear seatbelt sensors in my 2024 Nissan Altima repeatedly beep and show an unbuckled warning, even when the back seat is unoccupied and with zero belongings. This started around 2 months ago. This causes a distraction while driving and may indicate a malfunctioning occupant detec",
+        "pct": 10,
+        "title": "Seats",
+        "blurb": "4 reports (10%) · 1 injured"
+      }
+    ]
+  }
+}

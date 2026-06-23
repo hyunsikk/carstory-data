@@ -1,0 +1,128 @@
+{
+  "slug": "2021-toyota-c-hr",
+  "make": "Toyota",
+  "model": "C-HR",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/C-HR#complaints",
+  "generatedAt": "2026-06-23T16:41:15.613Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission failure. Required service visits always on time with no indication of any problems. After a noticeable change in the vehicle drive and noise from the engine, the vehicle was immediately brought to the dealer service center for inspection. The dealer confirmed  transm",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the car in April of 2021 and by the end of the month it was in the shop because it was consuming way to much fuel I’ve been back to the dealer since for this matter many times as well as many time for other safety defects like the lane keeping assist taking over and f",
+      "pct": 16
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "While driving my vehicle and with small children present on 11/18/21 the vehicle suddenly force brakes with the forward collision warning there was nothing forward of me and this incident nearly causes a rear end accident since this incident i keep getting forwarded warnings wher",
+      "pct": 13
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My Chr Toyota 2021 has many issues, seat belt lock I have a pair of scissors just in case, usb don't work correctly, windshield wipers gets stuck right in the middle, brakes noise, back seat rug detaching from the floor, radio, Bluetooth, front seats move forward by it self creat",
+      "pct": 10
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the car in April of 2021 and by the end of the month it was in the shop because it was consuming way to much fuel I’ve been back to the dealer since for this matter many times as well as many time for other safety defects like the lane keeping assist taking over and f",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Toyota C-Hr owners report most",
+    "summary": "Across 31 owner complaints to NHTSA, the most reported area is Power Train (42% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission failure. Required service visits always on time with no indication of any problems. After a noticeable change in the vehicle drive and noise from the engine, the vehicle was immediately brought to the dealer service center for inspection. The dealer confirmed  transm",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "13 reports (42%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the car in April of 2021 and by the end of the month it was in the shop because it was consuming way to much fuel I’ve been back to the dealer since for this matter many times as well as many time for other safety defects like the lane keeping assist taking over and f",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "5 reports (16%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "While driving my vehicle and with small children present on 11/18/21 the vehicle suddenly force brakes with the forward collision warning there was nothing forward of me and this incident nearly causes a rear end accident since this incident i keep getting forwarded warnings wher",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (13%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My Chr Toyota 2021 has many issues, seat belt lock I have a pair of scissors just in case, usb don't work correctly, windshield wipers gets stuck right in the middle, brakes noise, back seat rug detaching from the floor, radio, Bluetooth, front seats move forward by it self creat",
+        "pct": 10,
+        "title": "Seat Belts",
+        "blurb": "3 reports (10%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the car in April of 2021 and by the end of the month it was in the shop because it was consuming way to much fuel I’ve been back to the dealer since for this matter many times as well as many time for other safety defects like the lane keeping assist taking over and f",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "2 reports (6%)"
+      }
+    ]
+  }
+}

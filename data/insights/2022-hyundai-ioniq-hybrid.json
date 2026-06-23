@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-ioniq-hybrid",
+  "make": "Hyundai",
+  "model": "Ioniq Hybrid",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/IONIQ%20HYBRID#complaints",
+  "generatedAt": "2026-06-23T16:33:37.481Z",
+  "total": 21,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The regenerative brakes had an error go off, which caused the brakes to stop working properly. This error went off twice, once in my driveway upon starting my car, then it reset itself. And again while driving, in which I nearly rear ended the car in front of me due to the brakes",
+      "pct": 62
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The front sensor light is showing it isn’t working and there is a regular reminder that the sensors don't work, but i just had it serviced and the dealership thought the update would correct it, but the alert came on again and the MyHyundai app shows everything is on order, so it",
+      "pct": 33
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was in an accident on October 7, 2022. There was almost $5,000 in damage. Repairs were made, but several repairs were left unattended and I am put at risk of safety. The Seat Tracking was out of alignment and could not be verified by mechanic, although it was verified by the bo",
+      "pct": 33
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The front sensor light is showing it isn’t working and there is a regular reminder that the sensors don't work, but i just had it serviced and the dealership thought the update would correct it, but the alert came on again and the MyHyundai app shows everything is on order, so it",
+      "pct": 10
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Ioniq Hybrid. The contact stated that while driving at various speeds and while passing a nearby vehicle on the left lane or while a street sign was nearby on the right side, the vehicle would independently apply the brakes without the brake pedal ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Hyundai Ioniq Hybrid owners report most",
+    "summary": "Across 21 owner complaints to NHTSA, the most reported area is Service Brakes (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The regenerative brakes had an error go off, which caused the brakes to stop working properly. This error went off twice, once in my driveway upon starting my car, then it reset itself. And again while driving, in which I nearly rear ended the car in front of me due to the brakes",
+        "pct": 62,
+        "title": "Service Brakes",
+        "blurb": "13 reports (62%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The front sensor light is showing it isn’t working and there is a regular reminder that the sensors don't work, but i just had it serviced and the dealership thought the update would correct it, but the alert came on again and the MyHyundai app shows everything is on order, so it",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "7 reports (33%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was in an accident on October 7, 2022. There was almost $5,000 in damage. Repairs were made, but several repairs were left unattended and I am put at risk of safety. The Seat Tracking was out of alignment and could not be verified by mechanic, although it was verified by the bo",
+        "pct": 33,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (33%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The front sensor light is showing it isn’t working and there is a regular reminder that the sensors don't work, but i just had it serviced and the dealership thought the update would correct it, but the alert came on again and the MyHyundai app shows everything is on order, so it",
+        "pct": 10,
+        "title": "Lane Departure",
+        "blurb": "2 reports (10%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Ioniq Hybrid. The contact stated that while driving at various speeds and while passing a nearby vehicle on the left lane or while a street sign was nearby on the right side, the vehicle would independently apply the brakes without the brake pedal ",
+        "pct": 5,
+        "title": "Hydraulic",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}

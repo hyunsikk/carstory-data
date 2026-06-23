@@ -1,0 +1,128 @@
+{
+  "slug": "2023-hyundai-ioniq-6",
+  "make": "Hyundai",
+  "model": "Ioniq 6",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HYUNDAI/IONIQ%206#complaints",
+  "generatedAt": "2026-06-23T16:33:24.994Z",
+  "total": 56,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Ioniq 6 is supposed to be able to charge at 48 amps. I bought a new Ioniq 6 in early June 2023. June 12 I had the level 2 Juice Box 48 amp charger installed. At least twice (I think three times), it would stop charging after about twenty minutes — the charge port appears to b",
+      "pct": 59
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving in the highway I took my foot off the accelerator and despite one pedal driving being on the car did not brake. I then tapped the brake. When I then pushed the accelerator to keep up with traffic, nothing happened. I checked the screen for warning lights. The car ha",
+      "pct": 14
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Ioniq6 slowed down to 20 mph for the second time tonight.  No matter how hard I pressed on the accelerator the car would not speed up past 20 mph.  A message on the dashboard said “Limit: 20 mph”. Eventually the car picked up speed then said “Limit: 43 mph”.  (The speed limit ",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Ioniq6 slowed down to 20 mph for the second time tonight.  No matter how hard I pressed on the accelerator the car would not speed up past 20 mph.  A message on the dashboard said “Limit: 20 mph”. Eventually the car picked up speed then said “Limit: 43 mph”.  (The speed limit ",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My Ioniq 6 Limited AWD experienced a phantom braking event in a covered parking lot with no cars or pedestrians anywhere near the front of my car.  The car just stopped suddenly with a warning message \"Emergency Braking\", and it wouldn't allow me to proceed until I turned off the",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Hyundai Ioniq 6 owners report most",
+    "summary": "Across 56 owner complaints to NHTSA, the most reported area is Electrical System (59% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Ioniq 6 is supposed to be able to charge at 48 amps. I bought a new Ioniq 6 in early June 2023. June 12 I had the level 2 Juice Box 48 amp charger installed. At least twice (I think three times), it would stop charging after about twenty minutes — the charge port appears to b",
+        "pct": 59,
+        "title": "Electrical System",
+        "blurb": "33 reports (59%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving in the highway I took my foot off the accelerator and despite one pedal driving being on the car did not brake. I then tapped the brake. When I then pushed the accelerator to keep up with traffic, nothing happened. I checked the screen for warning lights. The car ha",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "8 reports (14%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Ioniq6 slowed down to 20 mph for the second time tonight.  No matter how hard I pressed on the accelerator the car would not speed up past 20 mph.  A message on the dashboard said “Limit: 20 mph”. Eventually the car picked up speed then said “Limit: 43 mph”.  (The speed limit ",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (11%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Ioniq6 slowed down to 20 mph for the second time tonight.  No matter how hard I pressed on the accelerator the car would not speed up past 20 mph.  A message on the dashboard said “Limit: 20 mph”. Eventually the car picked up speed then said “Limit: 43 mph”.  (The speed limit ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "6 reports (11%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My Ioniq 6 Limited AWD experienced a phantom braking event in a covered parking lot with no cars or pedestrians anywhere near the front of my car.  The car just stopped suddenly with a warning message \"Emergency Braking\", and it wouldn't allow me to proceed until I turned off the",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (7%) · 1 injured"
+      }
+    ]
+  }
+}

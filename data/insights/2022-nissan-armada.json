@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-armada",
+  "make": "Nissan",
+  "model": "Armada",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/ARMADA#complaints",
+  "generatedAt": "2026-06-23T16:39:10.709Z",
+  "total": 7,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENTIRE DASHBOARD, INFOTAINMENT, AND CLIMATE CONTROLS GO BLANK, THIS HAPPENS ALL THE TIME. TODAY, EVERY WARNING LIGHT ON THE ENTIRE DASHBOARD LIT UP BUZZING, HAD TO PULL OVER TO TURN OFF CAR, OPEN DOOR AND RE START. THIS IS VERY DISTRACTING, AND DANGEROUS. THIS GIVES NO WARNIN",
+      "pct": 57
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "THE ENTIRE DASHBOARD, INFOTAINMENT, AND CLIMATE CONTROLS GO BLANK, THIS HAPPENS ALL THE TIME. TODAY, EVERY WARNING LIGHT ON THE ENTIRE DASHBOARD LIT UP BUZZING, HAD TO PULL OVER TO TURN OFF CAR, OPEN DOOR AND RE START. THIS IS VERY DISTRACTING, AND DANGEROUS. THIS GIVES NO WARNIN",
+      "pct": 43
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Battery drain happens and vehicle Will be hard to start or not start at all. New battery was installed and 4 months later, same issue.   It has been taken into dealership multiple times and they can never recreate the issue and have found nothing wrong with the vehicle to repair.",
+      "pct": 29
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle radiator fan clutch engaged all the time and slowed acceleration responsiveness. This could cause safety issues when the vehicle responds to gas differently. This seemed to be a common component that goes out on Armada.",
+      "pct": 14
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENTIRE DASHBOARD, INFOTAINMENT, AND CLIMATE CONTROLS GO BLANK, THIS HAPPENS ALL THE TIME. TODAY, EVERY WARNING LIGHT ON THE ENTIRE DASHBOARD LIT UP BUZZING, HAD TO PULL OVER TO TURN OFF CAR, OPEN DOOR AND RE START. THIS IS VERY DISTRACTING, AND DANGEROUS. THIS GIVES NO WARNIN",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Nissan Armada owners report most",
+    "summary": "Across 7 owner complaints to NHTSA, the most reported area is Electrical System (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENTIRE DASHBOARD, INFOTAINMENT, AND CLIMATE CONTROLS GO BLANK, THIS HAPPENS ALL THE TIME. TODAY, EVERY WARNING LIGHT ON THE ENTIRE DASHBOARD LIT UP BUZZING, HAD TO PULL OVER TO TURN OFF CAR, OPEN DOOR AND RE START. THIS IS VERY DISTRACTING, AND DANGEROUS. THIS GIVES NO WARNIN",
+        "pct": 57,
+        "title": "Electrical System",
+        "blurb": "4 reports (57%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "THE ENTIRE DASHBOARD, INFOTAINMENT, AND CLIMATE CONTROLS GO BLANK, THIS HAPPENS ALL THE TIME. TODAY, EVERY WARNING LIGHT ON THE ENTIRE DASHBOARD LIT UP BUZZING, HAD TO PULL OVER TO TURN OFF CAR, OPEN DOOR AND RE START. THIS IS VERY DISTRACTING, AND DANGEROUS. THIS GIVES NO WARNIN",
+        "pct": 43,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (43%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Battery drain happens and vehicle Will be hard to start or not start at all. New battery was installed and 4 months later, same issue.   It has been taken into dealership multiple times and they can never recreate the issue and have found nothing wrong with the vehicle to repair.",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "2 reports (29%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle radiator fan clutch engaged all the time and slowed acceleration responsiveness. This could cause safety issues when the vehicle responds to gas differently. This seemed to be a common component that goes out on Armada.",
+        "pct": 14,
+        "title": "Vehicle Speed Control",
+        "blurb": "1 report (14%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENTIRE DASHBOARD, INFOTAINMENT, AND CLIMATE CONTROLS GO BLANK, THIS HAPPENS ALL THE TIME. TODAY, EVERY WARNING LIGHT ON THE ENTIRE DASHBOARD LIT UP BUZZING, HAD TO PULL OVER TO TURN OFF CAR, OPEN DOOR AND RE START. THIS IS VERY DISTRACTING, AND DANGEROUS. THIS GIVES NO WARNIN",
+        "pct": 14,
+        "title": "Lane Departure",
+        "blurb": "1 report (14%)"
+      }
+    ]
+  }
+}

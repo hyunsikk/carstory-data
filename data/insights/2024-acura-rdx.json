@@ -1,0 +1,128 @@
+{
+  "slug": "2024-acura-rdx",
+  "make": "Acura",
+  "model": "RDX",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/ACURA/RDX#complaints",
+  "generatedAt": "2026-06-23T16:24:56.707Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driver side mirror is vibrating while driving- more noticeable at speeds above 35 mph. Took into the dealer for replacement. After ride with tech, tech confirmed issue. Dealer replaced driver side mirror but still shakes/vibrates while driving. Vibration causes distortion of vehi",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "See attached document for complaint.",
+      "pct": 10
+    },
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This incident happened on July 5th 2025. My 2024 leased Acura RDX front passenger seat caught on fire. The car was parked and not driven for two days before this happened. My educated untrained guess and the police officer on the scene guess was that this was an electrical fire. ",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact leased a 2024 Acura RDX. The contact stated while driving at various speeds and depressing the brake pedal, the brake pedal traveled to the floorboard and the vehicle failed to respond. The contact pumped the brake pedal, and the brake pedal responded as needed. There",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Acura Rdx owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Visibility/Wiper (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driver side mirror is vibrating while driving- more noticeable at speeds above 35 mph. Took into the dealer for replacement. After ride with tech, tech confirmed issue. Dealer replaced driver side mirror but still shakes/vibrates while driving. Vibration causes distortion of vehi",
+        "pct": 20,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (20%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "See attached document for complaint.",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This incident happened on July 5th 2025. My 2024 leased Acura RDX front passenger seat caught on fire. The car was parked and not driven for two days before this happened. My educated untrained guess and the police officer on the scene guess was that this was an electrical fire. ",
+        "pct": 10,
+        "title": "Seats",
+        "blurb": "1 report (10%) · 1 fire"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact leased a 2024 Acura RDX. The contact stated while driving at various speeds and depressing the brake pedal, the brake pedal traveled to the floorboard and the vehicle failed to respond. The contact pumped the brake pedal, and the brake pedal responded as needed. There",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

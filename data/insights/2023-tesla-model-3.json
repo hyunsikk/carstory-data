@@ -1,0 +1,128 @@
+{
+  "slug": "2023-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T16:41:04.714Z",
+  "total": 406,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 167,
+      "crash": 27,
+      "fire": 0,
+      "injuries": 14,
+      "deaths": 0,
+      "sample": "While traveling on the interstate at 75+ mph, which the cruise control engaged, the vehicle emergency braked 2 times during on one trip. The first felt like a fluke, speed was reduced by 10ish miles per hour. The second time was terrifying. I was traveling approximately 77 mph on",
+      "pct": 41
+    },
+    {
+      "component": "STEERING",
+      "count": 84,
+      "crash": 15,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "This is an addition to my earlier complaint,  NHTSA tracking number # 11520382. To reiterate, in this issue the suspension components failed even though the rim and wheel were pristine, and the sidewall did NOT have bubbles even a week after steering issues were observed. I will ",
+      "pct": 21
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 66,
+      "crash": 21,
+      "fire": 0,
+      "injuries": 16,
+      "deaths": 0,
+      "sample": "While traveling on the interstate at 75+ mph, which the cruise control engaged, the vehicle emergency braked 2 times during on one trip. The first felt like a fluke, speed was reduced by 10ish miles per hour. The second time was terrifying. I was traveling approximately 77 mph on",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 54,
+      "crash": 21,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "While traveling on the interstate at 75+ mph, which the cruise control engaged, the vehicle emergency braked 2 times during on one trip. The first felt like a fluke, speed was reduced by 10ish miles per hour. The second time was terrifying. I was traveling approximately 77 mph on",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 51,
+      "crash": 9,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "I was driving a turn on a major intersection Stirling and I-95 Holly wood Florida to the on ramp to enter I-95 southbound when my car began shaking violently during the turn and completely shut down. The car was dead and I could not go forward or reverse. The center information p",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Tesla Model 3 owners report most",
+    "summary": "Across 406 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 167,
+        "crash": 27,
+        "fire": 0,
+        "injuries": 14,
+        "deaths": 0,
+        "sample": "While traveling on the interstate at 75+ mph, which the cruise control engaged, the vehicle emergency braked 2 times during on one trip. The first felt like a fluke, speed was reduced by 10ish miles per hour. The second time was terrifying. I was traveling approximately 77 mph on",
+        "pct": 41,
+        "title": "Forward Collision Avoidance",
+        "blurb": "167 reports (41%) · 27 crash · 14 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 84,
+        "crash": 15,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "This is an addition to my earlier complaint,  NHTSA tracking number # 11520382. To reiterate, in this issue the suspension components failed even though the rim and wheel were pristine, and the sidewall did NOT have bubbles even a week after steering issues were observed. I will ",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "84 reports (21%) · 15 crash · 7 injured"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 66,
+        "crash": 21,
+        "fire": 0,
+        "injuries": 16,
+        "deaths": 0,
+        "sample": "While traveling on the interstate at 75+ mph, which the cruise control engaged, the vehicle emergency braked 2 times during on one trip. The first felt like a fluke, speed was reduced by 10ish miles per hour. The second time was terrifying. I was traveling approximately 77 mph on",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "66 reports (16%) · 21 crash · 16 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 54,
+        "crash": 21,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "While traveling on the interstate at 75+ mph, which the cruise control engaged, the vehicle emergency braked 2 times during on one trip. The first felt like a fluke, speed was reduced by 10ish miles per hour. The second time was terrifying. I was traveling approximately 77 mph on",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "54 reports (13%) · 21 crash · 10 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 51,
+        "crash": 9,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "I was driving a turn on a major intersection Stirling and I-95 Holly wood Florida to the on ramp to enter I-95 southbound when my car began shaking violently during the turn and completely shut down. The car was dead and I could not go forward or reverse. The center information p",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "51 reports (13%) · 9 crash · 5 injured"
+      }
+    ]
+  }
+}

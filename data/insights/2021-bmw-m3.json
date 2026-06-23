@@ -1,0 +1,106 @@
+{
+  "slug": "2021-bmw-m3",
+  "make": "BMW",
+  "model": "M3",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/BMW/M3#complaints",
+  "generatedAt": "2026-06-23T16:26:46.927Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Loud clunking and creaking noise from front suspension when driving on uneven or bumpy road surfaces.",
+      "pct": 33
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Loud clunking and creaking noise from front suspension when driving on uneven or bumpy road surfaces.",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown. I was driving home when I get a message stating “passenger restraint system malfunction”",
+      "pct": 33
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Unknown. I was driving home when I get a message stating “passenger restraint system malfunction”",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Bmw M3 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Steering (33% of reports).",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Loud clunking and creaking noise from front suspension when driving on uneven or bumpy road surfaces.",
+        "pct": 33,
+        "title": "Steering",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Loud clunking and creaking noise from front suspension when driving on uneven or bumpy road surfaces.",
+        "pct": 33,
+        "title": "Suspension",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown. I was driving home when I get a message stating “passenger restraint system malfunction”",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Unknown. I was driving home when I get a message stating “passenger restraint system malfunction”",
+        "pct": 33,
+        "title": "Seat Belts",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-audi-e-tron",
+  "make": "Audi",
+  "model": "e-tron",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/AUDI/E-TRON#complaints",
+  "generatedAt": "2026-06-23T16:25:47.086Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While I was on vacation a couple states away, I drove the Audi Etron Sportback for the first time since three days before when I drove to the vacation destination. After several minutes driving I got an \"ELECTRICAL SYSTEM MALFUNCTION - PLEASE CONTACT SERVICE\" notification. Severa",
+      "pct": 66
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE SHUTS OFF AND SLAMS INTO PARK WHEN DRIVING AT LOW SPEEDS.  VEHICLE WILL THEN REFUSE TO RESTART FOR ABOUT 15 SECONDS AND I AM UNABLE MOVE THE VEHICLE FROM PARK.  THIS ISSUE ONLY OCCURS WHEN THE VEHICLE HAS BEEN CHARGING OVERNIGHT, AND HAS NOT OCCURRED IF THE VEHICLE HASN'T",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While I was on vacation a couple states away, I drove the Audi Etron Sportback for the first time since three days before when I drove to the vacation destination. After several minutes driving I got an \"ELECTRICAL SYSTEM MALFUNCTION - PLEASE CONTACT SERVICE\" notification. Severa",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car turns on but won’t move. Take it to dealership as it happens for the second time and turns out the brakes are sticking to the rotors. Audi says it’s perfectly normal just put force to the accelerator. When you do that in fact, it sound like the car is about to split in half. ",
+      "pct": 9
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's charging system keeps failing and turning off the charger.  The rear doors do not open from the inside of the vehicle (intermittently).",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Audi E-Tron owners report most",
+    "summary": "Across 35 owner complaints to NHTSA, the most reported area is Electrical System (66% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While I was on vacation a couple states away, I drove the Audi Etron Sportback for the first time since three days before when I drove to the vacation destination. After several minutes driving I got an \"ELECTRICAL SYSTEM MALFUNCTION - PLEASE CONTACT SERVICE\" notification. Severa",
+        "pct": 66,
+        "title": "Electrical System",
+        "blurb": "23 reports (66%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE SHUTS OFF AND SLAMS INTO PARK WHEN DRIVING AT LOW SPEEDS.  VEHICLE WILL THEN REFUSE TO RESTART FOR ABOUT 15 SECONDS AND I AM UNABLE MOVE THE VEHICLE FROM PARK.  THIS ISSUE ONLY OCCURS WHEN THE VEHICLE HAS BEEN CHARGING OVERNIGHT, AND HAS NOT OCCURRED IF THE VEHICLE HASN'T",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "9 reports (26%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While I was on vacation a couple states away, I drove the Audi Etron Sportback for the first time since three days before when I drove to the vacation destination. After several minutes driving I got an \"ELECTRICAL SYSTEM MALFUNCTION - PLEASE CONTACT SERVICE\" notification. Severa",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "7 reports (20%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car turns on but won’t move. Take it to dealership as it happens for the second time and turns out the brakes are sticking to the rotors. Audi says it’s perfectly normal just put force to the accelerator. When you do that in fact, it sound like the car is about to split in half. ",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "3 reports (9%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's charging system keeps failing and turning off the charger.  The rear doors do not open from the inside of the vehicle (intermittently).",
+        "pct": 3,
+        "title": "Structure",
+        "blurb": "1 report (3%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2014-volkswagen-routan",
+  "make": "Volkswagen",
+  "model": "Routan",
+  "year": 2014,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2014/VOLKSWAGEN/ROUTAN#complaints",
+  "generatedAt": "2026-06-23T16:46:02.118Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "SEATS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN ROUTAN. THE CONTACT STATED THAT WHILE REVERSING, THERE WAS AN ABNORMAL SOUND BEFORE THE DRIVER'S SIDE HEADREST DEPLOYED INDEPENDENTLY. THERE WAS NO WARNING LIGHT ILLUMINATED. THERE WAS NO INJURIES. THE VEHICLE WAS TAKEN TO THE LOCAL DEALER N",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VW ROUTANS ARE KNOWN BY THE MANUFACTURER TO HAVE THE TOTALLY INTEGRATED POWER MODULE OR \"TIPM\" FAIL CAUSING THE ELECTRICAL SYSTEM TO SHUTDOWN.  THIS FAILURE IS RANDOM AND HAPPENS WITH NO WARNING.  MY PERSONAL VEHICLE EXPERIENCED THIS FAILURE WHILE PULLING UP TO A STOP SIGN AND LO",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2014 Volkswagen Routan owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Seats (50% of reports).",
+    "issues": [
+      {
+        "component": "SEATS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN ROUTAN. THE CONTACT STATED THAT WHILE REVERSING, THERE WAS AN ABNORMAL SOUND BEFORE THE DRIVER'S SIDE HEADREST DEPLOYED INDEPENDENTLY. THERE WAS NO WARNING LIGHT ILLUMINATED. THERE WAS NO INJURIES. THE VEHICLE WAS TAKEN TO THE LOCAL DEALER N",
+        "pct": 50,
+        "title": "Seats",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VW ROUTANS ARE KNOWN BY THE MANUFACTURER TO HAVE THE TOTALLY INTEGRATED POWER MODULE OR \"TIPM\" FAIL CAUSING THE ELECTRICAL SYSTEM TO SHUTDOWN.  THIS FAILURE IS RANDOM AND HAPPENS WITH NO WARNING.  MY PERSONAL VEHICLE EXPERIENCED THIS FAILURE WHILE PULLING UP TO A STOP SIGN AND LO",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

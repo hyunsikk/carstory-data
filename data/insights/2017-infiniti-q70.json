@@ -1,0 +1,62 @@
+{
+  "slug": "2017-infiniti-q70",
+  "make": "Infiniti",
+  "model": "Q70",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/INFINITI/Q70#complaints",
+  "generatedAt": "2026-06-23T16:34:45.503Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "OUR SUNROOF GLASS SHATERED FOR NO APPERENT REASON.   APPERENTLY THIS Has happened to many car owners and the car company's push it off on insurance.  But this is a potential huge hazard.",
+      "pct": 50
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering is dangerously unsteady. car reacts to road surface and will pull right or left without warning. Dealer denies a problem. this problem is repeatedly reported to NHTSA.",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Infiniti Q70 owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Visibility/Wiper (50% of reports).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "OUR SUNROOF GLASS SHATERED FOR NO APPERENT REASON.   APPERENTLY THIS Has happened to many car owners and the car company's push it off on insurance.  But this is a potential huge hazard.",
+        "pct": 50,
+        "title": "Visibility/Wiper",
+        "blurb": "1 report (50%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering is dangerously unsteady. car reacts to road surface and will pull right or left without warning. Dealer denies a problem. this problem is repeatedly reported to NHTSA.",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

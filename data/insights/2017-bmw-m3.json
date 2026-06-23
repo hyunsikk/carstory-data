@@ -1,0 +1,106 @@
+{
+  "slug": "2017-bmw-m3",
+  "make": "BMW",
+  "model": "M3",
+  "year": 2017,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2017/BMW/M3#complaints",
+  "generatedAt": "2026-06-23T16:26:44.798Z",
+  "total": 3,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car was leaking fuel. This has been reported in numerous vehicles of the same make and model. There is an active warranty extension for this issue, I have attached the bulletin from BMW. My car is not covered for some reason although earlier years of my exact same car are cove",
+      "pct": 33
+    },
+    {
+      "component": "GASOLINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car was leaking fuel. This has been reported in numerous vehicles of the same make and model. There is an active warranty extension for this issue, I have attached the bulletin from BMW. My car is not covered for some reason although earlier years of my exact same car are cove",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2017 BMW M3. The contact stated that while driving at approximately 25 MPH, there was an abnormal banging sound coming from the vehicle. In addition, the vehicle failed to operate as designed, without warning. The vehicle was towed to the dealer where it was di",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE IS A 2017 BMW M3 WITH 6352 MILES. IN THIS PARTICULAR CASE THE VEHICLE HAD STARTED AND HAD BEEN OPERATING NORMALLY THE DAY PRIOR. THE FOLLOWING DAY THE CAR WAS STATIONARY AND WOULD NOT START.IT WAS CLEAR THERE WAS NO POWER GETTING TO THE ELECTRONICS EVEN THOUGH THE BATTERY",
+      "pct": 33
+    }
+  ],
+  "narrative": {
+    "headline": "What 2017 Bmw M3 owners report most",
+    "summary": "Across 3 owner complaints to NHTSA, the most reported area is Fuel System (33% of reports).",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car was leaking fuel. This has been reported in numerous vehicles of the same make and model. There is an active warranty extension for this issue, I have attached the bulletin from BMW. My car is not covered for some reason although earlier years of my exact same car are cove",
+        "pct": 33,
+        "title": "Fuel System",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "GASOLINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car was leaking fuel. This has been reported in numerous vehicles of the same make and model. There is an active warranty extension for this issue, I have attached the bulletin from BMW. My car is not covered for some reason although earlier years of my exact same car are cove",
+        "pct": 33,
+        "title": "Gasoline",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2017 BMW M3. The contact stated that while driving at approximately 25 MPH, there was an abnormal banging sound coming from the vehicle. In addition, the vehicle failed to operate as designed, without warning. The vehicle was towed to the dealer where it was di",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "1 report (33%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE IS A 2017 BMW M3 WITH 6352 MILES. IN THIS PARTICULAR CASE THE VEHICLE HAD STARTED AND HAD BEEN OPERATING NORMALLY THE DAY PRIOR. THE FOLLOWING DAY THE CAR WAS STATIONARY AND WOULD NOT START.IT WAS CLEAR THERE WAS NO POWER GETTING TO THE ELECTRONICS EVEN THOUGH THE BATTERY",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "1 report (33%)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2024-mercedes-benz-eqe",
+  "make": "Mercedes-Benz",
+  "model": "EQE",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/MERCEDES-BENZ/EQE#complaints",
+  "generatedAt": "2026-06-23T16:38:27.019Z",
+  "total": 17,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving from Fresno to Lake Tahoe stopped in Manteca to charge my car at the Tesla SC as I was reversing into  the charge spot the car suddenly stopped a message appeared “speed severely restricted “ I tapped the gas pedal and no response within a millisecond the car accele",
+      "pct": 29
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "An experienced vehicle operator with an impeccable driving record experienced unforeseeable, unexpected, sudden, unintended and uncontrollable acceleration of the vehicle resulting in a crash.  The dealer from which the vehicle was purchased produced a single-sheet printout of da",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Mercedes-Benz AMG EQE. The contact stated that there was a message stating that the camera view of the driver was obstructed and affecting the function of the feature. The contact was unsure of what cameras the message was referring to. The vehicle was tak",
+      "pct": 24
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle is equipped with Pirelli 21 inch tires.   All four tires have lost air and had bubbles on the sidewall.  The first tire went flat after hitting a 2 inch pothole.   It was replaced.  However, tires 2, 3 & 4 all had bubbles on the sidewalls.  The tires placed on the veh",
+      "pct": 12
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle stopped twice while being driven, with no apparent cause.",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Mercedes-Benz Eqe owners report most",
+    "summary": "Across 17 owner complaints to NHTSA, the most reported area is Service Brakes (29% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving from Fresno to Lake Tahoe stopped in Manteca to charge my car at the Tesla SC as I was reversing into  the charge spot the car suddenly stopped a message appeared “speed severely restricted “ I tapped the gas pedal and no response within a millisecond the car accele",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "5 reports (29%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "An experienced vehicle operator with an impeccable driving record experienced unforeseeable, unexpected, sudden, unintended and uncontrollable acceleration of the vehicle resulting in a crash.  The dealer from which the vehicle was purchased produced a single-sheet printout of da",
+        "pct": 24,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (24%) · 2 crash"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Mercedes-Benz AMG EQE. The contact stated that there was a message stating that the camera view of the driver was obstructed and affecting the function of the feature. The contact was unsure of what cameras the message was referring to. The vehicle was tak",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "4 reports (24%) · 2 crash · 1 injured"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle is equipped with Pirelli 21 inch tires.   All four tires have lost air and had bubbles on the sidewall.  The first tire went flat after hitting a 2 inch pothole.   It was replaced.  However, tires 2, 3 & 4 all had bubbles on the sidewalls.  The tires placed on the veh",
+        "pct": 12,
+        "title": "Wheels",
+        "blurb": "2 reports (12%)"
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle stopped twice while being driven, with no apparent cause.",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "1 report (6%)"
+      }
+    ]
+  }
+}

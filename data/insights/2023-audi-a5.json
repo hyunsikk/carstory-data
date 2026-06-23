@@ -1,0 +1,128 @@
+{
+  "slug": "2023-audi-a5",
+  "make": "Audi",
+  "model": "A5",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/AUDI/A5#complaints",
+  "generatedAt": "2026-06-23T16:25:24.633Z",
+  "total": 8,
+  "issues": [
+    {
+      "component": "TIRES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Tire Size 255/35R19.      My 2 front tires suffered from belt separation and I replaced the tires on 6/18/24 (new car milage 15238) at Tire Choice Auto Service Center. My low tire pressure light was on and I made an appointment for an evaluation thinking I may have a nail punctur",
+      "pct": 50
+    },
+    {
+      "component": "WHEELS",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In mid May, 2025 I noticed at slow speed, a loud thumping noise was coming right rear of car.  I brought it to the dealer on May 19, 2025.  I was told to wait for analysis of the problem.  After about two hours, the service advisor informed me that  the mechanics had found and re",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Over the course of 3 days about 6 weeks ago, my new leased vehicle abruptly slammed on the brakes 3 separate times for NO reason whatsoever.  The first time the vehicle was in drive mode and abruptly slammed on the brakes from a speed of 10-15 mph in the middle of a left hand tur",
+      "pct": 25
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have had multiple issues with this vehicle. After having it for a few months while on a road trip the car begin high pitched beeping and several warning lights displayed with messages stating Audi pre sense malfunction: contact customer service/ AES/AEB unavailable. Safety Syst",
+      "pct": 13
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Over the course of 3 days about 6 weeks ago, my new leased vehicle abruptly slammed on the brakes 3 separate times for NO reason whatsoever.  The first time the vehicle was in drive mode and abruptly slammed on the brakes from a speed of 10-15 mph in the middle of a left hand tur",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Audi A5 owners report most",
+    "summary": "Across 8 owner complaints to NHTSA, the most reported area is Tires (50% of reports).",
+    "issues": [
+      {
+        "component": "TIRES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Tire Size 255/35R19.      My 2 front tires suffered from belt separation and I replaced the tires on 6/18/24 (new car milage 15238) at Tire Choice Auto Service Center. My low tire pressure light was on and I made an appointment for an evaluation thinking I may have a nail punctur",
+        "pct": 50,
+        "title": "Tires",
+        "blurb": "4 reports (50%)"
+      },
+      {
+        "component": "WHEELS",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In mid May, 2025 I noticed at slow speed, a loud thumping noise was coming right rear of car.  I brought it to the dealer on May 19, 2025.  I was told to wait for analysis of the problem.  After about two hours, the service advisor informed me that  the mechanics had found and re",
+        "pct": 25,
+        "title": "Wheels",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Over the course of 3 days about 6 weeks ago, my new leased vehicle abruptly slammed on the brakes 3 separate times for NO reason whatsoever.  The first time the vehicle was in drive mode and abruptly slammed on the brakes from a speed of 10-15 mph in the middle of a left hand tur",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (25%)"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have had multiple issues with this vehicle. After having it for a few months while on a road trip the car begin high pitched beeping and several warning lights displayed with messages stating Audi pre sense malfunction: contact customer service/ AES/AEB unavailable. Safety Syst",
+        "pct": 13,
+        "title": "Air Bags",
+        "blurb": "1 report (13%)"
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Over the course of 3 days about 6 weeks ago, my new leased vehicle abruptly slammed on the brakes 3 separate times for NO reason whatsoever.  The first time the vehicle was in drive mode and abruptly slammed on the brakes from a speed of 10-15 mph in the middle of a left hand tur",
+        "pct": 13,
+        "title": "Back Over Prevention",
+        "blurb": "1 report (13%)"
+      }
+    ]
+  }
+}

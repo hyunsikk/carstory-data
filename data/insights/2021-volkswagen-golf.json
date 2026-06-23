@@ -1,0 +1,128 @@
+{
+  "slug": "2021-volkswagen-golf",
+  "make": "Volkswagen",
+  "model": "Golf",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VOLKSWAGEN/GOLF#complaints",
+  "generatedAt": "2026-06-23T16:41:50.627Z",
+  "total": 6,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "red power steering system light turned on and flashed/beeped 3X. steering wheel locked up and I could not turn. I was on the freeway in the far right lane and managed to force push the steering wheel to the right and slowly merge over to the shoulder.  Volks in Kearny Mesa confir",
+      "pct": 50
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was almost rear ended because Hill hold assist did not disengage quickly.  I’ve driven manual transmission for over 40 years and find this hill hold dangerous!",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since shortly after purchase, the vehicle has experienced intermittent drivability and shifting issues along with repeated EPC and check engine warnings. Diagnostic trouble code P0111 (intake air temperature plausibility) has been present along with other electrical and engine ma",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Since shortly after purchase, the vehicle has experienced intermittent drivability and shifting issues along with repeated EPC and check engine warnings. Diagnostic trouble code P0111 (intake air temperature plausibility) has been present along with other electrical and engine ma",
+      "pct": 17
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Headlight lens assembly of both headlights is cracking excessively. Upon review of online forums, this is happening frequently to many consumers. This impacts headlight output and looks to be manufacturing defect.   Recently reported to dealer who indicated they have seen many of",
+      "pct": 17
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Volkswagen Golf owners report most",
+    "summary": "Across 6 owner complaints to NHTSA, the most reported area is Electrical System (50% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "red power steering system light turned on and flashed/beeped 3X. steering wheel locked up and I could not turn. I was on the freeway in the far right lane and managed to force push the steering wheel to the right and slowly merge over to the shoulder.  Volks in Kearny Mesa confir",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "3 reports (50%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was almost rear ended because Hill hold assist did not disengage quickly.  I’ve driven manual transmission for over 40 years and find this hill hold dangerous!",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "2 reports (33%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since shortly after purchase, the vehicle has experienced intermittent drivability and shifting issues along with repeated EPC and check engine warnings. Diagnostic trouble code P0111 (intake air temperature plausibility) has been present along with other electrical and engine ma",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Since shortly after purchase, the vehicle has experienced intermittent drivability and shifting issues along with repeated EPC and check engine warnings. Diagnostic trouble code P0111 (intake air temperature plausibility) has been present along with other electrical and engine ma",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "1 report (17%)"
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Headlight lens assembly of both headlights is cracking excessively. Upon review of online forums, this is happening frequently to many consumers. This impacts headlight output and looks to be manufacturing defect.   Recently reported to dealer who indicated they have seen many of",
+        "pct": 17,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (17%)"
+      }
+    ]
+  }
+}

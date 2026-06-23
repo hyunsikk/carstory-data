@@ -1,0 +1,128 @@
+{
+  "slug": "2021-land-rover-discovery",
+  "make": "Land Rover",
+  "model": "Discovery",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/LAND%20ROVER/DISCOVERY#complaints",
+  "generatedAt": "2026-06-23T16:37:05.050Z",
+  "total": 10,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle should be considered as a \"drive at your own risk\" vehicle. Engine randomly fails to start using push button start in coordination with pressing on the brake pedal. Dash and gages indicated all electrical systems were on and no warning symbols were displayed. Repeate",
+      "pct": 80
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "This vehicle should be considered as a \"drive at your own risk\" vehicle. Engine randomly fails to start using push button start in coordination with pressing on the brake pedal. Dash and gages indicated all electrical systems were on and no warning symbols were displayed. Repeate",
+      "pct": 40
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Supplement / update to prior NHTSA complaints regarding my 2021 Land Rover Discovery MHEV (VIN: [XXX] y prior complaints, Jaguar Land Rover has issued Recall 26V248 for DC/DC converter failure leading to loss of propulsion in 2021–2024 Land Rover Discovery MHEV vehicles. My vehic",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I am filing a safety complaint regarding a sudden and complete loss of power event while driving my 2021 Land Rover Discovery. The vehicle experienced a DC-DC converter failure with no warning, resulting in a sudden shutdown. The engine lost power, critical systems went offline, ",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After 2000 miles of driving, I received a warning that I had reduced traction and needed to drive with caution. When I took vehicle to dealer they determined the “initial configuration was not complete”.",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Land Rover Discovery owners report most",
+    "summary": "Across 10 owner complaints to NHTSA, the most reported area is Electrical System (80% of reports).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle should be considered as a \"drive at your own risk\" vehicle. Engine randomly fails to start using push button start in coordination with pressing on the brake pedal. Dash and gages indicated all electrical systems were on and no warning symbols were displayed. Repeate",
+        "pct": 80,
+        "title": "Electrical System",
+        "blurb": "8 reports (80%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "This vehicle should be considered as a \"drive at your own risk\" vehicle. Engine randomly fails to start using push button start in coordination with pressing on the brake pedal. Dash and gages indicated all electrical systems were on and no warning symbols were displayed. Repeate",
+        "pct": 40,
+        "title": "Power Train",
+        "blurb": "4 reports (40%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Supplement / update to prior NHTSA complaints regarding my 2021 Land Rover Discovery MHEV (VIN: [XXX] y prior complaints, Jaguar Land Rover has issued Recall 26V248 for DC/DC converter failure leading to loss of propulsion in 2021–2024 Land Rover Discovery MHEV vehicles. My vehic",
+        "pct": 10,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I am filing a safety complaint regarding a sudden and complete loss of power event while driving my 2021 Land Rover Discovery. The vehicle experienced a DC-DC converter failure with no warning, resulting in a sudden shutdown. The engine lost power, critical systems went offline, ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "1 report (10%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After 2000 miles of driving, I received a warning that I had reduced traction and needed to drive with caution. When I took vehicle to dealer they determined the “initial configuration was not complete”.",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "1 report (10%)"
+      }
+    ]
+  }
+}

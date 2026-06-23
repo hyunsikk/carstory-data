@@ -1,0 +1,128 @@
+{
+  "slug": "2023-honda-passport",
+  "make": "Honda",
+  "model": "Passport",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/HONDA/PASSPORT#complaints",
+  "generatedAt": "2026-06-23T16:32:39.868Z",
+  "total": 33,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "Adaptive cruise control and Lane keeping assistance warning lights pop-up sporadically on the dashboard. I have had the car serviced at several different Honda dealerships 5 plus times and every time they say that the reason why the warning lights pop up is because the battery is",
+      "pct": 36
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "The contact owns a 2023 Honda Passport. The contact stated that while driving approximately 70 MPH, the brake pedal was depressed; however, the vehicle was shimmying and rattling abnormally. The brake pedal was depressed but the vehicle was slow to respond. There were no warning ",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car feels sluggish and delays accelerating when driven. Occasionally will make a strange sounds when trying to accelerate. The automatic brake will engage when there no obstacle in front of me while I’m driving- has happened a few times since I bought the car. At times, the car w",
+      "pct": 15
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "Transmission, radio, and automatic braking system.    Transmission lags when going slow.  From a stop on a hill, the car did not accelerate when the gas pedal was pushed, almost causing a crash as I merged into oncoming traffic.  It felt like it did not go into gear properly or w",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Adaptive cruise control and Lane keeping assistance warning lights pop-up sporadically on the dashboard. I have had the car serviced at several different Honda dealerships 5 plus times and every time they say that the reason why the warning lights pop up is because the battery is",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Honda Passport owners report most",
+    "summary": "Across 33 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "Adaptive cruise control and Lane keeping assistance warning lights pop-up sporadically on the dashboard. I have had the car serviced at several different Honda dealerships 5 plus times and every time they say that the reason why the warning lights pop up is because the battery is",
+        "pct": 36,
+        "title": "Forward Collision Avoidance",
+        "blurb": "12 reports (36%) · 1 crash · 6 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "The contact owns a 2023 Honda Passport. The contact stated that while driving approximately 70 MPH, the brake pedal was depressed; however, the vehicle was shimmying and rattling abnormally. The brake pedal was depressed but the vehicle was slow to respond. There were no warning ",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "11 reports (33%) · 7 injured"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car feels sluggish and delays accelerating when driven. Occasionally will make a strange sounds when trying to accelerate. The automatic brake will engage when there no obstacle in front of me while I’m driving- has happened a few times since I bought the car. At times, the car w",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "5 reports (15%)"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "Transmission, radio, and automatic braking system.    Transmission lags when going slow.  From a stop on a hill, the car did not accelerate when the gas pedal was pushed, almost causing a crash as I merged into oncoming traffic.  It felt like it did not go into gear properly or w",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "4 reports (12%) · 6 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Adaptive cruise control and Lane keeping assistance warning lights pop-up sporadically on the dashboard. I have had the car serviced at several different Honda dealerships 5 plus times and every time they say that the reason why the warning lights pop up is because the battery is",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "4 reports (12%) · 1 injured"
+      }
+    ]
+  }
+}

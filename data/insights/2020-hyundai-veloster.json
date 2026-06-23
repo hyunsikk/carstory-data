@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-veloster",
+  "make": "Hyundai",
+  "model": "Veloster",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/VELOSTER#complaints",
+  "generatedAt": "2026-06-23T16:34:28.251Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE HAD 2 MOTOR REPLACEMENTS FROM TUPELO MISSISSIPPI BARNS CROSSING HYUNDAI AND ONE I HAD TO PAY PUT OF POCKET FOR. I HAVE ALSO HAD TO HAVE THE DOWNPIPE REPLACED ALSO AFTER MY SECOND MOTOR REPLACEMENT. I FEEL LIKE THIS MOTOR NEEDS A CLASS ACTION LAWSUIT BECAUSE APPARENTLY I AM",
+      "pct": 35
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During cold temperatures (sub 32F), the driver's side door will not open from the outside.  Occasionally the passenger door is affected as well.  This required crawling through the hatch to open the doors from the inside.  When the key fob is actuated you can hear and audible cli",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In the manual car to get in reverse there is a \"lock out\" sling that only allows you to go in reverse when you pull up on it.      When the manual stick shift goes back to neutral the lock out valve pops closed only allowing gears 1-6      The lock out is not coming down and is s",
+      "pct": 9
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Hyundai Veloster. The contact stated while driving 15-20 MPH, the power steering warning light illuminated, and the power steering failed. The contact stated that he was able to drive to his residence by using physical strength to steer the vehicle. The de",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Gas was shooting out of my gas tank cap, strong gasoline smells in and out side the vehicle, popping noise coming from the back from the gas tank expanding so much it pushed up the rear seat. This puts me and others at risk of fire, explosion and toxic exposure. This problem has ",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Hyundai Veloster owners report most",
+    "summary": "Across 23 owner complaints to NHTSA, the most reported area is Engine (35% of reports).",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE HAD 2 MOTOR REPLACEMENTS FROM TUPELO MISSISSIPPI BARNS CROSSING HYUNDAI AND ONE I HAD TO PAY PUT OF POCKET FOR. I HAVE ALSO HAD TO HAVE THE DOWNPIPE REPLACED ALSO AFTER MY SECOND MOTOR REPLACEMENT. I FEEL LIKE THIS MOTOR NEEDS A CLASS ACTION LAWSUIT BECAUSE APPARENTLY I AM",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "8 reports (35%)"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During cold temperatures (sub 32F), the driver's side door will not open from the outside.  Occasionally the passenger door is affected as well.  This required crawling through the hatch to open the doors from the inside.  When the key fob is actuated you can hear and audible cli",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In the manual car to get in reverse there is a \"lock out\" sling that only allows you to go in reverse when you pull up on it.      When the manual stick shift goes back to neutral the lock out valve pops closed only allowing gears 1-6      The lock out is not coming down and is s",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Hyundai Veloster. The contact stated while driving 15-20 MPH, the power steering warning light illuminated, and the power steering failed. The contact stated that he was able to drive to his residence by using physical strength to steer the vehicle. The de",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "2 reports (9%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Gas was shooting out of my gas tank cap, strong gasoline smells in and out side the vehicle, popping noise coming from the back from the gas tank expanding so much it pushed up the rear seat. This puts me and others at risk of fire, explosion and toxic exposure. This problem has ",
+        "pct": 4,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (4%)"
+      }
+    ]
+  }
+}

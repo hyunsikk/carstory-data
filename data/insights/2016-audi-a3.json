@@ -1,0 +1,128 @@
+{
+  "slug": "2016-audi-a3",
+  "make": "Audi",
+  "model": "A3",
+  "year": 2016,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2016/AUDI/A3#complaints",
+  "generatedAt": "2026-06-23T16:25:08.800Z",
+  "total": 111,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 50,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WE RECEIVED TWO SAFETY RECALLS FROM AUDI: NHTSA RECALL #16V647 AND #16V642. WE WERE INFORMED BY AUDI THAT THE SERVICE WOULD HAVE TO BE COMPLETED BY AN AUTHORIZED AUDI DEALER.   THE CLOSEST AUDI DEALER IS IN HONOLULU, WHICH WOULD REQUIRE US TO SHIP OUR CAR FROM MAUI. GIVEN THIS WA",
+      "pct": 45
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THERE IS NO WARNING, AND NO IGNITION LOCKOUT, WHEN THE ETRON POWER PORT DOOR AND COVER IS LEFT OPEN AT THE FRONT OF THE CAR.  (THE POWER PORT IS HOW TO RECHARGE THE BATTERIES IN THE CAR).  THIS ALLOWS WATER TO BE FORCED INTO THE HIGH VOLTAGE ELECTRICAL SYSTEM WHEN DRIVING IN THE ",
+      "pct": 16
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2016 AUDI A3. THE CONTACT STATED THAT THE FUEL PUMP WAS FAILING. THE CONTACT WAS ADVISED TO TAKE THE VEHICLE TO THE DEALER. THE MANUFACTURER WAS NOTIFIED. THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS UNKNOWN....UPDATED 12/14/16 *BF  UPDATED 08/10/2",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING 50-60 MPH ON THE FWY WHEN ALL OF A SUDDEN THE CAR STARTED TO JERK/STUTTER AND THEN IT LOST SPEED. THE JERKING IS SIMILAR TO A NEW DRIVER LEARNING HOW TO DRIVE A MANUAL TRANSMISSION WHERE YOU'RE THROWN FWD AND BACK SOMEWHAT VIOLENTLY.  AS I TRIED TO ACCELERATE BACK TO FWY ",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS IN REGARDS TO THE A3 E-TRON.  THERE IS A DELAY BETWEEN STARTING THE CAR AND THE CAR BEING ENGAGING THE POWERTRAIN AND BEING \"READY\" TO DRIVE.  DURING THAT DELAY, ONE IS ABLE TO PUT THE CAR IN GEAR BEFORE THE ENGINE IS 'READY'.  THIS CREATES SITUATIONS WHERE YOU CAN PUT TH",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2016 Audi A3 owners report most",
+    "summary": "Across 111 owner complaints to NHTSA, the most reported area is Air Bags (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 50,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WE RECEIVED TWO SAFETY RECALLS FROM AUDI: NHTSA RECALL #16V647 AND #16V642. WE WERE INFORMED BY AUDI THAT THE SERVICE WOULD HAVE TO BE COMPLETED BY AN AUTHORIZED AUDI DEALER.   THE CLOSEST AUDI DEALER IS IN HONOLULU, WHICH WOULD REQUIRE US TO SHIP OUR CAR FROM MAUI. GIVEN THIS WA",
+        "pct": 45,
+        "title": "Air Bags",
+        "blurb": "50 reports (45%)"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THERE IS NO WARNING, AND NO IGNITION LOCKOUT, WHEN THE ETRON POWER PORT DOOR AND COVER IS LEFT OPEN AT THE FRONT OF THE CAR.  (THE POWER PORT IS HOW TO RECHARGE THE BATTERIES IN THE CAR).  THIS ALLOWS WATER TO BE FORCED INTO THE HIGH VOLTAGE ELECTRICAL SYSTEM WHEN DRIVING IN THE ",
+        "pct": 16,
+        "title": "Electrical System",
+        "blurb": "18 reports (16%) · 1 fire"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2016 AUDI A3. THE CONTACT STATED THAT THE FUEL PUMP WAS FAILING. THE CONTACT WAS ADVISED TO TAKE THE VEHICLE TO THE DEALER. THE MANUFACTURER WAS NOTIFIED. THE VEHICLE WAS NOT REPAIRED. THE FAILURE MILEAGE WAS UNKNOWN....UPDATED 12/14/16 *BF  UPDATED 08/10/2",
+        "pct": 15,
+        "title": "Fuel/Propulsion System",
+        "blurb": "17 reports (15%) · 1 fire"
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING 50-60 MPH ON THE FWY WHEN ALL OF A SUDDEN THE CAR STARTED TO JERK/STUTTER AND THEN IT LOST SPEED. THE JERKING IS SIMILAR TO A NEW DRIVER LEARNING HOW TO DRIVE A MANUAL TRANSMISSION WHERE YOU'RE THROWN FWD AND BACK SOMEWHAT VIOLENTLY.  AS I TRIED TO ACCELERATE BACK TO FWY ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "14 reports (13%) · 2 fire · 1 crash"
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS IN REGARDS TO THE A3 E-TRON.  THERE IS A DELAY BETWEEN STARTING THE CAR AND THE CAR BEING ENGAGING THE POWERTRAIN AND BEING \"READY\" TO DRIVE.  DURING THAT DELAY, ONE IS ABLE TO PUT THE CAR IN GEAR BEFORE THE ENGINE IS 'READY'.  THIS CREATES SITUATIONS WHERE YOU CAN PUT TH",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "9 reports (8%)"
+      }
+    ]
+  }
+}

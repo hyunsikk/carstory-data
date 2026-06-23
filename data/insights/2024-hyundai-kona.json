@@ -1,0 +1,128 @@
+{
+  "slug": "2024-hyundai-kona",
+  "make": "Hyundai",
+  "model": "Kona",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/HYUNDAI/KONA#complaints",
+  "generatedAt": "2026-06-23T16:33:40.682Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 27,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Hyundai Kona. The contact received notification of NHTSA Campaign Number: 23V901000 (Electrical System) however, the part to do the recall repair was not yet available. The local dealer was contacted, and it was confirmed that the part was not yet availabl",
+      "pct": 64
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2024 Hyundai Kona. The contact stated that while driving approximately 35 MPH, the vehicle lost motive power and stalled. The vehicle was immediately restarted and operated normally. During the failure, the check engine warning light was illuminated. The vehicl",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "the car loss power and shut completely off and ran into the wall with my sister and my child in there on the interstate can I please get help about this matter it could've been worse where i could've lost them forever. I don't want this to happen to nobody else they cars know abo",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "the car loss power and shut completely off and ran into the wall with my sister and my child in there on the interstate can I please get help about this matter it could've been worse where i could've lost them forever. I don't want this to happen to nobody else they cars know abo",
+      "pct": 10
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "while traveling from MN to KY on the interstate on two separate occasions the vehicle suddenly applied the brakes at Highway speeds around of 80mph. There was nothing Infront of me on either occasion. Then the next day it did it again at highway speed.  Then I was driving on a mo",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Hyundai Kona owners report most",
+    "summary": "Across 42 owner complaints to NHTSA, the most reported area is Electrical System (64% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 27,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Hyundai Kona. The contact received notification of NHTSA Campaign Number: 23V901000 (Electrical System) however, the part to do the recall repair was not yet available. The local dealer was contacted, and it was confirmed that the part was not yet availabl",
+        "pct": 64,
+        "title": "Electrical System",
+        "blurb": "27 reports (64%) · 2 crash · 3 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2024 Hyundai Kona. The contact stated that while driving approximately 35 MPH, the vehicle lost motive power and stalled. The vehicle was immediately restarted and operated normally. During the failure, the check engine warning light was illuminated. The vehicl",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "7 reports (17%)"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "the car loss power and shut completely off and ran into the wall with my sister and my child in there on the interstate can I please get help about this matter it could've been worse where i could've lost them forever. I don't want this to happen to nobody else they cars know abo",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "6 reports (14%) · 3 crash · 3 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "the car loss power and shut completely off and ran into the wall with my sister and my child in there on the interstate can I please get help about this matter it could've been worse where i could've lost them forever. I don't want this to happen to nobody else they cars know abo",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "4 reports (10%) · 3 crash · 4 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "while traveling from MN to KY on the interstate on two separate occasions the vehicle suddenly applied the brakes at Highway speeds around of 80mph. There was nothing Infront of me on either occasion. Then the next day it did it again at highway speed.  Then I was driving on a mo",
+        "pct": 10,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (10%)"
+      }
+    ]
+  }
+}

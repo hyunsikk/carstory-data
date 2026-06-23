@@ -1,0 +1,62 @@
+{
+  "slug": "2024-volvo-c40-recharge",
+  "make": "Volvo",
+  "model": "C40 Recharge",
+  "year": 2024,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2024/VOLVO/C40%20RECHARGE#complaints",
+  "generatedAt": "2026-06-23T16:42:32.794Z",
+  "total": 2,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Hello, I was driving behind a group of cars that unexpectedly slowed, then stopped.   I braked, but while I was braking the car unintentionally lunged forward and hit the car in front of me.   i know my foot was on the brake because the car initially slowed.  My car was totaled a",
+      "pct": 100
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There are 2 very serious safety issues that are extremely dangerous with this car.  #1 - The Automatic Intervention Rear Brake Auto Brake engages for no reason when there is nothing behind the car.  It happens when I am backing up very slowly.  It throws me forward and then thrus",
+      "pct": 50
+    }
+  ],
+  "narrative": {
+    "headline": "What 2024 Volvo C40 Recharge owners report most",
+    "summary": "Across 2 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (100% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Hello, I was driving behind a group of cars that unexpectedly slowed, then stopped.   I braked, but while I was braking the car unintentionally lunged forward and hit the car in front of me.   i know my foot was on the brake because the car initially slowed.  My car was totaled a",
+        "pct": 100,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (100%) · 1 crash · 1 injured"
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There are 2 very serious safety issues that are extremely dangerous with this car.  #1 - The Automatic Intervention Rear Brake Auto Brake engages for no reason when there is nothing behind the car.  It happens when I am backing up very slowly.  It throws me forward and then thrus",
+        "pct": 50,
+        "title": "Electrical System",
+        "blurb": "1 report (50%)"
+      }
+    ]
+  }
+}

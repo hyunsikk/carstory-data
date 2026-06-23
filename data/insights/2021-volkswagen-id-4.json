@@ -1,0 +1,128 @@
+{
+  "slug": "2021-volkswagen-id-4",
+  "make": "Volkswagen",
+  "model": "ID.4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/VOLKSWAGEN/ID.4#complaints",
+  "generatedAt": "2026-06-23T16:42:02.355Z",
+  "total": 318,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 167,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request?  Rear window defrost grid How was your safety or the safety of others put at risk? Potential electrical fire Has the problem been reproduced or confirmed by a dealer or independent ",
+      "pct": 53
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 39,
+      "crash": 16,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "In October, 11 weeks ago, while parallel parking, which I do everyday for work, I reversed back into an empty spot, toggled into Drive to straighten out my car and my car accelerated and hit the car parked in front of me.  I kept stomping on the break pedal but it was stiff, I co",
+      "pct": 12
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 35,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "We vehicle is stopped in any type of grade (hill, incline, or decline) when releasing the break pedal the vehicle will roll in the direction of the grade, power must be immediately applied to prevent roll.  This could potentially cause a crash if a vehicle is behind/in front of a",
+      "pct": 11
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 33,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The driver door unlocks and occasionally opens on its own.  Took the car to the dealer at a faulty door handle was diagnosed. A replacement handle was installed and the problem was corrected. This problem happened for about a week before taking it to the dealer (at their next ava",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 31,
+      "crash": 12,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "After receiving a service on the vehicle, I pulled out of the dealership and went left to go up a slight hill, I got half way out and the accelerator pedal would not work. I pushed down to the ground and the car would not go. There was a car coming towards me and swerved to avoid",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "What 2021 Volkswagen Id.4 owners report most",
+    "summary": "Across 318 owner complaints to NHTSA, the most reported area is Electrical System (53% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 167,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "What component or system failed or malfunctioned, and is it available for inspection upon request?  Rear window defrost grid How was your safety or the safety of others put at risk? Potential electrical fire Has the problem been reproduced or confirmed by a dealer or independent ",
+        "pct": 53,
+        "title": "Electrical System",
+        "blurb": "167 reports (53%) · 4 crash · 5 injured"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 39,
+        "crash": 16,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "In October, 11 weeks ago, while parallel parking, which I do everyday for work, I reversed back into an empty spot, toggled into Drive to straighten out my car and my car accelerated and hit the car parked in front of me.  I kept stomping on the break pedal but it was stiff, I co",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "39 reports (12%) · 16 crash · 8 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 35,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "We vehicle is stopped in any type of grade (hill, incline, or decline) when releasing the break pedal the vehicle will roll in the direction of the grade, power must be immediately applied to prevent roll.  This could potentially cause a crash if a vehicle is behind/in front of a",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "35 reports (11%) · 11 crash · 9 injured"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 33,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The driver door unlocks and occasionally opens on its own.  Took the car to the dealer at a faulty door handle was diagnosed. A replacement handle was installed and the problem was corrected. This problem happened for about a week before taking it to the dealer (at their next ava",
+        "pct": 10,
+        "title": "Structure",
+        "blurb": "33 reports (10%) · 2 crash"
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 31,
+        "crash": 12,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "After receiving a service on the vehicle, I pulled out of the dealership and went left to go up a slight hill, I got half way out and the accelerator pedal would not work. I pushed down to the ground and the car would not go. There was a car coming towards me and swerved to avoid",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "31 reports (10%) · 12 crash · 12 injured"
+      }
+    ]
+  }
+}

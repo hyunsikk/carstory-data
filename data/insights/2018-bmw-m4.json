@@ -1,0 +1,62 @@
+{
+  "slug": "2018-bmw-m4",
+  "make": "BMW",
+  "model": "M4",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/BMW/M4#complaints",
+  "generatedAt": "2026-06-23T16:43:55.861Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I think the fuel tank has cracked on the upper portion of the tank. I noticed a smell of gas on my way home from filling gas and when I got home I realized there was a puddle of gas sitting underneath my car. I jacked up the car and inspected the underneath and saw nothing, I not",
+      "pct": 80
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CRANK HUB ISSUE",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "What 2018 Bmw M4 owners report most",
+    "summary": "Across 5 owner complaints to NHTSA, the most reported area is Fuel/Propulsion System (80% of reports).",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I think the fuel tank has cracked on the upper portion of the tank. I noticed a smell of gas on my way home from filling gas and when I got home I realized there was a puddle of gas sitting underneath my car. I jacked up the car and inspected the underneath and saw nothing, I not",
+        "pct": 80,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 reports (80%)"
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CRANK HUB ISSUE",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%)"
+      }
+    ]
+  }
+}

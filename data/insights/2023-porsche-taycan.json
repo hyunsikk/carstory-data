@@ -1,0 +1,128 @@
+{
+  "slug": "2023-porsche-taycan",
+  "make": "Porsche",
+  "model": "Taycan",
+  "year": 2023,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2023/PORSCHE/TAYCAN#complaints",
+  "generatedAt": "2026-06-23T16:39:57.748Z",
+  "total": 19,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Car has a red warning light come on that says engine control error park vehicle in a safe place. This happened on the freeway 4 times took it in to Porsche they claimed they fixed it. When the light comes on you have to stop the car and restart it. You can not accelerate.  After ",
+      "pct": 47
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At slow speeds, the Taycan brake pedal pushes all the way to the floor but the vehicle does not stop.  This happens when approaching a stop sign, other vehicles, pedestrians, etc.    The problem has been reproduced.  The Porsche dealer confirms it is a problem with Taycans and ac",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car has a red warning light come on that says engine control error park vehicle in a safe place. This happened on the freeway 4 times took it in to Porsche they claimed they fixed it. When the light comes on you have to stop the car and restart it. You can not accelerate.  After ",
+      "pct": 21
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the forward collision warning activates, the braking pedal loses its effectiveness and causes the car to brake much more slowly than it should, which actually increases the chance of a collision occurring. This has happened multiple times to me in the past few weeks. It is a",
+      "pct": 5
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While charging my 2023 Porsche Taycan 4S at an Electrify America station, white smoke began emitting from the front wheel/charging port area. The vehicle also produced a burning odor inside the cabin.  I immediately stopped charging and unplugged the vehicle. The smoke ceased wit",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "What 2023 Porsche Taycan owners report most",
+    "summary": "Across 19 owner complaints to NHTSA, the most reported area is Electrical System (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Car has a red warning light come on that says engine control error park vehicle in a safe place. This happened on the freeway 4 times took it in to Porsche they claimed they fixed it. When the light comes on you have to stop the car and restart it. You can not accelerate.  After ",
+        "pct": 47,
+        "title": "Electrical System",
+        "blurb": "9 reports (47%) · 1 crash · 3 injured"
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At slow speeds, the Taycan brake pedal pushes all the way to the floor but the vehicle does not stop.  This happens when approaching a stop sign, other vehicles, pedestrians, etc.    The problem has been reproduced.  The Porsche dealer confirms it is a problem with Taycans and ac",
+        "pct": 37,
+        "title": "Service Brakes",
+        "blurb": "7 reports (37%) · 2 crash"
+      },
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car has a red warning light come on that says engine control error park vehicle in a safe place. This happened on the freeway 4 times took it in to Porsche they claimed they fixed it. When the light comes on you have to stop the car and restart it. You can not accelerate.  After ",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "4 reports (21%)"
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the forward collision warning activates, the braking pedal loses its effectiveness and causes the car to brake much more slowly than it should, which actually increases the chance of a collision occurring. This has happened multiple times to me in the past few weeks. It is a",
+        "pct": 5,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (5%)"
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While charging my 2023 Porsche Taycan 4S at an Electrify America station, white smoke began emitting from the front wheel/charging port area. The vehicle also produced a burning odor inside the cabin.  I immediately stopped charging and unplugged the vehicle. The smoke ceased wit",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (5%)"
+      }
+    ]
+  }
+}
