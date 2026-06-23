@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Electrical gremlins and driver-assist glitches top 2019 Odyssey complaints",
-    "summary": "From 858 owner complaints filed with NHTSA, the biggest cluster is the electrical system at 23% of reports, closely followed by the forward collision avoidance system at 22%. Together with lane departure (15%), most complaints point at flaky electronics and driver-assist features. Engine reports are fewer (14%) but carry the most safety weight: 4 fires, 2 crashes, and 2 injuries. Watch for dashboard warning lights and unexpected driver-assist behavior on a test drive.",
+    "summary": "Electrical and advanced driver-assistance system failures dominate owner complaints for this model, with dashboard warning lights activating unexpectedly and collision-mitigation and lane-keeping systems dropping out while the vehicle is in motion. Forward collision avoidance and lane departure systems generate overlapping reports, often describing the same warning message appearing on the dashboard, suggesting the issues may be related. Engine-area complaints round out the top concerns, with at least some reports describing seat hardware behavior that owners characterize as a safety issue.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "VEHICLES IN MOTION ON FREEWAY AND CITY ROADS. DASH WARNING LIGHTS GO HAYWIRE WHEN DRIVING. LOSS OF OF LANE KEEP ASSIST AND ADAPTIVE CRUISE CONTROL WHILE DRIVING IS A SERIOUS SAFETY ISSUES. ALL WARNING LIGHTS TURN ON. DEALERSHIP RESET THE COMPUTER BUT ISSUE NOT RESOLVED. ISSUE HAS",
         "pct": 23,
         "title": "Electrical System",
-        "blurb": "The single most reported area: 198 complaints (23%). Owners describe warning lights acting up and electronics misbehaving. Linked to 1 fire, 1 crash, and 2 injuries."
+        "blurb": "Owners report multiple dashboard warning lights activating simultaneously while driving, accompanied by loss of lane keep assist and adaptive cruise control during normal operation on freeways and city roads. · 1 fire · 1 crash · 2 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -85,7 +85,7 @@
         "sample": "THERE ARE 2 ISSUES, POSSIBLY RELATED. FIRST OF ALL, WARNING FOR COLLISION MITIGATION SYSTEM PROBLEM APPEARED AND THEN THE DIGITAL DISPLAY WENT BLANK.THE STEERING WHEEL SHOOK VIOLENTLY. IN THE SECOND PROBLEM THAT OCCURRED, A WARNING LIGHT FLASHED ON AND OFF (TOO QUICKLY TO DETERMI",
         "pct": 22,
         "title": "Forward Collision Avoidance",
-        "blurb": "A near-tie for the top spot: 186 complaints (22%) about the collision-mitigation system. Reports tie to 2 crashes. Test the driver-assist features and check for warning messages."
+        "blurb": "Owners report a collision mitigation system warning appearing on the dashboard, followed by the digital display going blank and the steering wheel shaking violently while the vehicle is in motion. · 2 crash"
       },
       {
         "component": "LANE DEPARTURE",
@@ -97,7 +97,7 @@
         "sample": "In September 2021, I started occasionally receiving the error message \"Collision Mitigation System Problem\" on my dashboard. It would appear and quickly disappear. At that time, my car shut itself off when I came to a full stop at traffic lights and stop signs 3 different times. ",
         "pct": 15,
         "title": "Lane Departure",
-        "blurb": "129 complaints (15%) about lane-keeping behavior. No crashes, fires, or injuries reported here, but it adds to the broader pattern of driver-assist quirks."
+        "blurb": "Owners report an intermittent error message reading 'Collision Mitigation System Problem' appearing and disappearing on the dashboard, in some cases accompanied by the vehicle shutting itself off when coming to a stop."
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "1. 2ND ROW DRIVER AND PASSENGER SEATS DO NOT \"LOCK\" INTO PLACE WHEN FOLDED FORWARD, CREATING A \"FREE FLYING\" SEAT WHEN DRIVING/IN MOTION AND AN ENTRAPMENT ISSUE WHEN PARKED FOR 3RD ROW PASSENGERS ATTEMPTING TO EXIT THE 3RD ROW.  THIS IS SPECIALLY DANGEROUS ON A HILL.  MY 3 YEAR O",
         "pct": 14,
         "title": "Engine",
-        "blurb": "Fewer complaints (120, 14%) but the most serious outcomes: 4 fires, 2 crashes, and 2 injuries. Worth taking seriously despite the lower count."
+        "blurb": "Owners report that second-row seats do not lock into place when folded forward, describing the unsecured seat as a hazard while the vehicle is in motion and as an entrapment risk for third-row passengers attempting to exit. · 4 fire · 2 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "120 complaints (14%) about the drivetrain and transmission. No crashes, fires, or injuries reported in this group."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

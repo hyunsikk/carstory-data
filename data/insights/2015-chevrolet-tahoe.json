@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Chevrolet Tahoe owners report most",
-    "summary": "Across 661 owner complaints to NHTSA, the most reported area is Service Brakes (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Service brake complaints make up the largest share of owner reports, with drivers describing a warning message appearing on the dash and the brake pedal requiring unusual force to slow the vehicle. Electrical system faults are the second most common area, covering failures of the audio system and the loss of audible safety chimes. Steering and powertrain complaints round out the top concerns, with owners reporting the vehicle unexpectedly engaging four-wheel drive, causing difficulty steering and sudden jerking.",
     "issues": [
       {
         "component": "SERVICE BRAKES",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET TAHOE. WHILE DRIVING AT 45 MPH, THE SERVICE BRAKE ASSIST WAS DISPLAYED ACROSS THE MESSAGE BOARD. IN ADDITION, THE CONTACT STATED THAT THE BRAKE PEDAL WAS DEPRESSED AND IT TOOK A GREATER AMOUNT OF TIME FOR THE VEHICLE TO COME TO A COMPLETE STO",
         "pct": 30,
         "title": "Service Brakes",
-        "blurb": "200 reports (30%) · 17 crash · 5 injured"
+        "blurb": "Owners report a brake assist warning appearing on the message board while driving, accompanied by a brake pedal that requires substantially more effort than normal to slow the vehicle. · 17 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS 2015 CHEVROLET TAHOE.  THE CONTACT STATED THAT THE ENTIRE AUDIO SYSTEM FAILED AND AS A RESULT, THERE WAS NO AUDIBLE CHIME TO INDICATE THE CONTACT OF ANY SAFETY WARNINGS. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE ENTIRE AUDIO SYSTEM N",
         "pct": 20,
         "title": "Electrical System",
-        "blurb": "135 reports (20%) · 1 fire · 4 crash · 4 injured"
+        "blurb": "Owners report complete failure of the audio system, which also silences the audible chimes that would otherwise alert the driver to safety warnings. · 1 fire · 4 crash · 4 injured"
       },
       {
         "component": "STEERING",
@@ -97,7 +97,7 @@
         "sample": "4TH AND MOST DANGEROUS OF 4 INCIDENTS IN 3 WEEKS OF OWNERSHIP OF 2015 CHEVY TAHOE LT. WITHOUT DRIVER INSTRUCTION OR INTERFERENCE THE 2015 TAHOE SHIFTED ITSELF INTO 4WD DESPITE DIAL ON 2WD. STEERING DIFFICULT, CAR JERKED, ENGINE REVVED DIFFERENTLY AND TROUBLE IN REVERSE. NO WARNIN",
         "pct": 11,
         "title": "Steering",
-        "blurb": "70 reports (11%) · 3 crash · 2 injured"
+        "blurb": "Owners report the vehicle shifting itself into four-wheel drive without driver input despite the dial being set to two-wheel drive, resulting in difficult steering and the vehicle jerking. · 3 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET TAHOE. THE CONTACT STATED THAT WHEN THE VEHICLE WAS PLACED IN ALL WHEEL AND FOUR WHEEL DRIVE, THE SERVICE INDICATOR ILLUMINATED. IN ADDITION, THE VEHICLE JERKED WHILE MAKING A TURN. THE FAILURES OCCURRED DAILY. THE VEHICLE WAS INSPECTED THREE",
         "pct": 8,
         "title": "Power Train",
-        "blurb": "55 reports (8%) · 1 fire · 3 crash · 1 injured"
+        "blurb": "Owners report a service indicator illuminating when placing the vehicle into all-wheel or four-wheel drive, along with jerking during turns. · 1 fire · 3 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "52 reports (8%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

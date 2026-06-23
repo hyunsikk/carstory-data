@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2018 Ram 3500 owners report most",
-    "summary": "Across 769 owner complaints to NHTSA, the most reported area is Service Brakes (82% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Brake-related complaints dominate owner reports for this truck, with drivers describing unexpected vehicle acceleration when the brake pedal is pressed, loss of braking effectiveness, and related warning lights activating while underway. Electrical and hydraulic brake system failures, including inoperative trailer brake integration and ABS failure, make up a substantial share of remaining complaints. A smaller but notable group of owners report cruise control that fails to disengage and instead increases speed when the driver attempts to cancel it.",
     "issues": [
       {
         "component": "SERVICE BRAKES",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 RAM 3500. WHILE DRIVING APPROXIMATELY 35 MPH, THE VEHICLE ACCELERATED WHEN THE BRAKE PEDAL WAS DEPRESSED. IN ADDITION, THE HILL ASSIST WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO LANDER MCLARTY DODGE CHRYSLER JEEP RAM (6533 UNIVERSITY DR NW",
         "pct": 82,
         "title": "Service Brakes",
-        "blurb": "634 reports (82%) · 1 fire · 9 crash · 2 injured"
+        "blurb": "Owners report the vehicle accelerating rather than slowing when the brake pedal is depressed, sometimes accompanied by a hill assist warning indicator illuminating on the dash. · 1 fire · 9 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "INTEGRATED BRAKE SYSTEM FOR TOWING TRAILERS (ITBS) DOES NOT WORK. SAFETY HAZARD AS THE TRUCK CAN NOT STOP THE 150000 POUND 29T ARCTIC FOX 5TH WHEEL.  AFTER 4 ATTEMPTS DODGE GAVE UP AND SAID THE ITBS WORKS AS DESIGNED.  THE 5TH WHEEL WAS CERTIFIED THAT THE BRAKES WORK WITH OTHER T",
         "pct": 17,
         "title": "Electrical System",
-        "blurb": "132 reports (17%) · 1 crash"
+        "blurb": "Owners report the integrated brake system for trailer towing failing to function, leaving the truck unable to adequately stop a towed load despite multiple dealer repair attempts. · 1 crash"
       },
       {
         "component": "HYDRAULIC",
@@ -97,7 +97,7 @@
         "sample": "The contact owns a 2018 Ram 3500.  The contact stated while driving at an undisclosed speed, the ABS unit became inoperable without warning. The safety feature failed, and the vehicle lost traction control, hydraulic braking, and cruise control. The vehicle was taken to the local",
         "pct": 16,
         "title": "Hydraulic",
-        "blurb": "124 reports (16%) · 4 crash"
+        "blurb": "Owners report the ABS unit becoming inoperable without warning, with simultaneous loss of traction control and hydraulic braking function while driving. · 4 crash"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "CRUISE CONTROL FAILED TO DISCONNECT.  UPON REPEATED ATTEMPTS TO DISENGAGE THE CRUISE CONTROL UNIT, THE SPEED INCREASED INCREMENTALLY WITH EACH ATTEMPT.  HOLDING THE CANCEL BUTTON CAUSED THE UNIT TO APPEAR TO DISENGAGE, BUT RELEASING THE CANCEL BUTTON CAUSED THE UNIT TO REENGAGE A",
         "pct": 14,
         "title": "Vehicle Speed Control",
-        "blurb": "107 reports (14%)"
+        "blurb": "Owners report cruise control failing to disengage when commanded, with vehicle speed increasing incrementally each time the driver attempts to cancel the system, including when holding the cancel button."
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -123,6 +123,7 @@
         "title": "Forward Collision Avoidance",
         "blurb": "60 reports (8%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

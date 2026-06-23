@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2020 Subaru Forester: windshield and visibility complaints lead by far",
-    "summary": "Owners filed 590 complaints with NHTSA. Visibility-related issues dominate: Visibility/Wiper is the top area at 43%, and a separate Visibility category adds another 8%, so roughly half of all reports touch on the glass and seeing out of the car. The electrical system (16%) and engine (12%) follow. No deaths are reported. The smallest area by report count, Forward Collision Avoidance (7%), has the most injuries of any area (7) and 4 crashes, so it is worth a close look on a test drive.",
+    "summary": "Windshield cracking is by far the most-reported problem owners raise about this Forester, with cracks appearing spontaneously while parked or while reversing — often with very low mileage on the vehicle. Electrical behavior also draws significant attention, particularly lights and interior systems acting unexpectedly when the rear tailgate is left open. A smaller but notable share of reports covers repeated battery drain under the engine category, with some owners describing multiple failures within a short ownership period.",
     "issues": [
       {
         "component": "VISIBILITY/WIPER",
@@ -73,7 +73,7 @@
         "sample": "WE VERY RECENTLY PURCHASED THIS 2020 FORESTER....LESS THAN 1000 MILES. THE VEHICLE WAS PARKED IN MY DRIVEWAY AND WHEN WE GOT IN IT THE NEXT MORNING THE WINDSHIELD HAD A SMALL CRACK IN IT! I HOPE THIS ISN'T A SIGN OF THINGS TO COME, ESPECIALLY AFTER READING THE POSTS ON HERE OF 20",
         "pct": 43,
         "title": "Visibility/Wiper",
-        "blurb": "By far the biggest complaint: 252 reports (43%), with no crashes, fires, or injuries logged. Many owners describe windshield cracks. Inspect the glass closely."
+        "blurb": "Owners report the windshield developing cracks without any apparent impact, including while the vehicle is parked overnight or being reversed out of a driveway."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "VEHICLE IGNITION IS OFF AND IN PARK.  THE SAFETY ISSUE OCCURS WHEN THE REAR TAILGATE IS LEFT OPEN.  AFTER 20 MINUTES OF LEAVING THE REAR TAILGATE OPEN, ALL THE INTERIOR LIGHTS TURN OFF CORRECTLY AS A PUBLISHED SAFETY FEATURE TO HELP PREVENT A DEAD BATTERY UPON DEPARTURE.  THE USE",
         "pct": 16,
         "title": "Electrical System",
-        "blurb": "Second most reported: 97 reports (16%), including 1 fire, 1 crash, and 1 injury. Battery and electrical gremlins show up often."
+        "blurb": "Owners report unexpected interior lighting behavior tied to the rear tailgate being left open, where lights that should remain on for safety shut off after a period of time. · 1 fire · 1 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "purchased new vehicle 10/23/19, 1st battery failure 6/15/2 jumped and ok 2nd battery failure 12/4/20 jumped, Subaru replaced battery 3rd battery failure 2/16/21, Subaru said battery was \"fine\" 4th battery failure 3/31/21 Subaru replaced battery 5th battery failure 5/14/21, appt w",
         "pct": 12,
         "title": "Engine",
-        "blurb": "72 reports (12%), tied to 3 fires and 2 crashes but no injuries. Worth checking given the fire count."
+        "blurb": "Owners report repeated battery failures requiring jump-starts on multiple occasions, with some noting that the dealer found no fault with the battery despite recurring dead-battery events. · 3 fire · 2 crash"
       },
       {
         "component": "VISIBILITY",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2020 SUBARU FORESTER. THE CONTACT STATED THAT WHILE REVERSING OUT OF THE DRIVEWAY, THE WINDSHIELD CRACKED WITHOUT IMPACT. THE VEHICLE WAS TAKEN TO PUENTE HILL SUBARU LOCATED AT 17801 GALE AVE, CITY OF INDUSTRY, CA 91748, WHERE THE VEHICLE WAS INSPECTED AND ",
         "pct": 8,
         "title": "Visibility",
-        "blurb": "Another 49 reports (8%), with no crashes, fires, or injuries. Together with Visibility/Wiper, glass complaints make up about half of all reports."
+        "blurb": "Owners report the windshield cracking on its own without any collision or road debris impact, sometimes noticed while backing out of a driveway at low speed."
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -123,6 +123,7 @@
         "title": "Forward Collision Avoidance",
         "blurb": "Fewest reports at 42 (7%) but the most serious by outcome: 7 injuries, 4 crashes, and 1 fire. Pay close attention to how the automatic braking behaves."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Honda Pilot owners report most",
-    "summary": "Across 1,649 owner complaints to NHTSA, the most reported area is Engine (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine and electrical problems dominate owner complaints for this model, with the most common pattern being sudden engine shutdown while driving at highway speeds, accompanied by the entire instrument panel lighting up. Owners also report smoke emerging from under the hood in some cases. Powertrain and fuel system concerns round out the complaint picture, with some incidents involving safety-critical situations including passengers in the vehicle.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 HONDA PILOT. WHILE DRIVING AT 55 MPH, THE ENGINE SHUT OFF AND THE ENTIRE INSTRUMENT PANEL ILLUMINATED. THE CONTACT NOTICED SMOKE EMITTING FROM THE FRONT DRIVER SIDE. AFTER LIFTING THE HOOD, FLAMES EMITTED FROM THE PASSENGER SIDE NEAR THE ENGINE. THE CO",
         "pct": 45,
         "title": "Engine",
-        "blurb": "737 reports (45%) · 7 fire · 4 crash · 1 injured"
+        "blurb": "Owners report the engine shutting off without warning while driving at highway speeds, with the instrument panel illuminating all at once and smoke observed coming from the front driver side of the vehicle. · 7 fire · 4 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 HONDA PILOT. WHILE DRIVING AT 55 MPH, THE ENGINE SHUT OFF AND THE ENTIRE INSTRUMENT PANEL ILLUMINATED. THE CONTACT NOTICED SMOKE EMITTING FROM THE FRONT DRIVER SIDE. AFTER LIFTING THE HOOD, FLAMES EMITTED FROM THE PASSENGER SIDE NEAR THE ENGINE. THE CO",
         "pct": 35,
         "title": "Electrical System",
-        "blurb": "575 reports (35%) · 5 fire · 3 crash"
+        "blurb": "Owners report the entire instrument panel lighting up simultaneously while underway, often coinciding with engine shutdown and smoke visible from the front of the vehicle. · 5 fire · 3 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I WRITE TO YOU TO CONVEY MY SAFETY CONCERNS REGARDING A NEW HONDA 2016 PILOT. MY ATTEMPTS TO RESOLVE MY CONCERNS WITH AMERICAN HONDA MOTOR CO., INC. WERE MET WITH TEPID RELUCTANCE AND A CAVALIER NEGLECTFUL ATTITUDE.     1.AT HIGH SPEEDS (55-75 MPH) THE VEHICLE OVERSTEERS AND DURI",
         "pct": 12,
         "title": "Power Train",
-        "blurb": "196 reports (12%) · 5 crash · 1 injured"
+        "blurb": "Owners report safety concerns with the powertrain that they describe as unresolved after contacting Honda, characterizing the manufacturer's response as reluctant and dismissive. · 5 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "ON NOVEMBER 10, 2015, AT APPROXIMATELY 5:30PM, MY WIFE AND I WERE TRAVELING ON NORTH I-75 IN SOUTHWEST OHIO. BESIDES OURSELVES, WE HAD OUR TWO YOUNG GRANDCHILDREN IN THE CAR. THE CAR'S COMPUTER STARTED DISPLAYING A CHANGING SERIES OF WARNINGS GENERALLY INDICATING VARIOUS SYSTEM F",
         "pct": 10,
         "title": "Fuel/Propulsion System",
-        "blurb": "163 reports (10%) · 1 fire · 2 crash · 8 injured"
+        "blurb": "Owners report the vehicle's computer displaying warning messages while traveling on the highway, in some cases with other passengers present in the vehicle. · 1 fire · 2 crash · 8 injured"
       },
       {
         "component": "STRUCTURE",
@@ -123,6 +123,7 @@
         "title": "Structure",
         "blurb": "53 reports (3%) · 3 crash · 4 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

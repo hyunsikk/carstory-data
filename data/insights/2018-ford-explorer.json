@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Structure complaints lead the 2018 Ford Explorer, with engine fumes a safety concern",
-    "summary": "Of 699 owner complaints filed with NHTSA, structure problems are the most common by far at 282 reports (40%), including 4 crashes. The engine is the next biggest concern at 91 reports (13%), and notably accounts for 2 fires, 2 crashes, and 4 injuries. The electrical system follows at 56 reports (8%), also with 2 fires and 2 crashes. Power train and engine cooling round out the top issues. Buyers should inspect the body and structure closely and pay attention to the engine, where the most injuries are concentrated.",
+    "summary": "Structural complaints dominate owner reports, with windshield trim and molding separating from the vehicle at highway speeds being the most commonly described issue. Engine exhaust odor entering the cabin during acceleration is the next most-cited problem, with owners noting the smell persists even after dealer attempts to address it. Electrical and powertrain faults round out the pattern, covering cold-start warning cascades and transmission irregularities during gear changes.",
     "issues": [
       {
         "component": "STRUCTURE",
@@ -73,7 +73,7 @@
         "sample": "WE WERE TRAVELING ON I-10 IN OUR RENTAL CAR..GOING ABOUT 75 MILES PER HOUR IN TEXAS WHEN THE DRIVERS SIDE FRONT WINDSHIELD MOULDING FLEW OFF THE WINDSHIELD HITTING THE WINDOW AND CONTINUING TO FLY OVER THE CAR.  WE SWERVED BECAUSE WE THOUGHT IT WAS A BIRD STRIKE OR SOMETHING CAME",
         "pct": 40,
         "title": "Structure",
-        "blurb": "The single largest complaint area: 282 reports (40% of all complaints), including 4 crashes, but no fires or injuries reported. Inspect the body and structure carefully before buying."
+        "blurb": "Owners report windshield molding and trim separating from the vehicle while driving at highway speeds, with pieces striking the glass or flying over the car. · 4 crash"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "WHEN ACCELERATING, THE SMELL OF EXHAUST FILLS THE CAR. WHEN YOU PRESS THE GAS ALL YOU CAN SMELL IS EXHAUST. IT'S BEEN THIS WAY FROM DAY ONE. FORD TRIED TO FIX IT UNDER RECALL BUT IT DID ABSOLUTELY NOTHING. YOU CAN STILL SMELL IT JUST THE SAME. NO DIFFERENCE AFTER THEIR ATTEMPT TO",
         "pct": 13,
         "title": "Engine",
-        "blurb": "The second most reported area: 91 reports (13%), and the most safety-flagged, with 2 fires, 2 crashes, and 4 injuries. Have the engine checked thoroughly before buying."
+        "blurb": "Owners report a persistent exhaust smell entering the cabin when accelerating, which some note was present from the time of purchase and continued after dealer service attempts. · 2 fire · 2 crash · 4 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "DURING STARTUP ON COLD MORNINGS (NOT ALWAYS) I HAVE RECEIVED MULTIPLE FAILURE WARNINGS.  WHEN THIS HAPPENS THE VEHICLE HAS NO POWER STEERING, TURN SIGNALS, OR WINDSHIELD WIPERS.  THE WARNINGS ARE: 4WD OFF, CHECK PARKING AID, SEE MANUAL, SERVICE ADVANCETRAC, STEERING ASSIST FAULT,",
         "pct": 8,
         "title": "Electrical System",
-        "blurb": "56 reports (8%), with 2 fires, 2 crashes, and 2 injuries among them. Verify the electrical system works correctly on a test drive."
+        "blurb": "Owners report that on cold mornings the vehicle can display multiple simultaneous warning messages and lose power steering, turn signals, and windshield wipers. · 2 fire · 2 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "MY 2016 EXPLORER HAS 74,000 MILES AND THE RPM NEEDLE IS STICKING.  HAD IT EVALUATED AND FOUND TRANSMISSION NEUTRAL OUT ON A 2/3 SHIFT AND A 4/5 SHIFT.  FLUID LEVEL IS CORRECT, THIS IS DUE TO EXCESSIVE CLEARANCE IN THE DIRECT CLUTCH.  THE FORD DEALERSHIP RECOMMEND OVERHAUL OR REPL",
         "pct": 6,
         "title": "Power Train",
-        "blurb": "43 reports (6%), including 1 crash, with no fires or injuries. Pay attention to how the transmission and drivetrain shift on a test drive."
+        "blurb": "Owners report the RPM needle sticking and the transmission dropping to neutral during upshifts, with the fluid level found to be correct. · 1 crash"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -123,6 +123,7 @@
         "title": "Engine And Engine Cooling",
         "blurb": "28 reports (4%), with 1 fire and 1 injury reported. The smallest of the top issues, but worth a check alongside the engine complaints above."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

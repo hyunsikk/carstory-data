@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Ram 1500 owners report most",
-    "summary": "Across 1,731 owner complaints to NHTSA, the most reported area is Steering (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Steering complaints dominate owner reports for this Ram truck, with drivers describing the vehicle drifting or wandering unpredictably while in motion. Engine and fuel system issues also appear frequently, with owners reporting visible smoke during acceleration and persistent check engine lights that dealers struggled to resolve over extended periods. Electrical problems round out the top concerns, including unexplained battery drain that leaves the truck unable to start and spontaneous activation of suspension and instrument cluster systems.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 DODGE RAM 1500. THE CONTACT STATED WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE WOULD DRIFT FROM SIDE TO SIDE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE VEHICLE WAS OUT OF LINE BUT THEY WERE UNABLE TO ALTER IT. THE MANUFA",
         "pct": 28,
         "title": "Steering",
-        "blurb": "485 reports (28%) · 1 fire · 21 crash · 9 injured"
+        "blurb": "Owners report the vehicle drifting or wandering from side to side while driving at various speeds. · 1 fire · 21 crash · 9 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "WE WERE DRIVING OUR NEW TRUCK (ONLY 13 DAYS OLD) AND CAME UP BEHIND A CAR GOING 25MPH IN A 50MPH ZONE.  WE SLOWLY ACCELERATED THE TRUCK TO PASS THE VEHICLE.  DURING THIS ACCELERATION, WE SAW LARGE AMOUNTS OF WHITE SMOKE COMING FROM BOTH TAILPIPES.  THEN A BRIEF SINGLE CHIME START",
         "pct": 17,
         "title": "Engine",
-        "blurb": "300 reports (17%) · 14 fire · 2 crash · 12 injured"
+        "blurb": "Owners report large amounts of white smoke appearing during acceleration, even on trucks driven only a short time after purchase. · 14 fire · 2 crash · 12 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "THERE IS A CONTINUOUS UNKNOWN ELECTRICAL DRAW CAUSING THE BATTERY TO DRAIN TO THE POINT THE VEHICLE WILL NOT START. AN ELECTRICAL SURGE WILL CAUSE THE ELECTRIC SUSPENSION TO ACTIVATE ALONG WITH THE CONSOLE CLUSTER AFTER THE VEHICLE HAS BEEN TURNED OFF. THE VEHICLE HAS BEEN BACK T",
         "pct": 14,
         "title": "Electrical System",
-        "blurb": "241 reports (14%) · 6 fire · 9 crash · 6 injured"
+        "blurb": "Owners report an unknown electrical draw that drains the battery until the vehicle will not start, along with spontaneous activation of the electric suspension and console cluster. · 6 fire · 9 crash · 6 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "CHECK ENGINE LIGHT CAME ON.  THAT WAS 9/24/14.  THE CHECK ENGINE LIGHT HAS BEEN THROUGH A MYRIAD OF \"FIXES\".  IT IS NOW 02/03/15 (5 1/2 MONTHS) - THE CHECK ENGINE LIGHT IS STILL ON AND THE DEALERSHIP HAS IT IN FOR \"REPAIR\".  THE WARRANTY REQUIRES THAT THE VEHICLE NOT BE DRIVEN WH",
         "pct": 12,
         "title": "Fuel/Propulsion System",
-        "blurb": "211 reports (12%) · 7 fire · 2 crash · 3 injured"
+        "blurb": "Owners report a persistent check engine light that remains on through repeated dealer repair attempts spanning many months without resolution. · 7 fire · 2 crash · 3 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "191 reports (11%) · 23 crash · 7 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

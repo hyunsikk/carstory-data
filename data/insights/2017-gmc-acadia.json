@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Gmc Acadia owners report most",
-    "summary": "Across 692 owner complaints to NHTSA, the most reported area is Power Train (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Powertrain complaints make up the largest share of owner reports, centering on transmission hesitation and delayed gear engagement at low speeds. Electrical system problems are the second most common category, with a notable cluster of owners reporting that the horn requires unusually high force to activate. Engine and air bag complaints round out the picture, with starting failures and horn-engagement difficulty each appearing across multiple complaint categories.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "ON 2017 ACADIA WITH IT'S 6TXX TRANSMISSION, THE SHIFTS FROM 2-3 FEEL WEIRD (ESPECIALLY) WHEN DRIVING AT SLOW SPEEDS. YOU GET A FEELING AS IF TRANNY TAKES MORE THAN USUAL TIME TO ENGAGE INTO 3RD GEAR, WHEN ALREADY DISENGAGED FROM 2ND GEAR. THIS IS SIMILAR TO WHAT FEELING ONE MIGHT",
         "pct": 34,
         "title": "Power Train",
-        "blurb": "232 reports (34%) · 3 crash · 1 injured"
+        "blurb": "Owners describe the transmission feeling hesitant or slow to engage during upshifts at low speeds, particularly the shift between second and third gear. · 3 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 GMC ACADIA. THE CONTACT STATED THAT IT TOOK A TREMENDOUS AMOUNT OF FORCE TO ENGAGE THE HORN. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE DESIGN OF THE HORN WAS NORMAL, AND NO FAILURE OR REPAIR WAS NEEDED. THE MANUFACTURER WAS NOT ",
         "pct": 27,
         "title": "Electrical System",
-        "blurb": "189 reports (27%) · 2 fire · 1 crash"
+        "blurb": "Owners report that engaging the horn requires a disproportionate amount of force, and dealers have characterized this behavior as within normal design parameters. · 2 fire · 1 crash"
       },
       {
         "component": "AIR BAGS",
@@ -97,7 +97,7 @@
         "sample": "THE 2017 GMC ACADIA HORN TAKES AN UNREASONABLE AMOUNT OF FORCE TO ENGAGE.  THIS HAS BEEN NOTED BY SEVERAL USERS.  MY SPOUSE HAD A SEMI TRUCK COME INTO HER LANE A DAY AGO AND COULD NOT GET HORN TO SOUND TO WARN OTHER DRIVER.  GMC DEALERSHIP INVESTIGATED AND SAID ITS JUST THE WAY T",
         "pct": 11,
         "title": "Air Bags",
-        "blurb": "76 reports (11%) · 2 crash · 9 injured"
+        "blurb": "Owners report that the horn demands unreasonable force to sound, with some stating they were unable to activate it in time to warn other drivers of an imminent collision. · 2 crash · 9 injured"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "TRUCK CONSTANTLY FAILS TO START.  KEYFOB NOT RECOGNIZED.  COMPUTER SYSTEM CRASHES, REAR AIR VENTS FALL OUT.  FAULTY GAS TANK AND GAS LINE.  CANNOT FILL UP GAS TANK PAST 1/2 A TANK.  BEEN HAPPENING SINCE INCEPTION AND IS CONSTANTLY IN AND OUT OF SERVICE FOR THE SAME ISSUES OVER TH",
         "pct": 9,
         "title": "Engine",
-        "blurb": "60 reports (9%) · 1 fire"
+        "blurb": "Owners describe repeated failure to start, the key fob going unrecognized by the vehicle, computer system crashes, and an inability to fill the fuel tank beyond the halfway point. · 1 fire"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "36 reports (5%) · 1 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Chrysler 200 owners report most",
-    "summary": "Across 1,982 owner complaints to NHTSA, the most reported area is Electrical System (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The most-reported problems center on the electrical system and powertrain, with owners frequently describing unexpected stalls and shutoffs while driving at various speeds. Engine-related stalling complaints mirror the electrical reports closely, and powertrain complaints include torque failures noted during vehicle assembly. A smaller share of reports concerns airbags failing to deploy in side-impact collisions.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "I HAVE A 2015 CHRYSLER 200S, MY CAR HAS STALLED ON 3 OCCASIONS WHILE DRIVING, EACH AT DIFFERENT SPEEDS. ON TWO OF THE INCIDENTS, THE CAR SHUT OFF, I WAS ABLE TO COAST SAFELY TO THE SIDE OF THE ROAD AND PLACE THE CAR BACK INTO PARK. ONCE IN PARK I WAS ABLE TO RESTART THE ENGINE AN",
         "pct": 38,
         "title": "Electrical System",
-        "blurb": "750 reports (38%) · 11 fire · 27 crash · 13 injured"
+        "blurb": "Owners report the vehicle stalling and shutting off while in motion at various speeds, requiring the driver to coast to the side of the road before restarting. · 11 fire · 27 crash · 13 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "DURING LAUNCH OF 2015 CHRYSLER 200 AT STERLING HEIGHTS ASSEMBLY PLANT VEHICLES HAVE HAD AT LEAST 30 TORQUE FAILURES OR NO READS FOR CRITICAL JOINTS. THEREFORE TORQUE WOULD HAVE TO BE VERIFIED MANUALLY. UNFORTUNATELY THE COMPANY HAS NOT PROVIDED THE PROPER SOCKETS TO THE WRENCHES ",
         "pct": 35,
         "title": "Power Train",
-        "blurb": "693 reports (35%) · 22 crash · 12 injured"
+        "blurb": "Owners report torque failures and missing torque readings on critical joints, with complaints noting that torque had to be verified manually. · 22 crash · 12 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "I HAVE A 2015 CHRYSLER 200S, MY CAR HAS STALLED ON 3 OCCASIONS WHILE DRIVING, EACH AT DIFFERENT SPEEDS. ON TWO OF THE INCIDENTS, THE CAR SHUT OFF, I WAS ABLE TO COAST SAFELY TO THE SIDE OF THE ROAD AND PLACE THE CAR BACK INTO PARK. ONCE IN PARK I WAS ABLE TO RESTART THE ENGINE AN",
         "pct": 31,
         "title": "Engine",
-        "blurb": "605 reports (31%) · 12 fire · 18 crash · 7 injured"
+        "blurb": "Owners report the engine stalling on multiple occasions while driving, with the car shutting off entirely and requiring the driver to coast to a stop. · 12 fire · 18 crash · 7 injured"
       },
       {
         "component": "AIR BAGS",
@@ -109,7 +109,7 @@
         "sample": "MY CHRYSLER 200 WAS IMPACTED ON THE DRIVER'S SIDE MOST OF THE DAMAGE WAS TO THE LEFT FENDER AND DRIVER'S DOOR. THE IMPACT WAS HARD ENOUGH IN MY OPINION FOR THE SIDE AIRBAGS TO RELEASE BUT NOTHING HAPPEN MY WIFE'S HEAD HIT AGAINST THE DRIVER'S DOOR. I HAVE PICTURES BUT DO NOT SEE ",
         "pct": 16,
         "title": "Air Bags",
-        "blurb": "325 reports (16%) · 2 fire · 38 crash · 31 injured"
+        "blurb": "Owners report side airbags failing to deploy during impacts that struck the driver's door and fender with enough force that deployment was expected. · 2 fire · 38 crash · 31 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "159 reports (8%) · 1 fire · 6 crash · 6 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

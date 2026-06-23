@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Ford Escape owners report most",
-    "summary": "Across 2,065 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports, with exhaust odor entering the cabin as a frequently described symptom, alongside powertrain hesitation and stalling at speed. Electrical system faults and engine cooling concerns round out the pattern, with some complaints across all areas noting fires or crashes. Owners consistently describe symptoms that emerged during normal driving conditions.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "LEASED THIS VEHICLE IN AUGUST, 2013. SINCE DAY ONE I HAVE NOTICED AN EXHAUST SMELL IN CABIN WHEN THE VEHICLE IS PUT INTO REVERSE AND OCCASIONALLY WHEN DRIVING AT LOW SPEEDS. I AM SENSITIVE TO ODORS IN GENERAL AND MY FAMILY MEMBERS ONLY SMELLED IT OCCASIONALLY, SO I DISREGARDED UN",
         "pct": 35,
         "title": "Engine",
-        "blurb": "716 reports (35%) · 73 fire · 2 crash · 2 injured"
+        "blurb": "Owners report exhaust smell entering the cabin, noticed when shifting into reverse and at low driving speeds. · 73 fire · 2 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 FORD ESCORT. THE CONTACT STATED THAT THE VEHICLE WOULD HESITATE AND STALL WHEN DRIVING 45 MPH AND ABOVE. THE CONTACT TOOK THE VEHICLE THE VEHICLE TO THE DEALER, WHO STATED THAT THE VEHICLE WAS BEING DRIVEN TOO SLOWLY. THE CONTACT WAS ADVISED TO APPLY T",
         "pct": 23,
         "title": "Power Train",
-        "blurb": "478 reports (23%) · 4 fire · 13 crash · 7 injured"
+        "blurb": "Owners report the vehicle hesitating and stalling while driving at highway speeds. · 4 fire · 13 crash · 7 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "FIRST TIME (WHILE DRIVING)INSTRUMENT CLUSTER NEEDLES JUMPED, DISPLAY READ P TRANSMISSION NOT IN PARK.  CYCLE REPEATED A COUPLE OF TIMES THEN CLUSTER LIGHT TURNED OFF AND NEEDLES WENT TO OFF POSITION.  DISPLAY ONLY READ PRND AND MILEAGE. CAR TAKEN TO DEALER ON11-7-13.  CLUSTER REP",
         "pct": 10,
         "title": "Electrical System",
-        "blurb": "209 reports (10%) · 17 fire · 4 crash · 4 injured"
+        "blurb": "Owners report the instrument cluster needles jumping erratically, the display incorrectly showing a park transmission warning, and cluster lights shutting off with needles dropping to the off position. · 17 fire · 4 crash · 4 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -109,7 +109,7 @@
         "sample": "DUE TO COLD WEATHER, WALKED OUT AND STARTED CAR, RIGHT FOOT ON BRAKE, RIGHT INDEX FINGER ON STARTER BUTTON, LEFT FOOT ON OUTSIDE PARKING LOT AND LEFT HAND HOLDING CELL PHONE.  AFTER STARTING CAR, CLOSED DOOR, WENT BACK INTO OFFICE FOR OVER 3-5 MINUTES, DID FIVE WEB SEARCHES BEFOR",
         "pct": 9,
         "title": "Engine And Engine Cooling",
-        "blurb": "186 reports (9%) · 11 fire · 1 crash"
+        "blurb": "Owners report incidents occurring immediately after a cold-weather remote start, with the car behaving unexpectedly upon the driver returning to the vehicle. · 11 fire · 1 crash"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "150 reports (7%) · 7 crash · 3 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

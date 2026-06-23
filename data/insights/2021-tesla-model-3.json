@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2021 Tesla Model 3 owners report most",
-    "summary": "Across 642 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (63% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern in owner complaints centers on the forward collision avoidance system, where owners report the vehicle failing to slow down when expected and also applying sudden, hard braking on the highway with no warning and no visible obstacle. Secondary clusters cover the braking and speed control systems — specifically the removal of a low regenerative braking option that owners expected from their test drives — and electrical system faults that cause climate control heating to stop working.",
     "issues": [
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -73,7 +73,7 @@
         "sample": "Automatic cruise control (autopilot) has twice failed to decrease speed when it should have. The vehicle will also brake at a moderate to high rate on the highway with zero warning or message, with no obstacle or vehicle on the road, creating a dangerous situation with following ",
         "pct": 63,
         "title": "Forward Collision Avoidance",
-        "blurb": "402 reports (63%) · 1 fire · 10 crash · 8 injured"
+        "blurb": "Owners report the system failing to reduce speed when approaching a hazard, and also triggering sudden, unexplained hard braking on the highway with no warning and no obstacle present. · 1 fire · 10 crash · 8 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -85,7 +85,7 @@
         "sample": "WHEN I TEST DROVE THE TESLA MODEL 3, THERE WAS AN OPTION TO TURN REGENERATIVE BRAKING TO LOW. THIS ALLOWED THE CAR TO HAVE MORE OF A COASTING EFFECT WHEN ONE LIFTS THE FOOT OFF OF THE ACCELERATOR. WHEN I RECEIVED DELIVERY OF THE CAR, THE ABILITY TO REDUCE THE REGENERATIVE BRAKING",
         "pct": 19,
         "title": "Service Brakes",
-        "blurb": "125 reports (19%) · 1 fire · 11 crash · 5 injured"
+        "blurb": "Owners report that a low regenerative braking setting available during test drives was not present at delivery, removing the expected coasting behavior when lifting off the accelerator. · 1 fire · 11 crash · 5 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -97,7 +97,7 @@
         "sample": "WHEN I TEST DROVE THE TESLA MODEL 3, THERE WAS AN OPTION TO TURN REGENERATIVE BRAKING TO LOW. THIS ALLOWED THE CAR TO HAVE MORE OF A COASTING EFFECT WHEN ONE LIFTS THE FOOT OFF OF THE ACCELERATOR. WHEN I RECEIVED DELIVERY OF THE CAR, THE ABILITY TO REDUCE THE REGENERATIVE BRAKING",
         "pct": 19,
         "title": "Vehicle Speed Control",
-        "blurb": "123 reports (19%) · 11 crash · 6 injured"
+        "blurb": "Owners report that the low regenerative braking mode experienced during test drives was unavailable after delivery, altering how the vehicle decelerates when the accelerator is released. · 11 crash · 6 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "HEAT NO LONGER WORKS IN THE CAR'S CLIMATE CONTROL. THIS APPARENTLY IS TIED TO FAULTY HUMIDITY AND TEMPERATURE SENSORS THAT MUST WORK PROPERLY FOR THE HEATING SYSTEM TO WORK, AND TESLA SERVICE CENTERS ARE AWARE OF THIS YET ARE NOT PROACTIVELY REPLACING THEM.     THIS IS A SAFETY I",
         "pct": 11,
         "title": "Electrical System",
-        "blurb": "73 reports (11%) · 1 fire · 7 crash · 4 injured"
+        "blurb": "Owners report that cabin heating stops functioning, with the fault apparently tied to humidity and temperature sensors that must operate correctly for the heating system to work. · 1 fire · 7 crash · 4 injured"
       },
       {
         "component": "LANE DEPARTURE",
@@ -123,6 +123,7 @@
         "title": "Lane Departure",
         "blurb": "28 reports (4%) · 5 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

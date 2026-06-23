@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Kia Sorento owners report most",
-    "summary": "Across 743 owner complaints to NHTSA, the most reported area is Engine (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine problems dominate owner complaints for this model year, with reports of sudden jerking, unexpected downshifting behavior, and loss of control while driving at highway speeds. Structural complaints center on the rear tailgate window spontaneously shattering while the vehicle is parked. Exterior lighting and electrical system issues round out the most-reported problem areas, with some complaints in each category associated with fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I PURCHASED A NEW 2015 KIA SORENTO MAY 17, 2014.  AS I WAS DRIVING DOWN THE ROAD LAST NIGHT AT APPROXIMATELY 45MPH, SUDDENLY THE CAR JERKED AROUND, SOUNDED LIKE I DOWNSHIFTED (ALTHOUGH IT'S AN AUTOMATIC) AND I GOT THE DIAGNOSTIC MESSAGE OF THE \"ENGINE CONTROL SYSTEM- POSSIBLE ENG",
         "pct": 48,
         "title": "Engine",
-        "blurb": "357 reports (48%) · 9 fire · 6 crash · 5 injured"
+        "blurb": "Owners report the vehicle suddenly jerking while driving at speed, accompanied by a sound resembling an unintended downshift in an automatic transmission. · 9 fire · 6 crash · 5 injured"
       },
       {
         "component": "STRUCTURE",
@@ -85,7 +85,7 @@
         "sample": "OUR 2015 KIA SORENTO LX WITH TOURING PACKAGE WAS PARKED IN OUR DRIVEWAY WHEN THE TAILGATE WINDOW EXPLODED AND SHATTERED ALL OVER THE DRIVEWAY.  FORTUNATELY NO ONE WAS IN OR NEXT TO IT AT THE TIME.  VEHICLE IS BACK AT FUCILLA KIA DEALERSHIP FOR REPAIR.  IT IS ONLY ONE WEEK SINCE W",
         "pct": 13,
         "title": "Structure",
-        "blurb": "99 reports (13%) · 1 fire · 3 crash · 1 injured"
+        "blurb": "Owners report the rear tailgate window spontaneously exploding and shattering while the vehicle is parked and unoccupied. · 1 fire · 3 crash · 1 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 KIA SORENTO. THE CONTACT STATED THAT THE HEADLIGHTS ON/OFF SENSOR FAILED TO ILLUMINATE DURING NIGHT HOURS. THE CONTACT ALSO STATED THAT THE HEADLIGHT SENSOR FAILED TO POWER OFF THE HEADLIGHTS OFF DURING THE DAY. THE CONTACT HAD TO POWER OFF THE HEADLIG",
         "pct": 12,
         "title": "Exterior Lighting",
-        "blurb": "90 reports (12%) · 1 crash"
+        "blurb": "Owners report the automatic headlight sensor failing to illuminate the headlights at night and also failing to turn them off as expected. · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 KIA SORENTO. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 10 MPH, THE VEHICLE EXPERIENCED A POWER LOSS AND THE ENGINE STALLED. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED THAT THE VEHICLE NEEDED AN ALTERNATOR AND IT WAS REPAIRED.",
         "pct": 8,
         "title": "Electrical System",
-        "blurb": "56 reports (8%) · 4 fire"
+        "blurb": "Owners report sudden power loss and engine stall while driving at low speeds. · 4 fire"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "42 reports (6%) · 1 crash · 3 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

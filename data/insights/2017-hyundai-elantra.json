@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Hyundai Elantra owners report most",
-    "summary": "Across 756 owner complaints to NHTSA, the most reported area is Engine (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports for this model year, with owners describing chemical odors near the front of the vehicle and associated physical symptoms such as headaches and burning eyes. Electrical system failures, structural issues with the trunk, and steering problems round out the most-reported areas, with crashes and fires appearing across multiple categories. The pattern across complaints points to unexpected losses of vehicle control — whether from an engine odor, a spontaneous shutdown, a trunk that opens while driving, or sudden power steering failure.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI ELANTRA. THE CONTACT STATED THAT THERE WAS A STRONG CHEMICAL ODOR INSIDE AND NEAR THE FRONT END OF THE VEHICLE. THE CONTACT STATED THAT THE ODOR CAUSED HEADACHES, BURNING EYES, EXCESSIVE COUGHING, BURNING NOSTRILS, A BURNING THROAT, AND SEVERE ",
         "pct": 38,
         "title": "Engine",
-        "blurb": "284 reports (38%) · 5 fire · 4 crash · 6 injured"
+        "blurb": "Owners report a strong chemical odor emanating from inside the cabin and near the front of the vehicle, accompanied by physical effects including headaches and burning eyes. · 5 fire · 4 crash · 6 injured"
       },
       {
         "component": "STRUCTURE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI ELANTRA. WHILE DRIVNG VARIOUS SPEEDS, THE VEHICLE'S TRUNK OPENED WITHOUT WARNING ON NUMEROUS OCCASIONS. THE VEHICLE WAS TAKEN TO MULTIPLE DEALERS TO BE REPAIRED, BUT THE FAILURE COULD NOT BE DUPLICATED. THE MANUFACTURER WAS MADE AWARE OF THE FA",
         "pct": 17,
         "title": "Structure",
-        "blurb": "132 reports (17%) · 2 crash · 1 injured"
+        "blurb": "Owners report the trunk opening on its own without warning while driving at various speeds, with the problem recurring even after dealer repair attempts. · 2 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "WHILE DRIVING CAR AT 50 MPH ON A COUNTY ROAD ON 10/11/2017, CAR SHUT ITSELF OFF, I HAD TO COAST TO THE SHOULDER WITHOUT POWER STEERING OR POWER BRAKES. WARNINGS SUCH AS ANTENNAE DISCONNECT, BLIND SPOT DETECTION SYSTEM WARNING. WHEN I WAS ABLE TO RESTART THE CAR I DROVE TO O'BRIEN",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "110 reports (15%) · 2 fire · 6 crash · 7 injured"
+        "blurb": "Owners report the vehicle shutting off entirely while in motion, causing simultaneous loss of power steering and power brakes, with multiple warning indicators activating at once. · 2 fire · 6 crash · 7 injured"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNED A 2017 HYUNDAI ELANTRA WHILE THE CONTACT'S DAUGHTER WAS DRIVING AT UNKNOWN SPEEDS, THE POWER STEERING FAILED WHILE ATTEMPTING TO MAKE A RIGHT TURN. THE VEHICLE CRASHED INTO A TELEPHONE POLE. THE CONTACT WAS UNSURE IF ANY WARNING INDICATORS WERE ILLUMINATED P",
         "pct": 9,
         "title": "Steering",
-        "blurb": "70 reports (9%) · 7 crash · 3 injured"
+        "blurb": "Owners report sudden power steering failure during active steering maneuvers, with at least one complaint describing a resulting collision with a roadside object. · 7 crash · 3 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "61 reports (8%) · 2 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

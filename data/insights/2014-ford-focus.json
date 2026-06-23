@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Ford Focus owners report most",
-    "summary": "Across 2,639 owner complaints to NHTSA, the most reported area is Power Train (60% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant complaint category for this model year centers on power train behavior, with owners describing unexpected vehicle movement at stops and on inclines. Engine and fuel system complaints follow, with owners reporting sudden loss of power or stalling at speed, sometimes accompanied by warning lights. Electrical system complaints describe the vehicle losing power to the wheels while in motion, leaving owners coasting without drive.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "WHEN THE VEHICLE COMES TO A COMPLETE STOP IT ROLLS BACKWARDS BEFORE YOU CAN PLACE YOUR FOOT ONTO THE ACCELERATOR. THE VEHICLE WILL ALSO PULL ITSELF FORWARD OR BACKWARD FROM THE BOTTOM OF A HILL AND CLEARS THE HILL WITHOUT MANUAL ACCELERATION. THE TRANSMISSION SLIPS AND CAUSES A J",
         "pct": 60,
         "title": "Power Train",
-        "blurb": "1,585 reports (60%) · 3 fire · 23 crash · 12 injured"
+        "blurb": "Owners report the vehicle rolling backward after a complete stop, as well as the vehicle moving forward or backward on its own on inclines without driver input. · 3 fire · 23 crash · 12 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 FORD FOCUS. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 55 MPH, THE VEHICLE STALLED AND THE STOP SAFELY NOW WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE FAILURE WAS UNABLE TO BE REPLICATED. THE MANUFACTURER WAS NOTIFIED O",
         "pct": 17,
         "title": "Engine",
-        "blurb": "454 reports (17%) · 8 fire · 18 crash · 11 injured"
+        "blurb": "Owners report the vehicle stalling while driving at highway speed, with a stop-safely warning light illuminating at the time of the failure. · 8 fire · 18 crash · 11 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "WHILE DRIVING ON THE FREEWAY THE CAR BEGAN TO DECELERATE, GAS PEDAL WAS NON RESPONSIVE. TRAVELING APPROXIMATELY 60-65 MPH IN 5TH GEAR. DECELERATION OCCURRED IN 5TH GEAR. WAS ONLY ABLE TO MAINTAIN SPEED IN 4TH GEAR, BUT WAS UNABLE TO GO ANY FASTER THAN 50- 55 MPH WITH GAS PEDAL TO",
         "pct": 12,
         "title": "Fuel/Propulsion System",
-        "blurb": "306 reports (12%) · 1 fire · 10 crash · 8 injured"
+        "blurb": "Owners report the gas pedal becoming unresponsive while on the freeway, causing the vehicle to decelerate with the driver unable to maintain speed. · 1 fire · 10 crash · 8 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "I WAS TRAVELING ABOUT 35 MPH WHEN MY CAR FLASHED A MESSAGE \"STOP SAFELY NOW\" AND THE CAR HAD LOST POWER TO THE WHEELS AND I WAS NOW JUST COASTING.  I PULLED THE VEHICLE OFF TO THE SIDE OF THE ROAD.  I WAS ABLE TO TURN OFF THE VEHICLE AND GET IT STARTED AGAIN.  I WAS LUCKY THAT I ",
         "pct": 10,
         "title": "Electrical System",
-        "blurb": "274 reports (10%) · 2 fire · 9 crash · 9 injured"
+        "blurb": "Owners report receiving a stop-safely warning message followed by immediate loss of power to the wheels, leaving the vehicle coasting without drive. · 2 fire · 9 crash · 9 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "225 reports (9%) · 1 fire · 12 crash · 6 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

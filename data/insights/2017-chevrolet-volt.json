@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Chevrolet Volt owners report most",
-    "summary": "Across 689 owner complaints to NHTSA, the most reported area is Electrical System (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The most commonly reported problems for the Chevrolet Volt center on the electrical system, with owners describing warning lights activating unexpectedly during highway driving. Fuel and propulsion system complaints frequently describe sudden, complete loss of power at highway speed, accompanied by an instrument panel prompt to shift to park. Powertrain and engine issues overlap closely with these symptoms, suggesting a pattern where propulsion failure and engine warning events occur together under normal driving conditions.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "2017 CHEVROLET VOLT EXTREME ENGINE HAZARD: ON 22-MAR-2016 I PURCHASED A 2017 CHEVROLET VOLT PREMIER, ALL SAFETY OPTIONS. DRIVING ON FREEWAY AT 65 MPH, STRAIGHT DRIVING, RELATIVELY LIGHT TRAFFIC, THE ENGINE LIGHT CAME ON YELLOW AND STEADY (EMISSIONS SYSTEM SERVICE WARNING) BUT THE",
         "pct": 44,
         "title": "Electrical System",
-        "blurb": "305 reports (44%) · 7 fire · 4 crash · 4 injured"
+        "blurb": "Owners report warning lights — including the engine light — illuminating without apparent cause while driving at highway speed under normal conditions. · 7 fire · 4 crash · 4 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "I WAS DRIVING MY 2 MONTH OLD CAR WITH ~2300 MILES ON A BUSY HIGHWAY AT ~ 65 MPH WHEN SUDDENLY THE CAR LOSES POWER AND THE PANEL READS \"SHIFT TO PARK\".  LUCKILY, I WAS ABLE TO MANEUVER THE CAR (STEERING WAS STILL IN TACT) WITH THE REMAINING SPEED TO THE SIDE OF THE HIGHWAY.  HOWEV",
         "pct": 33,
         "title": "Fuel/Propulsion System",
-        "blurb": "229 reports (33%) · 1 fire · 3 crash · 3 injured"
+        "blurb": "Owners describe the vehicle suddenly losing propulsion power on the highway, with the instrument panel displaying a prompt to shift to park. · 1 fire · 3 crash · 3 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I WAS DRIVING MY 2 MONTH OLD CAR WITH ~2300 MILES ON A BUSY HIGHWAY AT ~ 65 MPH WHEN SUDDENLY THE CAR LOSES POWER AND THE PANEL READS \"SHIFT TO PARK\".  LUCKILY, I WAS ABLE TO MANEUVER THE CAR (STEERING WAS STILL IN TACT) WITH THE REMAINING SPEED TO THE SIDE OF THE HIGHWAY.  HOWEV",
         "pct": 32,
         "title": "Power Train",
-        "blurb": "218 reports (32%) · 1 injured"
+        "blurb": "Owners report abrupt, unexpected loss of driving power at highway speed, with the car displaying a shift-to-park message on the panel. · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "2017 CHEVROLET VOLT EXTREME ENGINE HAZARD: ON 22-MAR-2016 I PURCHASED A 2017 CHEVROLET VOLT PREMIER, ALL SAFETY OPTIONS. DRIVING ON FREEWAY AT 65 MPH, STRAIGHT DRIVING, RELATIVELY LIGHT TRAFFIC, THE ENGINE LIGHT CAME ON YELLOW AND STEADY (EMISSIONS SYSTEM SERVICE WARNING) BUT THE",
         "pct": 26,
         "title": "Engine",
-        "blurb": "181 reports (26%) · 1 fire · 2 crash · 2 injured"
+        "blurb": "Owners report the engine warning light activating while traveling at highway speed under normal, straight-line driving conditions. · 1 fire · 2 crash · 2 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "32 reports (5%) · 2 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Ram 1500 owners report most",
-    "summary": "Across 1,495 owner complaints to NHTSA, the most reported area is Steering (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Steering complaints are the most-reported concern for this model year, followed closely by engine and brake issues, with powertrain problems also appearing frequently. Owners describe a range of sudden, in-motion failures — from loss of acceleration and brake pedals traveling to the floorboard, to violent shaking and noise while driving. Several categories include reports associated with fires or crashes, indicating that a meaningful share of incidents involved serious safety consequences.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "STEERING WHEEL POPPING NOISE WHEN TURNING THE STEERING WHEEL LEFT OR RIGHT       WHEN TURNING THE STEERING WHEEL TO THE LEFT, THERE IS A INTERMITTENT POPPING NOISE BEHIND THE DASHBOARD AROUND THE STEERING COLUMN .  AT TIMES I CAN FEEL VIBRATION OF THE POP BEING TRANSFERRED UP THE",
         "pct": 20,
         "title": "Steering",
-        "blurb": "301 reports (20%) · 1 fire · 6 crash · 3 injured"
+        "blurb": "Owners report an intermittent popping noise occurring behind the dashboard near the steering column when turning the steering wheel left or right. · 1 fire · 6 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 RAM 1500. WHILE DRIVING APPROXIMATELY 30 MPH, THE VEHICLE LOST ACCELERATION. THE CONTACT COASTED TO THE SIDE OF THE ROAD TO A COMPLETE STOP. AFTER WAITING APPROXIMATELY ONE MINUTE, THE CONTACT RESTARTED THE VEHICLE AND DROVE TO AN INDEPENDENT MECHANIC.",
         "pct": 19,
         "title": "Engine",
-        "blurb": "291 reports (19%) · 24 fire · 2 crash · 7 injured"
+        "blurb": "Owners report sudden loss of acceleration while driving, requiring the vehicle to coast to a stop before normal operation could resume. · 24 fire · 2 crash · 7 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 RAM 1500. WHILE DRIVING APPROXIMATELY 50 MPH, THE BRAKE PEDAL WAS DEPRESSED AND TRAVELED TO THE FLOORBOARD. THE VEHICLE WAS TOWED TO A DEALER WHERE IT WAS DIAGNOSED THAT THE REAR BRAKE LINE NEEDED TO BE REPAIRED. THE VEHICLE WAS NOT REPAIRED. THE MANUF",
         "pct": 17,
         "title": "Service Brakes",
-        "blurb": "251 reports (17%) · 2 fire · 10 crash"
+        "blurb": "Owners report the brake pedal traveling all the way to the floorboard during braking, with at least one case attributed to a failed rear brake line. · 2 fire · 10 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 RAM 1500. WHILE DRIVING 50 MPH, THE VEHICLE SHOOK VIOLENTLY WITHOUT WARNING. AFTER INSPECTING THE VEHICLE, THE CONTACT NOTICED THAT FOUR BOLTS THAT SECURED THE DRIVESHAFT TO THE DIFFERENTIAL WERE LOOSE. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE MANU",
         "pct": 13,
         "title": "Power Train",
-        "blurb": "199 reports (13%) · 5 fire · 34 crash · 15 injured"
+        "blurb": "Owners report the vehicle shaking violently without warning while underway, in some cases traced to bolts securing the driveshaft to the differential coming loose. · 5 fire · 34 crash · 15 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "186 reports (12%) · 4 fire · 2 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

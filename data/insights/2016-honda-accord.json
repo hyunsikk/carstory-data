@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Honda Accord owners report most",
-    "summary": "Across 585 owner complaints to NHTSA, the most reported area is Electrical System (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system failures dominate owner complaints for this Accord generation, with reports of sudden complete power loss on vehicles with low mileage. Exterior lighting draws the second-largest share of complaints, centered on low-beam headlights that owners describe as failing to adequately illuminate the road ahead. Engine and fuel/propulsion reports are less frequent but include accounts of fire and cabin intrusion of irritating compounds.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "PURCHASED MY COUPE IN NOVEMBER 2016 BRAND NEW. I HAVE LESS THAN 8600 MILES ON IT. THE OTHER NIGHT MY CAR WENT INTO COMPLETE SHUTDOWN, COMPLETELY DEAD. I WAS TOLD IT COULD BE THE MAIN FUSE. WHY WOULD  THE MAIN FUSE BLOW ON BRAND NEW CAR? THAT VERY DANGEROUS WHILE DRIVING. LUCKILY ",
         "pct": 32,
         "title": "Electrical System",
-        "blurb": "185 reports (32%) · 3 fire · 1 crash · 2 injured"
+        "blurb": "Owners report the vehicle entering complete shutdown and losing all power, sometimes attributed to a blown main fuse on cars with very low mileage. · 3 fire · 1 crash · 2 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -85,7 +85,7 @@
         "sample": "GROSSLY DEFECTIVE HEADLIGHTS, LOW BEAMS FAIL TO ADEQUATELY ILLUMINATE THE ROADWAY IN FRONT OF THE VEHICLE.  LOW BEAM CUTOFF TOO LOW, UNABLE TO DISCERN LARGE BRIGHT OBJECT ON ROADWAY OR EDGE AT 100 FOOT DISTANCE. PHOTO DOCUMENTATION ATTACHED.   HONDA HAS NOT PROVIDED AN OWNERS MAN",
         "pct": 22,
         "title": "Exterior Lighting",
-        "blurb": "127 reports (22%) · 2 crash"
+        "blurb": "Owners describe the low-beam headlights as grossly defective, with a cutoff angle so low that large objects on or at the edge of the roadway cannot be discerned at close range. · 2 crash"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 HONDA ACCORD. WHILE MERGING INTO TRAFFIC AT APPROXIMATELY 50 MPH, THE CONTACT CRASHED INTO THE REAR DRIVER SIDE OF ANOTHER VEHICLE. WITHIN SECONDS OF STOPPING, FLAMES EMITTED UNDER THE HOOD AND EVENTUALLY SPREAD THROUGHOUT THE WHOLE VEHICLE. THE FIRE D",
         "pct": 8,
         "title": "Engine",
-        "blurb": "44 reports (8%) · 3 fire · 2 crash · 1 injured"
+        "blurb": "Owners report post-collision flames emitting from under the hood within seconds of the vehicle coming to a stop. · 3 fire · 2 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "VOLATILE ORGANIC COMPOUNDS ,INCLUDING \"METHYL ISOBUTYL KETONE\" ARE ENTERING THE VEHICLE CABIN WHILE THE ENGINE IS ON. THIS IS CAUSING SERIOUS EYE IRRITATION AND BREATHING IRRITATION. THIS DESPITE THE AIR CONDITIONING BEING ON, ALL VENTS CLOSED, ALL WINDOWS UP. I'VE ATTACHED THE R",
         "pct": 6,
         "title": "Fuel/Propulsion System",
-        "blurb": "37 reports (6%) · 1 fire · 1 crash"
+        "blurb": "Owners report volatile organic compounds entering the vehicle cabin while the engine is running, causing eye and breathing irritation even with air conditioning active. · 1 fire · 1 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "33 reports (6%) · 4 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

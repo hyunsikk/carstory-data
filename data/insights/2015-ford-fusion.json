@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Ford Fusion owners report most",
-    "summary": "Across 1,048 owner complaints to NHTSA, the most reported area is Engine (26% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints make up the largest share of owner reports, with the most common pattern being sudden, complete loss of power while driving — the car shuts off mid-highway, the dashboard goes dark, and the accelerator stops responding. Steering and power train complaints follow a similar theme of unexpected power loss, sometimes while the vehicle is in motion on a highway. Service brake complaints round out the top concerns, with some incidents also involving fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I WAS DRIVING SOUTHBOUND ON I-75 ALMOST TO PERRYSBURG IN THE MIDDLE LANE AND MY CAR COMPLETELY SHUT OFF. MY CAR WAS STILL IN DRIVE, BUT ALL THE LIGHTS ON MY DASH WENT BLACK AND WHEN I PRESSED ON THE GAS PEDAL I WASN'T GOING ANYWHERE. THERE WAS A TRUCK NEXT TO ME IN THE RIGHT HAND",
         "pct": 26,
         "title": "Engine",
-        "blurb": "275 reports (26%) · 1 fire"
+        "blurb": "Owners report the vehicle completely shutting off while driving at highway speeds, with all dashboard lights going dark and the accelerator ceasing to respond, even while the transmission remains in drive. · 1 fire"
       },
       {
         "component": "STEERING",
@@ -85,7 +85,7 @@
         "sample": "RENTED CAR FROM ENTERPRISE CAR RENTAL  (734)451-2499.  CAR LOST POWER ON TWO OCCASIONS WHILE DRIVING.  FIRST TIME AROUND 9:00 AM GOING EAST ON 401 IN CANADA,  SECOND TIME AROUND 8:00 PM GOING WEST ON 402 IN CANADA.  LOST POWER STEERING, ENGINE POWER, POWER BRAKES AND HEADLIGHTS. ",
         "pct": 17,
         "title": "Steering",
-        "blurb": "177 reports (17%) · 3 crash · 1 injured"
+        "blurb": "Owners report the vehicle losing power on multiple occasions while driving, including during highway travel, with the loss occurring suddenly and repeating. · 3 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "VEHICLE LOST ALL POWER AND DID NOT ALLOW ACCESS TO VEHICLE BY OWNER.  EVENTUALLY, OWNER WAS ABLE TO GAIN ACCESS.  VEHICLE TOWED TO DEALERSHIP, WHERE VEHICLE DIAGNOSED WITH A \"DEAD\" BATTERY.  SEVEN DAYS LATER BLUE CHARGING RING CONTINUOUSLY BLINKED CREATING ISSUES WITH OTHER VEHIC",
         "pct": 15,
         "title": "Power Train",
-        "blurb": "155 reports (15%) · 5 crash · 1 injured"
+        "blurb": "Owners report the vehicle losing all power and becoming inaccessible, requiring a tow, with the dealership diagnosing a dead battery as the cause. · 5 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "RENTED CAR FROM ENTERPRISE CAR RENTAL  (734)451-2499.  CAR LOST POWER ON TWO OCCASIONS WHILE DRIVING.  FIRST TIME AROUND 9:00 AM GOING EAST ON 401 IN CANADA,  SECOND TIME AROUND 8:00 PM GOING WEST ON 402 IN CANADA.  LOST POWER STEERING, ENGINE POWER, POWER BRAKES AND HEADLIGHTS. ",
         "pct": 13,
         "title": "Service Brakes",
-        "blurb": "135 reports (13%) · 2 fire · 12 crash · 5 injured"
+        "blurb": "Owners report the vehicle losing power while in motion on highways, with some incidents associated with fires or crashes. · 2 fire · 12 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "120 reports (11%) · 2 fire · 4 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

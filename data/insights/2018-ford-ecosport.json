@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2018 Ford Ecosport owners report most",
-    "summary": "Across 718 owner complaints to NHTSA, the most reported area is Engine (49% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine-related stalling and unexpected shutoff dominate owner complaints for this vehicle, with many reports describing the engine cutting out during normal driving or at stops and failing to restart. A secondary cluster of reports involves strong exhaust odors noticed while the vehicle is stationary. Powertrain and fuel system issues, including no-start events and low oil pressure warnings accompanied by rattling noises, round out the most commonly reported problems.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I HAVE 2018 FORD ECOSPORT AND THE AUTO SHUTOFF/RESTART WAS NOT WORKING RIGHT. WHEN I STOPPED AT A LIGHT IT SHUT OFF AND DIDN'T START AGAIN IT HAD STALLED THIS HAPPENED ABOUT THREE TIMES. THEN AS I WAS DRIVING IT STALLED AGAIN AS I WAS DRIVING OFF THE HIGHWAY ON A RAMP AND I COULD",
         "pct": 49,
         "title": "Engine",
-        "blurb": "351 reports (49%) · 2 fire · 8 crash · 3 injured"
+        "blurb": "Owners report the engine stalling unexpectedly at stops or while driving, sometimes repeatedly, with the vehicle failing to restart after shutdown — in some cases linked to the auto stop-start system not functioning as intended. · 2 fire · 8 crash · 3 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -85,7 +85,7 @@
         "sample": "The contact owns a 2018 Ford Ecosport. The contact stated while the vehicle was stationary and cleaning the snow off the vehicle, he started smelling an abnormally strong exhaust odor. The contact called the local dealer and made them aware of the failure. The vehicle was not dia",
         "pct": 43,
         "title": "Engine And Engine Cooling",
-        "blurb": "310 reports (43%) · 2 crash · 2 injured"
+        "blurb": "Owners report noticing an abnormally strong exhaust odor while the vehicle is stationary, prompting contact with dealers. · 2 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I PURCHASE A NEW 2018 FORD ECOSPORT. ON 12/22/19 THE VEHICLE WOULD NOT START. THERE WAS AUXILIARY POWER INSIDE BUT NO RESPONSE FROM THE ENGINE EVEN AFTER RECEIVING A JUMP. AFTER APPROXIMATELY 30 MINUTES THE CAR STARTED. ON 12/23/19 I HAD A FORD DEALER CHECK THE VEHICLE. THEY CLAI",
         "pct": 9,
         "title": "Power Train",
-        "blurb": "64 reports (9%) · 3 crash · 3 injured"
+        "blurb": "Owners report the vehicle failing to start despite auxiliary power being present, with the engine eventually starting on its own after an extended wait. · 3 crash · 3 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "I was driving my vehicle and all of a sudden I got low engine fuel oil pressure message on my dashboard. The oil lamp and engine lamp sensors came on. This is the first time it happened. I also heard a rattling noise coming from the inside of the car. I had it checked by my mecha",
         "pct": 5,
         "title": "Fuel/Propulsion System",
-        "blurb": "39 reports (5%) · 2 crash · 1 injured"
+        "blurb": "Owners report a low engine oil pressure warning appearing on the dashboard while driving, accompanied by the oil and engine warning lamps illuminating and an audible rattling noise from the engine. · 2 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "34 reports (5%) · 2 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

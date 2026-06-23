@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Honda Accord: engine and auto-braking lead owner complaints",
-    "summary": "Owners filed 631 complaints with NHTSA. Two areas tie at the top: the engine (147 reports, 23%) and forward collision avoidance, the automatic-braking system (146 reports, 23%). The auto-braking complaints carry the most safety weight, tied to 8 crashes and 9 injuries. Fuel/propulsion (100 reports), electrical (90), and service brakes (86) round out the list. Two reports mention a fire, and brake-related problems show up across both forward collision avoidance and service brakes.",
+    "summary": "Engine and forward collision avoidance issues together account for the largest share of owner complaints, with engine problems including reported fires and crashes making them the most safety-prominent concern. Owners across multiple component areas describe vehicles stalling, losing power, or behaving unexpectedly while in motion on highways. Electrical system and fuel/propulsion faults also appear frequently, sometimes with crash involvement, pointing to a broad pattern of unexpected loss of vehicle control.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "ON 30 JUNE 2019, MY WIFE AND I WERE DRIVING BACK HOME TO VA FROM OK ON HIGHWAY 40 HEADING WEST NEAR SALLISAW OK.  ROAD WAS WET AND WAS CLIMBING A HILL.  I STEPPED ON ACCELERATOR TO PASS WHILE GOING ABOUT 65 MPH.  THE ENGINE STUMBLED AND SHUTTERED, THE CHECK ENGINE LIGHT CAME ON A",
         "pct": 23,
         "title": "Engine",
-        "blurb": "The most-reported area: 147 complaints (23%), including 1 fire, 3 crashes, and 3 injuries. Watch for stumbling or stalling, especially under acceleration."
+        "blurb": "Owners report the engine losing power or cutting out during highway driving, including incidents where the vehicle was accelerating to pass at speed on wet roads. · 1 fire · 3 crash · 3 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 HONDA ACCORD. THE CONTACT EMAILED HONDA OF COVINGTON (100 HOLIDAY SQUARE BLVD, COVINGTON, LA 70433, (985) 892-0001) BECAUSE THE TIRE PRESSURE MONITORING SYSTEM INDICATOR ILLUMINATED. ON SEPTEMBER 11, 2019, WHILE DRIVING 35 MPH, THE AUTO BRAKE SYSTEM SU",
         "pct": 23,
         "title": "Forward Collision Avoidance",
-        "blurb": "Nearly tied for the top with 146 complaints (23%), and the highest safety toll here: 8 crashes and 9 injuries. Owners report the automatic-braking system acting up while driving."
+        "blurb": "Owners report warning indicators illuminating unexpectedly, with some incidents involving the tire pressure monitoring system activating alongside other concerns. · 8 crash · 9 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "WE BOUGHT A BRAND NEW HONDA ACCORD 2019(LX) ON JUNE 29, 2019. NOT EVEN A MONTH LATER I.E. ON SATURDAY, JULY 27, 2019 AT 7:49 PM MY HONDA ACCORD STOPPED IN THE MIDDLE OF THE HIGHWAY DUE TO UNKNOWN REASON. BEHIND US WAS A TRUCK AND WE WERE AT 70 MPH HIGHWAY, WE WERE ABOUT TO BE HIT",
         "pct": 16,
         "title": "Fuel/Propulsion System",
-        "blurb": "100 complaints (16%), with 1 fire, 4 crashes, and 5 injuries. Some owners describe the car losing power or stalling unexpectedly, including on the highway."
+        "blurb": "Owners report the vehicle stopping without warning in the middle of highway travel, sometimes creating a rear-collision hazard from following traffic. · 1 fire · 4 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "WITH ONLY LESS THAN 800 MILES ON THE CAR, MY 2019 HONDA ACCORD VSA MODULATOR (WHICH WAS DIAGNOSED BY THE DEALERSHIP) FAILED. I FELT THE CAR BEGIN TO BOG ON THE HIGHWAY RIGHT BEFORE WE WERE ON THE EXIT. THEN, THE GAS PEDAL STOPPED WORKING PROPERLY AND THE CAR LOST SPEED. I WOULD P",
         "pct": 14,
         "title": "Electrical System",
-        "blurb": "90 complaints (14%), tied to 4 crashes and 6 injuries. Electrical faults can affect driving behavior, so take any warning lights seriously."
+        "blurb": "Owners report the vehicle beginning to bog and lose throttle response on the highway at very low mileage, with a VSA modulator identified by dealerships as the failed component. · 4 crash · 6 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "86 complaints (14%), with a notable 7 crashes and 7 injuries. A braking issue worth checking carefully during a test drive or inspection."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

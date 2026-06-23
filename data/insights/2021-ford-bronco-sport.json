@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2021 Ford Bronco Sport owners report most",
-    "summary": "Across 659 owner complaints to NHTSA, the most reported area is Electrical System (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system failures are the most commonly reported problem, with owners describing sudden instrument cluster shutdowns and inability to start the vehicle. Powertrain and engine complaints follow closely, centered on unexpected stalling and no-start conditions. Brake complaints round out the most-reported issues, with owners noting abnormal squealing noises that appear without warning.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "The dash cluster was dead and the start button LED just flashed on  and off.  The battery, checked with a VOM, showed normal voltage.  The vehicle would not start.  I unhooked one of the battery terminals and waited 10 minutes for the system to reset.  After reconnecting the batt",
         "pct": 31,
         "title": "Electrical System",
-        "blurb": "203 reports (31%) · 7 fire · 3 crash"
+        "blurb": "Owners report the instrument cluster going dead and the start button LED flashing repeatedly, leaving the vehicle unable to start despite normal battery voltage · 7 fire · 3 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2021 FORD BRONCO SPORT. THE CONTACT STATED WHILE DRIVING 25 MPH, THE VEHICLE STALLED. THERE WAS NO WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TOWED TO STEVEN'S JERSEY CITY FORD (740 NJ-440, JERSEY CITY, NJ 07305) BUT NOT YET DIAGNOSED OR REPAIRED. THE CONTA",
         "pct": 25,
         "title": "Power Train",
-        "blurb": "168 reports (25%) · 1 fire"
+        "blurb": "Owners report the vehicle stalling without warning while driving at low speeds, with no warning lights illuminated prior to the event · 1 fire"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "The contact owns a 2021 Ford Bronco Sport. The contact stated that the vehicle failed to start-up. The check engine warning light was illuminated. The local dealer was not contacted. The vehicle was not diagnosed or repaired. The manufacturer was not notified of the failure. The ",
         "pct": 21,
         "title": "Engine",
-        "blurb": "137 reports (21%) · 9 fire · 3 crash"
+        "blurb": "Owners report the vehicle failing to start, often accompanied by an illuminated check engine warning light · 9 fire · 3 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "The contact owns a 2021 Ford Bronco. The contact stated that an abnormal squealing noise would emit from the vehicle without warning. The contact had taken the vehicle to a dealer where they had kept the vehicle for over a week; she was later informed that the manufacturer was no",
         "pct": 19,
         "title": "Service Brakes",
-        "blurb": "126 reports (19%) · 1 fire · 5 crash · 5 injured"
+        "blurb": "Owners report an abnormal squealing noise coming from the brakes without warning, with dealer visits sometimes resulting in extended vehicle holds · 1 fire · 5 crash · 5 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "54 reports (8%) · 4 fire · 1 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

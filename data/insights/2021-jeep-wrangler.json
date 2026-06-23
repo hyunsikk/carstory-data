@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2021 Jeep Wrangler owners report most",
-    "summary": "Across 872 owner complaints to NHTSA, the most reported area is Electrical System (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical and steering problems dominate owner complaints for the Wrangler, with camera failures and wheel tracking issues appearing early in ownership. Engine and suspension concerns round out the pattern, with rough running and check engine lights reported on vehicles with very low mileage. A subset of reports across all four areas mention fires or crashes as associated incidents.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "MY 2021 JEEP WRANGLER UNLIMITED SAHARA'S BACK UP CAMERA FAILED WITHIN 3 WEEKS OF MY PURCHASE OF THE VEHICLE BRAND NEW. IT WAS IN THE SHOP FOR TWO WEEKS AS THEY COULDNT RECREATE THE PROBLEM AS THE BACK UP CAMERA WORKS INTERMITTENTLY. I PROVED PICTURES OF THE BLANK SCREEN WHILE THE",
         "pct": 33,
         "title": "Electrical System",
-        "blurb": "284 reports (33%) · 11 fire · 6 crash"
+        "blurb": "Owners report backup camera failures occurring within weeks of purchase, with the vehicle exhibiting intermittent behavior that dealers are unable to reproduce during diagnosis. · 11 fire · 6 crash"
       },
       {
         "component": "STEERING",
@@ -85,7 +85,7 @@
         "sample": "WANDERING STEERING ABOVE 30 MPH WON'T TRACK STRAIGHT, EXCESSIVE PLAY IN THE WHEEL.  ORDERED FROM DEALER WENT TO THE SHOP FOR STEERING ISSUES AT 52 MILES AND BACK AGAIN 2 WEEKS LATER, JUST PICKED IT UP FROM THE DEALER AND STEERING IS WORSE, I FEEL IT IS UNSAFE FOR MY 17 YEAR OLD D",
         "pct": 28,
         "title": "Steering",
-        "blurb": "240 reports (28%) · 1 fire"
+        "blurb": "Owners report the vehicle wandering and failing to track straight at highway speeds, along with excessive play felt in the steering wheel, with some returning to the dealer multiple times without resolution. · 1 fire"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "VEHICLE IS BRAND NEW AND THE CHECK ENGINE LIGHT CAME ON ONLY AFTER 300 MILES. DEALER DIAGOSED THE PROBLEM WITH O2 SENSOR FAILURE AND VALVE COVER DEFECT.   THE VEHICLE RAN VERY ROUGH AND FELT LIKE IT WAS ABOUT TO STALL.  SEARCH ON JLWRANGLERFORUMS SHOWS THERE ARE OTHERS EXPERIENCI",
         "pct": 24,
         "title": "Engine",
-        "blurb": "205 reports (24%) · 9 fire · 3 crash"
+        "blurb": "Owners report check engine lights activating at very low mileage, accompanied by rough running and a sensation that the vehicle is about to stall, with dealers diagnosing sensor failures and other defects. · 9 fire · 3 crash"
       },
       {
         "component": "SUSPENSION",
@@ -109,7 +109,7 @@
         "sample": "I PURCHASED THIS 2021 JEEP WRANGLER UNLIMITED ON SEPTEMBER 9, 2020. IT IS A TOTALLY STOCK VEHICLE WITH NO MODIFICATIONS OF ANY SORT. IT HAS NOT BEEN DRIVEN OFF ROAD AT ALL, AND ONLY ON CITY STREETS, HIGHWAYS, AND INTERSTATES, NO ACCIDENTS.       WHILE DRIVING ON A NEARBY INTERSTA",
         "pct": 20,
         "title": "Suspension",
-        "blurb": "175 reports (20%) · 1 crash"
+        "blurb": "Owners report suspension concerns on stock, unmodified vehicles driven exclusively on paved roads, with no off-road use preceding the complaints. · 1 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "133 reports (15%) · 5 fire · 4 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

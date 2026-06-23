@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2022 Chevrolet Silverado 1500: engine and transmission lead owner complaints",
-    "summary": "Across 549 owner complaints to NHTSA, engine problems are the most common at 210 reports (38%), followed by power train issues at 152 (28%) — owners describe transmission slipping and lost acceleration. Electrical system reports come next at 122 (22%). Safety incidents are rare: engine reports include 3 fires, and the electrical and brake categories each have 1 crash.",
+    "summary": "Engine issues are the most commonly reported problem, with owners describing unusual byproducts from the engine and, in some cases, fires. Powertrain and electrical system complaints are also widespread, covering transmission behavior and failures that leave the vehicle unable to shift into park after shutting off. Service brake complaints, though less frequent, include cases where braking and steering became unresponsive alongside multiple warning lights activating simultaneously.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I have two GM vehicles. 1) 2022 GMC Sierra Denali 4x4; 6.2 V8 and 2) 2022 Chevy Silverado High Country; 6.2 V8 as well. My Chevy is producing a mysterious black substance, whereas the Sierra does not. I am being told that this behavior is normal. I would expect the same behavior ",
         "pct": 38,
         "title": "Engine",
-        "blurb": "Most-reported area: 210 complaints (38%), including 3 fires and 1 injury."
+        "blurb": "Owners report the engine producing an unexplained black substance, and some complaints involve fire. · 3 fire · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "On the first drive everyday, the transmission keeps slipping between 1st and 2nd gear and you have no power trying to accelerate until you find a gear.  Took it to dealership and they couldn’t find anything wrong. They said Chevrolet has a bulletin on this issue already.  Not oka",
         "pct": 28,
         "title": "Power Train",
-        "blurb": "Second most-reported: 152 complaints (28%), with no crashes, fires, or injuries logged. Owners report the transmission slipping between gears and losing power on acceleration."
+        "blurb": "Owners describe the transmission slipping between first and second gear on initial drives, with loss of acceleration until the transmission finds a gear, and dealerships unable to reproduce or diagnose the fault."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "The contact owns a 2022 Chevrolet Silverado 1500. The contact stated that whenever the vehicle was turned off using the Push START feature, the vehicle would start rolling away. The vehicle failed to shift to park(P) once the vehicle was turned off. The contact had not taken the ",
         "pct": 22,
         "title": "Electrical System",
-        "blurb": "122 complaints (22%), including 1 crash, 1 fire, and 1 injury. Owners report the truck failing to shift into park and rolling away after shutoff."
+        "blurb": "Owners report that after shutting off the vehicle with the push-start feature, the vehicle fails to shift into park and begins rolling, with some complaints also involving fire or crashes. · 1 fire · 1 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "Was driving and all the lights came on check engine light, ABS, parking brake light and traction control all came on at once. The RMP went up and wouldn’t shift gears and We wasnt able to stop or even steer. The steering wheel got really hard. We turned the truck off and turned i",
         "pct": 10,
         "title": "Service Brakes",
-        "blurb": "54 complaints (10%), including 1 crash. Owners report multiple warning lights triggering at once alongside trouble stopping and steering."
+        "blurb": "Owners describe multiple warning lights activating simultaneously — including the check engine, ABS, parking brake, and traction control lights — accompanied by loss of braking ability and loss of steering control. · 1 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "33 complaints (6%), with no crashes, fires, or injuries logged. Owners report check-engine warnings, poor fuel economy, and fuel-related smells."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

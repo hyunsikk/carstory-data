@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Kia Sorento owners report most",
-    "summary": "Across 784 owner complaints to NHTSA, the most reported area is Engine (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine problems dominate owner complaints, with reports of sudden, complete power loss while driving at speed — in some cases linked to fires or crashes. Exterior lighting failures and electrical system malfunctions involving multiple simultaneous warning lights also appear frequently. Steering complaints describe a drifting sensation combined with sluggish, sticky response when correcting course.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "15-DEC-2016: TRAVELING APPROX. 50 MPH DURING HEAVY TRAFFIC IN MARIETTA, GA, THE VEHICLE HAD A COMPLETE LOSS OF POWER THEREFORE PREVENTING THE OPERATOR OF SAID MOTOR VEHICLE TO HAVE COMPLETE LOSS OF CONTROL OF THE VEHICLE, (MYSELF) THUS, ILLUSTRATING A SERIOUS SAFETY DEFECT. THIS ",
         "pct": 48,
         "title": "Engine",
-        "blurb": "376 reports (48%) · 17 fire · 2 crash · 3 injured"
+        "blurb": "Owners report sudden, complete loss of engine power while traveling at highway or city speeds, leaving the driver without control of the vehicle. · 17 fire · 2 crash · 3 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -85,7 +85,7 @@
         "sample": "THE HEADLIGHTS HAVE GONE OUT ON TWO SEPARATE OCCASIONS, WHILE OPERATING THE VEHICLE AT NIGHT WITH THE  HEADLIGHT CONTROL IN THE AUTO MODE. THE HEADLIGHTS COMPLETELY SHUTDOWN FOR APPROXIMATELY 2 TO 3 SECONDS DURING THIS ISSUE AND AUTOMATICALLY CAME BACK ON.  BOTH TIMES THIS OCCURR",
         "pct": 16,
         "title": "Exterior Lighting",
-        "blurb": "124 reports (16%) · 1 crash"
+        "blurb": "Headlights operating in automatic mode have been reported to shut off entirely for several seconds while the vehicle is in motion at night, then resume without driver input. · 1 crash"
       },
       {
         "component": "STEERING",
@@ -97,7 +97,7 @@
         "sample": "WHILE DRIVING THE CAR ON ANY ROAD (CITY OR HIGHWAY) IT WANTS TO DRIFT TO THE SIDE AND WHEN YOU GO TO CORRECT THE STEERING IT FEELS STICKY, FOR LACK OF BETTER WORDS, AND THERE IS A DELAY IN THE RESPONSE. SO I END UP OVER CORRECTING, AND I'M ALL OVER THE ROAD. THIS CAR IS SO UNSAFE",
         "pct": 12,
         "title": "Steering",
-        "blurb": "94 reports (12%)"
+        "blurb": "Owners describe the vehicle drifting to one side during normal driving, with the steering feeling sticky and slow to respond when the driver attempts to correct course."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "THIS PROBLEM IS IDENTICAL TO NHTSA ID NUMBER 10917569. ON THREE DIFFERENT OCCASIONS THE SMART CRUISE CONTROL/ABS/STABILITY CONTROL WARNING: BASICALLY ALL WARNING LIGHTS LIT ON THE DASHBOARD. CAR HAD LESS THAN 500 MILES, DOING 65MPH ON A CLEAR DAY.  STOPPED AND RESTARTED CAR, ALL ",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "92 reports (12%) · 4 fire"
+        "blurb": "Multiple warning lights — including those for cruise control, ABS, and stability control — have been reported illuminating simultaneously at very low mileage, on more than one occasion in the same vehicle. · 4 fire"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "37 reports (5%) · 2 fire · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

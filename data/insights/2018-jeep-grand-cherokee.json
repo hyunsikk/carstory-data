@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Jeep Grand Cherokee: the electrical system dominates owner complaints",
-    "summary": "Owners filed 836 complaints with NHTSA. The electrical system is by far the most reported area at 40%, followed by the engine (14%), power train (8%), and service brakes (8%). No deaths are reported. The brakes draw fewer complaints than the top areas but the most crashes (11) and injuries (5) of any area, so they are worth a close look on a test drive.",
+    "summary": "Electrical system faults make up the largest share of owner complaints, with the infotainment system repeatedly cycling off and on during driving. Engine and powertrain complaints include vehicles catching fire while parked and unexpected forward movement, while brake reports describe partial engagement that failed to stop the vehicle at intersections.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "UNCONNECT SYSTEM IN MY 2018 JEEP GRAND CHEROKEE OVERLAND TURNS OFF AND ON BY ITSELF EVER 60 SECONDS WHETHER YOU ARE DRIVING OR STATIONARY. I BELIEVE IT STARTED THIS MORNING OR LAST NIGHT. YOU CANNOT USE BLUETOOTH, THE HEAT OR THE RADIO. I CALLED THE DEALERSHIP WHERE I PURCHASED T",
         "pct": 40,
         "title": "Electrical System",
-        "blurb": "The single biggest complaint by far: 336 reports (40%), including 6 with fire, 5 crashes, and 3 injuries. The fire count makes this worth checking carefully."
+        "blurb": "Owners report the UConnect infotainment system repeatedly switching off and on by itself at short intervals, both while driving and while stationary, which disables Bluetooth and other connected features. · 6 fire · 5 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "I DROVE THIS VEHICLE TO WORK AND PARKED IT IN A PARKING STRUCTURE AT 8:00 IN THE MORNING.  BY 4:00 IN THE AFTERNOON, THE VEHICLE WAS ENGULFED IN FLAMES.  THE VEHICLE SAT ALL DAY IN THE STRUCTURE.  UNKNOWN AS TO WHY IT CAUGHT FIRE, BUT THE FIRE ORIGINATED SOMEWHERE IN THE ENGINE C",
         "pct": 14,
         "title": "Engine",
-        "blurb": "Second most reported: 119 reports (14%), tied to 3 fires and 6 crashes, with no injuries reported. Watch for any sign of overheating or fire."
+        "blurb": "Owners report vehicles that were parked and unattended catching fire, with the cause of ignition not apparent to the owner at the time of the event. · 3 fire · 6 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I HAVE A FEW OCCURRENCES TO TELL ABOUT.     1. WHEN TAKING IT THROUGH A DRIVE THROUGH CAR WASH IT WAS PROPELLED FORWARD AT AN UNSAFE SPEED.  THE VEHICLE WAS IN NEUTRAL BUT STILL WAS SHOT FORWARD AND THE BRAKES HAD TO BE APPLIED QUICKLY. THIS HAPPENED TWICE.   2. AFTER COMING OFF ",
         "pct": 8,
         "title": "Power Train",
-        "blurb": "70 reports (8%), linked to 7 crashes, 2 injuries, and 1 fire. Pay attention to how the vehicle behaves when shifting or accelerating."
+        "blurb": "Owners report the vehicle lurching forward unexpectedly at unsafe speed while in neutral, requiring forceful brake application to prevent a collision. · 1 fire · 7 crash · 2 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "DRIVING THE AUTO AND APPLIED THE BRAKES AT A RED LIGHT AND THE BRAKES ONLY PARTIALLY ENGAGED AND THE AUTO WENT THROUGH THE RED LIGHT. DROVE UP TO THE NEXT LIGHT AS THE CAR WAS JUST ABOUT TO STOP IT ACCELERATED FORWARD INTO THE TRUCK IN FRONT OF ME. THERE IS A SAFETY FEATURE CALLE",
         "pct": 8,
         "title": "Service Brakes",
-        "blurb": "Only 63 reports (8%) but the most serious by outcome: 11 crashes and 5 injuries, more than any other area. Test the brakes thoroughly."
+        "blurb": "Owners report brakes only partially engaging when applied, leaving the vehicle unable to stop fully at red lights and in some cases the vehicle then accelerating forward on its own. · 11 crash · 5 injured"
       },
       {
         "component": "SEATS",
@@ -123,6 +123,7 @@
         "title": "Seats",
         "blurb": "42 reports (5%), with 1 fire and 2 injuries and no crashes. The smallest of the top complaint areas."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

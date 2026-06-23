@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 GMC Sierra 1500: engine and transmission lead the complaints",
-    "summary": "Owners filed 595 complaints with NHTSA. The engine is by far the biggest concern at 45% of all reports, followed by the transmission/power train (21%) and the brakes (19%). The brake reports are the most safety-heavy, tied to 5 crashes and 3 injuries, and a handful of engine and electrical reports mention fires. Test-drive thoroughly and check service history before buying.",
+    "summary": "Engine problems make up the largest share of owner complaints, with reports of sudden oil pressure loss and oil leaking while driving. Powertrain and brake complaints are also widely reported, alongside a notable thread of electrical issues. Across all four areas, some incidents involved fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "WHILE DRIVING DOWN ROAD, SUDDEN MESSAGE OF \"NO OIL PRESSURE, TURN OFF ENGINE IMMEDIATELY\".  WAS ABLE TO PULL OVER WITH NO POWER (LUCKILY IT WAS SAFE TO DO SO AT THE TIME).  LEFT A LARGE PUDDLE OF OIL UNDERNEATH THE FRONT OF THE VEHICLE.  ALSO, LEFT LARGE CLOUD OF SMOKE FROM OIL S",
         "pct": 45,
         "title": "Engine",
-        "blurb": "The single biggest issue: 268 reports (45% of all complaints). Linked to 3 fires, 2 crashes, and 1 injury. Watch for oil leaks, smoke, and sudden loss of power."
+        "blurb": "Owners report sudden dashboard warnings of lost oil pressure while driving, loss of engine power, and oil pooling beneath the vehicle after pulling over. · 3 fire · 2 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "RECENTLY PURCHASED A 2019 GMC SIERRA AND IT SHIFTS HARD AT LOWER SPEEDS OR WHEN MOVING FROM A STOPPED POSITION AND THEN ACCELERATING, OR WHEN DECELERATING. WHILE PARKING THE CAR AT ONE POINT THE SHIFT WAS SO HARD THAT IT FELT LIKE A HIT, AND THEN THE KIDS CONFUSEDLY ASKING \"WHAT ",
         "pct": 21,
         "title": "Power Train",
-        "blurb": "124 reports (21%), with 1 fire and 1 injury. Owners describe hard, jarring shifts at low speeds. Pay close attention to how it shifts on a test drive."
+        "blurb": "Owners describe harsh, jarring shifts at low speeds, when moving from a stop, and during deceleration, with at least one account of an especially violent shift while parking. · 1 fire · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -97,7 +97,7 @@
         "sample": "HAVE ABOUT  6000  MILES ON MY 2019 GMC SEIRRA DENALI 5.3  . I'VE  BEEN EXPERIENCING   A VERY TROUBLING ISSUE BEEN TO THE DEALERSHIP ONCE ALREADY AND HAD A HARD TIME CONVINCING THEM THAT SOMETHING WAS WRONG WITH THE TRUCK .EVERY TIME I DRIVE FOR LONG PERIODS OF TIME OR IDLE FOR 10",
         "pct": 19,
         "title": "Service Brakes",
-        "blurb": "115 reports (19%) and the most safety-critical area: 5 crashes and 3 injuries. Make sure the brakes feel firm and predictable before you buy."
+        "blurb": "Owners report a troubling brake issue that persisted even after a dealership visit where service personnel had difficulty acknowledging the problem. · 5 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "HAVE ABOUT  6000  MILES ON MY 2019 GMC SEIRRA DENALI 5.3  . I'VE  BEEN EXPERIENCING   A VERY TROUBLING ISSUE BEEN TO THE DEALERSHIP ONCE ALREADY AND HAD A HARD TIME CONVINCING THEM THAT SOMETHING WAS WRONG WITH THE TRUCK .EVERY TIME I DRIVE FOR LONG PERIODS OF TIME OR IDLE FOR 10",
         "pct": 16,
         "title": "Electrical System",
-        "blurb": "93 reports (16%), including 3 fires. Check that warning lights, displays, and electronics all work as expected."
+        "blurb": "Owners report an unspecified but troubling electrical issue that dealerships were initially reluctant to recognize as a real fault. · 3 fire"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "42 reports (7%), tied to 3 crashes. Less common, but worth a careful steering check on the test drive."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

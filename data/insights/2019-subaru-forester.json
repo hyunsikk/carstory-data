@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Subaru Forester: cracked windshields lead the complaints, with electrical and engine issues close behind",
-    "summary": "Of 831 owner complaints filed with NHTSA, nearly half (45%) are about Visibility/Wiper, mostly windshield cracking. The next two areas are more serious: Electrical System (16%) and Engine (13%) each had 7 fires and 7 crashes reported. Smaller groups cite Forward Collision Avoidance braking and Power Train surging. Watch the windshield for cracks, and don't ignore any electrical or engine warning signs.",
+    "summary": "The dominant complaint pattern centers on windshield cracking that owners report discovering spontaneously, without apparent impact. Beyond the glass, owners also describe sudden, complete electrical shutoffs mid-turn and an engine hesitation-and-lurch behavior under light throttle input. A smaller share of reports involves the forward collision avoidance system failing to brake and instead accelerating into obstacles.",
     "issues": [
       {
         "component": "VISIBILITY/WIPER",
@@ -73,7 +73,7 @@
         "sample": "I AM HERE TO REPORT MY 2019 SUBARU FORRESTER WINDSHIELD CRACK. I THE CAR IS ONLY 1 MONTH OLD AND WE FOUND THE CRACK IN THE MORNING WHILE SITTING IN THE DRIVEWAY I HEARD THE SAME PROBLEM HAPPENS ON 2015 OUTBACK  I CALLED THE SHOP AND THEY TOOK PICTURES  AND THEY DID NOT FIND ANY C",
         "pct": 45,
         "title": "Visibility/Wiper",
-        "blurb": "The single biggest complaint: 370 reports (45%), commonly windshields cracking on their own. No crashes, fires, or injuries reported here. Inspect the glass regularly for early cracks."
+        "blurb": "Owners report windshields cracking on their own while the vehicle is parked or in normal use, with no apparent impact event."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 SUBARU FORESTER. WHILE TURNING THE VEHICLE, THE ENTIRE ELECTRICAL SYSTEM SHUT OFF, INCLUDING THE POWER STEERING AND EMERGENCY BRAKING SYSTEM. THE CONTACT WAS ALMOST INVOLVED IN A CRASH DUE TO THE FAILURE. THE CONTACT PULLED OVER, SHUT OFF THE ENGINE, A",
         "pct": 16,
         "title": "Electrical System",
-        "blurb": "Second most reported: 134 reports (16%), and the more serious end. Tied to 7 fires, 7 crashes, and 1 injury. Take any electrical glitch or sudden power loss seriously."
+        "blurb": "Owners report the entire electrical system shutting off without warning while turning, taking out power steering and emergency braking simultaneously. · 7 fire · 7 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "WHILE DRIVING AROUND 30MPH THE CAR WILL SOMETIMES HESITATE AND THEN LURCH IF THE GAS PEDAL IS VERY LIGHTLY PRESSED. SOMETIMES IT WILL DO IT AT HIGHER SPEEDS AS WELL, AROUND 50MPH BUT NOT TYPICALLY AT FREEWAY SPEED. HAPPENS ON MOUNTAIN ROADS AND CITY STREETS. MOST NOTICEABLE WHEN ",
         "pct": 13,
         "title": "Engine",
-        "blurb": "106 reports (13%), including hesitation and lurching while driving. Also linked to 7 fires and 7 crashes, so don't dismiss rough running."
+        "blurb": "Owners report the engine hesitating and then lurching forward when the gas pedal is pressed lightly at low to moderate speeds. · 7 fire · 7 crash"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -109,7 +109,7 @@
         "sample": "DRIVING DOWN A SIDE STREET I PULLED INTO A PARKING SPACE BEHIND ANOTHER VEHICLE I HIT THE BRAKES AND INSTEAD LURCHED INTO THE CAR IN FRONT OF ME. I PUSHED THE VEHICLE IN FRONT OF ME ABOUT 8 FEET AND FINALLY CAME TO A STOP. DURING THIS TIME I REPEATEDLY PRESSED THE BRAKE PEDAL AND",
         "pct": 5,
         "title": "Forward Collision Avoidance",
-        "blurb": "42 reports (5%) about the driver-assist braking, with 2 crashes reported. No fires or injuries noted."
+        "blurb": "Owners report the system failing to brake as expected and instead allowing the vehicle to lurch forward into another vehicle. · 2 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "38 reports (5%) of surging or jerking at speed. Linked to 5 crashes and 1 injury, so have drivetrain symptoms checked early."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

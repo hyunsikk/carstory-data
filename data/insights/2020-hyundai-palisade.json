@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2020 Hyundai Palisade: engine and windshield top the owner complaints",
-    "summary": "Owners filed 506 complaints with NHTSA. The engine and the windshield/wiper area are nearly tied as the most reported, at 23% each, followed by the suspension (12%). No deaths are reported. The engine reports include 5 tied to a fire, the most of any area, so that area is worth a careful look.",
+    "summary": "Engine oil leaks and windshield cracking are the most frequently reported problems on this vehicle, each accounting for a roughly equal share of owner complaints. Suspension vibration at highway speeds and seat belt buckle accessibility round out the most-reported issues. Across all categories, owners describe symptoms appearing early in ownership, sometimes with dealers declining to honor related service bulletins.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I BOUGHT THE CAR IN JAN 2020, AND FOUND THAT IT WAS LEAKING OIL ON JUNE 2020, AFTER 4500 MILES. THE OIL LEAK LOOKS TO BE SIGNIFICANT AS I HAD FOUND DROPS AND PUDDLES ON MY GARAGE FLOOR.     THE OIL LEAK SEEMS TO BE COMING FROM THE TRANSMISSION/ENGINE CONNECTION AREA, OR POSSIBLY ",
         "pct": 23,
         "title": "Engine",
-        "blurb": "The most reported area: 115 reports (23%), including 5 tied to a fire and 1 crash. The fire count makes this worth checking carefully."
+        "blurb": "Owners report oil leaking from the engine, in some cases producing visible drops and puddles on garage floors, with leaks noticed within the first several months of ownership. · 5 fire · 1 crash"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "LESS THAN 2 MONTHS INTO A BRAND NEW VEHICLE, THE WINDSHIELD CRACKED DURING A RAINSTORM ON THE HIGHWAY ALONG THE LINE OF THE WIPERS. NOTHING HIT THE WINDSHIELD OTHER THAN RAIN.  THE DEALER IS MAKING US PAY OUT OF POCKET FOR RECALIBRATION AND TINTING, DESPITE THE FACT WE HAVE INSUR",
         "pct": 23,
         "title": "Visibility/Wiper",
-        "blurb": "Nearly tied for first: 114 reports (23%), with no crashes, fires, or injuries reported. Inspect the windshield and wipers when looking at one."
+        "blurb": "Owners report windshields cracking spontaneously along the wiper line during rain, without any impact, shortly after purchase."
       },
       {
         "component": "SUSPENSION",
@@ -97,7 +97,7 @@
         "sample": "VIBRATION AT SPEEDS OF 64/65MPH AND UP.  NOT SURE IF DRIVESHAFT OR TRANSMISSION. HYUNDAI HAS ISSUED A TSB BUT WILL NOT HONOR IT. I HAVE ASKED 2X FOR DEALER SERVICE DEPT. TO EVALUATE THIS PROBLEM. THEY SAID THEY DO NOT HAVE TO HONOR THIS TSB.  I HAVE SEEN ON FORUMS OTHERS ARE HAVI",
         "pct": 12,
         "title": "Suspension",
-        "blurb": "60 reports (12%), with no crashes, fires, or injuries reported. Watch for vibration at highway speeds on a test drive."
+        "blurb": "Owners report a persistent vibration that begins at specific highway speeds, with dealers in some cases declining to evaluate or honor the manufacturer service bulletin addressing it."
       },
       {
         "component": "SEAT BELTS",
@@ -109,7 +109,7 @@
         "sample": "THE SEATBELT BUCKLES FOR THE CAPTAINS CHAIRS ARE RECESSED INTO THE BODY OF THE SEAT. THIS MAKES IT EXTREMELY DIFFICULT FOR BOTH ADULTS AND CHILDREN TO BUCKLE UP. THE BUCKLES ARE ALMOST IMPOSSIBLE TO USE WITH BOOSTER CHAIRS WHITEOUT SOME AFTER MARKET MODIFICATION (NOT SAFE).*DT Co",
         "pct": 9,
         "title": "Seat Belts",
-        "blurb": "47 reports (9%), with no crashes, fires, or injuries reported. Try buckling each seat, including the captain's chairs, when you check one."
+        "blurb": "Owners report that the seat belt buckles on the captain's chairs are recessed deeply into the seat body, making them difficult or nearly impossible to use, particularly with booster seats and for children."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "The fewest of the top five: 41 reports (8%), but tied to 4 injuries and 1 crash. Check that the electronics and driver-assist features work as expected."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

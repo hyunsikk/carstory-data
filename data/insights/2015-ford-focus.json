@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Ford Focus owners report most",
-    "summary": "Across 1,013 owner complaints to NHTSA, the most reported area is Power Train (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern in owner complaints is sudden, unexpected loss of drive power, most often reported during low-speed maneuvers such as pulling away from a stop. A dashboard warning indicator — described as a wrench icon with a service message — commonly accompanies these power-loss events, and owners note that the situation creates a safety exposure when traffic is present. Steering and fuel/propulsion complaints round out the picture, with some incidents involving crashes or fires.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "WHILE PULLING OUT FROM STOP SIGN ON TWO OCCASIONS THE VEHICLE LOST DRIVE POWER. A WRENCH APPEARED ON THE DASHBOARD THAT SAID SERVICE. HAD I HAD TO GET OUT OF THE WAY OF AN APPROACHING VEHICLE I WOULD NOT HAVE BEEN AND THIS ISSUE COULD HAVE RESULTED IN A CRASH RESULTING IN INJURY ",
         "pct": 55,
         "title": "Power Train",
-        "blurb": "555 reports (55%) · 11 crash · 6 injured"
+        "blurb": "Owners report the vehicle suddenly losing drive power while pulling away from a stop, accompanied by a wrench warning on the dashboard indicating a service condition. · 11 crash · 6 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "WHILE PULLING OUT FROM STOP SIGN ON TWO OCCASIONS THE VEHICLE LOST DRIVE POWER. A WRENCH APPEARED ON THE DASHBOARD THAT SAID SERVICE. HAD I HAD TO GET OUT OF THE WAY OF AN APPROACHING VEHICLE I WOULD NOT HAVE BEEN AND THIS ISSUE COULD HAVE RESULTED IN A CRASH RESULTING IN INJURY ",
         "pct": 17,
         "title": "Engine",
-        "blurb": "171 reports (17%) · 2 fire · 2 crash · 4 injured"
+        "blurb": "Owners report sudden loss of drive power during low-speed departure from a stop, with a dashboard wrench and service alert appearing at the time of the event. · 2 fire · 2 crash · 4 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "I RENTED A VEHICLE FROM ENTERPRISE RENT-A-CAR. I DID NOT RECEIVE THE VEHICLE I RESERVED AND PAID FOR. THREE OUT OF THE FOUR VEHICLES SET ASIDE FOR UBER DRIVERS WERE BADLY STAINED ON THE INSIDE AND NOT WASHED ON THE OUTSIDE. THE ONLY VEHICLE OPTION LEFT FOR ME TO DRIVE FOR UBER WA",
         "pct": 14,
         "title": "Fuel/Propulsion System",
-        "blurb": "138 reports (14%) · 1 fire"
+        "blurb": "Owners report concerns about the vehicle's condition and readiness, with some complaints arising in rental or shared-use contexts where the vehicle's state was not as expected. · 1 fire"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "MY INITIAL COMPLAINT WAS POSTED ON 06/19/2015, THE DAY OF MY TERRIFYING EXPERIENCE. MISTAKENLY, I FILED THE COMPLAINT UNDER THE REGULAR FOCUS MODEL AND NOT THE ELECTRIC. LAST FRIDAY, I JUST CHARGED MY CAR TO 100% AT WORK. LATER, I WAS DRIVING HOME AT 40 MPH WITH NO PROBLEMS UNTIL",
         "pct": 9,
         "title": "Steering",
-        "blurb": "96 reports (9%) · 2 crash"
+        "blurb": "Owners report alarming steering experiences, with at least one account describing a frightening event that prompted an initial complaint filing, noted in connection with an electric variant. · 2 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "66 reports (7%) · 1 fire · 2 crash · 7 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

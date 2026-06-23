@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Honda Pilot: electrical and engine gripes lead the pack",
-    "summary": "Owners filed 847 complaints with NHTSA. Electrical problems top the list at 29% of reports, with engine issues close behind at 25%. The remaining concerns split across the fuel/propulsion system, forward collision avoidance, and the powertrain. Most reports are about malfunctions, not accidents, but a handful note crashes, two mention fires, and several report injuries, so the details below are worth a look.",
+    "summary": "Electrical system faults are the most-reported concern, with owners describing sudden screen blackouts and audio disruptions while driving. Engine and fuel-system complaints follow closely, centered on unexpected vibration, multiple simultaneous warning lights, and the engine revving high without driver input. A notable share of owners also report the forward collision avoidance system triggering false brake warnings at various speeds.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "WHILE DRIVING, BOTH HIGHWAY AND AROUND TOWN, LOUD CRACKLING WOULD OCCUR THROUGH THE SPEAKERS.  THEN BOTH THE NAVIGATION SCREEN AND/OR THE SPEEDOMETER SCREEN WOULD GO COMPLETELY BLACK.  THE MESSAGE \"NETWORK CONNECTION LOST\" WOULD SOMETIMES APPEAR.   ALL BLUETOOTH CONNECTIVITY AND ",
         "pct": 29,
         "title": "Electrical System",
-        "blurb": "The single most common complaint: 249 reports (29%). Owners describe display screens and electronics cutting out. This area is tied to 1 fire, 1 crash, and 3 injuries."
+        "blurb": "Owners report loud crackling from the speakers followed by the navigation screen and speedometer screen going completely black, accompanied by a network connection loss message. · 1 fire · 1 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 HONDA PILOT. WHILE DRIVING 25 MPH, THE VEHICLE VIBRATED AND THE CHECK ENGINE, HILL START ASSIST, TRAILER STABILITY ASSIST, POWER STEERING, LANE DEPARTURE LITIGATION, BLIND SPOT, TRANSMISSION, AND EMISSION WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS",
         "pct": 25,
         "title": "Engine",
-        "blurb": "The second-biggest concern: 213 reports (25%), often vibration with multiple warning lights coming on at once. Linked to 2 fires and 1 injury, but no reported crashes."
+        "blurb": "Owners report sudden vibration while driving, with the check engine light and multiple simultaneous warning lights — including hill start assist, power steering, transmission, and others — activating at the same time. · 2 fire · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "ENGINE IS REVVING ON ITS OWN @ 3000 RPM WITH NO FOOT ON THE GAS PEDAL OR DRIVING 15 MPH AND THE ENGINE IS @ 4500 RPM WITH NO FOOT ON THE GAS PEDAL. MY WIFE WAS IN THE PICKUP LANE AT MY CHILDREN'S SCHOOL AND SHE TOLD ME THAT SHE HAD TO HOLD THE BRAKE DOWN & TURN OFF THE IGNITION B",
         "pct": 12,
         "title": "Fuel/Propulsion System",
-        "blurb": "105 reports (12%), including the engine revving on its own without the gas pedal pressed. Tied to 1 crash and 1 injury, so treat unexpected acceleration seriously."
+        "blurb": "Owners report the engine revving high on its own with no foot on the accelerator, occurring both at low speeds and while the vehicle is stationary in situations such as a school pickup lane. · 1 crash · 1 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 HONDA PILOT. WHILE DRIVING VARIOUS SPEEDS, THE FRONT DRIVER SIDE BRAKE SENSOR ACTIVATED AND SOUNDED A WARNING BEEPING. ERRONEOUSLY, WHICH SIGNALED THE CONTACT TO BRAKE. IN ADDITION, THE BRAKE SENOR WARNING INDICATOR ILLUMINATED. THE FAILURE OCCURRED IN",
         "pct": 12,
         "title": "Forward Collision Avoidance",
-        "blurb": "103 reports (12%) of false or erroneous collision and braking warnings. This category has the most crashes of any here (3) plus 2 injuries, so it is worth watching closely."
+        "blurb": "Owners report the front brake sensor activating and sounding a warning beep erroneously at various speeds, prompting unintended braking. · 3 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "88 reports (10%), with owners describing the transmission slipping while driving. The highest injury count of any category here (4 injuries) plus 2 crashes."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

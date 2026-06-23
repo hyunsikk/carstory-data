@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2018 Honda Accord owners report most",
-    "summary": "Across 1,761 owner complaints to NHTSA, the most reported area is Engine (27% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine problems are the most commonly reported issue, with owners describing dashboard warning lights, module failures, and excessive road noise. Forward collision avoidance complaints center on the brake assist and lane assist systems engaging unexpectedly while driving. Electrical faults and fuel system issues round out the picture, with some complaints in each area associated with fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "THIS CAR HAS STARTED TO SHOW SIGNS OF BAD BUILD QUALITY. 1ST 2 DAYS AFTER BUYING THE CAR ALL THE LIGHTS ON THE DASH CAME ON SO I HAD TO TAKE IT IN FOR A MODULE REPLACEMENT. 2ND THE CAR IS VERY LOUD ( THE ROAD NOISE AND ENGINE NOISE) WORSE NOISE I'VE EVER HEARD FROM A NEW CAR AND ",
         "pct": 27,
         "title": "Engine",
-        "blurb": "480 reports (27%) · 3 fire · 6 crash · 1 injured"
+        "blurb": "Owners report dashboard warning lights illuminating within days of purchase, module replacements, and pronounced road and engine noise. · 3 fire · 6 crash · 1 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 HONDA ACCORD. WHILE DRIVING VARIOUS SPEEDS, THE ROAD TERRAIN CHANGED AND THE BRAKE ASSIST ENGAGED, WHICH CAUSED THE VEHICLE TO STOP ABRUPTLY. IN ADDITION, THE LANE  ASSIST FEATURE WAS PULLING THE VEHICLE. THE BRAKE ASSIST AND LANE ASSIST WARNING INDICA",
         "pct": 18,
         "title": "Forward Collision Avoidance",
-        "blurb": "324 reports (18%) · 6 crash · 11 injured"
+        "blurb": "Owners report the brake assist engaging abruptly and without clear cause when road terrain changes, and the lane assist system pulling the vehicle unexpectedly. · 6 crash · 11 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "PROBLEM WITH FUEL FILLER LID ACTUATOR ASSEMBLY FREEZES CAUSES INABILITY TO PUSH IN AND OPEN THE FUEL DOOR.  DEALER CONTENDS THIS IS A KNOWN ISSUE BUT NO ETA ON REPAIR.  I HAVE BEEN UNABLE TO LOCATE OTHER COMPLAINTS SIMILAR TO THIS ONLINE AND HONDA HAS NOT RESPONDED DIRECTLY TO A ",
         "pct": 16,
         "title": "Fuel/Propulsion System",
-        "blurb": "285 reports (16%) · 4 crash · 1 injured"
+        "blurb": "Owners report the fuel filler door freezing and becoming impossible to open, with dealers acknowledging the issue but offering no repair timeline. · 4 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 HONDA ACCORD. WHILE DRIVING APPROXIMATELY 15 MPH, ALL THE WARNING INDICATORS ILLUMINATED ON THE DASHBOARD. THE VEHICLE WAS TAKEN TO PRIORITY HONDA (621 N BATTLEFIELD BLVD, CHESAPEAKE, VA 23320) WHERE IT WAS DIAGNOSED THAT THE SPARK PLUGS, CYLINDERS, CO",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "267 reports (15%) · 2 fire · 11 crash · 6 injured"
+        "blurb": "Owners report all dashboard warning indicators illuminating simultaneously while the vehicle is in motion. · 2 fire · 11 crash · 6 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "251 reports (14%) · 6 crash · 12 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

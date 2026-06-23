@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "The 2020 Silverado 1500's most-reported trouble spots: engine and drivetrain",
-    "summary": "Owners filed 678 complaints with NHTSA. Engine problems lead at 224 reports (33%), with power train close behind at 211 (31%). Brakes, the electrical system, and steering round out the list. The electrical-system complaints are the most severe, tied to 8 fires, 2 crashes, and 4 injuries.",
+    "summary": "Engine and powertrain complaints dominate owner reports for this truck, with the most common accounts describing sudden loss of power accompanied by multiple warning lights illuminating while driving. Powertrain complaints frequently involve the vehicle rolling uncontrollably after being placed in park, while braking failures — sometimes alongside electrical warning cascades — round out the major concern areas. Several reports across engine, powertrain, and electrical categories mention fire incidents.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I WAS DRIVING DOWN THE ROAD, GAVE IT GAS TO GO AROUND A VEHICLE AND IT FELT LIKE THE VEHICLE SHUT DOWN.  ESC CAUTION, CHECK ENGINE LIGHT, AND BRAKE WARNING/CAUTION ALL ILLUMINATED.  VEHICLE BEGAN TO SLOW DOWN DRASTICALLY AND IF I HADN'T GOTTEN OFF THE ROAD QUICKLY I WOULD HAVE BE",
         "pct": 33,
         "title": "Engine",
-        "blurb": "The single most common complaint: 224 reports (33% of all complaints), including 2 that involved a fire."
+        "blurb": "Owners report the vehicle suddenly losing power and slowing drastically while driving, accompanied by simultaneous illumination of the ESC caution, check engine, and brake warning lights. · 2 fire"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "PUT TRUCK INTO PARK AND SHUT OFF, STARTED TO GET OUT BUT TRUCK WAS STARTING TO ROLL, TRIED TO STOP IT, PUSHED ON BRAKES, NO EFFECT, KEPT ROLLING AND GAINED MOMENTUM TILL IT HIT OUR CABIN AND STOPPED. LENGTH WAS 200FT APPX OF ROLL. MESSAGE CENTER SAID \" PRESS BRAKE TO START \" WHIC",
         "pct": 31,
         "title": "Power Train",
-        "blurb": "Nearly as common as engine issues: 211 reports (31%), including 2 that involved a fire."
+        "blurb": "Owners report the vehicle rolling uncontrollably after being shifted into park and shut off, with the brakes providing no response to stop the movement. · 2 fire"
       },
       {
         "component": "SERVICE BRAKES",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2020 CHEVROLET SILVERADO 1500. WHILE THE CONTACT'S WIFE WAS TRAVELING THROUGH AN INTERSECTION AT AN UNKNOWN RATE OF SPEED, THE VEHICLE DID NOT RESPOND WHEN THE BRAKE PEDAL WAS DEPRESSED. ALSO, THE BRAKE WARNING INDICATOR ILLUMINATED. THE CONTACT TOOK THE VE",
         "pct": 16,
         "title": "Service Brakes",
-        "blurb": "107 reports (16%) about the brakes, with 3 tied to a crash."
+        "blurb": "Owners report the brake pedal failing to slow or stop the vehicle when depressed, including incidents where the vehicle did not respond while traveling through an intersection. · 3 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "BRAND NEW TRUCK WITH ONLY 450 MILES.   FIRST INCIDENT WAS CHECK ENGINE LIGHT CAME ON , BRAKE PEDAL WAS REALLY HARD TO PRESS ALMOST HIT CAR INFRONT OF ME.  SECOND INCIDENT ALL LIGHTS CAME BACK UP   ABS,SRS, TRAILER BRAKE MODULE, PARKING BRAKE,  TRUCK WILL NOT GO FASTER THAN 42MPH.",
         "pct": 14,
         "title": "Electrical System",
-        "blurb": "98 reports (14%), and the most serious group: 8 involved a fire, 2 a crash, and 4 reported injuries."
+        "blurb": "Owners report cascading warning lights — including check engine, ABS, SRS, and trailer brake indicators — appearing together, sometimes accompanied by a stiff, unresponsive brake pedal on vehicles with very low mileage. · 8 fire · 2 crash · 4 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "71 reports (10%) about steering, with 1 tied to a crash."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

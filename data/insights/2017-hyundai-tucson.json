@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Hyundai Tucson owners report most",
-    "summary": "Across 1,069 owner complaints to NHTSA, the most reported area is Engine (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern across owner complaints is sudden hesitation or complete lack of response when pressing the accelerator — most often when pulling away from a stop, merging, turning at intersections, or resuming speed in stop-and-go traffic. A substantial share of reports also describe the transmission failing to shift through gears in the expected sequence, sometimes dropping into a neutral-like state under acceleration. Electrical system complaints follow a similar hesitation pattern tied to the dual-clutch transmission, with some owners noting the same behavior was reported for the prior model year.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "WE JUST PURCHASED A 2017 HYUNDAI TUCSON SPORT. THE CAR HAS A SERIOUS ISSUE OF NO ACCELERATION AFTER A STOP, MERGING, PASSING ON THE HIGHWAY AND TURNING AT AN INTERSECTION. THE CAR HESITATES WHEN YOU HIT THE ACCELERATOR, SOMETIMES LEAVING YOU NEARLY STOPPED IN A AN INTERSECTION WA",
         "pct": 55,
         "title": "Engine",
-        "blurb": "583 reports (55%) · 21 fire · 3 crash · 6 injured"
+        "blurb": "Owners report a serious lack of acceleration response after coming to a stop or when attempting to merge, pass, or turn, with the vehicle hesitating noticeably when the accelerator is pressed. · 21 fire · 3 crash · 6 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "TRANSMISSION DOES NOT CONSISTENTLY SHIFT THROUGH GEARS. UNDER ACCELERATION, IT WILL SOMETIMES SHIFT FROM 1-2- NEUTRAL INSTEAD OF GOING INTO 3RD GEAR. IF YOU DEACCELRATE AND THEN TRY TO ACELERATE AS WHEN COMING TO A TURN, THE CAR HAS EXTREME HESITATION AND SOMETIME WILL JUST REV T",
         "pct": 27,
         "title": "Power Train",
-        "blurb": "287 reports (27%) · 2 fire · 5 crash · 3 injured"
+        "blurb": "The transmission is reported to skip expected gear changes and instead shift into a neutral-like state under acceleration, particularly when slowing for a turn and then attempting to accelerate again. · 2 fire · 5 crash · 3 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -97,7 +97,7 @@
         "sample": "VEHICLE HESITATES WHEN ACCELERATING FROM A SLOWED OR STOPPED PACE (I.E. STOP AND GO TRAFFIC, MAKING LEFT HAND TURNS).  WHEN THE GAS PEDAL IS PRESSED TO GO AGAIN, NOTHING HAPPENS. THEN THE VEHICLE SLOWLY SHIFTS INTO TRAFFIC BEFORE FINALLY ACCELERATING.  SCARY STUFF WHEN CARS ARE C",
         "pct": 8,
         "title": "Vehicle Speed Control",
-        "blurb": "86 reports (8%) · 3 crash · 2 injured"
+        "blurb": "Owners describe the vehicle failing to respond when the gas pedal is pressed from a slowed or stopped position, with the vehicle then slowly and unpredictably easing into traffic. · 3 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "HESITATION ON ACCELERATION, DUAL CLUTCH TRANSMISSION. REPORTED PROBLEMS WITH THE 2016 TUCSON.  MY VEHICLE IS A 2017 TUCSON SE PLUS, THE PROBLEMS ARE THE SAME AS PREVIOUSLY REPORTS REGARDING THE 2016 MODEL.  THE EXISTING RECALL NEEDS TO BE BROADENED TO INCLUDE 2017'S.  PLUS, I UND",
         "pct": 8,
         "title": "Electrical System",
-        "blurb": "83 reports (8%) · 5 fire · 4 crash · 2 injured"
+        "blurb": "Owners report acceleration hesitation associated with the dual-clutch transmission, with complaints matching patterns previously documented on earlier model Tucsons. · 5 fire · 4 crash · 2 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "73 reports (7%) · 1 fire · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

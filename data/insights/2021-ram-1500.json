@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2021 Ram 1500 owners report most",
-    "summary": "Across 648 owner complaints to NHTSA, the most reported area is Engine (41% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints make up the largest share of owner reports, with stalling being the most-cited symptom, including incidents occurring while the vehicle was in motion. Electrical system and power train complaints share a notable pattern of vehicles reportedly moving on their own after being parked and shut off, with some reports associated with fires or crashes. Service brake complaints describe unexpected brake engagement accompanied by unusual sounds while driving downhill.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I PURCHASED MY 2021 RAM 1500 LIMITED NIGHT EDITION ON MARCH 11, 2021. IT WAS NEW. WITHIN 3 WEEKS AND LESS THAN 1,000 MILES OF DRIVING THE VEHICLE STALLED TWICE WHILE IN THE MIDDLE OF AN INTERSECTION. THE FUEL TANK WAS FULL AND THE ENGINE WAS WARM EACH TIME.    THE FIRST TIME AROU",
         "pct": 41,
         "title": "Engine",
-        "blurb": "268 reports (41%) · 2 fire · 1 crash · 6 injured"
+        "blurb": "Owners report the engine stalling unexpectedly while the vehicle is being driven, including while stopped at intersections. · 2 fire · 1 crash · 6 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "I PARKED MY TRUCK, SHUT OFF THE ENGINE, AND EXITED AND WENT INSIDE. I WAS WALKING MY DOG SEVERAL MINUTES LATER AND SEEMED TO NOTICE MY TRUCK MOVING BACKWARDS. I SAW THE FRESH TRACKS IN THE SNOW IN FRONT OF MY TRUCK AND REALIZED THAT IT WAS ROLLING BACKWARD ON MY DRIVEWAY. I GOT I",
         "pct": 29,
         "title": "Electrical System",
-        "blurb": "188 reports (29%) · 3 fire · 2 crash · 4 injured"
+        "blurb": "Owners report the vehicle moving on its own after being parked and the engine shut off, with some incidents associated with fire. · 3 fire · 2 crash · 4 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I PARKED MY TRUCK, SHUT OFF THE ENGINE, AND EXITED AND WENT INSIDE. I WAS WALKING MY DOG SEVERAL MINUTES LATER AND SEEMED TO NOTICE MY TRUCK MOVING BACKWARDS. I SAW THE FRESH TRACKS IN THE SNOW IN FRONT OF MY TRUCK AND REALIZED THAT IT WAS ROLLING BACKWARD ON MY DRIVEWAY. I GOT I",
         "pct": 14,
         "title": "Power Train",
-        "blurb": "93 reports (14%) · 1 crash · 1 injured"
+        "blurb": "Owners report the vehicle rolling or moving after being parked and turned off, with some reports linked to crashes. · 1 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2021 RAM 1500. THE CONTACT STATED THAT WHILE THE VEHICLE WAS DRIVING DOWN AN INCLINE, THE BRAKES ENGAGED WITHOUT WARNING AND AN ABNORMAL SOUND WAS HEARD COMING FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO STONERIDGE CHRYSLER JEEP DODGE (2700 STONERIDGE DR, PL",
         "pct": 11,
         "title": "Service Brakes",
-        "blurb": "71 reports (11%) · 4 crash · 1 injured"
+        "blurb": "Owners report brakes engaging without warning while driving downhill, accompanied by an abnormal sound. · 4 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "66 reports (10%) · 1 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

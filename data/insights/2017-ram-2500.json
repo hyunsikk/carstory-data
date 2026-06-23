@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Ram 2500 owners report most",
-    "summary": "Across 664 owner complaints to NHTSA, the most reported area is Service Brakes (74% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Brake-system warning lights activating unexpectedly — often persisting after dealer visits without a confirmed fix — represent the dominant pattern in owner complaints for this truck. Electrical faults, including a wiring fire that started while the vehicle was parked, form the second most-reported concern. A smaller share of owners also report cruise-control and throttle behavior that does not return to idle as expected after releasing the accelerator.",
     "issues": [
       {
         "component": "SERVICE BRAKES",
@@ -73,7 +73,7 @@
         "sample": "MY ABS TRACTION CONTROL LIGHT CAME ON INTERMITTENTLY PRIOR TO 36,000 MILES. TOOK TO DEALER AND THEY COULD NOT FIND PROBLEM. WITH 42,600 MILES LIGHTS HAVE COME ON AND SET A CODE. RAM HAS SAID THEY WILL NOT FIX THE PROBLEM. A COMPUTER HAS FAILED. THIS IS A SAFETY ISSUE AND SHOULD B",
         "pct": 74,
         "title": "Service Brakes",
-        "blurb": "491 reports (74%) · 1 fire · 6 crash · 2 injured"
+        "blurb": "Owners report ABS and traction-control warning lights illuminating intermittently, with dealers unable to reproduce or resolve the fault until a diagnostic code eventually sets. · 1 fire · 6 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "WIRE PINCHED BETWEEN SPARE TIRE AND BODY WAS SHORTED OUT AND CAUGHT THE SPARE TIRE ON FIRE. TRUCK HAD BEEN PARKED FOR OVER 7 HOURS. WAS TOLD ALL WIRES LEADING TO THE BACK ARE ON FUSES AND SHOULD HAVE BROKEN THE CIRCUIT BEFORE A FIRE BEGAN. *CW *TT  CONSUMER STATED THAT THE OWNER ",
         "pct": 18,
         "title": "Electrical System",
-        "blurb": "118 reports (18%) · 1 fire"
+        "blurb": "Owners report wiring shorting out near the spare tire area, in at least one case igniting a fire while the vehicle was parked and unattended for several hours. · 1 fire"
       },
       {
         "component": "HYDRAULIC",
@@ -97,7 +97,7 @@
         "sample": "The contact owns a 2017 Ram 2500. The contact stated while driving at various speeds, the ABS, traction control, and \"Service anti-lock braking system\" warning lights and messages were illuminated. The four-wheel drive and cruise control were also inoperable. The vehicle was take",
         "pct": 13,
         "title": "Hydraulic",
-        "blurb": "83 reports (13%) · 1 crash"
+        "blurb": "Owners report simultaneous illumination of ABS, traction-control, and service anti-lock braking system warnings while driving at various speeds, sometimes accompanied by four-wheel-drive system messages. · 1 crash"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "MY RAM 2500 DIESEL WAS IN CRUISE CONTROL ON A 4 LANE HIGHWAY WITH PERIODIC STOP LIGHTS WHEN I PUSHED HEAVILY ON THE GAS PEDAL TO ACCELERATE WHILE PULLING A 13,000 LB TRAILER.  WHEN I TOOK MY FOOT OFF THE GAS, THE ENGINE STAYED IN FULL ACCELERATION MODE.  FULL BRAKING WAS NOT SLOW",
         "pct": 11,
         "title": "Vehicle Speed Control",
-        "blurb": "71 reports (11%) · 1 fire"
+        "blurb": "Owners report the engine continuing to run at elevated power after releasing the accelerator while in cruise control and towing, rather than returning to idle as expected. · 1 fire"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -123,6 +123,7 @@
         "title": "Forward Collision Avoidance",
         "blurb": "60 reports (9%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

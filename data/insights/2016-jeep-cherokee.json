@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Jeep Cherokee owners report most",
-    "summary": "Across 1,394 owner complaints to NHTSA, the most reported area is Power Train (45% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern in owner complaints is powertrain trouble, particularly the transmission shutting down unexpectedly while the vehicle is in motion. Engine stalling without warning — sometimes requiring multiple restart attempts — and electrical system failures that leave the vehicle unable to restart are also widely reported. Brake-related complaints, which include software upgrades noted by dealers, round out the picture of a vehicle whose owners frequently report losing control of basic driving functions.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "FIRST OF ALL, THIS IS A BRAND NEW VEHICLE WITH JUST OVER 1,300 MILES ON IT AFTER NEARLY 3 MONTHS OF USE.  THE VEHICLE WAS IN MOTION ON THE ROAD WITH A 45MPH SPEED LIMIT. THE TRANSMISSION JUST SHUT DOWN AND I WAS UNABLE TO ACCELERATE AND THE RPM SHOT UP TO A HIGH LEVEL. LUCKILY TH",
         "pct": 45,
         "title": "Power Train",
-        "blurb": "622 reports (45%) · 3 fire · 7 crash · 3 injured"
+        "blurb": "Owners report the transmission shutting down without warning while the vehicle is in motion, leaving the driver unable to proceed. · 3 fire · 7 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 JEEP CHEROKEE. WHILE DRIVING 45 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE FAILURE RECURRED INTERMITTENTLY. THE VEHICLE TOOK MULTIPLE ATTEMPTS TO RESTART. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE VEHICLE NEEDED AN OIL CHAN",
         "pct": 22,
         "title": "Engine",
-        "blurb": "313 reports (22%) · 4 fire · 2 crash"
+        "blurb": "Owners report the vehicle stalling without warning at driving speeds, with the engine requiring multiple attempts to restart. · 4 fire · 2 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 JEEP CHEROKEE. WHILE DRIVING 10 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT WAS UNABLE TO RESTART THE VEHICLE. AFTER THE VEHICLE WAS PARKED FOR APPROXIMATELY 20 MINUTES, THE CONTACT WAS ABLE TO RESTART THE VEHICLE. ON SEVERAL OCCASIONS, THE P",
         "pct": 21,
         "title": "Electrical System",
-        "blurb": "294 reports (21%) · 4 fire · 2 crash · 1 injured"
+        "blurb": "Owners report the vehicle stalling and becoming impossible to restart immediately, with the ability to restart sometimes returning only after the vehicle has sat for a period of time. · 4 fire · 2 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "I HAD MY 2016 JEEP CHEROKEE IN TO SERVICE AT ABOUT MILEAGE 1800.  THE JEEP DEALER REPORTED TO ME THAT HE UPGRADED MY SOFTWARE TO THE LATEST AND GREATEST AND PRODUCED A SOFTWARE UPGRADE NUMBER WHICH MEANT NOTHING TO ME, BUT THE DEALER ASSURED ME THAT CERTAIN FIXES WERE ADDRESSED, ",
         "pct": 7,
         "title": "Service Brakes",
-        "blurb": "94 reports (7%) · 4 crash · 3 injured"
+        "blurb": "Owners report brake concerns prompting dealer visits, where dealers have applied software upgrades as part of the service response. · 4 crash · 3 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "76 reports (5%) · 5 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

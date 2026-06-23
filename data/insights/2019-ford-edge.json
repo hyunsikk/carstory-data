@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Ford Edge: transmission and engine top owner complaints",
-    "summary": "Owners filed 712 complaints with NHTSA. Most point to the power train (418 reports, 59%) and the engine (148 reports, 21%) - together roughly 4 out of 5 complaints. These are the areas to test hard before you buy and watch closely if you own one. A handful of reports describe a crash, and one notes an injury; none mention a fire.",
+    "summary": "The dominant pattern in owner complaints for the Ford Edge of this generation centers on powertrain behavior, with the most common reports describing delayed or unresponsive gear engagement and sluggish acceleration when pressing the accelerator. A secondary cluster of complaints involves the engine and electrical system, where owners describe sudden and complete vehicle shutdown — including loss of hazard lights — attributed to a ground wire separating from the ECM while the vehicle was in motion or stopped at a light. A smaller share of owners also report the vehicle running roughly and stalling without warning at moderate speeds.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 FORD EDGE. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE WOULD NOT IMMEDIATELY SHIFT INTO GEAR AND WOULD NOT IMMEDIATELY ACCELERATE WHEN DEPRESSING THE ACCELERATOR PEDAL. THE VEHICLE WAS TAKEN TO TENVOORDE FORD (185 ROOSEVELT RD, ST CLOUD, MN), BUT THE CAU",
         "pct": 59,
         "title": "Power Train",
-        "blurb": "By far the biggest concern: 418 reports (59% of all complaints). Owners describe the car hesitating to shift or not accelerating when they hit the gas. Linked to 4 crashes and 1 injury - take a test drive with hard acceleration and watch for delayed or rough shifting."
+        "blurb": "Owners report the vehicle failing to shift into gear promptly and not accelerating immediately when the accelerator pedal is depressed while driving at various speeds · 4 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "SINGLE POINT OF FAILURE WHERE GROUND WIRE DISCONNECTED FROM ECM AND CAR LOST 100% FUNCTIONALITY AND SHUT DOWN COMPLETELY WHILE OPERATING/DRIVING WHILE STOPPED AT A RED LIGHT. HAZARDS WARNING LIGHTS WERE NON OPERABLE THEREFORE MY CONCERN IS IF AIRBAGS WOULD OF EVEN ACTUATED IF A R",
         "pct": 21,
         "title": "Engine",
-        "blurb": "The second most common area: 148 reports (21%). Reports include the engine shutting down or losing power while driving. Tied to 1 crash - listen for stalling or warning lights during a longer test drive."
+        "blurb": "Owners report a ground wire disconnecting from the ECM causing complete loss of vehicle functionality and an unexpected shutdown while driving, including loss of hazard warning lights · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "SINGLE POINT OF FAILURE WHERE GROUND WIRE DISCONNECTED FROM ECM AND CAR LOST 100% FUNCTIONALITY AND SHUT DOWN COMPLETELY WHILE OPERATING/DRIVING WHILE STOPPED AT A RED LIGHT. HAZARDS WARNING LIGHTS WERE NON OPERABLE THEREFORE MY CONCERN IS IF AIRBAGS WOULD OF EVEN ACTUATED IF A R",
         "pct": 5,
         "title": "Electrical System",
-        "blurb": "A smaller but notable group: 34 reports (5%), with 2 crashes. Owners describe electrical faults that can leave the car without power - check that lights, hazards, and dashboard warnings all work."
+        "blurb": "Owners report a ground wire disconnecting from the ECM resulting in total electrical failure and vehicle shutdown while in operation, with hazard warning lights rendered inoperable · 2 crash"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -109,7 +109,7 @@
         "sample": "The contact owns a 2019 Ford Edge. The contact stated while driving 45 MPH, the vehicle was driving rough. The contact stated that the vehicle then lost motive power and stalled without warning. The contact was not able to pull to the side of the road; however, the vehicle was to",
         "pct": 5,
         "title": "Engine And Engine Cooling",
-        "blurb": "33 reports (5%), no crashes or injuries. Reports describe rough running and sudden loss of power while driving - another reason to drive the car long enough to feel how the engine behaves at speed."
+        "blurb": "Owners report the vehicle running rough and then losing motive power and stalling without warning while driving at moderate speeds"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "The smallest of the top five: 31 reports (4%), with 2 crashes. If you rely on driver-assist features like park assist, test them carefully and stay ready to take over."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

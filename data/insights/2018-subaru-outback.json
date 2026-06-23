@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Subaru Outback: electrical and mirror complaints lead the list",
-    "summary": "Owners filed 800 complaints with NHTSA. The electrical system is the most reported area at 33%, followed closely by visibility/wiper issues at 29%. No deaths are reported, and serious outcomes are rare. The fuel/propulsion system draws far fewer complaints (5%) but accounts for the most crashes (3) and the only reported injury, so it is worth a close look on a test drive.",
+    "summary": "Electrical system faults make up the largest share of owner complaints, with the key fob losing function after the vehicle is locked while hazard lights are active being the most-described pattern. Visibility and wiper issues form the second-largest cluster, driven primarily by complaints that the driver-side exterior mirror cannot be adjusted far enough to eliminate blind spots. A smaller number of owners also report unexpected engine stalls and shutoffs while driving, and a separate set of visibility complaints echoes the mirror-adjustment limitation from a different angle.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "THE CAR IS PARKED. THE FLASHERS ARE ACTIVATED. THE CAR IS THEN LOCKED FROM THE OUTSIDE WITH THE KEY FOB. AFTER RETURNING TO THE CAR A SHORT TIME LATER (MAYBE 5 MINUTES OR SO)  THE KEY FOB IS TOTALLY UNUSABLE. LOCK, UNLOCK, REAR HATCH OR PANIC DO NOT WORK. MUST THEN USE THE KEY IN",
         "pct": 33,
         "title": "Electrical System",
-        "blurb": "The most reported area: 263 reports (33%), including 3 fires and 2 crashes, with no injuries reported. The fire count makes this worth checking carefully."
+        "blurb": "Owners report the key fob becomes completely unresponsive — unable to lock or unlock the vehicle — after the car is parked with hazard flashers active and then locked from the outside. · 3 fire · 2 crash"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "THE ABILITY TO ADJUST THE OUTSIDE DRIVER SIDE MIRROR IS SIGNIFICANTLY RESTRICTED IN COMPARISON TO THE PASSENGER OUTSIDE SIDE MIRROR.  THIS INCREASES THE CHANCE OF AN OPERATOR BEING IN AN ACCIDENT DUE TO REDUCED AWARENESS AND/OR NEEDED INCREASED REACTION TIME TO COMPENSATE FOR THI",
         "pct": 29,
         "title": "Visibility/Wiper",
-        "blurb": "Second most reported: 233 reports (29%), linked to 1 crash and no fires or injuries. Check the mirrors and wipers during a test drive."
+        "blurb": "Owners report the driver-side exterior mirror cannot be adjusted as far outward as the passenger-side mirror, leaving a restricted field of view that owners link to increased crash risk. · 1 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "I WAS DRIVING MY CHILD TO SCHOOL ON A RAINY MORNING IN TRAFFIC,20-30MPH ON A STRAIGHT ROAD.    THE CAR STALLED AND THEN THE ENGINE SHUT OFF.      (I AM LUCKY I DID NOT GET REAR ENDED; OTHERWISE I WOULD BE IN THE HOSPITAL GETTING MY CHILD CHECKED OUT.)    ROLLED OVER TO THE SIDE O",
         "pct": 5,
         "title": "Fuel/Propulsion System",
-        "blurb": "Only 43 reports (5%) but the most serious by outcome: 3 crashes and the single reported injury. Watch for stalling or loss of power while driving."
+        "blurb": "Owners report the engine stalling and shutting off without warning while driving at low speeds in traffic, including in wet weather conditions. · 3 crash · 1 injured"
       },
       {
         "component": "VISIBILITY",
@@ -109,7 +109,7 @@
         "sample": "LEFT SIDEVIEW MIRROR DOES NOT ROTATE FAR ENOUGH TO LEFT:  A PERSON OR VEHICLE WITHIN 3 FEET OR GREATER DISTANCE OF LEFT SIDE AND ADJACENT WITH AFT OF LEFT REAR DOOR (IE, PARALLEL TO THE BREAK LINE OF THE DOOR WHERE IT CLOSES) CANNOT BE SEEN IN SIDE VIEW MIRROR.  A REPLACEMENT MIR",
         "pct": 5,
         "title": "Visibility",
-        "blurb": "41 reports (5%), with no crashes, fires, or injuries reported. A smaller complaint area, mostly about mirror coverage."
+        "blurb": "Owners report the left side-view mirror does not rotate far enough toward the left, leaving a gap in rearward visibility along the driver side of the vehicle."
       },
       {
         "component": "ENGINE",
@@ -123,6 +123,7 @@
         "title": "Engine",
         "blurb": "35 reports (4%), including 1 fire and 1 crash, with no injuries. Watch for stalling or loss of power while driving."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

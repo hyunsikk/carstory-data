@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Honda Civic: steering leads the owner complaints",
-    "summary": "Owners filed 603 complaints with NHTSA. Steering is by far the most reported area at 37% and is tied to 8 crashes, more than any other category. Fuel-related complaints come next, split across Fuel System and Gasoline (89 reports, 15% each) and Fuel/Propulsion System (71 reports, 12%). No deaths are reported, and the only fire shows up under the electrical system.",
+    "summary": "Steering-system behavior is the most-reported concern, with owners describing unexpected vehicle corrections — linked to the Road Departure Mitigation system — that they say created dangerous situations. Fuel-system complaints are also prominent, with owners reporting difficulty starting the vehicle after it has sat unused for several days. A separate thread of fuel-related reports describes a gasoline smell inside the cabin, accompanied by concerns about oil contamination.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "THE ISSUE IS WITH THE \"ROAD DEPARTURE MITIGATION\" (RDM)SYSTEM.  THE SYSTEM MAY HAVE BEEN WORKING AS DESIGNED: BUT IF SO IT CREATED A CORRECTION THAT MAY HAVE RESULTED IN A SERIOUS ACCIDENT.  THE ISSUE OCCURRED  AT A POINT WHERE THE ROAD ABRUPTLY CHANGES FROM A SINGLE LANE TO A TH",
         "pct": 37,
         "title": "Steering",
-        "blurb": "The single biggest complaint: 225 reports (37%), linked to 8 crashes and no reported injuries. It draws the most crashes of any area, so test the steering carefully."
+        "blurb": "Owners report that the Road Departure Mitigation system made an abrupt steering correction that they believe could cause or contribute to a serious accident. · 8 crash"
       },
       {
         "component": "FUEL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "The contact owns a 2018 Honda Civic. The contact stated that the vehicle was parked for five days while she was out of town however, after returning home and attempting to start the vehicle, the vehicle failed to start. The local Honda dealer was contacted by phone and the contac",
         "pct": 15,
         "title": "Fuel System",
-        "blurb": "89 reports (15%), tied to 2 crashes and 2 injuries. The second most reported area, alongside gasoline complaints."
+        "blurb": "Owners report that after the vehicle sat parked and unused for several days, it failed to start upon their return. · 2 crash · 2 injured"
       },
       {
         "component": "GASOLINE",
@@ -97,7 +97,7 @@
         "sample": "The contact owns a 2018 Honda Civic. The contact stated that the vehicle was parked for five days while she was out of town however, after returning home and attempting to start the vehicle, the vehicle failed to start. The local Honda dealer was contacted by phone and the contac",
         "pct": 15,
         "title": "Gasoline",
-        "blurb": "89 reports (15%), with 2 crashes and 2 injuries. Another fuel-related cluster worth asking the seller about."
+        "blurb": "Owners report that after the vehicle sat parked and unused for several days, it failed to start upon their return. · 2 crash · 2 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "AT 2025 MILES MY 2018 CIVICTHAT I HAD FOR 2ISH MONTHS STARTED SMELLING LIKE FUEL IN THE CAB. SO I LOOKED IT UP AND THE EARTH DREAMS MOTOR IS HAVING OIL DILUTION PROBLEMS AND IT IS BECOMING MORE COMMON. SO I CHECKED MY OIL AND FOUND MY CAR A QUART OVERFULL WITH FUEL IN MY OIL. I T",
         "pct": 12,
         "title": "Fuel/Propulsion System",
-        "blurb": "71 reports (12%), with 1 crash and no reported injuries. A recurring fuel-and-propulsion complaint area."
+        "blurb": "Owners report noticing a fuel smell inside the cabin and, upon checking, finding signs of oil dilution associated with the engine. · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "52 reports (9%), including the only fire in the data, plus 2 crashes and 2 injuries. The fire makes this worth a close look."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

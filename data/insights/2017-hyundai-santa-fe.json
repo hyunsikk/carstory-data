@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Hyundai Santa Fe owners report most",
-    "summary": "Across 931 owner complaints to NHTSA, the most reported area is Engine (67% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate the report picture, with owners describing sudden power loss, smoke from the engine compartment, and vehicles that stall and cannot be restarted. Powertrain and electrical system issues appear alongside engine complaints, and brake-related reports describe the vehicle accelerating rather than slowing when the pedal is depressed. Across all categories, a subset of reports involve fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I BOUGHT THE VEHICLE ON 5/7/16. ON 6/2/16 I WAS DRIVING ON HIGHWAY 395 WHEN I NOTICED SMOKE COMING OUT OF THE ENGINE COMPARTMENT. THE CAR STARTED LOSING POWER AND EVENTUALLY DIED. WHEN I GOT IT PULLED OVER TO THE SIDE OF THE ROAD I NOTICED FLAMES COMING OUT FROM THE FRONT OF THE ",
         "pct": 67,
         "title": "Engine",
-        "blurb": "624 reports (67%) · 13 fire · 1 crash · 2 injured"
+        "blurb": "Owners report smoke emerging from the engine compartment while driving at highway speeds, followed by a loss of power and the vehicle dying and becoming inoperable. · 13 fire · 1 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "THERE IS A RECURRING ISSUE WITH THE TRANSMISSION WHERE IN LOW OR SLOW SPEED SITUATIONS WHEN YOU APPLY POWER THE TRANSMISSIONS STUTTERS OR STUMBLES. IT IS MOST PREVALENT WHEN TURNING IN AN INTERSECTION ACROSS ONCOMING TRAFFIC WHERE YOU NEVER QUITE STOP OR WHEN ROLLING AT STOP SIGN",
         "pct": 16,
         "title": "Power Train",
-        "blurb": "149 reports (16%) · 3 fire · 1 injured"
+        "blurb": "Owners report the transmission stuttering or stumbling when power is applied at low or slow speeds, most notably when turning through an intersection. · 3 fire · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "I BOUGHT THE VEHICLE ON 5/7/16. ON 6/2/16 I WAS DRIVING ON HIGHWAY 395 WHEN I NOTICED SMOKE COMING OUT OF THE ENGINE COMPARTMENT. THE CAR STARTED LOSING POWER AND EVENTUALLY DIED. WHEN I GOT IT PULLED OVER TO THE SIDE OF THE ROAD I NOTICED FLAMES COMING OUT FROM THE FRONT OF THE ",
         "pct": 7,
         "title": "Electrical System",
-        "blurb": "64 reports (7%) · 10 fire · 2 crash · 4 injured"
+        "blurb": "Owners report smoke from the engine compartment accompanied by power loss and the vehicle stalling, with the electrical system implicated alongside the engine in overlapping incidents. · 10 fire · 2 crash · 4 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HYUNDAI SANTA FE. WHEN THE CONTACT DEPRESSED THE BRAKE PEDAL, THE VEHICLE ACCELERATED AGGRESSIVELY. THE CONTACT CONTINUED TO DEPRESS THE BRAKE PEDAL MULTIPLE TIMES FOR THE VEHICLE TO STOP. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED, BUT T",
         "pct": 6,
         "title": "Service Brakes",
-        "blurb": "59 reports (6%) · 4 fire · 4 crash · 5 injured"
+        "blurb": "Owners report that depressing the brake pedal causes the vehicle to accelerate aggressively rather than slow, requiring repeated brake applications before the vehicle stops. · 4 fire · 4 crash · 5 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "56 reports (6%) · 1 fire · 2 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2020 Jeep Wrangler: steering dominates the owner complaints",
-    "summary": "Owners filed 586 complaints with NHTSA. Steering is by far the most reported area at 40%, followed by the electrical system at 28%. No deaths are reported. Most fires show up under the electrical system (6) and engine (5), so pay attention to those areas during a test drive and inspection.",
+    "summary": "Steering complaints dominate owner reports for the Jeep Wrangler, with owners describing the vehicle as difficult to keep on course, particularly at highway speeds. Electrical system issues make up the next largest share of complaints, with some reports involving fires. Engine and suspension problems appear less frequently but include incidents where the vehicle lurched unexpectedly or pulled persistently to one side.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "ON SEPTEMBER 16 2019 MY WIFE AND I PURCHASED A 2020 JEEP WRANGLER, WE ONLY DROVE IT ABOUT AN EIGHTH OF A MILE I DIDN'T SEE A REASON TO GO ANY FURTHER BECAUSE WE WERE TRADING IN A 2014 THAT STEERS AND STAYS ON THE ROAD PERFECTLY. IT WAS LATE IN THE DAY WHEN WE PICKED IT UP AND WE ",
         "pct": 40,
         "title": "Steering",
-        "blurb": "The single biggest complaint by a wide margin: 234 reports (40%), tied to 6 crashes and 1 injury. Test the steering carefully at highway speed."
+        "blurb": "Owners report the vehicle fails to stay on the road and cannot be held through a curve at freeway speed, drifting out of the turn radius. · 6 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TOOK MY JEEP WRANGLER IN FOR SERVICE TO ADDRESS A SERIOUS  HIGHWAY SPEED OVER STEERING ISSUE. AT FREEWAY SPEED YOU CAN NOT HOLD THE JEEP INTO A CURVE WITH DRIFTING OUT OF THE RADIUS OF THE CURVE. THIS FORCES A SLIGHT CORRECTION WHICH OVER CORRECTS  THE OTHER WAY.  I ALSO HAVE MY ",
         "pct": 28,
         "title": "Electrical System",
-        "blurb": "Second most reported: 167 reports (28%), including 6 with fire, 2 crashes, and 2 injuries. The fire count makes this worth checking closely."
+        "blurb": "Owners report electrical problems serious enough to involve fires and crashes, often discovered during service visits for other concerns. · 6 fire · 2 crash · 2 injured"
       },
       {
         "component": "SUSPENSION",
@@ -97,7 +97,7 @@
         "sample": "NEW 2020 WRANGLER UNLIMITED RUBICON JUST A WEEK OLD.  BEEN INTO DEALER 3 OF THOSE 7 DAYS FOR THE FOLLOWING:   1.) SIGNIFICANT PULL TO THE RIGHT ON FLAT SURFACE STREETS OR HIGHWAYS REGARDLESS OF SPEED.  ALIGNMENT WAS DONE AND IN SPECS, YET THE PROBLEM EXISTS.   ROTATED TIRES BACK ",
         "pct": 8,
         "title": "Suspension",
-        "blurb": "49 reports (8%), linked to 2 crashes and no injuries. Watch for pulling to one side on flat roads during a test drive."
+        "blurb": "Owners report a significant pull to one side on flat roads and highways regardless of speed, persisting even after dealer alignment. · 2 crash"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "AS SLOWING DOWN TOWARDS A RED LIGHT AT APPROXIMATELY  5 MPH THE ENGINE SUDDENLY REVVED UP .  PRESSED BRAKE TO FULL (AGAIN, NO FOOT ON GAS), ENGINE CONTINUED REVVING AT HIGH RPM.  JEEP LURCHED FORWARD THREE TIMES AND REAR ENDED CAR IN FRONT WAITING AT THE LIGHT.  4 WHEEL DRIVE WAS",
         "pct": 8,
         "title": "Engine",
-        "blurb": "48 reports (8%), but serious by outcome: 5 fires, 3 crashes, and 1 injury. The fire count makes this worth a careful inspection."
+        "blurb": "Owners report the engine suddenly revving to high RPM while slowing to a stop, with the vehicle lurching forward repeatedly despite the brake being fully applied. · 5 fire · 3 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "45 reports (8%), with 1 crash and 1 fire and no injuries. A smaller but recurring complaint area."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

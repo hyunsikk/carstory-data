@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Volkswagen Passat owners report most",
-    "summary": "Across 592 owner complaints to NHTSA, the most reported area is Air Bags (59% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Air bag warning light illumination is by far the most-reported concern for this model, often accompanied by clicking or popping noises from the steering area. Engine complaints center on turbocharger failures that progress from unusual noises to power loss and eventually leave the vehicle undrivable. Electrical system and fuel/propulsion issues round out the pattern, with owners noting connectivity faults and turbo-related failures that sometimes required multiple dealership repairs.",
     "issues": [
       {
         "component": "AIR BAGS",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 VOLKSWAGEN PASSAT. WHILE DRIVING APPROXIMATELY 45 MPH, THE CONTACT HEARD A CLICKING AND POPPING NOISE WHENEVER THE STEERING WHEEL WAS TURNED. THE AIR BAG WARNING LIGHT ILLUMINATED, WHICH NOTIFIED THE CONTACT OF AN AIR BAG DEPLOYMENT FAILURE; HOWEVER, T",
         "pct": 59,
         "title": "Air Bags",
-        "blurb": "352 reports (59%) · 1 fire · 12 crash · 9 injured"
+        "blurb": "Owners report the air bag warning light illuminating, in some cases preceded by clicking and popping noises when the steering wheel is turned. · 1 fire · 12 crash · 9 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "TURBOCHARGER FAILED. STARTED MAKING NOISES, THEN POWER LOSSES, THEN DASHBOARD LIGHTS. BY THE TIME I GOT TO THE DEALERSHIP, IT WAS NO LONGER DRIVABLE. DEALERSHIP DIAGNOSED TURBOCHARGER FAILURE DUE TO 'INTERNAL MALFUNCTION' AND STATED THAT IT WAS NOT A PROBLEM THAT COULD HAVE BEEN ",
         "pct": 13,
         "title": "Engine",
-        "blurb": "77 reports (13%) · 1 fire"
+        "blurb": "Owners describe turbocharger failures that begin with unusual noises, progress to power loss and dashboard warning lights, and in some cases leave the vehicle undrivable by the time it reaches a dealership. · 1 fire"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "PURCHASED 2014 FULLY LOADED PASSAT ON 10/26/13, SAFETY ISSUE WITH CAR DUE TO MY 1.5 HR DAILY COMMUTE. EXTREMELY POOR QUALITY WHEN USING BLUETOOTH THROUGH CARE STEREO, NOT RECOGNIZING NAMES ON IPHONE 4S CAUSING DRIVER TO REMOVE EYES FROM ROAD TO LOOK UP NUMBER WHICH IS A MAJOR DIS",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "72 reports (12%) · 2 fire · 1 crash"
+        "blurb": "Owners report Bluetooth and audio system malfunctions, including the system failing to recognize contacts by name, which draws driver attention away from the road. · 2 fire · 1 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "MILES ON CAR AT FAILURE: 21,755  CORRECTIVE ACTIONS FROM DEALERSHIP: REPLACED TURBO, GASKETS, REFLASH, CHECK PARTICULATE FILTER AND REPLACE.  OUTSIDE AIR TEMPS AT FAILURE:20S  30S  FAILURE WARNING SIGNS, IF ANY: TURBO BEGAN MAKING HORRIBLE WHINING SOUND ON SUNDAY AFTERNOON MARCH ",
         "pct": 8,
         "title": "Fuel/Propulsion System",
-        "blurb": "47 reports (8%) · 2 fire · 2 crash · 1 injured"
+        "blurb": "Owners report turbo-related failures accompanied by warning signs before breakdown, with dealership repairs involving multiple components including the turbo, gaskets, and particulate filter. · 2 fire · 2 crash · 1 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "43 reports (7%) · 1 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

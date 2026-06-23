@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Jeep Renegade owners report most",
-    "summary": "Across 511 owner complaints to NHTSA, the most reported area is Power Train (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant complaints center on the powertrain and engine, where owners describe sudden, unexpected behavior while driving — particularly around the automatic transmission and stalling. Electrical system faults and fuel system issues round out the complaint picture, with some incidents escalating to fires or crashes across multiple component areas. Together the reports paint a pattern of unpredictable driveability symptoms that left vehicles immobilized or requiring towing.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "MY HUSBAND AND I BOTH JUST BOUGHT 2015 JEEPS WITH THEIR 9-SPEED AUTOMATIC TRANSMISSIONS.  THESE CARS ARE EXTREMELY DANGEROUS AND I AM SCARED TO DRIVE THESE VEHICLES IN SNOW.      THE VEHICLE WILL ALL OF A SUDDEN ACCELERATE EVEN THOUGH YOU ARE BRAKING TO COME TO A STOP OR ARE SLOW",
         "pct": 33,
         "title": "Power Train",
-        "blurb": "170 reports (33%) · 3 crash"
+        "blurb": "Owners report the automatic transmission behaving erratically and dangerously, including sudden unexpected acceleration, particularly in winter driving conditions. · 3 crash"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "I WAS ON THE HIGHWAY WHEN SUDDENLY MY BRAND NEW CAR STALLED AND WOULD NOT SHIFT BACK INTO GEAR. THE CAR BECAME IMMOBILIZED AND HAD TO GET TOWED BACK TO THE DEALERSHIP. THEY REPLACED THE FUEL VALVE AND DID NOT TEST FOR TRANSMISSION OR ELECTRICAL ISSUES. TWO DAYS LATER THE SAME THI",
         "pct": 32,
         "title": "Engine",
-        "blurb": "161 reports (32%) · 5 fire · 3 crash · 1 injured"
+        "blurb": "Owners report the engine stalling without warning at highway speeds and the vehicle becoming unable to shift back into gear, leaving it immobilized and requiring a tow. · 5 fire · 3 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "MY JEEP RENEGADE'S 6.5AN INFOTAINMENT SYSTEM MAY HAVE CORRUPTED SOFTWARE. SINCE OWNING THE VEHICLE, THE \"YELP\" FEATURE WILL NOT LOAD AND IS NOT AVAILABLE TO UTILIZE AS ADVERTISED. MY UCONNECT ACCOUNT LISTED IN MY RADIO SYSTEM SHOWS \"PENDING\" INSTEAD OF TRIAL OR ACTIVATED. I AM AL",
         "pct": 25,
         "title": "Electrical System",
-        "blurb": "129 reports (25%) · 1 fire · 1 crash"
+        "blurb": "Owners report the infotainment system suffering from software corruption, with advertised features failing to load and accounts not functioning as expected. · 1 fire · 1 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "\"TAKATA RECALL\" AFTER STARTING THE VEHICLE FROM A PARKING SPOT AT THE VA, I SMELLED GAS, AND IT STALLED. AFTER STARTING SEVERAL MORE TIME, AND ONLY ABLE TO MAKE IT APPROXIMATELY SEVERAL FEET EACH TIME. THE VEHICLE FINALLY DIED, LEAVING A TRAIL OF GAS, AND A HUGE PUDDLE UNDERNEATH",
         "pct": 7,
         "title": "Fuel/Propulsion System",
-        "blurb": "38 reports (7%)"
+        "blurb": "Owners report detecting a fuel smell after starting the vehicle, followed by stalling and an inability to move more than a short distance before the engine cuts out again."
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "30 reports (6%) · 1 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

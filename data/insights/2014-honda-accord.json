@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Honda Accord owners report most",
-    "summary": "Across 968 owner complaints to NHTSA, the most reported area is Electrical System (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system complaints make up the largest share of owner reports, with several owners describing sudden, unintended vehicle movement at low speeds without driver input. Engine and steering complaints follow, with owners noting intermittent hesitation under acceleration and handling difficulties in cold weather. Brake-related reports frequently describe loss of power steering assist accompanied by a dashboard warning light, suggesting an overlap between the steering and electrical concerns.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "I PURCHASED NEW 2014 HONDA ACCORD ON 1/27/14 WITH 34 MILES.  ON 1/31/14 WITH ONLY 117 MILES, I WAS ATTEMPTING TO PARK, PERHAPS 2 MPH WHEN ALL OF THE SUDDEN, THE CAR LUNGED FORWARD ON IT'S OWN WITH GREAT FORCE. I WAS APPX 5 FEET AWAY FROM STOPPING WHEN SUDDENLY THE AIRBAG DEPLOYED",
         "pct": 39,
         "title": "Electrical System",
-        "blurb": "376 reports (39%) · 4 fire · 5 crash · 8 injured"
+        "blurb": "Owners report the vehicle lunging forward on its own at very low speed while attempting to park, without intentional driver input. · 4 fire · 5 crash · 8 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "HESITATION (UNEXPECTED ACCELERATION) OCCURS INTERMITTENTLY AT LOW SPEED.  WHEN THE CAR IS AT A LOW SPEED AND MORE POWER IS NEEDED AND THE ACCELERATOR IS PRESSED THERE IS NO RESPONSE INITIALLY; ACCELERATOR IS THEN PRESSED MORE AND THE CAR THEN ACCELERATES MUCH MORE THAN WAS EXPECT",
         "pct": 18,
         "title": "Engine",
-        "blurb": "178 reports (18%) · 2 fire · 2 crash · 5 injured"
+        "blurb": "Owners report intermittent hesitation where pressing the accelerator at low speed produces no immediate response, followed by unexpected forward surge when the pedal is pressed further. · 2 fire · 2 crash · 5 injured"
       },
       {
         "component": "STEERING",
@@ -97,7 +97,7 @@
         "sample": "THE ABOVE REFERENCED VEHICLE HAS A LEATHER WRAPPED STEERING.  DURING DAYS OF SEVERE COLD (0 DEGREES OR BELOW), THE STEERING WHEEL BECOMES EXTREMELY SLICK AND SOMETIMES DIFFICULT TO FIRMLY GRIP WITHOUT GLOVES.  THERE WERE A FEW OCCASIONS WHEN I WAS MODERATELY CONCERNED ABOUT THE S",
         "pct": 14,
         "title": "Steering",
-        "blurb": "138 reports (14%) · 1 fire · 13 crash · 10 injured"
+        "blurb": "Owners report the leather-wrapped steering wheel becoming extremely slick and difficult to grip firmly during severe cold weather, even without gloves. · 1 fire · 13 crash · 10 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "I WAS DRIVING HOME FROM WORK AND WITHOUT WARNING I FELT MY VEHICLE DIFFICULT TO TURN  AS I PREPARED TO MAKE A LEFT TURN. I LOOKED AT THE INSTRUMENT PANEL AND NOTICE MY ELECTRIC POWER STEERING INDICATOR LIGHT ON. I APPLIED EXCESSIVE EFFORT TO GET THE VEHICLE TO TURN AND MANAGE TO ",
         "pct": 12,
         "title": "Service Brakes",
-        "blurb": "118 reports (12%) · 1 fire · 8 crash · 1 injured"
+        "blurb": "Owners report the vehicle suddenly becoming difficult to steer while driving, accompanied by the electric power steering warning light illuminating on the instrument panel. · 1 fire · 8 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "63 reports (7%) · 2 crash · 4 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Engine complaints dominate the 2018 Ford Edge",
-    "summary": "Of 765 owner complaints filed with NHTSA, engine problems are by far the most common, with 405 reports (53%). Engine and engine cooling adds another 169 reports (22%), and the power train is third at 75 reports (10%). Most reports describe no crash or fire, but the power train shows 2 crashes and 4 injuries, and the service brakes show 3 crashes and 3 injuries. Buyers should focus their inspection on the engine and cooling system.",
+    "summary": "Engine-related complaints dominate owner reports for this model, with the most common symptom being headlights that owners describe as too dim to illuminate road markings in wet or ambient-lit conditions. Engine and engine cooling issues are the second most reported area, followed by powertrain and brake concerns. Together these four areas account for nearly all complaints filed with NHTSA.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "THE LOW BEAM HEADLIGHTS ARE SO WEAK THAT WHEN THE ROAD IS WET AT NIGHT OR WHEN DRIVING NEAR AMBIENT LIGHTING SUCH AS STREET LIGHTS YOU CAN'T SEE ANY MARKINGS ON THE ROAD SUCH AS THE CENTERLINE OF THE ROAD.    THERE IS ALSO EXHAUST FUMES COMING INTO THE CAR WHEN DRIVING WITH THE W",
         "pct": 53,
         "title": "Engine",
-        "blurb": "The single largest complaint area: 405 reports, or 53% of all complaints, including 1 fire and 1 crash. Have the engine inspected thoroughly before buying."
+        "blurb": "Owners report that low-beam headlights are too weak to illuminate road markings such as centerlines when driving on wet roads or near ambient lighting like street lights. · 1 fire · 1 crash"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -85,7 +85,7 @@
         "sample": "Repeated 'misfire in cylinder 2' error code - from what i've seen online, this may mean that coolant is leaking into the engine block and can cause total engine failure. about 77,000 miles currently. Will be taking to dealership in a couple days, as it's a repeated issue and the ",
         "pct": 22,
         "title": "Engine And Engine Cooling",
-        "blurb": "The second most common concern: 169 reports (22% of complaints), with no crashes or fires reported. Check the cooling system along with the engine."
+        "blurb": "Owners report recurring cylinder misfire error codes and express concern that coolant may be leaking into the engine block, which they associate with the risk of total engine failure."
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "LOSS OF TRANSMISSION POWER, LIKE AS IF THE TRANSMISSION CANT DECIDE WHICH GEAR TO BE IN, THEN WHEN IT SELECTS THE GEAR IT SLAMS INTO GEAR SO HARD THAT IT FEELS LIKE YOU HAVE BEEN HIT FROM BEHIND BY A TRUCK. THIS HAS HAPPENED WHILE DRIVING IN STOP AND GO TRAFFIC, WHEN DRIVING THRU",
         "pct": 10,
         "title": "Power Train",
-        "blurb": "75 reports (10% of complaints), tied to 2 crashes and 4 injuries. Take any transmission or drivetrain symptoms seriously on a test drive."
+        "blurb": "Owners report the transmission hesitates between gears and then slams into gear with a sudden jolt described as feeling like a rear-end collision. · 2 crash · 4 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "BRAKES ARE TOO SENSITIVE (GRABBING) AT LOW SPEED, ESPECIALLY AFTER SITTING OVERNIGHT.  A VERY SLIGHT TOUCH OF THE BRAKE PEDAL WILL CAUSE THE CAR TO IMMEDIATELY STOP AND ANYONE IN THE CAR WILL SLIDE FORWARD IN THEIR SEAT IF NOT OUT OF THE SEAT.  THIS IS A PROBLEM WITH BOTH MYSELF ",
         "pct": 5,
         "title": "Service Brakes",
-        "blurb": "35 reports (5% of complaints), with 3 crashes and 3 injuries reported. Test the brakes carefully, especially at low speed."
+        "blurb": "Owners report that the brakes feel overly sensitive and grab abruptly at low speeds, particularly after the vehicle has been sitting overnight, causing occupants to lurch forward from minimal pedal pressure. · 3 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "33 reports (4% of complaints), including 1 fire, 1 crash, and 1 injury. Verify the lights and electronics all work as expected."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

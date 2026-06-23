@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2018 Ford Focus owners report most",
-    "summary": "Across 819 owner complaints to NHTSA, the most reported area is Power Train (38% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern across owner complaints is drivetrain hesitation and violent shuddering during low-speed acceleration, particularly from a complete stop through moderate speeds. A secondary cluster involves fuel system concerns, including unexpectedly low fuel economy and a gasoline odor after extended drives. Engine stalling events also appear in the data, sometimes attributed to fuel delivery components.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "FROM A COMPLETE STOP (DUE TO STOPPED TRAFFIC ON THE HIGHWAY OR WHILE AT A STOP LIGHT), ACCELERATION CAUSES THE VEHICLE TO HESITATE, RAPIDLY INCREASE RPM, AND SHUDDER/SHAKE VIOLENTLY. HAPPENS ROUGHLY BETWEEN 0-35 MPH. THE ISSUE IS BECOMING MORE FREQUENT, SO I'LL BE TAKING THE VEHI",
         "pct": 38,
         "title": "Power Train",
-        "blurb": "312 reports (38%)"
+        "blurb": "Owners report that accelerating from a complete stop causes the vehicle to hesitate, the engine RPM to spike rapidly, and the whole vehicle to shudder or shake violently through low-to-moderate speeds."
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "FROM A COMPLETE STOP (DUE TO STOPPED TRAFFIC ON THE HIGHWAY OR WHILE AT A STOP LIGHT), ACCELERATION CAUSES THE VEHICLE TO HESITATE, RAPIDLY INCREASE RPM, AND SHUDDER/SHAKE VIOLENTLY. HAPPENS ROUGHLY BETWEEN 0-35 MPH. THE ISSUE IS BECOMING MORE FREQUENT, SO I'LL BE TAKING THE VEHI",
         "pct": 28,
         "title": "Engine",
-        "blurb": "226 reports (28%) · 3 fire · 4 crash · 4 injured"
+        "blurb": "Owners report the same hesitation, rapid RPM increase, and violent shuddering during acceleration from a full stop, with a subset of complaints also involving fires or crashes. · 3 fire · 4 crash · 4 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "THE VEHICLE FAILS TO ACHIEVE MORE THAN 25 MPG ON A FULL 12 GALLON FUEL TANK WITH 100% GASOLINE. THERE IS A GASOLINE ODOR AT TIMES WHEN THE VEHICLE IS SHUT OFF AFTER BEING DRIVEN FOR MULTIPLE HOURS. THE VEHICLE IS EQUIPPED WITH A 1 LITER ECOBOOST MOTOR THAT WAS PURCHASED NEW WITH ",
         "pct": 16,
         "title": "Fuel/Propulsion System",
-        "blurb": "128 reports (16%) · 2 fire · 3 crash · 2 injured"
+        "blurb": "Owners report unexpectedly low fuel economy on a full tank of gasoline and a noticeable gasoline odor when the vehicle is shut off after extended driving, with some complaints involving fires or crashes. · 2 fire · 3 crash · 2 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -109,7 +109,7 @@
         "sample": "The contact owns a 2018 Ford Focus. The contact stated that while his son was driving at an undisclosed speed, the vehicle stalled. The vehicle was taken to an independent mechanic where the purge valve, fuel pump, fuel tank, gasket, and fuel sender valve were replaced. The conta",
         "pct": 15,
         "title": "Engine And Engine Cooling",
-        "blurb": "123 reports (15%)"
+        "blurb": "Owners report the vehicle stalling unexpectedly while in motion, with subsequent inspection pointing to fuel delivery components such as the purge valve and fuel pump."
       },
       {
         "component": "FUEL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel System",
         "blurb": "64 reports (8%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

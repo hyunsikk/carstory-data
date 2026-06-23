@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Kia Soul owners report most",
-    "summary": "Across 895 owner complaints to NHTSA, the most reported area is Engine (70% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine problems dominate owner complaints for this model year, with reports centering on unexpected power loss and stalling, particularly tied to the stop-start system. Electrical system and fuel/propulsion complaints follow, frequently describing the vehicle failing to accelerate or respond when the pedal is depressed. Powertrain reports round out the picture, with owners noting sudden loss of power at speed with no warning.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "CAR IS EQUIPPED WITH ECO-BOOST AND ACTIVE \"INTERMITTANT STOP AND GO\" SYSTEM, WHICH IS ACTIVE EVERY START CYCLE UNLESS \"DEACTIVATE\" BUTTON IS ENGAGED.CAR HAS BEEN DRIVEN BY 18 YEAR OLD DAUGHTER FOR 3,000 MILES IN 6 MONTHS. THE ENGINE HAS SHUT DOWN AND NOT BEEN ABLE TO BE RESTARTED",
         "pct": 70,
         "title": "Engine",
-        "blurb": "624 reports (70%) · 58 fire · 4 crash · 9 injured"
+        "blurb": "Owners report problems with the automatic stop-start system, which reactivates at every ignition cycle and requires manual deactivation each time the vehicle is started. · 58 fire · 4 crash · 9 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 KIA SOUL. WHILE STOPPED AT A TRAFFIC LIGHT, THE VEHICLE WOULD NOT ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. THE CONTACT HEARD A LOUD NOISE AND HAD TO SHUT OFF AND RESTART THE VEHICLE IN ORDER FOR THE LOUD NOISE TO STOP. THE VEHICLE ALSO FAIL",
         "pct": 8,
         "title": "Electrical System",
-        "blurb": "76 reports (8%) · 8 fire · 1 crash · 1 injured"
+        "blurb": "Owners report the vehicle failing to accelerate when the pedal is depressed while stopped, accompanied by a loud noise, requiring the engine to be shut off and restarted. · 8 fire · 1 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "FROM THE DATE OF PURCHASE UNTIL PRESENT THE VEHICLE HAS A LAG IN ACCELERATION WHEN AUTOMATIC TRANSMISSION SHIFTS FROM FIRST TO SECOND GEAR.  THE LAG CAUSES A DANGEROUS CONDITION WHEN PULLING OUT.  TOOK IT BACK TO THE DEALER 2 TIMES, AND EACH TIME WAS TOLD THERE WAS NOTHING THEY C",
         "pct": 8,
         "title": "Fuel/Propulsion System",
-        "blurb": "76 reports (8%) · 6 fire · 3 crash · 5 injured"
+        "blurb": "Owners report a pronounced lag in acceleration when the automatic transmission shifts between lower gears, describing the delay as a hazardous condition when pulling into traffic. · 6 fire · 3 crash · 5 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 KIA SOUL. WHEN THE ACCELERATOR PEDAL WAS DEPRESSED AT APPROXIMATELY 30 MPH, THE VEHICLE LOST POWER WITHOUT WARNING. THE VEHICLE WAS TAKEN TO A DEALER, BUT THE FAILURE WAS UNABLE TO BE DETERMINED. THE CONTACT MENTIONED THAT THE FAILURE RECURRED SEVERAL ",
         "pct": 7,
         "title": "Power Train",
-        "blurb": "62 reports (7%) · 8 fire · 1 crash · 3 injured"
+        "blurb": "Owners report the vehicle suddenly losing power without warning while the accelerator pedal is depressed at moderate speeds, with dealers unable to reproduce or diagnose the failure. · 8 fire · 1 crash · 3 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -123,6 +123,7 @@
         "title": "Engine And Engine Cooling",
         "blurb": "57 reports (6%) · 2 fire"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

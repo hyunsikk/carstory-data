@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Kia Sorento owners report most",
-    "summary": "Across 973 owner complaints to NHTSA, the most reported area is Engine (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports for this model year, with owners describing unusual noises noticed shortly after purchase. Structural and electrical issues also draw significant complaint volume, with owners noting liftgate behavior problems and instrument cluster readability concerns. Exterior lighting complaints echo the speedometer visibility issue, with owners reporting difficulty reading the gauge in daylight conditions.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "ON JANUARY 2014, I BOUGHT A KIA SORENTO, 2014.  ON THE SAME DAY I NOTICE A STRANGE NOISE ON THE ENGINE. I TOOK THE CAR BACK TO MEDINA AUTO IN CAGUAS, PUERTO RICO (DEALER) AND THEY SAID THAT THE NOISE WAS DUE TO THE GDI MOTOR TYPE. I TOOK THE CAR SEVERAL TIMES BACK THE DEALER, WIT",
         "pct": 39,
         "title": "Engine",
-        "blurb": "382 reports (39%) · 29 fire · 2 crash · 3 injured"
+        "blurb": "Owners report hearing a strange or abnormal noise coming from the engine, in some cases noticed as soon as the vehicle was driven off the lot. · 29 fire · 2 crash · 3 injured"
       },
       {
         "component": "STRUCTURE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 KIA SORENTO. THE CONTACT ATTEMPTED TO CLOSE THE LIFT GATE BY PRESSING THE CLOSE BUTTON, BUT WHEN IT CLOSED  IT OPENED INDEPENDENTLY. THE CONTACT ATTEMPTED TO CLOSE IT MANUALLY BUT THE LIFT GATE WOULD NOT CLOSE. THE VEHICLE WAS TAKEN TO THE DEALER FOR I",
         "pct": 16,
         "title": "Structure",
-        "blurb": "158 reports (16%) · 2 fire · 1 injured"
+        "blurb": "Owners report that the power liftgate closes and then reopens on its own, and that manually closing it does not resolve the behavior. · 2 fire · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "CPSC:X1380106A. 2014 KIA SORENTO. CONSUMER STATED THE CONCERN IS NOT BEING ABLE TO READ THE  ELECTROLUMINESCENT SPEEDOMETER IN THE DAYLIGHT. *LN  THE CONSUMER STATED IT WAS DIFFICULT TO SEE HOW FAST HE WAS GOING. THE SUNLIGHT GLARE MADE IT NEARLY IMPOSSIBLE TO SEE AND IT REQUIRED",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "150 reports (15%) · 9 fire · 5 crash · 3 injured"
+        "blurb": "Owners report being unable to read the electroluminescent speedometer in daylight, describing the display as too dim to determine vehicle speed without taking eyes off the road for several seconds. · 9 fire · 5 crash · 3 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -109,7 +109,7 @@
         "sample": "CANNOT READ OR EXTREMELY DIFFICULT TO READ THE SPEEDOMETER IN DAYLIGHT MOST OF THE TIME.   WORSE ON BRIGHTER DAYS.  MUST TAKE EYES OFF ROAD FOR SEVERAL SECONDS TO FIND NEEDLE TO DETERMINE SPEED.  ILLUMINATION IS FINE AT NIGHT OR IN VERY SHADED AREAS  (IE GARAGE).  SEEMS AS IF INS",
         "pct": 9,
         "title": "Exterior Lighting",
-        "blurb": "86 reports (9%) · 1 fire"
+        "blurb": "Owners report the speedometer needle is extremely difficult to locate in bright daylight conditions, with the problem worsening on sunnier days despite adequate illumination at night. · 1 fire"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "81 reports (8%) · 2 fire · 3 crash · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

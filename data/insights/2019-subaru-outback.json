@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Subaru Outback: electrical and visibility issues lead owner complaints",
-    "summary": "Owners filed 1,026 complaints with NHTSA. Two areas dominate: electrical system problems (361 reports, 35%) and visibility/wiper issues (326 reports, 32%) make up roughly two-thirds of all complaints. These are mostly nuisance and reliability headaches rather than safety events. The smaller categories matter more for risk: the forward collision avoidance system drew 36 reports tied to 8 crashes and 6 injuries, and engine complaints (39 reports) include 4 crashes, 1 injury, and 1 fire. Watch the driver-assist and engine items closely even though they are fewer in number.",
+    "summary": "The most commonly reported problem involves the electrical system, where owners describe the infotainment and navigation system freezing entirely and taking the backup camera and radio down with it. A large share of reports also concerns visibility and wipers, with many of those complaints similarly tied to the frozen infotainment display losing the backup camera feed. Windshield cracking and reduced engine braking behavior round out the remaining owner concerns.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "NAVIGATION SYSTEM FAILURE!  I HAVE 3200 MILES ON MY 2019 OUTBACK AND SINCE DAY 1 HAVE HAD PROBLEMS USING THE NAV SYSTEM.  THE SYSTEM FREEZES UP COMPLETELY CAUSING EVERYTHING NOT WORK RADIO BACK UP CAMERA ETC.  SYSTEMS STAYS ON AT NIGHT DRAINING BATTERY.  IT SPORADICALLY WORKS AND",
         "pct": 35,
         "title": "Electrical System",
-        "blurb": "The single most common complaint: 361 reports (35%), tied to 1 crash. Mostly reliability gripes rather than safety events."
+        "blurb": "Owners report the navigation system freezing completely from early ownership, causing the radio, backup camera, and other connected functions to stop working simultaneously. · 1 crash"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "NAVIGATION SYSTEM FAILURE!  I HAVE 3200 MILES ON MY 2019 OUTBACK AND SINCE DAY 1 HAVE HAD PROBLEMS USING THE NAV SYSTEM.  THE SYSTEM FREEZES UP COMPLETELY CAUSING EVERYTHING NOT WORK RADIO BACK UP CAMERA ETC.  SYSTEMS STAYS ON AT NIGHT DRAINING BATTERY.  IT SPORADICALLY WORKS AND",
         "pct": 32,
         "title": "Visibility/Wiper",
-        "blurb": "The second-biggest category: 326 reports (32%), with no crashes, fires, or injuries reported."
+        "blurb": "Owners report loss of the backup camera display, described in the context of the infotainment system freezing and taking visibility-related functions offline."
       },
       {
         "component": "VISIBILITY",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 SUBARU OUTBACK. THE CONTACT STATED THAT THERE WAS A SMALL CRACK IN THE MIDDLE OF THE FRONT WINDSHIELD. THE CRACK EXPANDED IN HOT WEATHER. THE CONTACT CALLED LANCASTER COUNTY MOTORS SUBARU (1705 MANHEIM PIKE, LANCASTER, PA 717-569-4514), BUT WAS NOT DIA",
         "pct": 6,
         "title": "Visibility",
-        "blurb": "62 reports (6%), with no crashes, fires, or injuries reported. A windshield-cracking pattern shows up in owner accounts."
+        "blurb": "Owners report small cracks appearing in the middle of the front windshield that expand further in hot weather conditions."
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "ENGINE DOES NOT BRAKE WHEN GOING DOWNHILL AS THE MANUAL SAYS IT SHOULD. MY PREVIOUS OUTBACKS (2006, 2011, 2017) DID HAVE ENGINE BRAKING. REGIONAL SERVICE OFFICE SUGGESTED I PLACE THE CAR IN CRUISE CONTROL IN ORDER  TO CONTROL THE SPEED. CAR PICKS UP SPEED QUICKLY, SO USING THE BR",
         "pct": 4,
         "title": "Engine",
-        "blurb": "Fewer reports (39, 4%) but higher stakes: 4 crashes, 1 injury, and 1 fire are tied to engine complaints."
+        "blurb": "Owners report that the engine does not provide braking force when traveling downhill, which they describe as a departure from the behavior of prior model generations of the same vehicle. · 1 fire · 4 crash · 1 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -123,6 +123,7 @@
         "title": "Forward Collision Avoidance",
         "blurb": "The most safety-relevant category: only 36 reports (4%) but 8 crashes and 6 injuries. Test the driver-assist features carefully."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

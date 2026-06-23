@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Braking is the top worry for 2018 Nissan Rogue owners",
-    "summary": "Across 612 owner complaints to NHTSA, braking dominates: Service Brakes is the single most reported area at 42% of all reports, and Forward Collision Avoidance adds another 27% — together more than two-thirds of complaints. A common thread is brakes engaging on their own. Service Brakes alone is tied to 11 crashes and 15 injuries; no fires were reported in any category. Electrical System (13%), Engine (8%), and Vehicle Speed Control (6%) round out the list.",
+    "summary": "The dominant pattern in owner complaints centers on unintended brake engagement — brakes activating suddenly without driver input, often while driving at normal speeds. A related cluster of reports involves the automatic emergency braking and forward collision avoidance system triggering unexpectedly in ordinary driving situations, including turns with no apparent hazard present. Electrical system anomalies and engine warning lights round out the complaint picture, sometimes occurring alongside the braking incidents.",
     "issues": [
       {
         "component": "SERVICE BRAKES",
@@ -73,7 +73,7 @@
         "sample": "ON APRIL 11, 2018, I WAS DRIVING MY BRAND NEW 2018 NISSAN ROGUE. I HAD JUST GOTTEN OFF THE HIGHWAY, AND WAS DRIVING STRAIGHT ALONG A CITY STREET WHEN SUDDENLY THE BRAKES SLAMMED ON, THRUSTING ME FORWARD AND GIVING ME A NEAR HEART ATTACK. I COULD HAVE BEEN KILLED OR SERIOUSLY INJU",
         "pct": 42,
         "title": "Service Brakes",
-        "blurb": "The biggest complaint by far: 255 reports (42%), with owners describing brakes slamming on unexpectedly. Linked to 11 crashes and 15 injuries — the most of any area here."
+        "blurb": "Owners report the brakes engaging abruptly and without driver input, causing the vehicle to lurch forward and in some cases accelerate unexpectedly after the brake event. · 11 crash · 15 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -85,7 +85,7 @@
         "sample": "BRAND NEW 2018 ROGUE WITH LESS THAN 700 MILES - THE AUTOMATIC BREAKING SYSTEMS ENGAGED FOR NO REASON  WHILE MAKING A LEFT HAND TURN.  THE CAR BEHIND ME HAD TO SWERVE NOT TO HIT ME  OTHER TIMES THE SENSOR LIGHT FOR THE AUTOMATIC BREAKING SYSTEM FLASHES. ON ANOTHER DAY  A WARNING C",
         "pct": 27,
         "title": "Forward Collision Avoidance",
-        "blurb": "The second most reported area: 164 reports (27%), often the automatic emergency braking activating when there is nothing in the way. Tied to 6 crashes and 9 injuries."
+        "blurb": "Owners report the automatic braking system activating without an apparent obstacle present, including during left turns, sometimes forcing following vehicles to swerve to avoid a collision. · 6 crash · 9 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 NISSAN ROGUE. WHILE DRIVING 40 MPH, THE BRAKES ENGAGED WITHOUT WARNING OR MANUAL PRESSURE. THE ANTI-LOCK BRAKES ENGAGED AND THE VEHICLE ACCELERATED FORWARD FOUR TIMES. IN ADDITION, AN UNKNOWN ORANGE WARNING INDICATOR ILLUMINATED AND THE DOORS LOCKED WI",
         "pct": 13,
         "title": "Electrical System",
-        "blurb": "81 reports (13%), including warning lights and brakes engaging without driver input. Linked to 4 crashes and 4 injuries."
+        "blurb": "Owners report brakes engaging without warning while the vehicle is moving, accompanied by unexpected acceleration and unidentified warning indicators appearing on the dashboard. · 4 crash · 4 injured"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT LEASED A 2018 NISSAN ROGUE. WHEN THE VEHICLE WAS PARKED, THE ENGINE INDICATOR ILLUMINATED. THERE WAS NO WARNING MESSAGE DISPLAYED. THE VEHICLE WAS TAKEN TO FUCCILLO NISSAN (3893 NY-31, LIVERPOOL, NY 13090, 315-944-3200) WHERE THE TECHNICIAN REPROGRAMMED THE COMPUT",
         "pct": 8,
         "title": "Engine",
-        "blurb": "52 reports (8%), such as the engine warning light coming on. Tied to 2 crashes, with no injuries reported."
+        "blurb": "Owners report the engine indicator light illuminating while the vehicle is parked, with no accompanying warning message explaining the cause. · 2 crash"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "The smallest group at 34 reports (6%), but a notable crash rate: 6 crashes and 6 injuries, with reports of unintended acceleration."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

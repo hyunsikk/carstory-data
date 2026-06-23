@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Honda Accord owners report most",
-    "summary": "Across 520 owner complaints to NHTSA, the most reported area is Electrical System (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system faults are the most commonly reported problem, with owners describing unexpected behavior from vehicle controls while the car is parked and unoccupied. Engine and fuel/propulsion complaints follow, including reports of stalling, fire risk, and a widely noted lag in throttle response when accelerating from a stop. Service brake reports center on the collision-detection system triggering unintended hard braking in active traffic.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HONDA ACCORD. WHILE THE VEHICLE WAS PARKED AND THE KEY WAS IN THE CONTACT'S POCKET, ALL THE WINDOWS AND SUN ROOF OPENED INADVERTENTLY. THE CONTACT NOTICED THE ISSUE WHEN SHE WALKED OUTSIDE TO THE VEHICLE. THE CONTACT ALSO STATED THAT THERE WAS NO MENTI",
         "pct": 28,
         "title": "Electrical System",
-        "blurb": "145 reports (28%) · 6 fire · 5 crash · 3 injured"
+        "blurb": "Owners report that windows and the sunroof open on their own while the vehicle is parked and the key is not in the ignition. · 6 fire · 5 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "ON THE NIGHT ON JULY 3, 2017 THE 2017 HONDA ACCORD WHICH WAS ONLY 5 WEEKS OLD WAS PARKED IN THE DRIVEWAY OF MY HOUSE. THE CAR WAS IN PARK AND THE MOTOR WAS TURNED OFF. YOU WOULD NOT BE ABLE TO REMOVE THE KEY UNLESS THE CAR WAS IN PARK.    THE CAR THAT WAS PARKED IN FRONT OF THE H",
         "pct": 12,
         "title": "Engine",
-        "blurb": "61 reports (12%) · 3 fire · 1 crash · 1 injured"
+        "blurb": "Owners report engine-related incidents occurring while the vehicle is parked and shut off, including situations where the car could not be left safely. · 3 fire · 1 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "ACCORDING TO MY LOCAL HONDA DEALER (HONDANATION KNOXVILLE), AND BASED ON MY OWN EXPERIENCE, THE 2017 HONDA ACCORDS HAVE A KNOWN \"ACCELERATION LAG\" PROBLEM. OFTEN WHEN ACCELERATING FROM A STATIONARY POSITION, OR EVEN A SLOW-TURN OR MERGE POSITION, THERE CAN BE A 1 TO 3 SECOND DELA",
         "pct": 10,
         "title": "Fuel/Propulsion System",
-        "blurb": "54 reports (10%) · 1 fire · 2 crash"
+        "blurb": "Owners and dealers report a known acceleration lag in which the vehicle fails to respond promptly when accelerating from a stationary or slow-moving position. · 1 fire · 2 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "COLLISION DETECTION SYSTEM FALSELY GOES OFF ON A REGULAR BASIS DUE TO OPPOSING TRAFFIC. SLAMS BRAKES TO FLOOR, OVERRIDING ACCELERATOR- HAS HAPPENED IN THE MIDDLE OF AN INTERSECTION TWICE AND ON A TWO WAY STRAIGHTAWAY WITH NO VEHICLE IN MY LANE. I'VE HAD THE CAR FOR 1 MONTH AND AL",
         "pct": 8,
         "title": "Service Brakes",
-        "blurb": "43 reports (8%) · 5 crash · 1 injured"
+        "blurb": "Owners report the collision-detection system falsely triggering and slamming the brakes to the floor in the presence of oncoming traffic, including mid-intersection events. · 5 crash · 1 injured"
       },
       {
         "component": "WHEELS",
@@ -123,6 +123,7 @@
         "title": "Wheels",
         "blurb": "43 reports (8%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

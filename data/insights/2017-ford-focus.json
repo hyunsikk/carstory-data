@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Ford Focus owners report most",
-    "summary": "Across 886 owner complaints to NHTSA, the most reported area is Power Train (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Power train complaints dominate the picture, with owners describing abnormal noises and shifting failures, particularly on inclines. Engine and fuel system problems account for much of the remaining reports, with owners noting stalling, hesitation, and unexpected warning lights. A smaller share of complaints involves engine cooling concerns triggered at startup.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 FORD FOCUS. THE CONTACT STATED THAT WHILE THE VEHICLE WAS OPERATED, THERE WAS ABNORMAL NOISE COMING FROM THE VEHICLE AND IT FAILED TO PROPERLY SHIFT WHEN DRIVING UP AN INCLINE. THE CONTACT ALSO STATED THAT THE VEHICLE EXPERIENCED HESITATION WHILE BEING",
         "pct": 50,
         "title": "Power Train",
-        "blurb": "446 reports (50%) · 5 crash · 2 injured"
+        "blurb": "Owners report abnormal noise during operation and failure to properly shift gears when driving up an incline. · 5 crash · 2 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "BRAND NEW FOCUS ELECTRIC, LESS THAN 3 DAYS OLD FROM DEALER ON 8/17/2017.  FOR THE LAST TWO DAYS, I HAVE DRIVEN LESS THAN 100 MILES.  CAR WAS CHARGED OVERNIGHT AND SHOWS FULL CHARGE THIS MORNING.  I DROVE THE CAR LESS THAN 30 MILES TODAY.  IN THE EVENING, WHEN I WAS DRIVING, THE C",
         "pct": 25,
         "title": "Engine",
-        "blurb": "225 reports (25%) · 1 fire · 4 crash · 3 injured"
+        "blurb": "Owners of the electric variant report the vehicle behaving unexpectedly despite showing a full charge after overnight charging and minimal mileage driven. · 1 fire · 4 crash · 3 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 FORD FOCUS. WHILE OPERATING THE VEHICLE WITH THE FUEL TANK HALF FULL, THE VEHICLE HESITATED AND NEARLY STALLED. THE VEHICLE WAS TAKEN TO BOB GILLINDHAM FORD(8383 BROOKPARK RD, PARMA, OH) TO BE DIAGNOSED, BUT THE FAILURE COULD NOT BE DUPLICATED. THE VEH",
         "pct": 13,
         "title": "Fuel/Propulsion System",
-        "blurb": "115 reports (13%) · 2 crash · 2 injured"
+        "blurb": "Owners report the vehicle hesitating and nearly stalling while operating with a partially full fuel tank. · 2 crash · 2 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -109,7 +109,7 @@
         "sample": "The contact owns a 2017 Ford Focus. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to an independent mechanic where it was diagnosed that the purge valve had failed. The contact stated that the vehicle was repa",
         "pct": 9,
         "title": "Engine And Engine Cooling",
-        "blurb": "78 reports (9%)"
+        "blurb": "Owners report the check engine warning light illuminating upon starting the vehicle, leading to diagnosis at independent repair shops."
       },
       {
         "component": "FUEL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel System",
         "blurb": "60 reports (7%) · 1 fire"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

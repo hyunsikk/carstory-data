@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Chevrolet Impala owners report most",
-    "summary": "Across 630 owner complaints to NHTSA, the most reported area is Electrical System (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system faults are the most-reported problem category, with owners describing battery failures that caused physical damage to nearby components. Steering complaints frequently involve loss of vehicle control during cornering, while a notable share of reports describe the StabiliTrak stability-control system triggering autonomously and reducing engine power without driver input. Brake-related complaints overlap with the steering and stability-control accounts, appearing in loss-of-control incidents on slippery roads.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "BATTERY LEAKED DOWN THE FRAME AND WAS EATING THE 2 TRANY COOLER ALUMINUM LINES. AUTONATION CHEVROLET SUPERSTITION SPRINGS IN MESA, AZ PUT  A NEW BATTERY AND 2 NEW TRANY COOLER LINES ON, BUT AFTER THE 4TH ATTEMPT CAN NOT GET ALL OF THE ACID CLEANED UP. ENGINE CRADLE STILL HAS NO P",
         "pct": 35,
         "title": "Electrical System",
-        "blurb": "220 reports (35%) · 5 fire · 1 crash"
+        "blurb": "Owners report battery failure accompanied by leakage that damaged adjacent metal components, with some cases requiring multiple repair attempts before the problem was resolved. · 5 fire · 1 crash"
       },
       {
         "component": "STEERING",
@@ -85,7 +85,7 @@
         "sample": "AT 55 MPH ON A SLIPPERY RIGHT HAND SIDE CURVE (SPEED LIMIT IS 65 MPH) VEHICLE UNDER-STEERED AND LOST TRACTION COMPLETELY, WITHOUT TOUCHING THE BRAKES, IT STARTED TO SLOW DOWN AND SKIDDED TO THE OUTSIDE OF THE CURVE (TO THE LEFT). I TRIED TO GET IT BACK TO THE DRIVING LANE, IT STA",
         "pct": 22,
         "title": "Steering",
-        "blurb": "137 reports (22%) · 5 crash · 1 injured"
+        "blurb": "Owners report the vehicle understeering and losing traction entirely during cornering at highway speeds, causing the car to skid toward the outside of a curve without brake input. · 5 crash · 1 injured"
       },
       {
         "component": "ELECTRONIC STABILITY CONTROL (ESC)",
@@ -97,7 +97,7 @@
         "sample": "AT 70 MPH VEHICLE SLOWED ON ITS OWN. VEHICLE INFORMATION CENTER READ \"STABILITRAK AND ENGINE POWER IS REDUCED\". GOT YELLOW TRACTION CONTROL SYSTEM LIGHT ON THE INSTRUMENT PANEL WITH A \"MALFUNCTION INDICATOR LIGHT\" BELOW THE SPEEDOMETER.ENGINE RUNNING ROUGH AT ASHLAND, VA EXIT.ENG",
         "pct": 17,
         "title": "Electronic Stability Control (Esc)",
-        "blurb": "104 reports (17%)"
+        "blurb": "Owners report the vehicle slowing on its own at highway speeds while the information center displays a StabiliTrak malfunction message alongside a traction-control warning light and a malfunction indicator light."
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "AT 55 MPH ON A SLIPPERY RIGHT HAND SIDE CURVE (SPEED LIMIT IS 65 MPH) VEHICLE UNDER-STEERED AND LOST TRACTION COMPLETELY, WITHOUT TOUCHING THE BRAKES, IT STARTED TO SLOW DOWN AND SKIDDED TO THE OUTSIDE OF THE CURVE (TO THE LEFT). I TRIED TO GET IT BACK TO THE DRIVING LANE, IT STA",
         "pct": 14,
         "title": "Service Brakes",
-        "blurb": "90 reports (14%) · 2 fire · 6 crash · 1 injured"
+        "blurb": "Owners report loss of traction and uncontrolled skidding on slippery curves, with the vehicle decelerating and drifting wide even when brakes were not applied. · 2 fire · 6 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -123,6 +123,7 @@
         "title": "Engine",
         "blurb": "56 reports (9%) · 3 fire · 2 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

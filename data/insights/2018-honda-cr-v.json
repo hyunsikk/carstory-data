@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Honda CR-V: engine and braking-assist complaints lead the pack",
-    "summary": "Owners filed 2,055 complaints with NHTSA. The biggest cluster is the engine at 503 reports (24%), followed by the forward-collision/automatic-braking system at 383 (19%) and the fuel system at 360 (18%). Steering and electrical round out the top five. The forward-collision system drew the most injuries (10), and one engine report involved a fire. Watch for sudden stalling, automatic braking that triggers with nothing ahead, and gas mixing into the engine oil.",
+    "summary": "Engine stalling, brake failure, and fuel-system contamination are the most commonly reported problems among owners of this CR-V generation. A large share of complaints also involve the automatic forward-collision braking system activating unexpectedly, sometimes triggering crashes, and the steering and driver-assistance systems going offline together. Taken together, the complaints cluster around powertrain reliability and the behavior of the electronic safety systems.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 HONDA CR-V. WHILE DRIVING 45 MPH, THE BRAKES FAILED AND THE VEHICLE STALLED WITHOUT WARNING. THE ABS INDICATOR ILLUMINATED AFTER THE FAILURE. ON ANOTHER OCCASION, WHILE DRIVING 25 MPH, THE BRAKES FAILED AND THE VEHICLE STALLED WITHOUT WARNING AGAIN. TH",
         "pct": 24,
         "title": "Engine",
-        "blurb": "The single most-reported area: 503 complaints (24%). Owners describe the vehicle stalling without warning while driving. Tied to 4 crashes, 3 injuries, and 1 fire."
+        "blurb": "Owners report the engine stalling without warning while driving, accompanied by brake failure and illumination of the ABS indicator light. · 1 fire · 4 crash · 3 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 HONDA CR-V. THE CONTACT STATED THAT THE AUTOMATIC BRAKING FEATURE ACTIVATED WHEN THERE WAS NO OBJECT IN FRONT OF THE VEHICLE. IN ADDITION, \"BRAKE\" DISPLAYED ON THE CONTROL PANEL. THE VEHICLE WAS TAKEN TO ROUND ROCK HONDA (2301 N INTERSTATE HWY 35, ROUN",
         "pct": 19,
         "title": "Forward Collision Avoidance",
-        "blurb": "383 complaints (19%) and the most injuries of any area (10). Owners report automatic braking kicking in when nothing is ahead. Linked to 4 crashes."
+        "blurb": "Owners report the automatic braking feature activating when no object is present ahead of the vehicle, with a brake warning displayed on the control panel. · 4 crash · 10 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "LIKE MANY OTHER 2017-2018 HONDA CR-V OWNERS, I DISCOVERED A SIGNIFICANT AMOUNT OF GASOLINE IN THE OIL RESERVOIR OF MY VEHICLE AFTER NORMAL USAGE. IN LESS THAN A MONTH OF OWNERSHIP AND LESS THAN 1,000 MILES DRIVEN, MY CR-V'S OIL RESERVOIR WAS 0.5 QUARTS OVER FULL DUE TO DILUTION F",
         "pct": 18,
         "title": "Fuel/Propulsion System",
-        "blurb": "360 complaints (18%). A common theme is gasoline diluting the engine oil, raising the oil level above full. Linked to 5 crashes and 3 injuries."
+        "blurb": "Owners report discovering a significant amount of gasoline contaminating the engine oil reservoir after normal use and within a short period of ownership. · 5 crash · 3 injured"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "I PURCHASED MY FIRST HONDA CR-B 2018 AT THE END OF SEPT. 2018 AND TODAY IS NOV 4, 2018 AND THIS CAR HAS BEEN OUT OF ORDER FOR @4 WEEKS. THE CRUISE CONTROL SYSTEM, LANE DEPARTURE SYSTEM, VEHICLE DISTANT CONTROL SYSTEM, AND THE BRAKE SYSTEM LIGHTS ARE ALL LIT UP AND FLASHING. NONE ",
         "pct": 14,
         "title": "Steering",
-        "blurb": "293 complaints (14%), often with multiple driver-assist and warning lights lit at once. Linked to 5 crashes and 3 injuries."
+        "blurb": "Owners report the cruise control, lane departure, and vehicle distance control systems all failing simultaneously, leaving the vehicle out of service for extended periods. · 5 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "269 complaints (13%). Owners report dead or drained batteries, including no-start after the car sits parked. Linked to 5 crashes and 3 injuries."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

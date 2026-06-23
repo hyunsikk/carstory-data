@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Chevrolet Silverado 1500: power train tops owner complaints",
-    "summary": "Across 504 owner complaints to NHTSA, power train problems lead by a wide margin at 165 reports (33%), followed by electrical system, engine, and service brakes (each 96-97 reports, 19%). Owners describe sudden loss of power steering, stalling, and the engine shutting off while driving. Engine and electrical reports each include 2 fires, and service brakes account for 3 crashes.",
+    "summary": "The most-reported problems center on the power train, with owners describing sudden loss of power steering accompanied by dashboard warnings and the vehicle becoming immobile. Electrical, engine, and service brake complaints are each nearly as common, and together they paint a pattern of unexpected shutdowns and loss of critical assist systems while driving at low speeds. Several complaint categories include reports of fires and crashes, indicating that some incidents escalated beyond warning lights alone.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "TRUCK STATIONARY. STARTED ENGINE. IMMEDIATELY MESSAGE SHOWED UP ON DASHBOARD INDICATING STEERING ASSIST LOW, DRIVE CAREFULLY. NO POWER STEERING. TRACTION CONTROL WARNING LIT. SHIFTED INTO REVERSE; TRUCK WOULD NOT MOVE AS IF IN NEUTRAL. TRUCK MOVE MOVE FORWARD IN DRIVE. SHUT OFF E",
         "pct": 33,
         "title": "Power Train",
-        "blurb": "Most-reported area by far: 165 complaints (33%), with 1 crash and 2 injuries. Owners describe loss of power steering and the truck failing to move when shifted into gear."
+        "blurb": "Owners report the vehicle becoming unable to move after startup, with the dashboard displaying a low steering assist warning, loss of power steering, and traction control lights illuminating simultaneously. · 1 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET SILVERADO 1500. WHILE DRIVING APPROXIMATELY 25 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS ABLE TO RESTART. THE VEHICLE WAS TAKEN TO THE DEALER (LAKE CHEVROLET, 31201 AUTO CENTER DR, LAKE ELSINORE, CA 92530) WHERE IT WAS EXPLAIN",
         "pct": 19,
         "title": "Electrical System",
-        "blurb": "97 complaints (19%), including 2 fires, 1 crash, and 1 injury. Owners report the truck stalling without warning while driving."
+        "blurb": "Owners report the vehicle stalling without warning while in motion, though in some cases the engine can be restarted immediately afterward. · 2 fire · 1 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "VEHICLES ENGINE AND IGNITION SHUT OFF WHILE TURNING RIGHT. ENGINE CAN BE RESTARTED IMMEDIATELY. THIS HAS OCCURRED 3 TIMES IN 3 WEEKS (1090 MILES) UNEXPECTEDLY WHILE TRAVELING AT LOW SPEED. ONE TIME WHILE ENTERING A ROADWAY FROM A PARKING LOT, ONE TIME WHILE PULLING OVER TO PARK A",
         "pct": 19,
         "title": "Engine",
-        "blurb": "96 complaints (19%), including 2 fires. Owners report the engine shutting off unexpectedly at low speed, then restarting."
+        "blurb": "Owners report the engine and ignition shutting off unexpectedly during low-speed maneuvers such as turning, with the engine able to restart immediately, and the event recurring multiple times over a short period. · 2 fire"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "THE BRAKE PEDDLE WENT SOLID HARD AND LOSS OF BRAKING HAPPENED WHILE BACKING A BOAT TRAILER DOWN A BOAT LAUNCH RAMP.  WHEN THE BRAKES FAILED THE DASH FLASHED SERVICE BRAKE ASSIST. LOSS OF POWER BRAKES CAUSED THE TRUCK TO NOT STOP EVEN WITH PUSHING DOWN ON THE PEDDLE AS HARD AS POS",
         "pct": 19,
         "title": "Service Brakes",
-        "blurb": "96 complaints (19%) and the biggest crash risk here: 3 crashes, plus 1 fire and 1 injury. Owners report the brake pedal going hard and loss of braking power."
+        "blurb": "Owners report the brake pedal going hard and unresponsive, resulting in loss of braking ability, with the dashboard displaying a service brake assist warning during the failure. · 1 fire · 3 crash · 1 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "41 complaints (8%), with 3 crashes. Owners report a low-steering-assist warning and loss of power steering."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

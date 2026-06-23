@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2019 Jeep Wrangler owners report most",
-    "summary": "Across 715 owner complaints to NHTSA, the most reported area is Steering (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Steering complaints dominate owner reports for this model year, with many describing an uncontrollable shaking or wobbling while cornering or driving over bumps — a symptom owners have termed \"death wobble.\" Electrical system and suspension issues make up the next largest share of complaints, followed by powertrain incidents that include engine problems and, in some cases, vehicle fires. Across all areas, a recurring theme is that affected vehicles were taken out of service at dealerships for extended periods.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "VEHICLE HAS BEEN AT DEALER SINCE OCTOBER WITH WHAT I HAVE FOUND BY RESEARCH TO BE CALLED A \"DEATH WOBBLE\" THE VEHICLE SHAKES UNCONTROLLABLE AROUND CORNER AND OVER BUMPS AND CANNOT BE DRIVEN. I HAVE CONTACTED JEEP CUSTOMER SERVICE SEVERAL TIMES PER WEEK SINCE THIS HAS STARTED WITH",
         "pct": 61,
         "title": "Steering",
-        "blurb": "439 reports (61%) · 3 crash · 1 injured"
+        "blurb": "Owners report the vehicle shaking uncontrollably when cornering or going over bumps, a condition some owners refer to as 'death wobble,' which they describe as making the vehicle undrivable. · 3 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "PUSH BUTTON START WITH KEYLESS ENTRY.  VEHICLE DOES NOT GIVE AUDIBLE WARNING WHEN YOU LEAVE THE VEHICLE RUNNING ON EXIT.   THIS IS A SAFETY HAZARD AND COULD CAUSE DEATH IF PARKED IN YOUR HOME GARAGE.  IT IS VERY EASY PUT THE GEARSHIFT IN PARK AND EXIT THE VEHICLE WITHOUT TURNING ",
         "pct": 19,
         "title": "Electrical System",
-        "blurb": "138 reports (19%) · 3 fire · 3 crash · 2 injured"
+        "blurb": "Owners report that keyless push-button start vehicles continue running after the driver exits without providing an audible warning, which owners flag as a potential carbon monoxide hazard in enclosed spaces such as a home garage. · 3 fire · 3 crash · 2 injured"
       },
       {
         "component": "SUSPENSION",
@@ -97,7 +97,7 @@
         "sample": "VEHICLE HAS BEEN AT DEALER SINCE OCTOBER WITH WHAT I HAVE FOUND BY RESEARCH TO BE CALLED A \"DEATH WOBBLE\" THE VEHICLE SHAKES UNCONTROLLABLE AROUND CORNER AND OVER BUMPS AND CANNOT BE DRIVEN. I HAVE CONTACTED JEEP CUSTOMER SERVICE SEVERAL TIMES PER WEEK SINCE THIS HAS STARTED WITH",
         "pct": 18,
         "title": "Suspension",
-        "blurb": "132 reports (18%)"
+        "blurb": "Owners report uncontrollable shaking and vibration when driving over bumps or around corners, consistent with the steering-related 'death wobble' symptom, leaving the vehicle undrivable and requiring dealer service."
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "WHILE DRIVING TO WORK HAD PROBLEMS WITH ENGINE REVVING TRYING TO SHIFT THERE WAS A LOUD BANG, PULLED OFF THE ROAD, STARTED SEEING SMOKE COME FROM THE VEHICLE THEN WAS ENGULFED IN FLAMES AND BURNED COMPLETELY UP.  THERE IS A COMPLAINT WITH FCA CASE NUMBER 58132542  THE VEHICLE WAS",
         "pct": 11,
         "title": "Power Train",
-        "blurb": "76 reports (11%) · 4 fire · 1 crash"
+        "blurb": "Owners report engine revving, difficulty shifting, loud banging sounds, and in some cases smoke and fire that fully engulfed the vehicle while driving. · 4 fire · 1 crash"
       },
       {
         "component": "ENGINE",
@@ -123,6 +123,7 @@
         "title": "Engine",
         "blurb": "40 reports (6%) · 4 fire · 1 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

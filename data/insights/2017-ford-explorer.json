@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Ford Explorer owners report most",
-    "summary": "Across 1,657 owner complaints to NHTSA, the most reported area is Structure (39% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Structure complaints dominate owner reports for the Ford Explorer, with windshield molding detaching at highway speeds representing the most commonly described symptom. A notable thread of engine complaints centers on exhaust gases entering the passenger cabin, particularly under acceleration or when the air conditioning is running. Electrical and powertrain issues round out the picture, with owners describing intermittent lighting failures and unexpected vehicle movement after shutoff.",
     "issues": [
       {
         "component": "STRUCTURE",
@@ -73,7 +73,7 @@
         "sample": "WHEN DRIVING ON THE PENNSYLVANIA STATE TURNPIKE (70 MPH) THE MOLDING ON THE RIGHT-HAND SIDE OF THE WINDSHIELD DETACHED FROM THE VEHICLE.   UPON RETURNING HOME I NOTICED THAT THE SAME PIECE ON THE LEFT-HAND SIDE MOLDING OF THE FRONT WINDSHIELD WAS CRACKED.   THIS HAPPENED MIDDAY O",
         "pct": 39,
         "title": "Structure",
-        "blurb": "639 reports (39%) · 2 fire · 7 crash · 7 injured"
+        "blurb": "Owners report windshield molding detaching from the vehicle while driving at highway speeds, with the problem occurring on both the driver and passenger sides. · 2 fire · 7 crash · 7 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "EXHAUST GASES ENTERING THE PASSENGER CABIN, CAUSING BAD SMELL, USUALLY UNDER LOAD, DURING HILL CLIMBING, MODERATE TO HARD ACCELERATION WHEN JOINING INTERSTATE OR FASTER ROADS, AC IN USE, WITH OR WITHOUT RECIRCULATION ON, SYMPTOMS OF SORE RUNNY EYES AND HEADACHE AND NAUSEA IN CHIL",
         "pct": 14,
         "title": "Engine",
-        "blurb": "234 reports (14%) · 3 fire · 7 crash · 12 injured"
+        "blurb": "Owners report exhaust gases entering the passenger cabin, described as a bad smell that occurs under load — such as during hill climbing or acceleration onto faster roads — with or without the air conditioning recirculation active. · 3 fire · 7 crash · 12 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "UPON PARKING OUR BRAND NEW EXPLORER IN OUR DRIVEWAY (IT HAS A 10 DEGREE SLANT), WE TURNED OFF THE KEYLESS/PUSH BUTTON IGNITION, BUT MY HUSBAND ACCIDENTALLY HAD IT IN DRIVE. OUR SMALL CHILDREN WERE UNCLIPPING THEIR SEATBELTS AND STARTING TO GET OUT OF THE VEHICLE WHEN MY HUSBAND T",
         "pct": 7,
         "title": "Power Train",
-        "blurb": "120 reports (7%) · 4 crash · 1 injured"
+        "blurb": "Owners report the vehicle rolling or moving after the push-button ignition is turned off when the transmission is inadvertently left in Drive. · 4 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "ON 09/15/16 WE PURCHASED A 2017 FORD EXPLORER LIMITED  FROM SUPREME FORD  OF SLIDELL, LA. TWO WEEKS AFTER HAVING THE SUV, WE NOTICED THE RIGHT TAIL LIGHT WAS NOT WORKING AT TIMES. ON 11/16/2016, WE DROVE THE VEHICLE BACK TO THE DEALERSHIP TO REPAIR THE  LIGHT. WHEN THE SALES MANA",
         "pct": 5,
         "title": "Electrical System",
-        "blurb": "89 reports (5%) · 5 fire · 3 crash"
+        "blurb": "Owners report tail lights failing to illuminate intermittently, noticed shortly after taking delivery of the vehicle. · 5 fire · 3 crash"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -123,6 +123,7 @@
         "title": "Engine And Engine Cooling",
         "blurb": "76 reports (5%) · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

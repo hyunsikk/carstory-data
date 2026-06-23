@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Jeep Cherokee owners report most",
-    "summary": "Across 1,320 owner complaints to NHTSA, the most reported area is Power Train (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Powertrain complaints dominate owner reports for this model, with transmission behavior being the most common concern. Electrical system failures, including unexpected shutdowns while driving, make up the next largest share of complaints, with some incidents involving fires or crashes. Engine and speed control issues round out the picture, with owners describing stop/start system interruptions and unintended acceleration during cruise control use.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "THE SO CALLED, 9 SPEED TRANSMISSION ISN'T A 9 SPEED. IT NEVER, UNDER ANY CIRCUMSTANCES, HITS 9TH GEAR. THE JEEP SERVICE TECH TOLD ME THAT THERE'S NOTHING WRONG WITH THE TRANSMISSION, BUT HE KNOWS THAT IT WILL NEVER HIT 9TH. ALSO, I HAVE EXPERIENCED A VERY SCARY MOMENT WHEN I SHIF",
         "pct": 48,
         "title": "Power Train",
-        "blurb": "637 reports (48%) · 5 crash · 3 injured"
+        "blurb": "Owners report that the nine-speed transmission fails to engage its highest gear under any driving conditions, with dealers acknowledging the behavior but describing it as normal. · 5 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "NEW 2017 JEEP CHEROKEE HAS COMPLETELY AND RANDOMLY SHUT OFF/SHUT DOWN WHILE DRIVING THREE TIMES. EXTREMELY DANGEROUS FAILURE MODE! VEHICLE HAS LESS THAN 2000 MILES AND IS LESS THAN 3 MONTHS OLD.    FIRST INSTANCE: APRIL 27, 2017. DAUGHTER DRIVING. GOING UP A HILL ON CITY ROAD AT ",
         "pct": 26,
         "title": "Electrical System",
-        "blurb": "341 reports (26%) · 3 fire · 3 crash · 1 injured"
+        "blurb": "Owners report the vehicle completely and randomly shutting down while in motion, with some incidents occurring on vehicles with very low mileage within months of purchase. · 3 fire · 3 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "STOP/START FEATURE DANGER:  I WAS MAKING A LEFT TURN, PULLING OUT FROM A DRIVEWAY IN HEAVY CROSS TRAFFIC. I WAS PULLING ONTO A FOUR LANE ROAD. JUST AS I STARTED TO LIFT MY FOOT FROM THE BRAKE, THE STOP/START FEATURE SHUT THE ENGINE OFF. THERE WAS A FULL TWO SECONDS BEFORE THE ENG",
         "pct": 19,
         "title": "Engine",
-        "blurb": "256 reports (19%) · 2 fire · 3 crash · 1 injured"
+        "blurb": "Owners report that the stop/start feature cuts engine power at critical moments, such as mid-turn when pulling into traffic, interrupting acceleration when it is needed most. · 2 fire · 3 crash · 1 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 JEEP CHEROKEE. WHILE DRIVING 65 MPH WITH THE CRUISE CONTROL ACTIVATED, THE VEHICLE INDEPENDENTLY ACCELERATED AND THE ENGINE REVVED. AFTER APPLYING THE BRAKES, THE VEHICLE RESUMED NORMAL SPEED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE LOCAL DEALER",
         "pct": 5,
         "title": "Vehicle Speed Control",
-        "blurb": "60 reports (5%) · 2 crash · 2 injured"
+        "blurb": "Owners report that while cruise control is active, the vehicle independently accelerates and the engine revs without driver input, returning to normal speed only after brakes are applied. · 2 crash · 2 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "58 reports (4%) · 4 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

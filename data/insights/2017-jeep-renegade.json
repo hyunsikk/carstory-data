@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Jeep Renegade owners report most",
-    "summary": "Across 559 owner complaints to NHTSA, the most reported area is Engine (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate reports for this model year, with the most common pattern being unexpected stalling or power loss while driving, sometimes at highway speeds. Electrical system faults and fuel or propulsion issues also appear frequently, often producing similar symptoms of sudden loss of power or difficulty starting. Across all four component areas, owners describe failures that occurred without warning, in some cases during active driving maneuvers.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 JEEP RENEGADE. WHILE DRIVING 75 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO BILL LUKE CHRYSLER JEEP DODGE RAM (2425 W CAMELBACK RD, PHOENIX, AZ 85015), BUT THE FAILURE COULD NOT BE DUPLICATED OR DIAGNOSED. THE VEHICLE WAS NOT REP",
         "pct": 47,
         "title": "Engine",
-        "blurb": "265 reports (47%) · 3 fire · 2 crash · 3 injured"
+        "blurb": "Owners report the vehicle stalling without warning while driving at speed, requiring dealer service visits that did not always resolve the condition. · 3 fire · 2 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "I PURCHASED MY 2017 JEEP RENEGADE 4X4 ALTITUDE ON MARCH 2, 2017. WITHIN TWO WEEKS BEFORE I HAD 300 MILES ON THE VEHICLE I EXPERIENCED WHAT CAN ONLY BE DESCRIBED AS POWER LOSS IN THE MIDDLE OF AN INTERSECTION DURING A U-TURN. THIS U-TURN WAS NOT AS ACCELERATED SPEEDS IN EXCESS OF ",
         "pct": 26,
         "title": "Electrical System",
-        "blurb": "147 reports (26%) · 4 fire · 3 crash"
+        "blurb": "Owners describe sudden, complete power loss occurring in the middle of active driving, including during turns at intersections, with some incidents happening on nearly new vehicles. · 4 fire · 3 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "AFTER FILLING GAS TANK, I TRIED TO START CAR AND IT TOOK A COUPLE OF TRIES TO GET IT TO CRANK OVER.  ONCE IT STARTED, THE CAR WAS MAKING AN INTENSE KNOCKING NOISE AND SPUTTERING SO VIOLENTLY IT ACTUALLY CAUSED THE WHOLE CAR TO ROCK. AFTER A FEW MINUTES IT SETTLED DOWN AND I PULLE",
         "pct": 21,
         "title": "Fuel/Propulsion System",
-        "blurb": "118 reports (21%) · 1 crash"
+        "blurb": "Owners report difficulty starting after refueling, accompanied by intense knocking noises and violent sputtering severe enough to shake the entire vehicle. · 1 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "I PURCHASED MY 2017 JEEP RENEGADE 4X4 ALTITUDE ON MARCH 2, 2017. WITHIN TWO WEEKS BEFORE I HAD 300 MILES ON THE VEHICLE I EXPERIENCED WHAT CAN ONLY BE DESCRIBED AS POWER LOSS IN THE MIDDLE OF AN INTERSECTION DURING A U-TURN. THIS U-TURN WAS NOT AS ACCELERATED SPEEDS IN EXCESS OF ",
         "pct": 17,
         "title": "Power Train",
-        "blurb": "94 reports (17%) · 3 crash"
+        "blurb": "Owners describe sudden power loss while the vehicle is in motion, including during low-speed turning maneuvers at intersections on vehicles with very few miles. · 3 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "29 reports (5%) · 3 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

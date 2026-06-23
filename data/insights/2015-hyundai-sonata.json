@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Hyundai Sonata owners report most",
-    "summary": "Across 1,119 owner complaints to NHTSA, the most reported area is Engine (54% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine problems dominate owner complaints for this Sonata model year, with reports of erratic running, unexpected stalling, and check-engine light activation — including incidents involving fire. Electrical faults and powertrain failures also appear frequently, with owners describing inaccurate gauge readings and transmission-like slipping under acceleration. Service brake concerns round out the pattern, with some incidents occurring in active traffic.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "THIS IS A NEW HYUNDAI SONATA 2015. THE ENGINE CHECK LIGHT CAME ON AND THE ENGINE STARTED RUNNING ERRATICALLY. THE FOLLOWING SYMPTOMS CAN BE A SAFETY CONCERNS:  1. SOMETIMES WHEN IDLING AT INTERSECTION THE ENGINE RPM GOES UP ALL OF A SUDDEN AND THE CAR STARTS MOVING FORWARD AND ON",
         "pct": 54,
         "title": "Engine",
-        "blurb": "607 reports (54%) · 34 fire · 4 crash · 10 injured"
+        "blurb": "Owners report the check-engine light activating alongside erratic engine behavior, including unstable idle RPM at intersections, with some incidents involving fire or crashes. · 34 fire · 4 crash · 10 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "BRAND NEW CAR PURCHASED AND FEW ISSUES.  1. GAS GAUGE ONLY GOES UP TO 7/8 EVEN WITH FULL TANK FILL UP.  2. GAS MILEAGE DOES NOT SEEM TO INDICATE CORRECT MILEAGE. WITH FULL TANK GAS, THE INDICATOR SHOWS 450+ MILES, BUT ACTUAL MILEAGE IS 300~350 MILES.  3. ERROR OCCURS WHEN PLAYING",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "165 reports (15%) · 16 fire · 3 crash · 7 injured"
+        "blurb": "Owners report inaccurate fuel gauge readings — the gauge fails to reach full even after a complete fill-up — along with incorrect range estimates displayed by the vehicle. · 16 fire · 3 crash · 7 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I WENT TO ACCELERATE, BY DEPRESSING THE ACCELERATOR, AND THE ENGINE REVVED HIGH, BUT, THE CAR DID NOT ACCELERATE AND THERE DIDN'T APPEAR TO BE POWER AT THE WHEELS. IT ACTED AS IF THE TRANSMISSION WAS SLIPPING. I LET OFF OF THE PEDAL AND IT DOWNSHIFTED AND POWER TO THE WHEELS WAS ",
         "pct": 12,
         "title": "Power Train",
-        "blurb": "131 reports (12%) · 1 crash · 2 injured"
+        "blurb": "Owners report the engine revving high under acceleration while the vehicle fails to move forward, describing the sensation as the transmission slipping and power not reaching the wheels. · 1 crash · 2 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "I PURCHASED MY HYUNDAI SONATA ON 1/05/2015 WITH ONLY 6 MILES FROM SHEEHY HYUNDAI OF WALDOR IN MARYLAND      AFTER 11 DAYS OF PURCHASE ON JANUARY 16 2015 AT APPROXIMATELY 5:45 PM (RUSH HOUR IN THE DC METRO AREA) MY SONATA CAME TO AN ABRUPT STOP WITHOUT ANY WARNING SIGNS ON THE HIG",
         "pct": 7,
         "title": "Service Brakes",
-        "blurb": "75 reports (7%) · 5 fire · 11 crash · 7 injured"
+        "blurb": "Owners report brake-related incidents occurring shortly after purchase, some during active commuter traffic, with a subset of reports involving fire or crashes. · 5 fire · 11 crash · 7 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "74 reports (7%) · 4 crash · 4 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

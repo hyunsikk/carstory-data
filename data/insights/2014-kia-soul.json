@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Kia Soul owners report most",
-    "summary": "Across 888 owner complaints to NHTSA, the most reported area is Engine (61% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine problems are the dominant complaint pattern for this model, with owners describing sudden power loss and persistent check-engine lights that dealers repeatedly fail to resolve. Exterior lighting and electrical system faults — including at least one report of a seat catching fire — account for a significant share of remaining complaints. Powertrain issues round out the picture, with owners noting hesitation during gear shifts and sluggish acceleration.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I HAVE HAD MY CAR TO THE DEALER 4 TIMES FOR THIS SAME ISSUE WHICH STILL HAS NOT BEEN FIXED. THE ENGINE LIGHT COMES ON WHEN IT WANTS TOO AND THEN THERE IS VERY LITTLE POWER IN 1, 2,AND 3RD GEARS THIS IS A MANUAL TRANS. I ALMOST GOT HIT  IN THE SIDE BECAUSE OF PULLING FROM A STOP S",
         "pct": 61,
         "title": "Engine",
-        "blurb": "545 reports (61%) · 51 fire · 5 crash · 5 injured"
+        "blurb": "Owners report the check-engine light activating unpredictably, accompanied by a severe reduction in power across the lower gears that persists even after multiple dealer visits. · 51 fire · 5 crash · 5 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -85,7 +85,7 @@
         "sample": "I HAD AN EMERGENCY AND TRIED AT NIGHT TO UNLOCK ELECTRIC DOORS FOR MY PASSENGERS AND I. UPON ATTEMPTING TO MANAGE THE EMERGENCY AND UNLOCK THE DOOR FOR MY PASSENGERS TO EXIT THE VEHICLE, I WAS GREATLY DELAYED BECAUSE THE \"UNLOCK LIGHT IS NON FUNCTIONING\" AND CAN'T BE SEEN IN THE ",
         "pct": 15,
         "title": "Exterior Lighting",
-        "blurb": "130 reports (15%) · 1 fire"
+        "blurb": "Owners report difficulty unlocking electric doors at night, with the door-unlock system failing to respond promptly during urgent situations. · 1 fire"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT RENTED A 2014 KIA SOUL. THE CONTACT STATED THAT THE PASSENGER'S SIDE HEATED SEAT CAUGHT ON FIRE AND BURNED TWO HOLES THROUGH THE SEAT. THE CONTACT INFORMED THE RENTAL AGENCY OF THE FIRE. THE CONTACT DID NOT CALL THE VEHICLE MANUFACTURER. THE VEHICLE WAS REMOVED FR",
         "pct": 11,
         "title": "Electrical System",
-        "blurb": "97 reports (11%) · 15 fire · 4 crash · 2 injured"
+        "blurb": "Owners report electrical faults serious enough to cause a heated seat to ignite, burning through the seat material. · 15 fire · 4 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "TL- THE CONTACT OWNS A 2014 KIA SOUL. THE CONTACT STATED THAT THE VEHICLE HESITATED CONSTANTLY WHEN SHIFTING GEARS AND WAS SLOW TO PICK UP SPEED. THE VEHICLE WAS TAKEN TO A DEALER, WHO RECOMMENDED REPLACING THE TIMING BELT BUT DID NOT PROVIDE A SPECIFIC DIAGNOSIS TO REMEDY THE FA",
         "pct": 6,
         "title": "Power Train",
-        "blurb": "56 reports (6%) · 4 fire · 1 crash · 1 injured"
+        "blurb": "Owners report the vehicle hesitating repeatedly when shifting gears and being slow to build speed, with at least one dealer recommending timing belt replacement. · 4 fire · 1 crash · 1 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -123,6 +123,7 @@
         "title": "Engine And Engine Cooling",
         "blurb": "55 reports (6%) · 5 fire"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

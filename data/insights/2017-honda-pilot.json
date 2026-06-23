@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Honda Pilot owners report most",
-    "summary": "Across 891 owner complaints to NHTSA, the most reported area is Engine (50% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine-related complaints dominate owner reports for this model, with the most common symptom being sudden loss of acceleration accompanied by transmission warning messages while driving at highway speeds. Electrical system faults are the second most frequently reported area, with owners describing multiple warning lights and system failures — including power steering and the speedometer — appearing simultaneously at startup. Powertrain and fuel system complaints round out the picture, with some owners reporting transmission-related acceleration failures and others encountering physical obstructions that prevent normal refueling.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HONDA PILOT. WHILE DRIVING 65 MPH, THE VEHICLE FAILED TO ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. ALSO, THE TRANSMISSION WARNING INDICATOR ILLUMINATED AND A MESSAGE TO \"STOP DRIVING TRANSMISSION PROBLEM\" DISPLAYED. THE VEHICLE WAS TOWED TO ",
         "pct": 50,
         "title": "Engine",
-        "blurb": "448 reports (50%) · 3 fire"
+        "blurb": "Owners report the vehicle suddenly failing to accelerate when the accelerator pedal is depressed at highway speeds, often accompanied by a transmission warning indicator and a message instructing them to stop driving. · 3 fire"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "THIS IS THE 4TH TIME NOW THAT WE HAVE HAD TO BRING OUT PILOT IN TO BE SERVICED FOR THE SAME THING.  WHEN WE TURN THE CAR ON, MULTIPLE ERRORS COME ON OUT OF NOWHERE.  POWER STEERING, THE SPEEDOMETER AND MANY OTHER THINGS STOP WORKING.  THEY RESET IT AND IT HAPPENS AGAIN.  THEY HAV",
         "pct": 29,
         "title": "Electrical System",
-        "blurb": "258 reports (29%) · 2 fire · 1 crash"
+        "blurb": "Owners describe multiple warning lights and system errors — including power steering and speedometer failures — appearing simultaneously and without warning when starting the vehicle, with some cases recurring after service. · 2 fire · 1 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HONDA PILOT. WHILE DRIVING 65 MPH, THE VEHICLE FAILED TO ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. ALSO, THE TRANSMISSION WARNING INDICATOR ILLUMINATED AND A MESSAGE TO \"STOP DRIVING TRANSMISSION PROBLEM\" DISPLAYED. THE VEHICLE WAS TOWED TO ",
         "pct": 13,
         "title": "Power Train",
-        "blurb": "119 reports (13%) · 1 crash"
+        "blurb": "Owners report loss of acceleration while driving at highway speeds alongside illumination of the transmission warning indicator and a displayed message to stop driving. · 1 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HONDA PILOT. WHILE ATTEMPTING TO FILL UP THE FUEL TANK, THE CONTACT NOTICED THAT ICE WAS LODGED IN BETWEEN THE FIRST AND SECOND FUEL NOZZLES. THE CONTACT HAD TO CHIP AWAY THE ICE TO FILL UP THE TANK. THE DEALER (BOCH HONDA, 279 PROVIDENCE HWY, NORWOOD,",
         "pct": 13,
         "title": "Fuel/Propulsion System",
-        "blurb": "118 reports (13%) · 1 crash"
+        "blurb": "Owners report finding ice lodged between fuel nozzle components that prevents normal refueling and must be physically removed before the tank can be filled. · 1 crash"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "28 reports (3%) · 2 crash · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

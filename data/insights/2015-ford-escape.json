@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Ford Escape owners report most",
-    "summary": "Across 1,021 owner complaints to NHTSA, the most reported area is Power Train (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern in owner complaints centers on powertrain and engine behavior, with owners reporting stalling, hesitation on acceleration, and warning messages prompting dealer visits shortly after purchase. Electrical faults and camera reliability round out the picture, with issues appearing both in safety-critical systems and everyday convenience features. Several complaint areas are associated with crashes or fires, indicating that some reported failures occurred under active driving conditions.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "PURCHASED VEHICLE 1/30/2015 AND DROVE OFF LOT WITH 3 MILES ON IT. LESS THAN A WEEK LATER VEHICLE STARTED STALLING AT TRAFFIC LIGHTS AND HESITATING UPON ACCELERATION. VEHICLE WAS IN FORD REPAIR SHOP FOR 12 DAYS WITH 1200 WORTH OF PARTS REPLACED ON TRANSMISSION. PICKED UP VEHICLE W",
         "pct": 28,
         "title": "Power Train",
-        "blurb": "282 reports (28%) · 4 crash · 1 injured"
+        "blurb": "Owners report the vehicle stalling at traffic lights and hesitating during acceleration, with some experiencing these problems within days of purchase and requiring extended dealer repair visits. · 4 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "WARNING ON SCREEN. TAKE CAR TO DEALER IMMEDIATELY.   I TOOK THE CAR TO THE DEALER AND AFTER SITTING THERE FOR OVER 3 HOURS I WAS TOLD THE ISSUE WAS THE COOLING TEMPERATURE SENSOR.  WHEN THEY CAME TO TELL ME THE CAR WAS FINISHED I WAS TOLD THEY DID NOT DO ANYTHING BUT UNPLUG THE S",
         "pct": 23,
         "title": "Engine",
-        "blurb": "233 reports (23%) · 8 fire · 4 crash · 5 injured"
+        "blurb": "Owners report dashboard warning messages directing them to a dealer immediately, where the cooling temperature sensor has been cited as the finding after diagnostic evaluation. · 8 fire · 4 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "STARTED CAR AND THE ALARM WENT OFF ON THE DASH SAYING THE FRONT PASSENGER DOOR WAS AJAR. WE OPENED THE DOOR AND LOOKED AT THE DOOR TO MAKE SURE NO ONE HAD HIT THE CAR. NO DAMAGE COULD BE FOUND. SHUT CAR OFF AND RESTARTED. ALARM CONTINUED WITH DASH READING FRONT PASSENGER DOOR AJA",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "127 reports (12%) · 10 fire · 2 crash · 3 injured"
+        "blurb": "Owners report false door-ajar warnings appearing on the dash at startup, with the alert persisting even after inspecting the door and finding no visible damage. · 10 fire · 2 crash · 3 injured"
       },
       {
         "component": "BACK OVER PREVENTION",
@@ -109,7 +109,7 @@
         "sample": "The back-up camera in my vehicle will operate for a few moments - if the weather is below 50 degrees or if you are parked in a shady area - but it will just cut-off.  The system is working and all the fuses are good but the back-up camera only works intermitted.  I am reporting t",
         "pct": 9,
         "title": "Back Over Prevention",
-        "blurb": "94 reports (9%) · 2 crash"
+        "blurb": "Owners report the backup camera cutting out after only a brief moment of operation, particularly in cold temperatures or shaded parking conditions, despite fuses checking out as functional. · 2 crash"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "78 reports (8%) · 2 fire · 5 crash · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

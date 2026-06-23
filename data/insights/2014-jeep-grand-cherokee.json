@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Jeep Grand Cherokee owners report most",
-    "summary": "Across 2,362 owner complaints to NHTSA, the most reported area is Electrical System (20% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical and powertrain complaints dominate owner reports for this model year, with instrument cluster failures and unexpected gear shifts or stalls representing the most common patterns. Engine stalling — sometimes requiring many restart attempts before the vehicle can sustain movement — is also a frequent theme. A smaller but notable share of complaints involves seat track displacement in rear-impact collisions.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "INSTRUMENT CLUSTER WENT OUT WHILE DRIVING. THIS INCLUDED THE SPEEDOMETER, FUEL GAUGE, RPM. AND ENGINE TEMPERATURE GAUGE. I HAD NO IDEA THE SPEED IN WHICH I WAS DRIVING. I HAVE HAD THE CAR FOR 10 DAYS. I WAS HEADING IN THE SAME DIRECTION AS THE DEALERSHIP WHEN THIS OCCURRED. DROVE",
         "pct": 20,
         "title": "Electrical System",
-        "blurb": "479 reports (20%) · 27 fire · 10 crash · 6 injured"
+        "blurb": "Owners report the instrument cluster going dark while driving, causing all gauges — including the speedometer, fuel gauge, tachometer, and engine temperature gauge — to stop functioning simultaneously. · 27 fire · 10 crash · 6 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT WHILE MAKING A TURN AT UNKNOWN SPEEDS, THE VEHICLE INDEPENDENTLY SHIFTED INTO NEUTRAL THEN STALLED. THE VEHICLE WAS ABLE TO BE DRIVEN TO THE CONTACT'S RESIDENCE AFTER BEING RESTARTED SEVERAL MINUTES LATER. T",
         "pct": 20,
         "title": "Power Train",
-        "blurb": "472 reports (20%) · 2 fire · 68 crash · 32 injured"
+        "blurb": "Owners describe the vehicle unexpectedly shifting into neutral and stalling on its own during turns, requiring the driver to restart and continue to a service location. · 2 fire · 68 crash · 32 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "THE VEHICLE STALLED FOR NO REASON.  IT TOOK MULTIPLE ATTEMPTS (APPROX 10 TIMES) TO RESTART THE VEHICLE.  IT WOULD START AND I COULD DRIVE 40-50 YARDS AND WOULD STALL AGAIN.  MULTIPLE LIGHTS CAME ON SUCH AS VEHICLE IN GEAR (IT WASN'T), ETC.  ONCE IT DID RESTART AND I WAS ABLE TO D",
         "pct": 17,
         "title": "Engine",
-        "blurb": "404 reports (17%) · 15 fire · 14 crash · 10 injured"
+        "blurb": "Owners report repeated unprompted stalls where the engine requires many restart attempts and shuts off again after traveling only a short distance, accompanied by multiple warning lights activating. · 15 fire · 14 crash · 10 injured"
       },
       {
         "component": "SEATS",
@@ -109,7 +109,7 @@
         "sample": "I WAS REAR ENDED BY A CAR TRAVELING +65 MPH WHILE I WAS TRAVELING 15 MPH.  THE CAR SUSTAINED OVER $15,000 IN DAMAGE, HOWEVER MY CONCERN IS OVER THE DRIVERS SEAT WHICH CAME OF TRACK AND WAS BADLY MISALIGNED.    FURTHERMORE, MY CAR HAS BEEN IN THE SHOP FOR OVER 56 DAYS NOW, AND THE",
         "pct": 14,
         "title": "Seats",
-        "blurb": "334 reports (14%) · 2 fire · 2 crash · 39 injured"
+        "blurb": "Owners report the driver seat coming off its track and becoming misaligned during rear-end collisions, raising concerns about seat structural integrity in crashes. · 2 fire · 2 crash · 39 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "267 reports (11%) · 2 fire · 20 crash · 6 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Jeep Cherokee: the transmission tops owner complaints",
-    "summary": "Owners filed 1,567 complaints with NHTSA. The power train (transmission and drivetrain) is by far the biggest issue at 47%, followed by the engine (29%) and electrical system (21%). No deaths are reported. The engine area has the most fires (11), while the brakes draw the fewest complaints but the most injuries (7) of any area, so test both carefully.",
+    "summary": "The most-reported problems center on the power train, where owners describe sluggish or dangerously delayed downshifts during highway and city driving. Engine stalls — occurring both while stationary and at speed — make up a large share of the remaining complaints, and electrical faults affecting the infotainment screen and running lights are also widely reported. A smaller number of owners report engine failures and unexpected shutdowns linked under the steering category.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "THE TRANSMISSION TAKES FAR TOO LONG TO DOWNSHIFT WHEN CALLED UPON FOR A QUICK DROP IN GEARS. WHEN DRIVING AT HIGHWAY SPEEDS OR EVEN NORMAL CITY SPEEDS, WHEN YOU NEED TO CHANGE LANES FOR A QUICK PASS OF ANOTHER VEHICLE AND PUSH THE ACCELERATOR TO THE FLOOR, THE VEHICLE IS LEFT WAI",
         "pct": 47,
         "title": "Power Train",
-        "blurb": "The single biggest complaint: 738 reports (47%), tied to 8 crashes, 3 injuries, and 1 fire. Watch for rough, slow, or hesitant shifting on a test drive."
+        "blurb": "Owners report the transmission takes an excessive amount of time to downshift when a rapid gear change is needed at highway or city speeds, creating a dangerous lag during lane changes or passing maneuvers. · 1 fire · 8 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 JEEP CHEROKEE. WHILE STATIONARY, THE VEHICLE STALLED WITHOUT WARNING AND COMPLETELY LOST POWER. ON ANOTHER OCCASION, WHILE DRIVING 40 MPH, THE VEHICLE STALLED AND THE CHECK ENGINE INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO GWINNETT CHRYSLER DODGE ",
         "pct": 29,
         "title": "Engine",
-        "blurb": "Second most reported: 448 reports (29%), and the most fire-prone area with 11 fires, plus 4 crashes and 2 injuries. Watch for stalling or loss of power while driving."
+        "blurb": "Owners report the vehicle stalling without warning both while stationary and while driving at speed, accompanied by loss of power and illumination of the check engine indicator. · 11 fire · 4 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "THE RADIO WILL SUDDENLY GO OUT AND MULTI-COLORED LINES WILL APPEAR ON THE LEFT SIDE OF THE SCREEN.  SOMETIMES THE MUSIC WILL CONTINUE TO PLAY OTHER TIMES IT WILL NOT.  IT SEEMS TO BE EFFECTING THE RUNNING LIGHTS ONLY ON ONE SIDE.  THE TIME FRAME WHEN IT GOES OUT AND COMES BACK ON",
         "pct": 21,
         "title": "Electrical System",
-        "blurb": "Third most reported: 335 reports (21%), including 4 fires and 3 crashes. Check the screen, lights, and electronics for glitches."
+        "blurb": "Owners report the radio screen suddenly going blank and displaying multi-colored lines, with music sometimes continuing and sometimes cutting out, and the fault appearing to affect the running lights as well. · 4 fire · 3 crash"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "MY NEW CAR HAS 2,800 MILES DUE FOR AN OIL CHANGE AT 5 MONTHS/5,000 MILES. THE ENGINE FAILED ONCE FOR NO KNOWN CAUSE AFTER 2 WEEKS IN THE REPAIR SHOP. NOW MY CAR DIED WHILE IN MOTION ON BUSY ROADS AND A HIGHWAY RAMP AT SPEEDS BETWEEN 15-40 MPH WITHOUT WARNING OR LIGHTS. THIS IS SL",
         "pct": 8,
         "title": "Steering",
-        "blurb": "120 reports (8%), linked to 6 crashes, 4 injuries, and 1 fire. Notice any pulling, stiffness, or warning lights when steering."
+        "blurb": "Owners report the engine failing and the vehicle dying unexpectedly while in motion on busy roads and highway ramps, sometimes following prior repair shop visits for the same loss-of-power condition. · 1 fire · 6 crash · 4 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "Fewest complaints at 105 reports (7%) but the most injuries of any area: 7 injuries, plus 7 crashes and 2 fires. Test the brakes thoroughly."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

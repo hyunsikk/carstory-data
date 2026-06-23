@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Honda Cr-V owners report most",
-    "summary": "Across 668 owner complaints to NHTSA, the most reported area is Engine (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern across owner complaints is engine vibration at a standstill — owners consistently describe the vehicle shaking noticeably when stopped at a red light with the transmission in Drive, accompanied by unusually low idle RPMs. This symptom appears across multiple complaint categories, suggesting a single underlying behavior that owners experienced across powertrain, electrical, and steering contexts. A smaller share of reports involves steering concerns, also noted shortly after purchase.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "THE IDLE SPEED FOR THE VEHICLE IS TOO LOW.  WITH THE ENGINE WARMED UP, YOU CAN STEP ON THE BRAKE (AS IS TYPICAL AT A RED LIGHT) AND THE CAR WILL VIBRATE A LOT AND THE DRIVER WILL FEEL AN UNCOMFORTABLE VIBRATION.  AT TIMES, IT SEEMS LIKE THE ENGINE MIGHT SHUT OFF.  WHEN THE BRAKE ",
         "pct": 36,
         "title": "Engine",
-        "blurb": "243 reports (36%) · 1 fire · 3 crash · 6 injured"
+        "blurb": "Owners report pronounced vibration felt throughout the vehicle when stopped with the brake applied, such as at a red light, after the engine has warmed up. · 1 fire · 3 crash · 6 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "THERE ARE SEVERAL ONGOING PROBLEMS CAUSED BY DEFECTS WITH THIS VEHICLE.  THERE IS A VIBRATION WHEN THE CAR IS IN \"DRIVE\" AND COMPLETELY STOPPED AT AN INTERSECTION.  THE RPM'S DROP, SOMETIMES AS LOW AS 550 WHICH CAUSES A VIBRATION AS IF THE VEHICLE IS ABOUT TO STALL.  THE  LOWER T",
         "pct": 22,
         "title": "Power Train",
-        "blurb": "147 reports (22%) · 1 fire · 4 crash"
+        "blurb": "Owners describe the vehicle shaking when in Drive and fully stopped at an intersection, with RPMs dropping to unusually low levels. · 1 fire · 4 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "MY BRAND NEW 2015 HONDA CRV    FOR FIRST 2 DAYS IT FEELS WONDERFUL. FROM DAY 3RD CAR IS VIBRATING LIKE A MESSAGE CHAIR ON STOP LIGHT. AND DEALER OR HONDA DOESN'T HAVE ANY SOLUTION! I AM REAL NOT FILL SAFE WHILE THE DRIVING THIS CAR AND EVEN I DIDN'T GET ANY RESPONSE FROM HONDA AN",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "83 reports (12%) · 1 fire"
+        "blurb": "Owners report that the vehicle vibrates intensely at a stop light, with some describing the sensation as similar to a massage chair, and noting that neither the dealer nor the manufacturer offered a resolution. · 1 fire"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "I PURCHASED NEW 2015 HONDA CRV EX-L 01/21/2015. ONLY 3 MILE ON IT. IMMEDIATELY AFTER PURCHASED, THE VEHICLE EXHIBITED SEVERE VIBRATION WHEN THE CAR FULLY STOP AND ON \"D\" POSITION. IDLE IS VERY LOW , AROUND 550 RPM, AND VEHICLE JUST SHAKES AND PASSENGER SEAT VIBRATES. VIBRATIONS C",
         "pct": 7,
         "title": "Steering",
-        "blurb": "45 reports (7%) · 1 crash"
+        "blurb": "Owners report severe vibration when the vehicle is fully stopped and in Drive, with idle RPMs observed to be very low, noticed immediately after purchase. · 1 crash"
       },
       {
         "component": "SEATS",
@@ -123,6 +123,7 @@
         "title": "Seats",
         "blurb": "39 reports (6%) · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

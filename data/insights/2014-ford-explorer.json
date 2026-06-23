@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Ford Explorer owners report most",
-    "summary": "Across 1,667 owner complaints to NHTSA, the most reported area is Steering (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Steering complaints dominate owner reports for this Explorer model year, with drivers describing loss of control during evasive maneuvers. Structure and engine issues each account for a meaningful share of complaints, with owners reporting problems ranging from interior components trapping fingers to unexpected vehicle movement at low speed. Suspension complaints, while less frequent, are also associated with crash incidents.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "TO AVOID HITTING ANOTHER VEHICLE THAT ILLEGALLY CAME INTO THE LANE I WAS ENTERING (THEY WERE DRIVING ON THE SHOULDER), I HAD TO TAKE EVASIVE ACTION, WHICH CAUSED ME TO TURN MY VEHICLE INTO A CURB.  AT THE TIME, I WAS TRAVELING 15 TO MAYBE 20 MPH.  AFTER HITTING THE CURB, MY VEHIC",
         "pct": 30,
         "title": "Steering",
-        "blurb": "495 reports (30%) · 1 fire · 10 crash · 6 injured"
+        "blurb": "Owners report that evasive steering maneuvers — such as swerving to avoid another vehicle — resulted in loss of directional control and collision with curbs or other objects, with some incidents involving fires or crashes · 1 fire · 10 crash · 6 injured"
       },
       {
         "component": "STRUCTURE",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT RENTED A 2014 FORD EXPLORER. THE CONTACT STATED THAT HE ATTEMPTED TO OPEN THE REAR CUP HOLDER BUT FOUR OF HIS FINGERS BECAME STUCK INSIDE OF THE PLASTIC HOLDER. THE CONTACT STATED THAT HE HAD TO PRY THE HOLDER OPEN IN ORDER TO RELEASE HIS FINGERS. THE VEHICLE WAS ",
         "pct": 16,
         "title": "Structure",
-        "blurb": "272 reports (16%) · 2 injured"
+        "blurb": "Owners report interior plastic components, including rear cup holders, trapping fingers and requiring force to free them · 2 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "I BOUGHT MY FORD EXPLORER 2014 ON JULY 1ST 2013.     ON AUGUST 1ST, 2013, MY CAR DID NOT MOVE FORWARD WHILE I STARTED THE CAR AND PUT IT TO 'D' (DRIVE) IN A PARKING LOT. INSTEAD, THE CAR WENT BACKWARDS WHILE I STEPPED ON GAS. I WAS VERY CONFUSED, AND THOUGHT IT WAS MY ILLUSION. S",
         "pct": 12,
         "title": "Engine",
-        "blurb": "196 reports (12%) · 5 injured"
+        "blurb": "Owners report the vehicle moving in reverse unexpectedly after being shifted into drive, contrary to the driver's intended direction · 5 injured"
       },
       {
         "component": "SUSPENSION",
@@ -109,7 +109,7 @@
         "sample": "TO AVOID HITTING ANOTHER VEHICLE THAT ILLEGALLY CAME INTO THE LANE I WAS ENTERING (THEY WERE DRIVING ON THE SHOULDER), I HAD TO TAKE EVASIVE ACTION, WHICH CAUSED ME TO TURN MY VEHICLE INTO A CURB.  AT THE TIME, I WAS TRAVELING 15 TO MAYBE 20 MPH.  AFTER HITTING THE CURB, MY VEHIC",
         "pct": 6,
         "title": "Suspension",
-        "blurb": "102 reports (6%) · 8 crash · 3 injured"
+        "blurb": "Owners report that during evasive maneuvers the vehicle became uncontrollable and struck curbs, with some incidents resulting in crashes · 8 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "99 reports (6%) · 2 fire · 1 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

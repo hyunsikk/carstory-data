@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2018 Chrysler Pacifica owners report most",
-    "summary": "Across 808 owner complaints to NHTSA, the most reported area is Engine (44% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The most-reported pattern for this model centers on the engine and electrical system failing together while the vehicle is in motion or at a stop, leaving owners unable to proceed even with the ignition in the run position. A secondary cluster of complaints describes the powertrain and steering losing function progressively — warning systems dropping out, speed becoming restricted, and power steering disappearing — often in vehicles with very low accumulated mileage. Some incidents across multiple component areas involved fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "WE WERE DRIVING HOME AT NIGHT AND STOPPED ON A RED LIGHT IN AN INTERSECTION ON A HIGHWAY. WHEN IT WAS 'GO' OUR PACIFICA 2018 (400 MILES ON IT) DID NOT RUN. LIGHT IS  ON 'RUN', DIAL SHIFT ON DRIVE AND I DID NOT TURN OFF THE CAR. I STEPPED ON THE ACCELERATOR AGAIN BUT IT JUST WOULD",
         "pct": 44,
         "title": "Engine",
-        "blurb": "354 reports (44%) · 6 fire · 5 crash · 2 injured"
+        "blurb": "Owners report the vehicle failing to move when commanded to drive, with the ignition showing as active and the shifter in drive but the engine not responding. · 6 fire · 5 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "WE WERE DRIVING HOME AT NIGHT AND STOPPED ON A RED LIGHT IN AN INTERSECTION ON A HIGHWAY. WHEN IT WAS 'GO' OUR PACIFICA 2018 (400 MILES ON IT) DID NOT RUN. LIGHT IS  ON 'RUN', DIAL SHIFT ON DRIVE AND I DID NOT TURN OFF THE CAR. I STEPPED ON THE ACCELERATOR AGAIN BUT IT JUST WOULD",
         "pct": 34,
         "title": "Electrical System",
-        "blurb": "275 reports (34%) · 7 fire · 10 crash · 3 injured"
+        "blurb": "Owners report a simultaneous loss of electrical function concurrent with engine failure, occurring even in vehicles with very low mileage and while stopped at intersections. · 7 fire · 10 crash · 3 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "2018 TOURING L PLUS TOWED. WAS DRIVING ALONG AND STARTED LOSING ALL POWER, SYSTEMS STARTED TO SHUT DOWN, VAN WAS LIMITED IN SPEED AND FUNCTION. BY THE END ALL WARNING SYSTEMS HAD FAILED, POWER STEERING WAS GONE, ABS WAS GONE, AFTER THE BATTERY HIT 8.9 VOLTS WE LOST CONTROL OF THE",
         "pct": 18,
         "title": "Power Train",
-        "blurb": "149 reports (18%) · 4 crash · 1 injured"
+        "blurb": "Owners report a progressive loss of power while driving, with vehicle speed becoming restricted, warning systems failing in sequence, and the van eventually requiring a tow. · 4 crash · 1 injured"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "CAR SHUT OFF WITH THE \"PUT CAR IN PARK AND RESTART\" MESSAGE.  IT TOOK 2 ATTEMPTS TO RESTART.  CAR HAS ONLY 795 MILES ON IT.   WHEN THE CAR SHUTS OFF THERE IS NO POWER STEERING CREATING A VERY DANGEROUS SITUATION.  THE CAR WAS STOPPED AT A TRAFFIC LIGHT WHEN THIS HAPPENED WITH THE",
         "pct": 18,
         "title": "Steering",
-        "blurb": "142 reports (18%) · 8 crash · 2 injured"
+        "blurb": "Owners report the vehicle shutting off unexpectedly — sometimes displaying a message to park and restart — and losing power steering in the process, which owners describe as dangerous. · 8 crash · 2 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "46 reports (6%) · 3 fire"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Chevrolet Malibu owners report most",
-    "summary": "Across 715 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints are the most frequently reported issue for this model, with some owners describing fires that started while the vehicle was parked and off. Electrical system and powertrain faults are also widely reported, alongside vehicle speed control behavior where the engine surges unexpectedly at stops. Across all four areas, some incidents involved fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "THE CAR WAS PARKED AND OFF IN OUR DRIVEWAY FOR 15 MINUTES -HORN STARTED WENT OUT SAW SMOKE CALLED 911 AND BY THE TIME BACK AT FRONT DOOR FLAMES FROM FRONT END. FIRE DEPARTMENT CAME AND PUT OUT FIRE -CAR TOTALED. WORRIED ABOUT SPONTANEOUS COMBUSTION ESPECIALLY IF CAR PARKED IN GAR",
         "pct": 35,
         "title": "Engine",
-        "blurb": "253 reports (35%) · 2 fire · 3 crash · 3 injured"
+        "blurb": "Owners report fires originating from the front end of the vehicle while it was parked and not running, in some cases prompting emergency response. · 2 fire · 3 crash · 3 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET MALIBU HYBRID. THE CONTACT ACTIVATED THE LEFT TURN SIGNAL AND IT FAILED TO TURN OFF AND CONTINUED BLINKING ONCE THE TURN WAS COMPLETED. THE CONTACT HAD TO MANUALLY TURN OFF THE BLINKER. ONE DEALER WAS NOTIFIED AND WAS UNABLE TO REPLICATE AND ",
         "pct": 24,
         "title": "Electrical System",
-        "blurb": "170 reports (24%) · 1 fire"
+        "blurb": "Owners report turn signals that fail to cancel after a turn is completed and continue blinking until manually switched off. · 1 fire"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "AFTER MUCH RESEARCH I HAVE FOUND OUT THAT THE TRANSMISSION THAT IS IN THE 2017 MALIBU, WHICH IS THE 6T40, IS NOT RATED TO BE IN THIS VEHICLE. THE 6T40 IS RATED AT 177LB-FT TORQUE, THE MALIBU HAS 184LB-FT.     GMAUTHORITY.COM/BLOG/GM/GM-TRANSMISSIONS/MH8/    THIS LINK IS THE PAGE ",
         "pct": 20,
         "title": "Power Train",
-        "blurb": "142 reports (20%)"
+        "blurb": "Owners report concern that the transmission installed in the vehicle is not rated for the torque level the engine produces."
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 CHEVROLET MALIBU. ON SEVERAL DIFFERENT OCCASIONS, WHILE AT A STOP LIGHT, THE ENGINE RPMS WOULD SUDDENLY INCREASE AND THE VEHICLE ATTEMPTED TO SURGE FORWARD. THE DRIVER HAD TO DEPRESS HARD ON THE BRAKE PEDAL IN ORDER TO STOP THE VEHICLE FROM SURGING FOR",
         "pct": 19,
         "title": "Vehicle Speed Control",
-        "blurb": "136 reports (19%) · 1 crash"
+        "blurb": "Owners report the engine RPM suddenly increasing while stopped at a light, causing the vehicle to attempt to surge forward. · 1 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "69 reports (10%) · 3 crash · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

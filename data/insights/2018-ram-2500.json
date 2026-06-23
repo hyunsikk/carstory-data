@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Ram 2500: service brakes dominate owner complaints",
-    "summary": "Across 2,460 owner complaints to NHTSA, service brakes are the most-reported area by a huge margin at 2,229 reports (91%), far ahead of the electrical system (457, 19%) and hydraulic (380, 15%). The service brakes reports include 27 crashes and 2 injuries, the most of any category. No fires or deaths are reported in any category.",
+    "summary": "Service brake performance is the dominant concern among owners of this truck, with reports describing the vehicle failing to stop adequately under emergency braking conditions, including when towing. Electrical system faults, hydraulic warning light activations, and unwanted speed control behavior round out the most-reported issues, several of which have been associated with crashes.",
     "issues": [
       {
         "component": "SERVICE BRAKES",
@@ -73,7 +73,7 @@
         "sample": "UPON MAXIMUM EMERGENCY BRAKING AT ANY SPEED, THE TRUCK STOPS AS IF THE BRAKES WHERE WET,  IMPOSSIBLE TO STOP WHEN TOWING A UNLOADED 16 FOOT UTILITY TRAILER DOWN HILL IT JUST KEEPS ON GOING UNTIL YOU REACH BOTTOM. TAKEN TO DODGE DEALERSHIP THEY SAY IT'S NORMAL BUT THEY SAY OTHER T",
         "pct": 91,
         "title": "Service Brakes",
-        "blurb": "By far the most-reported area: 2,229 complaints (91%), with 27 crashes and 2 injuries, the most of any category. One owner describes the truck failing to stop under hard emergency braking, especially when towing downhill."
+        "blurb": "Owners report that under maximum emergency braking the truck stops poorly, as if the brakes are wet, and the vehicle continues moving rather than stopping — a problem noted even when towing a trailer downhill. · 27 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 RAM 2500. THE CONTACT STATED THAT THE U-CONNECT SCREEN PERIODICALLY FAILED TO FUNCTION, WHICH IMPACTED THE FUNCTIONALITY OF THE SOS FEATURE BUILT INTO THE REARVIEW MIRRORS. THE DEALER (FREMONT MOTOR, 6101 E 2ND ST, CASPER, WY 82609, 307-237-8491) SCHED",
         "pct": 19,
         "title": "Electrical System",
-        "blurb": "457 complaints (19%), including 6 crashes. One owner reports the U-Connect screen periodically failing, which knocked out the built-in SOS feature."
+        "blurb": "Owners report the Uconnect screen periodically failing to function, which in turn affects the SOS feature built into the rearview mirrors. · 6 crash"
       },
       {
         "component": "HYDRAULIC",
@@ -97,7 +97,7 @@
         "sample": "The contact owns a 2018 Ram 2500. The contact stated that while driving 65 MPH, the ABS and traction control warning lights illuminated and the cruise control inadvertently disengaged, causing the vehicle to decelerate. The contact had not lost control of the vehicle or electrica",
         "pct": 15,
         "title": "Hydraulic",
-        "blurb": "380 complaints (15%), including 9 crashes. One owner reports the ABS and traction-control warning lights coming on at 65 mph, with cruise control disengaging and the truck slowing down."
+        "blurb": "Owners report ABS and traction control warning lights illuminating while driving at highway speed, accompanied by the cruise control disengaging and the vehicle decelerating on its own. · 9 crash"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 RAM 2500. WHILE ATTEMPTING TO ACCELERATE FROM A STOP, THE VEHICLE FAILED TO ACCELERATE. THE CONTACT MENTIONED THAT THE VEHICLE WAS OPERATING INDEPENDENTLY. THE VEHICLE WAS TAKEN TO AUTONATION CHRYSLER DODGE JEEP RAM AND FIAT JOHNSON CITY (3700 BRISTOL ",
         "pct": 13,
         "title": "Vehicle Speed Control",
-        "blurb": "328 complaints (13%), including 2 crashes. One owner reports the truck failing to accelerate from a stop."
+        "blurb": "Owners report the vehicle failing to accelerate from a stop and, at times, operating as if it were acting independently of driver input. · 2 crash"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -123,6 +123,7 @@
         "title": "Forward Collision Avoidance",
         "blurb": "223 complaints (9%), including 1 crash. One owner reports the service-braking and anti-lock-braking warnings flashing on and off, often on bumpy roads or over railroad tracks."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

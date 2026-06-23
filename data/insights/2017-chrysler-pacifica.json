@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Chrysler Pacifica owners report most",
-    "summary": "Across 1,466 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The most-reported problems on this vehicle center on the engine and powertrain, where owners describe failures to accelerate and an inability to shift into or out of park. Electrical system complaints are also frequent, with owners reporting erratic behavior from driver-assistance features such as the frontal collision warning system. Steering-area complaints round out the picture, with owners noting that certain safety assist features were unavailable on lower trim levels.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 CHRYSLER PACIFICA. WHILE ATTEMPTING TO ACCELERATE FROM A RED LIGHT, THE VEHICLE FAILED TO ACCELERATE AND THE ONBOARD COMPUTER DISPLAYED A TRANSMISSION CODE. THE VEHICLE WAS TAKEN TO A DEALER. THE MECHANIC STATED THAT THERE WAS NO TRANSMISSION CODE AND ",
         "pct": 35,
         "title": "Engine",
-        "blurb": "518 reports (35%) · 5 fire · 7 crash · 1 injured"
+        "blurb": "Owners report the vehicle failing to accelerate when pulling away from a stop, sometimes accompanied by a transmission-related warning displayed by the onboard computer. · 5 fire · 7 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "I PURCHASED MY NEW VEHICLE AND INSIDE OF 2 MONTHS I HAD TWO MAJOR PROBLEMS. I WENT SHOPPING AND WHEN I ARRIVED AT MY DESTINATION AND TRIED TO PARK THE CAR WOULD NOT SHIFT INTO PARK. NO MATTER HOW LONG I WAITED OR SLOWLY OR QUICKLY I TURNED THE SHIFTING KNOB IT WOULD NOT SHIFT INT",
         "pct": 32,
         "title": "Power Train",
-        "blurb": "463 reports (32%) · 2 fire · 5 crash · 8 injured"
+        "blurb": "Owners report the vehicle refusing to shift into park, with the problem occurring even after waiting or slowly maneuvering the vehicle. · 2 fire · 5 crash · 8 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "I HAVE A 2017 CHRYSLER PACIFICA EQUIPPED WITH A FCW (FRONTAL COLLISION WARNING SYSTEM). I HAVE OWNED AND DRIVEN OTHER CARS WITH THIS SYSTEM THAT HAVE OPERATED WITHOUT ISSUE. THE FCW IN THE PACIFICA HAS THREE SETTINGS THAT CAN BE SELECTED BY THE DRIVER FOR SENSITIVITY. NEAR, MEDIU",
         "pct": 26,
         "title": "Electrical System",
-        "blurb": "379 reports (26%) · 3 fire · 2 crash · 5 injured"
+        "blurb": "Owners report the frontal collision warning system behaving unexpectedly, in contrast to similar systems they had used in other vehicles without issue. · 3 fire · 2 crash · 5 injured"
       },
       {
         "component": "STEERING",
@@ -109,7 +109,7 @@
         "sample": "MY LOCAL DEALER (CONFIRMED BY FCA LLC) HAS TOLD ME THAT WE CANNOT GET THE AUTONOMOUS BRAKING AND LANE ASSIST ON THE PACIFICA TOURING TRIM LEVEL; ONLY ON THE MORE EXPENSIVE TOURING L-PLUS! THESE SHOULD BE OPTIONS ON ALL TRIM LEVELS SO A FAMILY WHO WANTS SAFETY MORE THAN FANCY CAN ",
         "pct": 16,
         "title": "Steering",
-        "blurb": "241 reports (16%) · 7 crash · 3 injured"
+        "blurb": "Owners report that autonomous braking and lane-assist features are unavailable on lower trim levels and are only accessible on higher, more expensive trims. · 7 crash · 3 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "88 reports (6%) · 15 crash · 7 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

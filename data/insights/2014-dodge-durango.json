@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Dodge Durango owners report most",
-    "summary": "Across 780 owner complaints to NHTSA, the most reported area is Exterior Lighting (33% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Exterior lighting problems make up the largest share of owner complaints, with rear lighting described as dangerously bright to following drivers. Seat ventilation malfunctions and electrical system issues — sometimes tied to acceleration hesitation — round out the most frequently reported concerns. A smaller portion of reports involve the engine, with some complaints in both the electrical and engine categories noting fires or crashes.",
     "issues": [
       {
         "component": "EXTERIOR LIGHTING",
@@ -73,7 +73,7 @@
         "sample": "I WAS FOLLOWING A DODGE DURANGO SUV IN HEAVY TRAFFIC ON EISENHOWER EXPRESSWAY GOING INTO CHICAGO AT DUSK AND THE LIGHTS SURROUNDING THE TAIL LIGHTS AND ACROSS THE REAR OF THE DURANGO WERE SO BRIGHT I COULD NOT SEE ALL THE OTHER TRAFFIC SATISFACTORILY.  I COULDN'T GET AHEAD OF THE",
         "pct": 33,
         "title": "Exterior Lighting",
-        "blurb": "259 reports (33%) · 2 fire · 1 injured"
+        "blurb": "Owners report that rear lighting — including lights surrounding the tail lights and spanning across the rear of the vehicle — appears excessively bright to trailing drivers, to the point of obstructing their view of the road ahead. · 2 fire · 1 injured"
       },
       {
         "component": "SEATS",
@@ -85,7 +85,7 @@
         "sample": "1) WHEN TURNING ON VENTILATION SEATS - DRIVER AND PASSENGER SEAT BLOW HOT AIR INSTEAD OF COOL AIR. CAUSED A MILD BURN FOR DRIVER AND PASSENGER. IN SERVICE - WIRING DEFECT.    2) TAILLIGHTS (LED) STOPPED WORKING WHEN DRIVING AND BRAKING. ONLY TURN ON WHEN IN PARK. IN SERVICE.    3",
         "pct": 21,
         "title": "Seats",
-        "blurb": "162 reports (21%) · 32 injured"
+        "blurb": "Owners report that ventilated seats blow hot air instead of cool air when the ventilation function is activated, with at least one complaint noting a mild burn to the driver and passenger and a dealer diagnosis of a wiring defect. · 32 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "2014 DODGE DURANGO.  CONSUMER WRITES IN REGARDS TO VEHICLE HESITATION DURING ACCELERATION.  *SMD  THE DEALER PERFORMED TESTS, AND FOUND NOTHING WRONG WITH THE VEHICLE. HOWEVER, THE DEALER DID PERFORM A PCM UPDATE. TWO DAYS LATER, THE VEHICLE STALLED IN TRAFFIC. WHEN THE CONSUMER ",
         "pct": 19,
         "title": "Electrical System",
-        "blurb": "149 reports (19%) · 5 fire · 3 crash"
+        "blurb": "Owners report vehicle hesitation during acceleration, with some dealers finding no fault but performing a powertrain control module update; some complaints in this category also note fires or crashes. · 5 fire · 3 crash"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "2014 DODGE DURANGO.  CONSUMER WRITES IN REGARDS TO VEHICLE HESITATION DURING ACCELERATION.  *SMD  THE DEALER PERFORMED TESTS, AND FOUND NOTHING WRONG WITH THE VEHICLE. HOWEVER, THE DEALER DID PERFORM A PCM UPDATE. TWO DAYS LATER, THE VEHICLE STALLED IN TRAFFIC. WHEN THE CONSUMER ",
         "pct": 9,
         "title": "Engine",
-        "blurb": "74 reports (9%) · 3 fire · 1 crash · 5 injured"
+        "blurb": "Owners report vehicle hesitation during acceleration, mirroring complaints filed under the electrical system, with some reports additionally noting fires or crashes. · 3 fire · 1 crash · 5 injured"
       },
       {
         "component": "AIR BAGS",
@@ -123,6 +123,7 @@
         "title": "Air Bags",
         "blurb": "72 reports (9%) · 7 crash · 14 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

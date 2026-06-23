@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Mazda Cx-5 owners report most",
-    "summary": "Across 506 owner complaints to NHTSA, the most reported area is Exterior Lighting (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Exterior lighting problems are the most-reported issue on this vehicle, with owners describing a melting or flowing degradation of the headlight lens coating. Electrical system failures, brake-related incidents involving unintended acceleration, and powertrain hesitation or lurching are also commonly reported, with some electrical and brake complaints noting fires or crashes. Taken together, the complaints span both safety-critical driving behaviors and cosmetic-but-structural component failures.",
     "issues": [
       {
         "component": "EXTERIOR LIGHTING",
@@ -73,7 +73,7 @@
         "sample": "HEADLIGHT CLEAR LENS IS MELTING FROM INSIDE. CLEAR LENS THAT COVERS HEADLIGHT HAS COATING INSIDE AND OUTSIDE. IT IS THE INSIDE COATING THAT IS FLOWING DOWN. LOOKS LIKE IT WAS OVER-APPLIED DURING MANUFACTURING PROCESS. BUT IN TIME, IT'S APPEARANCE IS BECOMING MORE AND MORE VISIBLE",
         "pct": 32,
         "title": "Exterior Lighting",
-        "blurb": "161 reports (32%)"
+        "blurb": "Owners report that the clear headlight lens develops an internal coating that appears to melt and flow downward, with the defect attributed to how the coating was applied during manufacturing."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "2016 MAZDA CX-5.  CONSUMER WRITES IN REGARDS TO IGNITION/ \"ROOM FUSE\" FAILURE.  *SMD  THE CONSUMER STATED WHILE DRIVING, THE GPS, RADIO, BLUETOOTH AND OTHER INTERIOR FUNCTIONS FAILED. NO WARNING LIGHTS OTHERWISE APPEARED. AFTER PUTTING GAS IN THE VEHICLE. THE VEHICLE WOULD NOT ST",
         "pct": 14,
         "title": "Electrical System",
-        "blurb": "69 reports (14%) · 5 fire · 4 crash · 3 injured"
+        "blurb": "Owners report that while driving, the GPS, radio, Bluetooth, and other interior functions fail simultaneously, with no warning lights appearing to indicate the cause, pointing to a fuse or ignition-adjacent failure. · 5 fire · 4 crash · 3 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -97,7 +97,7 @@
         "sample": "WHILE ATTEMPTING TO PULL INTO A PARKING SPACE WITH A 2016 MAZDA CX-5 (7000 MILES) ALL OF THE WARNING LIGHTS ON THE DASHBOARD LIT UP AND THE CAR STARTED ACCELERATING ON ITS OWN (UNINTENDED ACCELERATION). THE BRAKES WOULD NOT WORK!  IN AN ATTEMPT TO AVOID THE CAR PARKED IN FRONT OF",
         "pct": 13,
         "title": "Service Brakes",
-        "blurb": "68 reports (13%) · 1 fire · 6 crash · 2 injured"
+        "blurb": "Owners report dashboard warning lights illuminating all at once accompanied by the vehicle accelerating on its own without driver input, with the brakes described as unable to stop the unintended acceleration. · 1 fire · 6 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "STOPPED ON HIGHWAY AT RED LIGHT. WENT TO PULL OUT ON GREEN, CAR HESITATED THEN IT FELT LIKE I WAS BEING HIT FROM BEHIND THE TRANSMISSION ENGAGED WITH A BIG THUD BEFORE I COULD GET MOVING.  FURTHER ON DOWN THE ROAD IT WOULD WITHOUT WARNING, DOWNSHIFT THEN UPSHIFT, GOING SOMETIMES ",
         "pct": 10,
         "title": "Power Train",
-        "blurb": "51 reports (10%) · 5 crash · 2 injured"
+        "blurb": "Owners report the vehicle hesitating when pulling away from a stop, followed by the transmission engaging with a sharp thud or jolt before the car begins moving. · 5 crash · 2 injured"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -123,6 +123,7 @@
         "title": "Visibility/Wiper",
         "blurb": "42 reports (8%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

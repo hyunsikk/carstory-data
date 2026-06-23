@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Subaru Outback owners report most",
-    "summary": "Across 914 owner complaints to NHTSA, the most reported area is Electrical System (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system complaints make up the largest share of owner reports, frequently describing abnormal sounds on startup alongside unresolved dealer diagnoses. Visibility and wiper issues form the second-largest category, with owners citing dashboard glare that distracts from driving. Powertrain and engine concerns appear less frequently but include reports of unintended vehicle movement and abnormal noises.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 SUBARU OUTBACK. THE CONTACT STATED THAT WHEN THE VEHICLE WAS STARTED, THERE WAS AN LOUD ABNORMAL SOUND. THE VEHICLE WAS TAKEN TO A DEALER WHERE THE FAILURE WAS UNDETERMINED. THE CONTACT ALSO MENTIONED THE ALL THE WINDOWS FAILED TO FUNCTION EXCEPT FOR T",
         "pct": 43,
         "title": "Electrical System",
-        "blurb": "391 reports (43%) · 1 fire · 5 crash · 4 injured"
+        "blurb": "Owners report a loud, abnormal sound when the vehicle is started, with dealers often unable to determine the cause. · 1 fire · 5 crash · 4 injured"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 SUBARU OUTBACK. WHILE DRIVING VARIOUS SPEEDS, THERE WAS A GLARE FROM OUTSIDE THE VEHICLE THAT REFLECTED OFF THE FACE PLATE OF THE NAVIGATION SYSTEM WITHOUT WARNING. THE FAILURE DISTRACTED THE CONTACT FROM DRIVING AND HINDERED HER VISIBILITY. THE VEHICL",
         "pct": 22,
         "title": "Visibility/Wiper",
-        "blurb": "205 reports (22%) · 2 crash · 1 injured"
+        "blurb": "Owners report glare from outside the vehicle reflecting off the navigation system face plate while driving, causing distraction. · 2 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "MILEAGE: 248. CAR CONTINUE TO MOVE BACKWARD AFTER SHIFTING FROM REVERSE INTO DRIVE. SHIFTING BACK TO REVERSE AND AGAIN TO FORWARD ( 3 TIMES) DID NOT HELP.    IT HAPPENED ON A LEVEL PARKING LOT (SLOW SPEED MOVING). AFTER SHIFTING AUTOMATIC TRANSMISSION FROM PARKING TO REVERSE VEHI",
         "pct": 5,
         "title": "Power Train",
-        "blurb": "46 reports (5%) · 2 crash"
+        "blurb": "Owners report the vehicle continuing to move backward after shifting from reverse into drive, with repeated shift attempts failing to immediately correct the movement. · 2 crash"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 SUBARU OUTBACK. THE CONTACT STATED THAT WHEN THE VEHICLE WAS STARTED, THERE WAS AN LOUD ABNORMAL SOUND. THE VEHICLE WAS TAKEN TO A DEALER WHERE THE FAILURE WAS UNDETERMINED. THE CONTACT ALSO MENTIONED THE ALL THE WINDOWS FAILED TO FUNCTION EXCEPT FOR T",
         "pct": 5,
         "title": "Engine",
-        "blurb": "42 reports (5%) · 1 fire · 1 crash"
+        "blurb": "Owners report a loud, abnormal sound upon starting the vehicle, with the failure remaining undetermined after dealer inspection. · 1 fire · 1 crash"
       },
       {
         "component": "VISIBILITY",
@@ -123,6 +123,7 @@
         "title": "Visibility",
         "blurb": "30 reports (3%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

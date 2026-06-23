@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2022 Honda Civic: steering dominates the owner complaints",
-    "summary": "Owners filed 874 complaints with NHTSA. Steering stands out far above everything else at 83% of all reports, and it is also tied to the most crashes (27) and injuries (9). The remaining complaints are spread thinly across driver-assist features: forward collision avoidance (8%), lane departure (8%), vehicle speed control (5%), and the electrical system (4%). No fires and no deaths are reported in any area.",
+    "summary": "Steering problems — particularly vibration in the steering wheel at highway speeds — are the most commonly reported issue for this model, with a substantial majority of owner complaints falling in that area. A secondary cluster of complaints covers the driver-assistance suite, where owners describe the adaptive cruise control disengaging without warning and lane-keep assist making erratic lateral corrections, especially near lane markings, curves, and large vehicles. These assist-system behaviors appear across both the forward collision avoidance and lane departure components, suggesting a broader pattern in the sensing or control logic.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "The contact owns a 2022 Honda Civic. The contact stated while driving approximately 55 to 60 mph, the steering wheel was vibrating. The dealer was made aware of the failure and the vehicle was inspected; however, the dealer informed the contact that the steering column part was n",
         "pct": 83,
         "title": "Steering",
-        "blurb": "By far the dominant complaint: 726 reports (83%), tied to 27 crashes and 9 injuries, the most of any area. Some owners describe the wheel vibrating at highway speed. Test the steering carefully."
+        "blurb": "Owners report the steering wheel vibrating noticeably while driving at highway speeds, with the condition prompting dealer inspections. · 27 crash · 9 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -85,7 +85,7 @@
         "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
         "pct": 8,
         "title": "Forward Collision Avoidance",
-        "blurb": "71 reports (8%), linked to 4 crashes and 5 injuries. Reports point to the driver-assist and cruise systems acting up. Check that they work as expected."
+        "blurb": "Owners report the cruise control — whether in adaptive or standard mode — disengaging randomly and refusing to re-engage, with the cruise control icon appearing on the center display during the event. · 4 crash · 5 injured"
       },
       {
         "component": "LANE DEPARTURE",
@@ -97,7 +97,7 @@
         "sample": "My wife purchased a new 2022 Honda civic sport, it has lane control assist and at high speed it wonders, pulls side to side, follows lanes color change, pulls into a curve and pulls when going by big trucks into the truck. I have to hold the steering very tight and it has made my",
         "pct": 8,
         "title": "Lane Departure",
-        "blurb": "66 reports (8%), tied to 6 crashes and 2 injuries. Owners describe lane-keeping assist pulling the car side to side at speed. Worth testing on the highway."
+        "blurb": "Owners report the lane control assist causing the vehicle to wander, pull side to side, follow lane color changes, tug toward curves, and drift toward large trucks at high speed. · 6 crash · 2 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "Cruise control (either in Adaptive Cruise Control or regular) disengages randomly and if you attempt to restart the cruise, the cruise control will not work. The cruise control icon will appear on the center display and beep, with the words \"Cruise Control Off\", to get this worki",
         "pct": 5,
         "title": "Vehicle Speed Control",
-        "blurb": "42 reports (5%), with 1 crash and 1 injury. Reports center on cruise control disengaging on its own. A smaller, lower-severity area."
+        "blurb": "Owners report the cruise control cutting out unexpectedly in both adaptive and standard modes, with subsequent attempts to restart the system failing and the cruise control icon displaying on screen. · 1 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "The fewest at 38 reports (4%), tied to 3 crashes and 1 injury. Some reports mention the traffic sign recognition showing wrong speed data."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

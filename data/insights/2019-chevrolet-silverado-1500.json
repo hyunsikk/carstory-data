@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 Silverado 1500: engine and transmission lead owner complaints",
-    "summary": "From 1,026 owner reports to NHTSA, engine problems are the most common (341 reports, 33%), closely followed by transmission and drivetrain issues (308 reports, 30%). Brakes come next (191 reports, 19%), and these carry the most crashes of any category (11 crashes, 4 injuries). A handful of reports across engine, power train, and electrical mention fires. Check the breakdown below before you buy or to know what to watch for.",
+    "summary": "Engine and powertrain complaints dominate owner reports for this generation of the Silverado, with owners describing sudden engine shutoffs at highway speed and violent, jarring transmission shifts. Brake and electrical faults round out the picture, with reports of spongy pedals that fail to hold the truck at intersections and spurious warning messages that distract from driving.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "ON 6/26/2019 WHILE DRIVING TO WORK ON HWY 287 WHILE IN MOTION MY TRUCK ENGINE TURNED OFF ON MY 2019 CHEVROLET SILVERADO TEXAS EDITION 2.7 L COLOR SILVER AND I WAS ALMOST REAR ENDED AND I IMMEDIATELY CALLED SMICKLAS CHEVROLET IN OKLAHOMA CITY WHERE I PURCHASED THE TRUCK AND BROUGH",
         "pct": 33,
         "title": "Engine",
-        "blurb": "The top complaint area: 341 reports (33%), including 3 that involved a fire. Owners describe the engine shutting off, sometimes while driving."
+        "blurb": "Owners report the engine shutting off without warning while the truck is in motion at highway speed. · 3 fire"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "HARD SHIFTS. IT FELT LIKE SOMEONE HIT ME. THE TRUCK SLAMS INTO GEARS AS YOU ARE DRIVING. ALSO, AFTER DOING A 3 POINT TURN. THERE WAS AN APPROXAMENTENTALY 3 SECOND LAG BEFORE GOING INTO GEAR. IT  HIT SO HARD THAT THE TRUCK SHOOK. IT FELT LIKE A COLLISION. IT HAS STUMBLED SEVERAL T",
         "pct": 30,
         "title": "Power Train",
-        "blurb": "A close second: 308 reports (30%), tied to 6 crashes, 2 injuries, and 1 fire. Owners report hard, jarring shifts and lag before the transmission engages."
+        "blurb": "Owners describe extremely hard, sudden gear changes — described as feeling like a collision — as well as multi-second delays before the transmission engages after a direction change. · 1 fire · 6 crash · 2 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -97,7 +97,7 @@
         "sample": "TODAY 1/29/2019  WHILE ATTEMPTING TO COME TO A STOP AT AN INTERSECTION, THE BRAKE PEDAL BECAME VERY SPONGY AND I ROLLED INTO THE INTERSECTION BEFORE I WAS ABLE TO FULLY COMPRESS THE PEDAL ALMOST TO THE FLOOR, ANY OWNER OF THIS TRUCK KNOW'S HOW RESPONSIVE THE BRAKE SYSTEM IS AND I",
         "pct": 19,
         "title": "Service Brakes",
-        "blurb": "191 reports (19%), and the most crash-prone category here: 11 crashes and 4 injuries. Owners describe a spongy pedal and reduced stopping power."
+        "blurb": "Owners report the brake pedal becoming spongy and requiring near-full compression to slow the truck, with some describing the vehicle rolling into intersections before stopping. · 11 crash · 4 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "IN COLD TEMPERATURES, THIS TRUCK CONSTANTLY THROWS ERROR CODES 'TRAILER DISCONNECTED' 'LANE CHANGE ALERT DISABLED', AND 'REAR CROSS TRAFFIC DISABLED'.    THESE ERRORS ARE EXTREMELY DISTRACTING AND HAVE NEARLY CAUSED ME TO GET INTO ACCIDENTS CLEARING THE ERRORS. GM IS AWARE OF THE",
         "pct": 18,
         "title": "Electrical System",
-        "blurb": "183 reports (18%), linked to 2 fires, 2 crashes, and 1 injury. Owners report nuisance error codes and disabled driver-assist warnings."
+        "blurb": "Owners report repeated false warning messages — including trailer-connection and driver-assistance alerts — appearing in cold temperatures and distracting attention from the road. · 2 fire · 2 crash · 1 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "The smallest group: 68 reports (7%) with 1 crash. Owners report a 'service steering column lock' warning and concerns the wheel could lock up."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2019 VW Jetta: powertrain, electrical, and engine drive the complaints",
-    "summary": "Owners filed 533 complaints to NHTSA on the 2019 Jetta, and three areas dominate: Power Train (161 reports, 30%), Electrical System (148, 28%), and Engine (144, 27%) together account for the large majority. Engine complaints include 2 reports of fire and 4 of crashes; most areas also list a handful of injuries. Service Brakes (27) and Exterior Lighting (26) round out the list at 5% each. Read each area below for what to watch.",
+    "summary": "Power train and electrical system issues dominate owner complaints for this Jetta generation, with many reports describing grinding noises during low-speed driving and unexpected engine shutoffs. Electrical failures stand out because they appear to cascade — owners report losing power steering and brake effectiveness in the same event as the shutoff. Engine complaints also appear at a similar rate, with some reports mentioning transmission grinding alongside unrelated trim and latch concerns.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "THERE IS AN ISSUE WITH THE TORQUE CONVERTER IN THE 2019 JETTAS (AUTOMATIC). WHEN DRIVING IN LOW RPM'S, THERE IS A LOUD GRINDING SOUND COMING FROM THIS AREA. THIS AFFECTS DRIVE-ABILITY, AS YOU NEED TO DRIVE MORE AGGRESSIVELY TO ELIMINATE THE SOUND. THERE ALSO ARE MULTIPLE REPORTS ",
         "pct": 30,
         "title": "Power Train",
-        "blurb": "The single most reported area: 161 complaints (30% of all reports), with 3 crashes and 5 injuries. The most common in this group. Worth a careful test drive and inspection."
+        "blurb": "Owners report a loud grinding sound from the torque converter area of automatic-transmission vehicles when driving at low engine speeds, with some noting the issue forces a more aggressive driving style to avoid it. · 3 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "THE CAR SHUT OFF, I LOST CONTROL OF THE POWER STEERING AND THE BREAKS FAILED TO STOP AFTER THE COMPUTER SHUT THE CAR OFF.  NOW THEY CALM THE SHIFTER IS DEFECTIVE AND NEEDS REPLACED AFTER THERE COMPUTER DIAGNOSTIC CODES FAILED TO DETECT THE PROBLEM THE FIRST 2 TIMES AND A TEST DRI",
         "pct": 28,
         "title": "Electrical System",
-        "blurb": "A close second: 148 complaints (28%), tied to 2 crashes and 6 injuries, the most injuries of any area. Don't ignore electrical warning signs on a test drive."
+        "blurb": "Owners describe the car shutting off without warning, resulting in simultaneous loss of power steering and reduced braking effectiveness, with diagnostic codes pointing to a defective shifter component. · 2 crash · 6 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "FIRST, TRUNK OF THE CAR. IT'S UNSAFE AND DOESN'T LOCK UNLESS U OVEREXTEND IT OPEN. I HAVE BEEN HIT IN MY HEAD TWICE BEFORE I LEARNED MY LESSON.    SECOND, TRANSMISSION. IT MAKES A GRINDING NOISE WHEN OPERATED AT SLOWER SPEEDS. I AM REACHING 9,500 MILES AND NOISE IS STILL THERE SI",
         "pct": 27,
         "title": "Engine",
-        "blurb": "144 complaints (27%), and the only area with reported fires: 2 fires, plus 4 crashes and 4 injuries. The most safety-serious group, even if not the most reported. Take it seriously."
+        "blurb": "Owners report a grinding noise from the transmission during slower-speed operation, sometimes mentioned alongside a trunk latch that fails to secure unless the lid is fully overextended. · 2 fire · 4 crash · 4 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "THE CAR SHUT OFF, I LOST CONTROL OF THE POWER STEERING AND THE BREAKS FAILED TO STOP AFTER THE COMPUTER SHUT THE CAR OFF.  NOW THEY CALM THE SHIFTER IS DEFECTIVE AND NEEDS REPLACED AFTER THERE COMPUTER DIAGNOSTIC CODES FAILED TO DETECT THE PROBLEM THE FIRST 2 TIMES AND A TEST DRI",
         "pct": 5,
         "title": "Service Brakes",
-        "blurb": "Far fewer reports (27, 5%), but they carry weight: 4 crashes and 5 injuries from a small group. Confirm braking feels firm and responsive."
+        "blurb": "Owners report brakes failing to stop the vehicle after an unexpected computer-triggered shutoff also eliminates power steering. · 4 crash · 5 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -123,6 +123,7 @@
         "title": "Exterior Lighting",
         "blurb": "The smallest area: 26 complaints (5%), 1 injury, with no crashes or fires reported. Mostly a check-the-lights-work item."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

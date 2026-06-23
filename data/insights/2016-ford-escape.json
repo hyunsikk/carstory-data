@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Ford Escape owners report most",
-    "summary": "Across 1,009 owner complaints to NHTSA, the most reported area is Power Train (31% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Power train complaints dominate owner reports, with drivers describing chattering, vibration, and rough engagement when shifting between reverse and drive. Engine-related reports cluster around sudden, complete power loss at speed accompanied by rough running and loss of acceleration. Electrical and camera system faults round out the picture, with owners noting intermittent warning lights and unreliable backup-camera displays.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "VEHICLE WILL CHATTER AND VIBRATE WHEN GOING FROM REVERSE TO DRIVE MODE TO GO FORWARD,  EVEN WHEN TOTALLY STOPPED TO GO FORWARD. BANGS IN WHEN APPLYING GAS LIGHT OR HARD TRYING TO GET OUT OF WAY OF ON APPROACHING TRAFFIC IN STREET AND PARKING SPOTS. BOUGHT IT BRAND NEW IN JULY  20",
         "pct": 31,
         "title": "Power Train",
-        "blurb": "316 reports (31%) · 1 fire · 5 crash · 8 injured"
+        "blurb": "Owners report chattering and vibration when shifting from reverse to drive, along with a banging sensation when applying the accelerator from a stopped position. · 1 fire · 5 crash · 8 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "LSUDDEN COMPLETE LOSS OF POWER UNEXPECTEDLY DRIVING AT LOW OR HIGH SPEED.   RUFF RUNNING WITHOUT ABILITY TO ACCELERATE. WARING MESSAGE OF \"HILL ASSIT\" NOT ACTIVATED. VERY DANGEROUS SENARIO WHILE ON INTERSTATE. OCCURRED 3 (THREE) TIMES IN 2 DAYS. CAR WAS A HERTZ RENTAL CAR AND I W",
         "pct": 19,
         "title": "Engine",
-        "blurb": "191 reports (19%) · 6 fire · 3 crash · 2 injured"
+        "blurb": "Owners report sudden, complete loss of power while driving at both low and high speeds, accompanied by rough running, inability to accelerate, and a hill-assist warning message. · 6 fire · 3 crash · 2 injured"
       },
       {
         "component": "BACK OVER PREVENTION",
@@ -97,7 +97,7 @@
         "sample": "We bought this car used. Every since purchase the rear camera has failed off and on. The radio as well as display seems to do as it wants. I try not to depend on camera but the other issues bother me. Seems to be random things happen that all seem to tie back to the darn display ",
         "pct": 13,
         "title": "Back Over Prevention",
-        "blurb": "136 reports (13%) · 3 crash"
+        "blurb": "Owners report the rear camera failing intermittently, alongside erratic behavior from the radio and display screen. · 3 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "BROUGHT 2016 IN NOVEMBER 2015 AND CHECK ENGINE LIGHT WAS ON AND OFF ON STREETS OR HIGHWAY AND STAYED ON ALWAYS. TRUCK BEEN IN THE SHOP SINCE 3/22/16 TIL 4/13/16 THAN   4/19/16 TIL DATE. REASONS REPLACED COMPUTER PCM, REPAIRED WIRE TWICE, REPLACE CHIPS, REPLACE WIRE AGAIN.  MCCART",
         "pct": 8,
         "title": "Electrical System",
-        "blurb": "83 reports (8%) · 3 fire · 1 crash · 1 injured"
+        "blurb": "Owners report a check engine light that cycles on and off unpredictably on streets and highways, with the vehicle requiring extended shop visits including computer module replacement. · 3 fire · 1 crash · 1 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "68 reports (7%) · 4 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

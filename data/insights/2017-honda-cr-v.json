@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Honda Cr-V owners report most",
-    "summary": "Across 1,726 owner complaints to NHTSA, the most reported area is Engine (30% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine-related complaints dominate owner reports for this model year, with gasoline fumes entering the cabin being the most commonly described symptom. Electrical system and fuel/propulsion issues are also widely reported, with some owners noting warning lights, abnormal noises, and wiring damage. A notable share of complaints also concern the forward collision avoidance system activating unexpectedly without an obstacle present.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "FREQUENT NOXIOUS GAS FUMES IN THE CABIN OF THE VEHICLE.   OFTEN WHEN THE VEHICLE IS SITTING IDLE, OR STARTING, THERE IS A STRONG SMELL OF GAS IN THE CABIN.   THIS ISSUE BEGAN A COUPLE WEEKS AFTER PURCHASING THE VEHICLE (FEBRUARY 3) AND HAS HAPPENED MOST RECENTLY ON MAY 28.  THE I",
         "pct": 30,
         "title": "Engine",
-        "blurb": "512 reports (30%) · 2 fire · 8 crash · 5 injured"
+        "blurb": "Owners report a strong smell of gasoline inside the cabin, most often noticed when the vehicle is idling or starting. · 2 fire · 8 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "ENGINE LIGHT CAME ON AND MESSAGE SAID EMISSIONS SYSTEM PROBLEM AND THE HEADLIGHTS GOT HIGH AND THEN LOW AND THEN HIGH AND THEN LOW. I BROUGHT THE CAR TO A HONDA DEALERSHIP SAID THAT RODENTS CHEWED THE ENGINE MAIN WIRING HARNESS AND WOULD COST $1,000 TO REPLACE. IF THE WIRING HARN",
         "pct": 23,
         "title": "Electrical System",
-        "blurb": "394 reports (23%) · 6 crash · 7 injured"
+        "blurb": "Owners report warning lights illuminating for emissions system problems and erratic headlight behavior, with some attributing the cause to chewed wiring in the engine bay. · 6 crash · 7 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HONDA CR-V. THE CONTACT HEARD AN ABNORMAL NOISE ASSOCIATED WITH THE FUEL SYSTEM. THE DEALER WAS UNABLE TO REPLICATE AND DIAGNOSE THE FAILURE. THE CONTACT RECORDED THE ABNORMAL NOISE AND TOOK THE VEHICLE TO THE DEALER. THE MECHANIC TEST DROVE THE VEHICL",
         "pct": 20,
         "title": "Fuel/Propulsion System",
-        "blurb": "344 reports (20%) · 1 fire · 2 crash · 2 injured"
+        "blurb": "Owners report abnormal noises associated with the fuel system that dealers have been unable to consistently replicate or diagnose. · 1 fire · 2 crash · 2 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 HONDA CR-V. THE CONTACT STATED THAT THE AUTOMATIC BRAKE SYSTEM INDICATOR ILLUMINATED, BUT THERE WERE NO VEHICLES AHEAD. THE FAILURE ONLY OCCURRED WHILE DRIVING ON BACK ROADS AND SIDE STREETS. IN ADDITION, THE AUTO SAFETY FEATURE INDICATOR ILLUMINATED. ",
         "pct": 16,
         "title": "Forward Collision Avoidance",
-        "blurb": "273 reports (16%) · 6 crash · 8 injured"
+        "blurb": "Owners report the automatic brake system indicator activating and triggering braking events when no vehicle or obstacle is present ahead, particularly on back roads and side streets. · 6 crash · 8 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "174 reports (10%) · 13 crash · 10 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

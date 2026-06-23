@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2017 Ford Fusion owners report most",
-    "summary": "Across 1,090 owner complaints to NHTSA, the most reported area is Engine (35% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine and powertrain problems dominate owner reports for this model, with no-start conditions being the most commonly described symptom. Owners also report overheating without warning lights and electrical failures, several of which led to fires or crashes. The Energi plug-in hybrid variant appears frequently in complaints involving wiring and starting issues.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "MY CAR, WITH 2K MILES, WOULD NOT START (PUSH BUTTON START, THIS IS THE PLUG-IN HYBRID \"ENERGI\" MODEL).  AFTER BEING TOWED TO A DEALER, THEY HAD TO TEAR THE CAR APART TO FIND A BAD WIRING HARNESS AS PART OF THE HYBRID SYSTEM.  THIS PART WAS UNAVAILABLE, AND I AM HAVING TO WAIT OVE",
         "pct": 35,
         "title": "Engine",
-        "blurb": "386 reports (35%) · 4 fire · 1 injured"
+        "blurb": "Owners report the vehicle failing to start, sometimes leading to dealer teardowns that reveal wiring harness faults within the hybrid system, with some incidents involving fire. · 4 fire · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "MY CAR, WITH 2K MILES, WOULD NOT START (PUSH BUTTON START, THIS IS THE PLUG-IN HYBRID \"ENERGI\" MODEL).  AFTER BEING TOWED TO A DEALER, THEY HAD TO TEAR THE CAR APART TO FIND A BAD WIRING HARNESS AS PART OF THE HYBRID SYSTEM.  THIS PART WAS UNAVAILABLE, AND I AM HAVING TO WAIT OVE",
         "pct": 28,
         "title": "Power Train",
-        "blurb": "303 reports (28%) · 1 fire · 5 crash · 6 injured"
+        "blurb": "Owners describe no-start conditions requiring towing, with some incidents attributed to wiring harness problems in the hybrid system, and some reports involving fires or crashes. · 1 fire · 5 crash · 6 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2017 FORD FUSION. THE CONTACT STATED WHILE DRIVING 70 MPH, THE TEMPERATURE GAUGE INCREASED WITH NO WARNING LIGHTS ILLUMINATING. THE CONTACT STATED THAT TEMPERATURE GAUGE REMAINED HIGH AS SHE FELT HEAT ON HER FEET.  THE CONTACT STATED THAT THE HEATER CORE MA",
         "pct": 12,
         "title": "Engine And Engine Cooling",
-        "blurb": "132 reports (12%) · 2 fire"
+        "blurb": "Owners report the temperature gauge rising sharply while driving at highway speeds, with no warning lights illuminating to alert them before the gauge reaches a high reading. · 2 fire"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "MY CAR, WITH 2K MILES, WOULD NOT START (PUSH BUTTON START, THIS IS THE PLUG-IN HYBRID \"ENERGI\" MODEL).  AFTER BEING TOWED TO A DEALER, THEY HAD TO TEAR THE CAR APART TO FIND A BAD WIRING HARNESS AS PART OF THE HYBRID SYSTEM.  THIS PART WAS UNAVAILABLE, AND I AM HAVING TO WAIT OVE",
         "pct": 11,
         "title": "Electrical System",
-        "blurb": "122 reports (11%) · 2 crash · 1 injured"
+        "blurb": "Owners report complete failure to start, with diagnosis revealing wiring harness faults in the hybrid system, and some incidents resulting in crashes. · 2 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "102 reports (9%) · 1 fire · 11 crash · 7 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2019 Tesla Model 3 owners report most",
-    "summary": "Across 590 owner complaints to NHTSA, the most reported area is Forward Collision Avoidance (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The most-reported concern among owners involves the forward collision avoidance system, where the automatic emergency braking activates unexpectedly without a clear obstacle. Electrical system failures — including complete loss of motor power and the inability to shift into neutral — make up the next most-common category, sometimes accompanied by fires or crashes. Air bag and suspension complaints round out the top problem areas, with owners describing screen blackouts and, in the most serious cases, complete wheel and suspension separation.",
     "issues": [
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2019 TESLA MODEL 3. THE CONTACT STATED THAT HE PURCHASED THE SPECIAL FEATURE ADAPTIVE AUTO PILOT BACK IN 06/2020. THE CONTACT STATED THAT THE AUTOMATIC EMERGENCY BRAKING ACTIVATED INDEPENDENTLY WHILE DRIVING 65 MPH, ALMOST BRINGING THE VEHICLE TO AN ABRUPT ",
         "pct": 28,
         "title": "Forward Collision Avoidance",
-        "blurb": "167 reports (28%) · 10 crash · 2 injured"
+        "blurb": "Owners report the automatic emergency braking activating on its own, without an apparent hazard, while the adaptive autopilot feature is engaged. · 10 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "I WAS MOVING FORWARD AT ~15 MPH OVER A SET OF RAILROAD TRACKS ON A CITY STREET WHEN BOTH ELECTRIC MOTORS STOPPED WORKING BRINGING US TO A HALT ON THE TRACKS. THE CAR WOULD NOT SWITCH INTO NEUTRAL TO ALLOW IT TO BE PUSHED OFF OF THE TRACKS NOR WOULD IT RELEASE THE BRAKES UNTIL PUT",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "88 reports (15%) · 2 fire · 4 crash"
+        "blurb": "Owners report both electric motors cutting out without warning, leaving the vehicle stalled and unable to be shifted into neutral or pushed clear of the road. · 2 fire · 4 crash"
       },
       {
         "component": "AIR BAGS",
@@ -97,7 +97,7 @@
         "sample": "MY CAR WAS FIVE WEEKS OLD. WHILE I WAS DRIVING HOME ON MY COMMUTE I REALIZE THE SCREEN HAD FROZE, AND THEN SUDDENLY BLACKED OUT. I THOUGHT IT WAS A  SOFTWARE UPDATE AS I AM A FAMILY THAT OWNS TESLA, BUT IT WASN'T BECAUSE SUDDENLY THE ABILITY TO STEER AND BREAK OR COMPROMISED AND ",
         "pct": 13,
         "title": "Air Bags",
-        "blurb": "75 reports (13%) · 9 crash · 5 injured"
+        "blurb": "Owners report the touchscreen freezing and then going completely dark while driving, an event associated with broader electrical or software failure in some incidents. · 9 crash · 5 injured"
       },
       {
         "component": "SUSPENSION",
@@ -109,7 +109,7 @@
         "sample": "HERE IS A TESLA MODEL 3 IN THE JUNKYARD.  HTTPS://WWW.IAAI.COM/VEHICLEDETAILS?ITEMID=33838953&ROWNUMBER=80&SIMILARVEHICLEITEMID=&ISNEXT=&LOADRECENT=TRUE  BOTH FRONT WHEELS AND SUSPENSIONS HAVE COMPLETELY FALLEN OFF.  ALL OF THE BALL JOINTS AND SUSPENSION GIBLETS HAVE SNAPPED.  WH",
         "pct": 13,
         "title": "Suspension",
-        "blurb": "75 reports (13%) · 1 fire · 6 crash · 3 injured"
+        "blurb": "Owners report front wheels and suspension assemblies detaching entirely from the vehicle, in some cases observed after crashes documented at salvage auctions. · 1 fire · 6 crash · 3 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "71 reports (12%) · 19 crash · 6 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Chevrolet Colorado owners report most",
-    "summary": "Across 693 owner complaints to NHTSA, the most reported area is Steering (64% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Steering problems dominate owner complaints for this model year, with the most common report being the steering wheel locking unexpectedly — a symptom dealers reportedly could not resolve. Electrical failures and powertrain misbehavior round out the next most-reported areas, with wiring faults and transmission hesitation each drawing a notable share of complaints. Engine-related reports are less frequent but include sudden total loss of power while driving at highway speeds.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 CHEVROLET COLORADO. THE CONTACT STATED THAT THE STEERING WHEEL LOCKED MORE THAN TWICE. THE DEALER WAS NOTIFIED EACH TIME, BUT WAS UNABLE TO PROVIDE A SOLUTION TO PREVENT THE FAILURE. THE CONTACT EXPERIENCED THE FAILURE AGAIN AND WAS ABLE TO RECEIVE ROA",
         "pct": 64,
         "title": "Steering",
-        "blurb": "445 reports (64%) · 6 crash · 1 injured"
+        "blurb": "Owners report the steering wheel locking up unexpectedly on multiple occasions, with dealers unable to identify a preventive fix. · 6 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 CHEVROLET COLORADO. WHILE THE VEHICLE WAS AT THE DEALER, THE TECHNICIAN DIAGNOSED THAT THE WIRING HARNESS HAD FRACTURED. AS A RESULT, THERE WERE VARIOUS ELECTRICAL FAILURES, INCLUDING ILLUMINATION OF THE AIR BAG AND TRACTION CONTROL WARNING INDICATORS.",
         "pct": 16,
         "title": "Electrical System",
-        "blurb": "113 reports (16%) · 1 fire · 2 crash"
+        "blurb": "Owners report fractured wiring harnesses leading to a range of electrical failures, including warning lights illuminating throughout the cabin. · 1 fire · 2 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "TRANSMISSION DOES NOT DOWNSHIFT PROPERLY FROM UPPER GEARS (5,6) TO LOWER RANGE WHEN DECELERATING FROM 40 + MPH TO UNDER 20 MPH. VEHICLE WILL EXHIBIT LOSS OF POWER FROM BEING IN TOO HIGH OF A GEAR RANGE, CAUSING \"CHUGGING\", AND THEN A SUDDEN BURST OF POWER AS YOU TRY TO ACCELERATE",
         "pct": 14,
         "title": "Power Train",
-        "blurb": "96 reports (14%) · 1 fire · 3 crash · 1 injured"
+        "blurb": "Owners report the transmission failing to downshift properly from higher gears when decelerating, causing the vehicle to lug or chug from being held in too high a gear at low speeds. · 1 fire · 3 crash · 1 injured"
       },
       {
         "component": "ENGINE",
@@ -109,7 +109,7 @@
         "sample": "DRIVING AT ABOUT 60 MILES A HOUR AND LOST ALL POWER ENGINE WAS RUNNING BUT GOING NO WERE   ALL LIGHT WERE LITE ON DASH LIKE YOU TURN KEY ON BEFORE STARTING  THANK GOD NO ONE WAS COMING THE OTHER WAY OR THE CAR BEHIND ME WOULD HAVE HIT ME.  HE WAS A GOOD DRIVER.   SHUT IT OFF AND ",
         "pct": 7,
         "title": "Engine",
-        "blurb": "47 reports (7%) · 1 crash"
+        "blurb": "Owners report sudden and complete loss of driving power while traveling at highway speeds, with all dashboard warning lights illuminating simultaneously even though the engine continued running. · 1 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "39 reports (6%) · 5 crash · 2 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

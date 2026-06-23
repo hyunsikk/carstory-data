@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Honda Cr-V owners report most",
-    "summary": "Across 583 owner complaints to NHTSA, the most reported area is Engine (32% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine and powertrain complaints dominate owner reports, with many describing loss of traction and the vehicle sliding on slippery surfaces. Electrical system issues — particularly a tire pressure warning light that stays on from the moment of purchase and cannot be reset — account for a substantial share of complaints. Tire-related reports echo the sensor warning theme, with the indicator illuminating during normal highway driving.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "I BOUGHT AT 2014 CRV END OF SEPT/OCT OF 2013. UPON THE FIRST SNOW FALL I DROVE THE VEHICLE AND HAD IMMEDIATE PROBLEMS. THE CAR WAS NOT GETTING ANY TRACTION, IT WAS SLIDING AROUND GOING DOWN HILLS AND UPON TRYING TO DRIVE UP HILLS IT WOULD STOP WITHOUT EVEN TRYING TO GO UP. IT WOU",
         "pct": 32,
         "title": "Engine",
-        "blurb": "189 reports (32%) · 3 fire · 6 crash · 2 injured"
+        "blurb": "Owners report the vehicle failing to gain traction and sliding on snowy or slippery roads, with the problem appearing on the first exposure to winter conditions. · 3 fire · 6 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TIRE PRESSURE MONITORING SYSTEM IS INOPERATIVE AS WARNING LIGHT STAYS LIT CONSTANTLY. WARNING LIGHT CAME ON IMMEDIATELY UPON DRIVE HOME FROM DEALER WITH BRAND NEW CAR. NO ADJUSTMENTS OR RE-SETTING WILL PREVENT LIGHT FROM GOING ON. RETURNED TO DEALER TWICE (DCH HONDA OLD BRIDGE NJ",
         "pct": 13,
         "title": "Electrical System",
-        "blurb": "77 reports (13%) · 1 fire · 1 crash"
+        "blurb": "Owners report the tire pressure monitoring system warning light remaining illuminated continuously, beginning immediately on the drive home from the dealership and persisting despite attempts to reset it. · 1 fire · 1 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I BOUGHT AT 2014 CRV END OF SEPT/OCT OF 2013. UPON THE FIRST SNOW FALL I DROVE THE VEHICLE AND HAD IMMEDIATE PROBLEMS. THE CAR WAS NOT GETTING ANY TRACTION, IT WAS SLIDING AROUND GOING DOWN HILLS AND UPON TRYING TO DRIVE UP HILLS IT WOULD STOP WITHOUT EVEN TRYING TO GO UP. IT WOU",
         "pct": 12,
         "title": "Power Train",
-        "blurb": "68 reports (12%) · 2 crash · 2 injured"
+        "blurb": "Owners report an inability to maintain traction and the vehicle sliding downhill on snowy surfaces, with the problem presenting at the first encounter with winter driving conditions. · 2 crash · 2 injured"
       },
       {
         "component": "TIRES",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 HONDA CR-V. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 50 MPH, THE TIRE SENSOR WARNING INDICATOR ILLUMINATED. THE CONTACTED CHECKED THE TIRE PRESSURE FOR ALL FOUR TIRES, OF WHICH WERE FOUND TO BE AT THE RECOMMENDED PRESSURE READING. THE CONTAC",
         "pct": 9,
         "title": "Tires",
-        "blurb": "52 reports (9%)"
+        "blurb": "Owners report the tire sensor warning indicator illuminating while driving at highway speeds, even after checking that all four tires appear to be properly inflated."
       },
       {
         "component": "WHEELS",
@@ -123,6 +123,7 @@
         "title": "Wheels",
         "blurb": "47 reports (8%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

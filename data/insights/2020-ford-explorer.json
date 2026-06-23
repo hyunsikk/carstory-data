@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Watch the transmission first on the 2020 Explorer",
-    "summary": "Owners filed 1,138 complaints to NHTSA. The power train (transmission and drivetrain) dominates by far at 439 reports (39%) - more than the next two categories combined. Electrical and engine problems follow, with a handful of fires tied to each. Before you buy, get a thorough test drive and a transmission check.",
+    "summary": "Powertrain issues dominate owner complaints for this Explorer model year, with transmission cooling system failures reported while the vehicle is in motion being a recurring theme. Electrical faults and engine failures also appear frequently, with some owners describing sudden unintended acceleration events and at least one complete engine seizure on a near-new vehicle. Backup camera malfunctions round out the most-reported issues, with owners noting the display goes blank during reversing.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "THIS VEHICLE WAS GIVEN TO ME ON OR ABOUT 12 NOVEMBER 2019 AS A REPLACEMENT FOR A 2020 FORD EXPLORER, VIN [XXX], PURCHASED FROM SAMES FORD IN LAREDO, WHICH TWICE HAD FAILURE OF THE TRANSMISSION COOLING SYSTEM WHILE IN MOTION ON THE HIGHWAY.   THIS NEW VEHICLE BROKE DOWN WHILE IN M",
         "pct": 39,
         "title": "Power Train",
-        "blurb": "The single biggest complaint area: 439 reports (39% of all). Owners describe rough shifting and drivetrain failures, sometimes mid-drive. Linked to 6 crashes and 2 injuries. Test-drive hard and watch for jerky or hesitant shifts."
+        "blurb": "Owners report transmission cooling system failures occurring while the vehicle is in motion, with some cases serious enough to prompt vehicle replacement. · 6 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2020 FORD EXPLORER. WHILE THE VEHICLE WAS PARKED, THE ENGINE SUDDENLY BEGAN TO REV VERY HIGHLY AND THE VEHICLE ATTEMPTED TO ACCELERATE FORWARD. THE DRIVER DEPRESSED THE BRAKE PEDAL TO PREVENT THE VEHICLE FROM MOVING. THE TRANSMISSION WAS SWITCHED INTO NEUTR",
         "pct": 15,
         "title": "Electrical System",
-        "blurb": "Second most common: 175 reports (15%). Includes glitches and unexpected behavior, with 4 fires, 3 crashes, and 2 injuries reported. Check that all electronics work normally and look for any warning lights."
+        "blurb": "Owners report the engine suddenly revving to high RPM while parked, with the vehicle attempting to accelerate forward unexpectedly. · 4 fire · 3 crash · 2 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "MY BRAND NEW 2020 FORD EXPLORER PLATINUM TOP OF LINE MODEL (VIN [XXX]) BROKE DOWN ON CHRISTMAS EVE 2019 AFTER A COMPLETE ENGINE SEIZURE WITH LESS THAN 2000 MILES AND LEFT US STRANDED WITH MY FAMILY FOR HOURS IN THE MIDDLE OF THE ROAD. THE VEHICLE LOST ALL POWER AND CONTROL AND HA",
         "pct": 10,
         "title": "Engine",
-        "blurb": "109 reports (10%), including early failures and stalling. Tied to 4 fires and 2 crashes. Listen for unusual noises and confirm the engine runs smoothly cold and warm."
+        "blurb": "Owners report complete engine seizure occurring on vehicles with very low mileage, leaving occupants stranded. · 4 fire · 2 crash"
       },
       {
         "component": "BACK OVER PREVENTION",
@@ -109,7 +109,7 @@
         "sample": "WHEN REVERSING CAMERA WILL SHOW BLUE SCREEN AND NOT GIVE ANY ADDITIONAL WARNINGS SINCE NOTHING CAN BE DETECTED. THIS IS AND ON AND OFF ISSUE SO CAN HAPPEN AT ANY TIME.       I'VE ADDED PICTURES TAKEN AT DIFFERENT DAYS AND TIMES.     I'VE JUST PUT TODAY'S DATE BECAUSE I CAN'T REME",
         "pct": 9,
         "title": "Back Over Prevention",
-        "blurb": "104 reports (9%), often a rearview camera that blanks out. This one carries 8 crashes - the most of any category here - and 1 injury. Confirm the backup camera shows a clear, steady image every time."
+        "blurb": "Owners report the backup camera intermittently displaying a blank blue screen during reversing, providing no visual or warning feedback. · 8 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "80 reports (7%), but the highest injury count here at 6, plus 4 crashes - some owners describe reduced stopping power. Test the brakes carefully and have a mechanic inspect them before buying."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

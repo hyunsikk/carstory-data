@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2023 Fisker Ocean owners report most",
-    "summary": "Across 883 owner complaints to NHTSA, the most reported area is Electrical System (43% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system faults are the most-reported pattern, with owners describing vehicles that become undrivable due to cascading errors and unavailable functions. Brake-related complaints are nearly as common, centered on a confirmed issue where braking over bumps produces an unsafe response. Advanced driver-assistance systems — forward collision avoidance and lane departure — are also widely reported, with owners describing unintended lurching acceleration and false warning messages tied to road conditions and sun angle.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "I have had Fisker for over a month now and it is not a drivable vehicle at the moment as it poses serious safety issues with numerous parts or functionality showing errors and suddenly not available. I would like these issues to be addressed ASAP within 30 days. There is no servi",
         "pct": 43,
         "title": "Electrical System",
-        "blurb": "380 reports (43%) · 2 fire · 2 crash · 2 injured"
+        "blurb": "Owners report vehicles exhibiting numerous simultaneous errors and suddenly unavailable functions, rendering the car undrivable and raising broad safety concerns. · 2 fire · 2 crash · 2 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -85,7 +85,7 @@
         "sample": "Issue has been confirmed and acknowledged by Fisker. There is an issue with bumps on the road while braking and is a safety issue and should probably have a stop order until it's fixed.  They are replacing sewer lines in my area so the roads are as bad as it gets. Our neighborhoo",
         "pct": 37,
         "title": "Service Brakes",
-        "blurb": "324 reports (37%) · 1 fire · 9 crash · 4 injured"
+        "blurb": "Owners and Fisker have confirmed an issue where braking over road bumps produces an unsafe response, with at least one owner calling for a stop-sale until a fix is applied. · 1 fire · 9 crash · 4 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -97,7 +97,7 @@
         "sample": "I'm driving on hill/uneven pavement, either foot off of the accelerator (regen engaged and on high) or foot on the brake pedal and actively pushing the brake.  The brake disengages and the car lurches forward. Feels the the car is being push forward for a split second. Making it ",
         "pct": 24,
         "title": "Forward Collision Avoidance",
-        "blurb": "211 reports (24%) · 1 fire · 6 crash · 1 injured"
+        "blurb": "Owners report the brakes disengaging and the car lurching forward while actively braking or using regenerative braking on hills or uneven pavement. · 1 fire · 6 crash · 1 injured"
       },
       {
         "component": "LANE DEPARTURE",
@@ -109,7 +109,7 @@
         "sample": "\"Auto Emergency Braking\" and \"Lane Keep System\" warning messages are constantly being displayed when car is driven at particular azimuth and angle directions relative to the sun.  Assuming these systems are truly unavailable, this is a major safety hazard.  Even if the systems ar",
         "pct": 14,
         "title": "Lane Departure",
-        "blurb": "122 reports (14%)"
+        "blurb": "Owners report persistent warning messages for the Auto Emergency Braking and Lane Keep systems when driving at particular angles relative to the sun, suggesting the systems may be non-functional in those conditions."
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "90 reports (10%) · 2 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

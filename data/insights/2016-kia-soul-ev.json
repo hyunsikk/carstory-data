@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Kia Soul Ev owners report most",
-    "summary": "Across 798 owner complaints to NHTSA, the most reported area is Engine (68% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern across owner complaints is sudden loss of power while driving, often with no warning. A secondary cluster describes knocking noises from the engine compartment accompanied by power loss, and a smaller share of owners report hesitation or sluggish response when pressing the accelerator. Powertrain communication issues — where the vehicle behaves as though it has slipped into neutral after the accelerator is released — also appear across reports.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "MY CAR IS 2016, ITS 18 MONTHS OLD HAS 19K MILES AND THE ONLY THING DONE TO THE CAR WAS OIL CHANGES WHICH WERE PERFORMED AT THE DEALER WHERE I BOUGHT MY CAR. ON JAN 19, 2018 MY CAR STOP WORKING WHILE DRIVING 45 MILES AN HOUR ON THE STREET. IT HAPPENED ON NW 36TH STREET GOING EAST ",
         "pct": 68,
         "title": "Engine",
-        "blurb": "544 reports (68%) · 28 fire · 4 crash · 2 injured"
+        "blurb": "Owners report the vehicle stopping or cutting out entirely while driving at normal road speeds, with no prior warning signs. · 28 fire · 4 crash · 2 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 KIA SOUL. WHILE DRIVING APPROXIMATELY 25 MPH, A KNOCKING SOUND WAS HEARD FROM THE ENGINE COMPARTMENT AND THE VEHICLE LOST POWER. THE VEHICLE WAS DRIVEN TO GERALD KIA OF NAPERVILLE (1661 AURORA AVE, NAPERVILLE, IL 60540) WHERE IT WAS DETERMINED THAT THE",
         "pct": 13,
         "title": "Engine And Engine Cooling",
-        "blurb": "104 reports (13%) · 2 fire · 1 crash · 1 injured"
+        "blurb": "Owners report a knocking sound from the engine compartment followed by sudden loss of power while the vehicle is in motion. · 2 fire · 1 crash · 1 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "I EXPERIENCE INTERMITTENT HESITATION WHEN PRESSING ON THE ACCELERATOR.  IT FEELS LIKE THE CAR ISN'T DOWNSHIFTING CORRECTLY OR ISN'T GETTING ENOUGH FUEL IN ORDER TO PICK UP SPEED. I TOOK THE CAR TO THE KIA DEALER SERVICE DEPARTMENT AND THEY SAID THEY DIDN'T FIND ANY PROBLEMS AND C",
         "pct": 10,
         "title": "Fuel/Propulsion System",
-        "blurb": "79 reports (10%) · 4 fire · 1 injured"
+        "blurb": "Owners report intermittent hesitation when pressing the accelerator, describing a feeling that the vehicle is not picking up speed as expected. · 4 fire · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "SINCE DAY ONE, MY KIA LOOSE COMMUNICATION WITH GAS PEDAL TO TRANSMISSION OR COMPUTER.FROM STOP I ACCELERATE, AND IF FOR ANY REASON I OUGHT TO RELEASE THE GAS PEDAL, THE TRANSMISSION ACT LIKE IT IS IN NEUTRAL GEAR,AFTER ACCELERATE TWO OR THREE TIMES IT ACCELERATE ABRUPTLY.IT ACT E",
         "pct": 8,
         "title": "Power Train",
-        "blurb": "63 reports (8%) · 2 fire · 1 crash"
+        "blurb": "Owners report the vehicle losing its response to the accelerator after releasing and re-pressing the pedal, causing the vehicle to behave as though it has shifted into neutral. · 2 fire · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "57 reports (7%) · 7 fire · 1 crash · 5 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

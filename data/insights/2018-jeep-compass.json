@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Jeep Compass: engine and electrical issues dominate owner complaints",
-    "summary": "Across 923 owner complaints to NHTSA, engine problems lead by a wide margin at 463 reports (50%), followed by electrical system issues at 368 (40%). Engine and power train each tie for the most crashes (7 apiece), and the electrical system saw the most fires (3). Reported injuries are low overall, with no deaths.",
+    "summary": "Engine and electrical issues dominate owner complaints for this model year, with fuel efficiency falling well below advertised estimates being the most common engine concern. Electrical complaints center on interior display and dashboard lighting that cannot be dimmed, creating hazardous glare at night. Power train and exterior lighting issues round out the pattern, with lighting complaints overlapping significantly with the electrical symptom of uncontrollable brightness.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
         "pct": 50,
         "title": "Engine",
-        "blurb": "Most-reported area by far: 463 complaints (50% of all reports), including 7 crashes, 4 injuries, and 2 fires. Owners describe loss of power and poor fuel economy."
+        "blurb": "Owners report real-world fuel efficiency falling dramatically short of the manufacturer's advertised estimates, accompanied by noticeable power loss. · 2 fire · 7 crash · 4 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "THERE IS AN ISSUE WITH THE SENSOR CONTROLLING THE BRIGHTNESS OF THE CONSOLE AND NAVIGATION SCREEN. AT NIGHT, THE BRIGHTNESS GETS SET TO THE HIGHEST SETTING, WHICH IS ABSOLUTELY BLINDING, AND THE DIMMER SWITCH DOES DOES NOT WORK.    THIS IS A SAFETY ISSUE AND IS CAUSING HARM TO MY",
         "pct": 40,
         "title": "Electrical System",
-        "blurb": "Second most-reported: 368 complaints (40%), with the most fires of any area (3), plus 3 crashes and 1 injury. Owners report the dashboard and screen brightness stuck at maximum at night with a non-working dimmer."
+        "blurb": "Owners report that the console and navigation screen brightness rises to its maximum setting at night and cannot be reduced using the dimmer switch. · 3 fire · 3 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
         "pct": 16,
         "title": "Power Train",
-        "blurb": "151 complaints (16%), tied for the most crashes at 7, plus 4 injuries and no fires. Owners describe loss of power while driving."
+        "blurb": "Owners report poor fuel efficiency and power loss, with actual mileage far below what the manufacturer publishes. · 7 crash · 4 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -109,7 +109,7 @@
         "sample": "IN VIOLATION OF FMVSS SECTION S 5.3.2.2 (B) THE VEHICLE'S INTERIOR DASHBOARD LIGHTS ARE NOT CAPABLE OF BEING DIMMED.  THEY REMAIN AT BRIGHTEST LEVEL REGARDLESS OF ANY PARKING OR HEADLIGHT SETTINGS, AND CANNOT BE DIMMED OR TURNED OFF.  THIS CREATES A DANGEROUS CONDITION DURING NIG",
         "pct": 7,
         "title": "Exterior Lighting",
-        "blurb": "64 complaints (7%), with no reported crashes, fires, or injuries. Owners report dashboard lights stuck at full brightness that cannot be dimmed at night."
+        "blurb": "Owners report that interior dashboard lights remain fixed at their brightest level regardless of headlight or parking light settings and cannot be dimmed."
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "62 complaints (7%), including 1 crash and no fires or injuries. Owners report poor fuel economy and loss of power."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

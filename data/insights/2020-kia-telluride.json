@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2020 Kia Telluride: exterior lighting leads the owner complaints",
-    "summary": "Owners filed 718 complaints with NHTSA. Exterior lighting is the most reported area at 25%, followed by visibility and wipers (19%) and the engine (18%). The power train is the only area tied to a death (1), along with 2 injuries. The engine and electrical system draw the most fire reports (4 and 3), so both are worth a careful look.",
+    "summary": "Exterior lighting complaints dominate owner reports, with owners describing headlights that fail to illuminate road signs and leave visibility severely limited over hills at night. Visibility and wiper complaints follow closely, with owners reporting spontaneous window glass cracking without apparent cause. Engine and powertrain complaints round out the most-reported issues, centered on loss of acceleration and high engine RPM that does not translate into vehicle speed.",
     "issues": [
       {
         "component": "EXTERIOR LIGHTING",
@@ -73,7 +73,7 @@
         "sample": "THE HEADLIGHTS AT NIGHT ARE POOR.  THEY DO NOT ILLUMINATE TRAFFIC SIGNS SUCH AS: SPEED LIMIT, STOP, STREET/HIGHWAY INFO, YIELD, WARNING, ETC.  WHEN YOU APPROACH A THE UPSIDE OF A HILL, VISIBILITY IS LIMITED TO 30-50 FEET.  SIDE VISION WHEN TURNING IS NON-EXISTENT.  THIS OCCURS AT",
         "pct": 25,
         "title": "Exterior Lighting",
-        "blurb": "The most reported area: 181 reports (25%), with 2 crashes and no fires or injuries. Test the headlights at night to see how well they light the road."
+        "blurb": "Owners report that headlights fail to adequately illuminate road signs at night and provide very limited visibility when cresting hills. · 2 crash"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "I HAVE AN ISSUE WITH THE GLASS QUALITY/DESIGN.  IN THE FIRST TWO WEEKS (5/13/19) MY RIGHT PASSENGER WINDOW CRACKED.  I DID HEAR A VERY SLIGHT SOUND (LIKE A WATER BOTTLE EXPANDING) BUT DIDN'T SEE ANYTHING.  WITHIN AN HOUR, THE CRACK OCCURRED.  THERE WAS A VERY SMALL 'DING' BUT CON",
         "pct": 19,
         "title": "Visibility/Wiper",
-        "blurb": "Second most reported: 135 reports (19%), with 1 crash and no fires or injuries. Check the glass and wipers for clear all-around visibility."
+        "blurb": "Owners report passenger window glass cracking spontaneously, sometimes preceded only by a faint sound, with no visible impact or external cause. · 1 crash"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "THE VEHICAL WILL NOT ACCELERATE AT FREEWAY SPEEDS AND THE ENGINE RPM INCREASES UP TO 6000 RPM WITH NO OR LITTLE ACCELERATION WHEN THE GAS PEDDLE IS DEPRESSED..  THIS ALSO OCCURS AT LOWER SPEEDS, NO OR LITTLE ACCELERATION WHILE THE ENGINE RPM INCREASES TO 5000 RPM VISIBLE ON THE T",
         "pct": 18,
         "title": "Engine",
-        "blurb": "128 reports (18%), including 4 with fire and no crashes or injuries. The fire count makes this worth checking carefully; watch for loss of power while driving."
+        "blurb": "Owners report the engine revving to high RPM without producing corresponding acceleration, occurring both at freeway speeds and lower speeds. · 4 fire"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "PURCHASED A BRAND-NEW 2020 KIA TELLURIDE LX, ALL- WHEEL DRIVE. ON THE TEST DRIVE, I COULD NOT GO ABOVE 50MPH, DUE TO THE TRAFFIC IN THE AREA. THE FOLLOWING DAY, THE HAD IT ON AN INTERSTATE. I NOTICED BETWEEN AROUND 63 AND 74MPH, A HUM AND VIBRATION. I CALLED THE DEALER IMMEDIATEL",
         "pct": 9,
         "title": "Power Train",
-        "blurb": "67 reports (9%) but the most serious by outcome: the only area with a death (1), plus 2 injuries, 1 crash, and 1 fire. Listen for hum or vibration at highway speeds."
+        "blurb": "Owners report being unable to reach or sustain highway speeds, with the vehicle appearing to reach a ceiling on acceleration while driving on the interstate. · 1 fire · 1 crash · 2 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "52 reports (7%), including 3 with fire and 1 crash. The fire count is worth a close look; check that driver-assist warnings behave in bad weather."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

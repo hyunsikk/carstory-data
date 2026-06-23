@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Hyundai Sonata owners report most",
-    "summary": "Across 714 owner complaints to NHTSA, the most reported area is Engine (62% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports, with drivers describing sudden loss of power while at highway speed — often with no ability to accelerate or steer. Electrical system faults, powertrain surging during shifts, and rear brake lock-up make up the remaining complaints, with some incidents across all categories associated with fires or crashes.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "WHILE DRIVING 65MPH AT 10PM ON A THE INTERSTATE, I HEARD A POUND \"THUNK\" AND THOUGHT I HAD A TIRE ISSUE, SO BEGAN TO STEER TOWARD THE EMERGENCY LANE. I QUICKLY REALIZED I HAD NO POWER TO ACCELERATE, NO POWER STEERING AND THE DASH WAS BLACKED OUT...CAR WAS DEAD. ONLY EVER THING WO",
         "pct": 62,
         "title": "Engine",
-        "blurb": "440 reports (62%) · 19 fire · 1 crash"
+        "blurb": "Owners report sudden loss of engine power and power steering while driving at highway speed, often accompanied by an audible impact sound and no ability to accelerate. · 19 fire · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "IF I OPEN THE DRIVER SIDE DOOR WHILE THE VEHICLE IS ON, A WARNING LIGHT \"CHECK BSD SYSTEM\" IS DISPLAYED ON THE INFO DISPLAY.  THE WARNING STAYS ON UNTIL THE VEHICLE IS TURNED OFF AND TURNED BACK ON.  IT SHUTS DOWN THE DRIVER ASSISTANCE FEATURE ON THE VEHICLE.  I'VE TAKEN IT INTO ",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "87 reports (12%) · 6 fire · 4 crash · 3 injured"
+        "blurb": "Owners report a \"Check BSD System\" warning appearing on the information display when the driver door is opened while the vehicle is running, with the system shutting down and the warning persisting until the vehicle is power-cycled. · 6 fire · 4 crash · 3 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "DRIVING AT HIGHWAY SPEEDS ONCE THE ENGINE IS AT FULL OPERATING TEMPERATURE THERE IS A HARSH SURGE DURING DOWN SHIFTING AT 35 MPH ( ALMOST AS IF  I WERE DOWN SHIFTING A MANUAL TRANSMISSION OR HITTING THE BRAKES) THIS CAUSES THE VEHICLE TO SLOW MUCH MORE RAPIDLY THAN EXPECTED CAUSI",
         "pct": 8,
         "title": "Power Train",
-        "blurb": "59 reports (8%) · 1 fire"
+        "blurb": "Owners report a harsh, abrupt surge during downshifting at moderate speeds when the engine is at full operating temperature, described as similar to hitting the brakes or dropping a gear in a manual transmission. · 1 fire"
       },
       {
         "component": "SERVICE BRAKES",
@@ -109,7 +109,7 @@
         "sample": "REAR BRAKES FAILED TO PROPERLY FUNCTION WHILE THE VEHICLE WAS IN FORWARD MOTION ON A HIGHWAY. BOTH REAR BRAKES LOCKED UP WITHOUT OPERATOR PRESSING ON BRAKE PETAL. BOTH REAR BRAKES AND WHEEL GOT RED HOT CAUSING PASSENGER SIDE REAR BRAKES CAUGHT ON FIRE.   NO BRAKE WARNING LIGHTS W",
         "pct": 6,
         "title": "Service Brakes",
-        "blurb": "46 reports (6%) · 4 fire · 4 crash · 4 injured"
+        "blurb": "Owners report both rear brakes locking up without pedal input while the vehicle is moving on a highway, with the brakes and wheels becoming extremely hot. · 4 fire · 4 crash · 4 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -123,6 +123,7 @@
         "title": "Exterior Lighting",
         "blurb": "38 reports (5%) · 3 fire"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

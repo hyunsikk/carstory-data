@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Chevrolet Equinox owners report most",
-    "summary": "Across 543 owner complaints to NHTSA, the most reported area is Engine (40% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports for this model year, with owners describing oil leaks discovered during ordinary driving and parking situations, in some cases escalating to fires or crashes. Visibility and wiper complaints form the next largest cluster, with owners reporting intermittent instrument cluster warning behavior while driving in reverse. Electrical system and powertrain complaints round out the picture, with owners describing unexplained warning chimes and sudden, complete loss of drive power.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 CHEVROLET EQUINOX. THE CONTACT STATED THAT WHILE REVERSING FROM A RESIDENTIAL GARAGE, HE NOTICED THAT THERE WAS AN OIL LEAK. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN DIAGNOSED THAT THE FRONT ENGINE SEAL WAS LEAKING AND NEEDED TO BE REPL",
         "pct": 40,
         "title": "Engine",
-        "blurb": "215 reports (40%) · 1 fire · 1 crash · 1 injured"
+        "blurb": "Owners report discovering oil leaks during routine maneuvers such as reversing from a garage, with some incidents involving fires or crashes. · 1 fire · 1 crash · 1 injured"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 CHEVROLET EQUINOX. WHILE DRIVING IN REVERSE AT APPROXIMATELY 5 MPH, THE INSTRUMENT CLUSTER INFORMATION CENTER ILLUMINATED INTERMITTENTLY. THE MANUFACTURER ISSUED A CUSTOMER SATISFACTION PROGRAM WHERE THE RADIO WAS REPLACED; HOWEVER, THE FAILURE PERSIST",
         "pct": 31,
         "title": "Visibility/Wiper",
-        "blurb": "167 reports (31%) · 2 crash"
+        "blurb": "Owners report the instrument cluster information center illuminating intermittently while driving in reverse, with some incidents involving crashes. · 2 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "SEVERAL TIMES RECENTLY, WHILE DRIVING, A WARNING BELL SOUNDS YET THERE IS NO LIGHT ON THE DASH TO TELL ME WHAT IS WRONG. I CHECKED THE MANUAL, NOTHING. IT SOUNDS LIKE THE DING YOU HEAR WHEN YOUR SEATBELT ISN'T FASTENED. I THOUGHT PERHAPS I HADN'T PROPERLY FASTENED MY SEATBELT, TH",
         "pct": 8,
         "title": "Electrical System",
-        "blurb": "45 reports (8%) · 2 fire"
+        "blurb": "Owners report a warning chime sounding repeatedly while driving with no corresponding warning light visible on the dashboard and no explanation found in the owner's manual. · 2 fire"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 CHEVROLET EQUINOX. THE CONTACT STATED WHILE DRIVING AT 20 MPH, THE VEHICLE SUDDENLY LOST ALL POWER AND STARTED ROLLING BACKWARDS WHILE IN DRIVE. THE FAILURE OCCURRED SEVERAL TIMES. THE VEHICLE WAS TAKEN TO A DEALER BUT WAS NOT DIAGNOSED OR REPAIRED. TH",
         "pct": 7,
         "title": "Power Train",
-        "blurb": "40 reports (7%)"
+        "blurb": "Owners report the vehicle suddenly losing all power and rolling backward while the transmission is in drive, with the failure occurring on multiple occasions."
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "34 reports (6%) · 1 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

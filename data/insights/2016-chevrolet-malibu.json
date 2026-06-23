@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Chevrolet Malibu owners report most",
-    "summary": "Across 856 owner complaints to NHTSA, the most reported area is Engine (36% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine-related complaints dominate owner reports, with the most common symptom being unexpected speed reduction accompanied by a \"Engine Power Is Reduced\" warning and an illuminated check engine light. Electrical system failures and powertrain roughness are also widely reported, often occurring during braking or coasting. A notable share of complaints describe the vehicle losing power or behaving erratically during normal driving maneuvers such as highway merging or deceleration.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 CHEVROLET MALIBU. WHILE DRIVING 45 MPH, THE SPEED REDUCED INADVERTENTLY AND A MESSAGE THAT THE SPEED REDUCED TO 25 MPH APPEARED. THE CHECK ENGINE WARNING INDICATOR ILLUMINATED. THE CONTACT STATED THAT ONSTAR SENT AN EMAIL ADVISING THAT A CRITICAL ENGIN",
         "pct": 36,
         "title": "Engine",
-        "blurb": "308 reports (36%) · 1 fire · 5 crash · 7 injured"
+        "blurb": "Owners report the vehicle unexpectedly reducing speed while driving, accompanied by a warning message indicating reduced engine power and an illuminated check engine light. · 1 fire · 5 crash · 7 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 CHEVROLET MALIBU. THE CONTACT STATED THAT WHEN THE BRAKE PEDAL WAS DEPRESSED, THE VEHICLE EXPERIENCED A COMPLETE LOSS OF POWER. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE TECHNICIAN STATED THAT IT WAS OPERATING AS DESIGNED TO SAVE FUEL. THE MANUFACT",
         "pct": 27,
         "title": "Electrical System",
-        "blurb": "232 reports (27%) · 4 crash · 4 injured"
+        "blurb": "Owners report a complete loss of vehicle power occurring when the brake pedal is depressed. · 4 crash · 4 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "DURING A MODEST DECELERATION OR WHILE THE CAR IS COASTING TOWARDS A STOP WITH BRAKE DEPRESSED, THE TRANSMISSION WILL AT TIMES SEEM TO DOWNSHIFT IN AN UNSMOOTH WAY.  SEEMINGLY SKIPPING GEARS DOWN.  THE VEHICLE AT TIMES CAN COAST AT AROUND 1500 RPMS THEN ALL OF THE SUDDEN THE RPMS ",
         "pct": 20,
         "title": "Power Train",
-        "blurb": "174 reports (20%) · 3 crash · 2 injured"
+        "blurb": "Owners report the transmission behaving roughly during modest deceleration or coasting to a stop, described as an unsmooth downshift that appears to skip gears. · 3 crash · 2 injured"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "WHILE MERGING ONTO A HIGHWAY, THE VEHICLE LOST ENGINE POWER AND THE \"CHECK ENGINE\" LIGHT CAME ON.  THE INFORMATION PANEL THEN DISPLAYED TWO WARNINGS, INCLUDING \"ENGINE POWER IS REDUCED\" AND WOULD NOT LET THE VEHICLE ACCELERATE MORE THAN 40 MPH.  THE INFORMATION PANEL ALSO STATED ",
         "pct": 18,
         "title": "Vehicle Speed Control",
-        "blurb": "158 reports (18%) · 3 crash · 6 injured"
+        "blurb": "Owners report sudden loss of engine power while merging onto highways, with the instrument panel displaying warnings about reduced engine power that prevent normal acceleration. · 3 crash · 6 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "105 reports (12%) · 12 crash · 7 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

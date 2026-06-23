@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Chevrolet Equinox owners report most",
-    "summary": "Across 678 owner complaints to NHTSA, the most reported area is Visibility/Wiper (37% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Visibility and wiper complaints dominate owner reports, with drivers describing glare from interior chrome trim reflecting sunlight and obscuring forward vision. Engine complaints are nearly as common, with owners reporting sudden, complete loss of power while driving — including steering, lights, and accessories — requiring a restart to recover. Electrical system and powertrain complaints round out the picture, involving unexpected automatic braking events and vehicle movement without driver input.",
     "issues": [
       {
         "component": "VISIBILITY/WIPER",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2015 CHEVROLET EQUINOX. WHILE DRIVING VARIOUS SPEEDS, THE SUN SHINED INTO THE FRONT WINDSHIELD AND REFLECTED OFF THE CHROME FINISH ONTO THE FRONT CUP HOLDERS AND OBSCURED THE CONTACT'S VISION WHILE DRIVING. THE FAILURE RECURRED NUMEROUS TIMES. THE VEHICLE W",
         "pct": 37,
         "title": "Visibility/Wiper",
-        "blurb": "250 reports (37%) · 1 fire · 1 crash"
+        "blurb": "Owners report that sunlight reflecting off interior chrome trim onto the dashboard area obscures the driver's forward vision while the vehicle is in motion. · 1 fire · 1 crash"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "ON TWO (2) SEPARATE OCCASIONS MY VEHICLE HAS STOPPED DEAD  IN THE ROADWAY WHILE DRIVING. I LOST ALL POWER STEERING, LIGHTS, RADIO ETC. I WAS ABLE TO RESTART THE VEHICLE BOTH TIMES.     THIS COULD BE DEADLY IF I AM ON A BUSY ROAD OR FREEWAY.      I AM TERRIFIED FOR MY SAFETY, BUT ",
         "pct": 33,
         "title": "Engine",
-        "blurb": "227 reports (33%) · 4 fire · 2 crash · 1 injured"
+        "blurb": "Owners report the vehicle suddenly losing all power while driving — including steering, lights, and radio — requiring a restart to regain function. · 4 fire · 2 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "ON 1/2/2017 I POSSIBLY TOTALED A 2015 CHEVY EQUINOX AND I WASN'T EVEN IN IT.  I AM THE FIRE CHIEF IN MY TOWN AND RESPONDED TO A NON-RESPONSIVE INDIVIDUAL CALL.  WHEN I ARRIVED I WAS APPARENTLY DISTRACTED BY THE CALL TYPE AND WHAT WE WERE GOING TO BE DOING NEXT AND LEFT THE VEHICL",
         "pct": 9,
         "title": "Power Train",
-        "blurb": "63 reports (9%) · 4 crash"
+        "blurb": "Owners report incidents in which the vehicle moved without the driver present or in control, resulting in property damage or collision. · 4 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "DRIVING AT APPROXIMATELY 35-40 MPH WITH NO VEHICLES IN SIGHT, NO OBSTACLES, ON A CLEAR DAY, THE FRONT COLLISION ALERT TURNED ON AND THE VEHICLE BRAKES WERE STRONGLY APPLIED.  IT WAS EXTREMELY ROUGH AND FRIGHTENING FOR MY DAUGHTER AND I.  THERE WAS NO EXPLANATION FOR IT.  SINCE TH",
         "pct": 7,
         "title": "Electrical System",
-        "blurb": "45 reports (7%) · 1 crash"
+        "blurb": "Owners report the forward collision alert activating and the brakes applying suddenly and forcefully under clear road conditions with no obstacle present. · 1 crash"
       },
       {
         "component": "AIR BAGS",
@@ -123,6 +123,7 @@
         "title": "Air Bags",
         "blurb": "37 reports (5%) · 17 crash · 17 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

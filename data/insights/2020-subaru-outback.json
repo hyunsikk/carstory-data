@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2020 Subaru Outback: windshield and wiper complaints lead by far",
-    "summary": "Owners filed 889 complaints with NHTSA. Visibility/Wiper is the most reported area at 35%, followed by the electrical system (29%). No fires, injuries, or deaths are reported in any area. Crashes are reported across a few areas, most in forward collision avoidance (4) and the electrical system (3).",
+    "summary": "Windshield cracking is the dominant complaint pattern for this model, reported both as spontaneous fractures and cracks originating from the windshield edge or center that expand over time. Electrical system faults make up the next largest share, with owners describing unexpected engagement of the electronic emergency brake while driving. Forward collision avoidance issues and additional windshield-related visibility complaints round out the most-reported problem areas.",
     "issues": [
       {
         "component": "VISIBILITY/WIPER",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. THE CONTACT STATED THAT THE WINDSHIELD FORMED AN 8'' CRACK ON THE OUTSIDE STARTING FROM THE EDGE OF THE PASSENGER SIDE. DIABLO SUBARU OF WALNUT CREEK (2646 N MAIN ST, WALNUT CREEK, CA 94597) INFORMED THE CONTACT TO BRING THE VEHICLE IN ",
         "pct": 35,
         "title": "Visibility/Wiper",
-        "blurb": "The single biggest complaint: 313 reports (35%), with no crashes, fires, or injuries reported. Inspect the windshield closely for cracks."
+        "blurb": "Owners report windshield cracks forming spontaneously, typically originating from the edge on the passenger side and measuring several inches in length."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. WHILE THE VEHICLE WAS AT AN INTERSECTION, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL; HOWEVER, THE ELECTRONIC EMERGENCY BRAKE ENGAGED WITHOUT WARNING. AS A RESULT, THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS D",
         "pct": 29,
         "title": "Electrical System",
-        "blurb": "Second most reported: 257 reports (29%), tied to 3 crashes. No fires or injuries reported."
+        "blurb": "Owners report the electronic emergency brake engaging without warning while the vehicle is in motion, such as when accelerating from an intersection. · 3 crash"
       },
       {
         "component": "VISIBILITY",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. THE CONTACT STATED THAT AFTER TURNING ON THE VEHICLE INSIDE THE GARAGE, THE CONTACT BECAME AWARE OF A FRACTURE ON THE LOWER PASSENGER'S SIDE OF THE WINDSHIELD BELOW THE WIPER BLADE. THE VEHICLE WAS TAKEN TO CASTLE SUBARU (6100 US HWY 6,",
         "pct": 8,
         "title": "Visibility",
-        "blurb": "70 reports (8%), tied to 1 crash. No fires or injuries reported."
+        "blurb": "Owners report discovering windshield fractures on the lower passenger side, sometimes noticed after starting the vehicle, with cracks appearing below the wiper blade area. · 1 crash"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -109,7 +109,7 @@
         "sample": "THE WINDSHIELD CRACKED WITHOUT A REASON WHILE I WAS DRIVING. THE CRACK STARTS AT THE TOP, APPROXIMATELY AT THE CENTER.  IT STARTED TO EXPAND DOWN AND IN A FEW HOURS HAS REACHED HALF OF THE HEIGHT. I CHECKED WITH FEW REPAIR SHOPS AND THE VERDICT IS THE WINDSHIELD NEEDS A REPLACEME",
         "pct": 6,
         "title": "Forward Collision Avoidance",
-        "blurb": "49 reports (6%) but the most crashes of any area at 4. No fires or injuries reported. Worth checking on a test drive."
+        "blurb": "Owners report windshield cracks appearing without apparent cause while driving, starting near the top center and expanding downward over the course of hours. · 4 crash"
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "45 reports (5%), tied to 2 crashes. No fires or injuries reported."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

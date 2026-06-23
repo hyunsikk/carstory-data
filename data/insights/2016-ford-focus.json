@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Ford Focus owners report most",
-    "summary": "Across 1,184 owner complaints to NHTSA, the most reported area is Power Train (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Power train issues dominate owner complaints for this model, with reports of lurching, abnormal RPM spikes, and loss of drive. Engine and fuel/propulsion complaints describe overheating, stalling, jerking, and sputtering — sometimes requiring engine replacement. Electrical system reports are less common but include similar lurching and RPM anomalies.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 FORD FOCUS. THE CONTACT STATED THAT THE VEHICLE EXPERIENCED LUNGING, THE RPM WENT ABNORMALLY HIGH, AND THE WINDSHIELD SHATTERED AFTER AN INSECT FLEW INTO A WINDSHIELD. THE CONTACT STATED THAT THE VEHICLE FELT ABNORMAL AS THOUGH IT WAS LACKING POWER DUR",
         "pct": 57,
         "title": "Power Train",
-        "blurb": "673 reports (57%) · 8 crash · 3 injured"
+        "blurb": "Owners report the vehicle lunging unexpectedly and the engine RPM climbing abnormally high during operation. · 8 crash · 3 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "MY 2016 FORD FOCUS HAS 5500 MILES ON IT AND IT OVERHEATED LAST WEEK, FORD TOWED TO DEALER AND AFTER A FEW DAYS GOT A CALL STATING THERE WAS A ENGINE PROBLEM AND THE ENGINE NEEDS TO BE REPLACED. I ASKED IF THEY COULD JUST GIVE ME A NEW VEHICLE BECAUSE OF THE LOW MILLAGE AND I WAS ",
         "pct": 20,
         "title": "Engine",
-        "blurb": "235 reports (20%) · 1 fire · 7 crash · 5 injured"
+        "blurb": "Owners report the engine overheating, with some cases resulting in dealers recommending full engine replacement. · 1 fire · 7 crash · 5 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "APPROXIMATELY AT 30000 MILES WHILE STILL UNDER WARRANTY I BROUGHT THE VEHICLE TO SHEEHY OF WARRENTON BECAUSE WHILE ON RTE 28 IN STERLING VA THE VEHICLE WAS INTERMITTENTLY JERKING SPUTTERING AND STALLING. DEALER STATED THEY COULDN'T FIND ANY ISSUES BECAUSE NO CODE WAS PRESENT. ON ",
         "pct": 14,
         "title": "Fuel/Propulsion System",
-        "blurb": "164 reports (14%) · 2 crash"
+        "blurb": "Owners report the vehicle intermittently jerking, sputtering, and stalling while driving. · 2 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 FORD FOCUS. THE CONTACT STATED THAT THE VEHICLE EXPERIENCED LUNGING, THE RPM WENT ABNORMALLY HIGH, AND THE WINDSHIELD SHATTERED AFTER AN INSECT FLEW INTO A WINDSHIELD. THE CONTACT STATED THAT THE VEHICLE FELT ABNORMAL AS THOUGH IT WAS LACKING POWER DUR",
         "pct": 7,
         "title": "Electrical System",
-        "blurb": "84 reports (7%) · 2 fire · 1 crash · 1 injured"
+        "blurb": "Owners report the vehicle lunging and the RPM rising abnormally high, sometimes alongside other unexpected vehicle behavior. · 2 fire · 1 crash · 1 injured"
       },
       {
         "component": "FUEL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel System",
         "blurb": "63 reports (5%) · 1 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

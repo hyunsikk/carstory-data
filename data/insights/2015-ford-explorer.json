@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2015 Ford Explorer owners report most",
-    "summary": "Across 1,738 owner complaints to NHTSA, the most reported area is Structure (23% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Structural concerns make up the largest share of owner complaints for this Explorer model year, followed closely by steering issues. Engine complaints include a notable pattern of exhaust fume intrusion into the cabin, while back-over prevention systems also draw reports. Across all four areas, owners describe discovering problems early in ownership, often within the first weeks or months of driving a new vehicle.",
     "issues": [
       {
         "component": "STRUCTURE",
@@ -73,7 +73,7 @@
         "sample": "I AM GOING INTO THE 5TH MONTH OF LEASING MY 2015 FORD EXPLORER AND I AM NOT HAPPY WITH THIS VEHICLE. CURRENTLY THE ODOMETER READS 2,100 MILES AND THEY WERE NOT ENJOYABLE MILES. I HAVE TO SAY THAT THIS 2015 EXPLORER HAS THE WORST DESIGN ON THE INSIDE THAT I'VE EVER SEEN.    THE OU",
         "pct": 23,
         "title": "Structure",
-        "blurb": "400 reports (23%) · 4 crash · 4 injured"
+        "blurb": "Owners report dissatisfaction with structural integrity shortly after taking delivery, with complaints surfacing within the first few months and low miles of ownership. · 4 crash · 4 injured"
       },
       {
         "component": "STEERING",
@@ -85,7 +85,7 @@
         "sample": "FORD MOTOR CO. AND WORTHINGTON FORD OF LONG BEACH, CA ARE SELLING VEHICLES WITH DAMAGED/DEFECTIVE STEERING AND REFUSING TO FIX THE DEFECT(S).  1/25/2015 PURCHASED FORD EXPLORER (8 MILES ON VEHICLE); DAY AFTER PURCHASE, 1/26/2015, NOTICED PROBLEM WITH STEERING, PARKED VEHICLE, WOU",
         "pct": 20,
         "title": "Steering",
-        "blurb": "340 reports (20%) · 4 crash · 10 injured"
+        "blurb": "Owners report purchasing vehicles with steering they describe as damaged or defective from the start, with dealers allegedly declining to repair the condition. · 4 crash · 10 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "PURCHASED A BRAND NEW 2015 FORD EXPLORER.   ALMOST IMMEDIATELY BEGAN SMELLING EXHAUST FUMES.  CONCERNED THAT THIS WASN'T \"NEW CAR BREAK-IN\", I PURCHASED A CARBON MONOXIDE DETECTOR WITH MEMORY.  OVER A COUPLE OF WEEKS OF DRIVING THE DETECTOR REGISTERED 97 PPM AT PEAK.    AFTER CHE",
         "pct": 13,
         "title": "Engine",
-        "blurb": "225 reports (13%) · 1 fire · 1 crash · 7 injured"
+        "blurb": "Owners report detecting exhaust fumes and carbon monoxide inside the cabin of new vehicles, with the odor present almost immediately after purchase. · 1 fire · 1 crash · 7 injured"
       },
       {
         "component": "BACK OVER PREVENTION",
@@ -109,7 +109,7 @@
         "sample": "MY BACK UP CAMERA AND SENSOR WILL NOT WORK ALL THE TIME. SOMETIMES THE PICTURE WILL SHOW UP ON MY SCREEN, SOMETIMES IT WILL NOT WITH THE NOTIFICATION TO CONTACT THE DEALERSHIP, AND OTHER TIMES NOTHING THE TOUCH SCREEN WITH NOT SHOW ANYTHING AND THE SENSOR WILL NOT BEEP. THERE IS ",
         "pct": 6,
         "title": "Back Over Prevention",
-        "blurb": "109 reports (6%) · 1 crash"
+        "blurb": "Owners report that the backup camera and sensors operate inconsistently, with the camera image sometimes appearing, sometimes absent, and the touchscreen displaying prompts to contact the dealership. · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Electrical System",
         "blurb": "87 reports (5%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

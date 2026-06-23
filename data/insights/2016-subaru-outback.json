@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Subaru Outback owners report most",
-    "summary": "Across 637 owner complaints to NHTSA, the most reported area is Electrical System (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Electrical system faults make up the largest share of owner complaints, with wiring damage and sensor failures being the most commonly described issues. Visibility and wiper malfunctions account for the next most-reported category, followed by engine behavior concerns and powertrain incidents. Across all categories, a portion of reports involve crashes or fires, indicating that some complaints go beyond minor inconvenience.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "MY CAR REQUIRED 2 REPAIRS 5 WEEKS APART OF THE WIRING BUNDLE CONTROLLING THE FOG LIGHTS AND LOW OIL LEVEL SENSOR DUE TO A CRITTER CHEWING THE BUNDLE WHILE IT WAS PARKED.  I NOW HAVE BOUNCE LAUNDRY SHEETS STUFFED AROUND THE ENGINE COMPARTMENT AT THE SUGGESTION OF THE DEALER; THEY ",
         "pct": 48,
         "title": "Electrical System",
-        "blurb": "307 reports (48%) · 3 crash"
+        "blurb": "Owners report wiring bundle failures affecting fog lights and oil level sensors, with some attributing the damage to animals chewing through the wiring while the vehicle was parked. · 3 crash"
       },
       {
         "component": "VISIBILITY/WIPER",
@@ -85,7 +85,7 @@
         "sample": "I JUST PURCHASED A 2016 OB 2.5I PREMIUM. I HAVE HAD THE CAR FOR A WEEK AND A HALF. ON FRIDAY I DECIDED TO WASH MY CAR FOR THE FIRST TIME. I STARTED ON THE DRIVERS SIDE, RAISED THE DRIVERS SIDE WIPER, WENT AROUND THE FRONT OF THE CAR AND RAISED THE PASSENGER SIDE WIPER. I THEN WAS",
         "pct": 13,
         "title": "Visibility/Wiper",
-        "blurb": "83 reports (13%) · 1 crash"
+        "blurb": "Owners report problems with the wiper system discovered during routine washing, with the driver-side wiper being noted as the area where issues first became apparent. · 1 crash"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "THE 3.6R ENGINE IMMEDIATELY AFTER COLD START DOES ABOUT 5 CYCLING SURGES OF ABOUT 300 RPM WITH TRANSMISSION IN FORWARD OR REVERSE AND BRAKES APPLIED.  THIS EVENT DOES NOT HAPPEN UNLESS TRANSMISSION IS PUT IN GEAR WITH BRAKES APPLIED.  THE SURGE DOES NOT HAPPEN AFTER A SHORT WARM ",
         "pct": 8,
         "title": "Engine",
-        "blurb": "51 reports (8%) · 2 fire · 2 crash · 5 injured"
+        "blurb": "Owners of the larger engine variant describe repeated RPM surges immediately after a cold start when the transmission is placed in gear with the brakes applied. · 2 fire · 2 crash · 5 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "I WAS IN A STORE PARKING LOT.  I DROVE APPROX. 2 BLOCKS AND CAME TO A FULL STOP WHERE THERE WAS A PEDESTRIAN CROSSING.  I ACCELERATED MAKING A LEFT TURN AND BEGAN CLIMBING A SMALL HILL TO EXIT THE PARKING AREA.  I TRAVELED APPROXIMATELY 20 FEET AND MY CAR LOST ACCELERATION.    I ",
         "pct": 7,
         "title": "Power Train",
-        "blurb": "45 reports (7%) · 1 fire · 2 crash"
+        "blurb": "Owners describe unexpected powertrain behavior occurring while accelerating from a stop in a parking lot, including during low-speed turning and uphill movement. · 1 fire · 2 crash"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "24 reports (4%) · 3 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

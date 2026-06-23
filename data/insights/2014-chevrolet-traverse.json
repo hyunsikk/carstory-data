@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Chevrolet Traverse owners report most",
-    "summary": "Across 547 owner complaints to NHTSA, the most reported area is Air Bags (47% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Air bag warning lights and related gauge malfunctions are the most commonly reported concern among owners of this vehicle, often appearing alongside fuel gauge irregularities. Electrical system faults — primarily the infotainment screen going blank and losing Bluetooth connectivity — make up the next most frequent pattern. Engine stalls and check-engine warnings, as well as stability control and traction-control alerts accompanied by vibration and unintended braking, round out the primary complaint picture.",
     "issues": [
       {
         "component": "AIR BAGS",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 CHEVROLET TRAVERSE. THE CONTACT INDICATED THAT THE FUEL GAUGE FAILED TO WORK AND DISPLAYED LESS FUEL WHEN THE FUEL TANK WAS FULL. ALSO, THE AIR BAG SENSOR AND OTHER GAUGES INTERMITTENTLY ILLUMINATED AND THE VEHICLE STALLED SEVERAL TIMES. THE CONTACT WA",
         "pct": 47,
         "title": "Air Bags",
-        "blurb": "258 reports (47%) · 5 crash · 12 injured"
+        "blurb": "Owners report the air bag sensor warning light illuminating intermittently, sometimes alongside fuel gauge and other dashboard gauge malfunctions. · 5 crash · 12 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "RADIO WILL GO TO A BLANK SCREEN CAUSING LOSS OF BLUETOOTH FUNCTIONS AND FORCING THE DRIVER TO USE HIS OR HER CELL PHONE WHICH IS NOT EASILY ACCESSIBLE, DEALERSHIP HAS NOT BEEN ABLE TO REPAIR THE PROBLEM AND THERE IS NO WAY TO TURN THE SYSTEM BACK ON UNTIL IT DECIDES TO DO IT ON I",
         "pct": 23,
         "title": "Electrical System",
-        "blurb": "126 reports (23%) · 1 crash"
+        "blurb": "The radio or infotainment display goes to a blank screen, causing loss of Bluetooth functions, with dealers reportedly unable to resolve the problem. · 1 crash"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 CHEVROLET TRAVERSE. THE CONTACT STATED THAT WHILE STOPPED, THE ENGINE WARNING LIGHT ILLUMINATED AS THE ENGINE STALLED. THE VEHICLE WAS TAKEN TO A DEALER FOR DIAGNOSTIC TESTING HOWEVER, THE TECHNICIAN WAS UNABLE TO DIAGNOSE THE FAILURE. THE VEHICLE WAS ",
         "pct": 21,
         "title": "Engine",
-        "blurb": "117 reports (21%) · 1 fire · 1 crash"
+        "blurb": "Owners describe the engine stalling while stopped, accompanied by the engine warning light illuminating, with dealers finding no definitive cause during diagnostic testing. · 1 fire · 1 crash"
       },
       {
         "component": "ELECTRONIC STABILITY CONTROL (ESC)",
@@ -109,7 +109,7 @@
         "sample": "WHILE ACCELERATING TO 40 MPH, THE VEHICLE SUDDENLY STARTED VIBRATING FOLLOWED BY STABILITY CONTROL AND TRACTION ERROR MESSAGES, THE CHECK ENGINE LIGHT ON, A BURNING SMELL DUE TO RANDOM BRAKING AS PART OF THE CONTROL AND AN ENGINE DOWN POWER.  THIS INCIDENT IS SIMILAR TO MANY OTHE",
         "pct": 21,
         "title": "Electronic Stability Control (Esc)",
-        "blurb": "117 reports (21%)"
+        "blurb": "Owners report sudden vibration during acceleration followed by stability control and traction error messages, check engine light activation, a burning smell, and what appears to be random unintended braking triggered by the control system."
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -123,6 +123,7 @@
         "title": "Vehicle Speed Control",
         "blurb": "48 reports (9%) · 2 crash · 7 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

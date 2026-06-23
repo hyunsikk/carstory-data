@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Jeep Cherokee owners report most",
-    "summary": "Across 2,633 owner complaints to NHTSA, the most reported area is Power Train (55% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern in owner complaints centers on the power train, where transmission-related noises, fluid leaks, and shifting problems are frequently described. Engine and electrical system faults appear alongside warning lights and sudden loss of drive, sometimes with transmission warnings surfacing immediately after routine service. A smaller share of owners report fuel and propulsion irregularities, notably violent shaking under hard acceleration.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "2014 JEEP CHEROKEE.  CONSUMER WRITES IN REGARDS TO TRANSMISSION PROBLEMS.  *SMD  VERY SHORTLY AFTER THE VEHICLE WAS PURCHASED, THE CONSUMER NOTICED SPOTS ON THE DRIVEWAY, WHICH THEN PROGRESSED INTO A HORRIBLE WHINING AND GRINDING NOISE. THE VEHICLE STARTED TO SHIFT ERRATICALLY AN",
         "pct": 55,
         "title": "Power Train",
-        "blurb": "1,459 reports (55%) · 7 fire · 19 crash · 9 injured"
+        "blurb": "Owners report fluid spots appearing beneath the parked vehicle, followed by a pronounced whining noise and progressively worsening transmission behavior. · 7 fire · 19 crash · 9 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "A JEEP AUTHORIZED DEALERSHIP CHANGED THE ENGINE OIL AND OIL FILTER FOR MY VEHICLE. ABOUT 15 MINUTES AFTER I TOOK MY VEHICLE FROM THE DEALERSHIP, THE INCIDENT HAPPENED ON A HIGHWAY. \"SERVICE TRANSMISSION\" WARNING SHOWED UP FIRST, THE ENGINE LIGHT WAS ON, AND SOME ELECTRONIC FUNCTI",
         "pct": 19,
         "title": "Engine",
-        "blurb": "512 reports (19%) · 7 fire · 7 crash · 7 injured"
+        "blurb": "Owners report a SERVICE TRANSMISSION warning appearing on the dashboard shortly after routine oil and filter service, while driving on a highway. · 7 fire · 7 crash · 7 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "UPON ACCELERATION 5MPH, MULTIPLE WARNING LIGHTS. TRANSMISSION LIGHT, RED LIGHTNING BOLT LIGHT, SHIFTING HARD, WHEEL LOCKED UP, BATTERY LIGHT CAME ON, CAR DIED. CAR IS 2 MONTHS OLD. DASH FLASHED RED WRITING, CAN NO SHIFT UNLESS IN P  BEFORE DIED. I WAS IN THE MIDDLE OF INTERSECTIO",
         "pct": 17,
         "title": "Electrical System",
-        "blurb": "448 reports (17%) · 9 fire · 6 crash · 6 injured"
+        "blurb": "Owners report multiple warning lights illuminating simultaneously during low-speed acceleration, accompanied by hard shifting, a locked steering wheel, battery warnings, and the vehicle stalling with the inability to shift gears. · 9 fire · 6 crash · 6 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "WHEN QUICKLY ACCELERATING FROM A COMPLETE STOP (SUCH AS PRESSING THE GAS PEDAL ALL THE WAY DOWN), MY 2014 JEEP CHEROKEE(3.2L W/ ACTIVE DRIVE I) SIGNIFICANTLY SHAKES FROM LEFT-TO-RIGHT SIMILAR TO WHERE A WHEEL WOULD BE OUT OF BALANCE. THIS SEEMS TO AFFECT PERFORMANCE AS WELL, WHER",
         "pct": 7,
         "title": "Fuel/Propulsion System",
-        "blurb": "186 reports (7%) · 1 fire · 1 injured"
+        "blurb": "Owners report severe side-to-side shaking of the vehicle when accelerating hard from a complete stop, described as similar to a wheel being out of balance. · 1 fire · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "186 reports (7%) · 1 fire · 10 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Ford Fusion owners report most",
-    "summary": "Across 1,413 owner complaints to NHTSA, the most reported area is Steering (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Steering faults are the most-reported concern, with owners describing sudden warning messages and uncertainty about whether to continue driving. Power train and engine complaints follow closely, covering unexpected vehicle surges, hard starting, and warning lights appearing during normal operation. Electrical system issues round out the top areas, with owners reporting accessory failures — such as wipers cutting out mid-drive — even on low-mileage vehicles.",
     "issues": [
       {
         "component": "STEERING",
@@ -73,7 +73,7 @@
         "sample": "I WAS DRIVING HOME ON A 2 LANE HWY. AND MESSAGE CAME \"STEERING FAULT SERVICE NOW\" I CALLED THE DEALERSHIP FROM THE CAR AND WAS TOLD IF THE CAR WASN'T DOING ANYTHING ABNORMAL, KEEP DRIVING AND BRING IT IN MONDAY.  I ARRIVED HOME SAFELY TURNED OFF CAR AND TOOK PKGS. IN THE HOUSE.  ",
         "pct": 24,
         "title": "Steering",
-        "blurb": "342 reports (24%) · 11 crash · 7 injured"
+        "blurb": "Owners report the vehicle suddenly displaying a steering-fault warning message while driving, with no other immediately obvious abnormal behavior at the time of the alert. · 11 crash · 7 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2014 FORD FUSION. THE CONTACT STATED WHILE PARKING THE VEHICLE IT SURGED FORWARD ACROSS THE PARKING MEDIUM AND CRASHED INTO A PARKED VEHICLE. THE VEHICLE WAS TOWED TO THE DEALER; HOWEVER, THE DIAGNOSTIC TEST DID NOT DETERMINE THE FAILURE. THE MANUFACTURER W",
         "pct": 18,
         "title": "Power Train",
-        "blurb": "252 reports (18%) · 1 fire · 7 crash · 4 injured"
+        "blurb": "Owners describe the vehicle unexpectedly surging forward during low-speed maneuvers such as parking, in some cases resulting in a collision with another vehicle. · 1 fire · 7 crash · 4 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "1.  BOTH THE  CHECK ENGINE LIGHT AND AIRBAG LIGHT COME ON (AT DIFFERENT TIMES) WHILE THE CAR IS BEING DRIVEN.    2. WHEN CRANKING THE ENGINE DURING STARTING, THE CRANKING TIME TAKES ABOUT 4-5 SECONDS.  THE EXTENDED CRANK TIME CONCERNS ME WITH RESPECT TO THE LONGEVITY OF THE START",
         "pct": 15,
         "title": "Engine",
-        "blurb": "214 reports (15%) · 3 fire · 1 crash"
+        "blurb": "Owners report the check engine and airbag warning lights illuminating during driving, along with extended cranking times before the engine starts. · 3 fire · 1 crash"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "WHILE DRIVING ON AN INTERSTATE, I TURNED MY WIPERS ON DURING A HEAVY RAIN STORM. WITHIN A FEW SECONDS, THE WIPERS STOPPED. TOOK THE VEHICLE TO THE SERVICE DEPARTMENT THE NEXT MORNING WITH ONLY 1000 MILES. SERVICE ADVISER HAD THE WINDSHIELD MOTOR REPLACED (AFTER PUTTING ONLY 1000 ",
         "pct": 12,
         "title": "Electrical System",
-        "blurb": "172 reports (12%) · 5 fire · 1 crash · 3 injured"
+        "blurb": "Owners report electrical accessories such as windshield wipers suddenly stopping during operation, including on vehicles with very little use. · 5 fire · 1 crash · 3 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "124 reports (9%) · 1 fire · 18 crash · 15 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

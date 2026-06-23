@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Ford Fusion owners report most",
-    "summary": "Across 1,635 owner complaints to NHTSA, the most reported area is Engine (28% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine and powertrain faults dominate owner reports for this model year, with engine failures accounting for the largest share of complaints, including incidents that escalated to fires. Transmission slipping, loss of steering, and electrical malfunctions round out the most-reported concerns, and several complaint categories include associated crashes. The pattern across all four areas is of sudden, often intermittent failures that appeared both at very low mileage and during normal highway driving.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "2016 FORD FUSION RECEIVED FROM DEALER ON DEC 2015.  AT 39 MILES ON THE ODOMETER, FUSION WOULD NOT START, AND ALL ALARMS CAME ON (LOW TIRE PRESSURE, ENGINE OVERHEAT, PARKING BRAKE, PARKING SENSORS, ETC).  CAR STARTED AFTER HITTING OK AND SEVERAL MORE CRANKS.      FEB 2015 - AT ABO",
         "pct": 28,
         "title": "Engine",
-        "blurb": "455 reports (28%) · 2 fire · 4 crash · 1 injured"
+        "blurb": "Owners report the engine failing to start, accompanied by simultaneous triggering of multiple warning indicators including tire pressure, overheat, and parking brake alerts, with some incidents escalating to fires. · 2 fire · 4 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 FORD FUSION. WHILE DRIVING APPROXIMATELY 65 MPH, THE TRANSMISSION SLIPPED WHEN SHIFTED INTO SECOND OR THIRD GEAR. IN ADDITION, THE CONTACT MENTIONED THAT WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THERE WAS AN ABNORMAL NOISE COMING FROM THE FRONT OF THE",
         "pct": 19,
         "title": "Power Train",
-        "blurb": "314 reports (19%) · 10 crash · 4 injured"
+        "blurb": "Owners report the transmission slipping when shifting into mid-range gears during highway driving, with the problem also appearing when the accelerator pedal is depressed. · 10 crash · 4 injured"
       },
       {
         "component": "STEERING",
@@ -97,7 +97,7 @@
         "sample": "WENT TO GO TO LUNCH TODAY AND CRANKED THE CAR UP AND IT STARTED AND NO LIGHTS CAME ON OR RADIO. STARTED TO BACK OUT AND THERE WAS NO STEERING. TURNED OFF THE CAR AND RESTARTED IT AND THE RADIO AND LIGHTS CAME ON BUT SERVICETRAC LIGHT STILL WAS ON DASH. CALLED FORD AND THEY SAID I",
         "pct": 11,
         "title": "Steering",
-        "blurb": "183 reports (11%) · 12 crash · 7 injured"
+        "blurb": "Owners report complete loss of power steering immediately after startup, sometimes resolving temporarily after restarting the vehicle, with a service warning appearing on the instrument panel. · 12 crash · 7 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 FORD FUSION. THE CONTACT STATED THAT THE INSTRUMENT PANEL FAILED. THE FAILURE WAS INTERMITTENT. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE INSTRUMENT CLUSTER WAS REPLACED; HOWEVER, THE FAILURE RECURRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE",
         "pct": 10,
         "title": "Electrical System",
-        "blurb": "158 reports (10%) · 3 fire · 4 crash"
+        "blurb": "Owners report intermittent failure of the instrument cluster and instrument panel, with the issue persisting even after dealer replacement of the affected components. · 3 fire · 4 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "137 reports (8%) · 1 fire · 14 crash · 6 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

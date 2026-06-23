@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2019 Ford Escape owners report most",
-    "summary": "Across 547 owner complaints to NHTSA, the most reported area is Engine (52% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "The dominant pattern in owner complaints centers on the engine unexpectedly shutting off while the vehicle is in motion, a behavior that spans multiple component categories and has been associated with crashes. A secondary pattern involves coolant leaking into the cylinder, leading to persistent misfires and trouble codes that remain even after parts are replaced. Electrical system behavior appears linked to the same stall complaints rather than representing a distinct failure mode.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
         "pct": 52,
         "title": "Engine",
-        "blurb": "284 reports (52%) · 3 crash · 2 injured"
+        "blurb": "Owners report the vehicle shutting off without warning while driving, with conditions involving the key fob being present inside the cabin and a mobile phone intermittently connected via USB. · 3 crash · 2 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -85,7 +85,7 @@
         "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
         "pct": 21,
         "title": "Power Train",
-        "blurb": "116 reports (21%) · 6 crash · 4 injured"
+        "blurb": "Owners report the vehicle shutting off while driving under conditions similar to those described in engine complaints, involving the key fob and a connected mobile phone. · 6 crash · 4 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -97,7 +97,7 @@
         "sample": "https://static.nhtsa.gov/odi/tsbs/2019/MC-10169807-0001.pdf  My coolant is leaking into my cylinder.  Making my car misfire and have P0301 code. Cylinder and spark plugs have been replaced. But error is still coming and coolant get lower every day.  This needs to be recalled as m",
         "pct": 16,
         "title": "Engine And Engine Cooling",
-        "blurb": "86 reports (16%)"
+        "blurb": "Owners report coolant leaking into the cylinder, causing misfires and persistent diagnostic codes even after the cylinder and spark plugs have been replaced."
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "VEHICLE SHUTS OFF WHILE DRIVING. STEPS TO REPRODUCE ISSUE: KEYFOB IS INSIDE VEHICLE IN DRIVERS COAT POCKET, MOBILE PHONE IS INTERMITTENTLY CONNECTED TO VEHICLE VIA USB CORD, VEHICLE IS ON, ENGINE RUNNING, START/STOP IS ON, VEHICLE IS DRIVING THEN STOPS AT A STOPLIGHT, START/STOP ",
         "pct": 7,
         "title": "Electrical System",
-        "blurb": "37 reports (7%) · 4 crash · 3 injured"
+        "blurb": "Owners report the vehicle shutting off while in motion, with the electrical system implicated alongside conditions involving the key fob and a USB-connected mobile phone. · 4 crash · 3 injured"
       },
       {
         "component": "STEERING",
@@ -123,6 +123,7 @@
         "title": "Steering",
         "blurb": "16 reports (3%)"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

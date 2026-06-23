@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2014 Kia Optima owners report most",
-    "summary": "Across 575 owner complaints to NHTSA, the most reported area is Engine (48% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports for this model, with many describing unusual noises and, in some cases, fires. Steering and electrical system issues also appear frequently, with owners noting erratic vehicle behavior and dashboard anomalies. Structural complaints round out the picture, including reports of sudden loud sounds and apparent sunroof integrity failures while driving.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "MY KIA OPTIMA 2014 STARTED A NOISE NEAR THE ENGINE THAT SOUNDS LIKE A CLAPPING NOISE. THE FIRST KIA DEALER I TOOK IT TO SAID THAT IT IS NOT TO WORRY AND IS PART OF THE KIA ENGINEERING DESIGN. THE SECOND KIA DEALER I TOOK IT TO SAID THAT THE NOISE IS BAD NEWS AND AFTER FURTHER DIA",
         "pct": 48,
         "title": "Engine",
-        "blurb": "276 reports (48%) · 28 fire · 7 crash · 8 injured"
+        "blurb": "Owners report an audible clapping or knocking noise originating near the engine, sometimes dismissed by dealers as normal but persistent enough to prompt multiple service visits. · 28 fire · 7 crash · 8 injured"
       },
       {
         "component": "STEERING",
@@ -85,7 +85,7 @@
         "sample": "VEHICLE WANDERS FROM SIDE TO SIDE ON THE HIGHWAY, AT HIGHWAY SPEEDS (60+ MPH) AND REQUIRES CONSTANT CORRECTION FROM LEFT TO RIGHT TO MAINTAIN LANE POSITION. THIS HAS BEEN A PROBLEM FROM THE TIME WE PURCHASED IT NEW LESS THAN 3 WEEKS AGO. THE STEERING IS VERY HYPER-SENSITIVE AT SP",
         "pct": 16,
         "title": "Steering",
-        "blurb": "93 reports (16%) · 1 crash · 1 injured"
+        "blurb": "Owners describe the vehicle wandering or drifting from side to side at highway speeds, requiring constant left-to-right correction to hold a lane, with the condition present from new. · 1 crash · 1 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -97,7 +97,7 @@
         "sample": "WE HAD TAKEN OUR CAR TO THE DEALERSHIP FOR A REGULAR OIL CHANGE.  THEY ADVISED THAT THERE WAS A RECALL AND FIXED WHATEVER THE PROBLEM WAS.  WE FOUND THE FUSE COVER ON THE DASHBOARD.  1 DAY LATER, THE SYMBOLS ON THE DASHBOARD BEGAN TO LIGHT UP AND THE CAR FROZE, LOCKED AND DIED.  ",
         "pct": 10,
         "title": "Electrical System",
-        "blurb": "58 reports (10%) · 7 fire · 1 crash · 4 injured"
+        "blurb": "Owners report warning symbols illuminating on the dashboard and fuse cover components found loose or missing, sometimes occurring shortly after a dealer service visit. · 7 fire · 1 crash · 4 injured"
       },
       {
         "component": "STRUCTURE",
@@ -109,7 +109,7 @@
         "sample": "DRIVING SOUTHBOUND ON I-95 IN VIRGINIA, I HEARD A LOUD EXPLOSION LIKE A GUNSHOT.  MOMENTS LATER, I HEARD THE SOUND OF AIR RUSHING PAST FROM ABOVE MY HEAD AND DEBRIS VIBRATING ON THE INTERIOR SUNROOF SCREEN.  I LATER FOUND THAT IT WAS BROKEN GLASS CRACKLING AND FALLING AGAINST THE",
         "pct": 8,
         "title": "Structure",
-        "blurb": "48 reports (8%) · 3 fire · 1 crash"
+        "blurb": "Owners describe a sudden loud explosion-like sound while driving, followed by the sensation of air rushing in from above and debris vibrating against the interior sunroof screen. · 3 fire · 1 crash"
       },
       {
         "component": "SERVICE BRAKES",
@@ -123,6 +123,7 @@
         "title": "Service Brakes",
         "blurb": "41 reports (7%) · 4 fire · 8 crash · 6 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Toyota Camry: power train leads the owner complaints",
-    "summary": "Owners filed 722 complaints with NHTSA. The power train is the most reported area at 26%, followed closely by the brakes (23%) and the engine (18%). No deaths are reported. The brakes stand out for severity, tied to 21 crashes and 22 injuries, by far the most of any area, so they are worth a careful look on a test drive.",
+    "summary": "Power train and braking concerns dominate owner complaints for this generation Camry, with throttle response and transmission behavior appearing across multiple component categories. Owners consistently describe a hesitation or lag when accelerating from low speeds, where the vehicle is slow to respond even under firm pedal input. Brake-related complaints include reported malfunctions and failures of brake assist systems, in some cases tied to crashes.",
     "issues": [
       {
         "component": "POWER TRAIN",
@@ -73,7 +73,7 @@
         "sample": "I PURCHASED MY VEHICLE ABOUT I MONTH A GO THE PROBLEM IS WHEN I SLOW DOWN TO AROUND 5 MPH AND THEN HIT THE GAS TO GO AGAIN THE CAR PICKS UP SPEED SUPER SLOWLY AND IT I HIT THE ACCELERATOR HARD THE TRANSMISSION JERKS REALLY HARD ALMOST LIKE SOMEONE IS HITTING ME FROM THE BACK , I ",
         "pct": 26,
         "title": "Power Train",
-        "blurb": "The most reported area: 185 reports (26%), linked to 3 crashes, 1 fire, and 1 injury. Owners describe rough or jerky shifting and slow pickup when accelerating."
+        "blurb": "Owners report the transmission jerks and acceleration is extremely sluggish when re-applying the accelerator from near-stop speeds. · 1 fire · 3 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -85,7 +85,7 @@
         "sample": "VEHICLE GAS THROTTLE RESPONSE WOULD HESITATE WOULD BE A LAG OF FEW SECONDS FOR VEHICLE TO PICK UP SPEED SLOW THROTTLE RESPONSE, ALSO I TOTALED MY VEHICLE DUE BRAKES  MALFUNCTION ALSO VEHICLE BRAKE ASSYST DID NOT ASSYST ME IN ANY WAY OR PREVENTED ME FROM ACCIDENT I WAS TRAVLING 35",
         "pct": 23,
         "title": "Service Brakes",
-        "blurb": "Second most reported and the most serious by outcome: 166 reports (23%), tied to 21 crashes, 22 injuries, and 1 fire. Test the brakes thoroughly."
+        "blurb": "Owners report brake malfunction and brake assist failing to engage, with some incidents resulting in crashes. · 1 fire · 21 crash · 22 injured"
       },
       {
         "component": "ENGINE",
@@ -97,7 +97,7 @@
         "sample": "TL* THE CONTACT OWNS A 2018 TOYOTA CAMRY. UPON STARTING THE VEHICLE, THE TRACTION AND CHECK ENGINE WARNING INDICATORS ILLUMINATED. ALSO, WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THE VEHICLE STARTED SHAKING. THE VEHICLE WAS TAKEN TO DARCARS 355 TOYOTA ROCKVILLE (15625 FREDERICK R",
         "pct": 18,
         "title": "Engine",
-        "blurb": "130 reports (18%), linked to 4 crashes, with no fires or injuries reported. Watch for shaking or check-engine warnings on startup."
+        "blurb": "Owners report the check engine and traction warning lights illuminating at startup, accompanied by shaking when the accelerator pedal is pressed. · 4 crash"
       },
       {
         "component": "VEHICLE SPEED CONTROL",
@@ -109,7 +109,7 @@
         "sample": "WHEN I'M TAKING OFF IT TAKES A FEWS SECONDS BEFORE IT CATCHES SPEED.  EVEN IF I'M PUSHING DOWN PRETTY MUCH ON THE WAY DOWN ON THE GAS PEDAL IT TAKES A WHILE BEFORE IT CATCHES SPEED.  CARS BEHIND ME START PASSING ME.  ALSO, MY BIGGEST CONCERN IS WHEN I'M MERGING INTO THE FREEWAY A",
         "pct": 10,
         "title": "Vehicle Speed Control",
-        "blurb": "72 reports (10%), tied to 7 crashes and 3 injuries. Owners describe a delay before the car picks up speed when pressing the gas."
+        "blurb": "Owners report a noticeable delay of several seconds before the vehicle responds and builds speed after the accelerator is pressed from a stop. · 7 crash · 3 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "71 reports (10%), linked to 1 crash, with no fires or injuries reported. A smaller but recurring complaint area."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Ford Edge owners report most",
-    "summary": "Across 875 owner complaints to NHTSA, the most reported area is Engine (34% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate the picture, with owners most often describing sudden loss of power while driving — the vehicle drops to idle and will not accelerate until shut off and restarted. Brake and steering faults round out the top concerns, with owners reporting both a noticeable vacuum leak in the brake system and an adaptive steering fault that leaves the wheel feeling disconnected from the road. A smaller share of reports describe exhaust odors entering the cabin, particularly when the air conditioning is running.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "DRIVING DOWN THE ROAD AND THE VEHICLE SUDDENLY WENT TO IDLE. HAD TO COAST TO A STOP ON THE SIDE OF THE ROAD. THE CAR WAS STILL IDLING BUT WHEN I TRIED TO GIVE IT GAS, NOTHING HAPPENED. I SHUT THE CAR OFF, RESTARTED AND IT WORKED FINE.  APPROX. 10 MILES LATER, DID THE SAME THING. ",
         "pct": 34,
         "title": "Engine",
-        "blurb": "298 reports (34%) · 2 crash · 1 injured"
+        "blurb": "Owners report the vehicle suddenly dropping to idle while in motion, becoming unresponsive to the accelerator, and requiring a full shutdown and restart before power is restored. · 2 crash · 1 injured"
       },
       {
         "component": "SERVICE BRAKES",
@@ -85,7 +85,7 @@
         "sample": "VEHICLE VACUUM BRAKE BOOSTER HAS A LEAK THAT CAN BE HEARD IN THE CAB OF THE VEHICLE. IT IS NOT CURRENTLY COVERED BY THE WARRANTY HOWEVER A VACCUM TEST REVEALS LESS THAN RECOMMENDED PRESSURE IN THE SYSTEM. BRAKES ARE SPONGY WHEN USED. THE VEHICLE IN QUESTION HAS 6147 MILES. FORD R",
         "pct": 19,
         "title": "Service Brakes",
-        "blurb": "167 reports (19%) · 5 crash · 5 injured"
+        "blurb": "Owners report an audible vacuum leak from the brake booster that can be heard inside the cabin, accompanied by reduced brake system pressure detected during testing. · 5 crash · 5 injured"
       },
       {
         "component": "STEERING",
@@ -97,7 +97,7 @@
         "sample": "ADAPTIVE STEERING FAULT - SERVICE REQUIRED!  WHILE DRIVING DOWN THE ROAD, STEERING WHEEL CHANGED RATIO, BECAME EXTREMELY LIGHT AND DISCONNECTED FROM WHEELS. STEERING WHEEL ALSO CHANGED TO A 45 DEGREE RIGHT ANGLE WHILE DRIVING STRAIGHT DOWN THE ROAD. THIS IS A SAFETY ISSUE!    ESC",
         "pct": 12,
         "title": "Steering",
-        "blurb": "102 reports (12%) · 4 crash · 4 injured"
+        "blurb": "Owners report an adaptive steering fault that causes the steering wheel to become extremely light and feel disconnected from the wheels, sometimes locking at an off-center angle while driving. · 4 crash · 4 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -109,7 +109,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 FORD EDGE. THE CONTACT NOTICED AN ABNORMAL EXHAUST ODOR ENTERING THE CABIN OF THE VEHICLE. THE CONTACT STATED THAT THE ISSUE WAS MORE PREVALENT WHILE USING THE AIR CONDITIONING UNIT IN THE VEHICLE. THE CONTACT WAS DIAGNOSED WITH CARBON MONOXIDE POISONI",
         "pct": 10,
         "title": "Engine And Engine Cooling",
-        "blurb": "88 reports (10%)"
+        "blurb": "Owners report an abnormal exhaust odor entering the passenger cabin, with the smell becoming more noticeable when the air conditioning is in use."
       },
       {
         "component": "POWER TRAIN",
@@ -123,6 +123,7 @@
         "title": "Power Train",
         "blurb": "84 reports (10%) · 1 fire · 1 crash · 1 injured"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

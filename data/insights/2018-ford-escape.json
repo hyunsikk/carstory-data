@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "Engine complaints overwhelm the 2018 Ford Escape",
-    "summary": "Of 1,685 owner complaints filed with NHTSA, engine problems dominate, making up 1,057 reports (63%) on their own. Add the 336 engine-and-cooling reports (20%) and the engine is involved in over four out of five complaints. The power train is the next concern at 257 reports (15%). The engine complaints include 4 fires, 4 crashes, and 7 injuries; the power train adds 4 crashes and 6 injuries. No deaths were reported. Buyers should inspect the engine, cooling system, and transmission closely.",
+    "summary": "Engine problems dominate owner complaints for the Ford Escape of this generation, with the check engine light and engine failure being the most commonly reported symptoms. Cooling system issues frequently accompany engine complaints, with coolant leaks appearing alongside warning light activations. Powertrain and electrical faults round out the complaint picture, with some powertrain reports involving unintended vehicle movement.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "MY 2018 FORD ESCAPE ENGINE LIGHT CAME ON. I TOOK IT TO THE DEALERSHIP TO HAVE IT CHECKED. THEY PUT A MACHINE ON IT AND SAID YOU NEED A NEW ENGINE. I WENT TO SEE MY SALESMAN AND HE WAS NOT IN. I CALLED THE NEXT DAY AND TOLD HIM ABOUT MY ESCAPE. I TOLD HIM I WOULD NOT FEEL SAFE IN ",
         "pct": 63,
         "title": "Engine",
-        "blurb": "By far the largest complaint area: 1,057 reports (63% of all complaints), including 4 fires, 4 crashes, and 7 injuries. Have the engine inspected thoroughly before buying."
+        "blurb": "Owners report the check engine light illuminating unexpectedly, with dealer diagnosis in some cases resulting in a recommendation for complete engine replacement. · 4 fire · 4 crash · 7 injured"
       },
       {
         "component": "ENGINE AND ENGINE COOLING",
@@ -85,7 +85,7 @@
         "sample": "The contact owns a 2018 Ford Escape. The contact stated that the check engine warning light was illuminated. The vehicle was taken to the local dealer where it was diagnosed that there was a coolant leak and an engine replacement was needed. The vehicle was not repaired.  The man",
         "pct": 20,
         "title": "Engine And Engine Cooling",
-        "blurb": "336 reports (20%), with no crashes or fires. Combined with the engine complaints above, cooling and overheating are a recurring theme worth checking carefully."
+        "blurb": "Owners report the check engine warning light coming on and dealers diagnosing coolant leaks requiring engine-related repair work."
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "I DROVE MY 2018 FORD ESCAPE INTO MY DRIVEWAY WHICH IS ON A SLIGHT HILL.  I OPENED THE GARAGE DOOR.  I PUT THE CAR IN PARK AND LEFT THE ENGINE RUNNING TO CHECK OUT SOMETHING IN OUR YARD.  I WALKED ACROSS MY SMALL YARD AND THEN HEARD A VERY LOUD BANG.  I TURNED AROUND AND THE CAR W",
         "pct": 15,
         "title": "Power Train",
-        "blurb": "257 reports (15%), including 4 crashes and 6 injuries. Pay close attention to how the transmission and drivetrain behave on a test drive."
+        "blurb": "Owners report incidents where the vehicle moved or rolled unexpectedly after being placed in park, including on inclined surfaces. · 4 crash · 6 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "BACK ELECTRIC TAILGATE DOES NOT CLOSE COMPLETELY. THIS IS INDICATED BY THE HORN DOUBLE HONKING WHEN LOCKING THE VEHICLE. HOWEVER, THERE IS NO INDICATOR ON THE DASH WHEN THE CAR IS ON THAT THIS IS NOT FULLY LATCHED. I BELIEVE THIS COULD LEAD TO EXHAUST IN THE CABIN, ESPECIALLY IF ",
         "pct": 3,
         "title": "Electrical System",
-        "blurb": "52 reports (3%), including 2 crashes and 2 injuries. Verify the electrical system works correctly during inspection."
+        "blurb": "Owners report the power tailgate failing to close and latch fully, signaled by a double horn honk on locking, with no corresponding warning on the instrument panel while driving. · 2 crash · 2 injured"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -123,6 +123,7 @@
         "title": "Fuel/Propulsion System",
         "blurb": "The smallest of the top issues at 38 reports (2%), but it carries 1 fire, 1 crash, and 4 injuries. Worth a check despite the low count."
       }
-    ]
+    ],
+    "enriched": true
   }
 }

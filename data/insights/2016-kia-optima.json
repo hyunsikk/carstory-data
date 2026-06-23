@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "What 2016 Kia Optima owners report most",
-    "summary": "Across 744 owner complaints to NHTSA, the most reported area is Engine (57% of reports). Some reports involve a fire or crash — read the details below.",
+    "summary": "Engine complaints dominate owner reports for this model, with the most common descriptions centering on unintended acceleration, surging RPMs, and check-engine warnings while driving at various speeds. Electrical system and powertrain issues round out the picture, with owners describing post-parking fires and hesitation or shuddering when pulling away from a stop. Fuel and propulsion complaints mirror the powertrain pattern, with repeated hesitation on take-off reported even on low-mileage vehicles fresh from the dealership.",
     "issues": [
       {
         "component": "ENGINE",
@@ -73,7 +73,7 @@
         "sample": "TL* THE CONTACT OWNS A 2016 KIA OPTIMA. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE ACCELERATED INDEPENDENTLY AND THE ENGINE RPMS DRASTICALLY INCREASED TO 6 OR 7. THE CONTACT ALSO STATED THAT THE CHECK ENGINE WARNING INDICATOR ILLUMINATED AND THERE WAS A BURNING ODOR COMING FROM TH",
         "pct": 57,
         "title": "Engine",
-        "blurb": "421 reports (57%) · 15 fire · 4 crash · 5 injured"
+        "blurb": "Owners report the vehicle accelerating on its own while driving, with engine RPMs climbing sharply and a check engine warning illuminating. · 15 fire · 4 crash · 5 injured"
       },
       {
         "component": "ELECTRICAL SYSTEM",
@@ -85,7 +85,7 @@
         "sample": "TL* THE CONTACT OWNED A 2016 KIA OPTIMA. AFTER PARKING THE VEHICLE IN THE DRIVEWAY FOR 15 HOURS, THE VEHICLE CAUGHT FIRE AND EXPLODED. THE VEHICLE WAS DESTROYED. THE ORIGIN OF THE FIRE WAS BELIEVED TO BE DUE TO AN ELECTRICAL FAILURE. THE FIRE DEPARTMENT EXTINGUISHED THE FIRE AND ",
         "pct": 13,
         "title": "Electrical System",
-        "blurb": "99 reports (13%) · 5 fire · 6 crash · 1 injured"
+        "blurb": "Owners report vehicles catching fire and exploding after being parked, with the fire's origin believed to be electrical. · 5 fire · 6 crash · 1 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -97,7 +97,7 @@
         "sample": "FROM A DEAD STOP DRIVING AROUND, RELEASING THE BRAKE PETAL FROM A STOP AND GETTING READY TO GET GOING, THE CAR SHUTTERS A BIT AND/OR BOTH THE ENGINE FEELS LIKE IT'S GONNA STALL. HESITATION TO GET GOING.. DOES IT IN ALL 3 DRIVE MODES.   DEALERS SAYS NPF..  OF COURSE AND SAID MAYBE",
         "pct": 10,
         "title": "Power Train",
-        "blurb": "71 reports (10%) · 1 crash"
+        "blurb": "Owners report the vehicle shuddering and the engine feeling close to stalling when releasing the brake and attempting to pull away from a complete stop. · 1 crash"
       },
       {
         "component": "FUEL/PROPULSION SYSTEM",
@@ -109,7 +109,7 @@
         "sample": "SHUTTER/HESITATION UPON TAKE OFF. I SIGNED MY LEASE ON 9/29 AND WAS AT THE SERVICE DEPT FIRST OF 7 TIMES ON 10/4. AT FIRST I WAS TOLD THE CAR HAD TO \"LEARN THE WAY I DRIVE\" THAT THERE WERE NO ISSUES WITH MY CAR. SINCE THEN THE DEALER HAS \"RESET\" THE TRANSMISSION, CHANGED FUEL INJ",
         "pct": 7,
         "title": "Fuel/Propulsion System",
-        "blurb": "53 reports (7%) · 6 fire · 1 injured"
+        "blurb": "Owners report hesitation and shuddering upon take-off, persisting through multiple dealership visits without a resolved fix. · 6 fire · 1 injured"
       },
       {
         "component": "EXTERIOR LIGHTING",
@@ -123,6 +123,7 @@
         "title": "Exterior Lighting",
         "blurb": "46 reports (6%) · 1 crash"
       }
-    ]
+    ],
+    "enriched": true
   }
 }

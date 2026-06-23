@@ -61,7 +61,7 @@
   ],
   "narrative": {
     "headline": "2018 Honda Odyssey: electrical complaints lead, but the safety systems carry the serious outcomes",
-    "summary": "Owners filed 914 complaints with NHTSA. The electrical system is the most reported area at 26%, followed by the engine and the forward collision avoidance system (19% each) and the power train (17%). Most of the serious harm sits with the driver-assist features: forward collision avoidance accounts for the only 3 reported deaths, plus 4 crashes and 3 injuries, so check how the adaptive cruise and braking aids behave on a test drive.",
+    "summary": "Electrical system failures are the most commonly reported issue, with owners describing complete loss of power — engine, instruments, and accessories cutting out simultaneously at highway speeds. Engine behavior around the idle-stop feature and erratic forward collision avoidance system responses together account for a large share of additional complaints. Powertrain shutdowns round out the pattern, with some incidents occurring while the vehicle was in motion on the highway.",
     "issues": [
       {
         "component": "ELECTRICAL SYSTEM",
@@ -73,7 +73,7 @@
         "sample": "WE WERE DRIVING ON I75 NORTH ON SAT JUNE 10. WE WERE RIGHT BEFORE THE ATLANTA MACON SPLIT. THE VEHICLE COMPLETELY SHUT DOWN AT HIGHWAY SPEEDS. THE DVD PLAYER TURNED OFF. THE ENGINE TURNED OFF. THE ENTIRE INSTRUMENT PANEL WENT DARK. THERE WAS NO POWER TO ANYTHING. THE VEHICLE TURN",
         "pct": 26,
         "title": "Electrical System",
-        "blurb": "The most reported area: 237 reports (26%), with 1 fire and 4 injuries. Some owners describe the vehicle losing power, so watch for electrical glitches."
+        "blurb": "Owners report the vehicle shutting down entirely while driving at highway speed, with the engine, DVD player, and instrument panel all going dark at once. · 1 fire · 4 injured"
       },
       {
         "component": "ENGINE",
@@ -85,7 +85,7 @@
         "sample": "OUR 2018 HONDA ODYSSEY ELITE HAS A FEATURE CALLED IDLE STOP.  THE FEATURE HAS MANY CRITERIA THAT MUST BE MET BEFORE IT WILL ACTIVATE.  IT SHOULD JUST TURN OFF THE ENGINE WHEN THE CRITERIA HAVE BEEN MET IN AN EFFORT TO CONSERVE FUEL IN LIEU OF IDLING.  WE ARE SEEING A RANDOM ISSUE",
         "pct": 19,
         "title": "Engine",
-        "blurb": "178 reports (19%), with 1 fire and 2 injuries. No crashes reported, but it ties as the second most common complaint area."
+        "blurb": "Owners report unexpected behavior tied to the idle-stop feature, which is designed to cut the engine when certain driving conditions are met but appears to activate or behave in ways that concern drivers. · 1 fire · 2 injured"
       },
       {
         "component": "FORWARD COLLISION AVOIDANCE",
@@ -97,7 +97,7 @@
         "sample": "WHEN DRIVING WITH THE ADAPTIVE CRUISE CONTROL ON THE VEHICLE FREQUENTLY ABRUPTLY DECELERATES WHILE TRYING TO PASS OTHER VEHICLES.  IT DOES NOT MATTER IF WE ARE BEHIND THE VEHICLE WE ARE TRYING TO PASS AND PULL OUT IN THE LEFT LANE, OR IF WE ARE ALWAYS IN THE LEFT LANE AND JUST AP",
         "pct": 19,
         "title": "Forward Collision Avoidance",
-        "blurb": "173 reports (19%) and by far the most serious by outcome: the only 3 deaths, plus 4 crashes and 3 injuries. Owners describe the system braking unexpectedly, so test how it behaves before you buy."
+        "blurb": "Owners report the adaptive cruise control system abruptly decelerating the vehicle without warning, including when attempting to pass other vehicles after pulling out of the lane behind them. · 4 crash · 3 injured"
       },
       {
         "component": "POWER TRAIN",
@@ -109,7 +109,7 @@
         "sample": "WE WERE DRIVING ON I75 NORTH ON SAT JUNE 10. WE WERE RIGHT BEFORE THE ATLANTA MACON SPLIT. THE VEHICLE COMPLETELY SHUT DOWN AT HIGHWAY SPEEDS. THE DVD PLAYER TURNED OFF. THE ENGINE TURNED OFF. THE ENTIRE INSTRUMENT PANEL WENT DARK. THERE WAS NO POWER TO ANYTHING. THE VEHICLE TURN",
         "pct": 17,
         "title": "Power Train",
-        "blurb": "157 reports (17%), linked to 3 crashes and 1 injury. Some reports involve the vehicle losing power while driving."
+        "blurb": "Owners report complete vehicle shutdowns at highway speed, during which the engine and all onboard systems lose power simultaneously. · 3 crash · 1 injured"
       },
       {
         "component": "LANE DEPARTURE",
@@ -123,6 +123,7 @@
         "title": "Lane Departure",
         "blurb": "117 reports (13%), tied to 1 crash and no injuries. The least reported of the top five areas."
       }
-    ]
+    ],
+    "enriched": true
   }
 }
