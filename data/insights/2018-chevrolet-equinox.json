@@ -1,0 +1,128 @@
+{
+  "slug": "2018-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-06-23T03:49:44.785Z",
+  "total": 387,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 125,
+      "crash": 10,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "THIS VEHICLE WAS SOLD AS HAVING A TOW PKG WITH THE CAPABILITY OF PULLING A 3500 LB TRAILER.  THERE IS NO BRAKE HARNESS AVAILABLE ON THIS CAR (A SEPARATE CAB BRAKE CONTROL IS A LEGAL REQUIREMENT IN EVERY STATE BASED ON TOW LOADS, MICHIGAN IS 3000 LBS.)  DEALERSHIP ACKNOWLEDGES THE",
+      "pct": 32
+    },
+    {
+      "component": "ENGINE",
+      "count": 82,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY 2018 CHEVY EQUINOX WITH THE 1.5L TURBO ENGINE FAILS TO SHIFT INTO 6TH GEAR WHEN THE AMBIENT TEMPERATURE IS BELOW 14 DEGREES FAHRENHEIT. I HAVE BROUGHT THE CAR BACK TO THE DEALER SEVERAL TIMES FOR THIS PROBLEM. THE FIRST RESPONSE I GOT WAS \"THIS IS NORMAL FOR THIS VEHICLE, JUST",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 63,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET EQUINOX. WHILE THE VEHICLE WAS PARKED, IT INDEPENDENTLY ROLLED AWAY AND REAR ENDED ANOTHER VEHICLE. A POLICE REPORT WAS FILED AND THERE WERE NO INJURIES. C&O MOTORS (516 MACCORKLE AVE, ST ALBANS, WV) WAS CONTACTED AND STATED THAT THE VEHICLE ",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 57,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE POWER LOCKS IN MY VEHICLE STOPPED WORKING.  THEY NO LONGER RESPONDED TO THE KEY FOB, INTERIOR LOCK BUTTONS, OR EXTERIOR HANDLE BUTTONS AND WOULD NOT ENGAGE OR DISENGAGE WHEN SHIFTING BETWEEN PARK AND DRIVE.  THE ONLY WAY TO UNLOCK THE DOORS WAS FROM THE INTERIOR USING THE DOO",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 32,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I HAVE A 2018 EQUINOX WITH 4800 MILES ON IT AND THE TRANSMISSION WENT OUT ON THE VEHICLE.   I WAS DRIVING THE VEHICLE THE ENGINE SERVICE LIGHT CAME ON THE ENGINE S RPM EXCELERATED AND THEN THE VEHICLE STOPPED EXCELERATING AND STARTED COASTING. I COASTED INTO A BUSINESS AND TRIED ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Chevy Equinox: brakes and engine drive most owner complaints",
+    "summary": "Owners filed 387 complaints with NHTSA. Brakes are the single biggest concern at 32% of reports, tied to 10 crashes and 7 injuries. Engine trouble comes next at 21%, then power train at 16% and electrical glitches at 15%. A handful of reports involved a fire across the engine, electrical, and fuel systems. No deaths were reported.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 125,
+        "crash": 10,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "THIS VEHICLE WAS SOLD AS HAVING A TOW PKG WITH THE CAPABILITY OF PULLING A 3500 LB TRAILER.  THERE IS NO BRAKE HARNESS AVAILABLE ON THIS CAR (A SEPARATE CAB BRAKE CONTROL IS A LEGAL REQUIREMENT IN EVERY STATE BASED ON TOW LOADS, MICHIGAN IS 3000 LBS.)  DEALERSHIP ACKNOWLEDGES THE",
+        "pct": 32,
+        "title": "Service Brakes",
+        "blurb": "The top complaint area: 125 reports (32%). Linked to 10 crashes and 7 injuries, so it is the one to inspect most carefully before buying."
+      },
+      {
+        "component": "ENGINE",
+        "count": 82,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY 2018 CHEVY EQUINOX WITH THE 1.5L TURBO ENGINE FAILS TO SHIFT INTO 6TH GEAR WHEN THE AMBIENT TEMPERATURE IS BELOW 14 DEGREES FAHRENHEIT. I HAVE BROUGHT THE CAR BACK TO THE DEALER SEVERAL TIMES FOR THIS PROBLEM. THE FIRST RESPONSE I GOT WAS \"THIS IS NORMAL FOR THIS VEHICLE, JUST",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "Second most reported: 82 reports (21%). 2 of these involved a fire, so watch for any engine warning or burning smell."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 63,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET EQUINOX. WHILE THE VEHICLE WAS PARKED, IT INDEPENDENTLY ROLLED AWAY AND REAR ENDED ANOTHER VEHICLE. A POLICE REPORT WAS FILED AND THERE WERE NO INJURIES. C&O MOTORS (516 MACCORKLE AVE, ST ALBANS, WV) WAS CONTACTED AND STATED THAT THE VEHICLE ",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "63 reports (16%), tied to 2 crashes and 1 injury. Test how the car drives and shifts under load."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 57,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE POWER LOCKS IN MY VEHICLE STOPPED WORKING.  THEY NO LONGER RESPONDED TO THE KEY FOB, INTERIOR LOCK BUTTONS, OR EXTERIOR HANDLE BUTTONS AND WOULD NOT ENGAGE OR DISENGAGE WHEN SHIFTING BETWEEN PARK AND DRIVE.  THE ONLY WAY TO UNLOCK THE DOORS WAS FROM THE INTERIOR USING THE DOO",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "57 reports (15%), with 1 crash and 1 fire. Check that locks, fobs, and electronics all work."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 32,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I HAVE A 2018 EQUINOX WITH 4800 MILES ON IT AND THE TRANSMISSION WENT OUT ON THE VEHICLE.   I WAS DRIVING THE VEHICLE THE ENGINE SERVICE LIGHT CAME ON THE ENGINE S RPM EXCELERATED AND THEN THE VEHICLE STOPPED EXCELERATING AND STARTED COASTING. I COASTED INTO A BUSINESS AND TRIED ",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Smaller but serious: 32 reports (8%), tied to 4 injuries, 2 fires, and 1 crash. Worth a close look despite the lower count."
+      }
+    ]
+  }
+}

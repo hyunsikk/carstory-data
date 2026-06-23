@@ -1,0 +1,128 @@
+{
+  "slug": "2018-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T03:48:00.903Z",
+  "total": 2055,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 503,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 HONDA CR-V. WHILE DRIVING 45 MPH, THE BRAKES FAILED AND THE VEHICLE STALLED WITHOUT WARNING. THE ABS INDICATOR ILLUMINATED AFTER THE FAILURE. ON ANOTHER OCCASION, WHILE DRIVING 25 MPH, THE BRAKES FAILED AND THE VEHICLE STALLED WITHOUT WARNING AGAIN. TH",
+      "pct": 24
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 383,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 HONDA CR-V. THE CONTACT STATED THAT THE AUTOMATIC BRAKING FEATURE ACTIVATED WHEN THERE WAS NO OBJECT IN FRONT OF THE VEHICLE. IN ADDITION, \"BRAKE\" DISPLAYED ON THE CONTROL PANEL. THE VEHICLE WAS TAKEN TO ROUND ROCK HONDA (2301 N INTERSTATE HWY 35, ROUN",
+      "pct": 19
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 360,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "LIKE MANY OTHER 2017-2018 HONDA CR-V OWNERS, I DISCOVERED A SIGNIFICANT AMOUNT OF GASOLINE IN THE OIL RESERVOIR OF MY VEHICLE AFTER NORMAL USAGE. IN LESS THAN A MONTH OF OWNERSHIP AND LESS THAN 1,000 MILES DRIVEN, MY CR-V'S OIL RESERVOIR WAS 0.5 QUARTS OVER FULL DUE TO DILUTION F",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 293,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I PURCHASED MY FIRST HONDA CR-B 2018 AT THE END OF SEPT. 2018 AND TODAY IS NOV 4, 2018 AND THIS CAR HAS BEEN OUT OF ORDER FOR @4 WEEKS. THE CRUISE CONTROL SYSTEM, LANE DEPARTURE SYSTEM, VEHICLE DISTANT CONTROL SYSTEM, AND THE BRAKE SYSTEM LIGHTS ARE ALL LIT UP AND FLASHING. NONE ",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 269,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHILE ON VACATION, I HAD MY 2018 HONDA, CRV-EXL PARKED FOR NEARLY 2 WEEKS.  ON OUR RETURN, I ATTEMPTED TO START THE VEHICLE.  IT WOULD NOT START AS THE NEW BATTERY WAS COMPLETELY DRAINED AND DEAD.  LUCKILY I HAD A CHARGER AND CHARGED THE VEHICLE FOR 2 HOURS.  I WAS THEN ABLE TO S",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Honda CR-V: engine and braking-assist complaints lead the pack",
+    "summary": "Owners filed 2,055 complaints with NHTSA. The biggest cluster is the engine at 503 reports (24%), followed by the forward-collision/automatic-braking system at 383 (19%) and the fuel system at 360 (18%). Steering and electrical round out the top five. The forward-collision system drew the most injuries (10), and one engine report involved a fire. Watch for sudden stalling, automatic braking that triggers with nothing ahead, and gas mixing into the engine oil.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 503,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 HONDA CR-V. WHILE DRIVING 45 MPH, THE BRAKES FAILED AND THE VEHICLE STALLED WITHOUT WARNING. THE ABS INDICATOR ILLUMINATED AFTER THE FAILURE. ON ANOTHER OCCASION, WHILE DRIVING 25 MPH, THE BRAKES FAILED AND THE VEHICLE STALLED WITHOUT WARNING AGAIN. TH",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "The single most-reported area: 503 complaints (24%). Owners describe the vehicle stalling without warning while driving. Tied to 4 crashes, 3 injuries, and 1 fire."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 383,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 HONDA CR-V. THE CONTACT STATED THAT THE AUTOMATIC BRAKING FEATURE ACTIVATED WHEN THERE WAS NO OBJECT IN FRONT OF THE VEHICLE. IN ADDITION, \"BRAKE\" DISPLAYED ON THE CONTROL PANEL. THE VEHICLE WAS TAKEN TO ROUND ROCK HONDA (2301 N INTERSTATE HWY 35, ROUN",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "383 complaints (19%) and the most injuries of any area (10). Owners report automatic braking kicking in when nothing is ahead. Linked to 4 crashes."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 360,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "LIKE MANY OTHER 2017-2018 HONDA CR-V OWNERS, I DISCOVERED A SIGNIFICANT AMOUNT OF GASOLINE IN THE OIL RESERVOIR OF MY VEHICLE AFTER NORMAL USAGE. IN LESS THAN A MONTH OF OWNERSHIP AND LESS THAN 1,000 MILES DRIVEN, MY CR-V'S OIL RESERVOIR WAS 0.5 QUARTS OVER FULL DUE TO DILUTION F",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "360 complaints (18%). A common theme is gasoline diluting the engine oil, raising the oil level above full. Linked to 5 crashes and 3 injuries."
+      },
+      {
+        "component": "STEERING",
+        "count": 293,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I PURCHASED MY FIRST HONDA CR-B 2018 AT THE END OF SEPT. 2018 AND TODAY IS NOV 4, 2018 AND THIS CAR HAS BEEN OUT OF ORDER FOR @4 WEEKS. THE CRUISE CONTROL SYSTEM, LANE DEPARTURE SYSTEM, VEHICLE DISTANT CONTROL SYSTEM, AND THE BRAKE SYSTEM LIGHTS ARE ALL LIT UP AND FLASHING. NONE ",
+        "pct": 14,
+        "title": "Steering",
+        "blurb": "293 complaints (14%), often with multiple driver-assist and warning lights lit at once. Linked to 5 crashes and 3 injuries."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 269,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHILE ON VACATION, I HAD MY 2018 HONDA, CRV-EXL PARKED FOR NEARLY 2 WEEKS.  ON OUR RETURN, I ATTEMPTED TO START THE VEHICLE.  IT WOULD NOT START AS THE NEW BATTERY WAS COMPLETELY DRAINED AND DEAD.  LUCKILY I HAD A CHARGER AND CHARGED THE VEHICLE FOR 2 HOURS.  I WAS THEN ABLE TO S",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "269 complaints (13%). Owners report dead or drained batteries, including no-start after the car sits parked. Linked to 5 crashes and 3 injuries."
+      }
+    ]
+  }
+}

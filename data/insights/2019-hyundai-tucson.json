@@ -1,0 +1,128 @@
+{
+  "slug": "2019-hyundai-tucson",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HYUNDAI/TUCSON#complaints",
+  "generatedAt": "2026-06-23T03:51:13.640Z",
+  "total": 369,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 190,
+      "crash": 2,
+      "fire": 7,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WAS IN MOTION ON I20/459 ENTRY RAMP IN BIRMINGHAM, AL. VEHICLE STOPPED AND CUT OFF COMPLETELY IN THE MIDDLE OF THE BUSY INTERSTATE. ACCELERATION SLOWED UNTIL VEHICLE DIED AND ALL ERROR LIGHTS APPEARED AND FLASHED ON DASH WITH A \"SERVICE NOW\" ALERT. PLACED THE VEHICLE IN P",
+      "pct": 51
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 115,
+      "crash": 5,
+      "fire": 3,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "VEHICLE HAS 1,750 MILES.  DRIVING TO WORK NOTICED THAT THE BRAKE PEDAL WAS SINKING WITHIN 2\" OF FLOOR.  BRAKE PEDAL FELT SPONGY.  TURNED ENGINE OFF AND PUMPED BRAKE 3 TIMES, PEDAL SUNK WITHING 2\" OF FLOOR.  TURNED ENGINE ON, PUMPED BRAKE 3 TIMES, SAME THING HAPPEND.  THE VEHICLE ",
+      "pct": 31
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 61,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HYUNDAI TUCSON. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V543000 (SERVICE BRAKES, HYDRAULIC) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. OURISMAN HYUNDAI OF BOWIE (2404 CRAIN HWY, BOWIE, MD 20716) WAS CONTACTED",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 46,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE WAS IN MOTION ON I20/459 ENTRY RAMP IN BIRMINGHAM, AL. VEHICLE STOPPED AND CUT OFF COMPLETELY IN THE MIDDLE OF THE BUSY INTERSTATE. ACCELERATION SLOWED UNTIL VEHICLE DIED AND ALL ERROR LIGHTS APPEARED AND FLASHED ON DASH WITH A \"SERVICE NOW\" ALERT. PLACED THE VEHICLE IN P",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 40,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SPORADIC HESITATION WHEN STARTING FROM A COMPLETE STOP.  THIS HAS HAPPENED TO ME ABOUT 15 TIMES, USUALLY WHEN PULLING OUT INTO TRAFFIC.  THE CAR HAS 4000 MILES AND HAS BEEN IN SERVICE ABOUT 6 MONTHS.  THE SERVICE MANAGER.STATED THEY HAVE NO OTHER COMPLAINTS BUT IS PROBABLY DUE TO",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "Engine and brake complaints lead reports on the 2019 Tucson",
+    "summary": "Of 369 owner complaints filed with NHTSA, the engine is by far the most reported problem at 190 reports (51%), often described as the car stalling or losing power while driving, and tied to 7 fires. Brakes are the next biggest concern at 115 reports (31%), with 3 fires, 5 crashes, and 3 injuries. Before you buy, have an engine and brake inspection done and confirm the brake recall (NHTSA 20V543000) was completed.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 190,
+        "crash": 2,
+        "fire": 7,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WAS IN MOTION ON I20/459 ENTRY RAMP IN BIRMINGHAM, AL. VEHICLE STOPPED AND CUT OFF COMPLETELY IN THE MIDDLE OF THE BUSY INTERSTATE. ACCELERATION SLOWED UNTIL VEHICLE DIED AND ALL ERROR LIGHTS APPEARED AND FLASHED ON DASH WITH A \"SERVICE NOW\" ALERT. PLACED THE VEHICLE IN P",
+        "pct": 51,
+        "title": "Engine",
+        "blurb": "The single biggest complaint area: 190 reports (51%), including 7 fires and 2 crashes. Owners describe the engine stalling or dying mid-drive. Get a thorough engine check before buying."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 115,
+        "crash": 5,
+        "fire": 3,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "VEHICLE HAS 1,750 MILES.  DRIVING TO WORK NOTICED THAT THE BRAKE PEDAL WAS SINKING WITHIN 2\" OF FLOOR.  BRAKE PEDAL FELT SPONGY.  TURNED ENGINE OFF AND PUMPED BRAKE 3 TIMES, PEDAL SUNK WITHING 2\" OF FLOOR.  TURNED ENGINE ON, PUMPED BRAKE 3 TIMES, SAME THING HAPPEND.  THE VEHICLE ",
+        "pct": 31,
+        "title": "Service Brakes",
+        "blurb": "Second most reported: 115 reports (31%), with 5 crashes, 3 injuries, and 3 fires. A spongy or sinking brake pedal is a common complaint. Test the brakes carefully and confirm any repairs."
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 61,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HYUNDAI TUCSON. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V543000 (SERVICE BRAKES, HYDRAULIC) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. OURISMAN HYUNDAI OF BOWIE (2404 CRAIN HWY, BOWIE, MD 20716) WAS CONTACTED",
+        "pct": 17,
+        "title": "Hydraulic",
+        "blurb": "61 reports (17%), no crashes or fires logged. These largely point to the brake hydraulic recall (NHTSA 20V543000) — check that it was completed on the specific car."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 46,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE WAS IN MOTION ON I20/459 ENTRY RAMP IN BIRMINGHAM, AL. VEHICLE STOPPED AND CUT OFF COMPLETELY IN THE MIDDLE OF THE BUSY INTERSTATE. ACCELERATION SLOWED UNTIL VEHICLE DIED AND ALL ERROR LIGHTS APPEARED AND FLASHED ON DASH WITH A \"SERVICE NOW\" ALERT. PLACED THE VEHICLE IN P",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "46 reports (12%), including 3 fires and 1 crash. Watch for warning lights and power loss; have the electrical system scanned for stored fault codes."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 40,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SPORADIC HESITATION WHEN STARTING FROM A COMPLETE STOP.  THIS HAS HAPPENED TO ME ABOUT 15 TIMES, USUALLY WHEN PULLING OUT INTO TRAFFIC.  THE CAR HAS 4000 MILES AND HAS BEEN IN SERVICE ABOUT 6 MONTHS.  THE SERVICE MANAGER.STATED THEY HAVE NO OTHER COMPLAINTS BUT IS PROBABLY DUE TO",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "40 reports (11%), with 2 crashes and 1 fire. Owners report hesitation when accelerating from a stop. Take a test drive that includes pulling out into traffic."
+      }
+    ]
+  }
+}

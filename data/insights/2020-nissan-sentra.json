@@ -1,0 +1,128 @@
+{
+  "slug": "2020-nissan-sentra",
+  "make": "Nissan",
+  "model": "Sentra",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/NISSAN/SENTRA#complaints",
+  "generatedAt": "2026-06-23T03:50:12.660Z",
+  "total": 200,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 60,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AFTER RETURNING ON 12/12/20 A SENTRA PURCHASED ON 12/8/20 - I SWAPPED OUT WITH ANOTHER SENTRA. REASON FOR RETURN - AEB PEDESTRIAN LIGHT KEPT GOING ON EVERY MORNING DESPITE VARYING WEATHER CONDITIONS (WARM VS. COLD). RECEIVED THIS CAR (GUN METALLIC COLOR) AND ON 12/13/20 - SAME TH",
+      "pct": 30
+    },
+    {
+      "component": "STEERING",
+      "count": 53,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Nissan Sentra. The contact stated while reversing to park the vehicle, the vehicle spun out. The contact stated there was no warning light illuminated. The contact had the vehicle towed to an independent mechanic where she was informed that the driver’s an",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 42,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving my 2020 nissan sentra, my car proceeded to brake on its own while i was depressing the accelerator. A red warning light flashed across the dash that looked like 2 cars colliding. I was able to maintain control of the vehicle, even though it was acting erratically. T",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS CAR'S EMERGENCY BRAKE SENSORS HAVE GONE OFF TWICE NOW IN THE PAST TWO MONTHS. THERE IS NO CAR OR ANY OBJECT IN FRONT OF ME AND THE SENSOR APPLIES THE BRAKES WHILE IN MOTION. ALSO, WHEN SLOWING DOWN TO A STOP AT CITY SPEEDS THE CAR JERKS AND/OR SURGES FORWARD AND I HAVE TO AP",
+      "pct": 13
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Back-up camera display intermittently displays \"blue screen\" when car in reverse (has been on-going issue since taking delivery of car 3-2020 and, as a result of current pandemic, do not drive as much as I might otherwise have driven - 9,500 miles on car a this point).  Have take",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Nissan Sentra: driver-assist false alarms top owner complaints",
+    "summary": "From 200 owner complaints filed with NHTSA, the biggest cluster is the driver-assist safety tech. Forward collision avoidance leads at 30% of reports, often false automatic-braking alerts, followed by steering at 27% and electrical issues at 21%. A handful of reports across these areas involved a crash, and the steering complaints note 2 injuries. No fires were reported.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 60,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AFTER RETURNING ON 12/12/20 A SENTRA PURCHASED ON 12/8/20 - I SWAPPED OUT WITH ANOTHER SENTRA. REASON FOR RETURN - AEB PEDESTRIAN LIGHT KEPT GOING ON EVERY MORNING DESPITE VARYING WEATHER CONDITIONS (WARM VS. COLD). RECEIVED THIS CAR (GUN METALLIC COLOR) AND ON 12/13/20 - SAME TH",
+        "pct": 30,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The single most reported issue: 60 complaints (30%). Owners describe the collision-warning and automatic emergency braking triggering when nothing is there. 3 reports involved a crash. Test-drive the alerts and watch how the car behaves in normal traffic."
+      },
+      {
+        "component": "STEERING",
+        "count": 53,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Nissan Sentra. The contact stated while reversing to park the vehicle, the vehicle spun out. The contact stated there was no warning light illuminated. The contact had the vehicle towed to an independent mechanic where she was informed that the driver’s an",
+        "pct": 27,
+        "title": "Steering",
+        "blurb": "Second most common: 53 complaints (27%), the only area linked to injuries (2 injured) plus 2 crashes. Watch for loss of control or odd handling, sometimes with no warning light. Have any steering concern checked promptly."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 42,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving my 2020 nissan sentra, my car proceeded to brake on its own while i was depressing the accelerator. A red warning light flashed across the dash that looked like 2 cars colliding. I was able to maintain control of the vehicle, even though it was acting erratically. T",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "42 complaints (21%), with 2 crashes. Reports include warning lights and erratic behavior such as the car braking on its own. Note any unexplained dashboard warnings."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS CAR'S EMERGENCY BRAKE SENSORS HAVE GONE OFF TWICE NOW IN THE PAST TWO MONTHS. THERE IS NO CAR OR ANY OBJECT IN FRONT OF ME AND THE SENSOR APPLIES THE BRAKES WHILE IN MOTION. ALSO, WHEN SLOWING DOWN TO A STOP AT CITY SPEEDS THE CAR JERKS AND/OR SURGES FORWARD AND I HAVE TO AP",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "25 complaints (13%), with 2 crashes. Owners report the brakes engaging unexpectedly or the car jerking and surging when slowing to a stop. Pay attention to braking feel at city speeds."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Back-up camera display intermittently displays \"blue screen\" when car in reverse (has been on-going issue since taking delivery of car 3-2020 and, as a result of current pandemic, do not drive as much as I might otherwise have driven - 9,500 miles on car a this point).  Have take",
+        "pct": 6,
+        "title": "Back Over Prevention",
+        "blurb": "Least common of the top five: 11 complaints (6%), with 1 crash. Reports center on the backup camera cutting out or showing a blank blue screen in reverse. Check the rear camera works reliably before relying on it."
+      }
+    ]
+  }
+}

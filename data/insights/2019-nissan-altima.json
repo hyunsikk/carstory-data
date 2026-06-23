@@ -1,0 +1,128 @@
+{
+  "slug": "2019-nissan-altima",
+  "make": "Nissan",
+  "model": "Altima",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/NISSAN/ALTIMA#complaints",
+  "generatedAt": "2026-06-23T03:50:01.149Z",
+  "total": 221,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 54,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 NISSAN ALTIMA. THE CONTACT STATED THAT VENT CONTROL FUNCTION FOR THE HEAT AND AIR CONDITIONER FAILED TO OPERATE. THE CONTACT PREVIOUSLY TRADED IN A 2016 NISSAN ALTIMA FOR WHICH AUTONATION NISSAN PEMBROKE PINES (8890 PINES BLVD, PEMBROKE PINES, FL 33024",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 44,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I JUST RECEIVED A NOTICE BY GOING TO CONSUMER REPORTS THAT VEHICLE WAS RECALLED? NEVER RECEIVED ANYTHING.  ALSO, CAR IS NEWLY LEASED AND HAS AN OIL CHANGE STICKER THAT SAYS:  CHANGE OIL BY 5/29/19 ?  WHAT , THIS DEALER HERE HAS ALSO BEEN REPORTED FOR CONSUMER PROTECTION ACT HERE ",
+      "pct": 20
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 41,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 NISSAN ALTIMA. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS THE COLLISION AVOIDANCE SYSTEM WOULD RANDOMLY ACTIVATE AND REDUCE THE VEHICLE'S SPEED. THE FAILURE OCCURRED ALTHOUGH NO OBJECTS WERE PRESENT NEARBY. THE CAUSE OF THE FAILURES WERE N",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 29,
+      "crash": 9,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I OWN A 2019 NISSAN ALTIMA AWD AND HAVE EXPERIENCED A FEW PROBLEMS.  THE MOST SIGNIFICANT PROBLEM IS THE DEFECTIVE FORWARD COLLISION SAFETY FEATURE. TWO TIMES THE VEHICLE HAS IMPROPERLY AND ABRUPTLY APPLIED BRAKES,  THE FEATURE IS INTENDED TO AVOID COLLISION, BUT INSTEAD ITS MALF",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "DEFECTIVE REARVIEW 'ANTI-GLARE' MIRROR HARDLY REDUCES ANY LIGHT AT NIGHT FROM VEHICLES BEHIND THE CAR.  ALMOST IMPOSSIBLE TO DRIVE WITHOUT DISTRACTION OR BLINDING LIGHT.  THIS IS A DEFECT IN MANUFACTURING AND SHOULD BE REPLACED WITH A DESIGN THAT REDUCES LIGHT AT NIGHT.  AS IS, T",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "Brakes and electronics top the 2019 Altima complaint list",
+    "summary": "Owners filed 221 complaints with NHTSA. The most reported area is the electrical system (24%), followed by the engine (20%) and the forward collision avoidance system (19%). Watch the safety systems closely: the forward collision feature is tied to 3 crashes, and the service brakes stand out with 9 crashes, 2 fires, and 3 injuries despite fewer reports. The engine had no crashes, fires, or injuries reported.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 54,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 NISSAN ALTIMA. THE CONTACT STATED THAT VENT CONTROL FUNCTION FOR THE HEAT AND AIR CONDITIONER FAILED TO OPERATE. THE CONTACT PREVIOUSLY TRADED IN A 2016 NISSAN ALTIMA FOR WHICH AUTONATION NISSAN PEMBROKE PINES (8890 PINES BLVD, PEMBROKE PINES, FL 33024",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "Most-reported area, with 54 complaints (24%). 5 led to a crash and 2 to injuries."
+      },
+      {
+        "component": "ENGINE",
+        "count": 44,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I JUST RECEIVED A NOTICE BY GOING TO CONSUMER REPORTS THAT VEHICLE WAS RECALLED? NEVER RECEIVED ANYTHING.  ALSO, CAR IS NEWLY LEASED AND HAS AN OIL CHANGE STICKER THAT SAYS:  CHANGE OIL BY 5/29/19 ?  WHAT , THIS DEALER HERE HAS ALSO BEEN REPORTED FOR CONSUMER PROTECTION ACT HERE ",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "44 complaints (20%) and the second most common, but with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 41,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 NISSAN ALTIMA. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS THE COLLISION AVOIDANCE SYSTEM WOULD RANDOMLY ACTIVATE AND REDUCE THE VEHICLE'S SPEED. THE FAILURE OCCURRED ALTHOUGH NO OBJECTS WERE PRESENT NEARBY. THE CAUSE OF THE FAILURES WERE N",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "41 complaints (19%): owners report the system braking or slowing on its own with nothing ahead. Tied to 3 crashes."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 29,
+        "crash": 9,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I OWN A 2019 NISSAN ALTIMA AWD AND HAVE EXPERIENCED A FEW PROBLEMS.  THE MOST SIGNIFICANT PROBLEM IS THE DEFECTIVE FORWARD COLLISION SAFETY FEATURE. TWO TIMES THE VEHICLE HAS IMPROPERLY AND ABRUPTLY APPLIED BRAKES,  THE FEATURE IS INTENDED TO AVOID COLLISION, BUT INSTEAD ITS MALF",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "Fewer reports (29, 13%) but the most dangerous: 9 crashes, 2 fires, and 3 injuries. The single area to watch most."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "DEFECTIVE REARVIEW 'ANTI-GLARE' MIRROR HARDLY REDUCES ANY LIGHT AT NIGHT FROM VEHICLES BEHIND THE CAR.  ALMOST IMPOSSIBLE TO DRIVE WITHOUT DISTRACTION OR BLINDING LIGHT.  THIS IS A DEFECT IN MANUFACTURING AND SHOULD BE REPLACED WITH A DESIGN THAT REDUCES LIGHT AT NIGHT.  AS IS, T",
+        "pct": 6,
+        "title": "Visibility/Wiper",
+        "blurb": "14 complaints (6%), the smallest group, with 2 injuries and no crashes or fires reported."
+      }
+    ]
+  }
+}

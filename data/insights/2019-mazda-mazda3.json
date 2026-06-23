@@ -1,0 +1,128 @@
+{
+  "slug": "2019-mazda-mazda3",
+  "make": "Mazda",
+  "model": "Mazda3",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/MAZDA/MAZDA3#complaints",
+  "generatedAt": "2026-06-23T03:51:55.541Z",
+  "total": 72,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "- REAR VIEW MIRROR FELL OFF WHILE ON THE FREEWAY.  HOT DAYS WILL BREAK DOWN THE ADHESIVE AND CAUSE THE REAR VIEW MIRROR TO FALL OFF.    - BRAKES VIBRATE HARSHLY WHEN IN SPORT MODE.  FASTER THE VEHICLE GOES, THE MORE HARSH THE BRAKES WILL VIBRATE.    - ACCELERATION IS JERKY ON LOW",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR LULLS/JERKS WHEN ACCELERATING FROM LOW SPEEDS  CAR LACKS POWER MOST OF THE TIME AND PERFORMS POORLY   ENGINE LOSES POWER, SEVERAL OCCURRENCES OF WHAT WOULD APPEAR TO BE LIMP MODE ( CAN'T GET PASSED 2000-3000 ) RPMS  CAR HAS ERRATIC IDLE RPMS, SOMETIMES HIGH AND SOMETIMES LOW ",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "- REAR VIEW MIRROR FELL OFF WHILE ON THE FREEWAY.  HOT DAYS WILL BREAK DOWN THE ADHESIVE AND CAUSE THE REAR VIEW MIRROR TO FALL OFF.    - BRAKES VIBRATE HARSHLY WHEN IN SPORT MODE.  FASTER THE VEHICLE GOES, THE MORE HARSH THE BRAKES WILL VIBRATE.    - ACCELERATION IS JERKY ON LOW",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENTIRE VEHICLE SAFETY SYSTEM MALFUNCTIONS AT RANDOM TIMES WHILE DRIVING, MOST RECENTLY ON THE HIGHWAY. THE DASHBOARD ILLUMINATES STATING \"SAFETY AND DRIVER SUPPORT SYSTEMS PARTIALLY DISABLED, DRIVE SAFELY\". I LOSE BLIND SPOT MONITORING, LANE KEEP ASSISTANCE, RADAR, AND CITY B",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 MAZDA 3. THE CONTACT STATED THAT THE VEHICLE FAILED TO IMMEDIATELY ACCELERATE AFTER THE BRAKE ASSIST WAS ENGAGED. AS A RESULT, THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS NOT FILED AND THERE",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "2019 Mazda3: brakes and powertrain top the complaint list",
+    "summary": "From 72 owner complaints filed with NHTSA, brake problems are the single most reported issue at 21% of reports, including one crash and one injury. Engine and powertrain issues (often jerky, low-power acceleration) and electrical glitches in the driver-assist systems each show up in about 15% of reports. No fires were reported, but two more crashes are tied to engine and forward-collision-avoidance complaints. Read the breakdown below to know what to check on a test drive.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "- REAR VIEW MIRROR FELL OFF WHILE ON THE FREEWAY.  HOT DAYS WILL BREAK DOWN THE ADHESIVE AND CAUSE THE REAR VIEW MIRROR TO FALL OFF.    - BRAKES VIBRATE HARSHLY WHEN IN SPORT MODE.  FASTER THE VEHICLE GOES, THE MORE HARSH THE BRAKES WILL VIBRATE.    - ACCELERATION IS JERKY ON LOW",
+        "pct": 21,
+        "title": "Service Brakes",
+        "blurb": "The most common complaint: 15 reports (21%), with 1 crash and 1 injury. Test the brakes carefully and listen for vibration."
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR LULLS/JERKS WHEN ACCELERATING FROM LOW SPEEDS  CAR LACKS POWER MOST OF THE TIME AND PERFORMS POORLY   ENGINE LOSES POWER, SEVERAL OCCURRENCES OF WHAT WOULD APPEAR TO BE LIMP MODE ( CAN'T GET PASSED 2000-3000 ) RPMS  CAR HAS ERRATIC IDLE RPMS, SOMETIMES HIGH AND SOMETIMES LOW ",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "11 reports (15%), including 1 crash. Owners describe hesitation and lost power when accelerating from low speeds."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "- REAR VIEW MIRROR FELL OFF WHILE ON THE FREEWAY.  HOT DAYS WILL BREAK DOWN THE ADHESIVE AND CAUSE THE REAR VIEW MIRROR TO FALL OFF.    - BRAKES VIBRATE HARSHLY WHEN IN SPORT MODE.  FASTER THE VEHICLE GOES, THE MORE HARSH THE BRAKES WILL VIBRATE.    - ACCELERATION IS JERKY ON LOW",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "11 reports (15%), no crashes or injuries. Watch for jerky, uneven response when pulling away from a stop."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENTIRE VEHICLE SAFETY SYSTEM MALFUNCTIONS AT RANDOM TIMES WHILE DRIVING, MOST RECENTLY ON THE HIGHWAY. THE DASHBOARD ILLUMINATES STATING \"SAFETY AND DRIVER SUPPORT SYSTEMS PARTIALLY DISABLED, DRIVE SAFELY\". I LOSE BLIND SPOT MONITORING, LANE KEEP ASSISTANCE, RADAR, AND CITY B",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "11 reports (15%), no crashes or injuries. Owners report driver-assist features (blind-spot, lane-keep) cutting out with dashboard warnings."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 MAZDA 3. THE CONTACT STATED THAT THE VEHICLE FAILED TO IMMEDIATELY ACCELERATE AFTER THE BRAKE ASSIST WAS ENGAGED. AS A RESULT, THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS NOT FILED AND THERE",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "9 reports (13%), including 1 crash. Some owners say automatic brake assist triggered or held when it should not have."
+      }
+    ]
+  }
+}

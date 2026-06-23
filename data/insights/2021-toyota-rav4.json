@@ -1,0 +1,128 @@
+{
+  "slug": "2021-toyota-rav4",
+  "make": "Toyota",
+  "model": "RAV4",
+  "year": 2021,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2021/TOYOTA/RAV4#complaints",
+  "generatedAt": "2026-06-23T03:48:00.498Z",
+  "total": 372,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 124,
+      "crash": 28,
+      "fire": 1,
+      "injuries": 34,
+      "deaths": 0,
+      "sample": "No safety devices worked during accident that cause by another vehicle driver who ran red light. Neither air bags deployed, nor safety belt worked properly during an accident. Due to these mal functions of safety devices, my wife on the passenger seat hit the dashboard badly. She",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 45,
+      "crash": 4,
+      "fire": 5,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "VEHICLE BATTERY COMPLETELY DEAD AFTER ONLY 3 DAYS OF NOT BEING DRIVEN. VEHICLE WOULD NOT START AND COULD NOT BE JUMP STARTED. VEHICLE IS ONLY 2 MONTHS OLD.    WIRELESS CHARGING DOES NOT CHARGE CONSISTENTLY. INTERMITTENT CONNECTION ONLY AND GETS VERY HOT.    USB PHONE CONNECTION R",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 36,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CONTACT OWNS A 2021 TOYOTA RAV4. THE CONTACT STATED WHILE THE VEHICLE WAS STATIONARY, THERE WAS AN ABNORMALLY LOUD GRINDING SOUND COMING FROM THE ENGINE. THE CONTACT STATED THERE WAS NO WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO CABE TOYOTA (2849 LONG BEACH BLVD, LON",
+      "pct": 10
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 21,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THERE IS A RATTLING SOUND COMING FROM THE DRIVER'S DOOR WHEN THE CAR IS STATIONARY AND THE DOOR IS SWUNG CLOSED. THE REARVIEW MIRROR OF THE DOOR HAS SIGNIFICANT SHAKING WHILE THE CAR IS IN MOTION, SO THIS IS A SAFETY HAZARD.      THE SPEAKER IN THE DRIVER'S DOOR MAKES A STATIC OR",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 21,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WITH 4 MILES LEFT ON HV RANGE/DTE, I FILLED MY FIRST FULL TANK AT COSTCO. PUMP READ 10.82 GALLONS. NOW HV RANGE IS SHOWING 544 MILES. I GOT ABOUT 39.9 MPG ON FIRST TANK (WITHOUT EV) WHICH IS IN LINE WITH EPA. BUT MY REAL HV RANGE FROM FULL TO EMPTY WAS ONLY 10.9 X 39.5 = 430 MILE",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "Air bag complaints dominate 2021 RAV4 owner reports",
+    "summary": "Of 372 complaints filed with NHTSA, air bags are by far the top concern at 124 reports (33%) and the most serious to watch: owners tie them to 28 crashes and 34 injuries. After that, complaints drop off sharply into electrical (45, 12%), engine (36, 10%), structure (21, 6%) and fuel/propulsion (21, 6%) issues. Fires are rare but show up across the electrical, engine, air bag and fuel systems.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 124,
+        "crash": 28,
+        "fire": 1,
+        "injuries": 34,
+        "deaths": 0,
+        "sample": "No safety devices worked during accident that cause by another vehicle driver who ran red light. Neither air bags deployed, nor safety belt worked properly during an accident. Due to these mal functions of safety devices, my wife on the passenger seat hit the dashboard badly. She",
+        "pct": 33,
+        "title": "Air Bags",
+        "blurb": "The single biggest issue: 124 reports (33%), linked to 28 crashes, 34 injuries and 1 fire. The one to watch most closely."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 45,
+        "crash": 4,
+        "fire": 5,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "VEHICLE BATTERY COMPLETELY DEAD AFTER ONLY 3 DAYS OF NOT BEING DRIVEN. VEHICLE WOULD NOT START AND COULD NOT BE JUMP STARTED. VEHICLE IS ONLY 2 MONTHS OLD.    WIRELESS CHARGING DOES NOT CHARGE CONSISTENTLY. INTERMITTENT CONNECTION ONLY AND GETS VERY HOT.    USB PHONE CONNECTION R",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 45 reports (12%), with 5 fires, 4 crashes and 4 injuries, the highest fire count of any area."
+      },
+      {
+        "component": "ENGINE",
+        "count": 36,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CONTACT OWNS A 2021 TOYOTA RAV4. THE CONTACT STATED WHILE THE VEHICLE WAS STATIONARY, THERE WAS AN ABNORMALLY LOUD GRINDING SOUND COMING FROM THE ENGINE. THE CONTACT STATED THERE WAS NO WARNING LIGHT ILLUMINATED. THE VEHICLE WAS TAKEN TO CABE TOYOTA (2849 LONG BEACH BLVD, LON",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "36 reports (10%) with 3 fires; no crashes or injuries reported, but worth a careful inspection."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 21,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THERE IS A RATTLING SOUND COMING FROM THE DRIVER'S DOOR WHEN THE CAR IS STATIONARY AND THE DOOR IS SWUNG CLOSED. THE REARVIEW MIRROR OF THE DOOR HAS SIGNIFICANT SHAKING WHILE THE CAR IS IN MOTION, SO THIS IS A SAFETY HAZARD.      THE SPEAKER IN THE DRIVER'S DOOR MAKES A STATIC OR",
+        "pct": 6,
+        "title": "Structure",
+        "blurb": "21 reports (6%), tied to 2 crashes and 2 injuries; no fires reported."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 21,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WITH 4 MILES LEFT ON HV RANGE/DTE, I FILLED MY FIRST FULL TANK AT COSTCO. PUMP READ 10.82 GALLONS. NOW HV RANGE IS SHOWING 544 MILES. I GOT ABOUT 39.9 MPG ON FIRST TANK (WITHOUT EV) WHICH IS IN LINE WITH EPA. BUT MY REAL HV RANGE FROM FULL TO EMPTY WAS ONLY 10.9 X 39.5 = 430 MILE",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "21 reports (6%), with 1 fire and 1 crash; no injuries reported."
+      }
+    ]
+  }
+}

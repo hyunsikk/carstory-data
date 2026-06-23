@@ -1,0 +1,128 @@
+{
+  "slug": "2019-mazda-cx-5",
+  "make": "Mazda",
+  "model": "CX-5",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/MAZDA/CX-5#complaints",
+  "generatedAt": "2026-06-23T03:51:49.042Z",
+  "total": 257,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 124,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE FREEWAY ABOUT 65 MILES PER HOUR AND THE THE CAR STARTED TO RUN ROUGH AND THE DASH LIGHTS WENT OUT.  IT FELT LIKE IT WANTED TO STALL SO I KEPT MY FOOT ON THE GAS AND BRAKE AND EXITED THE FREEWAY AND DROVE THE SIDE STREETS HOME.  THE PROBLEM DID NOT HAPPEN AGAI",
+      "pct": 48
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 45,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "SIGNIFICANT SAFETY ISSUE--THE ENTIRE DASH AND MIDDLE SCREEN GOES BLACK, ALL MUSIC STOPS PLAYING, THE APPLE CARE PLAY DOESN'T WORK, ATTACHED IPHONE SOMETIMES GOES BLANK. MUST PULL OVER AND RESTART THE VEHICLE. PREVIOUSLY AT MAZDA OF OREM (UTAH) FOR RECALL AND THIS SAME ISSUE. RETU",
+      "pct": 18
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 29,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "ON MONDAY, NOVEMBER 25, 2019, AS I WAS APPROACHING MY HOME, I ACTIVATED MY GARAGE DOOR OPENER AND THE GARAGE DOOR OPENED AS I PULLED INTO MY DRIVEWAY.  I STOPPED THE CAR, A 2019 MAZDA CX-5, IN THE DRIVEWAY, PLACED IT IN PARK, GOT OUT OF MY VEHICLE AND ENTERED THE GARAGE.  WHILE I",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When the system think there might be a collision and initiates a hard braking even when there might be enough space in front of you. Multiple times, the car behind me had to do a hard break as well not to hit me from behind. This also happens when switching lanes. As you are in t",
+      "pct": 6
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE FUEL LOW LEVEL LIGHT IS NOT TRIGGERED UNTIL 12 MILES OR LESS OF FUEL REMAINING.  THE SERVICE BULLETIN PROVIDED BY THE DEALERSHIP, MED CENTER MAZDA IN PELHAM ALABAMA, SHOWS THAT WHEN THE FUEL GAUGE SENDER VOLTAGE FROM THE RBCM AND THE FUEL INJECTION AMOUNT FROM THE PCM BOTH AG",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2019 Mazda CX-5: engine and electrical lead the complaints",
+    "summary": "Of 257 owner complaints filed with NHTSA, the engine is by far the most reported area at 124 reports (48%), with one linked to a fire. Electrical problems come next at 45 reports (18%), tied to 2 crashes, 1 fire, and 1 injury. Power train rounds out the top three at 29 reports (11%), with 2 crashes and 2 injuries. Less common but worth knowing about: false forward-collision braking and fuel-system issues.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 124,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE FREEWAY ABOUT 65 MILES PER HOUR AND THE THE CAR STARTED TO RUN ROUGH AND THE DASH LIGHTS WENT OUT.  IT FELT LIKE IT WANTED TO STALL SO I KEPT MY FOOT ON THE GAS AND BRAKE AND EXITED THE FREEWAY AND DROVE THE SIDE STREETS HOME.  THE PROBLEM DID NOT HAPPEN AGAI",
+        "pct": 48,
+        "title": "Engine",
+        "blurb": "The single biggest concern: 124 reports (48% of all complaints), including 1 fire. Watch for rough running or stalling-like behavior while driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 45,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "SIGNIFICANT SAFETY ISSUE--THE ENTIRE DASH AND MIDDLE SCREEN GOES BLACK, ALL MUSIC STOPS PLAYING, THE APPLE CARE PLAY DOESN'T WORK, ATTACHED IPHONE SOMETIMES GOES BLANK. MUST PULL OVER AND RESTART THE VEHICLE. PREVIOUSLY AT MAZDA OF OREM (UTAH) FOR RECALL AND THIS SAME ISSUE. RETU",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 45 reports (18%), with 2 crashes, 1 fire, and 1 injury. Owners describe the dash and center screen going black mid-drive."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 29,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "ON MONDAY, NOVEMBER 25, 2019, AS I WAS APPROACHING MY HOME, I ACTIVATED MY GARAGE DOOR OPENER AND THE GARAGE DOOR OPENED AS I PULLED INTO MY DRIVEWAY.  I STOPPED THE CAR, A 2019 MAZDA CX-5, IN THE DRIVEWAY, PLACED IT IN PARK, GOT OUT OF MY VEHICLE AND ENTERED THE GARAGE.  WHILE I",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "Third most reported: 29 reports (11%), linked to 2 crashes and 2 injuries. A safety-relevant area worth checking on a test drive."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When the system think there might be a collision and initiates a hard braking even when there might be enough space in front of you. Multiple times, the car behind me had to do a hard break as well not to hit me from behind. This also happens when switching lanes. As you are in t",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "16 reports (6%), with no crashes, fires, or injuries. Owners report the system braking hard when it misjudges traffic ahead."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE FUEL LOW LEVEL LIGHT IS NOT TRIGGERED UNTIL 12 MILES OR LESS OF FUEL REMAINING.  THE SERVICE BULLETIN PROVIDED BY THE DEALERSHIP, MED CENTER MAZDA IN PELHAM ALABAMA, SHOWS THAT WHEN THE FUEL GAUGE SENDER VOLTAGE FROM THE RBCM AND THE FUEL INJECTION AMOUNT FROM THE PCM BOTH AG",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "15 reports (6%), with no crashes, fires, or injuries. Complaints center on the fuel system, such as a late low-fuel warning."
+      }
+    ]
+  }
+}

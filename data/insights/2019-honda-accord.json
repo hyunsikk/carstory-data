@@ -1,0 +1,128 @@
+{
+  "slug": "2019-honda-accord",
+  "make": "Honda",
+  "model": "Accord",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/ACCORD#complaints",
+  "generatedAt": "2026-06-23T03:48:48.678Z",
+  "total": 631,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 147,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "ON 30 JUNE 2019, MY WIFE AND I WERE DRIVING BACK HOME TO VA FROM OK ON HIGHWAY 40 HEADING WEST NEAR SALLISAW OK.  ROAD WAS WET AND WAS CLIMBING A HILL.  I STEPPED ON ACCELERATOR TO PASS WHILE GOING ABOUT 65 MPH.  THE ENGINE STUMBLED AND SHUTTERED, THE CHECK ENGINE LIGHT CAME ON A",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 146,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA ACCORD. THE CONTACT EMAILED HONDA OF COVINGTON (100 HOLIDAY SQUARE BLVD, COVINGTON, LA 70433, (985) 892-0001) BECAUSE THE TIRE PRESSURE MONITORING SYSTEM INDICATOR ILLUMINATED. ON SEPTEMBER 11, 2019, WHILE DRIVING 35 MPH, THE AUTO BRAKE SYSTEM SU",
+      "pct": 23
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 100,
+      "crash": 4,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "WE BOUGHT A BRAND NEW HONDA ACCORD 2019(LX) ON JUNE 29, 2019. NOT EVEN A MONTH LATER I.E. ON SATURDAY, JULY 27, 2019 AT 7:49 PM MY HONDA ACCORD STOPPED IN THE MIDDLE OF THE HIGHWAY DUE TO UNKNOWN REASON. BEHIND US WAS A TRUCK AND WE WERE AT 70 MPH HIGHWAY, WE WERE ABOUT TO BE HIT",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 90,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "WITH ONLY LESS THAN 800 MILES ON THE CAR, MY 2019 HONDA ACCORD VSA MODULATOR (WHICH WAS DIAGNOSED BY THE DEALERSHIP) FAILED. I FELT THE CAR BEGIN TO BOG ON THE HIGHWAY RIGHT BEFORE WE WERE ON THE EXIT. THEN, THE GAS PEDAL STOPPED WORKING PROPERLY AND THE CAR LOST SPEED. I WOULD P",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 86,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "THE COLLISION MITIGATION BRAKING SYSTEM AND CRUISE CONTROL RANDOMLY STOP WORKING. IT REQUIRES A RESTART TO ACTIVATE THESE IMPORTANT SAFETY FEATURES. THE CAR WAS ON THE HIGHWAY EACH TIME. IT HAS HAPPENED THREE TIMES IN THE LAST WEEK. ATTACHED IS A PICTURE OF THE WARNING OF THE FAI",
+      "pct": 14
+    }
+  ],
+  "narrative": {
+    "headline": "2019 Honda Accord: engine and auto-braking lead owner complaints",
+    "summary": "Owners filed 631 complaints with NHTSA. Two areas tie at the top: the engine (147 reports, 23%) and forward collision avoidance, the automatic-braking system (146 reports, 23%). The auto-braking complaints carry the most safety weight, tied to 8 crashes and 9 injuries. Fuel/propulsion (100 reports), electrical (90), and service brakes (86) round out the list. Two reports mention a fire, and brake-related problems show up across both forward collision avoidance and service brakes.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 147,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "ON 30 JUNE 2019, MY WIFE AND I WERE DRIVING BACK HOME TO VA FROM OK ON HIGHWAY 40 HEADING WEST NEAR SALLISAW OK.  ROAD WAS WET AND WAS CLIMBING A HILL.  I STEPPED ON ACCELERATOR TO PASS WHILE GOING ABOUT 65 MPH.  THE ENGINE STUMBLED AND SHUTTERED, THE CHECK ENGINE LIGHT CAME ON A",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "The most-reported area: 147 complaints (23%), including 1 fire, 3 crashes, and 3 injuries. Watch for stumbling or stalling, especially under acceleration."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 146,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA ACCORD. THE CONTACT EMAILED HONDA OF COVINGTON (100 HOLIDAY SQUARE BLVD, COVINGTON, LA 70433, (985) 892-0001) BECAUSE THE TIRE PRESSURE MONITORING SYSTEM INDICATOR ILLUMINATED. ON SEPTEMBER 11, 2019, WHILE DRIVING 35 MPH, THE AUTO BRAKE SYSTEM SU",
+        "pct": 23,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Nearly tied for the top with 146 complaints (23%), and the highest safety toll here: 8 crashes and 9 injuries. Owners report the automatic-braking system acting up while driving."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 100,
+        "crash": 4,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "WE BOUGHT A BRAND NEW HONDA ACCORD 2019(LX) ON JUNE 29, 2019. NOT EVEN A MONTH LATER I.E. ON SATURDAY, JULY 27, 2019 AT 7:49 PM MY HONDA ACCORD STOPPED IN THE MIDDLE OF THE HIGHWAY DUE TO UNKNOWN REASON. BEHIND US WAS A TRUCK AND WE WERE AT 70 MPH HIGHWAY, WE WERE ABOUT TO BE HIT",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "100 complaints (16%), with 1 fire, 4 crashes, and 5 injuries. Some owners describe the car losing power or stalling unexpectedly, including on the highway."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 90,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "WITH ONLY LESS THAN 800 MILES ON THE CAR, MY 2019 HONDA ACCORD VSA MODULATOR (WHICH WAS DIAGNOSED BY THE DEALERSHIP) FAILED. I FELT THE CAR BEGIN TO BOG ON THE HIGHWAY RIGHT BEFORE WE WERE ON THE EXIT. THEN, THE GAS PEDAL STOPPED WORKING PROPERLY AND THE CAR LOST SPEED. I WOULD P",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "90 complaints (14%), tied to 4 crashes and 6 injuries. Electrical faults can affect driving behavior, so take any warning lights seriously."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 86,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "THE COLLISION MITIGATION BRAKING SYSTEM AND CRUISE CONTROL RANDOMLY STOP WORKING. IT REQUIRES A RESTART TO ACTIVATE THESE IMPORTANT SAFETY FEATURES. THE CAR WAS ON THE HIGHWAY EACH TIME. IT HAS HAPPENED THREE TIMES IN THE LAST WEEK. ATTACHED IS A PICTURE OF THE WARNING OF THE FAI",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "86 complaints (14%), with a notable 7 crashes and 7 injuries. A braking issue worth checking carefully during a test drive or inspection."
+      }
+    ]
+  }
+}

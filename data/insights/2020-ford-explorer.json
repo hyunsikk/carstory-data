@@ -1,0 +1,128 @@
+{
+  "slug": "2020-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-06-23T03:49:07.521Z",
+  "total": 1138,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 439,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THIS VEHICLE WAS GIVEN TO ME ON OR ABOUT 12 NOVEMBER 2019 AS A REPLACEMENT FOR A 2020 FORD EXPLORER, VIN [XXX], PURCHASED FROM SAMES FORD IN LAREDO, WHICH TWICE HAD FAILURE OF THE TRANSMISSION COOLING SYSTEM WHILE IN MOTION ON THE HIGHWAY.   THIS NEW VEHICLE BROKE DOWN WHILE IN M",
+      "pct": 39
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 175,
+      "crash": 3,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 FORD EXPLORER. WHILE THE VEHICLE WAS PARKED, THE ENGINE SUDDENLY BEGAN TO REV VERY HIGHLY AND THE VEHICLE ATTEMPTED TO ACCELERATE FORWARD. THE DRIVER DEPRESSED THE BRAKE PEDAL TO PREVENT THE VEHICLE FROM MOVING. THE TRANSMISSION WAS SWITCHED INTO NEUTR",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 109,
+      "crash": 2,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY BRAND NEW 2020 FORD EXPLORER PLATINUM TOP OF LINE MODEL (VIN [XXX]) BROKE DOWN ON CHRISTMAS EVE 2019 AFTER A COMPLETE ENGINE SEIZURE WITH LESS THAN 2000 MILES AND LEFT US STRANDED WITH MY FAMILY FOR HOURS IN THE MIDDLE OF THE ROAD. THE VEHICLE LOST ALL POWER AND CONTROL AND HA",
+      "pct": 10
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 104,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WHEN REVERSING CAMERA WILL SHOW BLUE SCREEN AND NOT GIVE ANY ADDITIONAL WARNINGS SINCE NOTHING CAN BE DETECTED. THIS IS AND ON AND OFF ISSUE SO CAN HAPPEN AT ANY TIME.       I'VE ADDED PICTURES TAKEN AT DIFFERENT DAYS AND TIMES.     I'VE JUST PUT TODAY'S DATE BECAUSE I CAN'T REME",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 80,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "ON JANUARY 6, 2020, I WAS DRIVING TO WORK, APPROACHING A RED LIGHT AND COULD NOT STOP. I WAS GOING AROUND 40 MPH. THEN, I BEGIN PRESSING ON THE BREAK WITH MY RIGHT FOOT AND COULD NOT STOP. NEXT, I USED BOTH FEET PRESSING THE BREAK PEDAL TO THE FLOOR AND COULD BARELY BRING THE TRU",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "Watch the transmission first on the 2020 Explorer",
+    "summary": "Owners filed 1,138 complaints to NHTSA. The power train (transmission and drivetrain) dominates by far at 439 reports (39%) - more than the next two categories combined. Electrical and engine problems follow, with a handful of fires tied to each. Before you buy, get a thorough test drive and a transmission check.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 439,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THIS VEHICLE WAS GIVEN TO ME ON OR ABOUT 12 NOVEMBER 2019 AS A REPLACEMENT FOR A 2020 FORD EXPLORER, VIN [XXX], PURCHASED FROM SAMES FORD IN LAREDO, WHICH TWICE HAD FAILURE OF THE TRANSMISSION COOLING SYSTEM WHILE IN MOTION ON THE HIGHWAY.   THIS NEW VEHICLE BROKE DOWN WHILE IN M",
+        "pct": 39,
+        "title": "Power Train",
+        "blurb": "The single biggest complaint area: 439 reports (39% of all). Owners describe rough shifting and drivetrain failures, sometimes mid-drive. Linked to 6 crashes and 2 injuries. Test-drive hard and watch for jerky or hesitant shifts."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 175,
+        "crash": 3,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 FORD EXPLORER. WHILE THE VEHICLE WAS PARKED, THE ENGINE SUDDENLY BEGAN TO REV VERY HIGHLY AND THE VEHICLE ATTEMPTED TO ACCELERATE FORWARD. THE DRIVER DEPRESSED THE BRAKE PEDAL TO PREVENT THE VEHICLE FROM MOVING. THE TRANSMISSION WAS SWITCHED INTO NEUTR",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "Second most common: 175 reports (15%). Includes glitches and unexpected behavior, with 4 fires, 3 crashes, and 2 injuries reported. Check that all electronics work normally and look for any warning lights."
+      },
+      {
+        "component": "ENGINE",
+        "count": 109,
+        "crash": 2,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY BRAND NEW 2020 FORD EXPLORER PLATINUM TOP OF LINE MODEL (VIN [XXX]) BROKE DOWN ON CHRISTMAS EVE 2019 AFTER A COMPLETE ENGINE SEIZURE WITH LESS THAN 2000 MILES AND LEFT US STRANDED WITH MY FAMILY FOR HOURS IN THE MIDDLE OF THE ROAD. THE VEHICLE LOST ALL POWER AND CONTROL AND HA",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "109 reports (10%), including early failures and stalling. Tied to 4 fires and 2 crashes. Listen for unusual noises and confirm the engine runs smoothly cold and warm."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 104,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WHEN REVERSING CAMERA WILL SHOW BLUE SCREEN AND NOT GIVE ANY ADDITIONAL WARNINGS SINCE NOTHING CAN BE DETECTED. THIS IS AND ON AND OFF ISSUE SO CAN HAPPEN AT ANY TIME.       I'VE ADDED PICTURES TAKEN AT DIFFERENT DAYS AND TIMES.     I'VE JUST PUT TODAY'S DATE BECAUSE I CAN'T REME",
+        "pct": 9,
+        "title": "Back Over Prevention",
+        "blurb": "104 reports (9%), often a rearview camera that blanks out. This one carries 8 crashes - the most of any category here - and 1 injury. Confirm the backup camera shows a clear, steady image every time."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 80,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "ON JANUARY 6, 2020, I WAS DRIVING TO WORK, APPROACHING A RED LIGHT AND COULD NOT STOP. I WAS GOING AROUND 40 MPH. THEN, I BEGIN PRESSING ON THE BREAK WITH MY RIGHT FOOT AND COULD NOT STOP. NEXT, I USED BOTH FEET PRESSING THE BREAK PEDAL TO THE FLOOR AND COULD BARELY BRING THE TRU",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "80 reports (7%), but the highest injury count here at 6, plus 4 crashes - some owners describe reduced stopping power. Test the brakes carefully and have a mechanic inspect them before buying."
+      }
+    ]
+  }
+}

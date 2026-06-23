@@ -1,0 +1,128 @@
+{
+  "slug": "2019-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2019,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2019/HONDA/PILOT#complaints",
+  "generatedAt": "2026-06-23T03:48:54.460Z",
+  "total": 847,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 249,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "WHILE DRIVING, BOTH HIGHWAY AND AROUND TOWN, LOUD CRACKLING WOULD OCCUR THROUGH THE SPEAKERS.  THEN BOTH THE NAVIGATION SCREEN AND/OR THE SPEEDOMETER SCREEN WOULD GO COMPLETELY BLACK.  THE MESSAGE \"NETWORK CONNECTION LOST\" WOULD SOMETIMES APPEAR.   ALL BLUETOOTH CONNECTIVITY AND ",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 213,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA PILOT. WHILE DRIVING 25 MPH, THE VEHICLE VIBRATED AND THE CHECK ENGINE, HILL START ASSIST, TRAILER STABILITY ASSIST, POWER STEERING, LANE DEPARTURE LITIGATION, BLIND SPOT, TRANSMISSION, AND EMISSION WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 105,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ENGINE IS REVVING ON ITS OWN @ 3000 RPM WITH NO FOOT ON THE GAS PEDAL OR DRIVING 15 MPH AND THE ENGINE IS @ 4500 RPM WITH NO FOOT ON THE GAS PEDAL. MY WIFE WAS IN THE PICKUP LANE AT MY CHILDREN'S SCHOOL AND SHE TOLD ME THAT SHE HAD TO HOLD THE BRAKE DOWN & TURN OFF THE IGNITION B",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 103,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2019 HONDA PILOT. WHILE DRIVING VARIOUS SPEEDS, THE FRONT DRIVER SIDE BRAKE SENSOR ACTIVATED AND SOUNDED A WARNING BEEPING. ERRONEOUSLY, WHICH SIGNALED THE CONTACT TO BRAKE. IN ADDITION, THE BRAKE SENOR WARNING INDICATOR ILLUMINATED. THE FAILURE OCCURRED IN",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 88,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "THE TRANSMISSION HAS SLIPPED NOW TWICE WHILE DRIVING. ONCE ON THE HIGHWAY AND AGAIN YESTERDAY AFTER TURNING RIGHT ONTO A BUSY NARROW ROAD. THE NAVIGATION SYSTEM AND SCREEN DISPLAY HAS BLACKED OUT AND BECOME NON-FUNCTIONAL WHILE DRIVING AT LEAST 6-7 TIMES  (NO RADIO, NAVIGATION, O",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2019 Honda Pilot: electrical and engine gripes lead the pack",
+    "summary": "Owners filed 847 complaints with NHTSA. Electrical problems top the list at 29% of reports, with engine issues close behind at 25%. The remaining concerns split across the fuel/propulsion system, forward collision avoidance, and the powertrain. Most reports are about malfunctions, not accidents, but a handful note crashes, two mention fires, and several report injuries, so the details below are worth a look.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 249,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "WHILE DRIVING, BOTH HIGHWAY AND AROUND TOWN, LOUD CRACKLING WOULD OCCUR THROUGH THE SPEAKERS.  THEN BOTH THE NAVIGATION SCREEN AND/OR THE SPEEDOMETER SCREEN WOULD GO COMPLETELY BLACK.  THE MESSAGE \"NETWORK CONNECTION LOST\" WOULD SOMETIMES APPEAR.   ALL BLUETOOTH CONNECTIVITY AND ",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "The single most common complaint: 249 reports (29%). Owners describe display screens and electronics cutting out. This area is tied to 1 fire, 1 crash, and 3 injuries."
+      },
+      {
+        "component": "ENGINE",
+        "count": 213,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA PILOT. WHILE DRIVING 25 MPH, THE VEHICLE VIBRATED AND THE CHECK ENGINE, HILL START ASSIST, TRAILER STABILITY ASSIST, POWER STEERING, LANE DEPARTURE LITIGATION, BLIND SPOT, TRANSMISSION, AND EMISSION WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "The second-biggest concern: 213 reports (25%), often vibration with multiple warning lights coming on at once. Linked to 2 fires and 1 injury, but no reported crashes."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 105,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ENGINE IS REVVING ON ITS OWN @ 3000 RPM WITH NO FOOT ON THE GAS PEDAL OR DRIVING 15 MPH AND THE ENGINE IS @ 4500 RPM WITH NO FOOT ON THE GAS PEDAL. MY WIFE WAS IN THE PICKUP LANE AT MY CHILDREN'S SCHOOL AND SHE TOLD ME THAT SHE HAD TO HOLD THE BRAKE DOWN & TURN OFF THE IGNITION B",
+        "pct": 12,
+        "title": "Fuel/Propulsion System",
+        "blurb": "105 reports (12%), including the engine revving on its own without the gas pedal pressed. Tied to 1 crash and 1 injury, so treat unexpected acceleration seriously."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 103,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2019 HONDA PILOT. WHILE DRIVING VARIOUS SPEEDS, THE FRONT DRIVER SIDE BRAKE SENSOR ACTIVATED AND SOUNDED A WARNING BEEPING. ERRONEOUSLY, WHICH SIGNALED THE CONTACT TO BRAKE. IN ADDITION, THE BRAKE SENOR WARNING INDICATOR ILLUMINATED. THE FAILURE OCCURRED IN",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "103 reports (12%) of false or erroneous collision and braking warnings. This category has the most crashes of any here (3) plus 2 injuries, so it is worth watching closely."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 88,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "THE TRANSMISSION HAS SLIPPED NOW TWICE WHILE DRIVING. ONCE ON THE HIGHWAY AND AGAIN YESTERDAY AFTER TURNING RIGHT ONTO A BUSY NARROW ROAD. THE NAVIGATION SYSTEM AND SCREEN DISPLAY HAS BLACKED OUT AND BECOME NON-FUNCTIONAL WHILE DRIVING AT LEAST 6-7 TIMES  (NO RADIO, NAVIGATION, O",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "88 reports (10%), with owners describing the transmission slipping while driving. The highest injury count of any category here (4 injuries) plus 2 crashes."
+      }
+    ]
+  }
+}
