@@ -1,0 +1,128 @@
+{
+  "slug": "2018-chevrolet-silverado-1500",
+  "make": "Chevrolet",
+  "model": "Silverado 1500",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CHEVROLET/SILVERADO%201500#complaints",
+  "generatedAt": "2026-06-23T06:12:36.581Z",
+  "total": 504,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 165,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TRUCK STATIONARY. STARTED ENGINE. IMMEDIATELY MESSAGE SHOWED UP ON DASHBOARD INDICATING STEERING ASSIST LOW, DRIVE CAREFULLY. NO POWER STEERING. TRACTION CONTROL WARNING LIT. SHIFTED INTO REVERSE; TRUCK WOULD NOT MOVE AS IF IN NEUTRAL. TRUCK MOVE MOVE FORWARD IN DRIVE. SHUT OFF E",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 97,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET SILVERADO 1500. WHILE DRIVING APPROXIMATELY 25 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS ABLE TO RESTART. THE VEHICLE WAS TAKEN TO THE DEALER (LAKE CHEVROLET, 31201 AUTO CENTER DR, LAKE ELSINORE, CA 92530) WHERE IT WAS EXPLAIN",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 96,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLES ENGINE AND IGNITION SHUT OFF WHILE TURNING RIGHT. ENGINE CAN BE RESTARTED IMMEDIATELY. THIS HAS OCCURRED 3 TIMES IN 3 WEEKS (1090 MILES) UNEXPECTEDLY WHILE TRAVELING AT LOW SPEED. ONE TIME WHILE ENTERING A ROADWAY FROM A PARKING LOT, ONE TIME WHILE PULLING OVER TO PARK A",
+      "pct": 19
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 96,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THE BRAKE PEDDLE WENT SOLID HARD AND LOSS OF BRAKING HAPPENED WHILE BACKING A BOAT TRAILER DOWN A BOAT LAUNCH RAMP.  WHEN THE BRAKES FAILED THE DASH FLASHED SERVICE BRAKE ASSIST. LOSS OF POWER BRAKES CAUSED THE TRUCK TO NOT STOP EVEN WITH PUSHING DOWN ON THE PEDDLE AS HARD AS POS",
+      "pct": 19
+    },
+    {
+      "component": "STEERING",
+      "count": 41,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TRUCK STATIONARY. STARTED ENGINE. IMMEDIATELY MESSAGE SHOWED UP ON DASHBOARD INDICATING STEERING ASSIST LOW, DRIVE CAREFULLY. NO POWER STEERING. TRACTION CONTROL WARNING LIT. SHIFTED INTO REVERSE; TRUCK WOULD NOT MOVE AS IF IN NEUTRAL. TRUCK MOVE MOVE FORWARD IN DRIVE. SHUT OFF E",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Chevrolet Silverado 1500: power train tops owner complaints",
+    "summary": "Across 504 owner complaints to NHTSA, power train problems lead by a wide margin at 165 reports (33%), followed by electrical system, engine, and service brakes (each 96-97 reports, 19%). Owners describe sudden loss of power steering, stalling, and the engine shutting off while driving. Engine and electrical reports each include 2 fires, and service brakes account for 3 crashes.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 165,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TRUCK STATIONARY. STARTED ENGINE. IMMEDIATELY MESSAGE SHOWED UP ON DASHBOARD INDICATING STEERING ASSIST LOW, DRIVE CAREFULLY. NO POWER STEERING. TRACTION CONTROL WARNING LIT. SHIFTED INTO REVERSE; TRUCK WOULD NOT MOVE AS IF IN NEUTRAL. TRUCK MOVE MOVE FORWARD IN DRIVE. SHUT OFF E",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "Most-reported area by far: 165 complaints (33%), with 1 crash and 2 injuries. Owners describe loss of power steering and the truck failing to move when shifted into gear."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 97,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 CHEVROLET SILVERADO 1500. WHILE DRIVING APPROXIMATELY 25 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS ABLE TO RESTART. THE VEHICLE WAS TAKEN TO THE DEALER (LAKE CHEVROLET, 31201 AUTO CENTER DR, LAKE ELSINORE, CA 92530) WHERE IT WAS EXPLAIN",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "97 complaints (19%), including 2 fires, 1 crash, and 1 injury. Owners report the truck stalling without warning while driving."
+      },
+      {
+        "component": "ENGINE",
+        "count": 96,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLES ENGINE AND IGNITION SHUT OFF WHILE TURNING RIGHT. ENGINE CAN BE RESTARTED IMMEDIATELY. THIS HAS OCCURRED 3 TIMES IN 3 WEEKS (1090 MILES) UNEXPECTEDLY WHILE TRAVELING AT LOW SPEED. ONE TIME WHILE ENTERING A ROADWAY FROM A PARKING LOT, ONE TIME WHILE PULLING OVER TO PARK A",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "96 complaints (19%), including 2 fires. Owners report the engine shutting off unexpectedly at low speed, then restarting."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 96,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THE BRAKE PEDDLE WENT SOLID HARD AND LOSS OF BRAKING HAPPENED WHILE BACKING A BOAT TRAILER DOWN A BOAT LAUNCH RAMP.  WHEN THE BRAKES FAILED THE DASH FLASHED SERVICE BRAKE ASSIST. LOSS OF POWER BRAKES CAUSED THE TRUCK TO NOT STOP EVEN WITH PUSHING DOWN ON THE PEDDLE AS HARD AS POS",
+        "pct": 19,
+        "title": "Service Brakes",
+        "blurb": "96 complaints (19%) and the biggest crash risk here: 3 crashes, plus 1 fire and 1 injury. Owners report the brake pedal going hard and loss of braking power."
+      },
+      {
+        "component": "STEERING",
+        "count": 41,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TRUCK STATIONARY. STARTED ENGINE. IMMEDIATELY MESSAGE SHOWED UP ON DASHBOARD INDICATING STEERING ASSIST LOW, DRIVE CAREFULLY. NO POWER STEERING. TRACTION CONTROL WARNING LIT. SHIFTED INTO REVERSE; TRUCK WOULD NOT MOVE AS IF IN NEUTRAL. TRUCK MOVE MOVE FORWARD IN DRIVE. SHUT OFF E",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "41 complaints (8%), with 3 crashes. Owners report a low-steering-assist warning and loss of power steering."
+      }
+    ]
+  }
+}

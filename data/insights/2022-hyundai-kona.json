@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-kona",
+  "make": "Hyundai",
+  "model": "Kona",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/KONA#complaints",
+  "generatedAt": "2026-06-23T06:24:35.626Z",
+  "total": 94,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Kona. The contact stated while driving 5 MPH, the vehicle inadvertently shut off due to the idle STOP/START feature. The contact stated that there was no warning light illuminated. The vehicle was taken to a local dealer where but was not diagnosed",
+      "pct": 33
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Kona. The contact stated while the vehicle was parked, he noticed while starting the vehicle and switching the headlights from automatic to manual, that the headlights failed to operate as needed. The contact stated that when the headlight switch w",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While on the highway the transmission completely stopped shifting and stayed in first gear and would only rev up the engine when the accelerator was applied.I had to coast slowly off the freeway to an exit to safely park. I turned the vehicle off and restarted after a few minutes",
+      "pct": 16
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The cruise control does not engage. When setting the adaptive cruise control I have had the car slow down 15-20 mph before turning the cruise control off because traffic is backing up behind me and I become a hazard on the road. I have taken it to 2 different dealerships, the one",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 9,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving on the freeway the car in front of me was at least 4 car lengths away. My car flashed emergency breaks and locked it’s breaks coming to a stop on the fast lane of the freeway. Nearly avoided an accident. This has happened twice- both with no reason and no issue in f",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Hyundai Kona: engine leads the owner complaints",
+    "summary": "Owners filed 94 complaints with NHTSA. The engine is the most reported area at 33%, followed by the electrical system (22%) and power train (16%). No fires or deaths are reported. The top three areas have no crashes or injuries, but forward collision avoidance and the brakes each account for 1 crash and 1 injury, so both systems are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Kona. The contact stated while driving 5 MPH, the vehicle inadvertently shut off due to the idle STOP/START feature. The contact stated that there was no warning light illuminated. The vehicle was taken to a local dealer where but was not diagnosed",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "The most reported area: 31 reports (33%), with no crashes, fires, or injuries. The largest single source of owner complaints on this car."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Kona. The contact stated while the vehicle was parked, he noticed while starting the vehicle and switching the headlights from automatic to manual, that the headlights failed to operate as needed. The contact stated that when the headlight switch w",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 21 reports (22%), with no crashes, fires, or injuries. A common but lower-severity complaint area."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While on the highway the transmission completely stopped shifting and stayed in first gear and would only rev up the engine when the accelerator was applied.I had to coast slowly off the freeway to an exit to safely park. I turned the vehicle off and restarted after a few minutes",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "15 reports (16%), with no crashes, fires, or injuries. Watch for shifting problems during a test drive."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The cruise control does not engage. When setting the adaptive cruise control I have had the car slow down 15-20 mph before turning the cruise control off because traffic is backing up behind me and I become a hazard on the road. I have taken it to 2 different dealerships, the one",
+        "pct": 15,
+        "title": "Forward Collision Avoidance",
+        "blurb": "14 reports (15%), tied to 1 crash and 1 injury. Test the cruise control and collision-avoidance features carefully."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 9,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving on the freeway the car in front of me was at least 4 car lengths away. My car flashed emergency breaks and locked it’s breaks coming to a stop on the fast lane of the freeway. Nearly avoided an accident. This has happened twice- both with no reason and no issue in f",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "The fewest reports at 9 (10%), but tied to 1 crash and 1 injury. Test the brakes thoroughly before buying."
+      }
+    ]
+  }
+}

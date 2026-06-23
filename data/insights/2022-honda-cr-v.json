@@ -1,0 +1,128 @@
+{
+  "slug": "2022-honda-cr-v",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/CR-V#complaints",
+  "generatedAt": "2026-06-23T06:07:37.745Z",
+  "total": 221,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 110,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "-the car is rolling right and left even during the lane keeping assistance is on. -the driver seat started to deteriorate. -the air-condition compressor  start to be noisy, no enough cooling even though it was winter season. - during the moderate bad weather all driver assist sys",
+      "pct": 50
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 42,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "-the car is rolling right and left even during the lane keeping assistance is on. -the driver seat started to deteriorate. -the air-condition compressor  start to be noisy, no enough cooling even though it was winter season. - during the moderate bad weather all driver assist sys",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda CR-V. The contact stated while driving at approximately 2 MPH, and parking her vehicle with her foot depressing the brake pedal. She had pulled into a parking spot, front end in, when the vehicle unexpectedly revved and lurched forward. The contact s",
+      "pct": 7
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda CR-V. The contact stated that while reversing out of her parking lot, the vehicle made an abnormal sound while depressing the brake pedal. The vehicle was taken to the dealer, where it was diagnosed but no issues were found. The vehicle was not repai",
+      "pct": 7
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda CR-V. The contact stated while driving 40 MPH several unknown warning lights illuminated on the instrument panel. The vehicle was taken to the dealer for diagnostic testing. The dealer stated that the front camera radar needed to be replaced. The con",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Honda CR-V: steering leads the owner complaints",
+    "summary": "Owners filed 221 complaints with NHTSA. Steering is by far the most reported area at 50%, followed by forward collision avoidance (19%). No fires and no deaths are reported across any area. Forward collision avoidance stands out because, despite fewer reports than steering, it is tied to the most injuries (3) of any area, so the driver-assist features are worth testing carefully.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 110,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "-the car is rolling right and left even during the lane keeping assistance is on. -the driver seat started to deteriorate. -the air-condition compressor  start to be noisy, no enough cooling even though it was winter season. - during the moderate bad weather all driver assist sys",
+        "pct": 50,
+        "title": "Steering",
+        "blurb": "The single biggest complaint: 110 reports (50%), half of all complaints, tied to 1 crash. No injuries or fires reported. Pay attention to how the car tracks and steers on a test drive."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 42,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "-the car is rolling right and left even during the lane keeping assistance is on. -the driver seat started to deteriorate. -the air-condition compressor  start to be noisy, no enough cooling even though it was winter season. - during the moderate bad weather all driver assist sys",
+        "pct": 19,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Second most reported: 42 reports (19%), tied to 1 crash and 3 injuries, the most injuries of any area. Worth checking how the collision-avoidance features behave."
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda CR-V. The contact stated while driving at approximately 2 MPH, and parking her vehicle with her foot depressing the brake pedal. She had pulled into a parking spot, front end in, when the vehicle unexpectedly revved and lurched forward. The contact s",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "15 reports (7%), tied to 1 crash. No injuries or fires reported. A smaller but recurring complaint area."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda CR-V. The contact stated that while reversing out of her parking lot, the vehicle made an abnormal sound while depressing the brake pedal. The vehicle was taken to the dealer, where it was diagnosed but no issues were found. The vehicle was not repai",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "15 reports (7%), tied to 1 crash. No injuries or fires reported. Test the brakes for any unusual sounds or feel."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda CR-V. The contact stated while driving 40 MPH several unknown warning lights illuminated on the instrument panel. The vehicle was taken to the dealer for diagnostic testing. The dealer stated that the front camera radar needed to be replaced. The con",
+        "pct": 5,
+        "title": "Electrical System",
+        "blurb": "12 reports (5%), with 1 injury and no crashes or fires. The smallest of the top complaint areas; watch for unexpected warning lights."
+      }
+    ]
+  }
+}

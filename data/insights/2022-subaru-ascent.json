@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-ascent",
+  "make": "Subaru",
+  "model": "Ascent",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/ASCENT#complaints",
+  "generatedAt": "2026-06-23T06:22:02.591Z",
+  "total": 53,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transmission is slipping and lunges forward, I believe this is the same reason there was a recall for my model car in 2019 & 2020.  I have reported this to the car dealership and it will be placed in their service department tomorrow...  I was carrying five (5) passengers in ",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The brakes on this vehicle continue to makes squealing sounds when slowing to a gradual stop, and now recently makes a grinding sound when driving from a complete stop to a gradual start. These sounds began when the vehicle was new at 500 miles and continues at 1500 miles. The ve",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ascent randomly hesitates when pulling out into traffic.. both at slow speeds and when attempting to pass on interstate.. has been at dealer service numerous times regarding this , it periodically 'walking' when parked and ranfom inability to get hatch to work. Is currently at a ",
+      "pct": 13
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "With less than 5500 miles on our new Ascent, the windshield has 100s of small chips in it. When contacting Subaru about the issue we were told that's an outside environment issue and not something they could help with. After reading online, it seems the acoustic glass Subaru is u",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I was driving slowly through a parking lot.  I found a spot to park my car and noticed that there was a curb painted bright yellow so I knew I could not pull through.  I started to turn into the parking spot with my foot on the brake when all of a sudden my car was speeding towar",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Subaru Ascent: power train tops the owner complaints",
+    "summary": "Owners filed 53 complaints with NHTSA. The power train is the most reported area at 25%, followed by the brakes (21%). No deaths are reported. The forward collision avoidance system draws the fewest of these complaints (9%) but the most crashes (2) and injuries (3) of any area, so it is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transmission is slipping and lunges forward, I believe this is the same reason there was a recall for my model car in 2019 & 2020.  I have reported this to the car dealership and it will be placed in their service department tomorrow...  I was carrying five (5) passengers in ",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "The most reported area: 13 reports (25%), with no crashes, fires, or injuries logged. Owners describe transmission slipping and lunging."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The brakes on this vehicle continue to makes squealing sounds when slowing to a gradual stop, and now recently makes a grinding sound when driving from a complete stop to a gradual start. These sounds began when the vehicle was new at 500 miles and continues at 1500 miles. The ve",
+        "pct": 21,
+        "title": "Service Brakes",
+        "blurb": "Second most reported: 11 reports (21%), with no crashes, fires, or injuries logged. Listen for squealing or grinding when braking."
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ascent randomly hesitates when pulling out into traffic.. both at slow speeds and when attempting to pass on interstate.. has been at dealer service numerous times regarding this , it periodically 'walking' when parked and ranfom inability to get hatch to work. Is currently at a ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "7 reports (13%), including 1 crash and 1 fire. Watch for hesitation when accelerating from a stop or while passing."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "With less than 5500 miles on our new Ascent, the windshield has 100s of small chips in it. When contacting Subaru about the issue we were told that's an outside environment issue and not something they could help with. After reading online, it seems the acoustic glass Subaru is u",
+        "pct": 13,
+        "title": "Visibility/Wiper",
+        "blurb": "7 reports (13%), with no crashes, fires, or injuries logged. Owners mention windshield chipping early in the car's life."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I was driving slowly through a parking lot.  I found a spot to park my car and noticed that there was a curb painted bright yellow so I knew I could not pull through.  I started to turn into the parking spot with my foot on the brake when all of a sudden my car was speeding towar",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Fewest of these complaints (5 reports, 9%) but the most serious by outcome: 2 crashes and 3 injuries. Test the collision-avoidance behavior carefully."
+      }
+    ]
+  }
+}

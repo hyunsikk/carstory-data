@@ -1,0 +1,128 @@
+{
+  "slug": "2020-kia-soul",
+  "make": "Kia",
+  "model": "Soul",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/KIA/SOUL#complaints",
+  "generatedAt": "2026-06-23T06:26:08.830Z",
+  "total": 353,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 219,
+      "crash": 3,
+      "fire": 6,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2020 KIA SOUL. WHILE DRIVING AT 70 MPH, THE VEHICLE STALLED AS THE ENGINE WARNING LIGHT ILLUMINATED AND THE VEHICLE WAS MERGED TO THE SIDE OF THE ROAD. WHEN THE CONTACT ATTEMPTED TO RESTART THE VEHICLE, THE ENGINE CAUGHT ON FIRE. THE FIRE DEPARTMENT EXTING",
+      "pct": 62
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 86,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I BOUGHT THE CAR IN MAY 2020. I FIRST REPORTED THE PROBLEM IN JULY. IT HAS SOMETHING TO DO WITH THE IDLE STOP AND GO FEATURE, AS IT ONLY HAPPENS WHEN THIS IT IS BEING USED. WHEN I COME TO STOPS AT RED LIGHTS AND STOP SIGNS. EVERYTHING SHUTS DOWN. WHEN I RELEASE MY FEET OFF THE BR",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 27,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 8,
+      "sample": "MY CAR WAS PURCHASED BRAND NEW OFF THE LOT WITH 28 MILES ON IT. I NOW HAVE APPROXIMATELY 15614 MILES ON MY 2020 KIA SOUL. I JUST WANTED TO REPORT THAT THE HORN, A MAJOR SAFETY FEATURE, INTERMITTENTLY STOPS WORKING. WHEN THE HORN STOPS WORKING IT INCLUDES THE STEERING WHEEL DEPRES",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PULLS TO THE RIGHT AT HIGHWAY SPEED - APPROX 45MPH.  SEVERE ALIGNMENT PROBLEM.  DEALER TOLD ME THAT THEY DID HAVE A NEW-ENOUGH MACHINE TO ALIGN THE CAR.  HOW CAN KIA OF IRVINE, NOT HAVE THE PROPER EQUIPMENT TO FIX THE CARS THEY SELL?  INSIDE REAR COWLING THAT GOES AROUND THE SMAL",
+      "pct": 5
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT THE CAR IN MAY 2020. I FIRST REPORTED THE PROBLEM IN JULY. IT HAS SOMETHING TO DO WITH THE IDLE STOP AND GO FEATURE, AS IT ONLY HAPPENS WHEN THIS IT IS BEING USED. WHEN I COME TO STOPS AT RED LIGHTS AND STOP SIGNS. EVERYTHING SHUTS DOWN. WHEN I RELEASE MY FEET OFF THE BR",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Kia Soul: the engine dominates owner complaints",
+    "summary": "Owners filed 353 complaints with NHTSA. The engine is by far the most reported area at 62%, well ahead of the power train (24%) and the electrical system (8%). The engine reports include 6 fires, 3 crashes, and 3 injuries, so pay close attention to engine behavior on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 219,
+        "crash": 3,
+        "fire": 6,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2020 KIA SOUL. WHILE DRIVING AT 70 MPH, THE VEHICLE STALLED AS THE ENGINE WARNING LIGHT ILLUMINATED AND THE VEHICLE WAS MERGED TO THE SIDE OF THE ROAD. WHEN THE CONTACT ATTEMPTED TO RESTART THE VEHICLE, THE ENGINE CAUGHT ON FIRE. THE FIRE DEPARTMENT EXTING",
+        "pct": 62,
+        "title": "Engine",
+        "blurb": "The dominant complaint by far: 219 reports (62%), with 6 fires, 3 crashes, and 3 injuries. Watch for stalling and engine warning lights while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 86,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I BOUGHT THE CAR IN MAY 2020. I FIRST REPORTED THE PROBLEM IN JULY. IT HAS SOMETHING TO DO WITH THE IDLE STOP AND GO FEATURE, AS IT ONLY HAPPENS WHEN THIS IT IS BEING USED. WHEN I COME TO STOPS AT RED LIGHTS AND STOP SIGNS. EVERYTHING SHUTS DOWN. WHEN I RELEASE MY FEET OFF THE BR",
+        "pct": 24,
+        "title": "Power Train",
+        "blurb": "The second most reported area: 86 reports (24%), tied to 1 fire, 1 crash, and 2 injuries. Several owners describe trouble around stop-and-go driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 27,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 8,
+        "sample": "MY CAR WAS PURCHASED BRAND NEW OFF THE LOT WITH 28 MILES ON IT. I NOW HAVE APPROXIMATELY 15614 MILES ON MY 2020 KIA SOUL. I JUST WANTED TO REPORT THAT THE HORN, A MAJOR SAFETY FEATURE, INTERMITTENTLY STOPS WORKING. WHEN THE HORN STOPS WORKING IT INCLUDES THE STEERING WHEEL DEPRES",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "27 reports (8%), including 1 crash. Some reports describe safety features such as the horn cutting out intermittently."
+      },
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PULLS TO THE RIGHT AT HIGHWAY SPEED - APPROX 45MPH.  SEVERE ALIGNMENT PROBLEM.  DEALER TOLD ME THAT THEY DID HAVE A NEW-ENOUGH MACHINE TO ALIGN THE CAR.  HOW CAN KIA OF IRVINE, NOT HAVE THE PROPER EQUIPMENT TO FIX THE CARS THEY SELL?  INSIDE REAR COWLING THAT GOES AROUND THE SMAL",
+        "pct": 5,
+        "title": "Steering",
+        "blurb": "A smaller area at 16 reports (5%), with no crashes, fires, or injuries reported. Owners mention the car pulling to one side at speed."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT THE CAR IN MAY 2020. I FIRST REPORTED THE PROBLEM IN JULY. IT HAS SOMETHING TO DO WITH THE IDLE STOP AND GO FEATURE, AS IT ONLY HAPPENS WHEN THIS IT IS BEING USED. WHEN I COME TO STOPS AT RED LIGHTS AND STOP SIGNS. EVERYTHING SHUTS DOWN. WHEN I RELEASE MY FEET OFF THE BR",
+        "pct": 4,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The fewest reports here: 15 (4%), with 1 crash. Complaints overlap with stop-and-go driving behavior."
+      }
+    ]
+  }
+}

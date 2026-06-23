@@ -1,0 +1,128 @@
+{
+  "slug": "2020-chevrolet-silverado-1500",
+  "make": "Chevrolet",
+  "model": "Silverado 1500",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHEVROLET/SILVERADO%201500#complaints",
+  "generatedAt": "2026-06-23T06:12:37.242Z",
+  "total": 678,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 224,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING DOWN THE ROAD, GAVE IT GAS TO GO AROUND A VEHICLE AND IT FELT LIKE THE VEHICLE SHUT DOWN.  ESC CAUTION, CHECK ENGINE LIGHT, AND BRAKE WARNING/CAUTION ALL ILLUMINATED.  VEHICLE BEGAN TO SLOW DOWN DRASTICALLY AND IF I HADN'T GOTTEN OFF THE ROAD QUICKLY I WOULD HAVE BE",
+      "pct": 33
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 211,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PUT TRUCK INTO PARK AND SHUT OFF, STARTED TO GET OUT BUT TRUCK WAS STARTING TO ROLL, TRIED TO STOP IT, PUSHED ON BRAKES, NO EFFECT, KEPT ROLLING AND GAINED MOMENTUM TILL IT HIT OUR CABIN AND STOPPED. LENGTH WAS 200FT APPX OF ROLL. MESSAGE CENTER SAID \" PRESS BRAKE TO START \" WHIC",
+      "pct": 31
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 107,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 CHEVROLET SILVERADO 1500. WHILE THE CONTACT'S WIFE WAS TRAVELING THROUGH AN INTERSECTION AT AN UNKNOWN RATE OF SPEED, THE VEHICLE DID NOT RESPOND WHEN THE BRAKE PEDAL WAS DEPRESSED. ALSO, THE BRAKE WARNING INDICATOR ILLUMINATED. THE CONTACT TOOK THE VE",
+      "pct": 16
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 98,
+      "crash": 2,
+      "fire": 8,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "BRAND NEW TRUCK WITH ONLY 450 MILES.   FIRST INCIDENT WAS CHECK ENGINE LIGHT CAME ON , BRAKE PEDAL WAS REALLY HARD TO PRESS ALMOST HIT CAR INFRONT OF ME.  SECOND INCIDENT ALL LIGHTS CAME BACK UP   ABS,SRS, TRAILER BRAKE MODULE, PARKING BRAKE,  TRUCK WILL NOT GO FASTER THAN 42MPH.",
+      "pct": 14
+    },
+    {
+      "component": "STEERING",
+      "count": 71,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IT HAPPENED AFTER DRIVING ON THE INTERSTATE, WE PULLED INTO A GAS STATION AND WHEN WE GOT BACK ON THE ROAD I FOUND THE LIST OF WARNINGS AND I LOST MOST ALL BRAKING AND POWER STEERING AND HAD A DASH FULL OF LIGHTS TELLING ME ALL SORTS OF WARNINGS. I PULLED OVER ON THE INTERSTATE O",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "The 2020 Silverado 1500's most-reported trouble spots: engine and drivetrain",
+    "summary": "Owners filed 678 complaints with NHTSA. Engine problems lead at 224 reports (33%), with power train close behind at 211 (31%). Brakes, the electrical system, and steering round out the list. The electrical-system complaints are the most severe, tied to 8 fires, 2 crashes, and 4 injuries.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 224,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING DOWN THE ROAD, GAVE IT GAS TO GO AROUND A VEHICLE AND IT FELT LIKE THE VEHICLE SHUT DOWN.  ESC CAUTION, CHECK ENGINE LIGHT, AND BRAKE WARNING/CAUTION ALL ILLUMINATED.  VEHICLE BEGAN TO SLOW DOWN DRASTICALLY AND IF I HADN'T GOTTEN OFF THE ROAD QUICKLY I WOULD HAVE BE",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "The single most common complaint: 224 reports (33% of all complaints), including 2 that involved a fire."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 211,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PUT TRUCK INTO PARK AND SHUT OFF, STARTED TO GET OUT BUT TRUCK WAS STARTING TO ROLL, TRIED TO STOP IT, PUSHED ON BRAKES, NO EFFECT, KEPT ROLLING AND GAINED MOMENTUM TILL IT HIT OUR CABIN AND STOPPED. LENGTH WAS 200FT APPX OF ROLL. MESSAGE CENTER SAID \" PRESS BRAKE TO START \" WHIC",
+        "pct": 31,
+        "title": "Power Train",
+        "blurb": "Nearly as common as engine issues: 211 reports (31%), including 2 that involved a fire."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 107,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 CHEVROLET SILVERADO 1500. WHILE THE CONTACT'S WIFE WAS TRAVELING THROUGH AN INTERSECTION AT AN UNKNOWN RATE OF SPEED, THE VEHICLE DID NOT RESPOND WHEN THE BRAKE PEDAL WAS DEPRESSED. ALSO, THE BRAKE WARNING INDICATOR ILLUMINATED. THE CONTACT TOOK THE VE",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "107 reports (16%) about the brakes, with 3 tied to a crash."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 98,
+        "crash": 2,
+        "fire": 8,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "BRAND NEW TRUCK WITH ONLY 450 MILES.   FIRST INCIDENT WAS CHECK ENGINE LIGHT CAME ON , BRAKE PEDAL WAS REALLY HARD TO PRESS ALMOST HIT CAR INFRONT OF ME.  SECOND INCIDENT ALL LIGHTS CAME BACK UP   ABS,SRS, TRAILER BRAKE MODULE, PARKING BRAKE,  TRUCK WILL NOT GO FASTER THAN 42MPH.",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "98 reports (14%), and the most serious group: 8 involved a fire, 2 a crash, and 4 reported injuries."
+      },
+      {
+        "component": "STEERING",
+        "count": 71,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IT HAPPENED AFTER DRIVING ON THE INTERSTATE, WE PULLED INTO A GAS STATION AND WHEN WE GOT BACK ON THE ROAD I FOUND THE LIST OF WARNINGS AND I LOST MOST ALL BRAKING AND POWER STEERING AND HAD A DASH FULL OF LIGHTS TELLING ME ALL SORTS OF WARNINGS. I PULLED OVER ON THE INTERSTATE O",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "71 reports (10%) about steering, with 1 tied to a crash."
+      }
+    ]
+  }
+}

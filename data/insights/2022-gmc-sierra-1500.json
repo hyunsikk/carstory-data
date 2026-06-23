@@ -1,0 +1,128 @@
+{
+  "slug": "2022-gmc-sierra-1500",
+  "make": "GMC",
+  "model": "Sierra 1500",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GMC/SIERRA%201500#complaints",
+  "generatedAt": "2026-06-23T06:31:10.257Z",
+  "total": 523,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 210,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased 2022 GMC Sierra on 1/18/2022 with 0 miles on it...On 04/08/2022 the engine started a loud knocking noise...sounded like a piston trying to shoot out of engine..very loud..I was afraid to drive it.. We took it to the dealership and they said they have had a few come back",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 96,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On 05/28/2022 my family was driving my brand new 2022 GMC Sierra 1500 3.0 Diesel at a rate of 60mph. There was suddenly a loud clunk (transmission) after proceeding a little further and getting speed back to 60mph there was a similar “clunk”… the diesel truck then immediately gai",
+      "pct": 18
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 91,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 GMC Sierra 1500. The contact stated that while driving at an undisclosed speed, an object struck the windshield. The contact was able to maneuver the vehicle off the road and upon inspecting the vehicle, he noticed that a piece from the front grill had det",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 78,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Truck drove as expected with no prior warnings.  We pulled over for road snacks/drinks upon starting the truck we got a whole slew of warnings and warning lights.  The warnings included:. Service ESC, Service Trailer Brake System, Service Brake Assist, Steering Assist is reduced ",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Truck drove as expected with no prior warnings.  We pulled over for road snacks/drinks upon starting the truck we got a whole slew of warnings and warning lights.  The warnings included:. Service ESC, Service Trailer Brake System, Service Brake Assist, Steering Assist is reduced ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2022 GMC Sierra 1500: engine problems dominate owner complaints",
+    "summary": "Across 523 owner complaints to NHTSA, the engine is by far the most-reported area at 210 reports (40%) — more than the next two categories combined. Power train (96 reports, 18%) and structure (91 reports, 17%) follow, then the electrical system (78 reports, 15%) and service brakes (29 reports, 6%). Most complaints did not involve a crash, fire, or injury. The few that did are spread across categories: 3 fires each in the engine and electrical system reports, 3 crashes in the power train reports, and one injury each in power train, structure, and electrical.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 210,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased 2022 GMC Sierra on 1/18/2022 with 0 miles on it...On 04/08/2022 the engine started a loud knocking noise...sounded like a piston trying to shoot out of engine..very loud..I was afraid to drive it.. We took it to the dealership and they said they have had a few come back",
+        "pct": 40,
+        "title": "Engine",
+        "blurb": "Most-reported area by far: 210 complaints (40%), including 3 fires and 1 crash, with no injuries reported. Owners describe a loud knocking noise from the engine, in some cases on a nearly new truck."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 96,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On 05/28/2022 my family was driving my brand new 2022 GMC Sierra 1500 3.0 Diesel at a rate of 60mph. There was suddenly a loud clunk (transmission) after proceeding a little further and getting speed back to 60mph there was a similar “clunk”… the diesel truck then immediately gai",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "96 complaints (18%), including 3 crashes, 1 fire, and 1 injury — the most crashes of any category here. Owners describe a loud clunk from the transmission while driving at highway speed."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 91,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 GMC Sierra 1500. The contact stated that while driving at an undisclosed speed, an object struck the windshield. The contact was able to maneuver the vehicle off the road and upon inspecting the vehicle, he noticed that a piece from the front grill had det",
+        "pct": 17,
+        "title": "Structure",
+        "blurb": "91 complaints (17%), including 1 crash and 1 injury, with no fires reported. One owner describes a piece detaching from the front grille while driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 78,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Truck drove as expected with no prior warnings.  We pulled over for road snacks/drinks upon starting the truck we got a whole slew of warnings and warning lights.  The warnings included:. Service ESC, Service Trailer Brake System, Service Brake Assist, Steering Assist is reduced ",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "78 complaints (15%), including 3 fires, 1 crash, and 1 injury. Owners describe a cluster of warning lights and messages appearing at once, such as Service ESC and Service Trailer Brake System."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Truck drove as expected with no prior warnings.  We pulled over for road snacks/drinks upon starting the truck we got a whole slew of warnings and warning lights.  The warnings included:. Service ESC, Service Trailer Brake System, Service Brake Assist, Steering Assist is reduced ",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "29 complaints (6%), with no crashes, fires, or injuries reported. Owners describe brake-related warnings such as Service Trailer Brake System and Service Brake Assist appearing among a set of dashboard alerts."
+      }
+    ]
+  }
+}

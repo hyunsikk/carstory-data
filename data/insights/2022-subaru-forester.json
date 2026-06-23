@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-forester",
+  "make": "Subaru",
+  "model": "Forester",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/FORESTER#complaints",
+  "generatedAt": "2026-06-23T06:20:54.539Z",
+  "total": 92,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Bought my brand new Forester less a month and i have to replace a windshield already!!!  Discovered about 5 inches crack while warming up the car on the snow day.  Subaru have a glass action agains them about windshield so easily to crack. Service dept refused to replace my winds",
+      "pct": 22
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Subaru Forester. The contact stated that while driving 20 MPH, the vehicle experienced phantom braking. The vehicle was taken to the dealer where it was diagnosed; however, no fault codes were retrieved. The vehicle returned to operating as designed. The v",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased car on 8/15/2022 and encountering issues with: 1. oil in the air when engine is turned on 2. Onion smell when engine is turned on 3. AC if affected by oil and onion smell ; too hot when sitting in car with engine on ..sulfur? 4. Please check the gas tank for possible le",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased car on 8/15/2022 and encountering issues with: 1. oil in the air when engine is turned on 2. Onion smell when engine is turned on 3. AC if affected by oil and onion smell ; too hot when sitting in car with engine on ..sulfur? 4. Please check the gas tank for possible le",
+      "pct": 11
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 9,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Subaru Forester. The contact stated that while slowing pulling into the parking space the vehicle suddenly experienced unintended acceleration and drove over a curb and traveled up a hill before crashing into a tree. During the crash neither the driver no",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Subaru Forester: windshield and visibility lead the complaints",
+    "summary": "Owners filed 92 complaints with NHTSA. Visibility/wiper is the most reported area at 22%, followed by forward collision avoidance (13%) and a tie between the electrical system and engine (11% each). No deaths are reported. The engine area stands out for fires (4), while vehicle speed control draws the fewest complaints but the worst outcomes by share: 3 crashes and 3 injuries.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Bought my brand new Forester less a month and i have to replace a windshield already!!!  Discovered about 5 inches crack while warming up the car on the snow day.  Subaru have a glass action agains them about windshield so easily to crack. Service dept refused to replace my winds",
+        "pct": 22,
+        "title": "Visibility/Wiper",
+        "blurb": "The most reported area: 20 reports (22%), with no crashes, fires, or injuries. Inspect the windshield closely for chips or cracks."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Subaru Forester. The contact stated that while driving 20 MPH, the vehicle experienced phantom braking. The vehicle was taken to the dealer where it was diagnosed; however, no fault codes were retrieved. The vehicle returned to operating as designed. The v",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Second most reported: 12 reports (13%), tied to 1 crash. Test the driver-assist features on the road to see how they behave."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased car on 8/15/2022 and encountering issues with: 1. oil in the air when engine is turned on 2. Onion smell when engine is turned on 3. AC if affected by oil and onion smell ; too hot when sitting in car with engine on ..sulfur? 4. Please check the gas tank for possible le",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "10 reports (11%), including 1 with fire. Check that the electronics and warning lights work as expected."
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased car on 8/15/2022 and encountering issues with: 1. oil in the air when engine is turned on 2. Onion smell when engine is turned on 3. AC if affected by oil and onion smell ; too hot when sitting in car with engine on ..sulfur? 4. Please check the gas tank for possible le",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "10 reports (11%), but the most fires of any area at 4, plus 1 crash. The fire count makes this worth a careful inspection."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 9,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Subaru Forester. The contact stated that while slowing pulling into the parking space the vehicle suddenly experienced unintended acceleration and drove over a curb and traveled up a hill before crashing into a tree. During the crash neither the driver no",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "Fewest complaints at 9 reports (10%), but the worst outcomes: 3 crashes, 3 injuries, and 1 fire. Several owners describe unintended acceleration, so test acceleration and braking carefully."
+      }
+    ]
+  }
+}

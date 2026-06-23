@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-tacoma",
+  "make": "Toyota",
+  "model": "Tacoma",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/TACOMA#complaints",
+  "generatedAt": "2026-06-23T06:04:07.525Z",
+  "total": 55,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When stopped on an hill and depressing the throttle lightly the \"Hill Assist\" disengages and allows the vehicle to roll backwards.  The 1st time this occurred I had a trailer in drive and it rolled backwards breaking a taillight in a jack-knife situation.  I took the vehicle to m",
+      "pct": 18
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 8,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "The truck was rear ended  on  8/15 by a car going 45 miles per hour at a stop light.  The air bag sensor went on and air bag did not deploy. It DID NOT deploy when it should have.  Both passenger and driver seatbelt did not lock. They DID NOT LOCK. That sensor is also on.  Was co",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2022 Tacoma has 1200 miles on it. While turning a corner I slowed down to make the turn when I pushed on the pedal to speed back up there was no response from the engine. It was dark outside and my dash lit up like the key was turned off. I kind of panicked and began pumping t",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Within 6 months the new vehicle showed significant corrosion on 80% of the frame welds where the frame is connected to other structural parts, suspension and steering.  This was taken to Toyota as a warranty claim.  Ultimately a Washington State lemon law arbitration awarded repl",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When starting especially in the morning my brake pedal is very mushy and goes very near the floor. When driving and have to break it sometimes goes down a little too far. The dealer said this was normal. I do not feel it is safe. I've never had a vehicle do this. If this is safe ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota Tacoma: power train leads a small pool of complaints",
+    "summary": "Owners filed 55 complaints with NHTSA. The power train is the most reported area at 18%, followed by air bags (15%) and the engine (13%). No deaths or fires are reported. Air bags stand out for severity: those 8 reports are tied to 8 crashes and 10 injuries, more than every other area combined, so they deserve a close look.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When stopped on an hill and depressing the throttle lightly the \"Hill Assist\" disengages and allows the vehicle to roll backwards.  The 1st time this occurred I had a trailer in drive and it rolled backwards breaking a taillight in a jack-knife situation.  I took the vehicle to m",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "The most reported area: 10 reports (18%), with 1 crash. No fires or injuries reported."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 8,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "The truck was rear ended  on  8/15 by a car going 45 miles per hour at a stop light.  The air bag sensor went on and air bag did not deploy. It DID NOT deploy when it should have.  Both passenger and driver seatbelt did not lock. They DID NOT LOCK. That sensor is also on.  Was co",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "Second most reported and the most serious by outcome: 8 reports (15%), every one tied to a crash, with 10 injuries in total."
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2022 Tacoma has 1200 miles on it. While turning a corner I slowed down to make the turn when I pushed on the pedal to speed back up there was no response from the engine. It was dark outside and my dash lit up like the key was turned off. I kind of panicked and began pumping t",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "7 reports (13%), with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Within 6 months the new vehicle showed significant corrosion on 80% of the frame welds where the frame is connected to other structural parts, suspension and steering.  This was taken to Toyota as a warranty claim.  Ultimately a Washington State lemon law arbitration awarded repl",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "6 reports (11%), with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When starting especially in the morning my brake pedal is very mushy and goes very near the floor. When driving and have to break it sometimes goes down a little too far. The dealer said this was normal. I do not feel it is safe. I've never had a vehicle do this. If this is safe ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "6 reports (11%), tied to 1 crash. No fires or injuries reported."
+      }
+    ]
+  }
+}

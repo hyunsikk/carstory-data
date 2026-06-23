@@ -1,0 +1,128 @@
+{
+  "slug": "2022-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-06-23T06:09:33.858Z",
+  "total": 110,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Automatic High Beams do not always turn off when an oncoming vehicle approaches. There seems to be an issue with the way the system operates in general. They do turn on when expected. They stay on when they should be off. They shut off when they should be on. Dealer states th",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 23,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2022 HONDA RIDGELINE. CONSUMER WRITES IN REGARD TO DRIVER SIDE WINDOW MALFUNCTION.  THE CONSUMER STATED WHILE DRIVING THE VEHICLE LOST POWER. THE MALFUNCTION INDICATOR LIGHT ILLUMINATED. THERE WAS NO ENGINE RPM RESPONSE TO THE THROTTLE PEDAL APPLICATION. THE ENGINE WOULD INCREASE",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The wireless charging pad does not work, no matter what position the phone is. I have tried with the case off, so that's not the issue. And I've also tried multiple phones.  It pretends to power on and start charging but then it stops in less than a minute, even WITHOUT driving t",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "When entering a slight curve in the road, the steering wheel shakes and the dash says BRAKE. There is always a car in the oncoming lane, but well within its lane. I only have 1000 miles on the Ridgeline, but this has happened several times. In each instance the brakes were never ",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda Ridgeline. The contact stated that the vehicle had been driven for approximately a mile; after arriving at her residence, she was unable to shift the vehicle into reverse while depressing the button to select reverse. The contact stated that the emis",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Honda Ridgeline: exterior lighting leads the complaints",
+    "summary": "Owners filed 110 complaints with NHTSA. Exterior lighting is the most reported area at 27%, followed by the engine (21%) and electrical system (17%). No deaths and no injuries appear in the top areas except forward collision avoidance, which has 1 injury. A handful of reports mention fire (1 engine, 2 electrical, 1 power train), so those areas are worth a close look.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Automatic High Beams do not always turn off when an oncoming vehicle approaches. There seems to be an issue with the way the system operates in general. They do turn on when expected. They stay on when they should be off. They shut off when they should be on. Dealer states th",
+        "pct": 27,
+        "title": "Exterior Lighting",
+        "blurb": "The most reported area: 30 reports (27%), with no crashes, fires, or injuries. Owners describe the automatic high beams behaving erratically. Test the lights and high-beam automation on a drive."
+      },
+      {
+        "component": "ENGINE",
+        "count": 23,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2022 HONDA RIDGELINE. CONSUMER WRITES IN REGARD TO DRIVER SIDE WINDOW MALFUNCTION.  THE CONSUMER STATED WHILE DRIVING THE VEHICLE LOST POWER. THE MALFUNCTION INDICATOR LIGHT ILLUMINATED. THERE WAS NO ENGINE RPM RESPONSE TO THE THROTTLE PEDAL APPLICATION. THE ENGINE WOULD INCREASE",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "Second most reported: 23 reports (21%), tied to 1 crash and 1 fire. Watch for loss of power or warning lights while driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The wireless charging pad does not work, no matter what position the phone is. I have tried with the case off, so that's not the issue. And I've also tried multiple phones.  It pretends to power on and start charging but then it stops in less than a minute, even WITHOUT driving t",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "19 reports (17%), including 2 with fire. The fire count makes this worth checking carefully even though no crashes or injuries are reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "When entering a slight curve in the road, the steering wheel shakes and the dash says BRAKE. There is always a car in the oncoming lane, but well within its lane. I only have 1000 miles on the Ridgeline, but this has happened several times. In each instance the brakes were never ",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (12%), linked to 1 crash and 1 injury. Owners describe unexpected brake warnings or activation. The only top area with a reported injury."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda Ridgeline. The contact stated that the vehicle had been driven for approximately a mile; after arriving at her residence, she was unable to shift the vehicle into reverse while depressing the button to select reverse. The contact stated that the emis",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "The smallest top area: 11 reports (10%), with 1 fire and no crashes or injuries. Some owners report trouble shifting into reverse."
+      }
+    ]
+  }
+}

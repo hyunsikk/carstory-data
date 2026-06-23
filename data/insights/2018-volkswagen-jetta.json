@@ -1,0 +1,128 @@
+{
+  "slug": "2018-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T06:28:17.376Z",
+  "total": 29,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SOMETIMES I LEAVE MY CELL PHONE ON THE PASSENGER SEAT AND THE WARNING BELL CHIMES. IF I REMOVE MY CELL PHONE FROM THE PASSENGER SEAT, THE WARNING STOPS OR IF I DO LOCK THE SEATBELT, IT WILL ALSO STOP THE WARNING. IT SEEMS LIKE THE PART THAT CHECKS IF A PASSENGER IS SITTING IN THE",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE IN MOTION AT LOW SPEEDS, BETWEEN 28 AND 30 MPH, YOU CAN HEAR A GRINDING OR SCRAPING NOISE COMING FROM THE CAR AND YOU CAN FEEL A BIT OF LOSS OF POWER IN THE CAR. I BELIEVE THIS IS IN THE TRANSMISSION. WHEN BOUGHT NEW, THIS NOISE WAS NON EXISTING, IT APPEARED AFTER A FEW MON",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Engine stalled and car emitted fuel smell and leaked from engine area. Vehicle towed to shop. Mechanic found fuel leak near Cylinder #4. Removed intake manifold and found fuel rail loose and leaking from #4 injector. Left upper fuel rail retaining bolt was broken and left lower b",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Volkswagen Jetta. The contact stated while driving at various speeds, the vehicle suddenly stalled without warning. The contact shifted in neutral and attempted to restart the vehicle. The contact had to push the vehicle to the side of the road and made se",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On or about January 24, 2023, Found oil leak and heard noise from engine. No warning lamps or messages prior, mechanic diagnosed and found cam phaser cover bolts loose and leaking.  He had to re-torque bolts and check engine.  Leaking stopped. Mechanic said they should not have c",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Volkswagen Jetta: air bag and drivetrain complaints lead a small report pool",
+    "summary": "Only 29 owner complaints were filed with NHTSA for the 2018 Jetta, so no single problem dominates. Air bags top the list at 6 reports (21%), with owners describing seat-occupancy sensor warnings, followed by power train at 5 (17%). Stalling shows up across the fuel, electrical, and engine categories. No fires, injuries, or deaths were reported, and just 1 complaint involved a crash.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SOMETIMES I LEAVE MY CELL PHONE ON THE PASSENGER SEAT AND THE WARNING BELL CHIMES. IF I REMOVE MY CELL PHONE FROM THE PASSENGER SEAT, THE WARNING STOPS OR IF I DO LOCK THE SEATBELT, IT WILL ALSO STOP THE WARNING. IT SEEMS LIKE THE PART THAT CHECKS IF A PASSENGER IS SITTING IN THE",
+        "pct": 21,
+        "title": "Air Bags",
+        "blurb": "Most-reported area: 6 complaints (21%), with 1 crash and no injuries. Owners describe the passenger seat occupancy sensor misreading whether someone is seated, triggering false seatbelt warnings."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE IN MOTION AT LOW SPEEDS, BETWEEN 28 AND 30 MPH, YOU CAN HEAR A GRINDING OR SCRAPING NOISE COMING FROM THE CAR AND YOU CAN FEEL A BIT OF LOSS OF POWER IN THE CAR. I BELIEVE THIS IS IN THE TRANSMISSION. WHEN BOUGHT NEW, THIS NOISE WAS NON EXISTING, IT APPEARED AFTER A FEW MON",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "Second most-reported: 5 complaints (17%), with no crashes, fires, or injuries. Owners report grinding or scraping noises and a loss of power at low speeds, suspected to come from the transmission."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Engine stalled and car emitted fuel smell and leaked from engine area. Vehicle towed to shop. Mechanic found fuel leak near Cylinder #4. Removed intake manifold and found fuel rail loose and leaking from #4 injector. Left upper fuel rail retaining bolt was broken and left lower b",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "4 complaints (14%), with no crashes, fires, or injuries reported. Owners describe stalling along with a fuel smell and leaks traced to a loose, leaking fuel rail and injector."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Volkswagen Jetta. The contact stated while driving at various speeds, the vehicle suddenly stalled without warning. The contact shifted in neutral and attempted to restart the vehicle. The contact had to push the vehicle to the side of the road and made se",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "3 complaints (10%), with no crashes, fires, or injuries. Owners report the car suddenly stalling without warning while driving and needing to be pushed off the road."
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On or about January 24, 2023, Found oil leak and heard noise from engine. No warning lamps or messages prior, mechanic diagnosed and found cam phaser cover bolts loose and leaking.  He had to re-torque bolts and check engine.  Leaking stopped. Mechanic said they should not have c",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "Fewest in the top five: 2 complaints (7%), with no crashes, fires, or injuries. Owners report engine oil leaks and noise traced to loose cam phaser cover bolts, with no warning lights beforehand."
+      }
+    ]
+  }
+}

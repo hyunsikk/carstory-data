@@ -1,0 +1,128 @@
+{
+  "slug": "2020-toyota-4runner",
+  "make": "Toyota",
+  "model": "4Runner",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/4RUNNER#complaints",
+  "generatedAt": "2026-06-23T06:04:31.775Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BRAKES ARE NOT FUNCTIONING PROPERLY, THE PEDAL GOES WAY DOWN TO THE FLOOR BEFORE ENGAGING ANY BRAKES. AT IDLE THE BRAKES SEEM TO FUNCTION FINE, AFTER DRIVING AT ABOUT 10MPH THE BRAKES GO BACK TO NOT WORKING AGAIN. DEALERSHIP SAYS THE BRAKES ARE \"NORMAL\" AND I WAS TOLD TO DRIVE IT",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "THE 4RUNNER STRUCK A VEHICLE THAT RAN A RED LIGHT.  THE 4RUNNER WAS AT APPROXIMATELY 35 MILES PER HOUR AND STRUCK THE OTHER VEHICLE, A NISSAN ALTIMA SIDE ON WITH ENOUGH FORCE TO PROPEL THAT VEHICLE TWO LANES INTO ANOTHER VEHICLE.  THE AIRBAGS FAILED TO DEPLOY ON THE 4RUNNER BUT D",
+      "pct": 16
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Steering wheel shakes at highway speeds (58-64mph). Steering wheel has shaken as much as 1.5 inches back and forth, causing vehicle to shake while driving at high speeds. The problem has been confirmed by the dealer and has been in 6 times to try to fix it with no change. The pro",
+      "pct": 13
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT MY 4RUNNER BRAND NEW LAST YEAR.     TO CHANGE THE DIFFERENTIAL FROM H4F TO H4L, I STOP THE CAR AND CHANGE THE SHIFTER INTO NEUTRAL POSITION. ONCE IN NEUTRAL POSITION, I CHANGE THE DIFFERENTIAL KNOB H4F TO H4L. THEN I START DRIVING AGAIN.    MY EXPECTATION IS THE WHEN SHI",
+      "pct": 13
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON DECEMBER 8 , 2020, THE ABOVE REFERENCED VEHICLES ENGINE STALLED THREE TIMES WHILE IN DRIVING MODE. ON ALL THREE OCCASIONS, THE VEHICLE WAS MOVING AT A SPEED LESS THAN 40 MPH. THE VEHICLE RESTARTED AFTER EACH STALL, WHEN THE GEAR SHIFTER WAS PLACED IN PARK. THE VEHICLE SEEMED T",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Toyota 4Runner: brakes and air bags lead a light complaint list",
+    "summary": "Owners filed just 31 complaints with NHTSA, and they spread fairly evenly. Service brakes and air bags tie for the top spot at 16% each, followed by steering and suspension (13% each) and back over prevention (10%). No fires or deaths are reported anywhere. The standout for safety is air bags: all 4 crashes and all 4 injuries in the data trace to that one area, so it is worth the closest look.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BRAKES ARE NOT FUNCTIONING PROPERLY, THE PEDAL GOES WAY DOWN TO THE FLOOR BEFORE ENGAGING ANY BRAKES. AT IDLE THE BRAKES SEEM TO FUNCTION FINE, AFTER DRIVING AT ABOUT 10MPH THE BRAKES GO BACK TO NOT WORKING AGAIN. DEALERSHIP SAYS THE BRAKES ARE \"NORMAL\" AND I WAS TOLD TO DRIVE IT",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "Tied for most reported: 5 reports (16%), with no crashes, fires, or injuries logged. Test the brake feel on a drive, since owners describe a soft pedal."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "THE 4RUNNER STRUCK A VEHICLE THAT RAN A RED LIGHT.  THE 4RUNNER WAS AT APPROXIMATELY 35 MILES PER HOUR AND STRUCK THE OTHER VEHICLE, A NISSAN ALTIMA SIDE ON WITH ENOUGH FORCE TO PROPEL THAT VEHICLE TWO LANES INTO ANOTHER VEHICLE.  THE AIRBAGS FAILED TO DEPLOY ON THE 4RUNNER BUT D",
+        "pct": 16,
+        "title": "Air Bags",
+        "blurb": "Also 5 reports (16%), but the most serious by outcome: every one of the 4 crashes and 4 injuries in this data is tied to air bags. Several owners report the bags failing to deploy."
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Steering wheel shakes at highway speeds (58-64mph). Steering wheel has shaken as much as 1.5 inches back and forth, causing vehicle to shake while driving at high speeds. The problem has been confirmed by the dealer and has been in 6 times to try to fix it with no change. The pro",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "4 reports (13%), with no crashes, fires, or injuries logged. Owners describe a shake in the wheel at highway speeds, so try a freeway stretch on the test drive."
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT MY 4RUNNER BRAND NEW LAST YEAR.     TO CHANGE THE DIFFERENTIAL FROM H4F TO H4L, I STOP THE CAR AND CHANGE THE SHIFTER INTO NEUTRAL POSITION. ONCE IN NEUTRAL POSITION, I CHANGE THE DIFFERENTIAL KNOB H4F TO H4L. THEN I START DRIVING AGAIN.    MY EXPECTATION IS THE WHEN SHI",
+        "pct": 13,
+        "title": "Suspension",
+        "blurb": "4 reports (13%), with no crashes, fires, or injuries logged. A smaller, recurring complaint area on this truck."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON DECEMBER 8 , 2020, THE ABOVE REFERENCED VEHICLES ENGINE STALLED THREE TIMES WHILE IN DRIVING MODE. ON ALL THREE OCCASIONS, THE VEHICLE WAS MOVING AT A SPEED LESS THAN 40 MPH. THE VEHICLE RESTARTED AFTER EACH STALL, WHEN THE GEAR SHIFTER WAS PLACED IN PARK. THE VEHICLE SEEMED T",
+        "pct": 10,
+        "title": "Back Over Prevention",
+        "blurb": "The fewest reports here: 3 (10%), with no crashes, fires, or injuries logged."
+      }
+    ]
+  }
+}

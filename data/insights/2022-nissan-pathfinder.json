@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-pathfinder",
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/PATHFINDER#complaints",
+  "generatedAt": "2026-06-23T06:17:18.546Z",
+  "total": 130,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 33,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Pathfinder. The contact stated that while attempting to start the vehicle, the braking system would not release with multiple error messages displayed. The vehicle would not start. The vehicle was towed to the local dealerer who serviced the vehicle",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Pathfinder. The contact stated that while attempting to start the vehicle, the braking system would not release with multiple error messages displayed. The vehicle would not start. The vehicle was towed to the local dealerer who serviced the vehicle",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On January 16, 2022, my husband and I had to be escorted off of the road by a police officer.  Luckily, turning off the Pathfinder resulted in resetting whatever occurred.  At that time, the vehicle would not accelerate past 20 mph and showing about 4000 RPMs. This happened a few",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Pathfinder. The contact stated that while driving at various speeds, the transmission would inadvertently shift from automatic to manual mode. The failure occurred on numerous occasions intermittently. The vehicle was taken to the dealer on two sepa",
+      "pct": 13
+    },
+    {
+      "component": "SEATS",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The passenger seat is extremely low and passenger can't see out over dashboard. I believe this to be a danger with the airbags. There is no way to adjust the height and it is a power seat. The driver side adjusts height but barely high enough for short drivers..Lots of complaints",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Nissan Pathfinder: brakes lead the owner complaints",
+    "summary": "Owners filed 130 complaints with NHTSA. Service brakes are the most reported area at 25%, followed by the electrical system (15%), engine (14%), power train (13%), and seats (12%). No deaths are reported. Two complaints note injuries (both in the seats area), and a few mention a single fire or crash, so check those areas closely on a test drive.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 33,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Pathfinder. The contact stated that while attempting to start the vehicle, the braking system would not release with multiple error messages displayed. The vehicle would not start. The vehicle was towed to the local dealerer who serviced the vehicle",
+        "pct": 25,
+        "title": "Service Brakes",
+        "blurb": "The most reported area: 33 reports (25%), including 1 crash. Test the brakes carefully and watch for warning messages on startup."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Pathfinder. The contact stated that while attempting to start the vehicle, the braking system would not release with multiple error messages displayed. The vehicle would not start. The vehicle was towed to the local dealerer who serviced the vehicle",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 19 reports (15%), with 1 fire. Check that all electronics work and look for warning lights or error messages."
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On January 16, 2022, my husband and I had to be escorted off of the road by a police officer.  Luckily, turning off the Pathfinder resulted in resetting whatever occurred.  At that time, the vehicle would not accelerate past 20 mph and showing about 4000 RPMs. This happened a few",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "18 reports (14%), including 1 fire. Watch for loss of power or trouble accelerating while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Pathfinder. The contact stated that while driving at various speeds, the transmission would inadvertently shift from automatic to manual mode. The failure occurred on numerous occasions intermittently. The vehicle was taken to the dealer on two sepa",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "17 reports (13%), with 1 crash. Owners describe unexpected transmission shifting, so test shifting at various speeds."
+      },
+      {
+        "component": "SEATS",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The passenger seat is extremely low and passenger can't see out over dashboard. I believe this to be a danger with the airbags. There is no way to adjust the height and it is a power seat. The driver side adjusts height but barely high enough for short drivers..Lots of complaints",
+        "pct": 12,
+        "title": "Seats",
+        "blurb": "16 reports (12%) and the only area with injuries (2). Complaints focus on seat height and adjustment, so check the seating position fits you."
+      }
+    ]
+  }
+}

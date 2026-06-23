@@ -1,0 +1,128 @@
+{
+  "slug": "2018-jeep-grand-cherokee",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/JEEP/GRAND%20CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T06:18:12.104Z",
+  "total": 836,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 336,
+      "crash": 5,
+      "fire": 6,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "UNCONNECT SYSTEM IN MY 2018 JEEP GRAND CHEROKEE OVERLAND TURNS OFF AND ON BY ITSELF EVER 60 SECONDS WHETHER YOU ARE DRIVING OR STATIONARY. I BELIEVE IT STARTED THIS MORNING OR LAST NIGHT. YOU CANNOT USE BLUETOOTH, THE HEAT OR THE RADIO. I CALLED THE DEALERSHIP WHERE I PURCHASED T",
+      "pct": 40
+    },
+    {
+      "component": "ENGINE",
+      "count": 119,
+      "crash": 6,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I DROVE THIS VEHICLE TO WORK AND PARKED IT IN A PARKING STRUCTURE AT 8:00 IN THE MORNING.  BY 4:00 IN THE AFTERNOON, THE VEHICLE WAS ENGULFED IN FLAMES.  THE VEHICLE SAT ALL DAY IN THE STRUCTURE.  UNKNOWN AS TO WHY IT CAUGHT FIRE, BUT THE FIRE ORIGINATED SOMEWHERE IN THE ENGINE C",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 70,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I HAVE A FEW OCCURRENCES TO TELL ABOUT.     1. WHEN TAKING IT THROUGH A DRIVE THROUGH CAR WASH IT WAS PROPELLED FORWARD AT AN UNSAFE SPEED.  THE VEHICLE WAS IN NEUTRAL BUT STILL WAS SHOT FORWARD AND THE BRAKES HAD TO BE APPLIED QUICKLY. THIS HAPPENED TWICE.   2. AFTER COMING OFF ",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 63,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "DRIVING THE AUTO AND APPLIED THE BRAKES AT A RED LIGHT AND THE BRAKES ONLY PARTIALLY ENGAGED AND THE AUTO WENT THROUGH THE RED LIGHT. DROVE UP TO THE NEXT LIGHT AS THE CAR WAS JUST ABOUT TO STOP IT ACCELERATED FORWARD INTO THE TRUCK IN FRONT OF ME. THERE IS A SAFETY FEATURE CALLE",
+      "pct": 8
+    },
+    {
+      "component": "SEATS",
+      "count": 42,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT THE U-CONNECT SYSTEM FAILED AS THE RADIO AND BLUETOOTH RANDOMLY DISENGAGE WITH A LOUD NOISE. THE CONTACT ALSO STATED THAT THE FRONT PASSENGER'S AND DRIVER'S SIDE SEAT WARMER WOULD INADVERTENTLY ENGAGE. THE V",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Jeep Grand Cherokee: the electrical system dominates owner complaints",
+    "summary": "Owners filed 836 complaints with NHTSA. The electrical system is by far the most reported area at 40%, followed by the engine (14%), power train (8%), and service brakes (8%). No deaths are reported. The brakes draw fewer complaints than the top areas but the most crashes (11) and injuries (5) of any area, so they are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 336,
+        "crash": 5,
+        "fire": 6,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "UNCONNECT SYSTEM IN MY 2018 JEEP GRAND CHEROKEE OVERLAND TURNS OFF AND ON BY ITSELF EVER 60 SECONDS WHETHER YOU ARE DRIVING OR STATIONARY. I BELIEVE IT STARTED THIS MORNING OR LAST NIGHT. YOU CANNOT USE BLUETOOTH, THE HEAT OR THE RADIO. I CALLED THE DEALERSHIP WHERE I PURCHASED T",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "The single biggest complaint by far: 336 reports (40%), including 6 with fire, 5 crashes, and 3 injuries. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "ENGINE",
+        "count": 119,
+        "crash": 6,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I DROVE THIS VEHICLE TO WORK AND PARKED IT IN A PARKING STRUCTURE AT 8:00 IN THE MORNING.  BY 4:00 IN THE AFTERNOON, THE VEHICLE WAS ENGULFED IN FLAMES.  THE VEHICLE SAT ALL DAY IN THE STRUCTURE.  UNKNOWN AS TO WHY IT CAUGHT FIRE, BUT THE FIRE ORIGINATED SOMEWHERE IN THE ENGINE C",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "Second most reported: 119 reports (14%), tied to 3 fires and 6 crashes, with no injuries reported. Watch for any sign of overheating or fire."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 70,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I HAVE A FEW OCCURRENCES TO TELL ABOUT.     1. WHEN TAKING IT THROUGH A DRIVE THROUGH CAR WASH IT WAS PROPELLED FORWARD AT AN UNSAFE SPEED.  THE VEHICLE WAS IN NEUTRAL BUT STILL WAS SHOT FORWARD AND THE BRAKES HAD TO BE APPLIED QUICKLY. THIS HAPPENED TWICE.   2. AFTER COMING OFF ",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "70 reports (8%), linked to 7 crashes, 2 injuries, and 1 fire. Pay attention to how the vehicle behaves when shifting or accelerating."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 63,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "DRIVING THE AUTO AND APPLIED THE BRAKES AT A RED LIGHT AND THE BRAKES ONLY PARTIALLY ENGAGED AND THE AUTO WENT THROUGH THE RED LIGHT. DROVE UP TO THE NEXT LIGHT AS THE CAR WAS JUST ABOUT TO STOP IT ACCELERATED FORWARD INTO THE TRUCK IN FRONT OF ME. THERE IS A SAFETY FEATURE CALLE",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "Only 63 reports (8%) but the most serious by outcome: 11 crashes and 5 injuries, more than any other area. Test the brakes thoroughly."
+      },
+      {
+        "component": "SEATS",
+        "count": 42,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT THE U-CONNECT SYSTEM FAILED AS THE RADIO AND BLUETOOTH RANDOMLY DISENGAGE WITH A LOUD NOISE. THE CONTACT ALSO STATED THAT THE FRONT PASSENGER'S AND DRIVER'S SIDE SEAT WARMER WOULD INADVERTENTLY ENGAGE. THE V",
+        "pct": 5,
+        "title": "Seats",
+        "blurb": "42 reports (5%), with 1 fire and 2 injuries and no crashes. The smallest of the top complaint areas."
+      }
+    ]
+  }
+}

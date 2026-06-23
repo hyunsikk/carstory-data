@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-colorado",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/COLORADO#complaints",
+  "generatedAt": "2026-06-23T06:14:43.198Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact's partner owned a 2022 Chevrolet Colorado. The contact stated that upon placing the vehicle into park, he went into a store while his partner remained in the vehicle with the engine running. The vehicle began to roll back as an abnormal, whining sound began to emit fr",
+      "pct": 36
+    },
+    {
+      "component": "STEERING",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Colorado. The contact stated that while driving at various speeds, the steering wheel would make an abnormal squeaking noise when turning to either the right or the left without warning. The contact had taken the vehicle to be serviced on three s",
+      "pct": 24
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I went to a Chevy Dealership, Ed Morse, Sunrise Fla. for an oil change and they told me I need all 4 new brake pads at estimated mileage of 27000 miles. I was shocked because I never needed brake pads that soon. I called Chevrolet corporate to see if there was something defective",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Colorado. The contact stated that while an employee was driving approximately 30 MPH up to a red traffic light, the brake pedal failed to slow the vehicle while depressed. The driver used an excessive amount of strength to depress the brake pedal",
+      "pct": 7
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact's partner owned a 2022 Chevrolet Colorado. The contact stated that upon placing the vehicle into park, he went into a store while his partner remained in the vehicle with the engine running. The vehicle began to roll back as an abnormal, whining sound began to emit fr",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Chevrolet Colorado: electrical and steering lead owner complaints",
+    "summary": "Across 45 owner complaints to NHTSA, the electrical system is reported most at 16 reports (36%), followed by steering at 11 (24%). One electrical complaint involved a crash and one injury. No fires were reported in any category. Service brakes, engine, and power train each drew a handful of reports.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact's partner owned a 2022 Chevrolet Colorado. The contact stated that upon placing the vehicle into park, he went into a store while his partner remained in the vehicle with the engine running. The vehicle began to roll back as an abnormal, whining sound began to emit fr",
+        "pct": 36,
+        "title": "Electrical System",
+        "blurb": "The most-reported area: 16 reports (36%), including 1 crash and 1 injury."
+      },
+      {
+        "component": "STEERING",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Colorado. The contact stated that while driving at various speeds, the steering wheel would make an abnormal squeaking noise when turning to either the right or the left without warning. The contact had taken the vehicle to be serviced on three s",
+        "pct": 24,
+        "title": "Steering",
+        "blurb": "The second-most-reported area: 11 reports (24%), with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I went to a Chevy Dealership, Ed Morse, Sunrise Fla. for an oil change and they told me I need all 4 new brake pads at estimated mileage of 27000 miles. I was shocked because I never needed brake pads that soon. I called Chevrolet corporate to see if there was something defective",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "5 reports (11%), with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Colorado. The contact stated that while an employee was driving approximately 30 MPH up to a red traffic light, the brake pedal failed to slow the vehicle while depressed. The driver used an excessive amount of strength to depress the brake pedal",
+        "pct": 7,
+        "title": "Engine",
+        "blurb": "3 reports (7%), with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact's partner owned a 2022 Chevrolet Colorado. The contact stated that upon placing the vehicle into park, he went into a store while his partner remained in the vehicle with the engine running. The vehicle began to roll back as an abnormal, whining sound began to emit fr",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "3 reports (7%), including 1 crash and 1 injury."
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-mazda-cx-5",
+  "make": "Mazda",
+  "model": "CX-5",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/MAZDA/CX-5#complaints",
+  "generatedAt": "2026-06-23T06:26:59.234Z",
+  "total": 104,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 30,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "PURCHASED BRAND NEW 2020 MAZDA CX-5 ON SEPT 25, 2020.     ON SEPT. 29, 2020 WITH < 500MI:   WHILE TRAVELING APPROXIMATELY 45 MPH ON COUNTY ROAD, PRESSED BRAKE PEDAL AND THE PEDAL DID NOT MOVE. SEVERAL MALFUNCTION LIGHTS FLASHED INCLUDING \"POWER STEERING MALFUNCTION\", \"SMART CITY ",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Currently own a 2020 Mazda CX 5 Touring, after coming from work I parked in my driveway and proceeded to turn off the car. When i was walking away i could hear the engine still Running. I went back and turned on the car and turned it back off, again i could still hear the engine ",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 6,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "DRIVING IN THE CITY IN THE RIGHT HAND TURN LANE. THIS LANE PASSES 2 PLACES FOR A RIGHT HAND TURN. THE CAR IN FRONT MADE A RIGHT HAND TURN. THEIR TURN WAS ALMOST COMPLETE WHEN THE CAR MADE A SUDDEN HARD BRAKE. NO OTHER CAR WAS IN FRONT OF ME. MY FOOT WAS NOT ON THE BRAKE. THE CAR ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 11,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1st issue - System monitor restarts without warning.  Just driving along with only one iPhone plugged in the monitor shows a spinning \"wheel\" saying restarting while driving,  2nd issue - with two iPhones plugged in it starts having more issues.  Stops charging second iPhone conn",
+      "pct": 11
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Mazda CX-5. The contact stated that the vehicle jerked abnormally while depressing the accelerator pedal. There was no warning light illuminated. The vehicle was taken to a dealer where the vehicle was diagnosed with transmission failure. The manufacturer ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Mazda CX-5: electrical complaints lead, but the brakes look most serious",
+    "summary": "Owners filed 104 complaints with NHTSA. The electrical system is the most reported area at 29%, followed by the engine (15%) and the brakes (13%). No fires and no deaths are reported across any area. The brakes stand out by outcome: just 14 reports, but they account for 6 crashes and 4 injuries, more than any other area, so they are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 30,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "PURCHASED BRAND NEW 2020 MAZDA CX-5 ON SEPT 25, 2020.     ON SEPT. 29, 2020 WITH < 500MI:   WHILE TRAVELING APPROXIMATELY 45 MPH ON COUNTY ROAD, PRESSED BRAKE PEDAL AND THE PEDAL DID NOT MOVE. SEVERAL MALFUNCTION LIGHTS FLASHED INCLUDING \"POWER STEERING MALFUNCTION\", \"SMART CITY ",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 30 reports (29%), with 1 crash and 1 injury. Watch for warning lights and electrical glitches, including some tied to braking and steering systems."
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Currently own a 2020 Mazda CX 5 Touring, after coming from work I parked in my driveway and proceeded to turn off the car. When i was walking away i could hear the engine still Running. I went back and turned on the car and turned it back off, again i could still hear the engine ",
+        "pct": 15,
+        "title": "Engine",
+        "blurb": "Second most reported: 16 reports (15%), with no crashes, fires, or injuries on record. A recurring complaint area but no serious outcomes reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 6,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "DRIVING IN THE CITY IN THE RIGHT HAND TURN LANE. THIS LANE PASSES 2 PLACES FOR A RIGHT HAND TURN. THE CAR IN FRONT MADE A RIGHT HAND TURN. THEIR TURN WAS ALMOST COMPLETE WHEN THE CAR MADE A SUDDEN HARD BRAKE. NO OTHER CAR WAS IN FRONT OF ME. MY FOOT WAS NOT ON THE BRAKE. THE CAR ",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "Only 14 reports (13%) but the most serious by outcome: 6 crashes and 4 injuries, the highest of any area. Test the brakes thoroughly, including any sudden or unexpected braking."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 11,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1st issue - System monitor restarts without warning.  Just driving along with only one iPhone plugged in the monitor shows a spinning \"wheel\" saying restarting while driving,  2nd issue - with two iPhones plugged in it starts having more issues.  Stops charging second iPhone conn",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "11 reports (11%), linked to 2 crashes and no injuries. Check that the driver-assist and collision systems behave predictably."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Mazda CX-5. The contact stated that the vehicle jerked abnormally while depressing the accelerator pedal. There was no warning light illuminated. The vehicle was taken to a dealer where the vehicle was diagnosed with transmission failure. The manufacturer ",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "The fewest of the top five: 8 reports (8%), with no crashes, fires, or injuries reported. Watch for jerking or rough shifting when accelerating."
+      }
+    ]
+  }
+}

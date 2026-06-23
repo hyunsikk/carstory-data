@@ -1,0 +1,128 @@
+{
+  "slug": "2020-ram-1500",
+  "make": "Ram",
+  "model": "1500",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/RAM/1500#complaints",
+  "generatedAt": "2026-06-23T06:30:18.910Z",
+  "total": 596,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 152,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON NOVEMBER 13, 2019 AT 6:00PM PST WHILE TRAVELING 70MPH WESTBOUND ON INTERSTATE 90 AT THE SR18 INTERCHANGE THE VEHICLE EXPERIENCED MULTIPLE SERIOUS SAFETY DEFECTS AND MAJOR SYSTEMS FAILURES DUE TO LOSS OF ELECTRICAL POWER. LIGHT CONDITIONS WERE NIGHTTIME, TRAFFIC WAS LIGHT, WEAT",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 150,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "3.0L GEN 3 ECODIESEL ENGINE HAS EXCESSIVE LAG AND DELAY IN THROTTLE RESPONSE. WHILE TRAVELING AT STEADY SPEED IN LOWER GEARS 3RD, 4TH, OR 5TH AND THEN DEPRESSING ACCELERATOR PEDAL TO INCREASE SPEED, ENGINE WILL NOT RESPOND UNTIL THREE TO FOUR SECONDS HAVE ELAPSED. THIS CREATES A ",
+      "pct": 25
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 60,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "THIS HAS HAPPENED SEVERAL TIMES. WHEN DRIVING THE RAM, WITH THE GEAR IN DRIVE AND IN 2 WHEEL DRIVE, THE TRANSMISSION WILL NOT SHIFT OUT OF FIRST GEAR. OBVIOUSLY, THIS IS VERY DANGEROUS FOR DRIVING. THIS SEEMS TO BE A RECURRING ISSUE WITH THE DODGE RAM AND SHOULD BE FIXED OR RECAL",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 52,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY BRAND NEW 2020 RAM 1500 LARAMIE SPORT IS EQUIPPED WITH TILTING DOWN DRIVER/PASSENGER SIDE MIRRORS WHEN IN REVERSE. THE PROBLEM IS WHEN THEY TILT DOWN, THEY TILT DOWN SO FAR THAT IT IS OUT MY VIEW. I UTILIZE THIS FEATURE FOR BACKING INTO MY GARAGE, ON SIDE ON MY BOAT, WHERE SPA",
+      "pct": 9
+    },
+    {
+      "component": "STEERING",
+      "count": 51,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I WAS DRIVING IN THE HIGHWAY AT 65MPH WHILE STEERING POWER SHUT OFF AND WARNING ON DASH CAME ON SAYING POWER STEERING WAS DISENGAGED. I PULLED OFF THE HIGHWAY SHUT VEHICLE OFF CHECKED UNDER HOOD AND NOTHING. GOT BACK ON VEHICLE STARTED IT AND WARNING HAD GONE AWAY AND STEERING WA",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Ram 1500: electrical and engine complaints lead the list",
+    "summary": "Owners filed 596 complaints with NHTSA. The electrical system (26%) and engine (25%) are nearly tied at the top and together make up about half of all reports. The power train is third at 10% and is the only area tied to a death (1), along with 3 crashes. Steering draws fewer reports (9%) but the most injuries of any area (4). The electrical and engine areas account for all 9 reported fires.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 152,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON NOVEMBER 13, 2019 AT 6:00PM PST WHILE TRAVELING 70MPH WESTBOUND ON INTERSTATE 90 AT THE SR18 INTERCHANGE THE VEHICLE EXPERIENCED MULTIPLE SERIOUS SAFETY DEFECTS AND MAJOR SYSTEMS FAILURES DUE TO LOSS OF ELECTRICAL POWER. LIGHT CONDITIONS WERE NIGHTTIME, TRAFFIC WAS LIGHT, WEAT",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 152 reports (26%), including 5 with fire. No crashes or injuries reported, but the fire count makes this worth a careful check."
+      },
+      {
+        "component": "ENGINE",
+        "count": 150,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "3.0L GEN 3 ECODIESEL ENGINE HAS EXCESSIVE LAG AND DELAY IN THROTTLE RESPONSE. WHILE TRAVELING AT STEADY SPEED IN LOWER GEARS 3RD, 4TH, OR 5TH AND THEN DEPRESSING ACCELERATOR PEDAL TO INCREASE SPEED, ENGINE WILL NOT RESPOND UNTIL THREE TO FOUR SECONDS HAVE ELAPSED. THIS CREATES A ",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "Nearly tied for the top spot: 150 reports (25%), with 4 fires and 1 crash. A common theme is delayed throttle response, so test acceleration on a drive."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 60,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "THIS HAS HAPPENED SEVERAL TIMES. WHEN DRIVING THE RAM, WITH THE GEAR IN DRIVE AND IN 2 WHEEL DRIVE, THE TRANSMISSION WILL NOT SHIFT OUT OF FIRST GEAR. OBVIOUSLY, THIS IS VERY DANGEROUS FOR DRIVING. THIS SEEMS TO BE A RECURRING ISSUE WITH THE DODGE RAM AND SHOULD BE FIXED OR RECAL",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "60 reports (10%) and the most serious by outcome: 3 crashes and the only reported death (1). Watch for shifting problems on a test drive."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 52,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY BRAND NEW 2020 RAM 1500 LARAMIE SPORT IS EQUIPPED WITH TILTING DOWN DRIVER/PASSENGER SIDE MIRRORS WHEN IN REVERSE. THE PROBLEM IS WHEN THEY TILT DOWN, THEY TILT DOWN SO FAR THAT IT IS OUT MY VIEW. I UTILIZE THIS FEATURE FOR BACKING INTO MY GARAGE, ON SIDE ON MY BOAT, WHERE SPA",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "52 reports (9%), with 1 injury and no crashes or fires. A smaller area, often about mirrors and visibility."
+      },
+      {
+        "component": "STEERING",
+        "count": 51,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I WAS DRIVING IN THE HIGHWAY AT 65MPH WHILE STEERING POWER SHUT OFF AND WARNING ON DASH CAME ON SAYING POWER STEERING WAS DISENGAGED. I PULLED OFF THE HIGHWAY SHUT VEHICLE OFF CHECKED UNDER HOOD AND NOTHING. GOT BACK ON VEHICLE STARTED IT AND WARNING HAD GONE AWAY AND STEERING WA",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "51 reports (9%) but the most injuries of any area: 4, plus 2 crashes. Some reports describe power steering cutting out while driving."
+      }
+    ]
+  }
+}

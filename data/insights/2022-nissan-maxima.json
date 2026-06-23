@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-maxima",
+  "make": "Nissan",
+  "model": "Maxima",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/MAXIMA#complaints",
+  "generatedAt": "2026-06-23T06:18:00.355Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Nissan Maxima. The contact stated that while her granddaughter was driving at 40 MPH and attempting to stop at a stop sign, with the brake pedal depressed all the way to the floorboard, the vehicle failed to stop. As a result, the driver swerved in an att",
+      "pct": 20
+    },
+    {
+      "component": "HYDRAULIC",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Nissan Maxima. The contact stated that while her granddaughter was driving at 40 MPH and attempting to stop at a stop sign, with the brake pedal depressed all the way to the floorboard, the vehicle failed to stop. As a result, the driver swerved in an att",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On February 10, 2023 I purchased a 2022 Nissan Maxima with a little over 19,000 miles on it. Which has a warranty for up to 104,000 miles. Currently at a little over 25,000 miles. Maybe a week later I noticed a noise coming from the rear, so I informed the Finance Manager, Paul. ",
+      "pct": 20
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Maxima. The contact stated that while operating the vehicle at night with the headlights illuminated, the driver’s side light beam had a dark shaded spot in the illuminated light field and the light field was directed approximately 35 degrees to the",
+      "pct": 20
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I'm investigating a fire in this vehicle. The owner was driving and noticed a smell of rubber or electrical burning. He parked the car and noticed a small amount of smoke from the passenger side of the hood area. It was dark out and he opened the hood and went to get a flashlight",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Nissan Maxima: only a handful of complaints, but two involve serious outcomes",
+    "summary": "Owners filed just 5 complaints with NHTSA, spread evenly across five areas (20% each): service brakes, hydraulic, structure, exterior lighting, and engine. No deaths are reported. Two reports stand out by outcome — a brake/hydraulic report tied to 1 crash and 2 injuries, and an engine report involving 1 fire. The low total means there isn't a clear standout problem, but the brakes and engine reports are worth a close look.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Nissan Maxima. The contact stated that while her granddaughter was driving at 40 MPH and attempting to stop at a stop sign, with the brake pedal depressed all the way to the floorboard, the vehicle failed to stop. As a result, the driver swerved in an att",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "1 report (20%), but it involved 1 crash and 2 injuries — one of the more serious outcomes here. Test the brakes carefully on a drive."
+      },
+      {
+        "component": "HYDRAULIC",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Nissan Maxima. The contact stated that while her granddaughter was driving at 40 MPH and attempting to stop at a stop sign, with the brake pedal depressed all the way to the floorboard, the vehicle failed to stop. As a result, the driver swerved in an att",
+        "pct": 20,
+        "title": "Hydraulic",
+        "blurb": "1 report (20%), tied to 1 crash and 2 injuries. It's filed alongside the brake complaint, so check the braking system thoroughly."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On February 10, 2023 I purchased a 2022 Nissan Maxima with a little over 19,000 miles on it. Which has a warranty for up to 104,000 miles. Currently at a little over 25,000 miles. Maybe a week later I noticed a noise coming from the rear, so I informed the Finance Manager, Paul. ",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%), with no crash, fire, or injury reported. A minor, isolated complaint."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Maxima. The contact stated that while operating the vehicle at night with the headlights illuminated, the driver’s side light beam had a dark shaded spot in the illuminated light field and the light field was directed approximately 35 degrees to the",
+        "pct": 20,
+        "title": "Exterior Lighting",
+        "blurb": "1 report (20%), with no crash, fire, or injury reported. The owner described an uneven headlight beam at night."
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I'm investigating a fire in this vehicle. The owner was driving and noticed a smell of rubber or electrical burning. He parked the car and noticed a small amount of smoke from the passenger side of the hood area. It was dark out and he opened the hood and went to get a flashlight",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "1 report (20%), but it involved a fire. The owner noticed a burning smell and smoke from the hood, so this one is worth a careful inspection."
+      }
+    ]
+  }
+}

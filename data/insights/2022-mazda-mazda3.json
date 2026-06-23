@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mazda-mazda3",
+  "make": "Mazda",
+  "model": "Mazda3",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MAZDA/MAZDA3#complaints",
+  "generatedAt": "2026-06-23T06:27:30.649Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Purchased vehicle new at dealership April 15th 2022 w/ 17 miles on the odometer. After 500 miles on the odometer, began receiving multiple daily warnings through the MyMazda app indicating airbag/seat belt pretensioner malfunction. Subsequently noticed the same warning lit up on ",
+      "pct": 52
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The same or similar issue is described here: https://static.nhtsa.gov/odi/tsbs/2022/MC-10209787-0001.pdf  Essentially, this issue has to do with the wiring under the seat that is responsible for airbag functioning. Adjusting the seat caused \"Airbag Malfunctioning\" alarm/notificat",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Constant rattling after only 2,000 miles. Sounds like it’s coming from behind the glove box. Another constant rattle from the head up display.",
+      "pct": 9
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the car on 02/05/2022, the car mileage is close to 15, 500 miles, on 03/03/2023 the car displayed a vehicle issue message stating low oil level. I checked the oil level dipstick and it was in fact below the minimum line. I added 1 quart of oil as advised by owner's ma",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "with less than 7000 miles on a new Mazda3, the transfer and transfer housing went out. This meant the all wheel drive did not operate properly, which could have caused an accident in the right conditions. This was covered by warranty, as well as a shock, strut, and numerous relat",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Mazda Mazda3: air bag warnings dominate the complaints",
+    "summary": "Owners filed 23 complaints with NHTSA. Air bags are by far the most reported area at 52%, more than triple the next area, the electrical system (17%). Structure, engine, and power train each account for 9%. No fires and no deaths are reported. One crash and two injuries are tied to the air bag complaints.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Purchased vehicle new at dealership April 15th 2022 w/ 17 miles on the odometer. After 500 miles on the odometer, began receiving multiple daily warnings through the MyMazda app indicating airbag/seat belt pretensioner malfunction. Subsequently noticed the same warning lit up on ",
+        "pct": 52,
+        "title": "Air Bags",
+        "blurb": "The single biggest complaint by far: 12 reports (52%), tied to 1 crash and 2 injuries. Owners describe repeated airbag and seat-belt pretensioner malfunction warnings. Confirm no warning lights stay on."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The same or similar issue is described here: https://static.nhtsa.gov/odi/tsbs/2022/MC-10209787-0001.pdf  Essentially, this issue has to do with the wiring under the seat that is responsible for airbag functioning. Adjusting the seat caused \"Airbag Malfunctioning\" alarm/notificat",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 4 reports (17%), with no crashes, fires, or injuries. Reports point to wiring under the seat that ties back to airbag warnings."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Constant rattling after only 2,000 miles. Sounds like it’s coming from behind the glove box. Another constant rattle from the head up display.",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "2 reports (9%), with no crashes, fires, or injuries. Owners mention persistent interior rattles. A minor complaint area."
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the car on 02/05/2022, the car mileage is close to 15, 500 miles, on 03/03/2023 the car displayed a vehicle issue message stating low oil level. I checked the oil level dipstick and it was in fact below the minimum line. I added 1 quart of oil as advised by owner's ma",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "2 reports (9%), with no crashes, fires, or injuries. One owner reported a low-oil-level warning. A minor complaint area."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "with less than 7000 miles on a new Mazda3, the transfer and transfer housing went out. This meant the all wheel drive did not operate properly, which could have caused an accident in the right conditions. This was covered by warranty, as well as a shock, strut, and numerous relat",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "2 reports (9%), with no crashes, fires, or injuries. One report describes an all-wheel-drive transfer failure under 7,000 miles. A minor complaint area."
+      }
+    ]
+  }
+}

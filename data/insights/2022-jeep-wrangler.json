@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-wrangler",
+  "make": "Jeep",
+  "model": "Wrangler",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/WRANGLER#complaints",
+  "generatedAt": "2026-06-23T06:18:38.079Z",
+  "total": 358,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 147,
+      "crash": 2,
+      "fire": 9,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The Wrangler accelerated while doing regenerative braking or while my foot was on the brake. This caused it to hit a building. It is available for inspection. My safety and my child's safety was put at risk when contact was made with a building. Those inside the building were als",
+      "pct": 41
+    },
+    {
+      "component": "ENGINE",
+      "count": 83,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The Wrangler accelerated while doing regenerative braking or while my foot was on the brake. This caused it to hit a building. It is available for inspection. My safety and my child's safety was put at risk when contact was made with a building. Those inside the building were als",
+      "pct": 23
+    },
+    {
+      "component": "STEERING",
+      "count": 72,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On 03/03/2022 I purchase a new 2door jeep wrangler s 2022 at the Victoria dealership in Texas. During the test drive, while driving on the highway at 70 mph, I expressed my concern about the steering wheel acting out and feeling loose. It was a very short drive. The dealership pe",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 55,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During routine driving at highway speed, the vehicle’s electronic stability control (ESC) warning light illuminated on the dashboard. Within seconds, the vehicles check engine light (CEL) also illuminated. At that point, the vehicle stalled without battery or engine power via any",
+      "pct": 15
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 53,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 03/03/2022 I purchase a new 2door jeep wrangler s 2022 at the Victoria dealership in Texas. During the test drive, while driving on the highway at 70 mph, I expressed my concern about the steering wheel acting out and feeling loose. It was a very short drive. The dealership pe",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Jeep Wrangler: electrical issues lead the owner complaints",
+    "summary": "Owners filed 358 complaints with NHTSA. The electrical system is by far the most reported area at 41%, followed by the engine (23%) and steering (20%). No deaths are reported. The electrical complaints also include the most fires of any area (9), so that system is worth a close look before you buy.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 147,
+        "crash": 2,
+        "fire": 9,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The Wrangler accelerated while doing regenerative braking or while my foot was on the brake. This caused it to hit a building. It is available for inspection. My safety and my child's safety was put at risk when contact was made with a building. Those inside the building were als",
+        "pct": 41,
+        "title": "Electrical System",
+        "blurb": "The single biggest complaint: 147 reports (41%), and the most fires of any area at 9, plus 2 crashes and 2 injuries. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "ENGINE",
+        "count": 83,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The Wrangler accelerated while doing regenerative braking or while my foot was on the brake. This caused it to hit a building. It is available for inspection. My safety and my child's safety was put at risk when contact was made with a building. Those inside the building were als",
+        "pct": 23,
+        "title": "Engine",
+        "blurb": "Second most reported: 83 reports (23%), tied to 3 crashes, 2 fires, and 1 injury. Watch for power loss or warning lights while driving."
+      },
+      {
+        "component": "STEERING",
+        "count": 72,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On 03/03/2022 I purchase a new 2door jeep wrangler s 2022 at the Victoria dealership in Texas. During the test drive, while driving on the highway at 70 mph, I expressed my concern about the steering wheel acting out and feeling loose. It was a very short drive. The dealership pe",
+        "pct": 20,
+        "title": "Steering",
+        "blurb": "72 reports (20%), with 1 crash, 1 fire, and 1 injury. Feel for looseness or wandering at highway speed on a test drive."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 55,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During routine driving at highway speed, the vehicle’s electronic stability control (ESC) warning light illuminated on the dashboard. Within seconds, the vehicles check engine light (CEL) also illuminated. At that point, the vehicle stalled without battery or engine power via any",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "55 reports (15%), linked to 2 crashes and no fires or injuries. Some reports describe stalling or warning lights while driving."
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 53,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 03/03/2022 I purchase a new 2door jeep wrangler s 2022 at the Victoria dealership in Texas. During the test drive, while driving on the highway at 70 mph, I expressed my concern about the steering wheel acting out and feeling loose. It was a very short drive. The dealership pe",
+        "pct": 15,
+        "title": "Suspension",
+        "blurb": "53 reports (15%), with 1 crash and no fires or injuries. A smaller but recurring complaint area."
+      }
+    ]
+  }
+}

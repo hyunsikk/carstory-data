@@ -1,0 +1,128 @@
+{
+  "slug": "2020-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T06:19:18.836Z",
+  "total": 134,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 79,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED A 2020 COMPASS ON MAY 28TH, 2020 WITHIN THE FIRST WEEK IT SHUT DOWN OR STALLED COMPLETELY AT A STOP STREET, HAD TO PUT THE CAR IN PARK AND HIT THE RESTART BUTTON. I WAS NOT SURE IF THIS HAD SOMETHING TO DO WITH THE AUTO STOP/START SO I SWITCHED THIS FUNCTION OFF AND IN ",
+      "pct": 59
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 62,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE HAS SHUT OFF WHILE DRIVING ON TWO OCCASIONS. BOTH TIMES I HAD SLOWED TO A STOP AND WHEN I HIT THE GAS TO REACCELERATE AT A GREEN LIGHT THE CAR SHUT OFF. THE INFOTAINMENT SCREENS REMAINED ON AND THE LIGHTS ON THE SHIFT KNOB STARTED TO BLINK. I HAD TO PUT THE CAR INTO PARK,",
+      "pct": 46
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 25,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS FILLING UP MY GAS TANK, THE AUTOMATIC STOP ON THE GAS PUMP NEVER SHUT OFF. GAS BEGAN SPILLING OUT OF MY CAR ONTO THE GROUND. I PLACED THE GAS PUMP BACK AND ATTEMPT ED TO START MY CAR, MY CAR STARTED BUT SHUT OFF RIGHT AFTER SIGNALING MY OIL WAS LOW. I JUST GOT MY OIL CHANGE",
+      "pct": 19
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING DOWN THE ROAD, IN NEIGHBORHOODS, INTERSTATE, ETC - RANDOM TIMES THE VEHICLE TRANSMISSION WILL OVERHEAT UP TO 295 DEGREES, AND CAUSE THE VEHICLE TO STALL ENGINE WISE. ALL POWER IS LOST TO THE GAS PEDAL AND I'M NOT ABLE TO ACCELERATE. SOMETIMES THE ELECTRICAL WILL SHUTTER, ",
+      "pct": 5
+    },
+    {
+      "component": "STEERING",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2020 compass keeps shutting off on its own. I will be driving and next thing you know it will start saying \"key has left vehicle \" or  a different message saying a long the lines of its over heating. After the over heating message, the car will completely turn off on me making",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Jeep Compass: the engine drives most owner complaints",
+    "summary": "Owners filed 134 complaints with NHTSA. The engine is by far the most reported area at 59%, followed by the electrical system (46%) and power train (19%). No crashes, injuries, or deaths are reported, and only two complaints mention a fire (one engine, one power train). Many reports describe the car stalling or shutting off while driving, so confirm it idles and accelerates cleanly on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 79,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED A 2020 COMPASS ON MAY 28TH, 2020 WITHIN THE FIRST WEEK IT SHUT DOWN OR STALLED COMPLETELY AT A STOP STREET, HAD TO PUT THE CAR IN PARK AND HIT THE RESTART BUTTON. I WAS NOT SURE IF THIS HAD SOMETHING TO DO WITH THE AUTO STOP/START SO I SWITCHED THIS FUNCTION OFF AND IN ",
+        "pct": 59,
+        "title": "Engine",
+        "blurb": "The single biggest complaint: 79 reports (59%), with 1 fire and no crashes or injuries. Owners describe the car stalling or shutting off while driving, so listen for rough idling and check that it restarts cleanly."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 62,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE HAS SHUT OFF WHILE DRIVING ON TWO OCCASIONS. BOTH TIMES I HAD SLOWED TO A STOP AND WHEN I HIT THE GAS TO REACCELERATE AT A GREEN LIGHT THE CAR SHUT OFF. THE INFOTAINMENT SCREENS REMAINED ON AND THE LIGHTS ON THE SHIFT KNOB STARTED TO BLINK. I HAD TO PUT THE CAR INTO PARK,",
+        "pct": 46,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 62 reports (46%), with no crashes, fires, or injuries. Complaints often describe the car shutting off when reaccelerating, so watch the dash and shifter for warning lights or flickering."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 25,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS FILLING UP MY GAS TANK, THE AUTOMATIC STOP ON THE GAS PUMP NEVER SHUT OFF. GAS BEGAN SPILLING OUT OF MY CAR ONTO THE GROUND. I PLACED THE GAS PUMP BACK AND ATTEMPT ED TO START MY CAR, MY CAR STARTED BUT SHUT OFF RIGHT AFTER SIGNALING MY OIL WAS LOW. I JUST GOT MY OIL CHANGE",
+        "pct": 19,
+        "title": "Power Train",
+        "blurb": "25 reports (19%), including 1 fire and no crashes or injuries. A smaller but recurring area worth checking alongside the engine."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING DOWN THE ROAD, IN NEIGHBORHOODS, INTERSTATE, ETC - RANDOM TIMES THE VEHICLE TRANSMISSION WILL OVERHEAT UP TO 295 DEGREES, AND CAUSE THE VEHICLE TO STALL ENGINE WISE. ALL POWER IS LOST TO THE GAS PEDAL AND I'M NOT ABLE TO ACCELERATE. SOMETIMES THE ELECTRICAL WILL SHUTTER, ",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "Only 7 reports (5%), with no crashes, fires, or injuries. A minor complaint area, sometimes tied to loss of acceleration."
+      },
+      {
+        "component": "STEERING",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2020 compass keeps shutting off on its own. I will be driving and next thing you know it will start saying \"key has left vehicle \" or  a different message saying a long the lines of its over heating. After the over heating message, the car will completely turn off on me making",
+        "pct": 4,
+        "title": "Steering",
+        "blurb": "The fewest complaints at 5 reports (4%), with no crashes, fires, or injuries. The least-reported area of the five."
+      }
+    ]
+  }
+}

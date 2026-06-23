@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-corolla",
+  "make": "Toyota",
+  "model": "Corolla",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/COROLLA#complaints",
+  "generatedAt": "2026-06-23T06:02:54.385Z",
+  "total": 93,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "After 2 months of purchasing the car , interior dashboard wrinkled and below the steep compartment . A week or so the door locks is not functioning all the time.     Then after 3 weeks the black door strip is drooping .     I emailed the branch manager and took it to the service ",
+      "pct": 20
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Lost all acceleration going up a hill. Pressed the gas pedal to the floor as I had a line of cars behind me. Nothing. Placed vehicle in neutral and back into drive. Was slowly able to proceed forward at about 10 mph until top of hill where gained speed. Has since happened 2 addit",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 13,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact's mother owns a 2022 Toyota Corolla. The contact stated while his mother was driving 5 mph and was depressing the brake pedal but failed to stop the vehicle and crashed into a 711 building. The contact stated no warning light was illuminated. No air bags deployed. The",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There has been several instances where I’m trying to cross a divided Highway and the accelerator doesn’t respond. I’ve had three near death experiences. There’s been other times where it will just shut off and restart without a warning. It’s been in my driveway thankfully. When I",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 9,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Corolla HV. The contact stated while driving approximately 8 mph, he was struck by another vehicle. The contact stated no warning light was illuminated. The contact stated his vehicle was hit by another vehicle in the rear passenger door and spun ar",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota Corolla: electrical issues lead the owner complaints",
+    "summary": "Owners filed 93 complaints with NHTSA. The electrical system is the most reported area at 20%, followed by the power train (15%), and the service brakes and engine (14% each). No fires or deaths are reported. The brakes and air bags draw fewer complaints but carry the most serious outcomes, so check both closely on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "After 2 months of purchasing the car , interior dashboard wrinkled and below the steep compartment . A week or so the door locks is not functioning all the time.     Then after 3 weeks the black door strip is drooping .     I emailed the branch manager and took it to the service ",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 19 reports (20%), with 1 injury and no crashes or fires. The leading complaint by volume."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Lost all acceleration going up a hill. Pressed the gas pedal to the floor as I had a line of cars behind me. Nothing. Placed vehicle in neutral and back into drive. Was slowly able to proceed forward at about 10 mph until top of hill where gained speed. Has since happened 2 addit",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "Second most reported: 14 reports (15%), with no crashes, fires, or injuries. Watch for loss of acceleration while driving."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 13,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact's mother owns a 2022 Toyota Corolla. The contact stated while his mother was driving 5 mph and was depressing the brake pedal but failed to stop the vehicle and crashed into a 711 building. The contact stated no warning light was illuminated. No air bags deployed. The",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "13 reports (14%), but among the most serious by outcome: 3 crashes and 3 injuries. Test the brakes thoroughly."
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There has been several instances where I’m trying to cross a divided Highway and the accelerator doesn’t respond. I’ve had three near death experiences. There’s been other times where it will just shut off and restart without a warning. It’s been in my driveway thankfully. When I",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "13 reports (14%), with no crashes, fires, or injuries. Watch for the engine not responding to the accelerator or shutting off unexpectedly."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 9,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Corolla HV. The contact stated while driving approximately 8 mph, he was struck by another vehicle. The contact stated no warning light was illuminated. The contact stated his vehicle was hit by another vehicle in the rear passenger door and spun ar",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "Only 9 reports (10%), but the most crash-linked of any area: 8 crashes and 5 injuries. Worth a careful look given the severity."
+      }
+    ]
+  }
+}

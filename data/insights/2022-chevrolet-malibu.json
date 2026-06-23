@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-06-23T06:13:21.980Z",
+  "total": 81,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Malibu. The contact stated that while driving and attempting to use the Infotainment System, the headlights became inoperable. The contact stated that the cell phone was extremely hot while connected to Bluetooth. The contact stated that while us",
+      "pct": 35
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have issues with my 2022 Malibu trying to accelerate while applying the brakes. I was in a parking lot looking for a parking space with the brake down (my foot nowhere near the accelerator), and the engine was revving to over 3000 rpms. I called the dealer  today and the servic",
+      "pct": 27
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 22,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While my daughter was attempting to exit a parking lot, she put the car in drive pressed accelerator pedal and there was no response from car. Pressed accelerator again and car took off and hit a 13 inch curb causing major front end damage to vehicle. An initial diagnostic scan r",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Malibu. The contact stated while operating the vehicle, there was a whining sound coming from the transmission. The vehicle was taken to the local dealer who replaced the transmission. Later while operating the vehicle, the message \"Engine Overhe",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car had multiple components fail, mostly electrical. But the main malfunction is the “Oil Pump” as stated by the dealership service team. Yes it is currently available for inspection upon request. The oil pump failure is the main concern since it is a key component to the veh",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "Electrical, engine, and drivetrain issues lead 2022 Malibu owner complaints",
+    "summary": "From 81 owner reports to NHTSA, the electrical system is the most common complaint at 35%, followed closely by the engine (27%) and the power train (27%). Engine and engine cooling (9%) and the fuel/propulsion system (6%) round out the list. Most reports are about reliability rather than safety: no fires or injuries were reported, and only 3 reports involved a crash (1 electrical, 2 power train). The details below are worth a read.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Malibu. The contact stated that while driving and attempting to use the Infotainment System, the headlights became inoperable. The contact stated that the cell phone was extremely hot while connected to Bluetooth. The contact stated that while us",
+        "pct": 35,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 28 reports (35% of all complaints). Includes 1 crash; no fires or injuries reported."
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have issues with my 2022 Malibu trying to accelerate while applying the brakes. I was in a parking lot looking for a parking space with the brake down (my foot nowhere near the accelerator), and the engine was revving to over 3000 rpms. I called the dealer  today and the servic",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "22 reports (27%), tied with the power train as the second most reported area. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 22,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While my daughter was attempting to exit a parking lot, she put the car in drive pressed accelerator pedal and there was no response from car. Pressed accelerator again and car took off and hit a 13 inch curb causing major front end damage to vehicle. An initial diagnostic scan r",
+        "pct": 27,
+        "title": "Power Train",
+        "blurb": "22 reports (27%), often about hesitation or no response when accelerating. Includes 2 crashes; no fires or injuries reported."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Malibu. The contact stated while operating the vehicle, there was a whining sound coming from the transmission. The vehicle was taken to the local dealer who replaced the transmission. Later while operating the vehicle, the message \"Engine Overhe",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "7 reports (9%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car had multiple components fail, mostly electrical. But the main malfunction is the “Oil Pump” as stated by the dealership service team. Yes it is currently available for inspection upon request. The oil pump failure is the main concern since it is a key component to the veh",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "5 reports (6%), the least common in this set. No crashes, fires, or injuries reported."
+      }
+    ]
+  }
+}

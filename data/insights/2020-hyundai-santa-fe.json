@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-santa-fe",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/SANTA%20FE#complaints",
+  "generatedAt": "2026-06-23T06:22:57.629Z",
+  "total": 192,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 68,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNED A 2020 HYUNDAI SANTA FE. THE CONTACT STATED THAT WHILE DRIVING AT 65 MPH THE POWER STEERING SUDDENLY FAILED CAUSING THE STEERING WHEEL TO BECOME VERY DIFFICULT TO TURN. THE CONTACT STATED WHILE STOPPING THE VEHICLE IT SUDDENLY STALLED. THE CONTACT STATED VAR",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 23,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "BRAKE HAS BEEN STICKING LAST COUPLE OF WEEKS SO THAT I HAD TO PUMP BRAKE TO RELEASE TO START. THIS MORNING I WENT OUT TO THE DRIVEWAY AND COULD NOT GET INTO CAR WITH EITHER REMOTE OR BY USING BLUE LINK ON MY PHONE. I USED THE MANUAL KEY BUT COULD NOT RELEASE ANY OTHER DOORS OR LI",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN STOPPED AT A TRAFFIC LIGHT AND THE AUTO ENGINE TURN OFF KICKS IN AS EXPECTED WITH MY FOOT ON THE BRAKE PEDAL. HOWEVER, THE BEHAVIOR IS VERY ERRATIC WHEN I RELEASE MY FOOT FROM THE BRAKE. SOMETIMES THE VEHICLE JUMPS AGGRESSIVELY WITHOUT ME APPLYING ANY ACCELERATION AND SOMETI",
+      "pct": 11
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THE 2020 HYUNDAI SANTA FE FOWARD COLLISION AVOIDANCE ASSISTANCE SYSTEM IS NOT FUNCTIONING CORRECTLY. WE HAVE CONTACTED HYUNDAI ON MULTIPLE OCCASIONS WITHOUT RESPONSE. THE SYSTEM IS BRAKING IN THE MIDDLE OF THE ROAD WITHOUT AND CAUSE. NO CARS ARE IN ANY PROXIMITY AND THE CAR BRAKE",
+      "pct": 7
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Hyundai Santa Fe. The contact stated while driving 70 MPH, the contact heard a loud explosion. The contact felt the wind coming from the sunroof. The contact pulled over to the side of the road and saw that the glass sunroof had exploded and shattered. The",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Hyundai Santa Fe: engine complaints lead the list",
+    "summary": "Owners filed 192 complaints with NHTSA. The engine is by far the most reported area at 35%, well ahead of the electrical system (12%) and power train (11%). No deaths are reported. A handful of reports involve fire (4 total) or a crash (4 total), with most of the fire reports tied to the engine, so it is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 68,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNED A 2020 HYUNDAI SANTA FE. THE CONTACT STATED THAT WHILE DRIVING AT 65 MPH THE POWER STEERING SUDDENLY FAILED CAUSING THE STEERING WHEEL TO BECOME VERY DIFFICULT TO TURN. THE CONTACT STATED WHILE STOPPING THE VEHICLE IT SUDDENLY STALLED. THE CONTACT STATED VAR",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "The single biggest complaint: 68 reports (35%), including 3 with fire, 1 crash, and 2 injuries. The fire count makes this the area to check most carefully."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 23,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "BRAKE HAS BEEN STICKING LAST COUPLE OF WEEKS SO THAT I HAD TO PUMP BRAKE TO RELEASE TO START. THIS MORNING I WENT OUT TO THE DRIVEWAY AND COULD NOT GET INTO CAR WITH EITHER REMOTE OR BY USING BLUE LINK ON MY PHONE. I USED THE MANUAL KEY BUT COULD NOT RELEASE ANY OTHER DOORS OR LI",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 23 reports (12%), with 1 fire, 1 crash, and 1 injury among them."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN STOPPED AT A TRAFFIC LIGHT AND THE AUTO ENGINE TURN OFF KICKS IN AS EXPECTED WITH MY FOOT ON THE BRAKE PEDAL. HOWEVER, THE BEHAVIOR IS VERY ERRATIC WHEN I RELEASE MY FOOT FROM THE BRAKE. SOMETIMES THE VEHICLE JUMPS AGGRESSIVELY WITHOUT ME APPLYING ANY ACCELERATION AND SOMETI",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "22 reports (11%), with no crashes, fires, or injuries reported. A common complaint area but lower in severity."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THE 2020 HYUNDAI SANTA FE FOWARD COLLISION AVOIDANCE ASSISTANCE SYSTEM IS NOT FUNCTIONING CORRECTLY. WE HAVE CONTACTED HYUNDAI ON MULTIPLE OCCASIONS WITHOUT RESPONSE. THE SYSTEM IS BRAKING IN THE MIDDLE OF THE ROAD WITHOUT AND CAUSE. NO CARS ARE IN ANY PROXIMITY AND THE CAR BRAKE",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (7%), linked to 1 crash and 2 injuries. A smaller area but tied to the most injuries after the engine."
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Hyundai Santa Fe. The contact stated while driving 70 MPH, the contact heard a loud explosion. The contact felt the wind coming from the sunroof. The contact pulled over to the side of the road and saw that the glass sunroof had exploded and shattered. The",
+        "pct": 7,
+        "title": "Visibility",
+        "blurb": "13 reports (7%), with no crashes, fires, or injuries reported."
+      }
+    ]
+  }
+}

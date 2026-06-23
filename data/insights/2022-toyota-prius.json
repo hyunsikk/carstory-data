@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-prius",
+  "make": "Toyota",
+  "model": "Prius",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/PRIUS#complaints",
+  "generatedAt": "2026-06-23T06:05:20.943Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Problem is with what Toyota calls the Combination meter of the Instrument Cluster.  Problem is that displayed icons are washed out and/or unreadable under conditions of normal sunny skies.  (There is no problem during darkness or overcast skies). Specifically, (going from left to",
+      "pct": 26
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Prius. The contact stated that on two separate occasions while shifted into reverse, the brake pedal was depressed; however, the vehicle failed to stop. The contact stated that he applied extra pressure and turned off the hybrid power system to stop",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Carfax notified us that our vehicle was part of a recall on 9/24/21.  Toyota never contacted us. I contacted Toyota Corporate the week of Oct. 18th and they contacted the dealer (Hudson Toyota in Jersey City) and the dealer said they had a fix.  I brought it in and the service de",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My husband and I rented a car from Avis on June 19, 2023.  THe car they we selected was not available so they picked a prius out of the lot and gave it to us. On the morning of June 20, I was slowly turning into the driveway at [XXX] , my foot on the brake the whole time to slow ",
+      "pct": 9
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driving 60mph on highway and driver's side window spontaneously shattered and covered the driver, drive seat and floor, leaving only about 10 square inches that fell secondarily. There was no projectile that penetrated into the car at all, and no glass was projected over to passe",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota Prius: electrical system leads a small complaint pool",
+    "summary": "Owners filed just 23 complaints with NHTSA, a low total. The electrical system is the most reported area at 26%, followed by the service brakes (17%). No fires and no deaths are reported. The brakes and air bags are the only areas tied to crashes (1 and 2), and the electrical system and air bags account for the reported injuries (3 and 1).",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Problem is with what Toyota calls the Combination meter of the Instrument Cluster.  Problem is that displayed icons are washed out and/or unreadable under conditions of normal sunny skies.  (There is no problem during darkness or overcast skies). Specifically, (going from left to",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 6 reports (26%), with 3 injuries and no crashes or fires. One complaint describes instrument cluster icons washing out and becoming unreadable in sunlight."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Prius. The contact stated that on two separate occasions while shifted into reverse, the brake pedal was depressed; however, the vehicle failed to stop. The contact stated that he applied extra pressure and turned off the hybrid power system to stop",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "Second most reported: 4 reports (17%), including 1 crash and no injuries. One owner reported the vehicle failing to stop in reverse despite pressing the brake. Worth testing carefully."
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Carfax notified us that our vehicle was part of a recall on 9/24/21.  Toyota never contacted us. I contacted Toyota Corporate the week of Oct. 18th and they contacted the dealer (Hudson Toyota in Jersey City) and the dealer said they had a fix.  I brought it in and the service de",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "2 reports (9%), with no crashes, fires, or injuries. One complaint references a recall the owner was not notified about."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My husband and I rented a car from Avis on June 19, 2023.  THe car they we selected was not available so they picked a prius out of the lot and gave it to us. On the morning of June 20, I was slowly turning into the driveway at [XXX] , my foot on the brake the whole time to slow ",
+        "pct": 9,
+        "title": "Air Bags",
+        "blurb": "Only 2 reports (9%) but both involve a crash, and 1 involves an injury. The most serious area by outcome despite the low count."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driving 60mph on highway and driver's side window spontaneously shattered and covered the driver, drive seat and floor, leaving only about 10 square inches that fell secondarily. There was no projectile that penetrated into the car at all, and no glass was projected over to passe",
+        "pct": 9,
+        "title": "Visibility/Wiper",
+        "blurb": "2 reports (9%), with no crashes, fires, or injuries. One owner described the driver's side window spontaneously shattering at highway speed."
+      }
+    ]
+  }
+}

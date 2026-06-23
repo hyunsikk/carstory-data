@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-sorento",
+  "make": "Kia",
+  "model": "Sorento",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/SORENTO#complaints",
+  "generatedAt": "2026-06-23T06:25:12.532Z",
+  "total": 181,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 59,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CODE P1C2D03 POSSIBLE CONDITION WITH TRANSMISSION CONTROL SYSTEM. Kia Red Engine displays on dashboard,as the transmission disengages and will not engage in Drive or Reverse.Transmision locked up on highway and engine revved up to 5800 rpm's.Kia started to smoke and AAA towing ne",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 50,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Suddenly, my vehicle  Kia Sorento Ex AWD X-LINE lost power while exiting a NY Highway.  I and my partner And possibly other drivers on the road could have been seriously injured if there were cars behind us. Possibly, we could have lost our lives if malfunction occured while driv",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 27,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving at highway speed the vehicle lost power and all warning lights on the dash came on.  Fortunately the traffic was light and I was able to get off the highway.  It was early Sunday morning but if I had been in heavy traffic or construction it could have been much wors",
+      "pct": 15
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Bought the vehicle brand new in late 2021, and began noticing some vibration when braking at any speed. The vehicle at this point has less than 10,000 miles and the brakes are vibrating really bad. The manufacturer has not issued a recall and their best fix is turning the brake r",
+      "pct": 9
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Sorento. The contact stated that their vehicle was parked in their driveway with the vehicle off and unattended, an hour later the vehicle rolled away and crashed into a neighbor’s fence. The vehicle came to a stop in the neighbor's ditch. No warning l",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Kia Sorento: power train leads the owner complaints",
+    "summary": "Owners filed 181 complaints with NHTSA. The power train is the most reported area at 33%, followed by the engine (28%) and electrical system (15%). No injuries or deaths are reported across any area. A handful of complaints mention a crash or fire, so read the details below before buying.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 59,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CODE P1C2D03 POSSIBLE CONDITION WITH TRANSMISSION CONTROL SYSTEM. Kia Red Engine displays on dashboard,as the transmission disengages and will not engage in Drive or Reverse.Transmision locked up on highway and engine revved up to 5800 rpm's.Kia started to smoke and AAA towing ne",
+        "pct": 33,
+        "title": "Power Train",
+        "blurb": "The single biggest complaint: 59 reports (33%), including 1 crash. Watch for transmission trouble such as failing to engage in Drive or Reverse."
+      },
+      {
+        "component": "ENGINE",
+        "count": 50,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Suddenly, my vehicle  Kia Sorento Ex AWD X-LINE lost power while exiting a NY Highway.  I and my partner And possibly other drivers on the road could have been seriously injured if there were cars behind us. Possibly, we could have lost our lives if malfunction occured while driv",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "Second most reported: 50 reports (28%), with no crashes, fires, or injuries. Owners describe sudden loss of power while driving, so check for it on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 27,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving at highway speed the vehicle lost power and all warning lights on the dash came on.  Fortunately the traffic was light and I was able to get off the highway.  It was early Sunday morning but if I had been in heavy traffic or construction it could have been much wors",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "27 reports (15%), including 1 fire. Owners report losing power with multiple dashboard warning lights coming on at once."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Bought the vehicle brand new in late 2021, and began noticing some vibration when braking at any speed. The vehicle at this point has less than 10,000 miles and the brakes are vibrating really bad. The manufacturer has not issued a recall and their best fix is turning the brake r",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "17 reports (9%), with no crashes, fires, or injuries. The common theme is brake vibration when slowing down, sometimes early in the car's life."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Sorento. The contact stated that their vehicle was parked in their driveway with the vehicle off and unattended, an hour later the vehicle rolled away and crashed into a neighbor’s fence. The vehicle came to a stop in the neighbor's ditch. No warning l",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "The fewest at 14 reports (8%), but tied to 1 crash. One owner describes a parked vehicle rolling away on its own."
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-dodge-durango",
+  "make": "Dodge",
+  "model": "Durango",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/DODGE/DURANGO#complaints",
+  "generatedAt": "2026-06-23T06:32:59.677Z",
+  "total": 53,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "There is a very sharp side on the back rear taillight that connects with the lift gate. This razor sharp edge has cut myself, husband, and almost my son. The only thing that saved him from getting cut was the sleeve on his shirt. I have reported this issue to Chrysler. An investi",
+      "pct": 38
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 8,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Dodge Durango. The contact stated that he auto-started the vehicle while it was in the driveway. The contact stated as he came outside, the vehicle was on fire. The contact was able to extinguish the fire with the assistance of the fire department. There w",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The start stop system is the Durango is terrible! That was my first problem. My second issue is, out of nowhere. We now have inner engine issues. The engine will not hold compression, but there are no leaks! I have only had a vehicle for six months! Now I am paying on a vehicle. ",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "There is a very sharp side on the back rear taillight that connects with the lift gate. This razor sharp edge has cut myself, husband, and almost my son. The only thing that saved him from getting cut was the sleeve on his shirt. I have reported this issue to Chrysler. An investi",
+      "pct": 8
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Drivers seatbelt buckle does not register, resulting in active chiming of the unbuckled seat belt alarm and disengaging of the airbag system.  Driver must hold the seatbelt with downward pressure continuously in order to register the seat belt and return the vehicle to normal ope",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Dodge Durango: exterior lighting leads the owner complaints",
+    "summary": "Owners filed 53 complaints with NHTSA. Exterior lighting is the most reported area at 38%, followed by the electrical system (15%) and engine (13%). No deaths are reported. Two of the electrical-system reports involved a fire, and the exterior-lighting and structure reports together account for 6 injuries, so both areas are worth a close look.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "There is a very sharp side on the back rear taillight that connects with the lift gate. This razor sharp edge has cut myself, husband, and almost my son. The only thing that saved him from getting cut was the sleeve on his shirt. I have reported this issue to Chrysler. An investi",
+        "pct": 38,
+        "title": "Exterior Lighting",
+        "blurb": "The biggest complaint area: 20 reports (38%), tied to 3 injuries. Owners describe a sharp edge on the rear taillight where it meets the lift gate."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 8,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Dodge Durango. The contact stated that he auto-started the vehicle while it was in the driveway. The contact stated as he came outside, the vehicle was on fire. The contact was able to extinguish the fire with the assistance of the fire department. There w",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 8 reports (15%), including 2 that involved a fire. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The start stop system is the Durango is terrible! That was my first problem. My second issue is, out of nowhere. We now have inner engine issues. The engine will not hold compression, but there are no leaks! I have only had a vehicle for six months! Now I am paying on a vehicle. ",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "7 reports (13%), with no crashes, fires, or injuries noted. Complaints mention the start-stop system and engine trouble."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "There is a very sharp side on the back rear taillight that connects with the lift gate. This razor sharp edge has cut myself, husband, and almost my son. The only thing that saved him from getting cut was the sleeve on his shirt. I have reported this issue to Chrysler. An investi",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "4 reports (8%), linked to 3 injuries. Like the lighting complaints, these describe a sharp edge near the rear taillight and lift gate."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Drivers seatbelt buckle does not register, resulting in active chiming of the unbuckled seat belt alarm and disengaging of the airbag system.  Driver must hold the seatbelt with downward pressure continuously in order to register the seat belt and return the vehicle to normal ope",
+        "pct": 6,
+        "title": "Air Bags",
+        "blurb": "The fewest at 3 reports (6%), with no crashes, fires, or injuries noted. Complaints mention the driver seatbelt buckle and airbag system."
+      }
+    ]
+  }
+}

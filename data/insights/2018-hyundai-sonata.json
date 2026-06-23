@@ -1,0 +1,128 @@
+{
+  "slug": "2018-hyundai-sonata",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/HYUNDAI/SONATA#complaints",
+  "generatedAt": "2026-06-23T06:23:49.116Z",
+  "total": 361,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 203,
+      "crash": 3,
+      "fire": 7,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "PURCHASED NEW 2018 SONATA SEL MODEL IN CALIFORNIA. WHILE DRIVING, THE TRANSMISSION STARTS TO HARD DOWNSHIFT WHEN THE BRAKE IS APPLIED.  I FOUND OUT THAT THIS HARD DOWNSHIFTING AND JOLTING/THUMPING OF ENGINE AND TRANSMISSION ONLY OCCURS WHEN COMING TO A STOP AT SPEEDS BETWEEN 10 T",
+      "pct": 56
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 60,
+      "crash": 3,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "CAR HAS KEYLESS START. WILL NOT START IN TEMPS BELOW 20 DEGREES F. HAS HAPPENED 4X IN 2 WEEKS. CAR IS 8 MOS OLD / LESS THAN 6K MILES. 1ST 3 TIMES EVENTUALLY STARTED BY RUNNING ENGINE. THE WARNING LIGHTS THAT SHOW ARE CHARGING SYSTEM (RAN ITSELF DOWN TO 57% BATTERY THIS TIME); ENG",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 39,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THROTTLE RESPONSE: FEELS LIKE THE OLD VEHICLES WITH A FLAT SPOT IN THE CARBURETOR ACCELERATOR PUMP.  THE \"THREE SECOND' RULE APPLIES WHEN THE THROTTLE PETAL IS PUSHED. THERE IS A SERIOUS HESITATION AS THE ENGINE TENDS TO FALL FLAT BEFORE ACCELERATING. HAS TO DUE WITH THE SIX SPEE",
+      "pct": 11
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 29,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THROTTLE RESPONSE: FEELS LIKE THE OLD VEHICLES WITH A FLAT SPOT IN THE CARBURETOR ACCELERATOR PUMP.  THE \"THREE SECOND' RULE APPLIES WHEN THE THROTTLE PETAL IS PUSHED. THERE IS A SERIOUS HESITATION AS THE ENGINE TENDS TO FALL FLAT BEFORE ACCELERATING. HAS TO DUE WITH THE SIX SPEE",
+      "pct": 8
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE HEADLIGHTS ON MY 2018 HYUNDAI SONATA LIMITED HAVE CONDENSATION IN THEM. IT HAS BEEN THERE FROM THE DAY I BOUGHT THE CAR ON 10/1/18. THAT DAY THE DEALERSHIP TOOK PICTURES TO SEND TO HYUNDAI AND 1 MONTH LATER REPLACED THE HEADLIGHTS. BUT THE NEW HEADLIGHTS WERE WORSE THAN THE O",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Hyundai Sonata: the engine dominates owner complaints",
+    "summary": "Owners filed 361 complaints with NHTSA. The engine is by far the most reported area at 56%, more than three times the next area, the electrical system (17%), followed by the power train (11%). No deaths are reported. The engine complaints also carry the most fires (7), so it is the clear area to check closely.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 203,
+        "crash": 3,
+        "fire": 7,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "PURCHASED NEW 2018 SONATA SEL MODEL IN CALIFORNIA. WHILE DRIVING, THE TRANSMISSION STARTS TO HARD DOWNSHIFT WHEN THE BRAKE IS APPLIED.  I FOUND OUT THAT THIS HARD DOWNSHIFTING AND JOLTING/THUMPING OF ENGINE AND TRANSMISSION ONLY OCCURS WHEN COMING TO A STOP AT SPEEDS BETWEEN 10 T",
+        "pct": 56,
+        "title": "Engine",
+        "blurb": "The dominant complaint by far: 203 reports (56%), with 7 fires, 3 crashes, and 2 injuries. The high fire count makes this the area to inspect most carefully."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 60,
+        "crash": 3,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "CAR HAS KEYLESS START. WILL NOT START IN TEMPS BELOW 20 DEGREES F. HAS HAPPENED 4X IN 2 WEEKS. CAR IS 8 MOS OLD / LESS THAN 6K MILES. 1ST 3 TIMES EVENTUALLY STARTED BY RUNNING ENGINE. THE WARNING LIGHTS THAT SHOW ARE CHARGING SYSTEM (RAN ITSELF DOWN TO 57% BATTERY THIS TIME); ENG",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 60 reports (17%), including 4 fires, 3 crashes, and 2 injuries. Worth a careful check given the fire count."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 39,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THROTTLE RESPONSE: FEELS LIKE THE OLD VEHICLES WITH A FLAT SPOT IN THE CARBURETOR ACCELERATOR PUMP.  THE \"THREE SECOND' RULE APPLIES WHEN THE THROTTLE PETAL IS PUSHED. THERE IS A SERIOUS HESITATION AS THE ENGINE TENDS TO FALL FLAT BEFORE ACCELERATING. HAS TO DUE WITH THE SIX SPEE",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "39 reports (11%), tied to 2 crashes, 1 fire, and 1 injury. Owners describe hesitation when accelerating, so test the throttle response on a drive."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 29,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THROTTLE RESPONSE: FEELS LIKE THE OLD VEHICLES WITH A FLAT SPOT IN THE CARBURETOR ACCELERATOR PUMP.  THE \"THREE SECOND' RULE APPLIES WHEN THE THROTTLE PETAL IS PUSHED. THERE IS A SERIOUS HESITATION AS THE ENGINE TENDS TO FALL FLAT BEFORE ACCELERATING. HAS TO DUE WITH THE SIX SPEE",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "29 reports (8%), with 1 fire and no crashes or injuries. A smaller but recurring complaint area."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE HEADLIGHTS ON MY 2018 HYUNDAI SONATA LIMITED HAVE CONDENSATION IN THEM. IT HAS BEEN THERE FROM THE DAY I BOUGHT THE CAR ON 10/1/18. THAT DAY THE DEALERSHIP TOOK PICTURES TO SEND TO HYUNDAI AND 1 MONTH LATER REPLACED THE HEADLIGHTS. BUT THE NEW HEADLIGHTS WERE WORSE THAN THE O",
+        "pct": 6,
+        "title": "Exterior Lighting",
+        "blurb": "The fewest of the top five: 22 reports (6%), with no crashes, fires, or injuries. Owners cite headlight issues like condensation."
+      }
+    ]
+  }
+}

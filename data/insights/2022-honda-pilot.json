@@ -1,0 +1,128 @@
+{
+  "slug": "2022-honda-pilot",
+  "make": "Honda",
+  "model": "Pilot",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/PILOT#complaints",
+  "generatedAt": "2026-06-23T06:07:56.388Z",
+  "total": 122,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 33,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "While driving on the freeway my vehicle suddenly brakes without me pressing the brake.  There were no vehicles in front of me to trigger the Automatic Brakes sensors.The brake warning light turned on and began flashing. I was almost hit from the back by the car behind me. My car ",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When driving on highways and interstate the vehicle flashes BRAKE when the is no reason to brake.   This happens multiple times per day, in my commute. The 2nd thing (and most dangerous) is the automatic braking. Several times on the interstate the car has done a HARD brake while",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I leased a brand new 2022 Honda Pilot and after two weeks of leasing it developed a severe leaking problem with the transmission. The pilot was taken to a local dealer, the local dealer refused service. It was then taken to the original dealer, and the original dealer replaced th",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "SUV(Honda Pilot 2022) continues to brake. and lose power after brake pedal has been released causing unsafe and un controlled stopping. ( No warning lights or errors ) We have almost been rear ended do to this. Taken back to dealer to repair after only 200 miles on SUV. Dealer re",
+      "pct": 15
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I leased a brand new 2022 Honda Pilot and after two weeks of leasing it developed a severe leaking problem with the transmission. The pilot was taken to a local dealer, the local dealer refused service. It was then taken to the original dealer, and the original dealer replaced th",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Honda Pilot: collision-avoidance braking tops the owner complaints",
+    "summary": "Owners filed 122 complaints with NHTSA. Forward collision avoidance is the most reported area at 27%, followed by the electrical system (21%) and engine (17%). Many of these reports describe the same theme: the car braking on its own when nothing is ahead. No fires or deaths are reported. The brakes draw fewer complaints (15%) but the most injuries (2) of any area, so they are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 33,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "While driving on the freeway my vehicle suddenly brakes without me pressing the brake.  There were no vehicles in front of me to trigger the Automatic Brakes sensors.The brake warning light turned on and began flashing. I was almost hit from the back by the car behind me. My car ",
+        "pct": 27,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The single biggest complaint: 33 reports (27%), tied to 2 crashes and 1 injury. Owners describe the automatic braking activating with no vehicle ahead. Test the driver-assist braking carefully."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When driving on highways and interstate the vehicle flashes BRAKE when the is no reason to brake.   This happens multiple times per day, in my commute. The 2nd thing (and most dangerous) is the automatic braking. Several times on the interstate the car has done a HARD brake while",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 26 reports (21%), linked to 3 crashes and no injuries. Reports mention false brake warnings and unexpected hard braking on the highway."
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I leased a brand new 2022 Honda Pilot and after two weeks of leasing it developed a severe leaking problem with the transmission. The pilot was taken to a local dealer, the local dealer refused service. It was then taken to the original dealer, and the original dealer replaced th",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "21 reports (17%), with 1 crash and no injuries. Some owners describe early transmission leaks on nearly new vehicles."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "SUV(Honda Pilot 2022) continues to brake. and lose power after brake pedal has been released causing unsafe and un controlled stopping. ( No warning lights or errors ) We have almost been rear ended do to this. Taken back to dealer to repair after only 200 miles on SUV. Dealer re",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "18 reports (15%) but the most injuries of any area: 2 injuries plus 2 crashes. Owners report the car continuing to brake or losing power after the pedal is released. Test the brakes thoroughly."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I leased a brand new 2022 Honda Pilot and after two weeks of leasing it developed a severe leaking problem with the transmission. The pilot was taken to a local dealer, the local dealer refused service. It was then taken to the original dealer, and the original dealer replaced th",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "12 reports (10%), with no crashes, injuries, or fires. Mostly transmission-related complaints, including early leaks."
+      }
+    ]
+  }
+}

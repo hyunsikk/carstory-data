@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T06:19:29.713Z",
+  "total": 215,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 99,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On Feb 8th, 2022 the four wheel drive quit working giving message to service 4wd.  The front tires turned and the back tired did not turn and the car did not move forward or backwards. If this would have happened in an area that was remote and no people around I would have not be",
+      "pct": 46
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 50,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The cluster panel dimmer toggle for my 2022 Jeep Compass does not work correctly anymore. It stays very bright even at night and I cannot adjust it darker.  I took it to my local Jeep dealership for service and they said it's a software problem and they cannot fix it until Jeep r",
+      "pct": 23
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 45,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I am currently in a loaner car from dodge dealership, 2022 Jeep Compass limited 4x4. when we got it pretty much as soon as we were in it and down the road every dashboard warning light popped on and it goes through the process of telling you everything from lane assist to park as",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This vehicle has two dangerous issues: 1) It brakes unexpectedly and for no reason during drive. This has happened to me at least 3 times while driving on the freeway without any cars close in front or around me. Bells and whistles just go off all of a sudden and vehicle brakes f",
+      "pct": 16
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 21,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "This is the third time this has happened to me. The second time I took it to the dealership for inspection and was told they could not locate any issues. The first time it happened, I had started my vehicle, and it was running for around 3-4 minutes while I got my child settled i",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Jeep Compass: electrical problems lead the complaints",
+    "summary": "Owners filed 215 complaints with NHTSA. The electrical system is the most reported area by far at 46%, followed by exterior lighting (23%) and forward collision avoidance (21%). No fires and no deaths are reported. The driver-assist features stand out for safety: forward collision avoidance and lane departure each account for 2 crashes despite far fewer total reports, so try those systems carefully on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 99,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On Feb 8th, 2022 the four wheel drive quit working giving message to service 4wd.  The front tires turned and the back tired did not turn and the car did not move forward or backwards. If this would have happened in an area that was remote and no people around I would have not be",
+        "pct": 46,
+        "title": "Electrical System",
+        "blurb": "The top complaint by a wide margin: 99 reports (46%), with 1 crash and 1 injury. One owner describes the four-wheel drive shutting off mid-drive. Check that warnings and electrical features work cleanly."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 50,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The cluster panel dimmer toggle for my 2022 Jeep Compass does not work correctly anymore. It stays very bright even at night and I cannot adjust it darker.  I took it to my local Jeep dealership for service and they said it's a software problem and they cannot fix it until Jeep r",
+        "pct": 23,
+        "title": "Exterior Lighting",
+        "blurb": "Second most reported: 50 reports (23%), with no crashes or injuries logged. Complaints point to lighting and dash-brightness glitches, so test the lights and dimmer at night."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 45,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I am currently in a loaner car from dodge dealership, 2022 Jeep Compass limited 4x4. when we got it pretty much as soon as we were in it and down the road every dashboard warning light popped on and it goes through the process of telling you everything from lane assist to park as",
+        "pct": 21,
+        "title": "Forward Collision Avoidance",
+        "blurb": "45 reports (21%), tied to 2 crashes and 2 injuries. That is one of the higher crash counts here despite fewer reports, so confirm the collision-avoidance system behaves as expected."
+      },
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This vehicle has two dangerous issues: 1) It brakes unexpectedly and for no reason during drive. This has happened to me at least 3 times while driving on the freeway without any cars close in front or around me. Bells and whistles just go off all of a sudden and vehicle brakes f",
+        "pct": 16,
+        "title": "Engine",
+        "blurb": "34 reports (16%), with 1 crash and 1 injury. Pay attention to how the car drives and accelerates during a test drive."
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 21,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "This is the third time this has happened to me. The second time I took it to the dealership for inspection and was told they could not locate any issues. The first time it happened, I had started my vehicle, and it was running for around 3-4 minutes while I got my child settled i",
+        "pct": 10,
+        "title": "Lane Departure",
+        "blurb": "The fewest reports here at 21 (10%), but still linked to 2 crashes and 1 injury. Worth checking the lane-keeping system even though the total is small."
+      }
+    ]
+  }
+}

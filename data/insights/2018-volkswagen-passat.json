@@ -1,0 +1,128 @@
+{
+  "slug": "2018-volkswagen-passat",
+  "make": "Volkswagen",
+  "model": "Passat",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/VOLKSWAGEN/PASSAT#complaints",
+  "generatedAt": "2026-06-23T06:29:30.053Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I BOUGHT THIS VEHICLE ON JUNE 8, 2018, FROM HERITAGE VW. THE CAR ALREADY HAD A SAFETY RECALL FOR BRAKES WHICH WAS ISSUED ON MAY 25, 2018. THE DEALER FAILED TO INFORM ME ABOUT IT BEFORE PURCHASE.     LATER AFTER MY PURCHASE ON JUNE 22 A DO NOT DRIVE WAS ISSUED ON THIS VEHICLE, THE",
+      "pct": 27
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY FATHER WAS HEADING HOME WHEN HE STOPPED THE HILL DOWN FROM HIS HOUSE. UPON TRYING TO ACCELERATE HE NOTICED THE VEHICLE DID NOT WANT TO GO. THE ENGINE HAD STALLED/HESITATED. HE PRESSED THE GAS A FEW TIMES AND NOTHING HAPPENED, THE RPM HA D WAS THE ONLY THING MOVING. THEN, ALL O",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAD REPORTED THE ISSUE TO VW VERBALLY AND SERVICE DEPARTMENT BASICALLY ADVISED I WILL HAVE TO PLACE IT ON THE MACHINE TO RUN A DIAGNOSTIC TEST THAT IS NOT COVERED. I DID NOT HAVE THE FUNDS BUT THEY SAID IF IT HAPPENED AGAIN LET THEM KNOW. IT DID SEVERAL OCCASIONS AFTER THAT ALL",
+      "pct": 22
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "First/only owner of a 2018 VW Passat GP r-line, scheduled maintenance intervals followed religiously and performed by VW; only filled with top tier fuel (mid/premium), no prev. indicator lights ever illuminated until ECM light (no accompanying warning lights) came on while drivin",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE REVERSING IN MY DRIVEWAY, MY DASH LIGHTS UP WITH WARNING: ACC ERROR AND WARNING : AIRBAG ERROR AND STAYED WHILE I WAS PARKED AND KEPT MY CAR STATIONARY. THE NEXT DAY IT SHOWED UP AGAIN AND I AM WORRIED ABOUT MY AIRBAG DEPLOYING ON ME WHILE DRIVING AND CAUSING AN ACCIDENT. I",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Volkswagen Passat: brakes and engine top owner complaints",
+    "summary": "Across 45 owner complaints to NHTSA, service brakes lead at 12 reports (27%), followed by the engine at 11 (24%) and the electrical system at 10 (22%). No fires were reported in any category. The brake and engine reports each include 1 injury, and a few involved a crash.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I BOUGHT THIS VEHICLE ON JUNE 8, 2018, FROM HERITAGE VW. THE CAR ALREADY HAD A SAFETY RECALL FOR BRAKES WHICH WAS ISSUED ON MAY 25, 2018. THE DEALER FAILED TO INFORM ME ABOUT IT BEFORE PURCHASE.     LATER AFTER MY PURCHASE ON JUNE 22 A DO NOT DRIVE WAS ISSUED ON THIS VEHICLE, THE",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "Most-reported area: 12 complaints (27%), with 2 crashes and 1 injury. Some owners describe a brake safety recall on the car, including a do-not-drive notice."
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY FATHER WAS HEADING HOME WHEN HE STOPPED THE HILL DOWN FROM HIS HOUSE. UPON TRYING TO ACCELERATE HE NOTICED THE VEHICLE DID NOT WANT TO GO. THE ENGINE HAD STALLED/HESITATED. HE PRESSED THE GAS A FEW TIMES AND NOTHING HAPPENED, THE RPM HA D WAS THE ONLY THING MOVING. THEN, ALL O",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "Second most-reported: 11 complaints (24%), with 1 crash and 1 injury. Owners describe the engine stalling or hesitating, with the car not accelerating when needed."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAD REPORTED THE ISSUE TO VW VERBALLY AND SERVICE DEPARTMENT BASICALLY ADVISED I WILL HAVE TO PLACE IT ON THE MACHINE TO RUN A DIAGNOSTIC TEST THAT IS NOT COVERED. I DID NOT HAVE THE FUNDS BUT THEY SAID IF IT HAPPENED AGAIN LET THEM KNOW. IT DID SEVERAL OCCASIONS AFTER THAT ALL",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "10 complaints (22%), including 1 crash. Owners report recurring electrical problems and difficulty getting them diagnosed."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "First/only owner of a 2018 VW Passat GP r-line, scheduled maintenance intervals followed religiously and performed by VW; only filled with top tier fuel (mid/premium), no prev. indicator lights ever illuminated until ECM light (no accompanying warning lights) came on while drivin",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 complaints (13%), with no crashes, fires, or injuries reported. Owners describe warning lights such as the ECM light coming on while driving."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE REVERSING IN MY DRIVEWAY, MY DASH LIGHTS UP WITH WARNING: ACC ERROR AND WARNING : AIRBAG ERROR AND STAYED WHILE I WAS PARKED AND KEPT MY CAR STATIONARY. THE NEXT DAY IT SHOWED UP AGAIN AND I AM WORRIED ABOUT MY AIRBAG DEPLOYING ON ME WHILE DRIVING AND CAUSING AN ACCIDENT. I",
+        "pct": 11,
+        "title": "Air Bags",
+        "blurb": "5 complaints (11%), including 1 crash. Owners report airbag warning errors showing on the dash."
+      }
+    ]
+  }
+}

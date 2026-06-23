@@ -1,0 +1,128 @@
+{
+  "slug": "2020-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T06:33:51.999Z",
+  "total": 428,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 154,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I BOUGHT A TESLA MODEL 3 ON 9/19/20. ON 9/23/20 I WAS WAITING IN MY CAR IN A LINE OF CARS AT A FAST FOOD DELIVERY WINDOW, STOPPED 8-10 FT  BEHIND A LARGE VEHICLE WITH MY FOOT ON THE BRAKE AS WELL AS IN THE PARK MODE BECAUSE OF THE SLOW SERVICE AHEAD. AFTER A WHILE I REALIZED THAT",
+      "pct": 36
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 67,
+      "crash": 16,
+      "fire": 2,
+      "injuries": 9,
+      "deaths": 1,
+      "sample": "DRIVING IN FREEWAY FAST LANE IN LIGHT TRAFFIC AT 10:30 AM ON OVERCAST MORNING WITH TESLA  ADAPTIVE CRUISE CONTROL SET FOR 70 MPH AND 4-CAR FOLLOWING DISTANCE. THE CAR IN FRONT MOVED 1 LANE TO THE RIGHT LEAVING NO CARS AHEAD. MY CAR ACCELERATED GENTLY TO 70 AND THEN AS I APPROACHE",
+      "pct": 16
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 46,
+      "crash": 7,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "SO REGARDING THE CAR BRAKES THEY ARE VERY HARD TO FULLY DEPRESS AND I BELIEVE ITS BECAUSE OF THE REGENERATIVE BRAKING. FOR EXAMPLE WHEN GOING EAT HIGHWAY SPEED AND YOU NEED TO PRESS THE BREAK PEDAL HARD IT LITERALLY FEELS LIKE THE CAR IS REFUSING TO LET YOU USE THE FULL CAPACITY ",
+      "pct": 11
+    },
+    {
+      "component": "STEERING",
+      "count": 43,
+      "crash": 6,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 1,
+      "sample": "THE AUTO STEER IN MY TESLA MODEL 3 FAILED TODAY WHEN THE CAR WAS TURNING ON A CURVY DOWNHILL ROAD. I BELIEVE IT'S BECAUSE THE LANE MARKINGS ON THE RIGHT SIDE ENDED JUST BEFORE THE CURBING STARTED. THE CAR SUDDENLY TURNED RIGHT AND HIT THE CURB BRUSHING THE RIGHT FRONT WHEEL. IT W",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 39,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 1,
+      "sample": "CHARGING PORT, PLASTIC TIP OF ONE OF THE CHARGING PINS BROKE OFF AND WAS STILL INSIDE THE PORT. IT WAS OBSTRUCTING THE CHARGING HANDLE, NOT ALLOWING IT TO FULLY SEAT. THE CAR WAS SHOWING AN ERROR MESSAGE SAYING THERE IS A PROBLEM WITH THE CHARGING CABLE. I FOUND THE OBSTRUCTION A",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Tesla Model 3: forward collision avoidance leads the complaints",
+    "summary": "Owners filed 428 complaints with NHTSA. Forward collision avoidance is the most reported area at 36%, followed by vehicle speed control (16%) and service brakes (11%). Vehicle speed control is the most serious by outcome, with 16 crashes, 9 injuries, 2 fires, and 1 death. Steering and the electrical system each also carry 1 reported death, so both are worth a careful look.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 154,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I BOUGHT A TESLA MODEL 3 ON 9/19/20. ON 9/23/20 I WAS WAITING IN MY CAR IN A LINE OF CARS AT A FAST FOOD DELIVERY WINDOW, STOPPED 8-10 FT  BEHIND A LARGE VEHICLE WITH MY FOOT ON THE BRAKE AS WELL AS IN THE PARK MODE BECAUSE OF THE SLOW SERVICE AHEAD. AFTER A WHILE I REALIZED THAT",
+        "pct": 36,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The single biggest complaint: 154 reports (36%), tied to 11 crashes. No fires, injuries, or deaths are reported in this area."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 67,
+        "crash": 16,
+        "fire": 2,
+        "injuries": 9,
+        "deaths": 1,
+        "sample": "DRIVING IN FREEWAY FAST LANE IN LIGHT TRAFFIC AT 10:30 AM ON OVERCAST MORNING WITH TESLA  ADAPTIVE CRUISE CONTROL SET FOR 70 MPH AND 4-CAR FOLLOWING DISTANCE. THE CAR IN FRONT MOVED 1 LANE TO THE RIGHT LEAVING NO CARS AHEAD. MY CAR ACCELERATED GENTLY TO 70 AND THEN AS I APPROACHE",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "Second most reported and the most serious area: 67 reports (16%), linked to 16 crashes, 9 injuries, 2 fires, and 1 death."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 46,
+        "crash": 7,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "SO REGARDING THE CAR BRAKES THEY ARE VERY HARD TO FULLY DEPRESS AND I BELIEVE ITS BECAUSE OF THE REGENERATIVE BRAKING. FOR EXAMPLE WHEN GOING EAT HIGHWAY SPEED AND YOU NEED TO PRESS THE BREAK PEDAL HARD IT LITERALLY FEELS LIKE THE CAR IS REFUSING TO LET YOU USE THE FULL CAPACITY ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "46 reports (11%), tied to 7 crashes, 4 injuries, and 1 fire. Test the brakes thoroughly on a drive."
+      },
+      {
+        "component": "STEERING",
+        "count": 43,
+        "crash": 6,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 1,
+        "sample": "THE AUTO STEER IN MY TESLA MODEL 3 FAILED TODAY WHEN THE CAR WAS TURNING ON A CURVY DOWNHILL ROAD. I BELIEVE IT'S BECAUSE THE LANE MARKINGS ON THE RIGHT SIDE ENDED JUST BEFORE THE CURBING STARTED. THE CAR SUDDENLY TURNED RIGHT AND HIT THE CURB BRUSHING THE RIGHT FRONT WHEEL. IT W",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "43 reports (10%), linked to 6 crashes, 2 injuries, 1 fire, and 1 death. Worth a close look given the reported death."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 39,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 1,
+        "sample": "CHARGING PORT, PLASTIC TIP OF ONE OF THE CHARGING PINS BROKE OFF AND WAS STILL INSIDE THE PORT. IT WAS OBSTRUCTING THE CHARGING HANDLE, NOT ALLOWING IT TO FULLY SEAT. THE CAR WAS SHOWING AN ERROR MESSAGE SAYING THERE IS A PROBLEM WITH THE CHARGING CABLE. I FOUND THE OBSTRUCTION A",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "39 reports (9%), tied to 7 crashes, 7 injuries, and 1 death. No fires reported, but the injury count makes this worth checking."
+      }
+    ]
+  }
+}

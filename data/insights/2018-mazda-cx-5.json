@@ -1,0 +1,128 @@
+{
+  "slug": "2018-mazda-cx-5",
+  "make": "Mazda",
+  "model": "CX-5",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/MAZDA/CX-5#complaints",
+  "generatedAt": "2026-06-23T06:27:01.900Z",
+  "total": 109,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 92,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Crack in cylinder head at 25k caused oil to leak and engine to smoke while driving. No warning lights came on. Dealership replaced the part but how do I know it won't happen again? Mazda knows about this but has not issued a recall or extended the powertrain warranty to cover thi",
+      "pct": 84
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2018 Mazda CX-5 with roughly 52,000 miles on it was emitting a burnt rubber smell and white smoke from the engine. Repair shop thought it was a bad timing lock. Replaced that and car continued to emit white smoke and smell like burnt rubber. Engine then began leaking oil. Took th",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Mazda CX-5. The contact stated that while driving at 45 MPH, there was smoke coming from the engine, and the contact smelled an oil-burning odor.  No warning lights were illuminated. A dealer was contacted. The vehicle was towed to the dealer where it was ",
+      "pct": 2
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The cylinder head on my 2018 Mazda CX-5 developed cracks on the exhaust side, leading to significant oil leakage onto the exhaust manifold. This has caused engine damage and safety concerns. The vehicle is currently at a Mazda dealership, where the issue has been inspected and do",
+      "pct": 2
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The infotainment system consistently changes stations and volume on its own. Knob will not allow you to make adjustments . Contacted dealer and infotainment Is not covered under warranty , or extended warranty.  Now the collision notification is not working. Warnings from system ",
+      "pct": 2
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Mazda CX-5: the engine dominates owner complaints",
+    "summary": "Owners filed 109 complaints with NHTSA. The engine is overwhelmingly the most reported area at 84%, with the power train a distant second at 14%; together they account for nearly every complaint. No crashes, fires, injuries, or deaths are reported in any category. The remaining areas, engine and engine cooling, electrical system, and forward collision avoidance, each drew only 2 reports.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 92,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Crack in cylinder head at 25k caused oil to leak and engine to smoke while driving. No warning lights came on. Dealership replaced the part but how do I know it won't happen again? Mazda knows about this but has not issued a recall or extended the powertrain warranty to cover thi",
+        "pct": 84,
+        "title": "Engine",
+        "blurb": "By far the largest complaint area: 92 reports (84%). No crashes, fires, or injuries reported, but it is the issue to look at most closely on this model."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2018 Mazda CX-5 with roughly 52,000 miles on it was emitting a burnt rubber smell and white smoke from the engine. Repair shop thought it was a bad timing lock. Replaced that and car continued to emit white smoke and smell like burnt rubber. Engine then began leaking oil. Took th",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "Second most reported: 15 reports (14%), with no crashes, fires, or injuries on record."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Mazda CX-5. The contact stated that while driving at 45 MPH, there was smoke coming from the engine, and the contact smelled an oil-burning odor.  No warning lights were illuminated. A dealer was contacted. The vehicle was towed to the dealer where it was ",
+        "pct": 2,
+        "title": "Engine And Engine Cooling",
+        "blurb": "A minor area with just 2 reports (2%) and no crashes, fires, or injuries."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The cylinder head on my 2018 Mazda CX-5 developed cracks on the exhaust side, leading to significant oil leakage onto the exhaust manifold. This has caused engine damage and safety concerns. The vehicle is currently at a Mazda dealership, where the issue has been inspected and do",
+        "pct": 2,
+        "title": "Electrical System",
+        "blurb": "A minor area with just 2 reports (2%) and no crashes, fires, or injuries."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The infotainment system consistently changes stations and volume on its own. Knob will not allow you to make adjustments . Contacted dealer and infotainment Is not covered under warranty , or extended warranty.  Now the collision notification is not working. Warnings from system ",
+        "pct": 2,
+        "title": "Forward Collision Avoidance",
+        "blurb": "A minor area with just 2 reports (2%) and no crashes, fires, or injuries."
+      }
+    ]
+  }
+}

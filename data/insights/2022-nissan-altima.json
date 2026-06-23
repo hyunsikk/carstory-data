@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-altima",
+  "make": "Nissan",
+  "model": "Altima",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/ALTIMA#complaints",
+  "generatedAt": "2026-06-23T06:15:47.298Z",
+  "total": 20,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Automatic emergency brake engaged on interstate stopping my vehicle. This happened 4 times. 2 of which were on highway. I was extremely blessed that I wasn't hit by other vehicles. No warning lights. Mold in vehicle from manufacturer defect. Carpets replaced but interior of vehic",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "A warning indicator comes on and flashes in my Nissan Altima 2022 I've called told them and I had a electrical short and sparked and smoke came out of my air vents and I told and told them some thing was wrong with my car if it has to do with ace line and dash why did it smoke an",
+      "pct": 25
+    },
+    {
+      "component": "ENGINE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Automatic emergency brake engaged on interstate stopping my vehicle. This happened 4 times. 2 of which were on highway. I was extremely blessed that I wasn't hit by other vehicles. No warning lights. Mold in vehicle from manufacturer defect. Carpets replaced but interior of vehic",
+      "pct": 25
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The issues began in June 2022. Since then the automatic emergency brake has stopped my car 6 times on the highway. I was scared to death.  Transmission will not go into drive all of the time. This vehicle is dangerous. Has been in for repairs 3 times and out of service for over 3",
+      "pct": 20
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Nissan Altima. The contact stated while driving 45 mph he was distracted answering his cell phone, he lost control and crashed into the bridge rail. The contact stated no warning light was illuminated. The contact stated the front driver-side air bag did ",
+      "pct": 15
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Nissan Altima: forward collision avoidance leads owner complaints",
+    "summary": "Owners filed 20 complaints with NHTSA. Forward collision avoidance is the most reported area at 35%, followed by the electrical system and engine (25% each) and the brakes (20%). No deaths are reported. The air bags draw the fewest complaints (3) but every one of them involved a crash and an injury, so they are worth a close look.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Automatic emergency brake engaged on interstate stopping my vehicle. This happened 4 times. 2 of which were on highway. I was extremely blessed that I wasn't hit by other vehicles. No warning lights. Mold in vehicle from manufacturer defect. Carpets replaced but interior of vehic",
+        "pct": 35,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The top complaint area: 7 reports (35%), including 1 with fire. No crashes or injuries reported here, but it is the most common owner concern."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "A warning indicator comes on and flashes in my Nissan Altima 2022 I've called told them and I had a electrical short and sparked and smoke came out of my air vents and I told and told them some thing was wrong with my car if it has to do with ace line and dash why did it smoke an",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "Tied for second: 5 reports (25%), one of which involved a fire. No crashes or injuries reported, but the fire makes it worth checking."
+      },
+      {
+        "component": "ENGINE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Automatic emergency brake engaged on interstate stopping my vehicle. This happened 4 times. 2 of which were on highway. I was extremely blessed that I wasn't hit by other vehicles. No warning lights. Mold in vehicle from manufacturer defect. Carpets replaced but interior of vehic",
+        "pct": 25,
+        "title": "Engine",
+        "blurb": "Tied for second: 5 reports (25%), linked to 1 crash and 1 injury. Worth a careful test drive."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The issues began in June 2022. Since then the automatic emergency brake has stopped my car 6 times on the highway. I was scared to death.  Transmission will not go into drive all of the time. This vehicle is dangerous. Has been in for repairs 3 times and out of service for over 3",
+        "pct": 20,
+        "title": "Service Brakes",
+        "blurb": "4 reports (20%), including 1 crash. No injuries reported, but test the brakes thoroughly."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Nissan Altima. The contact stated while driving 45 mph he was distracted answering his cell phone, he lost control and crashed into the bridge rail. The contact stated no warning light was illuminated. The contact stated the front driver-side air bag did ",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "Fewest complaints (3, 15%) but the most serious by outcome: all 3 involved a crash and an injury. Take this one seriously."
+      }
+    ]
+  }
+}

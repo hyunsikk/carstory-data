@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-highlander",
+  "make": "Toyota",
+  "model": "Highlander",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/HIGHLANDER#complaints",
+  "generatedAt": "2026-06-23T06:04:16.873Z",
+  "total": 215,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 42,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Highlander with approximately 650 miles on it had a transmission failure while on interstate 69 north of Evansville Indiana.  The car seemed to shift into passing gear a few times while the cruise was set and we bumped it off cruise and coasted to a stop . The car would not move ",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 39,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Highlander. The contact stated while driving approximately 70 MPH, there was a whistling sound coming from the vehicle. The contact stated that suddenly the bumper detached from the passenger’s side of the vehicle. The contact stated that the front ",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 35,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "When coming to a stop, intermittently the brakes feel like they disengage for a moment before kicking back in and lunging me forward. The first time it happened I thought my foot has slipped off the brake pedal. When I happened again, I knew something was wrong and started noting",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 21,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "1. The SRS airbag malfunction alert message has been displayed for more than a month. The vehicle was brought to the Toyota dealer where it was purchased for being diagnosed and repaired TWICE, but the problem still exists now. [The alert message is always displayed and keeps the",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Highlander. The contact stated while driving 35-40 MPH and attempting to accelerate to enter the highway, the accelerator pedal was depressed; however, the vehicle responded sluggishly. The vehicle emitted abnormal sounds as though the transmission ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota Highlander: power train leads the owner complaints",
+    "summary": "Owners filed 215 complaints with NHTSA. The power train is the most reported area at 20%, followed by the structure (18%) and service brakes (16%). The brakes carry the only reported death, and the air bags stand out for serious outcomes, with 7 crashes and 8 injuries from just 21 reports. Both are worth a close look before buying.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 42,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Highlander with approximately 650 miles on it had a transmission failure while on interstate 69 north of Evansville Indiana.  The car seemed to shift into passing gear a few times while the cruise was set and we bumped it off cruise and coasted to a stop . The car would not move ",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "The most reported area: 42 reports (20%), with 1 crash and 1 fire. Watch for transmission or shifting trouble, including loss of power while driving."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 39,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Highlander. The contact stated while driving approximately 70 MPH, there was a whistling sound coming from the vehicle. The contact stated that suddenly the bumper detached from the passenger’s side of the vehicle. The contact stated that the front ",
+        "pct": 18,
+        "title": "Structure",
+        "blurb": "Second most reported: 39 reports (18%), linked to 1 crash and 4 injuries. Reports include body parts coming loose at highway speed."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 35,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "When coming to a stop, intermittently the brakes feel like they disengage for a moment before kicking back in and lunging me forward. The first time it happened I thought my foot has slipped off the brake pedal. When I happened again, I knew something was wrong and started noting",
+        "pct": 16,
+        "title": "Service Brakes",
+        "blurb": "35 reports (16%), with 3 crashes and the only reported death in this data. Test the brakes carefully and watch for them briefly letting go when stopping."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 21,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "1. The SRS airbag malfunction alert message has been displayed for more than a month. The vehicle was brought to the Toyota dealer where it was purchased for being diagnosed and repaired TWICE, but the problem still exists now. [The alert message is always displayed and keeps the",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "Only 21 reports (10%) but the most serious by outcome: 7 crashes and 8 injuries. Reports include the airbag warning light staying on. Worth checking closely."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Highlander. The contact stated while driving 35-40 MPH and attempting to accelerate to enter the highway, the accelerator pedal was depressed; however, the vehicle responded sluggishly. The vehicle emitted abnormal sounds as though the transmission ",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "The smallest area here: 16 reports (7%), including 1 fire. Reports include sluggish response when trying to accelerate."
+      }
+    ]
+  }
+}

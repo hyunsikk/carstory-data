@@ -1,0 +1,128 @@
+{
+  "slug": "2020-toyota-sienna",
+  "make": "Toyota",
+  "model": "Sienna",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/SIENNA#complaints",
+  "generatedAt": "2026-06-23T06:05:21.129Z",
+  "total": 35,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED RENTAL PROGRAM VEHICLE AND IMMEDIATELY HAD VEHICLE SERVICED AT THE DEALERSHIP. RECEIVED A PHONE CALL FROM SERVICE ADVISOR THAT AUTOMOTIVE TECHNICIAN HAD FOUND A MECHANICAL PROBLEM. IT WAS STATED THAT A HOSE HAD COME LOOSE/APART IN THE AXLE AND FLUID WAS LEAKING.  NOW, W",
+      "pct": 23
+    },
+    {
+      "component": "ENGINE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING ON HWY, SUDDENLY ENGINE LIGHT CAME ON. ALSO I LOST ACCELERATION. WHEN I PRESS GAS PEDAL NO RESPONSE FROM CAR. VEHICLE WAS  SLOWING DOWN SO PULLED INTO GAS STATION. WHEN I STOPPED THE CAR, ENGINE LIGHT WAS STILL ON, TRACTION LIGHT CAME ON AND STEERING SYSTEM  LIGHT C",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 TOYOTA SIENNA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V682000(FUEL SYSTEM, GASOLINE) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS UNAVAILABLE. ED MORSE DELRAY TOYOTA(2800 S FEDERAL HWY, DELRAY BEACH, FL 33483) WAS CONTACTED AND ",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DEAR TO WHO CONCERN THIS CASE,    ON AUGUST 26, 2019, I PURCHASED A BRAND NEW CAR, SIENNA, TOYOTA 2020 FROM PRINCIPLE TOYOTA ON 7370 WINCHESTER RD, MEMPHIS, TENNESSEE 38125. I DISCOVERED THAT THERE ARE MAJOR ISSUES WITH THE CAR.    I WAS GUARANTEED BY THE DEALER THAT THE CAR IS I",
+      "pct": 17
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The passenger side rear door unlocked and opened by itself in the middle of the night, no warning messages were given previously, doors were locked that night. Keys were not accidentally pressed on. It seems that others have had similar problems with Toyota Siennas in the past as",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Toyota Sienna: power train leads a small set of owner complaints",
+    "summary": "Owners filed 35 complaints with NHTSA, a relatively low count. The power train is the most reported area at 23%, followed by a three-way tie among the engine, fuel/propulsion system, and electrical system at 17% each. No crashes, injuries, or deaths are reported. Two reports mention a fire (one engine, one fuel/propulsion system), so those areas are worth a closer look.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED RENTAL PROGRAM VEHICLE AND IMMEDIATELY HAD VEHICLE SERVICED AT THE DEALERSHIP. RECEIVED A PHONE CALL FROM SERVICE ADVISOR THAT AUTOMOTIVE TECHNICIAN HAD FOUND A MECHANICAL PROBLEM. IT WAS STATED THAT A HOSE HAD COME LOOSE/APART IN THE AXLE AND FLUID WAS LEAKING.  NOW, W",
+        "pct": 23,
+        "title": "Power Train",
+        "blurb": "The most reported area: 8 reports (23%), with no crashes, fires, or injuries reported. One owner describes a loose hose in the axle leaking fluid."
+      },
+      {
+        "component": "ENGINE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING ON HWY, SUDDENLY ENGINE LIGHT CAME ON. ALSO I LOST ACCELERATION. WHEN I PRESS GAS PEDAL NO RESPONSE FROM CAR. VEHICLE WAS  SLOWING DOWN SO PULLED INTO GAS STATION. WHEN I STOPPED THE CAR, ENGINE LIGHT WAS STILL ON, TRACTION LIGHT CAME ON AND STEERING SYSTEM  LIGHT C",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "6 reports (17%), including 1 fire, with no crashes or injuries reported. One owner describes the engine light coming on and losing acceleration while driving."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 TOYOTA SIENNA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V682000(FUEL SYSTEM, GASOLINE) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS UNAVAILABLE. ED MORSE DELRAY TOYOTA(2800 S FEDERAL HWY, DELRAY BEACH, FL 33483) WAS CONTACTED AND ",
+        "pct": 17,
+        "title": "Fuel/Propulsion System",
+        "blurb": "6 reports (17%), including 1 fire, with no crashes or injuries reported. One owner mentions a fuel system recall where the repair part was unavailable."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DEAR TO WHO CONCERN THIS CASE,    ON AUGUST 26, 2019, I PURCHASED A BRAND NEW CAR, SIENNA, TOYOTA 2020 FROM PRINCIPLE TOYOTA ON 7370 WINCHESTER RD, MEMPHIS, TENNESSEE 38125. I DISCOVERED THAT THERE ARE MAJOR ISSUES WITH THE CAR.    I WAS GUARANTEED BY THE DEALER THAT THE CAR IS I",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "6 reports (17%), with no crashes, fires, or injuries reported. A recurring complaint area worth checking on a test drive."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The passenger side rear door unlocked and opened by itself in the middle of the night, no warning messages were given previously, doors were locked that night. Keys were not accidentally pressed on. It seems that others have had similar problems with Toyota Siennas in the past as",
+        "pct": 9,
+        "title": "Structure",
+        "blurb": "3 reports (9%), the fewest here, with no crashes, fires, or injuries reported. One owner describes a rear door unlocking and opening on its own."
+      }
+    ]
+  }
+}

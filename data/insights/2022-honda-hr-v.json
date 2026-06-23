@@ -1,0 +1,128 @@
+{
+  "slug": "2022-honda-hr-v",
+  "make": "Honda",
+  "model": "HR-V",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/HR-V#complaints",
+  "generatedAt": "2026-06-23T06:09:08.721Z",
+  "total": 76,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 25,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Car parked. When I went to drive, engine light, ((P))! Light and park light remained on. The car would NOT go into reverse. Turned car off. Turned car back on. After 15-20 mins car went into reverse. While driving on I-95 all 3 lights turned on with the Park light blinking. I pul",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The SUV decelerated rapidly while driving uphill on the grapevine in Los Angeles.  I was driving 70 mph and then the SUV's speed just started to drop and I was pressing down hard on the accelerator.  This may haven been an issue with the engine or the transmission.  My daughter a",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The SUV decelerated rapidly while driving uphill on the grapevine in Los Angeles.  I was driving 70 mph and then the SUV's speed just started to drop and I was pressing down hard on the accelerator.  This may haven been an issue with the engine or the transmission.  My daughter a",
+      "pct": 20
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 14,
+      "crash": 5,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Car parked. When I went to drive, engine light, ((P))! Light and park light remained on. The car would NOT go into reverse. Turned car off. Turned car back on. After 15-20 mins car went into reverse. While driving on I-95 all 3 lights turned on with the Park light blinking. I pul",
+      "pct": 18
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 12,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The SUV decelerated rapidly while driving uphill on the grapevine in Los Angeles.  I was driving 70 mph and then the SUV's speed just started to drop and I was pressing down hard on the accelerator.  This may haven been an issue with the engine or the transmission.  My daughter a",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Honda HR-V: electrical system leads the owner complaints",
+    "summary": "Owners filed 76 complaints with NHTSA. The electrical system is the most reported area at 33%, followed by the engine (22%) and power train (20%). No deaths are reported. The brakes draw fewer complaints (18%) but the most crashes (5) and injuries (3) of any area, so they are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 25,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Car parked. When I went to drive, engine light, ((P))! Light and park light remained on. The car would NOT go into reverse. Turned car off. Turned car back on. After 15-20 mins car went into reverse. While driving on I-95 all 3 lights turned on with the Park light blinking. I pul",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 25 reports (33%), with 2 crashes, 1 fire, and 2 injuries. Watch for warning lights and gear-selection problems."
+      },
+      {
+        "component": "ENGINE",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The SUV decelerated rapidly while driving uphill on the grapevine in Los Angeles.  I was driving 70 mph and then the SUV's speed just started to drop and I was pressing down hard on the accelerator.  This may haven been an issue with the engine or the transmission.  My daughter a",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "Second most reported: 17 reports (22%), with no crashes, fires, or injuries on record. Watch for loss of power while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The SUV decelerated rapidly while driving uphill on the grapevine in Los Angeles.  I was driving 70 mph and then the SUV's speed just started to drop and I was pressing down hard on the accelerator.  This may haven been an issue with the engine or the transmission.  My daughter a",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "15 reports (20%), with no crashes, fires, or injuries on record. A recurring complaint area worth checking on a test drive."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 14,
+        "crash": 5,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Car parked. When I went to drive, engine light, ((P))! Light and park light remained on. The car would NOT go into reverse. Turned car off. Turned car back on. After 15-20 mins car went into reverse. While driving on I-95 all 3 lights turned on with the Park light blinking. I pul",
+        "pct": 18,
+        "title": "Service Brakes",
+        "blurb": "Only 14 reports (18%) but the most serious by outcome: 5 crashes, 3 injuries, and 1 fire. Test the brakes thoroughly."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 12,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The SUV decelerated rapidly while driving uphill on the grapevine in Los Angeles.  I was driving 70 mph and then the SUV's speed just started to drop and I was pressing down hard on the accelerator.  This may haven been an issue with the engine or the transmission.  My daughter a",
+        "pct": 16,
+        "title": "Vehicle Speed Control",
+        "blurb": "12 reports (16%), linked to 1 crash. Watch for unexpected changes in speed while driving."
+      }
+    ]
+  }
+}

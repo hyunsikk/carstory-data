@@ -1,0 +1,128 @@
+{
+  "slug": "2018-volkswagen-atlas",
+  "make": "Volkswagen",
+  "model": "Atlas",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/VOLKSWAGEN/ATLAS#complaints",
+  "generatedAt": "2026-06-23T06:29:12.584Z",
+  "total": 452,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 109,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BRAND NEW 2018 ATLAS BATTERY PROBLEM - BATTERY DRAINS COMPLETELY IN LESS THAN 3 DAYS WHEN CAR IS SWITCHED OFF AND PARKED IN ATTACHED GARAGE. HAPPENED TWICE IN TWO MONTHS. SERVICE RESPONDED BY SAYING THERE ARE SEVERAL COMPUTERS THAT DRAIN BATTERY EVEN WHEN CAR IS SHUTDOWN. SUGGEST",
+      "pct": 24
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 100,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "SIDE AIR BAGS DEPLOYED ON PASSENGER SIDE TIRES HIT CUBS...NO DIRECT DAMAGE WHAT SO EVER TO CAR JUST RIMS. AN ONCOMING CAR WAS COMING TOO CLOSE TO ME. :30 SECONDS LATER (RIGHT IN FRONT OF MY GATED COMMUNITY), EVERY SINGLE AIR BAG DEPLOYED EXCEPT FRONT AND PASSENGER  AIR BAGS. THE ",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 96,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "EXCESSIVE OIL CONSUMPTION. USED 1AND 1/2  QUARTS OF OIL AT 3250 MILES(WHICH WAS ADDED BY THE DEALER SERVICE DEPT. TODAY 1/2/18)  WAS BOUGHT  AS A NEW VEHICLE 9/17 WITH ONLY 12 MILES ON ODOMETER.(12/25/17) FIRST THE CHECK ENGINE LIGHT LIT, THEY SAID IT WAS THE GAS CAP.ONE WEEK LAT",
+      "pct": 21
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 75,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I CAME TO A FULL STOP AS I WAS ABOUT TO EXIT A DRIVEWAY.  SINCE THERE WERE NO VEHICLES APPROACHING FROM EITHER DIRECTION AND THERE WERE NO OBSTACLES IN FRONT OF ME, I STATED TO PULL OUT OF THE DRIVEWAY WHEN THE AUTONOMOUS EMERGENCY BRAKING SYSTEM SUDDENLY AND ABRUPTLY STOPPED MY ",
+      "pct": 17
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 29,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 VOLKSWAGEN ATLAS. WITHIN WEEKS OF OWNING THE VEHICLE, THERE WAS A FAILURE WITH THE STRUT MOUNTED SYSTEM. FURTHERMORE, AN ABNORMAL RATTLING NOISE WAS HEARD ON BOTH SIDES OF THE FRONT END OF THE VEHICLE. IN ADDITION, THE FRONT ASSIST WITH AUTONOMOUS EMER",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Volkswagen Atlas: electrical and air bag issues top owner complaints",
+    "summary": "Across 452 owner complaints to NHTSA, the electrical system is the most-reported area at 109 reports (24%), followed closely by air bags at 100 reports (22%) and the engine at 96 reports (21%). Most reports did not involve a crash or injury, and no fires or deaths were reported. The air bag and service brake categories each account for 2 of the crashes in this data, and a handful of engine, brake, and collision-avoidance reports mention injuries.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 109,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BRAND NEW 2018 ATLAS BATTERY PROBLEM - BATTERY DRAINS COMPLETELY IN LESS THAN 3 DAYS WHEN CAR IS SWITCHED OFF AND PARKED IN ATTACHED GARAGE. HAPPENED TWICE IN TWO MONTHS. SERVICE RESPONDED BY SAYING THERE ARE SEVERAL COMPUTERS THAT DRAIN BATTERY EVEN WHEN CAR IS SHUTDOWN. SUGGEST",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "Most-reported area: 109 complaints (24%), with no crashes, fires, or injuries reported. Owners describe the battery draining completely after the car sits parked for just a few days."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 100,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "SIDE AIR BAGS DEPLOYED ON PASSENGER SIDE TIRES HIT CUBS...NO DIRECT DAMAGE WHAT SO EVER TO CAR JUST RIMS. AN ONCOMING CAR WAS COMING TOO CLOSE TO ME. :30 SECONDS LATER (RIGHT IN FRONT OF MY GATED COMMUNITY), EVERY SINGLE AIR BAG DEPLOYED EXCEPT FRONT AND PASSENGER  AIR BAGS. THE ",
+        "pct": 22,
+        "title": "Air Bags",
+        "blurb": "100 complaints (22%), including 2 crashes and 2 injuries. Owners describe air bags deploying unexpectedly, in one case nearly all of them firing at once."
+      },
+      {
+        "component": "ENGINE",
+        "count": 96,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "EXCESSIVE OIL CONSUMPTION. USED 1AND 1/2  QUARTS OF OIL AT 3250 MILES(WHICH WAS ADDED BY THE DEALER SERVICE DEPT. TODAY 1/2/18)  WAS BOUGHT  AS A NEW VEHICLE 9/17 WITH ONLY 12 MILES ON ODOMETER.(12/25/17) FIRST THE CHECK ENGINE LIGHT LIT, THEY SAID IT WAS THE GAS CAP.ONE WEEK LAT",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "96 complaints (21%), with 3 injuries and no crashes or fires reported. Owners describe excessive oil consumption and check-engine warnings, sometimes within the first few thousand miles."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 75,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I CAME TO A FULL STOP AS I WAS ABOUT TO EXIT A DRIVEWAY.  SINCE THERE WERE NO VEHICLES APPROACHING FROM EITHER DIRECTION AND THERE WERE NO OBSTACLES IN FRONT OF ME, I STATED TO PULL OUT OF THE DRIVEWAY WHEN THE AUTONOMOUS EMERGENCY BRAKING SYSTEM SUDDENLY AND ABRUPTLY STOPPED MY ",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "75 complaints (17%), including 2 crashes and 3 injuries. Owners describe the automatic emergency braking suddenly stopping the car when no obstacle was present."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 29,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 VOLKSWAGEN ATLAS. WITHIN WEEKS OF OWNING THE VEHICLE, THERE WAS A FAILURE WITH THE STRUT MOUNTED SYSTEM. FURTHERMORE, AN ABNORMAL RATTLING NOISE WAS HEARD ON BOTH SIDES OF THE FRONT END OF THE VEHICLE. IN ADDITION, THE FRONT ASSIST WITH AUTONOMOUS EMER",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "29 complaints (6%), with 3 injuries and no crashes or fires reported. Owners report problems with the front assist and autonomous emergency systems, sometimes within weeks of ownership."
+      }
+    ]
+  }
+}

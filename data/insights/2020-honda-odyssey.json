@@ -1,0 +1,128 @@
+{
+  "slug": "2020-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-06-23T06:08:26.072Z",
+  "total": 402,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 150,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "FREQUENT LOUD CRACKLING NOISES COME FROM THE SPEAKERS, FOLLOWED BY A NETWORK CONNECTION LOST ERROR MESSAGE ON THE SCREEN, AND THEN THE SCREEN WILL GO BLACK AND EVENTUALLY THE SYSTEM WILL REBOOT. THIS WILL HAPPEN REPEATEDLY WHILE DRIVING AND DOES NOT DEPEND ON THE STATE OR USE OF ",
+      "pct": 37
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 148,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MAJOR SAFETY CONCERN (BRAKE FAIL DURING DRIVING) WITH NEW 2020 HONDA ODYSSEY WITH 2618 MILES DRIVEN. BRAKE MADE LOUD SQUEAK NOISE RIGHT AFTER PURCHASE AND TOOK IT TO LOCAL HONDA DEALERSHIP WHERE CAR WAS PURCHASED 4 TIMES. HONDA DEALERSHIP RESURFACED ROTOR 2 DIFFERENT TIMES. ABOUT",
+      "pct": 37
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 106,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The following errors suddenly appeared one-at-a-time, causing all the advanced driver assistance capabilities to stop working, including regular cruise control:  * ACC - Adaptive Cruise Control Problem * LKAS - Lane Keeping Assist Problem * Collision Mitigation System Problem * R",
+      "pct": 26
+    },
+    {
+      "component": "ENGINE",
+      "count": 57,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "New ex-l model van with about 800 miles on it began to permeate the cabin with a gaseous odor coming from the air vents in recirculate mode and could be smelled from the outside of the vehicle as well. Initially smelled it when at idle after a 150 mile one-way trip. The vehicle h",
+      "pct": 14
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 28,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "REAR SLIDING DOORS OPEN AFTER PUTTING CAR IN DRIVE AND RELEASING THE EMERGENCY BRAKE. PROBLEM IS INTERMITTENT. THE CAR HAS NOT YET MOVED. I HAVE FOOT BRAKE ENGAGED. THIS HAS HAPPENED IN MY DRIVEWAY, IN PARKING LOTS, AND ALONG THE CURB ON A BUSY STREET..THE LAST OCCURRENCE WAS 10/",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Honda Odyssey: electronics and driver-assist lead the complaints",
+    "summary": "Owners filed 402 complaints with NHTSA. The two biggest areas are nearly tied: the electrical system at 150 reports (37%) and forward collision avoidance at 148 reports (37%), followed by lane departure at 106 (26%). No deaths are reported, and crashes and fires are rare across every area. Most reports describe electronics and driver-assist features misbehaving rather than serious safety failures.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 150,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "FREQUENT LOUD CRACKLING NOISES COME FROM THE SPEAKERS, FOLLOWED BY A NETWORK CONNECTION LOST ERROR MESSAGE ON THE SCREEN, AND THEN THE SCREEN WILL GO BLACK AND EVENTUALLY THE SYSTEM WILL REBOOT. THIS WILL HAPPEN REPEATEDLY WHILE DRIVING AND DOES NOT DEPEND ON THE STATE OR USE OF ",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 150 reports (37%), with 1 injury and no crashes or fires. Owners describe screens, audio, and electronics glitching or rebooting while driving."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 148,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MAJOR SAFETY CONCERN (BRAKE FAIL DURING DRIVING) WITH NEW 2020 HONDA ODYSSEY WITH 2618 MILES DRIVEN. BRAKE MADE LOUD SQUEAK NOISE RIGHT AFTER PURCHASE AND TOOK IT TO LOCAL HONDA DEALERSHIP WHERE CAR WAS PURCHASED 4 TIMES. HONDA DEALERSHIP RESURFACED ROTOR 2 DIFFERENT TIMES. ABOUT",
+        "pct": 37,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Nearly tied for first: 148 reports (37%), linked to 1 crash and 1 injury. Worth testing the collision and braking assist systems on a drive."
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 106,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The following errors suddenly appeared one-at-a-time, causing all the advanced driver assistance capabilities to stop working, including regular cruise control:  * ACC - Adaptive Cruise Control Problem * LKAS - Lane Keeping Assist Problem * Collision Mitigation System Problem * R",
+        "pct": 26,
+        "title": "Lane Departure",
+        "blurb": "Third most reported: 106 reports (26%), with no crashes, fires, or injuries. Owners describe lane-keeping and other driver-assist features throwing errors and shutting off."
+      },
+      {
+        "component": "ENGINE",
+        "count": 57,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "New ex-l model van with about 800 miles on it began to permeate the cabin with a gaseous odor coming from the air vents in recirculate mode and could be smelled from the outside of the vehicle as well. Initially smelled it when at idle after a 150 mile one-way trip. The vehicle h",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "57 reports (14%), including 1 fire, 1 crash, and 1 injury. A smaller area, but the one fire makes it worth a careful check."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 28,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "REAR SLIDING DOORS OPEN AFTER PUTTING CAR IN DRIVE AND RELEASING THE EMERGENCY BRAKE. PROBLEM IS INTERMITTENT. THE CAR HAS NOT YET MOVED. I HAVE FOOT BRAKE ENGAGED. THIS HAS HAPPENED IN MY DRIVEWAY, IN PARKING LOTS, AND ALONG THE CURB ON A BUSY STREET..THE LAST OCCURRENCE WAS 10/",
+        "pct": 7,
+        "title": "Structure",
+        "blurb": "The fewest reports (28, 7%) but the most injuries of any area (3), with no crashes or fires. Several owners describe the rear sliding doors opening on their own."
+      }
+    ]
+  }
+}

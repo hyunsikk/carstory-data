@@ -1,0 +1,128 @@
+{
+  "slug": "2022-tesla-model-x",
+  "make": "Tesla",
+  "model": "Model X",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TESLA/MODEL%20X#complaints",
+  "generatedAt": "2026-06-23T06:34:57.670Z",
+  "total": 121,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 41,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1) low-speed turning is very difficult.  makes hitting pedestrians/curbs/edifices much more likely, as well as just holding up traffic and frustrating other drivers. 2) turn signals require looking down at the steering yoke unless you're a real ninja.  even if you get the hang of",
+      "pct": 34
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Vehicle repeatedly applied the brakes while on cruise control. This sometimes seemed to be a response to other vehicles approaching in the oncoming traffic lane, but sometimes seemed totally unexpected. Once, the vehicle even sounded the collision alarm when no collision danger w",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving the electronic systems that monitor the brakes as well as traction control malfunction. It happened multiple times. At one point, the steering wheel was not operable. The brakes became inoperable. I had it towed to the Tesla service center where they said they corre",
+      "pct": 12
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 12,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle repeatedly applied the brakes while on cruise control. This sometimes seemed to be a response to other vehicles approaching in the oncoming traffic lane, but sometimes seemed totally unexpected. Once, the vehicle even sounded the collision alarm when no collision danger w",
+      "pct": 10
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car is displaying a warning reading “Rear right safety restraint system fault. Service is required.”  Same for the left side.  I took the vehicle for service and was told that this is a “Known Characteristic of Current Firmware”. Tesla sent me a message stating that “all the hard",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Tesla Model X: steering leads the owner complaints",
+    "summary": "Owners filed 121 complaints with NHTSA. Steering is the most reported area at 34%, followed by forward collision avoidance (17%) and the electrical system (12%). No deaths and no injuries are reported in the top areas except forward collision avoidance (1). A few areas tie to crashes or fire, so review the details below.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 41,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1) low-speed turning is very difficult.  makes hitting pedestrians/curbs/edifices much more likely, as well as just holding up traffic and frustrating other drivers. 2) turn signals require looking down at the steering yoke unless you're a real ninja.  even if you get the hang of",
+        "pct": 34,
+        "title": "Steering",
+        "blurb": "The most reported area: 41 reports (34%), linked to 3 crashes and no injuries. Pay attention to steering feel, especially at low speed, on a test drive."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Vehicle repeatedly applied the brakes while on cruise control. This sometimes seemed to be a response to other vehicles approaching in the oncoming traffic lane, but sometimes seemed totally unexpected. Once, the vehicle even sounded the collision alarm when no collision danger w",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Second most reported: 20 reports (17%), tied to 1 crash and 1 injury. Owners describe unexpected braking, so test the driver-assist behavior."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving the electronic systems that monitor the brakes as well as traction control malfunction. It happened multiple times. At one point, the steering wheel was not operable. The brakes became inoperable. I had it towed to the Tesla service center where they said they corre",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "15 reports (12%), including 2 with fire and 1 crash. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 12,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle repeatedly applied the brakes while on cruise control. This sometimes seemed to be a response to other vehicles approaching in the oncoming traffic lane, but sometimes seemed totally unexpected. Once, the vehicle even sounded the collision alarm when no collision danger w",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "12 reports (10%) but the most crashes of any area, with 5. No injuries reported. Worth a close look given the crash count."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car is displaying a warning reading “Rear right safety restraint system fault. Service is required.”  Same for the left side.  I took the vehicle for service and was told that this is a “Known Characteristic of Current Firmware”. Tesla sent me a message stating that “all the hard",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "10 reports (8%), with 1 fire and no crashes or injuries. Owners mention restraint-system fault warnings; check for any dashboard alerts."
+      }
+    ]
+  }
+}

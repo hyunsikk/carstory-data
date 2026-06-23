@@ -1,0 +1,128 @@
+{
+  "slug": "2018-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T06:33:49.291Z",
+  "total": 975,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 199,
+      "crash": 24,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "THREE SEPARATE PROBLEMS: (1) REAR CAMERA GOES BLACK WHEN BACKING UP. (2) FORWARD FACING CAMERA GIVES ERROR ON SCREEN \"DRIVING VISUALIZATION TEMPORARILY DEGRADED\" WHEN DRIVING. THIS HAPPENS ON ROAD AND FREEWAY. (3) SCREEN BECAME COMPLETELY UNRESPONSIVE TO INPUT. MAP DISPLAY WAS WO",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 165,
+      "crash": 14,
+      "fire": 1,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "I HAVE NOTIFIED TESLA SEVERAL TIMES THAT MY VEHICLE SHUTS OFF ON ITS OWN. I HAVE TAKEN MY CAR TO THE TESLA SERVICE CENTER TWICE WHERE I HAVE BEEN TOLD THAT IT IS A \"FIRMWARE\" ISSUE AND WILL BE RESOLVED WITH AN OVER THE AIR UPDATE. HOWEVER THERE IS NO TIMEFRAME ON WHEN THIS UPDATE",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 164,
+      "crash": 11,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "HERE IS A MODEL 3 IN THE JUNKYARD  HTTPS://WWW.IAAI.COM/VEHICLE?ITEMID=28782924&ROWNUMBER=52&LOADRECENT=TRUE    THE LOWER BALL-JOINTS ON THE FRONT SUSPENSION HAVE SNAPPED.  THIS IS VERY LIKELY THE CAUSE OF THE ROLLOVER AND NOT THE RESULT OF IT.    A PHOTOGRAPH IS ATTACHED OF ANOT",
+      "pct": 17
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 132,
+      "crash": 15,
+      "fire": 0,
+      "injuries": 9,
+      "deaths": 0,
+      "sample": "I HAVE HAD A SERIES OF ESCALATING INCIDENTS (SEE ATTACHED PDF) THAT HAVE EACH INVOLVED THE VEHICLE DISABLING AUTOMATIC EMERGENCY BRAKING SYSTEM (ABS), TRACTION CONTROL, PARTIAL STEERING CONTROL,  REGENERATIVE BRAKING (FOR ELECTRIC VEHICLE), AND MOST RECENTLY EXPERIENCED COMPLETE ",
+      "pct": 14
+    },
+    {
+      "component": "SEAT BELTS",
+      "count": 98,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS AT A STOP AT A RED LIGHT AND WAS REAR-ENDED CHRISTMAS EVE NIGHT, CAUSING MY CAR TO BE PUSHED INTO THE VEHICLE IN FRONT OF ME AT THE RED LIGHT. I REMEMBER MY ABDOMEN HITTING THE STEERING WHEEL AND COMPLAINING OF STOMACH DISCOMFORT IMMEDIATELY FOLLOWING THE ACCIDENT (I'VE SIN",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Tesla Model 3: collision-avoidance and electrical issues lead owner complaints",
+    "summary": "Across 975 owner complaints to NHTSA, forward collision avoidance is the most-reported area at 199 reports (20%), followed by the electrical system and suspension, tied at roughly 165 and 164 reports each (17%). Air bags account for 132 reports (14%) and seat belts for 98 (10%). Crashes and injuries show up across the top categories, and two fires were reported (one in the electrical system, one in the suspension data).",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 199,
+        "crash": 24,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "THREE SEPARATE PROBLEMS: (1) REAR CAMERA GOES BLACK WHEN BACKING UP. (2) FORWARD FACING CAMERA GIVES ERROR ON SCREEN \"DRIVING VISUALIZATION TEMPORARILY DEGRADED\" WHEN DRIVING. THIS HAPPENS ON ROAD AND FREEWAY. (3) SCREEN BECAME COMPLETELY UNRESPONSIVE TO INPUT. MAP DISPLAY WAS WO",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Most-reported area: 199 complaints (20%), with 24 crashes and 8 injuries reported and no fires. Owners describe cameras going black or showing a \"driving visualization temporarily degraded\" error and the screen becoming unresponsive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 165,
+        "crash": 14,
+        "fire": 1,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "I HAVE NOTIFIED TESLA SEVERAL TIMES THAT MY VEHICLE SHUTS OFF ON ITS OWN. I HAVE TAKEN MY CAR TO THE TESLA SERVICE CENTER TWICE WHERE I HAVE BEEN TOLD THAT IT IS A \"FIRMWARE\" ISSUE AND WILL BE RESOLVED WITH AN OVER THE AIR UPDATE. HOWEVER THERE IS NO TIMEFRAME ON WHEN THIS UPDATE",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "165 complaints (17%), including 1 fire, 14 crashes, and 4 injuries. Owners report the vehicle shutting off on its own, which they were told was a firmware issue."
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 164,
+        "crash": 11,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "HERE IS A MODEL 3 IN THE JUNKYARD  HTTPS://WWW.IAAI.COM/VEHICLE?ITEMID=28782924&ROWNUMBER=52&LOADRECENT=TRUE    THE LOWER BALL-JOINTS ON THE FRONT SUSPENSION HAVE SNAPPED.  THIS IS VERY LIKELY THE CAUSE OF THE ROLLOVER AND NOT THE RESULT OF IT.    A PHOTOGRAPH IS ATTACHED OF ANOT",
+        "pct": 17,
+        "title": "Suspension",
+        "blurb": "164 complaints (17%), including 1 fire, 11 crashes, and 1 injury. Owners describe front suspension lower ball-joints snapping."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 132,
+        "crash": 15,
+        "fire": 0,
+        "injuries": 9,
+        "deaths": 0,
+        "sample": "I HAVE HAD A SERIES OF ESCALATING INCIDENTS (SEE ATTACHED PDF) THAT HAVE EACH INVOLVED THE VEHICLE DISABLING AUTOMATIC EMERGENCY BRAKING SYSTEM (ABS), TRACTION CONTROL, PARTIAL STEERING CONTROL,  REGENERATIVE BRAKING (FOR ELECTRIC VEHICLE), AND MOST RECENTLY EXPERIENCED COMPLETE ",
+        "pct": 14,
+        "title": "Air Bags",
+        "blurb": "132 complaints (14%), with 15 crashes and 9 injuries reported and no fires. Owners describe incidents where driver-assist and braking systems were disabled."
+      },
+      {
+        "component": "SEAT BELTS",
+        "count": 98,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS AT A STOP AT A RED LIGHT AND WAS REAR-ENDED CHRISTMAS EVE NIGHT, CAUSING MY CAR TO BE PUSHED INTO THE VEHICLE IN FRONT OF ME AT THE RED LIGHT. I REMEMBER MY ABDOMEN HITTING THE STEERING WHEEL AND COMPLAINING OF STOMACH DISCOMFORT IMMEDIATELY FOLLOWING THE ACCIDENT (I'VE SIN",
+        "pct": 10,
+        "title": "Seat Belts",
+        "blurb": "98 complaints (10%), with 1 crash and 1 injury reported and no fires. One owner describes hitting the steering wheel during a rear-end collision."
+      }
+    ]
+  }
+}

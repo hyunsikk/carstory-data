@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-sentra",
+  "make": "Nissan",
+  "model": "Sentra",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/SENTRA#complaints",
+  "generatedAt": "2026-06-23T06:16:31.733Z",
+  "total": 80,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "At approximately 1400 on 08/07/2022 just past the intersection on ayers and the SPID access road, I was driving at about 30 MPH with my grandfather in the front passenger seat and my younger sister in the rear driver's seat in my 2022 Nissan Sentra. When passing the turn-around i",
+      "pct": 39
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was told that the throttle malfunctioned.  I was driving on the highway and the car would not accelerate, the dash said malfunctioning and the cars driving beside me had to swerve around me.  I took the car back to the dealership where I purchased it and was told that parts had",
+      "pct": 30
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Airbag warning light on after purchase.  Took vehicle to dealer, repalced an airbag sensor, did not remedy problem.   Needs airbag control module, that has an unknown eta for replacment.  For issue with auto breaking and foward collision, was merging on freeway, and while acceler",
+      "pct": 16
+    },
+    {
+      "component": "WHEELS",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "At approximately 1400 on 08/07/2022 just past the intersection on ayers and the SPID access road, I was driving at about 30 MPH with my grandfather in the front passenger seat and my younger sister in the rear driver's seat in my 2022 Nissan Sentra. When passing the turn-around i",
+      "pct": 10
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Clicking / Popping noises when turning the steering wheel. Diagnosis bad insulator-engine mounting harness.   RPM / idle issues and jerking while driving. Diagnosis reprogrammed engine control module. Problem still present and worse, than prior to reprogram.   Cruise control slow",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Nissan Sentra: steering leads the owner complaints",
+    "summary": "Owners filed 80 complaints with NHTSA. Steering is the most reported area at 39%, followed by the electrical system (30%) and forward collision avoidance (16%). No fires and no deaths are reported. Steering accounts for the only crash and the most injuries (3), so it is the area to scrutinize on a test drive.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "At approximately 1400 on 08/07/2022 just past the intersection on ayers and the SPID access road, I was driving at about 30 MPH with my grandfather in the front passenger seat and my younger sister in the rear driver's seat in my 2022 Nissan Sentra. When passing the turn-around i",
+        "pct": 39,
+        "title": "Steering",
+        "blurb": "The top complaint by a wide margin: 31 reports (39%), tied to 1 crash and 3 injuries. Pay close attention to how the steering feels on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was told that the throttle malfunctioned.  I was driving on the highway and the car would not accelerate, the dash said malfunctioning and the cars driving beside me had to swerve around me.  I took the car back to the dealership where I purchased it and was told that parts had",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 24 reports (30%), with no crashes, fires, or injuries noted. A common but lower-stakes complaint area."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Airbag warning light on after purchase.  Took vehicle to dealer, repalced an airbag sensor, did not remedy problem.   Needs airbag control module, that has an unknown eta for replacment.  For issue with auto breaking and foward collision, was merging on freeway, and while acceler",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "13 reports (16%), with 2 injuries and no crashes or fires. Worth checking that the driver-assist systems behave as expected."
+      },
+      {
+        "component": "WHEELS",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "At approximately 1400 on 08/07/2022 just past the intersection on ayers and the SPID access road, I was driving at about 30 MPH with my grandfather in the front passenger seat and my younger sister in the rear driver's seat in my 2022 Nissan Sentra. When passing the turn-around i",
+        "pct": 10,
+        "title": "Wheels",
+        "blurb": "8 reports (10%), linked to 1 crash and 3 injuries. A smaller complaint area but with serious outcomes attached."
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Clicking / Popping noises when turning the steering wheel. Diagnosis bad insulator-engine mounting harness.   RPM / idle issues and jerking while driving. Diagnosis reprogrammed engine control module. Problem still present and worse, than prior to reprogram.   Cruise control slow",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "The fewest complaints here: 7 reports (9%), with no crashes, fires, or injuries. Owners describe noises and rough idle rather than safety incidents."
+      }
+    ]
+  }
+}

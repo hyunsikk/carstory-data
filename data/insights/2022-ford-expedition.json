@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-expedition",
+  "make": "Ford",
+  "model": "Expedition",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/EXPEDITION#complaints",
+  "generatedAt": "2026-06-23T06:11:57.268Z",
+  "total": 104,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I just had the same issue described in the forum listed below. Extremely loud max volume screeching static through the speakers. Tried turning the car off and on several times, tried turning the radio off, tried switching to Serius xm radio, nothing would make it stop and it was ",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Expedition. The contact stated while driving approximately 15 MPH, she heard an abnormally loud sound coming from the vehicle. The contact stated no warning light was illuminated. The contact was able to park on the side of the road and safely exited ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 14,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "General: While driving this rental vehicle over the span of three days, I noticed and confirmed over a dozen times that the vehicle's speed control would dramatically increase with NO driver input or actions.  Specific: The vehicle's cruise control would be on and active, set at ",
+      "pct": 13
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Expedition. The contact stated that the vehicle had collected snow and while opening the trunk, the spoiler fractured. The vehicle was taken to an Auto Body shop, where it was determined that the spoiler needed to be replaced. The vehicle was not repa",
+      "pct": 11
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Expedition. The contact stated while driving at approximately 50 MPH, there was a high pitch noise emanating from underneath the vehicle. Additionally, the vehicle was shaking abnormally. The vehicle was taken to a dealer where it was diagnosed that a",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "Electrical complaints lead the 2022 Ford Expedition",
+    "summary": "Of 104 owner complaints filed with NHTSA, the electrical system is the most reported area at 18 reports (17%), followed by the power train and forward collision avoidance, each with 14 reports (13%). Structure comes next at 11 reports (11%) and the engine at 10 reports (10%). Most reports describe no crash or fire, but the electrical system is tied to 3 injuries, the engine to 1 crash and 4 injuries, and forward collision avoidance to 1 crash. Buyers should pay close attention to the electronics and the engine.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I just had the same issue described in the forum listed below. Extremely loud max volume screeching static through the speakers. Tried turning the car off and on several times, tried turning the radio off, tried switching to Serius xm radio, nothing would make it stop and it was ",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 18 reports, or 17% of all complaints, with 3 injuries reported and no crashes or fires. Check the electronics carefully before buying."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Expedition. The contact stated while driving approximately 15 MPH, she heard an abnormally loud sound coming from the vehicle. The contact stated no warning light was illuminated. The contact was able to park on the side of the road and safely exited ",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "14 reports (13% of complaints), with no crashes, fires, or injuries reported. Watch for drivetrain symptoms on a test drive."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 14,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "General: While driving this rental vehicle over the span of three days, I noticed and confirmed over a dozen times that the vehicle's speed control would dramatically increase with NO driver input or actions.  Specific: The vehicle's cruise control would be on and active, set at ",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "14 reports (13% of complaints), including 1 crash. Verify the driver-assist and cruise control features behave as expected."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Expedition. The contact stated that the vehicle had collected snow and while opening the trunk, the spoiler fractured. The vehicle was taken to an Auto Body shop, where it was determined that the spoiler needed to be replaced. The vehicle was not repa",
+        "pct": 11,
+        "title": "Structure",
+        "blurb": "11 reports (11% of complaints), with no crashes, fires, or injuries reported. Inspect body panels and structural parts during a walk-around."
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Expedition. The contact stated while driving at approximately 50 MPH, there was a high pitch noise emanating from underneath the vehicle. Additionally, the vehicle was shaking abnormally. The vehicle was taken to a dealer where it was diagnosed that a",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "10 reports (10% of complaints), tied to 1 crash and 4 injuries. Have the engine inspected thoroughly before buying."
+      }
+    ]
+  }
+}

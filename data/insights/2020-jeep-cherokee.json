@@ -1,0 +1,128 @@
+{
+  "slug": "2020-jeep-cherokee",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/JEEP/CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T06:19:00.185Z",
+  "total": 248,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 132,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE STALLS WHILE IN MOTION ON CITY STREETS AND NEEDS TO BE PUT INTO PARK AND DRIVE AGAIN TO MOVE. VEHICLE HAS 85 MILES ON IT. PURCHASED 4 DAYS AGO. ON DAY AFTER PURCHASE VEHICLE STALLED WHILE GOING STRAIGHT ON 2 INSTANCES, IT STALLED ON A RIGHT TURN ON 2 INSTANCES, IT STALLED",
+      "pct": 53
+    },
+    {
+      "component": "ENGINE",
+      "count": 35,
+      "crash": 0,
+      "fire": 5,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "DRIVING MY VEHICLE DURING RUSH HOUR TRAFFIC WHEN THE CHECK ENGINE LIGHT CAME ON AND A THROTTLE ISSUE MESSAGE FLASHED, VEHICLE EXPERIENCED A DRASTIC LOSS OF POWER CAUSING AN UNSAFE DRIVING CONDITION FOR MYSELF AND OTHER MOTORISTS. THIS VEHICLE WAS PURCHASED NEW WITH ONLY 8 MILES O",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE VEHICLE ALL THE WARNING LIGHTS COME ON AND WARNING SOUNDS START GOING OFF.  WE LOSE OUR SPEEDOMETER, FUEL GUAGE AND ALL OTHER INSTRUMENTS.  THE PARKING BRAKE ENGAGES AS WE ARE DRIVING DOWN THE ROAD AND THE VEHICLE WILL NOT SHIFT GEARS.  WHEN STOPPED AFTER THIS I",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 23,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING THE VEHICLE ALL THE WARNING LIGHTS COME ON AND WARNING SOUNDS START GOING OFF.  WE LOSE OUR SPEEDOMETER, FUEL GUAGE AND ALL OTHER INSTRUMENTS.  THE PARKING BRAKE ENGAGES AS WE ARE DRIVING DOWN THE ROAD AND THE VEHICLE WILL NOT SHIFT GEARS.  WHEN STOPPED AFTER THIS I",
+      "pct": 9
+    },
+    {
+      "component": "STEERING",
+      "count": 19,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "ON AND OFF THE HIGHWAY THE STEERING STICKS WHEN TRYING TO STAY IN THE LANE WHICH LEADS TO OVERSTEERING AND CONSTANT WEAVING IN THE LANE AND SOMETIMES GOING OVER THE LINES. THE TRANSMISSION ALSO SHIFT VERY HARD AND AT TIMES WILL NOT SHIFT WHEN IT SHOULD. I WAS TOLD THESE ARE NORMA",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "Power train complaints dominate the 2020 Jeep Cherokee, with a few engine fires reported",
+    "summary": "Of 248 owner complaints filed with NHTSA, power train problems are the most common by far at 132 reports (53%), more than half of all complaints. The engine is the next biggest concern at 35 reports (14%), and notably accounts for 5 fires. The electrical system follows at 33 reports (13%), with no fires, crashes, or injuries reported. Service brakes and steering round out the top issues, together involving 3 crashes and 1 injury. Buyers should test-drive carefully for stalling and shifting problems and have the engine inspected before buying.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 132,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE STALLS WHILE IN MOTION ON CITY STREETS AND NEEDS TO BE PUT INTO PARK AND DRIVE AGAIN TO MOVE. VEHICLE HAS 85 MILES ON IT. PURCHASED 4 DAYS AGO. ON DAY AFTER PURCHASE VEHICLE STALLED WHILE GOING STRAIGHT ON 2 INSTANCES, IT STALLED ON A RIGHT TURN ON 2 INSTANCES, IT STALLED",
+        "pct": 53,
+        "title": "Power Train",
+        "blurb": "The single largest complaint area: 132 reports (53% of all complaints), more than half the total, with no fires, crashes, or injuries reported. Test-drive carefully for stalling and shifting problems before buying."
+      },
+      {
+        "component": "ENGINE",
+        "count": 35,
+        "crash": 0,
+        "fire": 5,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "DRIVING MY VEHICLE DURING RUSH HOUR TRAFFIC WHEN THE CHECK ENGINE LIGHT CAME ON AND A THROTTLE ISSUE MESSAGE FLASHED, VEHICLE EXPERIENCED A DRASTIC LOSS OF POWER CAUSING AN UNSAFE DRIVING CONDITION FOR MYSELF AND OTHER MOTORISTS. THIS VEHICLE WAS PURCHASED NEW WITH ONLY 8 MILES O",
+        "pct": 14,
+        "title": "Engine",
+        "blurb": "The second most reported area: 35 reports (14%), and the most safety-flagged, with 5 fires reported. Have the engine checked thoroughly before buying."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE VEHICLE ALL THE WARNING LIGHTS COME ON AND WARNING SOUNDS START GOING OFF.  WE LOSE OUR SPEEDOMETER, FUEL GUAGE AND ALL OTHER INSTRUMENTS.  THE PARKING BRAKE ENGAGES AS WE ARE DRIVING DOWN THE ROAD AND THE VEHICLE WILL NOT SHIFT GEARS.  WHEN STOPPED AFTER THIS I",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "33 reports (13%), with no fires, crashes, or injuries reported. Verify the warning lights and instruments work correctly on a test drive."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 23,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING THE VEHICLE ALL THE WARNING LIGHTS COME ON AND WARNING SOUNDS START GOING OFF.  WE LOSE OUR SPEEDOMETER, FUEL GUAGE AND ALL OTHER INSTRUMENTS.  THE PARKING BRAKE ENGAGES AS WE ARE DRIVING DOWN THE ROAD AND THE VEHICLE WILL NOT SHIFT GEARS.  WHEN STOPPED AFTER THIS I",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "23 reports (9%), including 1 crash, with no fires or injuries. Test the brakes carefully before buying."
+      },
+      {
+        "component": "STEERING",
+        "count": 19,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "ON AND OFF THE HIGHWAY THE STEERING STICKS WHEN TRYING TO STAY IN THE LANE WHICH LEADS TO OVERSTEERING AND CONSTANT WEAVING IN THE LANE AND SOMETIMES GOING OVER THE LINES. THE TRANSMISSION ALSO SHIFT VERY HARD AND AT TIMES WILL NOT SHIFT WHEN IT SHOULD. I WAS TOLD THESE ARE NORMA",
+        "pct": 8,
+        "title": "Steering",
+        "blurb": "19 reports (8%), including 2 crashes and 1 injury, the most injuries among the top issues. Check the steering for sticking or weaving on a test drive."
+      }
+    ]
+  }
+}

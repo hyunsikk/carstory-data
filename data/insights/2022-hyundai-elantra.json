@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-elantra",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/ELANTRA#complaints",
+  "generatedAt": "2026-06-23T06:22:43.929Z",
+  "total": 93,
+  "issues": [
+    {
+      "component": "SEAT BELTS",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Elantra. The contact was notified by a ride share platform that the vehicle was included in NHTSA Campaign Number: 202V354000 (Seat Belts) however, the part to do the recall repair was unavailable. The dealer was made aware of the issue and confirm",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I drove my vehicle to the store, parked and went in to the store to get some things. When I came out and started the car several things were wrong with the car. The power steering was not working, the RPM gauge didn't work at all, the back up camera also was not operational. The ",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 15,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On 2/26/2022, while driving East bound 134 at night. AEB of my 2022 Elantra kicked in. The first time AEB kicked in hard and I lost control of the car for a split moment. The warning sounds as the AEB activated and I swerved slightly (within my lane). This happened while I still ",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My check engine light came on before the car reached 700 miles on it. The car acts like it does not want to accelerate, but the RPMS go up- I have cruised at 60mph (and at 35) and tried to move over to a different lane to avoid upcoming vehicles and the car won’t accelerate. Merg",
+      "pct": 11
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After raining here in houston texas I received a message on dashboard saying check rear cross traffic warning system. the warning has now inactivated the horn , the red lights on mirror does not alert me of cars behind me as I cross into traffic, camera works perfect but does not",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Hyundai Elantra: seat belts top the owner complaints",
+    "summary": "Owners filed 93 complaints with NHTSA. Seat belts are the most reported area at 25%, followed by the electrical system (18%) and the forward collision avoidance system (16%). No deaths and no injuries are reported across any area. Only two complaints involve a serious event: one crash tied to the forward collision avoidance system and one fire tied to the engine.",
+    "issues": [
+      {
+        "component": "SEAT BELTS",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Elantra. The contact was notified by a ride share platform that the vehicle was included in NHTSA Campaign Number: 202V354000 (Seat Belts) however, the part to do the recall repair was unavailable. The dealer was made aware of the issue and confirm",
+        "pct": 25,
+        "title": "Seat Belts",
+        "blurb": "The single biggest complaint: 23 reports (25%). No crashes, fires, or injuries reported. Many reports tie back to a seat belt recall, so confirm any recall work has been completed."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I drove my vehicle to the store, parked and went in to the store to get some things. When I came out and started the car several things were wrong with the car. The power steering was not working, the RPM gauge didn't work at all, the back up camera also was not operational. The ",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 17 reports (18%). No crashes, fires, or injuries reported. Owners describe multiple systems acting up at once, so check the dash gauges, camera, and power features."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 15,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On 2/26/2022, while driving East bound 134 at night. AEB of my 2022 Elantra kicked in. The first time AEB kicked in hard and I lost control of the car for a split moment. The warning sounds as the AEB activated and I swerved slightly (within my lane). This happened while I still ",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "15 reports (16%), including 1 crash. No fires or injuries reported. Owners describe the automatic emergency braking activating unexpectedly."
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My check engine light came on before the car reached 700 miles on it. The car acts like it does not want to accelerate, but the RPMS go up- I have cruised at 60mph (and at 35) and tried to move over to a different lane to avoid upcoming vehicles and the car won’t accelerate. Merg",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "10 reports (11%), with 1 fire. No crashes or injuries reported. Watch for loss of acceleration and check engine warnings."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After raining here in houston texas I received a message on dashboard saying check rear cross traffic warning system. the warning has now inactivated the horn , the red lights on mirror does not alert me of cars behind me as I cross into traffic, camera works perfect but does not",
+        "pct": 6,
+        "title": "Back Over Prevention",
+        "blurb": "The fewest reports here: 6 (6%). No crashes, fires, or injuries reported. Owners mention the rear cross-traffic warning going inactive, so test it during a backup."
+      }
+    ]
+  }
+}

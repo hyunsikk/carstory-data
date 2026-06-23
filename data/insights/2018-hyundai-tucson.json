@@ -1,0 +1,128 @@
+{
+  "slug": "2018-hyundai-tucson",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/HYUNDAI/TUCSON#complaints",
+  "generatedAt": "2026-06-23T06:23:21.362Z",
+  "total": 380,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 229,
+      "crash": 4,
+      "fire": 8,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "AFTER ACQUIRING A LITTLE OVER A MONTH (1167 MILES ON IT)  THIS CAR FAILED WHILE I WAS DRIVING ON A MAJOR HIGHWAY AND HAD TO NAVIGATE OVER 4 LANES FROM JUST MOMENTUM - COULD NOT USE MY CELLPHONE AS IT WAS TRYING TO SYNC TO THE CAR WHICH WAS NOW COMPLETELY DEAD. TOWED TO PURCHASING",
+      "pct": 60
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 99,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS TRANSMISSION CAUSES THE CAR TO NOT ACCELERATE WHEN IT SHOULD, AND WHEN THE TRANSMISSION KICKS IS THE CAR TAKES OFF TO FAST LIKE IT IS OUT OF CONTROL.  SOME TIMES THE TRANSMISSION MAKES THE CAR JERK THREE TO FOR TIMES IN STOP AND GO TRAFFIC. THIS IS UNSAFE AND I'M WEIGHTING F",
+      "pct": 26
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 41,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "ONCE MY BRAND NEW TUCSON HIT 500 MILES ON IT, IT  SUDDENLY UNINTENTIONALLY ACCELERATES WHILE MY FOOT IS  ALREADY PRESSING FIRMLY ON THE BREAK PEDAL.  THE FIRST TIME, IT HAPPENED AS I WAS APPROACHING THE PEAK OF A HILL. I WAS GOING 25 MPH. MY FOOT WAS ALREADY PRESSING ON THE BREAK",
+      "pct": 11
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "AFTER ACQUIRING A LITTLE OVER A MONTH (1167 MILES ON IT)  THIS CAR FAILED WHILE I WAS DRIVING ON A MAJOR HIGHWAY AND HAD TO NAVIGATE OVER 4 LANES FROM JUST MOMENTUM - COULD NOT USE MY CELLPHONE AS IT WAS TRYING TO SYNC TO THE CAR WHICH WAS NOW COMPLETELY DEAD. TOWED TO PURCHASING",
+      "pct": 7
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 21,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "AROUND 1500 ,ILES THE CAR STARTED TO EITHER STALL COMPLETELY OR \"JUMP\" FORWARD IN AL DRIVEMODES, TOOK TO DEALERSHIP , THEY SAID IT HAS TO DO WITH TRANSMISSION BEING ESSENTIALLY A STANDARD. THEY TOLD US THEY RESET THE COMPUTER AND IT NEEDS THIS OCCASIONALLY. REALLY NEVER HEARD OF ",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Hyundai Tucson: the engine drives most owner complaints",
+    "summary": "Owners filed 380 complaints with NHTSA. The engine is by far the most reported area at 60%, followed by the power train (26%) and service brakes (11%). No deaths are reported. Eight engine complaints involved a fire, the highest fire count of any area, so the engine is worth close attention.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 229,
+        "crash": 4,
+        "fire": 8,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "AFTER ACQUIRING A LITTLE OVER A MONTH (1167 MILES ON IT)  THIS CAR FAILED WHILE I WAS DRIVING ON A MAJOR HIGHWAY AND HAD TO NAVIGATE OVER 4 LANES FROM JUST MOMENTUM - COULD NOT USE MY CELLPHONE AS IT WAS TRYING TO SYNC TO THE CAR WHICH WAS NOW COMPLETELY DEAD. TOWED TO PURCHASING",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "The dominant complaint by far: 229 reports (60%), including 8 fires, 4 crashes, and 2 injuries. The high fire count makes this the area to check most carefully."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 99,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS TRANSMISSION CAUSES THE CAR TO NOT ACCELERATE WHEN IT SHOULD, AND WHEN THE TRANSMISSION KICKS IS THE CAR TAKES OFF TO FAST LIKE IT IS OUT OF CONTROL.  SOME TIMES THE TRANSMISSION MAKES THE CAR JERK THREE TO FOR TIMES IN STOP AND GO TRAFFIC. THIS IS UNSAFE AND I'M WEIGHTING F",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "Second most reported: 99 reports (26%), linked to 3 crashes and 2 fires, with no injuries reported. Watch for hesitation or jerking when accelerating."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 41,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "ONCE MY BRAND NEW TUCSON HIT 500 MILES ON IT, IT  SUDDENLY UNINTENTIONALLY ACCELERATES WHILE MY FOOT IS  ALREADY PRESSING FIRMLY ON THE BREAK PEDAL.  THE FIRST TIME, IT HAPPENED AS I WAS APPROACHING THE PEAK OF A HILL. I WAS GOING 25 MPH. MY FOOT WAS ALREADY PRESSING ON THE BREAK",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "41 reports (11%), tied to 4 crashes and 3 injuries with no fires. Test the brakes thoroughly on a drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "AFTER ACQUIRING A LITTLE OVER A MONTH (1167 MILES ON IT)  THIS CAR FAILED WHILE I WAS DRIVING ON A MAJOR HIGHWAY AND HAD TO NAVIGATE OVER 4 LANES FROM JUST MOMENTUM - COULD NOT USE MY CELLPHONE AS IT WAS TRYING TO SYNC TO THE CAR WHICH WAS NOW COMPLETELY DEAD. TOWED TO PURCHASING",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "26 reports (7%), with 3 crashes and 2 injuries and no fires. A smaller but recurring complaint area."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 21,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "AROUND 1500 ,ILES THE CAR STARTED TO EITHER STALL COMPLETELY OR \"JUMP\" FORWARD IN AL DRIVEMODES, TOOK TO DEALERSHIP , THEY SAID IT HAS TO DO WITH TRANSMISSION BEING ESSENTIALLY A STANDARD. THEY TOLD US THEY RESET THE COMPUTER AND IT NEEDS THIS OCCASIONALLY. REALLY NEVER HEARD OF ",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The fewest at 21 reports (6%), including 2 fires with no crashes or injuries reported."
+      }
+    ]
+  }
+}

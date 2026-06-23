@@ -1,0 +1,128 @@
+{
+  "slug": "2020-chevrolet-colorado",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHEVROLET/COLORADO#complaints",
+  "generatedAt": "2026-06-23T06:14:31.407Z",
+  "total": 79,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 32,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE IS EXPERIENCING A SHAKE AND/OR SHUDDER DURING LIGHT THROTTLE ACCELERATION BETWEEN 25 AND 80 MPH STEADY STATE DRIVING WHEN TRANSMISSION IS NOT ACTIVELY SHIFTING GEARS. THE CONDITION IS AS IF I WERE DRIVING OVER RUMBLE STRIPS. TSB 18-NA-355 ADDRESSES THIS ISSUE IN 2017 ",
+      "pct": 41
+    },
+    {
+      "component": "ENGINE",
+      "count": 14,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY NEW CHEVY COLORADO TRUCK (10000 MILES) HAS EXPERIENCED VIBRATION ISSUED BETWEEN 30-60 MPH.  TYPICALLY IT HAPPENS WHEN IN CRUISE CONTROL BETWEEN 50-60 MPH AND I TRANSITION FROM GOING DOWNHILL TO UPHILL AND THE ENGINE IS STARTING TO RE-ENGAGE AND ACCELERATE TO MAINTAIN SPEED.  I",
+      "pct": 18
+    },
+    {
+      "component": "STEERING",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "MY 2020 COLORADO HAS A SLOSHING SOUND COMING FROM PASSENGERS FRONT GOING TOWARDS BACK WHEN ACCELERATING. ALSO THE TRUCK HAS BEEN GOING OUT OF ALIGNMENT SINCE THE DAY I GOT IT. DEALER CLAIMS 'REAR THRUST ANGLE NOT ALIGNED FROM FACTORY' EVERY MONTH I HAVE BEEN BACK TO GET IT REALIG",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 8,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2020 CHEVROLET COLORADO. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 65 MPH, THE WARNING \"FAILED SEAT BELT\" SUDDENLY DISPLAYED AND WHEN PRESSING THE BRAKE PEDAL THE VEHICLE WOULD NOT STOP AND SMOKE WAS PRESENT IN THE CABIN OF THE VEHICLE. AFTER CO",
+      "pct": 10
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "It's occurred twice and I recorded it the second time. The infotainment display goes to a green multicolored pixelated screen and doesn't allow me to see what is behind me. If I can't see like I'm supposed to with the reverse camera technology, would this not be a safety concern ",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Chevrolet Colorado: power train tops owner complaints",
+    "summary": "Across 79 owner complaints to NHTSA, power train problems lead by a wide margin at 32 reports (41%), more than double any other area. Engine (14, 18%), steering (9, 11%), service brakes (8, 10%), and electrical system (6, 8%) follow. None of these reports involved a crash and there were no deaths, but service brakes account for 2 fires and 3 injuries, and engine and electrical each include 1 fire.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 32,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE IS EXPERIENCING A SHAKE AND/OR SHUDDER DURING LIGHT THROTTLE ACCELERATION BETWEEN 25 AND 80 MPH STEADY STATE DRIVING WHEN TRANSMISSION IS NOT ACTIVELY SHIFTING GEARS. THE CONDITION IS AS IF I WERE DRIVING OVER RUMBLE STRIPS. TSB 18-NA-355 ADDRESSES THIS ISSUE IN 2017 ",
+        "pct": 41,
+        "title": "Power Train",
+        "blurb": "Most-reported area by far: 32 complaints (41%), with no crashes, fires, or injuries. Owners describe a shake or shudder during light acceleration at steady highway speeds."
+      },
+      {
+        "component": "ENGINE",
+        "count": 14,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY NEW CHEVY COLORADO TRUCK (10000 MILES) HAS EXPERIENCED VIBRATION ISSUED BETWEEN 30-60 MPH.  TYPICALLY IT HAPPENS WHEN IN CRUISE CONTROL BETWEEN 50-60 MPH AND I TRANSITION FROM GOING DOWNHILL TO UPHILL AND THE ENGINE IS STARTING TO RE-ENGAGE AND ACCELERATE TO MAINTAIN SPEED.  I",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "14 complaints (18%), including 1 fire and 1 injury. Owners report engine vibration when accelerating, often noticed with cruise control on."
+      },
+      {
+        "component": "STEERING",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "MY 2020 COLORADO HAS A SLOSHING SOUND COMING FROM PASSENGERS FRONT GOING TOWARDS BACK WHEN ACCELERATING. ALSO THE TRUCK HAS BEEN GOING OUT OF ALIGNMENT SINCE THE DAY I GOT IT. DEALER CLAIMS 'REAR THRUST ANGLE NOT ALIGNED FROM FACTORY' EVERY MONTH I HAVE BEEN BACK TO GET IT REALIG",
+        "pct": 11,
+        "title": "Steering",
+        "blurb": "9 complaints (11%), with 1 injury and no crashes or fires. Owners report the truck drifting out of alignment and odd sounds when accelerating."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 8,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2020 CHEVROLET COLORADO. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 65 MPH, THE WARNING \"FAILED SEAT BELT\" SUDDENLY DISPLAYED AND WHEN PRESSING THE BRAKE PEDAL THE VEHICLE WOULD NOT STOP AND SMOKE WAS PRESENT IN THE CABIN OF THE VEHICLE. AFTER CO",
+        "pct": 10,
+        "title": "Service Brakes",
+        "blurb": "8 complaints (10%) but the most severe area here: 2 fires and 3 injuries, the highest of any category. One owner reports the brakes failing to stop the vehicle with smoke in the cabin."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "It's occurred twice and I recorded it the second time. The infotainment display goes to a green multicolored pixelated screen and doesn't allow me to see what is behind me. If I can't see like I'm supposed to with the reverse camera technology, would this not be a safety concern ",
+        "pct": 8,
+        "title": "Electrical System",
+        "blurb": "6 complaints (8%), including 1 fire. Owners report the infotainment display glitching out, which can block the backup camera view."
+      }
+    ]
+  }
+}

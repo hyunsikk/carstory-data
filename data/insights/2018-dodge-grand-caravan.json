@@ -1,0 +1,128 @@
+{
+  "slug": "2018-dodge-grand-caravan",
+  "make": "Dodge",
+  "model": "Grand Caravan",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/DODGE/GRAND%20CARAVAN#complaints",
+  "generatedAt": "2026-06-23T06:33:39.374Z",
+  "total": 262,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 90,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2018 DODGE GRAND CARAVAN. WHILE THE PASSENGER SIDE SLIDING DOOR WAS BEING CLOSED FROM INSIDE THE VEHICLE, THE CONTACT'S SON'S HAND WAS CRUSHED FROM STOPPING TO CLOSE THE DOOR. THE CONTACT MENTIONED THAT THE DOOR SENSOR FAILED TO DETECT HIS SON BETWEEN THE",
+      "pct": 34
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 57,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 1,
+      "sample": "TL* THE CONTACT RENTED A 2018 DODGE GRAND CARAVAN. WHILE THE PASSENGER SIDE SLIDING DOOR WAS BEING CLOSED FROM INSIDE THE VEHICLE, THE CONTACT'S SON'S HAND WAS CRUSHED FROM STOPPING TO CLOSE THE DOOR. THE CONTACT MENTIONED THAT THE DOOR SENSOR FAILED TO DETECT HIS SON BETWEEN THE",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 34,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "VEHICLE IS STOPPING VERY SLOW. ALSO IS JERKING WHEN GOING FROM IDLE TO PULL OFF.  BREAKS REQUIRE ADDITIONAL STOPPING ROOM. THESE ISSUES BEGAN IMMEDIATELY AFTER PURCHASE IN SEPTEMBER 2019. I HAVE SEEN SEVERAL ONLINE COMPLAINTS FOR THIS SAME VEHICLE. THERE ARE RECALLS ON SIMILAR VE",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ENGINE STALLS WITHOUT WARNING WHEN GAS GAUGE GETS TO 1/4 OF TANK.  IT HAS HAPPENED WHEN GOING 70 MPH ON HIGHWAY, IN STOP AND GO TRAFFIC ON HIGHWAY, GOING SLOW SPEEDS ON A RESIDENTIAL STREET, OR AT A STOP SIGN.  LOOSE POWER STEERING AND POWER BRAKES.  HAVE TO COME TO COMPLETE STOP",
+      "pct": 8
+    },
+    {
+      "component": "LATCHES/LOCKS/LINKAGES",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2018 Dodge Grand Caravan. The contact stated that the driver's side sliding door locking mechanism had malfunctioned and the door was stuck in the locked position. The door was unable to be opened from inside or outside the vehicle. The cause of the failure was",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Dodge Grand Caravan: electrical system tops owner complaints",
+    "summary": "Across 262 owner complaints to NHTSA, the electrical system is the most-reported area at 90 reports (34%), followed by structure at 57 reports (22%). Most complaints did not involve a crash, injury, or fire. No fires were reported in any category. The electrical system has 1 crash and 1 injury, and the structure category has the only reported death in this data, along with 1 crash.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 90,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2018 DODGE GRAND CARAVAN. WHILE THE PASSENGER SIDE SLIDING DOOR WAS BEING CLOSED FROM INSIDE THE VEHICLE, THE CONTACT'S SON'S HAND WAS CRUSHED FROM STOPPING TO CLOSE THE DOOR. THE CONTACT MENTIONED THAT THE DOOR SENSOR FAILED TO DETECT HIS SON BETWEEN THE",
+        "pct": 34,
+        "title": "Electrical System",
+        "blurb": "Most-reported area: 90 complaints (34%), with no fires reported. This category includes 1 crash and 1 injury. One report describes a sliding-door sensor that failed to detect a child, crushing his hand as the door closed."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 57,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 1,
+        "sample": "TL* THE CONTACT RENTED A 2018 DODGE GRAND CARAVAN. WHILE THE PASSENGER SIDE SLIDING DOOR WAS BEING CLOSED FROM INSIDE THE VEHICLE, THE CONTACT'S SON'S HAND WAS CRUSHED FROM STOPPING TO CLOSE THE DOOR. THE CONTACT MENTIONED THAT THE DOOR SENSOR FAILED TO DETECT HIS SON BETWEEN THE",
+        "pct": 22,
+        "title": "Structure",
+        "blurb": "57 complaints (22%), with no fires reported. This is the only category with a reported death (1), and it also includes 1 crash."
+      },
+      {
+        "component": "ENGINE",
+        "count": 34,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "VEHICLE IS STOPPING VERY SLOW. ALSO IS JERKING WHEN GOING FROM IDLE TO PULL OFF.  BREAKS REQUIRE ADDITIONAL STOPPING ROOM. THESE ISSUES BEGAN IMMEDIATELY AFTER PURCHASE IN SEPTEMBER 2019. I HAVE SEEN SEVERAL ONLINE COMPLAINTS FOR THIS SAME VEHICLE. THERE ARE RECALLS ON SIMILAR VE",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "34 complaints (13%), with no crashes, fires, or injuries reported. One owner describes the van jerking when pulling away from a stop and needing extra room to stop."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ENGINE STALLS WITHOUT WARNING WHEN GAS GAUGE GETS TO 1/4 OF TANK.  IT HAS HAPPENED WHEN GOING 70 MPH ON HIGHWAY, IN STOP AND GO TRAFFIC ON HIGHWAY, GOING SLOW SPEEDS ON A RESIDENTIAL STREET, OR AT A STOP SIGN.  LOOSE POWER STEERING AND POWER BRAKES.  HAVE TO COME TO COMPLETE STOP",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "22 complaints (8%), with no crashes, fires, or injuries reported. One owner describes the engine stalling without warning at a range of speeds, with the steering and brakes going loose."
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2018 Dodge Grand Caravan. The contact stated that the driver's side sliding door locking mechanism had malfunctioned and the door was stuck in the locked position. The door was unable to be opened from inside or outside the vehicle. The cause of the failure was",
+        "pct": 5,
+        "title": "Latches/Locks/Linkages",
+        "blurb": "14 complaints (5%), with no crashes, fires, or injuries reported. One owner describes the sliding-door lock jamming with the door stuck shut and unable to open from inside or outside."
+      }
+    ]
+  }
+}

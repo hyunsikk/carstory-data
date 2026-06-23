@@ -1,0 +1,128 @@
+{
+  "slug": "2020-subaru-outback",
+  "make": "Subaru",
+  "model": "Outback",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/SUBARU/OUTBACK#complaints",
+  "generatedAt": "2026-06-23T06:20:28.913Z",
+  "total": 889,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 313,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. THE CONTACT STATED THAT THE WINDSHIELD FORMED AN 8'' CRACK ON THE OUTSIDE STARTING FROM THE EDGE OF THE PASSENGER SIDE. DIABLO SUBARU OF WALNUT CREEK (2646 N MAIN ST, WALNUT CREEK, CA 94597) INFORMED THE CONTACT TO BRING THE VEHICLE IN ",
+      "pct": 35
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 257,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. WHILE THE VEHICLE WAS AT AN INTERSECTION, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL; HOWEVER, THE ELECTRONIC EMERGENCY BRAKE ENGAGED WITHOUT WARNING. AS A RESULT, THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS D",
+      "pct": 29
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 70,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. THE CONTACT STATED THAT AFTER TURNING ON THE VEHICLE INSIDE THE GARAGE, THE CONTACT BECAME AWARE OF A FRACTURE ON THE LOWER PASSENGER'S SIDE OF THE WINDSHIELD BELOW THE WIPER BLADE. THE VEHICLE WAS TAKEN TO CASTLE SUBARU (6100 US HWY 6,",
+      "pct": 8
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 49,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE WINDSHIELD CRACKED WITHOUT A REASON WHILE I WAS DRIVING. THE CRACK STARTS AT THE TOP, APPROXIMATELY AT THE CENTER.  IT STARTED TO EXPAND DOWN AND IN A FEW HOURS HAS REACHED HALF OF THE HEIGHT. I CHECKED WITH FEW REPAIR SHOPS AND THE VERDICT IS THE WINDSHIELD NEEDS A REPLACEME",
+      "pct": 6
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 45,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE CAR HAS A FAULTY ELECTRONIC SYSTEM THAT CONTROLS THE STABILITY AND THE ADAPTIVE CRUISE CONTROL. TRANSMISSION ALSO NEEDS REPLACEMENT. PROBLEMS HAPPEN AT HIGH SPEED ON FREEWAYS. DOCUMENTED THE PROBLEM WITH VARIOUS YOUTUBE FOOTAGE AS FOLLOWS:    HTTPS://WWW.YOUTUBE.COM/WATCH?V=O",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Subaru Outback: windshield and wiper complaints lead by far",
+    "summary": "Owners filed 889 complaints with NHTSA. Visibility/Wiper is the most reported area at 35%, followed by the electrical system (29%). No fires, injuries, or deaths are reported in any area. Crashes are reported across a few areas, most in forward collision avoidance (4) and the electrical system (3).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 313,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. THE CONTACT STATED THAT THE WINDSHIELD FORMED AN 8'' CRACK ON THE OUTSIDE STARTING FROM THE EDGE OF THE PASSENGER SIDE. DIABLO SUBARU OF WALNUT CREEK (2646 N MAIN ST, WALNUT CREEK, CA 94597) INFORMED THE CONTACT TO BRING THE VEHICLE IN ",
+        "pct": 35,
+        "title": "Visibility/Wiper",
+        "blurb": "The single biggest complaint: 313 reports (35%), with no crashes, fires, or injuries reported. Inspect the windshield closely for cracks."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 257,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. WHILE THE VEHICLE WAS AT AN INTERSECTION, THE CONTACT DEPRESSED THE ACCELERATOR PEDAL; HOWEVER, THE ELECTRONIC EMERGENCY BRAKE ENGAGED WITHOUT WARNING. AS A RESULT, THE CONTACT'S VEHICLE WAS REAR ENDED BY ANOTHER VEHICLE. THE AIR BAGS D",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 257 reports (29%), tied to 3 crashes. No fires or injuries reported."
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 70,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 SUBARU OUTBACK. THE CONTACT STATED THAT AFTER TURNING ON THE VEHICLE INSIDE THE GARAGE, THE CONTACT BECAME AWARE OF A FRACTURE ON THE LOWER PASSENGER'S SIDE OF THE WINDSHIELD BELOW THE WIPER BLADE. THE VEHICLE WAS TAKEN TO CASTLE SUBARU (6100 US HWY 6,",
+        "pct": 8,
+        "title": "Visibility",
+        "blurb": "70 reports (8%), tied to 1 crash. No fires or injuries reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 49,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE WINDSHIELD CRACKED WITHOUT A REASON WHILE I WAS DRIVING. THE CRACK STARTS AT THE TOP, APPROXIMATELY AT THE CENTER.  IT STARTED TO EXPAND DOWN AND IN A FEW HOURS HAS REACHED HALF OF THE HEIGHT. I CHECKED WITH FEW REPAIR SHOPS AND THE VERDICT IS THE WINDSHIELD NEEDS A REPLACEME",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "49 reports (6%) but the most crashes of any area at 4. No fires or injuries reported. Worth checking on a test drive."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 45,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE CAR HAS A FAULTY ELECTRONIC SYSTEM THAT CONTROLS THE STABILITY AND THE ADAPTIVE CRUISE CONTROL. TRANSMISSION ALSO NEEDS REPLACEMENT. PROBLEMS HAPPEN AT HIGH SPEED ON FREEWAYS. DOCUMENTED THE PROBLEM WITH VARIOUS YOUTUBE FOOTAGE AS FOLLOWS:    HTTPS://WWW.YOUTUBE.COM/WATCH?V=O",
+        "pct": 5,
+        "title": "Power Train",
+        "blurb": "45 reports (5%), tied to 2 crashes. No fires or injuries reported."
+      }
+    ]
+  }
+}

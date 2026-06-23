@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-renegade",
+  "make": "Jeep",
+  "model": "Renegade",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/RENEGADE#complaints",
+  "generatedAt": "2026-06-23T06:19:54.069Z",
+  "total": 23,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Jeep Renegade. The contact stated that while her daughter was driving in traffic, several warning lights appeared on the instrument panel as the vehicle stalled. The contact's daughter called the police who assisted her daughter with moving the vehicle off",
+      "pct": 48
+    },
+    {
+      "component": "ENGINE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "First, this vehicle is burning 1 quart of oil every 750 miles. Being unaware, when driving, engine shudder and tried to fail, making me unable to accelerate through an intersection. When trying to accelerate, the vehicles RPMs extend above 4 if I don’t accelerate at an extremely ",
+      "pct": 35
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Jeep Renegade Issues:  First NO WARNINGS Signs of Any Kind were shown at time of both issues, 1st under hard acceleration or deceleration and sometimes while in turns under acceleration & deceleration you get a Large Bang from underneath the vehicle and it’s not only the sound bu",
+      "pct": 26
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased the vehicle at 15 miles and about 2 months after purchase while driving, the front collision warning light came on and there was no reason why the light came on. I took it to the draler and was told it will take some time to find out the problems, needed to leave my c",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "First, this vehicle is burning 1 quart of oil every 750 miles. Being unaware, when driving, engine shudder and tried to fail, making me unable to accelerate through an intersection. When trying to accelerate, the vehicles RPMs extend above 4 if I don’t accelerate at an extremely ",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Jeep Renegade: electrical system tops the owner complaints",
+    "summary": "Owners filed 23 complaints with NHTSA. The electrical system is the most reported area at 48%, followed by the engine (35%) and the power train (26%). No crashes, fires, injuries, or deaths are reported across any area.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Jeep Renegade. The contact stated that while her daughter was driving in traffic, several warning lights appeared on the instrument panel as the vehicle stalled. The contact's daughter called the police who assisted her daughter with moving the vehicle off",
+        "pct": 48,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 11 reports (48%). No crashes, fires, or injuries reported. Watch for warning lights appearing on the dashboard."
+      },
+      {
+        "component": "ENGINE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "First, this vehicle is burning 1 quart of oil every 750 miles. Being unaware, when driving, engine shudder and tried to fail, making me unable to accelerate through an intersection. When trying to accelerate, the vehicles RPMs extend above 4 if I don’t accelerate at an extremely ",
+        "pct": 35,
+        "title": "Engine",
+        "blurb": "Second most reported: 8 reports (35%). No crashes, fires, or injuries reported. Watch for engine shudder or trouble accelerating."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Jeep Renegade Issues:  First NO WARNINGS Signs of Any Kind were shown at time of both issues, 1st under hard acceleration or deceleration and sometimes while in turns under acceleration & deceleration you get a Large Bang from underneath the vehicle and it’s not only the sound bu",
+        "pct": 26,
+        "title": "Power Train",
+        "blurb": "6 reports (26%). No crashes, fires, or injuries reported. Listen for a loud bang from underneath during acceleration or deceleration."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased the vehicle at 15 miles and about 2 months after purchase while driving, the front collision warning light came on and there was no reason why the light came on. I took it to the draler and was told it will take some time to find out the problems, needed to leave my c",
+        "pct": 17,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (17%). No crashes, fires, or injuries reported. Watch for the front collision warning light coming on with no apparent cause."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "First, this vehicle is burning 1 quart of oil every 750 miles. Being unaware, when driving, engine shudder and tried to fail, making me unable to accelerate through an intersection. When trying to accelerate, the vehicles RPMs extend above 4 if I don’t accelerate at an extremely ",
+        "pct": 13,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The fewest reports: 3 (13%). No crashes, fires, or injuries reported. A smaller complaint area tied to fuel and power delivery."
+      }
+    ]
+  }
+}

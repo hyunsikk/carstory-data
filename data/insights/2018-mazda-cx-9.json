@@ -1,0 +1,128 @@
+{
+  "slug": "2018-mazda-cx-9",
+  "make": "Mazda",
+  "model": "CX-9",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/MAZDA/CX-9#complaints",
+  "generatedAt": "2026-06-23T06:27:50.870Z",
+  "total": 124,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 72,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS WAITING IN A STATIONARY POSITION, AT A RED LIGHT, BEHIND SOME OTHER VEHICLES, WITH MY FOOT ON THE BRAKE PEDAL. ALL OF A SUDDEN, THE VEHICLE STARTED TO LURCH FORWARD AS IF  SOMEONE HAD STEPPED HARD ON THE GAS PEDAL! I WAS STRUGGLING TO KEEP THE CAR STILL BY DEPRESSING THE BR",
+      "pct": 58
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS VEHICLE IS HAS BEEN ON LEASE FOR 1 YEAR AND HAS LESS THAN 4000 MILES ON IT. INITIALLY WHILE ATTEMPTING TO START THE VEHICLE THAT HAD BEEN PARKED OVERNIGHT IT GAVE THE FOLLOWING WARNINGS:    - KEYLESS ENTRY MALFUNCTION  - CHARGING SYSTEM MALFUNCTION  - VEHICLE OVERHEATING  - ",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "the cars engine makes loud rattling noise and slips gear. the vecicle jerks hard and feels as if transmission is slipping. car hesitates when i shift into gear, followed by a jerking and jolting into gear. my brakes are replaced frequently. mazda at 65643 miles on car found exces",
+      "pct": 10
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I  WAS PULLING INTO A PARKING SPOT IN THE UPPER PARKING LOT AT WORK. I STEPPED ON THE BRAKE PEDAL SO THAT I COULD STOP AND PARK BUT THE PEDAL WAS HARD AND HAD NO GIVE. THE CAR CONTINUED TO ROLL FORWARD OVER A CURB AND PARTLY DOWN A SMALL SET OF STAIRS THAT GO FROM THE UPPER PARKI",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON FRIDAY (JUNE 29TH, 2018) AROUND 9:29 PM, MY CAR BROKE DOWN WHILE MY FAMILY AND I WERE TRAVELING FROM ROCHESTER NY TO BOSTON MASSACHUSETTS. I WAS DRIVING DOWN THE MASSACHUSETTS TURNPIKE WHEN ALL OF A SUDDEN MY CHECK ENGINE LIGHT TURNED ON AND MY CAR JUST STARTED TO SLOW DOWN IN",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Mazda CX-9: engine complaints dominate owner reports",
+    "summary": "Across 124 owner complaints to NHTSA, engine problems lead by a wide margin at 72 reports (58%), with owners describing the car suddenly lurching forward on its own. The remaining reports are spread across the electrical system (15, 12%), power train (13, 10%), service brakes (11, 9%), and fuel/propulsion system (5, 4%). Most categories report no crashes, fires, or injuries; the exceptions are 1 fire tied to the electrical system and 2 crashes plus 1 injury tied to the brakes.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 72,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS WAITING IN A STATIONARY POSITION, AT A RED LIGHT, BEHIND SOME OTHER VEHICLES, WITH MY FOOT ON THE BRAKE PEDAL. ALL OF A SUDDEN, THE VEHICLE STARTED TO LURCH FORWARD AS IF  SOMEONE HAD STEPPED HARD ON THE GAS PEDAL! I WAS STRUGGLING TO KEEP THE CAR STILL BY DEPRESSING THE BR",
+        "pct": 58,
+        "title": "Engine",
+        "blurb": "By far the most-reported area: 72 complaints (58%), with no crashes, fires, or injuries reported. Owners describe the vehicle suddenly lurching forward as if the gas pedal had been pressed."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS VEHICLE IS HAS BEEN ON LEASE FOR 1 YEAR AND HAS LESS THAN 4000 MILES ON IT. INITIALLY WHILE ATTEMPTING TO START THE VEHICLE THAT HAD BEEN PARKED OVERNIGHT IT GAVE THE FOLLOWING WARNINGS:    - KEYLESS ENTRY MALFUNCTION  - CHARGING SYSTEM MALFUNCTION  - VEHICLE OVERHEATING  - ",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "15 complaints (12%), including 1 fire. Owners report clusters of warning messages on startup, such as keyless entry, charging system, and overheating malfunctions."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "the cars engine makes loud rattling noise and slips gear. the vecicle jerks hard and feels as if transmission is slipping. car hesitates when i shift into gear, followed by a jerking and jolting into gear. my brakes are replaced frequently. mazda at 65643 miles on car found exces",
+        "pct": 10,
+        "title": "Power Train",
+        "blurb": "13 complaints (10%), with no crashes, fires, or injuries reported. Owners describe a loud rattling noise, slipping gears, and hard jerking when shifting."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I  WAS PULLING INTO A PARKING SPOT IN THE UPPER PARKING LOT AT WORK. I STEPPED ON THE BRAKE PEDAL SO THAT I COULD STOP AND PARK BUT THE PEDAL WAS HARD AND HAD NO GIVE. THE CAR CONTINUED TO ROLL FORWARD OVER A CURB AND PARTLY DOWN A SMALL SET OF STAIRS THAT GO FROM THE UPPER PARKI",
+        "pct": 9,
+        "title": "Service Brakes",
+        "blurb": "11 complaints (9%) but the biggest safety risk here: 2 involved a crash and 1 an injury. Owners report a hard brake pedal with no give and the car failing to stop."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON FRIDAY (JUNE 29TH, 2018) AROUND 9:29 PM, MY CAR BROKE DOWN WHILE MY FAMILY AND I WERE TRAVELING FROM ROCHESTER NY TO BOSTON MASSACHUSETTS. I WAS DRIVING DOWN THE MASSACHUSETTS TURNPIKE WHEN ALL OF A SUDDEN MY CHECK ENGINE LIGHT TURNED ON AND MY CAR JUST STARTED TO SLOW DOWN IN",
+        "pct": 4,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Fewest reports: 5 complaints (4%), with no crashes, fires, or injuries. Owners describe the check engine light coming on and the car slowing down or breaking down while driving."
+      }
+    ]
+  }
+}

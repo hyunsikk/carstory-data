@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-sportage",
+  "make": "Kia",
+  "model": "Sportage",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/SPORTAGE#complaints",
+  "generatedAt": "2026-06-23T06:25:38.069Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Sportage. The contact stated while the vehicle was parked, the vehicle caught on fire without warning. The side of the contact's home also caught on fire. The vehicle was not diagnosed. The fire department was able to extinguish the fire. A fire report",
+      "pct": 45
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Sportage LX. The contact stated while driving approximately 35 MPH to get onto the highway, the contact accelerated; however, the driver in front of her stopped abruptly. The contact crashed into the rear end of the driver in front. The forward collisi",
+      "pct": 12
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The component on the Kia 2022 Sportage LX called the Forward Collision Warning failed to come on during an accident. This car is available for inspection upon request. My safety and the driver in the car in front of me were put at risk. We were both wearing our seat belts and did",
+      "pct": 12
+    },
+    {
+      "component": "TRAILER HITCHES",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Was traveling northbound on I5 between Lacey and Dupont, Washington. Vehicle was in cruise at 65, then it suddenly went into limp mode. I was in the furthest right lane possible on the highway, and RPMs drastically dropped to below 1,000. I was able to get the vehicle pulled over",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Kia Sportage: the engine draws the most owner complaints",
+    "summary": "Owners filed 42 complaints with NHTSA. The engine is by far the most reported area at 45%, well ahead of the electrical system and forward collision avoidance (12% each). Two engine reports involve a fire, and the electrical system and forward collision avoidance areas are each tied to 2 crashes. No injuries or deaths are reported.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Sportage. The contact stated while the vehicle was parked, the vehicle caught on fire without warning. The side of the contact's home also caught on fire. The vehicle was not diagnosed. The fire department was able to extinguish the fire. A fire report",
+        "pct": 45,
+        "title": "Engine",
+        "blurb": "The single biggest complaint: 19 reports (45%), including 2 with fire. No crashes or injuries reported, but the fire count makes this worth a careful look."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Sportage LX. The contact stated while driving approximately 35 MPH to get onto the highway, the contact accelerated; however, the driver in front of her stopped abruptly. The contact crashed into the rear end of the driver in front. The forward collisi",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "5 reports (12%), tied to 2 crashes. No injuries reported in this area."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The component on the Kia 2022 Sportage LX called the Forward Collision Warning failed to come on during an accident. This car is available for inspection upon request. My safety and the driver in the car in front of me were put at risk. We were both wearing our seat belts and did",
+        "pct": 12,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (12%), tied to 2 crashes. Owners describe the collision warning not activating when expected."
+      },
+      {
+        "component": "TRAILER HITCHES",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Sportage. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the",
+        "pct": 10,
+        "title": "Trailer Hitches",
+        "blurb": "4 reports (10%), with no crashes, fires, or injuries. Several reference a trailer hitch recall."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Was traveling northbound on I5 between Lacey and Dupont, Washington. Vehicle was in cruise at 65, then it suddenly went into limp mode. I was in the furthest right lane possible on the highway, and RPMs drastically dropped to below 1,000. I was able to get the vehicle pulled over",
+        "pct": 7,
+        "title": "Power Train",
+        "blurb": "The smallest area here: 3 reports (7%), with no crashes, fires, or injuries. Owners describe sudden loss of power while driving."
+      }
+    ]
+  }
+}

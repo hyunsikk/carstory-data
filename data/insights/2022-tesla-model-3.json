@@ -1,0 +1,128 @@
+{
+  "slug": "2022-tesla-model-3",
+  "make": "Tesla",
+  "model": "Model 3",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TESLA/MODEL%203#complaints",
+  "generatedAt": "2026-06-23T06:33:56.718Z",
+  "total": 742,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 523,
+      "crash": 14,
+      "fire": 0,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "Forward collision avoidance system triggered 4 separate times in a 70 minute/60 mile drive on a stretch of highway and rural roads. The highway consists of 40 miles of divided and undivided highway, with up to 2 lanes per side. Occasionally, the undivided section has center turni",
+      "pct": 70
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 167,
+      "crash": 12,
+      "fire": 0,
+      "injuries": 11,
+      "deaths": 0,
+      "sample": "**Im well aware that Tesla's AutoPilot system is not autonomous**  There is no 'dumb' cruise control option on Tesla Vehicles, only Traffic-aware-cruise-control (TACC).   TACC is unusable, and quite frankly dangerous, on any single-lane divided road. Anytime a large vehicle, such",
+      "pct": 23
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 167,
+      "crash": 14,
+      "fire": 0,
+      "injuries": 12,
+      "deaths": 0,
+      "sample": "On at least five occasions since purchasing this car new on 12/07/21, the car, while on Autopilot (non-FSD), has suddenly and unexpectedly braked on clear roads. On each occasion, there were no vehicles in front of me nor any objects visible on or near the roadway. On two occasio",
+      "pct": 23
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 53,
+      "crash": 6,
+      "fire": 3,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "I was driving on a two lane road using auto pilot. I was going 55mph when all of a sudden my car slammed on the brakes down to 32mph as a school bus approached us. There was no reason to brake. The school bus never entered my lane. If a car had been following me closely I would h",
+      "pct": 7
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 43,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Forward collision avoidance system triggered 4 separate times in a 70 minute/60 mile drive on a stretch of highway and rural roads. The highway consists of 40 miles of divided and undivided highway, with up to 2 lanes per side. Occasionally, the undivided section has center turni",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Tesla Model 3: driver-assist complaints dominate",
+    "summary": "Owners filed 742 complaints with NHTSA. Forward collision avoidance is by far the most reported area at 70%, well ahead of vehicle speed control and service brakes (both 23%). No deaths are reported. Service brakes carry the most injuries (12) and are tied with forward collision avoidance for the most crashes (14), and the electrical system is the only area with reported fires (3), so both are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 523,
+        "crash": 14,
+        "fire": 0,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "Forward collision avoidance system triggered 4 separate times in a 70 minute/60 mile drive on a stretch of highway and rural roads. The highway consists of 40 miles of divided and undivided highway, with up to 2 lanes per side. Occasionally, the undivided section has center turni",
+        "pct": 70,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The dominant complaint by a wide margin: 523 reports (70%), linked to 14 crashes and 11 injuries. Pay attention to how the collision-avoidance system behaves during a test drive."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 167,
+        "crash": 12,
+        "fire": 0,
+        "injuries": 11,
+        "deaths": 0,
+        "sample": "**Im well aware that Tesla's AutoPilot system is not autonomous**  There is no 'dumb' cruise control option on Tesla Vehicles, only Traffic-aware-cruise-control (TACC).   TACC is unusable, and quite frankly dangerous, on any single-lane divided road. Anytime a large vehicle, such",
+        "pct": 23,
+        "title": "Vehicle Speed Control",
+        "blurb": "Second most reported: 167 reports (23%), tied to 12 crashes and 11 injuries. Test how the car holds and changes speed, especially with cruise control engaged."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 167,
+        "crash": 14,
+        "fire": 0,
+        "injuries": 12,
+        "deaths": 0,
+        "sample": "On at least five occasions since purchasing this car new on 12/07/21, the car, while on Autopilot (non-FSD), has suddenly and unexpectedly braked on clear roads. On each occasion, there were no vehicles in front of me nor any objects visible on or near the roadway. On two occasio",
+        "pct": 23,
+        "title": "Service Brakes",
+        "blurb": "167 reports (23%) and the most serious by outcome: 14 crashes and 12 injuries, the highest injury count of any area. Test the brakes thoroughly, including any unexpected braking."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 53,
+        "crash": 6,
+        "fire": 3,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "I was driving on a two lane road using auto pilot. I was going 55mph when all of a sudden my car slammed on the brakes down to 32mph as a school bus approached us. There was no reason to brake. The school bus never entered my lane. If a car had been following me closely I would h",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "53 reports (7%), and the only area with reported fires (3), plus 6 crashes and 6 injuries. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 43,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Forward collision avoidance system triggered 4 separate times in a 70 minute/60 mile drive on a stretch of highway and rural roads. The highway consists of 40 miles of divided and undivided highway, with up to 2 lanes per side. Occasionally, the undivided section has center turni",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "The smallest area at 43 reports (6%), but linked to 8 crashes and 1 injury. A less common but recurring complaint."
+      }
+    ]
+  }
+}

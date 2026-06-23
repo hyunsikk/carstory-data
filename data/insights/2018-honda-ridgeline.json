@@ -1,0 +1,128 @@
+{
+  "slug": "2018-honda-ridgeline",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/HONDA/RIDGELINE#complaints",
+  "generatedAt": "2026-06-23T06:09:24.808Z",
+  "total": 157,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 49,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 HONDA RIDGELINE. THE CONTACT STATED THAT THE SAFETY SYSTEM FEATURE THAT DETECTS SURROUNDING VEHICLES DID NOT FUNCTION. IN ADDITION, THE CONTACT STATED THAT THE BRAKES DID NOT ACTIVATE IN ORDER TO AVOID A CRASH WHEN THE VEHICLE WAS TOO CLOSE TO THE VEHI",
+      "pct": 31
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE TAILGATE WIRING HARNESS IS DAMAGED BY ROUTINE OPENING OF THE TAILGATE. THIS CAUSES THE WIRES TO BE SEVERED, CAUSING FAILURE OF THE BACKUP CAMERA AND OTHER ELECTRICAL SYSTEMS IN THE TAILGATE. THE WIRING HARNESS BY DESIGN IS NOT STRONG ENOUGH TO HANDLE THE OPENING AND CLOSING O",
+      "pct": 19
+    },
+    {
+      "component": "ENGINE",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My 2018 Honda Ridgeline began to make a loud knocking noise from the lower motor. I bought this vehicle last June with 47k miles on it. The vehicle has prompted me twice to change the oil. Both times I changes the oil myself within two days of the car warning stating I had 15% li",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WATER GETS IN FUEL FILLER CAP (OUTER HINGE) AND FREEZES.  ICE DAM IN THE FUEL FILLER AREA PREVENTS FUEL HINGE FROM BEING OPENED, WHICH PREVENTS VEHICLE FROM BEING FUELED.      VEHICLE WAS STATIONARY WHEN I DISCOVERED THE PROBLEM (PARKED NEXT TO THE FUEL PUMPS).  HAS HAPPENED ON T",
+      "pct": 11
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON 06/05/20, 15:37  I FUELED MY RIDGELINE AT RACEWAY # 6953 IN ALACHUA, FL 32616, PUMP 1. WHEN IT CAME TIME TO REMOVE THE FUEL PUMP NOZZLE FROM THE CAPLESS FILL SPOUT, IT WOULD NOT COME OUT! I TRIED FOR A FEW MINUTES TO NO AVAIL WHEN THE YOUNG GUY WHO WAS AT THE NEXT PUMP WAS OBS",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Honda Ridgeline: electrical issues lead the owner complaints",
+    "summary": "Owners filed 157 complaints with NHTSA. The electrical system is the most reported area at 31%, followed by back-over prevention (19%) and the engine (13%). The reports are mild by outcome: no fires, no injuries, and no deaths anywhere, with just a single crash tied to the electrical system. Many complaints center on electronics and fueling rather than safety failures.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 49,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 HONDA RIDGELINE. THE CONTACT STATED THAT THE SAFETY SYSTEM FEATURE THAT DETECTS SURROUNDING VEHICLES DID NOT FUNCTION. IN ADDITION, THE CONTACT STATED THAT THE BRAKES DID NOT ACTIVATE IN ORDER TO AVOID A CRASH WHEN THE VEHICLE WAS TOO CLOSE TO THE VEHI",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 49 reports (31%), with 1 crash and no fires or injuries. Worth checking the electronics on a test drive."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE TAILGATE WIRING HARNESS IS DAMAGED BY ROUTINE OPENING OF THE TAILGATE. THIS CAUSES THE WIRES TO BE SEVERED, CAUSING FAILURE OF THE BACKUP CAMERA AND OTHER ELECTRICAL SYSTEMS IN THE TAILGATE. THE WIRING HARNESS BY DESIGN IS NOT STRONG ENOUGH TO HANDLE THE OPENING AND CLOSING O",
+        "pct": 19,
+        "title": "Back Over Prevention",
+        "blurb": "Second most reported: 30 reports (19%), with no crashes, fires, or injuries. Several owners describe backup-camera failures."
+      },
+      {
+        "component": "ENGINE",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My 2018 Honda Ridgeline began to make a loud knocking noise from the lower motor. I bought this vehicle last June with 47k miles on it. The vehicle has prompted me twice to change the oil. Both times I changes the oil myself within two days of the car warning stating I had 15% li",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "21 reports (13%), with no crashes, fires, or injuries. Listen for any knocking noises from the engine."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WATER GETS IN FUEL FILLER CAP (OUTER HINGE) AND FREEZES.  ICE DAM IN THE FUEL FILLER AREA PREVENTS FUEL HINGE FROM BEING OPENED, WHICH PREVENTS VEHICLE FROM BEING FUELED.      VEHICLE WAS STATIONARY WHEN I DISCOVERED THE PROBLEM (PARKED NEXT TO THE FUEL PUMPS).  HAS HAPPENED ON T",
+        "pct": 11,
+        "title": "Fuel/Propulsion System",
+        "blurb": "17 reports (11%), with no crashes, fires, or injuries. Complaints often involve the fuel filler area."
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON 06/05/20, 15:37  I FUELED MY RIDGELINE AT RACEWAY # 6953 IN ALACHUA, FL 32616, PUMP 1. WHEN IT CAME TIME TO REMOVE THE FUEL PUMP NOZZLE FROM THE CAPLESS FILL SPOUT, IT WOULD NOT COME OUT! I TRIED FOR A FEW MINUTES TO NO AVAIL WHEN THE YOUNG GUY WHO WAS AT THE NEXT PUMP WAS OBS",
+        "pct": 8,
+        "title": "Fuel System",
+        "blurb": "The fewest reports here: 13 (8%), with no crashes, fires, or injuries. Several describe trouble at the fuel filler when refueling."
+      }
+    ]
+  }
+}

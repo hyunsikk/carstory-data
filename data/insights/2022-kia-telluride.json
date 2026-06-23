@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-telluride",
+  "make": "Kia",
+  "model": "Telluride",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/TELLURIDE#complaints",
+  "generatedAt": "2026-06-23T06:26:56.244Z",
+  "total": 303,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 72,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "12 hours after departing the dealership with my new car the windshield cracked.  I was driving on the freeway and a small pebble size object hit the windshield.  Immediately there was a crack and within hours it spread.  The object was very tiny.  The impact of the object was not",
+      "pct": 24
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 65,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The instrumentation screen in front of the drivers wheel goes out all black periodically on some startups.  With it black, cannot tell what MPH / Gear / distance to empty / drivers mode, and none of the advanced drivers assist features work.  One time it happened while on cruise ",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 26,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On July 20th, 2020 while driving our 2022 KIA Telluride at freeway speeds with A/C operating we noticed a change in humidity in the cabin.  Immediately looked at the engine temperature gauge and it appeared normal.  A few minutes later checked engine temperature again and once mo",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 23,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My new AWD 2022 Kia Telluride vibration/ humming at 65 mph and above from day 1. It’s been in service 5 times and they are not able to fix the problem. The dealership we bought it from didn’t even admit there is a problem so we had to take it to another dealership which actually ",
+      "pct": 8
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased 2022 Telluride Nightfall EX end of August and at the beginning of March and within about 6000 miles a small rock kicked up from a car caused a chip which spread to a large crack the next day.  Dealership would not replace due to chip that wasn’t even visible as it was i",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Kia Telluride: visibility and the windshield top the owner complaints",
+    "summary": "Owners filed 303 complaints with NHTSA. Visibility/Wiper is the most reported area at 24%, followed by the electrical system at 21% and the engine at 9%. No deaths are reported. The two visibility-related areas (31% combined) involve no crashes, fires, or injuries and center on cracking windshields, while the electrical, engine, and power train complaints are fewer but account for the handful of fires, crashes, and injuries on record.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 72,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "12 hours after departing the dealership with my new car the windshield cracked.  I was driving on the freeway and a small pebble size object hit the windshield.  Immediately there was a crack and within hours it spread.  The object was very tiny.  The impact of the object was not",
+        "pct": 24,
+        "title": "Visibility/Wiper",
+        "blurb": "The single biggest complaint: 72 reports (24%), with no crashes, fires, or injuries. Most describe windshields cracking from small impacts, often soon after purchase."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 65,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The instrumentation screen in front of the drivers wheel goes out all black periodically on some startups.  With it black, cannot tell what MPH / Gear / distance to empty / drivers mode, and none of the advanced drivers assist features work.  One time it happened while on cruise ",
+        "pct": 21,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 65 reports (21%), including 1 fire, 1 crash, and 1 injury. A common theme is the driver display going blank, which hides speed, gear, and driver-assist features."
+      },
+      {
+        "component": "ENGINE",
+        "count": 26,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On July 20th, 2020 while driving our 2022 KIA Telluride at freeway speeds with A/C operating we noticed a change in humidity in the cabin.  Immediately looked at the engine temperature gauge and it appeared normal.  A few minutes later checked engine temperature again and once mo",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "26 reports (9%), with 1 fire and 2 injuries. Watch for engine temperature and humidity changes in the cabin while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 23,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My new AWD 2022 Kia Telluride vibration/ humming at 65 mph and above from day 1. It’s been in service 5 times and they are not able to fix the problem. The dealership we bought it from didn’t even admit there is a problem so we had to take it to another dealership which actually ",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "23 reports (8%), linked to 2 crashes and 1 injury. Several describe vibration or humming at highway speeds that dealers struggled to fix."
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased 2022 Telluride Nightfall EX end of August and at the beginning of March and within about 6000 miles a small rock kicked up from a car caused a chip which spread to a large crack the next day.  Dealership would not replace due to chip that wasn’t even visible as it was i",
+        "pct": 7,
+        "title": "Visibility",
+        "blurb": "21 reports (7%), with no crashes, fires, or injuries. Like the top area, these center on small chips spreading into large windshield cracks."
+      }
+    ]
+  }
+}

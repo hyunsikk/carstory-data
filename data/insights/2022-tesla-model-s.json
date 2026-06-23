@@ -1,0 +1,128 @@
+{
+  "slug": "2022-tesla-model-s",
+  "make": "Tesla",
+  "model": "Model S",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TESLA/MODEL%20S#complaints",
+  "generatedAt": "2026-06-23T06:34:43.503Z",
+  "total": 131,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 33,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "During our first road trip with this auto, we traveled along I-76 and I-80 on clear days; after setting the \"traffic-aware cruise control\" (aka adaptive cruise control), the car would brake randomly and for no apparent reason (such as approaching a car ahead of us).  This happene",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My Tesla plaid arrived with a yoke steering wheel. The sales associate told me that it's easy to get used to, and that it works well. I have driven the car for a couple weeks now and it is clearly a safety hazard. First off, it is difficult to steer, especially if you need to get",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Tesla Model S. The contact stated that the shift bar became inoperable. The hazard warning activation switch was inoperable. The vehicle was taken to the local dealer where it was diagnosed that the control bar needed to be replaced. The vehicle was not re",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving with Traffic Aware Cruise Control engaged and set at 55 MPH the car did a hard break to an almost complete stop in the middle of the lane for no apparent reason. This occurred at least two times and both times there was no traffic in front of me. The road was a two ",
+      "pct": 8
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I have used the self driving feature of my 2022 Tesla Model S on several highway trips, most recently a round trip between Seattle and Palm Springs.  The following problems with the Tesla self driving feature were noted.  (My car has only the basic self driving feature, not the f",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Tesla Model S: forward collision avoidance leads the complaints",
+    "summary": "Owners filed 131 complaints with NHTSA. Forward collision avoidance is the most reported area at 25%, followed by steering (15%) and the electrical system (11%). No fires, injuries, or deaths are reported across any area, and only one complaint (in steering) involved a crash. The pattern points to driver-assist behavior rather than hardware failures.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 33,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "During our first road trip with this auto, we traveled along I-76 and I-80 on clear days; after setting the \"traffic-aware cruise control\" (aka adaptive cruise control), the car would brake randomly and for no apparent reason (such as approaching a car ahead of us).  This happene",
+        "pct": 25,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The single biggest complaint: 33 reports (25%), with no crashes, fires, or injuries. Test the cruise control on the road and watch for unexpected braking."
+      },
+      {
+        "component": "STEERING",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My Tesla plaid arrived with a yoke steering wheel. The sales associate told me that it's easy to get used to, and that it works well. I have driven the car for a couple weeks now and it is clearly a safety hazard. First off, it is difficult to steer, especially if you need to get",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "Second most reported: 20 reports (15%), including the only crash in the data. Try the steering yourself before buying."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Tesla Model S. The contact stated that the shift bar became inoperable. The hazard warning activation switch was inoperable. The vehicle was taken to the local dealer where it was diagnosed that the control bar needed to be replaced. The vehicle was not re",
+        "pct": 11,
+        "title": "Electrical System",
+        "blurb": "15 reports (11%), with no crashes, fires, or injuries. Check that controls and switches work reliably."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving with Traffic Aware Cruise Control engaged and set at 55 MPH the car did a hard break to an almost complete stop in the middle of the lane for no apparent reason. This occurred at least two times and both times there was no traffic in front of me. The road was a two ",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "11 reports (8%), with no crashes, fires, or injuries. Several mention hard braking with cruise control engaged."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I have used the self driving feature of my 2022 Tesla Model S on several highway trips, most recently a round trip between Seattle and Palm Springs.  The following problems with the Tesla self driving feature were noted.  (My car has only the basic self driving feature, not the f",
+        "pct": 7,
+        "title": "Vehicle Speed Control",
+        "blurb": "The smallest of the top areas: 9 reports (7%), with no crashes, fires, or injuries. Several relate to the self-driving feature on highways."
+      }
+    ]
+  }
+}

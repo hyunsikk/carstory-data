@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-tundra",
+  "make": "Toyota",
+  "model": "Tundra",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/TUNDRA#complaints",
+  "generatedAt": "2026-06-23T06:06:13.611Z",
+  "total": 413,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 155,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine V6 turbo wastegate is defective. The problem causes a Reduced Engine Power. Toyota and its dealership are trying to hide the problem from consumer. This vehicle is with Michaels Toyota of Bellevue in Washington. There are numerous YouTube buyer with the same problem. T",
+      "pct": 38
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 102,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The engine V6 turbo wastegate is defective. The problem causes a Reduced Engine Power. Toyota and its dealership are trying to hide the problem from consumer. This vehicle is with Michaels Toyota of Bellevue in Washington. There are numerous YouTube buyer with the same problem. T",
+      "pct": 25
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 73,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1.Jan 3 Power steering wheel low power error message  2.Jan 18 Truck stalled on freeway when hit hard brake Dealer can't duplicate issue just return the truck 3. Jan 31 Check Engine light was on Dealer said Fuel gate issue but didn't doesn't need to fix 4. Feb 2 all brakes LED we",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 36,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Tundra. The contact received notification of NHTSA Campaign Numbers: 23V566000 (Fuel System, Gasoline) and 24V381000 (Engine and Engine Cooling) however, the parts to do the recall repairs were not yet available. The local dealer was contacted. The ",
+      "pct": 9
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Automatic braking engaged with no vehicle or objects in front. I was starting to move after sitting at a red light, at approximately 20 MPH the vehicle engaged the automatic emergency brakes bringing the vehicle to a stop in traffic. I had to depress the brake pedal hard in order",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota Tundra: the engine dominates owner complaints",
+    "summary": "Owners filed 413 complaints with NHTSA. The engine is by far the most reported area at 38%, and powertrain-related reports pile on top of that (25%) along with the fuel/propulsion system (18%). No fires, injuries, or deaths are reported across the engine, powertrain, and fuel groups. The brakes draw the fewest complaints but carry the only injury (1) and a crash, so give them a careful look on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 155,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine V6 turbo wastegate is defective. The problem causes a Reduced Engine Power. Toyota and its dealership are trying to hide the problem from consumer. This vehicle is with Michaels Toyota of Bellevue in Washington. There are numerous YouTube buyer with the same problem. T",
+        "pct": 38,
+        "title": "Engine",
+        "blurb": "The single biggest complaint by a wide margin: 155 reports (38%). No crashes, fires, or injuries reported, but owners describe reduced engine power. Watch for power loss on a test drive."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 102,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The engine V6 turbo wastegate is defective. The problem causes a Reduced Engine Power. Toyota and its dealership are trying to hide the problem from consumer. This vehicle is with Michaels Toyota of Bellevue in Washington. There are numerous YouTube buyer with the same problem. T",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "Second most reported: 102 reports (25%), with 1 crash and no fires or injuries. Closely related to the engine complaints above."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 73,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1.Jan 3 Power steering wheel low power error message  2.Jan 18 Truck stalled on freeway when hit hard brake Dealer can't duplicate issue just return the truck 3. Jan 31 Check Engine light was on Dealer said Fuel gate issue but didn't doesn't need to fix 4. Feb 2 all brakes LED we",
+        "pct": 18,
+        "title": "Fuel/Propulsion System",
+        "blurb": "73 reports (18%), with no crashes, fires, or injuries. Owners mention stalling and check-engine warnings."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 36,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Tundra. The contact received notification of NHTSA Campaign Numbers: 23V566000 (Fuel System, Gasoline) and 24V381000 (Engine and Engine Cooling) however, the parts to do the recall repairs were not yet available. The local dealer was contacted. The ",
+        "pct": 9,
+        "title": "Engine And Engine Cooling",
+        "blurb": "36 reports (9%), with no crashes, fires, or injuries. Several reference NHTSA recall campaigns and parts availability."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Automatic braking engaged with no vehicle or objects in front. I was starting to move after sitting at a red light, at approximately 20 MPH the vehicle engaged the automatic emergency brakes bringing the vehicle to a stop in traffic. I had to depress the brake pedal hard in order",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "The fewest reports at 31 (8%) but the only injury in this list, plus 1 crash. Owners describe automatic braking activating with nothing ahead. Test the brakes thoroughly."
+      }
+    ]
+  }
+}

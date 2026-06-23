@@ -1,0 +1,128 @@
+{
+  "slug": "2018-dodge-durango",
+  "make": "Dodge",
+  "model": "Durango",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/DODGE/DURANGO#complaints",
+  "generatedAt": "2026-06-23T06:32:59.000Z",
+  "total": 226,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 86,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE ENTIRE 8.4\" SCREEN ON THE DASHBOARD FLASHES ON AND OFF CONTINUALLY WHETHER THE VEHICLE IS RUNNING OR NOT.  SEEMS LIKE THERE IS A MAJOR SHORT IN THE ELECTRICAL SYSTEM. WHILE THIS ISSUE IS HAPPENING YOU HAVE NO CONTROL OVER HEATING, VENTILATION, RADIO, NAVIGATION, APPS OR APPLE",
+      "pct": 38
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 54,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "SINCE APPROXIMATELY 4,000 MILES WE HAVE EXPERIENCE NUMEROUS ELECTRICAL ISSUES.  OUR BACK-UP CAMERA, NAVIGATION, RADIO, AND A/C WORK INTERMITTENTLY.  THE DEALER INITIALLY FELT THE BATTERY WAS BACKFEEDING THE SYSTEM CAUSING A SHORT. THAT WAS QUICKLY CHANGED AND WE ARE STILL JUST WA",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE 3 MAJOR ISSUES. 1 WHILE DRIVING THE ENTIRE CENTER CONSOLE ELECTRICAL SYSTEM HAS LOCKED COMPLETELY UP, TURNING THE AIR OFF AND NOT ALLOWING ANY CHANGE TO THE SYSTEM UNTIL THE VEHICLE IS PULLED OVER AND SHUT OFF, CONTINUING WITH ELECTRICAL 2X'S I'VE SHUT THE CAR OFF AND THE ",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 25,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WENT THROUGH CHEETAH CAR WASH WITH MY 2018 DODGE DURANGO AND UPON EXITING THE CAR WASH AND RECEIVING GREEN SIGNAL TO DRIVE I SHIFTED FROM \"N\" TO \"D\" AND STARTED SLOWLY DRIVING TOWARD THE VACUUM CLEANING AREA. AS I WAS SLOWLY PULLING INTO THE PARKING LOT, THE VEHICLE SUDDENLY AC",
+      "pct": 11
+    },
+    {
+      "component": "SEATS",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "DOGS IN VEHICLE IN FRONT PASSENGER SIDE AND REAR PASSENGER SIDE. DOG IN FRONT MAY HAVE COME IN CONTACT WITH SWITCH OR CONTROL BACK\\LOMBAR SEAT REST OPENED TO FOLD OPEN TO REAR ( SLEEP POSITION ) FRONT BACK REST TRAPPED AND CRUSHED DOG SLEEPING ON REAR PASSENGER SIDE, REQUIRED EME",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Dodge Durango: electrical and lighting issues lead owner complaints",
+    "summary": "Across 226 owner complaints to NHTSA, the electrical system is by far the most-reported area at 86 reports (38%), followed by exterior lighting at 54 reports (24%). Engine and service brakes are tied at 25 reports each (11%), and seats account for 20 reports (9%). Most complaints did not involve a crash or injury. The service brakes category has the most crashes (3) and 1 injury; seats also report 1 injury.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 86,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE ENTIRE 8.4\" SCREEN ON THE DASHBOARD FLASHES ON AND OFF CONTINUALLY WHETHER THE VEHICLE IS RUNNING OR NOT.  SEEMS LIKE THERE IS A MAJOR SHORT IN THE ELECTRICAL SYSTEM. WHILE THIS ISSUE IS HAPPENING YOU HAVE NO CONTROL OVER HEATING, VENTILATION, RADIO, NAVIGATION, APPS OR APPLE",
+        "pct": 38,
+        "title": "Electrical System",
+        "blurb": "Most-reported area: 86 complaints (38%), with 1 crash and no fires or injuries reported. Owners describe the dashboard touchscreen flashing on and off and losing control of climate, radio, and navigation."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 54,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "SINCE APPROXIMATELY 4,000 MILES WE HAVE EXPERIENCE NUMEROUS ELECTRICAL ISSUES.  OUR BACK-UP CAMERA, NAVIGATION, RADIO, AND A/C WORK INTERMITTENTLY.  THE DEALER INITIALLY FELT THE BATTERY WAS BACKFEEDING THE SYSTEM CAUSING A SHORT. THAT WAS QUICKLY CHANGED AND WE ARE STILL JUST WA",
+        "pct": 24,
+        "title": "Exterior Lighting",
+        "blurb": "54 complaints (24%), with no crashes, fires, or injuries reported. Owners describe intermittent electrical problems affecting the back-up camera, navigation, radio, and A/C."
+      },
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE 3 MAJOR ISSUES. 1 WHILE DRIVING THE ENTIRE CENTER CONSOLE ELECTRICAL SYSTEM HAS LOCKED COMPLETELY UP, TURNING THE AIR OFF AND NOT ALLOWING ANY CHANGE TO THE SYSTEM UNTIL THE VEHICLE IS PULLED OVER AND SHUT OFF, CONTINUING WITH ELECTRICAL 2X'S I'VE SHUT THE CAR OFF AND THE ",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "25 complaints (11%), with no crashes, fires, or injuries reported. Owners describe the center console controls locking up while driving until the vehicle is pulled over and shut off."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 25,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WENT THROUGH CHEETAH CAR WASH WITH MY 2018 DODGE DURANGO AND UPON EXITING THE CAR WASH AND RECEIVING GREEN SIGNAL TO DRIVE I SHIFTED FROM \"N\" TO \"D\" AND STARTED SLOWLY DRIVING TOWARD THE VACUUM CLEANING AREA. AS I WAS SLOWLY PULLING INTO THE PARKING LOT, THE VEHICLE SUDDENLY AC",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "25 complaints (11%), and the category with the most safety reports here: 3 crashes and 1 injury. One owner describes the vehicle suddenly accelerating while pulling slowly into a parking lot."
+      },
+      {
+        "component": "SEATS",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "DOGS IN VEHICLE IN FRONT PASSENGER SIDE AND REAR PASSENGER SIDE. DOG IN FRONT MAY HAVE COME IN CONTACT WITH SWITCH OR CONTROL BACK\\LOMBAR SEAT REST OPENED TO FOLD OPEN TO REAR ( SLEEP POSITION ) FRONT BACK REST TRAPPED AND CRUSHED DOG SLEEPING ON REAR PASSENGER SIDE, REQUIRED EME",
+        "pct": 9,
+        "title": "Seats",
+        "blurb": "20 complaints (9%), with 1 injury and no crashes or fires reported. One owner describes a seat folding or reclining unexpectedly."
+      }
+    ]
+  }
+}

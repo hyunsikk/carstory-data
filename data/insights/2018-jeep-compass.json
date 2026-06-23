@@ -1,0 +1,128 @@
+{
+  "slug": "2018-jeep-compass",
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/JEEP/COMPASS#complaints",
+  "generatedAt": "2026-06-23T06:19:14.584Z",
+  "total": 923,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 463,
+      "crash": 7,
+      "fire": 2,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 368,
+      "crash": 3,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "THERE IS AN ISSUE WITH THE SENSOR CONTROLLING THE BRIGHTNESS OF THE CONSOLE AND NAVIGATION SCREEN. AT NIGHT, THE BRIGHTNESS GETS SET TO THE HIGHEST SETTING, WHICH IS ABSOLUTELY BLINDING, AND THE DIMMER SWITCH DOES DOES NOT WORK.    THIS IS A SAFETY ISSUE AND IS CAUSING HARM TO MY",
+      "pct": 40
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 151,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
+      "pct": 16
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 64,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IN VIOLATION OF FMVSS SECTION S 5.3.2.2 (B) THE VEHICLE'S INTERIOR DASHBOARD LIGHTS ARE NOT CAPABLE OF BEING DIMMED.  THEY REMAIN AT BRIGHTEST LEVEL REGARDLESS OF ANY PARKING OR HEADLIGHT SETTINGS, AND CANNOT BE DIMMED OR TURNED OFF.  THIS CREATES A DANGEROUS CONDITION DURING NIG",
+      "pct": 7
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 62,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Jeep Compass: engine and electrical issues dominate owner complaints",
+    "summary": "Across 923 owner complaints to NHTSA, engine problems lead by a wide margin at 463 reports (50%), followed by electrical system issues at 368 (40%). Engine and power train each tie for the most crashes (7 apiece), and the electrical system saw the most fires (3). Reported injuries are low overall, with no deaths.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 463,
+        "crash": 7,
+        "fire": 2,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
+        "pct": 50,
+        "title": "Engine",
+        "blurb": "Most-reported area by far: 463 complaints (50% of all reports), including 7 crashes, 4 injuries, and 2 fires. Owners describe loss of power and poor fuel economy."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 368,
+        "crash": 3,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "THERE IS AN ISSUE WITH THE SENSOR CONTROLLING THE BRIGHTNESS OF THE CONSOLE AND NAVIGATION SCREEN. AT NIGHT, THE BRIGHTNESS GETS SET TO THE HIGHEST SETTING, WHICH IS ABSOLUTELY BLINDING, AND THE DIMMER SWITCH DOES DOES NOT WORK.    THIS IS A SAFETY ISSUE AND IS CAUSING HARM TO MY",
+        "pct": 40,
+        "title": "Electrical System",
+        "blurb": "Second most-reported: 368 complaints (40%), with the most fires of any area (3), plus 3 crashes and 1 injury. Owners report the dashboard and screen brightness stuck at maximum at night with a non-working dimmer."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 151,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
+        "pct": 16,
+        "title": "Power Train",
+        "blurb": "151 complaints (16%), tied for the most crashes at 7, plus 4 injuries and no fires. Owners describe loss of power while driving."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 64,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IN VIOLATION OF FMVSS SECTION S 5.3.2.2 (B) THE VEHICLE'S INTERIOR DASHBOARD LIGHTS ARE NOT CAPABLE OF BEING DIMMED.  THEY REMAIN AT BRIGHTEST LEVEL REGARDLESS OF ANY PARKING OR HEADLIGHT SETTINGS, AND CANNOT BE DIMMED OR TURNED OFF.  THIS CREATES A DANGEROUS CONDITION DURING NIG",
+        "pct": 7,
+        "title": "Exterior Lighting",
+        "blurb": "64 complaints (7%), with no reported crashes, fires, or injuries. Owners report dashboard lights stuck at full brightness that cannot be dimmed at night."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 62,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY FUEL EFFICIENCY (MPG) IS VERY POOR MY VEHICLE, I HAVE 9.4 MPG  POWER LOSS AND THE MPG'S SHOWN IN THE OFFICIAL MANUFACTURING WEB PAGE IS EPA EST. MPG 22 CITY/30 HWY. HTTPS://WWW.JEEP.COM/JEEP-CAPABILITIES/FUEL-EFFICIENCY.HTML  ADDITIONALLY I AM EXPERIENCING LOSS OF POWER DURING",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "62 complaints (7%), including 1 crash and no fires or injuries. Owners report poor fuel economy and loss of power."
+      }
+    ]
+  }
+}

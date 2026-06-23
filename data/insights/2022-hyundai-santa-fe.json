@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-santa-fe",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/SANTA%20FE#complaints",
+  "generatedAt": "2026-06-23T06:23:17.394Z",
+  "total": 182,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 53,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have a 2022 Hyundai Santa Fe with less than 17,000 miles.  We pulled into the left turn lane at an intersection.  When we stopped for a red light, the vehicle abruptly shut down all power with no warning.  We tried to restart the car and nothing would work.  We tried the hazar",
+      "pct": 29
+    },
+    {
+      "component": "ENGINE",
+      "count": 51,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle under normal operation began to lose power as the accelerator was depressed. Eventually stalling and consequently cutting power to the engine. The vehicle became immobile and would not move or engage out of drive until repeated efforts to turn off/on the vehicle. For a fe",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Santa Fe. The contact stated that the vehicle was not able to start. Triple A towing company was not able to jumpstart the vehicle, and the vehicle was towed to the dealer. The dealer was not able to duplicate the failure however, the mechanic repl",
+      "pct": 15
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 25,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have had already had two issues with our Hyundai Santa Fe that we purchased new from a dealer on 5/21.The first malfunction happened on 7/23. While driving, we had several messages come across the dashboard warning that some sensors were not working properly. We then had the w",
+      "pct": 14
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 15,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Hyundai Santa Fe. The contact stated there was an engineering speed control fault while driving approximately 65 MPH. The contact stated that the smart cruise control rode the brakes while going downhill and destroyed the rotors. There were no warning ligh",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Hyundai Santa Fe: power train and engine lead the complaints",
+    "summary": "Owners filed 182 complaints with NHTSA. Power train tops the list at 29%, with the engine close behind at 28%, so well over half of all reports point at how the car drives and makes power. The electrical system (15%), fuel/propulsion system (14%), and vehicle speed control (8%) round out the top five. No injuries or deaths are reported. Power train and vehicle speed control are each tied to 2 crashes, and one electrical complaint mentions a fire, so those areas are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 53,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have a 2022 Hyundai Santa Fe with less than 17,000 miles.  We pulled into the left turn lane at an intersection.  When we stopped for a red light, the vehicle abruptly shut down all power with no warning.  We tried to restart the car and nothing would work.  We tried the hazar",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "The single biggest complaint: 53 reports (29%), tied to 2 crashes. Owners describe the car suddenly losing power, sometimes shutting down with no warning."
+      },
+      {
+        "component": "ENGINE",
+        "count": 51,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle under normal operation began to lose power as the accelerator was depressed. Eventually stalling and consequently cutting power to the engine. The vehicle became immobile and would not move or engage out of drive until repeated efforts to turn off/on the vehicle. For a fe",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "A close second: 51 reports (28%), with no crashes, fires, or injuries noted. Owners report the engine losing power or stalling under normal driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Santa Fe. The contact stated that the vehicle was not able to start. Triple A towing company was not able to jumpstart the vehicle, and the vehicle was towed to the dealer. The dealer was not able to duplicate the failure however, the mechanic repl",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "Third most reported: 28 reports (15%), including 1 with a fire. Owners describe the car failing to start, sometimes needing a tow to the dealer."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 25,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have had already had two issues with our Hyundai Santa Fe that we purchased new from a dealer on 5/21.The first malfunction happened on 7/23. While driving, we had several messages come across the dashboard warning that some sensors were not working properly. We then had the w",
+        "pct": 14,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Fourth most reported: 25 reports (14%), with no crashes, fires, or injuries noted. Owners report dashboard sensor warnings and related fuel/propulsion faults."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 15,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Hyundai Santa Fe. The contact stated there was an engineering speed control fault while driving approximately 65 MPH. The contact stated that the smart cruise control rode the brakes while going downhill and destroyed the rotors. There were no warning ligh",
+        "pct": 8,
+        "title": "Vehicle Speed Control",
+        "blurb": "Fifth most reported: 15 reports (8%), tied to 2 crashes. Owners describe speed-control and smart cruise control faults while driving at highway speed."
+      }
+    ]
+  }
+}

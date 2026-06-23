@@ -1,0 +1,128 @@
+{
+  "slug": "2020-chevrolet-malibu",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHEVROLET/MALIBU#complaints",
+  "generatedAt": "2026-06-23T06:13:18.111Z",
+  "total": 188,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 58,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "CAR LOST POWER WHEN PASSING A TRUCK ON THE HIGHWAY, HARD START,IMMEDIATELY CONTACTED DEALERSHIP. THEY HAVE HAD THE VEHICLE FOR GOING ON THREE WEEKS TOMORROW. THEY HAVEN'T BEEN ABLE TO DIAGNOSE THE PROBLEM. I HAVE CONTACTED GM AND THE SERVICE REPRESENTATIVE AT THE RESOLUTION CENTE",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 54,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle will randomly shut off while driving. All warning lights light up on the dash and notification of \"reduced steering\" pops up. Taken to the dealership and has been there for 19 business days. They will fix a component, I have picked it up twice and it has shut off befo",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 54,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "MY CAR HAD ONLY 600 MILES AND IS BRAND NEW. AFTER SITTING ON THE DRIVE OVERNIGHT THE CAR WOULDN'T START. THERE WAS A LOT OF CLICKING NOISES, BUT THE ENGINE WOULDN'T TURN. THAT WAS THREE WEEKS AGO. I BROUGHT IT TO THE DEALERSHIP AND THEY SAID THAT THERE WERE ERROR CODES ON THE BAT",
+      "pct": 29
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 45,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "This is an intermittent issue and hard to reproduce on demand. I have evidence in the form of multiple videos that may be provided anytime. Videos can be found here: https://www.dropbox.com/sh/zubc5ilgahayvxa/AABf3M1mLBikxQswv17Yn-YQa?dl=0  In the middle of driving on freeways, h",
+      "pct": 24
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle slowed down alot by itself upon driving and when pushing the gas pedal the vehicle would not go any faster. I had to pull over in someones driveway to get out of the way of multiple cars behind me!  Car is available for inspection. My safety was very much in danger cause ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "Engine, drivetrain, and electrical issues lead 2020 Malibu owner complaints",
+    "summary": "Across 188 owner reports to NHTSA, engine problems are the most common, named in 31% of complaints, followed closely by power train and electrical system, each at 29%. Service brakes account for 24% and vehicle speed control for 10%. No fires were reported, but a few complaints involved crashes, and the service brakes reports include 3 injuries, so the details below are worth a read.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 58,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "CAR LOST POWER WHEN PASSING A TRUCK ON THE HIGHWAY, HARD START,IMMEDIATELY CONTACTED DEALERSHIP. THEY HAVE HAD THE VEHICLE FOR GOING ON THREE WEEKS TOMORROW. THEY HAVEN'T BEEN ABLE TO DIAGNOSE THE PROBLEM. I HAVE CONTACTED GM AND THE SERVICE REPRESENTATIVE AT THE RESOLUTION CENTE",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "The most reported area: 58 reports (31% of all complaints). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 54,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle will randomly shut off while driving. All warning lights light up on the dash and notification of \"reduced steering\" pops up. Taken to the dealership and has been there for 19 business days. They will fix a component, I have picked it up twice and it has shut off befo",
+        "pct": 29,
+        "title": "Power Train",
+        "blurb": "54 reports (29%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 54,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "MY CAR HAD ONLY 600 MILES AND IS BRAND NEW. AFTER SITTING ON THE DRIVE OVERNIGHT THE CAR WOULDN'T START. THERE WAS A LOT OF CLICKING NOISES, BUT THE ENGINE WOULDN'T TURN. THAT WAS THREE WEEKS AGO. I BROUGHT IT TO THE DEALERSHIP AND THEY SAID THAT THERE WERE ERROR CODES ON THE BAT",
+        "pct": 29,
+        "title": "Electrical System",
+        "blurb": "54 reports (29%). Linked to 1 crash, with no fires or injuries reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 45,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "This is an intermittent issue and hard to reproduce on demand. I have evidence in the form of multiple videos that may be provided anytime. Videos can be found here: https://www.dropbox.com/sh/zubc5ilgahayvxa/AABf3M1mLBikxQswv17Yn-YQa?dl=0  In the middle of driving on freeways, h",
+        "pct": 24,
+        "title": "Service Brakes",
+        "blurb": "45 reports (24%), and the most safety-relevant area: 4 crashes and 3 injuries, with no fires reported."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle slowed down alot by itself upon driving and when pushing the gas pedal the vehicle would not go any faster. I had to pull over in someones driveway to get out of the way of multiple cars behind me!  Car is available for inspection. My safety was very much in danger cause ",
+        "pct": 10,
+        "title": "Vehicle Speed Control",
+        "blurb": "18 reports (10%). Linked to 1 crash, with no fires or injuries reported."
+      }
+    ]
+  }
+}

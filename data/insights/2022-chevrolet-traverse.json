@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-06-23T06:13:59.393Z",
+  "total": 90,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 38,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Automobile less than 1 year old w/ less than 14,000 miles has had the following service issues.  Transmission Failure 06/28/2023 - Replacement of entire valve body  Transmission Failure 07/06/2023 - Dealership claims entire transmission to be replaced. Mileage between failures wa",
+      "pct": 42
+    },
+    {
+      "component": "ENGINE",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Traverse. The contact stated while driving approximately 40 MPH, the vehicle stalled and lost motive power. There were no warning lights prior to the failure. After the vehicle stopped completely, the message to shift to neutral appeared. The veh",
+      "pct": 18
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2022 Traverse won't start everyday, needs Jump start multiple times a day. \"Battery Saver Active\" is displayed on dashboard.  Randomly noticed \"service ECS\", \"service parking brake\" messages on dashboard.  This vehicle is not reliable and will have you stranded in middle of road,",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Incident 8/22/2022 where driver put vehicle in park, turned car off, as exiting, vehicle rolled backwards. Driver fell to ground sustaining injuries, vehicle stopped moving after approx. 5 ft. When driver looked at shifter after standing back up, the gear was in Drive. Driver saw",
+      "pct": 8
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "As I was pulling out of my parking space on the street a car was coming toward me and the forward collision alert lights and sound went off as well as a terrible grinding started as if it was trying to brake as I was driving but not slowing me down. This has now happened 4 times.",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Chevy Traverse: power train trouble dominates owner complaints",
+    "summary": "Owners filed 90 complaints with NHTSA. The power train is the standout concern at 42% of reports, tied to 1 crash and 4 injuries. Engine and electrical issues follow, each at 18%, then service brakes at 8% and forward collision avoidance at 4%. No fires and no deaths were reported.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 38,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Automobile less than 1 year old w/ less than 14,000 miles has had the following service issues.  Transmission Failure 06/28/2023 - Replacement of entire valve body  Transmission Failure 07/06/2023 - Dealership claims entire transmission to be replaced. Mileage between failures wa",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "The top complaint area by far: 38 reports (42%), tied to 1 crash and 4 injuries. Test how the car shifts and drives under load before buying."
+      },
+      {
+        "component": "ENGINE",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Traverse. The contact stated while driving approximately 40 MPH, the vehicle stalled and lost motive power. There were no warning lights prior to the failure. After the vehicle stopped completely, the message to shift to neutral appeared. The veh",
+        "pct": 18,
+        "title": "Engine",
+        "blurb": "Second most reported: 16 reports (18%), with 1 injury. Watch for any stalling or loss of power on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2022 Traverse won't start everyday, needs Jump start multiple times a day. \"Battery Saver Active\" is displayed on dashboard.  Randomly noticed \"service ECS\", \"service parking brake\" messages on dashboard.  This vehicle is not reliable and will have you stranded in middle of road,",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "Tied for second: 16 reports (18%). No crashes or injuries reported, but check that the car starts reliably and that dashboard warnings are clear."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Incident 8/22/2022 where driver put vehicle in park, turned car off, as exiting, vehicle rolled backwards. Driver fell to ground sustaining injuries, vehicle stopped moving after approx. 5 ft. When driver looked at shifter after standing back up, the gear was in Drive. Driver saw",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "Smaller but serious: 7 reports (8%), tied to 1 crash and 1 injury. Worth a careful brake check despite the lower count."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "As I was pulling out of my parking space on the street a car was coming toward me and the forward collision alert lights and sound went off as well as a terrible grinding started as if it was trying to brake as I was driving but not slowing me down. This has now happened 4 times.",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Least reported here: 4 reports (4%), with no crashes or injuries. Confirm the collision alert behaves normally during a test drive."
+      }
+    ]
+  }
+}

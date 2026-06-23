@@ -1,0 +1,128 @@
+{
+  "slug": "2020-toyota-prius",
+  "make": "Toyota",
+  "model": "Prius",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/TOYOTA/PRIUS#complaints",
+  "generatedAt": "2026-06-23T06:05:12.997Z",
+  "total": 14,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "MY DAD WAS DRIVING ON THE HIGHWAY. HE SAID THAT HE STEPPED ON THE BRAKES AND THE BRAKES DID NOT WORK. HE GOT INTO AN ACCIDENT IN WHICH THE ALL AIRBAGS WERE DEPLOYED AND THE CAR WAS TOTALED.  THE CAR ONLY HAD 700 MILES.  I BELIEVE THIS WAS THE SECOND TIME THAT MY DAD DROVE THIS CA",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "On May 16, 2023 I was slowly driving out of a market parking lot when the car suddenly accelerated, full throttle, and speeded across the street (Colusa Avenue, Berkeley, CA), crashing head on into a fence.  Immediately after the crash, the dashboard displayed the following:  \"Ch",
+      "pct": 14
+    },
+    {
+      "component": "TIRES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was making a left turn into my subdivision after a full stop.  My speed was no more than 5 MPH.  The Toyota dealer informed me that the sidewall had blown and was not repairable.  They had no definitive cause as to why the tire blew.  The tire was retained by the dealer. The ti",
+      "pct": 14
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was the victim of an accident on [XXX]. The person of the other vehicle that collided with my vehicle after crossing at high speed and without stopping in the red light. The sensors of the anti-collision vehicle of my vehicle did not work and the air bag also did not work. Due ",
+      "pct": 7
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I was the victim of an accident on [XXX]. The person of the other vehicle that collided with my vehicle after crossing at high speed and without stopping in the red light. The sensors of the anti-collision vehicle of my vehicle did not work and the air bag also did not work. Due ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Toyota Prius: brakes lead a small set of owner complaints",
+    "summary": "Owners filed 14 complaints with NHTSA. Service brakes are the most reported area at 29%, followed by the electrical system and tires (14% each). No fires or deaths are reported, but every brake complaint involved a crash, so the brakes are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "MY DAD WAS DRIVING ON THE HIGHWAY. HE SAID THAT HE STEPPED ON THE BRAKES AND THE BRAKES DID NOT WORK. HE GOT INTO AN ACCIDENT IN WHICH THE ALL AIRBAGS WERE DEPLOYED AND THE CAR WAS TOTALED.  THE CAR ONLY HAD 700 MILES.  I BELIEVE THIS WAS THE SECOND TIME THAT MY DAD DROVE THIS CA",
+        "pct": 29,
+        "title": "Service Brakes",
+        "blurb": "The top complaint: 4 reports (29%), and all 4 involved a crash, with 3 injuries. Test the brakes carefully before buying."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "On May 16, 2023 I was slowly driving out of a market parking lot when the car suddenly accelerated, full throttle, and speeded across the street (Colusa Avenue, Berkeley, CA), crashing head on into a fence.  Immediately after the crash, the dashboard displayed the following:  \"Ch",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "2 reports (14%), one of which involved a crash and 1 injury. Watch for unexpected electrical behavior."
+      },
+      {
+        "component": "TIRES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was making a left turn into my subdivision after a full stop.  My speed was no more than 5 MPH.  The Toyota dealer informed me that the sidewall had blown and was not repairable.  They had no definitive cause as to why the tire blew.  The tire was retained by the dealer. The ti",
+        "pct": 14,
+        "title": "Tires",
+        "blurb": "2 reports (14%), with no crashes, fires, or injuries noted. A minor complaint area."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was the victim of an accident on [XXX]. The person of the other vehicle that collided with my vehicle after crossing at high speed and without stopping in the red light. The sensors of the anti-collision vehicle of my vehicle did not work and the air bag also did not work. Due ",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "1 report (7%), tied to a crash and 2 injuries. A single but serious complaint."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I was the victim of an accident on [XXX]. The person of the other vehicle that collided with my vehicle after crossing at high speed and without stopping in the red light. The sensors of the anti-collision vehicle of my vehicle did not work and the air bag also did not work. Due ",
+        "pct": 7,
+        "title": "Forward Collision Avoidance",
+        "blurb": "1 report (7%), tied to a crash and 2 injuries. A single but serious complaint."
+      }
+    ]
+  }
+}

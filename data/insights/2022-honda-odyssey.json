@@ -1,0 +1,128 @@
+{
+  "slug": "2022-honda-odyssey",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HONDA/ODYSSEY#complaints",
+  "generatedAt": "2026-06-23T06:08:30.928Z",
+  "total": 125,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 33,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "Passenger side, sliding door. The door closes on its own randomly but becoming more frequent. I have taken the van to the dealer multiple times and they can not figure out what is wrong. There was no warning light or error shown. Today the door shut on my son’s foot as he was get",
+      "pct": 26
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 27,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "When I first purchased my ‘22 Honda Odyssey a few months ago, the Apple CarPlay wouldn’t work, then the main center screen started black screening and not turning on. I took it in to the dealer and they ordered the part almost 4 weeks ago. It’s still not in. Anyways, about 2 week",
+      "pct": 22
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "After driving for only 2000 miles, the car suddenly went into limp mode where the engine shut off. All system warning lights came on in the vehicle and we could not drive the car. The car was towed to a nearby Honda dealer and was inspected. The accelerator pedal was replaced and",
+      "pct": 12
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2022 HONDA ODYSSEY EX-L WITH 10 SPEED AUTOMATIC TRANSMISSION. VEHICLE OWNED FEWER THAN 24 HOURS. PURCHASED WITH 3 MILES ON ODOMETER, WITH 130 MILES ON ODOMETER WHEN INCIDENT OCCURRED WHILE TRAVELING SOUTHBOUND ON I75 IN OHIO, VEHICLE WAS IN MOTION CRUISING AT 70 MILES PER HOUR. S",
+      "pct": 11
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 6,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Honda Odyssey that was modified by the BraunAbility company. The contact stated that after the vehicle was modified with a new floor, suspension, seats, and wiring for a ramp, the airbag warning light illuminated. The contact stated the vehicle was taken t",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Honda Odyssey: electrical issues lead the owner complaints",
+    "summary": "Owners filed 125 complaints with NHTSA. The electrical system is the most reported area at 26%, followed closely by forward collision avoidance at 22%, then the engine (12%) and power train (11%). No deaths are reported. Forward collision avoidance stands out for outcomes, tied to 4 crashes and 6 injuries, so it is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 33,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "Passenger side, sliding door. The door closes on its own randomly but becoming more frequent. I have taken the van to the dealer multiple times and they can not figure out what is wrong. There was no warning light or error shown. Today the door shut on my son’s foot as he was get",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 33 reports (26%), including 1 fire and 3 injuries. Owners describe sliding doors closing on their own, among other electrical faults."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 27,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "When I first purchased my ‘22 Honda Odyssey a few months ago, the Apple CarPlay wouldn’t work, then the main center screen started black screening and not turning on. I took it in to the dealer and they ordered the part almost 4 weeks ago. It’s still not in. Anyways, about 2 week",
+        "pct": 22,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Second most reported and the most serious by outcome: 27 reports (22%), linked to 4 crashes and 6 injuries. Worth checking carefully on a test drive."
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "After driving for only 2000 miles, the car suddenly went into limp mode where the engine shut off. All system warning lights came on in the vehicle and we could not drive the car. The car was towed to a nearby Honda dealer and was inspected. The accelerator pedal was replaced and",
+        "pct": 12,
+        "title": "Engine",
+        "blurb": "15 reports (12%), with no crashes, fires, or injuries reported. Owners describe sudden loss of power and warning lights while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2022 HONDA ODYSSEY EX-L WITH 10 SPEED AUTOMATIC TRANSMISSION. VEHICLE OWNED FEWER THAN 24 HOURS. PURCHASED WITH 3 MILES ON ODOMETER, WITH 130 MILES ON ODOMETER WHEN INCIDENT OCCURRED WHILE TRAVELING SOUTHBOUND ON I75 IN OHIO, VEHICLE WAS IN MOTION CRUISING AT 70 MILES PER HOUR. S",
+        "pct": 11,
+        "title": "Power Train",
+        "blurb": "14 reports (11%), with no crashes, fires, or injuries reported. Several involve the transmission very early in ownership."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 6,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Honda Odyssey that was modified by the BraunAbility company. The contact stated that after the vehicle was modified with a new floor, suspension, seats, and wiring for a ramp, the airbag warning light illuminated. The contact stated the vehicle was taken t",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "The fewest reports here at 10 (8%), but tied to 1 crash and 6 injuries. Owners report the airbag warning light coming on."
+      }
+    ]
+  }
+}

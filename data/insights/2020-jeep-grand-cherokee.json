@@ -1,0 +1,128 @@
+{
+  "slug": "2020-jeep-grand-cherokee",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/JEEP/GRAND%20CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T06:18:10.986Z",
+  "total": 221,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 66,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT THE VEHICLE WAS AT STAND STILL, HEAT WOULD EXIT THE VENTS WHEN USING THE AIR CONDITIONAL. THE CONTACT STATED HE HAD TO OPEN THE WINDOWS FOR 10-15 MINUTES TO BE ABLE TO ENTER THE VEHICLE, DUE TO THE EXTREME H",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 47,
+      "crash": 0,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WITH MY FOOT COMPLETELY OFF THE ACCELERATOR, THE VEHICLE SPONTANEOUSLY ACCELERATES UNDER CERTAIN CONDITIONS. WHILE IN STANDARD OR SPORT MODE, IN SECOND GEAR GOING ABOUT 20MPH, THERE IS A REPRODUCIBLE RPM SURGE THAT CAUSES THE VEHICLE TO LUNGE FORWARD. THIS SOMEWHAT FEELS LIKE BEI",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 38,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "WITH MY FOOT COMPLETELY OFF THE ACCELERATOR, THE VEHICLE SPONTANEOUSLY ACCELERATES UNDER CERTAIN CONDITIONS. WHILE IN STANDARD OR SPORT MODE, IN SECOND GEAR GOING ABOUT 20MPH, THERE IS A REPRODUCIBLE RPM SURGE THAT CAUSES THE VEHICLE TO LUNGE FORWARD. THIS SOMEWHAT FEELS LIKE BEI",
+      "pct": 17
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 16,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "LEASED MY GRAND CHEROKEE 2020. DROVE THE CAR TWICE. IT WASN'T EVEN 24 HRS SINCE I HAD THE CAR, MY CAR BROKE DOWN THE 2ND TIME I DROVE IT (ON A FRIDAY). I WAS WAITING ON LINE FOR MY SONS GRADUATION. IT WAS A DRIVE THROUGH GRADUATION BECAUSE OF COVID-19. I WAS THE 1ST ON LINE AND H",
+      "pct": 7
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 16,
+      "crash": 11,
+      "fire": 0,
+      "injuries": 10,
+      "deaths": 0,
+      "sample": "WAS PULLING INTO SHOP ON NICE SUNNY DAY. I TURNED TAKING A RIGHT OFF ROAD AND SOME LADY SWERVED RIGHT OFF ROAD AND HIT ME DOING 50MPG. THIS CAUSED ME TO GO FORWARD IN VEHICLE AND ACCELERATE AT A HIGH SPEED. I THEN HIT A METAL CARPORT WHICH CRASHED ON MY ROOF. BUSTED SUNROOF, HIT ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Jeep Grand Cherokee: electrical issues lead the owner complaints",
+    "summary": "Owners filed 221 complaints with NHTSA. The electrical system is the most reported area at 30%, followed by the engine (21%) and power train (17%). No deaths are reported. Air bags draw only 7% of complaints but account for the most crashes (11) and injuries (10) of any area, so check that system closely on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 66,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 JEEP GRAND CHEROKEE. THE CONTACT STATED THAT THE VEHICLE WAS AT STAND STILL, HEAT WOULD EXIT THE VENTS WHEN USING THE AIR CONDITIONAL. THE CONTACT STATED HE HAD TO OPEN THE WINDOWS FOR 10-15 MINUTES TO BE ABLE TO ENTER THE VEHICLE, DUE TO THE EXTREME H",
+        "pct": 30,
+        "title": "Electrical System",
+        "blurb": "The biggest complaint area: 66 reports (30%), tied to 3 crashes. No fires or injuries reported here."
+      },
+      {
+        "component": "ENGINE",
+        "count": 47,
+        "crash": 0,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WITH MY FOOT COMPLETELY OFF THE ACCELERATOR, THE VEHICLE SPONTANEOUSLY ACCELERATES UNDER CERTAIN CONDITIONS. WHILE IN STANDARD OR SPORT MODE, IN SECOND GEAR GOING ABOUT 20MPH, THERE IS A REPRODUCIBLE RPM SURGE THAT CAUSES THE VEHICLE TO LUNGE FORWARD. THIS SOMEWHAT FEELS LIKE BEI",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "Second most reported: 47 reports (21%), including 3 with fire. No crashes or injuries reported in this group."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 38,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "WITH MY FOOT COMPLETELY OFF THE ACCELERATOR, THE VEHICLE SPONTANEOUSLY ACCELERATES UNDER CERTAIN CONDITIONS. WHILE IN STANDARD OR SPORT MODE, IN SECOND GEAR GOING ABOUT 20MPH, THERE IS A REPRODUCIBLE RPM SURGE THAT CAUSES THE VEHICLE TO LUNGE FORWARD. THIS SOMEWHAT FEELS LIKE BEI",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "38 reports (17%), linked to 2 fires, 2 crashes, and 1 injury. Worth checking how the vehicle behaves under acceleration."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 16,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "LEASED MY GRAND CHEROKEE 2020. DROVE THE CAR TWICE. IT WASN'T EVEN 24 HRS SINCE I HAD THE CAR, MY CAR BROKE DOWN THE 2ND TIME I DROVE IT (ON A FRIDAY). I WAS WAITING ON LINE FOR MY SONS GRADUATION. IT WAS A DRIVE THROUGH GRADUATION BECAUSE OF COVID-19. I WAS THE 1ST ON LINE AND H",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "16 reports (7%), with 1 fire and 1 crash. A smaller but recurring complaint area."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 16,
+        "crash": 11,
+        "fire": 0,
+        "injuries": 10,
+        "deaths": 0,
+        "sample": "WAS PULLING INTO SHOP ON NICE SUNNY DAY. I TURNED TAKING A RIGHT OFF ROAD AND SOME LADY SWERVED RIGHT OFF ROAD AND HIT ME DOING 50MPG. THIS CAUSED ME TO GO FORWARD IN VEHICLE AND ACCELERATE AT A HIGH SPEED. I THEN HIT A METAL CARPORT WHICH CRASHED ON MY ROOF. BUSTED SUNROOF, HIT ",
+        "pct": 7,
+        "title": "Air Bags",
+        "blurb": "Only 16 reports (7%) but the most serious by outcome: 11 crashes and 10 injuries. Check this system carefully."
+      }
+    ]
+  }
+}

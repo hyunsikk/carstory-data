@@ -1,0 +1,128 @@
+{
+  "slug": "2020-gmc-sierra-1500",
+  "make": "GMC",
+  "model": "Sierra 1500",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/GMC/SIERRA%201500#complaints",
+  "generatedAt": "2026-06-23T06:30:51.986Z",
+  "total": 429,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 205,
+      "crash": 2,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 1500. THE CONTACT STATED THAT THE VEHICLE PUSH START BUTTON AND KEY FOB FAILED TO START THE VEHICLE ON FIRST ATTEMPT. THE CONTACT STATED THAT THE VEHICLE STARTED AFTER SEVERALS ATTEMPTED. THE CONTACT STATED THE FAILURE OCCURRED INTERMITTENTL",
+      "pct": 48
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 85,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE TRUCK RANDOMLY GETS STUCK IN PARK. CANNOT PUT IT INTO DRIVE, NEUTRAL OR REVERSE. THE CAR HAS BEEN AT THE DEALERSHIP SINCE JANUARY 27, 2020. GMC WONT SEND THEM THE PART, THE DEALSHIP BELIEVES IT MUST BE A PROBLEM WITH THE PART AND THEY ARE TRYING TO FIX OR REDESIGN THE PART BE",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 77,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "BRAND NEW TRUCK. STUCK AT THE GYM IN THE MIDDLE OF THE NIGHT TRUCK WONT START. THE INTERIOR LIGHTS, HEAD LIGHTS, AND RADIO WONT SHUT OFF. VEHICLE WONT START. I'M ASSUMING THE BATTERY WAS DRAINED BECAUSE INTERIOR LIGHTS, EXTERIOR LIGHTS, RADIO, WONT SHUT OFF. HAS TO BE SOME KIND O",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 51,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 1500. THE CONTACT STATED THAT WHILE DRIVING AT 52 MPH, THE BRAKE PEDAL WAS DEPRESSED BUT WAS VERY FIRM. THE PARK BRAKE WAS ACTIVATED BUT FAILED TO EFFECTIVELY STOP THE VEHICLE. THE VEHICLE WAS COASTED TO A PARKING LOT AND WAS PUT IN PARK. TH",
+      "pct": 12
+    },
+    {
+      "component": "STEERING",
+      "count": 37,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I WAS GOING ABOUT 15 MILES PER HOUR WHEN SUDDENLY ALL THESE ERROR CODES STARTED POPPING UP, FIRST \"ESC MALFUNCTION\" THEN TRAILER BRAKE MALFUNCTION,STABILITRAK, STEERING ASSIST REDUCED, BRAKE SYSTEM FAIL, LIGHS JUST POP UP I DO FEEL LIKE THE TRUCK LOOSES SOME POWER FEELS MORE SLUG",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2020 GMC Sierra 1500: engine complaints lead by a wide margin",
+    "summary": "Owners filed 429 complaints with NHTSA. The engine is by far the most reported area at 48%, followed by the power train (20%) and the electrical system (18%). No deaths are reported across any area. The brakes draw fewer complaints (12%) but the most injuries (3) and crashes (3) of any single area, so they are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 205,
+        "crash": 2,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 1500. THE CONTACT STATED THAT THE VEHICLE PUSH START BUTTON AND KEY FOB FAILED TO START THE VEHICLE ON FIRST ATTEMPT. THE CONTACT STATED THAT THE VEHICLE STARTED AFTER SEVERALS ATTEMPTED. THE CONTACT STATED THE FAILURE OCCURRED INTERMITTENTL",
+        "pct": 48,
+        "title": "Engine",
+        "blurb": "By far the biggest complaint: 205 reports (48%), with 2 crashes and 1 fire but no injuries. Watch for hard or failed starting."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 85,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE TRUCK RANDOMLY GETS STUCK IN PARK. CANNOT PUT IT INTO DRIVE, NEUTRAL OR REVERSE. THE CAR HAS BEEN AT THE DEALERSHIP SINCE JANUARY 27, 2020. GMC WONT SEND THEM THE PART, THE DEALSHIP BELIEVES IT MUST BE A PROBLEM WITH THE PART AND THEY ARE TRYING TO FIX OR REDESIGN THE PART BE",
+        "pct": 20,
+        "title": "Power Train",
+        "blurb": "Second most reported: 85 reports (20%), linked to 1 crash, with no fires or injuries. Check that it shifts cleanly through all gears."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 77,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "BRAND NEW TRUCK. STUCK AT THE GYM IN THE MIDDLE OF THE NIGHT TRUCK WONT START. THE INTERIOR LIGHTS, HEAD LIGHTS, AND RADIO WONT SHUT OFF. VEHICLE WONT START. I'M ASSUMING THE BATTERY WAS DRAINED BECAUSE INTERIOR LIGHTS, EXTERIOR LIGHTS, RADIO, WONT SHUT OFF. HAS TO BE SOME KIND O",
+        "pct": 18,
+        "title": "Electrical System",
+        "blurb": "77 reports (18%), including 2 with fire and 1 injury. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 51,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 GMC SIERRA 1500. THE CONTACT STATED THAT WHILE DRIVING AT 52 MPH, THE BRAKE PEDAL WAS DEPRESSED BUT WAS VERY FIRM. THE PARK BRAKE WAS ACTIVATED BUT FAILED TO EFFECTIVELY STOP THE VEHICLE. THE VEHICLE WAS COASTED TO A PARKING LOT AND WAS PUT IN PARK. TH",
+        "pct": 12,
+        "title": "Service Brakes",
+        "blurb": "51 reports (12%) but the most serious by outcome: 3 crashes, 3 injuries, and 1 fire. Test the brakes thoroughly."
+      },
+      {
+        "component": "STEERING",
+        "count": 37,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I WAS GOING ABOUT 15 MILES PER HOUR WHEN SUDDENLY ALL THESE ERROR CODES STARTED POPPING UP, FIRST \"ESC MALFUNCTION\" THEN TRAILER BRAKE MALFUNCTION,STABILITRAK, STEERING ASSIST REDUCED, BRAKE SYSTEM FAIL, LIGHS JUST POP UP I DO FEEL LIKE THE TRUCK LOOSES SOME POWER FEELS MORE SLUG",
+        "pct": 9,
+        "title": "Steering",
+        "blurb": "The smallest of the top areas: 37 reports (9%), with 1 crash and 1 injury. Watch for warning lights and reduced steering assist."
+      }
+    ]
+  }
+}

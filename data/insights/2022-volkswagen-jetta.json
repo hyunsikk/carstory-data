@@ -1,0 +1,128 @@
+{
+  "slug": "2022-volkswagen-jetta",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/VOLKSWAGEN/JETTA#complaints",
+  "generatedAt": "2026-06-23T06:28:23.282Z",
+  "total": 40,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Volkswagen Jetta. The contact stated when he released the hill start assist the brakes seized, causing the vehicle to not move. The contact stated that after several minutes the brakes released. The dealer was contacted and stated that the feature operated",
+      "pct": 30
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electronic Power Control (EPC) issue:  The car unit bogs down the acceleration and limits the RPMs, making it dangerous to drive on high way or even local road. The issue pops up spontaneously but went away after car was OFF for hour and restarted.  Engine runs ruff and shacks al",
+      "pct": 28
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Electronic Power Control (EPC) issue:  The car unit bogs down the acceleration and limits the RPMs, making it dangerous to drive on high way or even local road. The issue pops up spontaneously but went away after car was OFF for hour and restarted.  Engine runs ruff and shacks al",
+      "pct": 25
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle problems experienced on 7/22/23. Traveling on Route 93 north to exit 17 just north of Concord, NH at 8:00pm. Used cruse control for most of trip, set to 60mph and 65 mph.  The distance feature was working, what a PITA it is. Some where around Concord, NH a warning message",
+      "pct": 20
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The car just stated saying “drive assist not available” it beeps every 5 minutes. Dealer says might need to change steering wheel which is in back order. It’s very annoying because it makes a very loud sound while driving. I researched and seems lots of owners are having the same",
+      "pct": 18
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Volkswagen Jetta: brakes lead the owner complaints",
+    "summary": "Owners filed 40 complaints with NHTSA. Service brakes is the most reported area at 30%, followed closely by the engine (28%) and electrical system (25%). Driver-assist features round out the list: forward collision avoidance (20%) and lane departure (18%). None of these reports involve a crash, fire, injury, or death.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Volkswagen Jetta. The contact stated when he released the hill start assist the brakes seized, causing the vehicle to not move. The contact stated that after several minutes the brakes released. The dealer was contacted and stated that the feature operated",
+        "pct": 30,
+        "title": "Service Brakes",
+        "blurb": "The single most reported area, with 12 complaints (30%). No crashes, fires, or injuries are reported."
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electronic Power Control (EPC) issue:  The car unit bogs down the acceleration and limits the RPMs, making it dangerous to drive on high way or even local road. The issue pops up spontaneously but went away after car was OFF for hour and restarted.  Engine runs ruff and shacks al",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "11 complaints (28%), nearly even with the brakes. No crashes, fires, or injuries are reported."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Electronic Power Control (EPC) issue:  The car unit bogs down the acceleration and limits the RPMs, making it dangerous to drive on high way or even local road. The issue pops up spontaneously but went away after car was OFF for hour and restarted.  Engine runs ruff and shacks al",
+        "pct": 25,
+        "title": "Electrical System",
+        "blurb": "10 complaints (25%). No crashes, fires, or injuries are reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle problems experienced on 7/22/23. Traveling on Route 93 north to exit 17 just north of Concord, NH at 8:00pm. Used cruse control for most of trip, set to 60mph and 65 mph.  The distance feature was working, what a PITA it is. Some where around Concord, NH a warning message",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "8 complaints (20%) about this driver-assist feature. No crashes, fires, or injuries are reported."
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The car just stated saying “drive assist not available” it beeps every 5 minutes. Dealer says might need to change steering wheel which is in back order. It’s very annoying because it makes a very loud sound while driving. I researched and seems lots of owners are having the same",
+        "pct": 18,
+        "title": "Lane Departure",
+        "blurb": "The fewest complaints here, 7 (18%), again on a driver-assist feature. No crashes, fires, or injuries are reported."
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2022-kia-soul",
+  "make": "Kia",
+  "model": "Soul",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/KIA/SOUL#complaints",
+  "generatedAt": "2026-06-23T06:26:31.289Z",
+  "total": 86,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 50,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 3,
+      "sample": "I was entering I 24 east toward Nashville on March 3 2024 @5p. As car entered the freeway. The engine stopped. Engine light turned on pulled over on shoulder. Put in park and tried to start  but would not turn over. There was still  full battery power according to dash board. I h",
+      "pct": 58
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Soul. The contact received notification of NHTSA Campaign Number: 25V099000 (ENGINE AND ENGINE COOLING). The local dealer was contacted; however, the dealer informed that contact that the part to do the recall repair was not yet available. The contact ",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 12,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I purchased a brand new 2022 Kia Soul GT line on 9/01/2022. At 4300 miles, the IVT transmission imploded while on the freeway. Same issues as all the others reported here - fluctuating rpms, followed by a complete loss of power while the tach is redlined. Had it towed to the Kia ",
+      "pct": 14
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Kia Soul. The contact stated that while at a complete stop, the vehicle lost motive power. No warning light was illuminated. The contact shifted to park(P) and turned off the vehicle to correct the failure. The contact related the failure to the STOP/START",
+      "pct": 12
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've had issues with my air conditioner not working properly and now making a loud humming sound. Also my car is very sluggish and my motor is very loud when the car is running. Sometimes it doesn't want to shift exactly when it should it takes longer and I have to take my foot o",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Kia Soul: the engine dominates owner complaints",
+    "summary": "Owners filed 86 complaints with NHTSA. The engine is by far the most reported area at 58%, and it is the only area tied to deaths (3), along with 3 injuries, 1 fire, and 1 crash. Separate engine-and-cooling reports add another 22%, and the power train accounts for 14% with 2 injuries. The remaining complaints cover the electrical system (12%) and the fuel/propulsion system (8%). The engine clearly deserves the closest look.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 50,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 3,
+        "sample": "I was entering I 24 east toward Nashville on March 3 2024 @5p. As car entered the freeway. The engine stopped. Engine light turned on pulled over on shoulder. Put in park and tried to start  but would not turn over. There was still  full battery power according to dash board. I h",
+        "pct": 58,
+        "title": "Engine",
+        "blurb": "The dominant complaint by far: 50 reports (58%), and the only area tied to deaths (3), plus 3 injuries, 1 fire, and 1 crash. Owners describe the engine stopping while driving, so this is the most serious area to inspect."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Soul. The contact received notification of NHTSA Campaign Number: 25V099000 (ENGINE AND ENGINE COOLING). The local dealer was contacted; however, the dealer informed that contact that the part to do the recall repair was not yet available. The contact ",
+        "pct": 22,
+        "title": "Engine And Engine Cooling",
+        "blurb": "Second most reported: 19 reports (22%), with no crashes, fires, or injuries. Many reference a recall (NHTSA Campaign 25V099000), so confirm the related repair has been completed."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 12,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I purchased a brand new 2022 Kia Soul GT line on 9/01/2022. At 4300 miles, the IVT transmission imploded while on the freeway. Same issues as all the others reported here - fluctuating rpms, followed by a complete loss of power while the tach is redlined. Had it towed to the Kia ",
+        "pct": 14,
+        "title": "Power Train",
+        "blurb": "12 reports (14%), tied to 2 injuries. Owners describe fluctuating RPMs and loss of power, often on the highway, so watch transmission behavior on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Kia Soul. The contact stated that while at a complete stop, the vehicle lost motive power. No warning light was illuminated. The contact shifted to park(P) and turned off the vehicle to correct the failure. The contact related the failure to the STOP/START",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "10 reports (12%), with no crashes, fires, or injuries. A smaller but recurring area, with owners noting loss of power at a stop tied to the stop/start system."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've had issues with my air conditioner not working properly and now making a loud humming sound. Also my car is very sluggish and my motor is very loud when the car is running. Sometimes it doesn't want to shift exactly when it should it takes longer and I have to take my foot o",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The fewest complaints: 7 reports (8%), with no crashes, fires, or injuries. Owners mention sluggish response and delayed shifting."
+      }
+    ]
+  }
+}

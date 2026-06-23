@@ -1,0 +1,128 @@
+{
+  "slug": "2020-kia-sorento",
+  "make": "Kia",
+  "model": "Sorento",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/KIA/SORENTO#complaints",
+  "generatedAt": "2026-06-23T06:25:03.060Z",
+  "total": 128,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 63,
+      "crash": 1,
+      "fire": 4,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "I HAVE A 2020 SORENTO THAT HAS ~9,000 MILES ON IT.  I WAS DRIVING ON THE HIGHWAY WHEN THE ENGINE OVERHEAT CHIME STARTED GOING OFF AND THE TEMPERATURE GAUGE WENT HOT.  I PULLED OVER AND CALLED FOR HELP, THEN TRIED TO GO A SMIDGE FURTHER UP THE ROAD.  WITHIN 200 YARDS IT CHIMED AGA",
+      "pct": 49
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 0,
+      "fire": 6,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2020 Kia Sorento. The contact stated that while the vehicle was parked, her daughter saw smoke coming out of the vehicle. The contact stated that as she opened the vehicle, she saw flames on the front side of the vehicle. The contact was able to extinguish the",
+      "pct": 14
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 17,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I HAVE A 2020 KIA SORENTO V6. WHEN THE ENGINE IS COLD OR HAS BEEN SITTING FOR AN HOUR OR SO, THE TRANSMISSION SHIFTS ERRATICALLY BETWEEN 20 AND 40 MPH. WHEN COMING TO A STOP, AT THE SAME SPEED, THE VEHICLE SURGES FORWARD. I HAVE TAKEN THE VEHICLE BACK TO THE DEALERSHIP 3 TIMES. T",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving on freeway, approximately 70mph, on my way to work, I all of a sudden without warning was unable to control my vehicle with the steering wheel. Somehow I seemed to have lost control of the steering wheel and the vehicle spun around. I could have collided with anothe",
+      "pct": 7
+    },
+    {
+      "component": "TRAILER HITCHES",
+      "count": 9,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Kia Sorento. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Kia Sorento: the engine dominates owner complaints",
+    "summary": "Owners filed 128 complaints with NHTSA. The engine is by far the most reported area at 49% (63 reports), tied to 4 fires, 1 crash, and 2 injuries. The electrical system is next at 14% and stands out for fires (6). The power train (13%) and reports about the fuel/propulsion system and trailer hitches (7% each) round out the list. No deaths are reported, but multiple areas involve fire, so check the engine bay and wiring carefully.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 63,
+        "crash": 1,
+        "fire": 4,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "I HAVE A 2020 SORENTO THAT HAS ~9,000 MILES ON IT.  I WAS DRIVING ON THE HIGHWAY WHEN THE ENGINE OVERHEAT CHIME STARTED GOING OFF AND THE TEMPERATURE GAUGE WENT HOT.  I PULLED OVER AND CALLED FOR HELP, THEN TRIED TO GO A SMIDGE FURTHER UP THE ROAD.  WITHIN 200 YARDS IT CHIMED AGA",
+        "pct": 49,
+        "title": "Engine",
+        "blurb": "By far the biggest complaint: 63 reports (49%), with 4 fires, 1 crash, and 2 injuries. Watch for overheating and warning chimes while driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 0,
+        "fire": 6,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2020 Kia Sorento. The contact stated that while the vehicle was parked, her daughter saw smoke coming out of the vehicle. The contact stated that as she opened the vehicle, she saw flames on the front side of the vehicle. The contact was able to extinguish the",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 18 reports (14%), including 6 with fire. The high fire count makes this worth a close look."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 17,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I HAVE A 2020 KIA SORENTO V6. WHEN THE ENGINE IS COLD OR HAS BEEN SITTING FOR AN HOUR OR SO, THE TRANSMISSION SHIFTS ERRATICALLY BETWEEN 20 AND 40 MPH. WHEN COMING TO A STOP, AT THE SAME SPEED, THE VEHICLE SURGES FORWARD. I HAVE TAKEN THE VEHICLE BACK TO THE DEALERSHIP 3 TIMES. T",
+        "pct": 13,
+        "title": "Power Train",
+        "blurb": "17 reports (13%), with no crashes, fires, or injuries noted. Complaints center on how the vehicle shifts and accelerates."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving on freeway, approximately 70mph, on my way to work, I all of a sudden without warning was unable to control my vehicle with the steering wheel. Somehow I seemed to have lost control of the steering wheel and the vehicle spun around. I could have collided with anothe",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "9 reports (7%), including 1 crash and 1 fire. A smaller but recurring area."
+      },
+      {
+        "component": "TRAILER HITCHES",
+        "count": 9,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Kia Sorento. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall",
+        "pct": 7,
+        "title": "Trailer Hitches",
+        "blurb": "9 reports (7%), with 1 fire. Several reference NHTSA recall campaign 22V703000."
+      }
+    ]
+  }
+}

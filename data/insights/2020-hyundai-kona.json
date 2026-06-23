@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-kona",
+  "make": "Hyundai",
+  "model": "Kona",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/HYUNDAI/KONA#complaints",
+  "generatedAt": "2026-06-23T06:24:27.207Z",
+  "total": 150,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 97,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "IN JUNE I TOOK THE CAR BACK TO THE DEALERSHIP BECAUSE OF A LOUD TICKING NOISE. I THEN THOUGHT IT WAS THE OIL LEVEL WAS LOW... WHEN THEY CHECKED TO SEE IT I NEEDED AN OIL CHANGE THEY STATED I NEED TO HAVE AT LEAST 7500 MILES ON THE VEHICLE BEFORE I CAN GET AN OIL CHANGE. THEY STAT",
+      "pct": 65
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 18,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE ON THE HIGHWAY, A MESSAGE \"COLLISION DETECTION SYSTEM FAILURE\" FLASHED ON THE INSTRUMENT PANEL, AND THE BRAKES SLAMMED ON FULL, FOLLOWED BY THE TRANSMISSION STUCK IN 4TH GEAR. I HAD TO LEAVE THE HIGHWAY, AND POWER OFF THE ENGINE - EFFECTIVELY REBOOTING THE CAR. I CONTINUED ",
+      "pct": 12
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BOUGHT NEW CAR JULY 2020, WAS GOOD FOR A LITTLE WHILE THEN STARTED TO HAVE LOUD TICKING NOISE UNDER HOOD. BROUGHT CAR IN FOR SERVICE AT 3100 (APPROX) MILES HAD A FEW ISSUES AT THIS SERVICE, MAIN WAS NOISE. WAS TOLD MECHANIC LOOKED UNDER HEARD NOISE (AS DID FRONT DESK REP) AND MEC",
+      "pct": 7
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 7,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "ON TUESDAY, MARCH 2020, I PULLED INTO A PARKING SPACE AT A LOCAL CVS STORE SHORTLY AFTER 5 PM, ABOUT TO COME TO A COMPLETE STOP AND SHIFT INTO PARK, WHEN MY 2020 HYUNDAI KONA SUDDENLY AND INEXPLICABLY ACCELERATED, JUMPED THE POLICEMAN, THEN THE CURB AND RAMMED INTO THE WALL OF CV",
+      "pct": 5
+    },
+    {
+      "component": "STEERING",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHILE DRIVING OVER 40MPH, VEHICLE WANDERS FROM LEFT TO RIGHT WITHOUT DRIVER INPUT.  THE ELECTRONIC POWER STEERING REQUIRES  CONSTANT DRIVER INPUT TO CORRECT DIRECTION OF TRAVEL AND IS MOST EVIDENT ON STRAIGHT 4 LANE HIGHWAY,  CONDITION WAS SHARED WITH HENDERSON (NEVADA)) HYUNDAI ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Hyundai Kona: the engine drives most owner complaints",
+    "summary": "Owners filed 150 complaints with NHTSA. The engine dominates at 65% of all reports, far ahead of the power train (12%) and electrical system (7%). No deaths or fires are reported on the engine itself, but vehicle speed control stands out: only 7 reports, yet the most crashes (3) and injuries (5) of any area. Take both the engine and any unexpected acceleration seriously on a test drive.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 97,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "IN JUNE I TOOK THE CAR BACK TO THE DEALERSHIP BECAUSE OF A LOUD TICKING NOISE. I THEN THOUGHT IT WAS THE OIL LEVEL WAS LOW... WHEN THEY CHECKED TO SEE IT I NEEDED AN OIL CHANGE THEY STATED I NEED TO HAVE AT LEAST 7500 MILES ON THE VEHICLE BEFORE I CAN GET AN OIL CHANGE. THEY STAT",
+        "pct": 65,
+        "title": "Engine",
+        "blurb": "By far the most reported area: 97 reports (65%), with 2 crashes and 3 injuries. No fires noted. Listen for unusual noises and watch for engine trouble while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 18,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE ON THE HIGHWAY, A MESSAGE \"COLLISION DETECTION SYSTEM FAILURE\" FLASHED ON THE INSTRUMENT PANEL, AND THE BRAKES SLAMMED ON FULL, FOLLOWED BY THE TRANSMISSION STUCK IN 4TH GEAR. I HAD TO LEAVE THE HIGHWAY, AND POWER OFF THE ENGINE - EFFECTIVELY REBOOTING THE CAR. I CONTINUED ",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "Second most reported: 18 reports (12%), including 1 with fire. No crashes or injuries noted. Watch how the transmission shifts and behaves on the highway."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BOUGHT NEW CAR JULY 2020, WAS GOOD FOR A LITTLE WHILE THEN STARTED TO HAVE LOUD TICKING NOISE UNDER HOOD. BROUGHT CAR IN FOR SERVICE AT 3100 (APPROX) MILES HAD A FEW ISSUES AT THIS SERVICE, MAIN WAS NOISE. WAS TOLD MECHANIC LOOKED UNDER HEARD NOISE (AS DID FRONT DESK REP) AND MEC",
+        "pct": 7,
+        "title": "Electrical System",
+        "blurb": "11 reports (7%), with no crashes, fires, or injuries noted. A smaller complaint area than the engine or power train."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 7,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "ON TUESDAY, MARCH 2020, I PULLED INTO A PARKING SPACE AT A LOCAL CVS STORE SHORTLY AFTER 5 PM, ABOUT TO COME TO A COMPLETE STOP AND SHIFT INTO PARK, WHEN MY 2020 HYUNDAI KONA SUDDENLY AND INEXPLICABLY ACCELERATED, JUMPED THE POLICEMAN, THEN THE CURB AND RAMMED INTO THE WALL OF CV",
+        "pct": 5,
+        "title": "Vehicle Speed Control",
+        "blurb": "Only 7 reports (5%) but the most serious by outcome: 3 crashes and 5 injuries, the highest of any area. Reports describe sudden, unexpected acceleration."
+      },
+      {
+        "component": "STEERING",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHILE DRIVING OVER 40MPH, VEHICLE WANDERS FROM LEFT TO RIGHT WITHOUT DRIVER INPUT.  THE ELECTRONIC POWER STEERING REQUIRES  CONSTANT DRIVER INPUT TO CORRECT DIRECTION OF TRAVEL AND IS MOST EVIDENT ON STRAIGHT 4 LANE HIGHWAY,  CONDITION WAS SHARED WITH HENDERSON (NEVADA)) HYUNDAI ",
+        "pct": 5,
+        "title": "Steering",
+        "blurb": "7 reports (5%), tied to 1 crash and no injuries. Reports describe the car wandering at highway speed; check tracking on a test drive."
+      }
+    ]
+  }
+}

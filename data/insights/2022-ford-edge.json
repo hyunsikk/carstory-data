@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-edge",
+  "make": "Ford",
+  "model": "Edge",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/EDGE#complaints",
+  "generatedAt": "2026-06-23T06:11:01.373Z",
+  "total": 117,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 35,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Edge. The contact stated while driving at slow speeds, the vehicle was jerking and shuddering while in low gear. There were no warning lights illuminated. The vehicle was taken to the local dealer, where it was diagnosed that the transmission needed t",
+      "pct": 30
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 20,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Bought this vehicle from Bayou Ford in LaPlace, LA around 2 months ago.  The back up camera stopped working correctly after first month.  Paid to have reset at Ford dealer in Slidell, they said wasn't on recall. It's got squiggly lines when selecting reverse on shifter, unable to",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "The contact rented a 2022 Ford Edge. The contact stated while moving items out of the trunk of the vehicle with the rear door elevated, the rear door inadvertently dropped and hit her on the face. The contact sustained a laceration under her left eye. Additionally, the contact su",
+      "pct": 12
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Edge. The contact stated while reversing, there was a knocking sound coming from the vehicle. The contact shifted the vehicle into neutral(N) and then to park(P) however, the knocking sound persisted. The vehicle was taken to the dealer however, no fa",
+      "pct": 9
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle starting giving blocked front sensor errors disabling adaptive cruise control and forward collision warning and emergency braking systems. Car was cleaned and all sensors were clear but issue continued. The safety concern was that it unexpected and without any reason appl",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Ford Edge: the power train leads owner complaints",
+    "summary": "Owners filed 117 complaints with NHTSA. The power train is the most reported area at 30%, followed by back over prevention at 17% and the electrical system at 12%. No fires and no deaths are reported. The electrical system stands out for injuries (3), while the power train, back over prevention, and forward collision avoidance each have 1 crash.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 35,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Edge. The contact stated while driving at slow speeds, the vehicle was jerking and shuddering while in low gear. There were no warning lights illuminated. The vehicle was taken to the local dealer, where it was diagnosed that the transmission needed t",
+        "pct": 30,
+        "title": "Power Train",
+        "blurb": "The biggest complaint area: 35 reports (30%), tied to 1 crash. Owners describe jerking or shuddering at low speeds, so feel for rough shifts on a test drive."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 20,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Bought this vehicle from Bayou Ford in LaPlace, LA around 2 months ago.  The back up camera stopped working correctly after first month.  Paid to have reset at Ford dealer in Slidell, they said wasn't on recall. It's got squiggly lines when selecting reverse on shifter, unable to",
+        "pct": 17,
+        "title": "Back Over Prevention",
+        "blurb": "Second most reported: 20 reports (17%), tied to 1 crash. Reports center on the backup camera failing, so check the rear camera in reverse before buying."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "The contact rented a 2022 Ford Edge. The contact stated while moving items out of the trunk of the vehicle with the rear door elevated, the rear door inadvertently dropped and hit her on the face. The contact sustained a laceration under her left eye. Additionally, the contact su",
+        "pct": 12,
+        "title": "Electrical System",
+        "blurb": "14 reports (12%), and the only area with injuries here (3). No crashes or fires reported, but the injury count makes it worth a close look."
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Edge. The contact stated while reversing, there was a knocking sound coming from the vehicle. The contact shifted the vehicle into neutral(N) and then to park(P) however, the knocking sound persisted. The vehicle was taken to the dealer however, no fa",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "10 reports (9%), with no crashes, fires, or injuries. Owners mention knocking noises, so listen for unusual sounds from the engine."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle starting giving blocked front sensor errors disabling adaptive cruise control and forward collision warning and emergency braking systems. Car was cleaned and all sensors were clear but issue continued. The safety concern was that it unexpected and without any reason appl",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The fewest of the top areas: 7 reports (6%), tied to 1 crash. Reports describe sensor errors disabling driver-assist features, so confirm those systems work."
+      }
+    ]
+  }
+}

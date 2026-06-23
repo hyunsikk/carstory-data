@@ -1,0 +1,128 @@
+{
+  "slug": "2018-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T06:31:25.641Z",
+  "total": 383,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 159,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "WHEN YOU PUT THE SHIFTER IN PARK IT DOES NOT RECOGNIZE & CABIN ALARM STARTS TO BEEP. THE VEHICLE WILL ALSO LEAVE ITS HEADLIGHTS ON OVERNIGHT & DRAIN YOUR BATTERY.  TOOK TO DEALER AND THEY COULDN'T DO ANYTHING ABOUT IT. IT'S BEEN 2 WEEKS AND NO LETTER OF RESOLUTION FROM MANUFACTUR",
+      "pct": 42
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 108,
+      "crash": 3,
+      "fire": 1,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "I PURCHASED THE WIRELESS CHARGER. I RECEIVED THE GM DOCUMENT STATING WHAT VERSION OF PHONE I NEEDED FOR THE CHARGER TO WORK.  I PURCHASED A PHONE AND THE CHARGER DOES NOT WORK.  THE DEALER RESEARCHED THE PHONE AND THERE ARE ONLY SPECIFIC MODELS MANUFACTURED IN THE SAME  YEAR THAT",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 31,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2018 GMC ACADIA. WHILE THE CONTACT'S FRIEND WAS DRIVING 40 MPH, THE ENGINE REVVED AND THE VEHICLE  ACCELERATED ON ITS OWN. THE BRAKES FAILED TO STOP THE VEHICLE. AS A RESULT, THE VEHICLE DROVE THROUGH A PARTITION AND CRASHED INTO A BRICK WALL. THE AIR BAG",
+      "pct": 8
+    },
+    {
+      "component": "STEERING",
+      "count": 23,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "ON SEPARATE OCCASIONS, BOTH PARKED TURNED OFF AND RUNNING DOWN HIGHWAY, THE DASH LIGHTS LIT UP AND ALARMS CHIMED. CAR WOULDN'T START, NO COLD A/C. THE \"SERVICE POWER STEERING\" MESSAGE DISPLAYED. CAR DIDN'T TURN AS WELL. COULDN'T SHIFT. AFTER DOING SO FOR A ABOUT 2-3 MINUTES IT WO",
+      "pct": 6
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 21,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT RENTED A 2018 GMC ACADIA. WHILE THE CONTACT'S FRIEND WAS DRIVING 40 MPH, THE ENGINE REVVED AND THE VEHICLE  ACCELERATED ON ITS OWN. THE BRAKES FAILED TO STOP THE VEHICLE. AS A RESULT, THE VEHICLE DROVE THROUGH A PARTITION AND CRASHED INTO A BRICK WALL. THE AIR BAG",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2018 GMC Acadia: power train and electrical drive most owner complaints",
+    "summary": "Owners filed 383 complaints with NHTSA. The power train is by far the biggest concern at 42% of reports, tied to 4 crashes and 4 injuries. Electrical problems come next at 28%, then engine at 8%, steering at 6%, and brakes at 5%. One electrical report involved a fire. No deaths were reported.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 159,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "WHEN YOU PUT THE SHIFTER IN PARK IT DOES NOT RECOGNIZE & CABIN ALARM STARTS TO BEEP. THE VEHICLE WILL ALSO LEAVE ITS HEADLIGHTS ON OVERNIGHT & DRAIN YOUR BATTERY.  TOOK TO DEALER AND THEY COULDN'T DO ANYTHING ABOUT IT. IT'S BEEN 2 WEEKS AND NO LETTER OF RESOLUTION FROM MANUFACTUR",
+        "pct": 42,
+        "title": "Power Train",
+        "blurb": "The top complaint area by a wide margin: 159 reports (42%). Linked to 4 crashes and 4 injuries, so test how the car shifts and drives carefully before buying."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 108,
+        "crash": 3,
+        "fire": 1,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "I PURCHASED THE WIRELESS CHARGER. I RECEIVED THE GM DOCUMENT STATING WHAT VERSION OF PHONE I NEEDED FOR THE CHARGER TO WORK.  I PURCHASED A PHONE AND THE CHARGER DOES NOT WORK.  THE DEALER RESEARCHED THE PHONE AND THERE ARE ONLY SPECIFIC MODELS MANUFACTURED IN THE SAME  YEAR THAT",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 108 reports (28%), tied to 3 crashes, 3 injuries, and 1 fire. Check that all electronics work and watch for any burning smell."
+      },
+      {
+        "component": "ENGINE",
+        "count": 31,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2018 GMC ACADIA. WHILE THE CONTACT'S FRIEND WAS DRIVING 40 MPH, THE ENGINE REVVED AND THE VEHICLE  ACCELERATED ON ITS OWN. THE BRAKES FAILED TO STOP THE VEHICLE. AS A RESULT, THE VEHICLE DROVE THROUGH A PARTITION AND CRASHED INTO A BRICK WALL. THE AIR BAG",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "31 reports (8%), but serious: tied to 4 crashes and 5 injuries. Worth a close look despite the lower count."
+      },
+      {
+        "component": "STEERING",
+        "count": 23,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "ON SEPARATE OCCASIONS, BOTH PARKED TURNED OFF AND RUNNING DOWN HIGHWAY, THE DASH LIGHTS LIT UP AND ALARMS CHIMED. CAR WOULDN'T START, NO COLD A/C. THE \"SERVICE POWER STEERING\" MESSAGE DISPLAYED. CAR DIDN'T TURN AS WELL. COULDN'T SHIFT. AFTER DOING SO FOR A ABOUT 2-3 MINUTES IT WO",
+        "pct": 6,
+        "title": "Steering",
+        "blurb": "23 reports (6%), tied to 2 crashes and 5 injuries. Test the steering through full turns and watch for any power-steering warning."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 21,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT RENTED A 2018 GMC ACADIA. WHILE THE CONTACT'S FRIEND WAS DRIVING 40 MPH, THE ENGINE REVVED AND THE VEHICLE  ACCELERATED ON ITS OWN. THE BRAKES FAILED TO STOP THE VEHICLE. AS A RESULT, THE VEHICLE DROVE THROUGH A PARTITION AND CRASHED INTO A BRICK WALL. THE AIR BAG",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "Smaller count but the most injuries: 21 reports (5%), tied to 8 injuries and 4 crashes. Inspect the brakes carefully before buying."
+      }
+    ]
+  }
+}

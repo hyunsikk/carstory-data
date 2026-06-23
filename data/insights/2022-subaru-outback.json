@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-outback",
+  "make": "Subaru",
+  "model": "Outback",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/OUTBACK#complaints",
+  "generatedAt": "2026-06-23T06:20:45.440Z",
+  "total": 451,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 253,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield cracked at 4,900 miles, parked at work. My safety was fine when it happened because no one was in the car. Contacted Subaru of America and local Subaru dealer, they both sent me to one another but neither has helped to help fix this reoccurring issue with 2022 Subaru O",
+      "pct": 56
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 46,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle was purhased in early June 2021.  Vehicle was being operated on State Highway Route 55 at Milepost 46.7, in Elk Township, Gloucester County.  Traffic was heavy, with southbound transient traffic traveling to New Jersey Shore points.  Vehicle simultaneously lost power and ",
+      "pct": 10
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Subaru windshields still crack. Owned this car for less than one week and a crack on the passenger side appeared overnight. Cracked windshields reduce ability to see and can worsen over time. The dealer refused to replace the windshield. So, we took the car to a shop and they rep",
+      "pct": 6
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 23,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "In 3 months of owning this vehicle, the Auto Emergency Braking (AEB) system has spontaneously triggered with no cause at least a handful of times (multiple incidents). I am driving with no danger or risk of collision and the vehicle will slam on the brakes and make horrible noise",
+      "pct": 5
+    },
+    {
+      "component": "ENGINE",
+      "count": 18,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The initial incident occurred on July 31, 2021.  I used the push button start to start the car, put the vehicle in reverse, and the vehicle proceeded to roll uncontrolled down my driveway, which is on a slope.  I had no power steering or power brakes.  I was able to safely stop t",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Subaru Outback: cracked windshields dominate the complaints",
+    "summary": "Owners filed 451 complaints with NHTSA. Visibility/Wiper issues, largely cracking windshields, make up more than half of them (56%) and report no crashes, fires, or injuries. The electrical system (10%) and engine (4%) are reported far less often but account for most of the fires, with 3 each. The forward collision avoidance system (5%) is tied to 3 crashes. No deaths or injuries are reported in any area.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 253,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield cracked at 4,900 miles, parked at work. My safety was fine when it happened because no one was in the car. Contacted Subaru of America and local Subaru dealer, they both sent me to one another but neither has helped to help fix this reoccurring issue with 2022 Subaru O",
+        "pct": 56,
+        "title": "Visibility/Wiper",
+        "blurb": "By far the biggest complaint: 253 reports (56%), commonly cracking windshields. No crashes, fires, or injuries reported, but expect possible windshield replacements."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 46,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle was purhased in early June 2021.  Vehicle was being operated on State Highway Route 55 at Milepost 46.7, in Elk Township, Gloucester County.  Traffic was heavy, with southbound transient traffic traveling to New Jersey Shore points.  Vehicle simultaneously lost power and ",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 46 reports (10%), including 3 fires and 1 crash. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Subaru windshields still crack. Owned this car for less than one week and a crack on the passenger side appeared overnight. Cracked windshields reduce ability to see and can worsen over time. The dealer refused to replace the windshield. So, we took the car to a shop and they rep",
+        "pct": 6,
+        "title": "Visibility",
+        "blurb": "26 reports (6%), again mostly cracking windshields. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 23,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "In 3 months of owning this vehicle, the Auto Emergency Braking (AEB) system has spontaneously triggered with no cause at least a handful of times (multiple incidents). I am driving with no danger or risk of collision and the vehicle will slam on the brakes and make horrible noise",
+        "pct": 5,
+        "title": "Forward Collision Avoidance",
+        "blurb": "23 reports (5%), tied to 3 crashes. Owners describe the automatic braking activating with no obstacle present."
+      },
+      {
+        "component": "ENGINE",
+        "count": 18,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The initial incident occurred on July 31, 2021.  I used the push button start to start the car, put the vehicle in reverse, and the vehicle proceeded to roll uncontrolled down my driveway, which is on a slope.  I had no power steering or power brakes.  I was able to safely stop t",
+        "pct": 4,
+        "title": "Engine",
+        "blurb": "Fewest reports at 18 (4%), but linked to 3 fires and 1 crash. Watch for loss of power or braking and steering assist."
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T06:31:23.093Z",
+  "total": 92,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TWO DAYS AFTER PURCHASING A NEW 2020 GMC ACADIA I GET AN ERROR ON THE DISPLAY \"SD CARD REMOVED\" ALONG WITH VARIOUS OTHER ERROR MESSAGES.  DEALER TALKS TO GMC TECH LINE AND THEY ADVISE TO REPLACE RADIO.  RADIO WAS REPLACED AND ERRORS BEGAN SAME DAY I PICKED IT UP.  DEALER IS REPLA",
+      "pct": 28
+    },
+    {
+      "component": "ENGINE",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I noticed for months it was downshifting hard but transmission department was backed up I scheduled in September for an appointment October 26 and that morning I received a call to reschedule because they were still behind and had another appointment for November 10th. The mornin",
+      "pct": 24
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 19,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN THE VEHICLE IS ALREADY IN MOTION, IT AUTOMATICALLY SHIFTS OUT OF DRIVE AND I AM LEFT IN THE MIDDLE OF THE ROAD UNABLE TO ACCELERATE FOR A FEW SECONDS UNTIL THE VEHICLE AUTOMATICALLY SHIFTS BACK TO DRIVE. THIS HAPPENS AFTER PULLING OUT OF MY GRAVEL DRIVEWAY WHICH IS A SLIGHT ",
+      "pct": 21
+    },
+    {
+      "component": "STEERING",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My steering assist is reduced drive with care message is on. The AC is no longer working and the fan is constantly running and sounds horrible. The temperature gauge has not come off of cold. After researching this issue online-it looks like this is a constant problem with Acadia",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 8,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "BRAND NEW VEHICLE.  PURCHASED ON 10/30/2020. FRONT COLLISION KEEPS FLASHING A RED LIGHT IN THE TOP OF DASH THAT SHOWS UP IN WINDSHIELD.  THIS HAPPENS WITH NO OTHER VEHICLES ON THE ROAD AT RANDOM TIMES.  WHEN THE VEHICLE NEEDS TO STOP OR WARN YOU IT WILL NOT.  IT WILL JUST LET YOU",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2020 GMC Acadia: electrical and drivetrain lead the complaints",
+    "summary": "Owners filed 92 complaints with NHTSA. The electrical system is the most reported area at 28%, followed closely by the engine (24%) and power train (21%); steering (15%) and forward collision avoidance (9%) round out the top five. No fires, injuries, or deaths are reported. Only 2 complaints involved a crash, one each in the electrical and forward collision avoidance areas.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TWO DAYS AFTER PURCHASING A NEW 2020 GMC ACADIA I GET AN ERROR ON THE DISPLAY \"SD CARD REMOVED\" ALONG WITH VARIOUS OTHER ERROR MESSAGES.  DEALER TALKS TO GMC TECH LINE AND THEY ADVISE TO REPLACE RADIO.  RADIO WAS REPLACED AND ERRORS BEGAN SAME DAY I PICKED IT UP.  DEALER IS REPLA",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "The most reported area: 26 reports (28%), with 1 tied to a crash. No fires or injuries reported."
+      },
+      {
+        "component": "ENGINE",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I noticed for months it was downshifting hard but transmission department was backed up I scheduled in September for an appointment October 26 and that morning I received a call to reschedule because they were still behind and had another appointment for November 10th. The mornin",
+        "pct": 24,
+        "title": "Engine",
+        "blurb": "Second most reported: 22 reports (24%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 19,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN THE VEHICLE IS ALREADY IN MOTION, IT AUTOMATICALLY SHIFTS OUT OF DRIVE AND I AM LEFT IN THE MIDDLE OF THE ROAD UNABLE TO ACCELERATE FOR A FEW SECONDS UNTIL THE VEHICLE AUTOMATICALLY SHIFTS BACK TO DRIVE. THIS HAPPENS AFTER PULLING OUT OF MY GRAVEL DRIVEWAY WHICH IS A SLIGHT ",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "19 reports (21%), close behind the engine. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "STEERING",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My steering assist is reduced drive with care message is on. The AC is no longer working and the fan is constantly running and sounds horrible. The temperature gauge has not come off of cold. After researching this issue online-it looks like this is a constant problem with Acadia",
+        "pct": 15,
+        "title": "Steering",
+        "blurb": "14 reports (15%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 8,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "BRAND NEW VEHICLE.  PURCHASED ON 10/30/2020. FRONT COLLISION KEEPS FLASHING A RED LIGHT IN THE TOP OF DASH THAT SHOWS UP IN WINDSHIELD.  THIS HAPPENS WITH NO OTHER VEHICLES ON THE ROAD AT RANDOM TIMES.  WHEN THE VEHICLE NEEDS TO STOP OR WARN YOU IT WILL NOT.  IT WILL JUST LET YOU",
+        "pct": 9,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The smallest of the top five: 8 reports (9%), with 1 tied to a crash. No fires or injuries reported."
+      }
+    ]
+  }
+}

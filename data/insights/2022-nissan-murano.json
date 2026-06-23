@@ -1,0 +1,84 @@
+{
+  "slug": "2022-nissan-murano",
+  "make": "Nissan",
+  "model": "Murano",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/MURANO#complaints",
+  "generatedAt": "2026-06-23T06:16:40.522Z",
+  "total": 5,
+  "issues": [
+    {
+      "component": "VISIBILITY",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Murano. The contact stated that upon entering the vehicle, she noticed a puddle of water on the front and rear floorboards of the vehicle. The vehicle was taken to the dealer where it was diagnosed that water had entered around the windshield enclos",
+      "pct": 20
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Murano. The contact stated while his wife was at a complete stop, another vehicle which was driving approximately 25 MPH, crashed into the rear of the vehicle. The contact’s wife veered to the side of the road. The Automatic Collision Notification (",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Nissan Murano. The contact stated while driving approximately 70 MPH in the rain with all windows rolled up, there was leakage that occurred. There were no warning lights illuminated. The contact stated four days later she noticed the driver and passenger'",
+      "pct": 20
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Nissan Murano: only a handful of owner complaints, several about water leaks",
+    "summary": "Owners filed just 5 complaints with NHTSA, so the sample is small. Three named components each show up once (20% apiece): visibility, the electrical system, and structure. Two of those reports describe water leaking into the cabin. No fires, injuries, or deaths are reported; one electrical-system report involved a crash.",
+    "issues": [
+      {
+        "component": "VISIBILITY",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Murano. The contact stated that upon entering the vehicle, she noticed a puddle of water on the front and rear floorboards of the vehicle. The vehicle was taken to the dealer where it was diagnosed that water had entered around the windshield enclos",
+        "pct": 20,
+        "title": "Visibility",
+        "blurb": "1 report (20%), with no crashes, fires, or injuries. The owner found water pooling on the floorboards, traced to a leak around the windshield."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Murano. The contact stated while his wife was at a complete stop, another vehicle which was driving approximately 25 MPH, crashed into the rear of the vehicle. The contact’s wife veered to the side of the road. The Automatic Collision Notification (",
+        "pct": 20,
+        "title": "Electrical System",
+        "blurb": "1 report (20%) tied to 1 crash, with no fire or injuries. It describes a rear-end collision and the vehicle's Automatic Collision Notification."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Nissan Murano. The contact stated while driving approximately 70 MPH in the rain with all windows rolled up, there was leakage that occurred. There were no warning lights illuminated. The contact stated four days later she noticed the driver and passenger'",
+        "pct": 20,
+        "title": "Structure",
+        "blurb": "1 report (20%), with no crashes, fires, or injuries. The owner reported water leaking in while driving in the rain, with no warning lights."
+      }
+    ]
+  }
+}

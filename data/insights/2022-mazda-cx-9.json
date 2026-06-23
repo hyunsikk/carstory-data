@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mazda-cx-9",
+  "make": "Mazda",
+  "model": "CX-9",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MAZDA/CX-9#complaints",
+  "generatedAt": "2026-06-23T06:27:59.452Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mazda CX-9. The contact stated that the vehicle was being operated with the front driver's side seat warmer activated to the highest heat level. After driving for several hours, the vehicle was parked. While exiting the vehicle, the contact experienced pai",
+      "pct": 22
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "To Whom It May Concern, I am writing to formally report a potential safety issue with my 2022 Mazda CX-9, which is a Certified Pre-Owned (CPO) vehicle under limited warranty until March 2026 and powertrain warranty until March 2029. It has 36,000 miles on it. Recently, I noticed ",
+      "pct": 22
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "1.Instrument cluster panel brightness does not adjust either too dim or too bright  Mazda dealer stated no failures were found twice same responded.  2. Lane Keep Assist this feature never worked even on the straight road  since I bought July      2022. Mazda doesn't have a capab",
+      "pct": 22
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The windshield wiper sprayers don't work properly when it gets significantly below freezing. This is incredibly dangerous on highways where it snows and the roads are salted, allowing for the snow to be thrown up as mud. This ends up in the windshield wipers just spreading mud al",
+      "pct": 11
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My wife has a cold. She picked it up during several uncomfortable hours in the emergency room. Our driveway is on a bit of a slope. She stopped the car, put it in park (she thought), turned off the engine, and got out. Something in the dashboard compartment had blocked the shift ",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Mazda CX-9: only a handful of complaints, spread across several areas",
+    "summary": "Owners filed just 9 complaints with NHTSA, so no single problem dominates. Three areas tie for the top spot at 2 reports each (22%): the electrical system, the body structure, and the exterior lighting. The wipers and the brakes each drew one report. No fires and no deaths are reported. The one brake complaint is the only one tied to a crash, and it also caused an injury, so the brakes are worth a close look despite the small count.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mazda CX-9. The contact stated that the vehicle was being operated with the front driver's side seat warmer activated to the highest heat level. After driving for several hours, the vehicle was parked. While exiting the vehicle, the contact experienced pai",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "Tied for the most-reported area: 2 complaints (22%), one of which involved an injury. No crash or fire."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "To Whom It May Concern, I am writing to formally report a potential safety issue with my 2022 Mazda CX-9, which is a Certified Pre-Owned (CPO) vehicle under limited warranty until March 2026 and powertrain warranty until March 2029. It has 36,000 miles on it. Recently, I noticed ",
+        "pct": 22,
+        "title": "Structure",
+        "blurb": "Tied for the most-reported area: 2 complaints (22%), with no crash, fire, or injury reported."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "1.Instrument cluster panel brightness does not adjust either too dim or too bright  Mazda dealer stated no failures were found twice same responded.  2. Lane Keep Assist this feature never worked even on the straight road  since I bought July      2022. Mazda doesn't have a capab",
+        "pct": 22,
+        "title": "Exterior Lighting",
+        "blurb": "Tied for the most-reported area: 2 complaints (22%), with no crash, fire, or injury reported."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The windshield wiper sprayers don't work properly when it gets significantly below freezing. This is incredibly dangerous on highways where it snows and the roads are salted, allowing for the snow to be thrown up as mud. This ends up in the windshield wipers just spreading mud al",
+        "pct": 11,
+        "title": "Visibility/Wiper",
+        "blurb": "A single complaint (11%), with no crash, fire, or injury reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My wife has a cold. She picked it up during several uncomfortable hours in the emergency room. Our driveway is on a bit of a slope. She stopped the car, put it in park (she thought), turned off the engine, and got out. Something in the dashboard compartment had blocked the shift ",
+        "pct": 11,
+        "title": "Service Brakes",
+        "blurb": "Only one complaint (11%), but it is the lone report tied to a crash, and it also caused an injury."
+      }
+    ]
+  }
+}

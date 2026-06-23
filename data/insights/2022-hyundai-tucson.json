@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-tucson",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/HYUNDAI/TUCSON#complaints",
+  "generatedAt": "2026-06-23T06:23:37.937Z",
+  "total": 359,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 126,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My wife was driving on the parkway north in New Jersey at approximately 65 miles an hour at about 3:45 pm. The car began to lose power, was shaking, and sputtering.  Luckily,  she was able to pull onto the shoulder and did not get hit by another car or truck. Once she pulled over",
+      "pct": 35
+    },
+    {
+      "component": "ENGINE",
+      "count": 109,
+      "crash": 3,
+      "fire": 2,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Dear all,  I bought the 2022 Hyundai Tusan SUV on June 16th, 2021. Since then, the car engine has been turn off more than 20 times, causing problems that require restarting. When I stop at the traffic light while driving and start, the car will turn off and I have to take off my ",
+      "pct": 30
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 62,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "i bought this 2022 tucson from pohanka hyundai in capitol heights MD , after less than a month i started feeling harsh shifting in the transmission i looked underneath the vehicle and noticed immediately a red oil dripping from the transmission i took it back to the dealership an",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 46,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "2022 HYUNDAI TUCSON. CONSUMER WRITES IN REGARD TO SOFTWARE UPDATE.  THE CONSUMER STATED THE 'FAVORITES' OPTION FOR CONTACTS WAS REMOVED AS WELL AS RADIO PRESETS. THE CONSUMER STATES THIS REQUIRES THE DRIVER TO BE DISTRACTED FOR AN EXTENDED PERIOD OF TIME. THE CONSUMER STATED THE ",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 30,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 4,
+      "deaths": 0,
+      "sample": "Hello,  I am writing because I have experienced mechanical issues with my car since I purchased the automobile. Since I bought the car, I began having problems with the electrical components, the automatic emergency brake engaging while driving, and the chassis. The emergency bra",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Hyundai Tucson: fuel and engine lead the owner complaints",
+    "summary": "Owners filed 359 complaints with NHTSA. The fuel/propulsion system is the most reported area at 35%, followed closely by the engine at 30% and the power train at 17%. No deaths are reported. Forward collision avoidance draws the fewest complaints (8%) but is tied to the most crashes (8) and injuries (4) of any area, so the automatic braking is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 126,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My wife was driving on the parkway north in New Jersey at approximately 65 miles an hour at about 3:45 pm. The car began to lose power, was shaking, and sputtering.  Luckily,  she was able to pull onto the shoulder and did not get hit by another car or truck. Once she pulled over",
+        "pct": 35,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The single biggest complaint: 126 reports (35%), tied to 2 crashes. Watch for loss of power, shaking, or sputtering while driving."
+      },
+      {
+        "component": "ENGINE",
+        "count": 109,
+        "crash": 3,
+        "fire": 2,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Dear all,  I bought the 2022 Hyundai Tusan SUV on June 16th, 2021. Since then, the car engine has been turn off more than 20 times, causing problems that require restarting. When I stop at the traffic light while driving and start, the car will turn off and I have to take off my ",
+        "pct": 30,
+        "title": "Engine",
+        "blurb": "Second most reported: 109 reports (30%), including 2 fires, 3 crashes, and 1 injury. Owners describe the engine shutting off and needing a restart."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 62,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "i bought this 2022 tucson from pohanka hyundai in capitol heights MD , after less than a month i started feeling harsh shifting in the transmission i looked underneath the vehicle and noticed immediately a red oil dripping from the transmission i took it back to the dealership an",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "62 reports (17%), tied to 2 crashes. Owners report harsh shifting and transmission fluid leaks, so check the shifting on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 46,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "2022 HYUNDAI TUCSON. CONSUMER WRITES IN REGARD TO SOFTWARE UPDATE.  THE CONSUMER STATED THE 'FAVORITES' OPTION FOR CONTACTS WAS REMOVED AS WELL AS RADIO PRESETS. THE CONSUMER STATES THIS REQUIRES THE DRIVER TO BE DISTRACTED FOR AN EXTENDED PERIOD OF TIME. THE CONSUMER STATED THE ",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "46 reports (13%), including 1 fire, 1 crash, and 2 injuries. Complaints range from software updates to electrical faults."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 30,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 4,
+        "deaths": 0,
+        "sample": "Hello,  I am writing because I have experienced mechanical issues with my car since I purchased the automobile. Since I bought the car, I began having problems with the electrical components, the automatic emergency brake engaging while driving, and the chassis. The emergency bra",
+        "pct": 8,
+        "title": "Forward Collision Avoidance",
+        "blurb": "Only 30 reports (8%) but the most serious by outcome: 8 crashes and 4 injuries. Owners describe the automatic emergency brake engaging on its own while driving."
+      }
+    ]
+  }
+}

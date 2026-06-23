@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-crosstrek",
+  "make": "Subaru",
+  "model": "Crosstrek",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/CROSSTREK#complaints",
+  "generatedAt": "2026-06-23T06:21:26.901Z",
+  "total": 28,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Its widely known that Subaru has a problem with their windshields dating back to 2015.  There have been several class action lawsuits wherein their windshields crack for NO reason.    My windshield cracked and it was determined there was an impact point where the crack propagated",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When starting the vehicle in a narrow area, the reverse automatic braking will sometimes activate. This causes the anti-lock brake system to actuate while the car is backing up making a rapid clicking noise. After backing up approximately 6-8 feet, the vehicle will stall, the ste",
+      "pct": 14
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When starting the vehicle in a narrow area, the reverse automatic braking will sometimes activate. This causes the anti-lock brake system to actuate while the car is backing up making a rapid clicking noise. After backing up approximately 6-8 feet, the vehicle will stall, the ste",
+      "pct": 14
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When starting the vehicle in a narrow area, the reverse automatic braking will sometimes activate. This causes the anti-lock brake system to actuate while the car is backing up making a rapid clicking noise. After backing up approximately 6-8 feet, the vehicle will stall, the ste",
+      "pct": 14
+    },
+    {
+      "component": "ENGINE",
+      "count": 3,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Subaru Crosstrek. The contact stated that while his wife was idled in inclement weather, and the brake pedal was depressed, however, the vehicle accelerated violently without warning. As a result, the vehicle crashed into a brick building. The air bags did",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Subaru Crosstrek: visibility and windshield top the owner complaints",
+    "summary": "Owners filed 28 complaints with NHTSA. Visibility/Wiper is the most reported area at 21%, followed by a three-way tie among the electrical system, service brakes, and forward collision avoidance at 14% each. No fires, injuries, or deaths are reported. The engine draws the fewest complaints but the most crashes (2) of any area, and the brakes account for 1 more, so the driveline is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Its widely known that Subaru has a problem with their windshields dating back to 2015.  There have been several class action lawsuits wherein their windshields crack for NO reason.    My windshield cracked and it was determined there was an impact point where the crack propagated",
+        "pct": 21,
+        "title": "Visibility/Wiper",
+        "blurb": "The most reported area: 6 reports (21%), with no crashes, fires, or injuries. Owners describe windshield cracking; inspect the glass closely."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When starting the vehicle in a narrow area, the reverse automatic braking will sometimes activate. This causes the anti-lock brake system to actuate while the car is backing up making a rapid clicking noise. After backing up approximately 6-8 feet, the vehicle will stall, the ste",
+        "pct": 14,
+        "title": "Electrical System",
+        "blurb": "4 reports (14%), with no crashes, fires, or injuries. Tied for second most reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When starting the vehicle in a narrow area, the reverse automatic braking will sometimes activate. This causes the anti-lock brake system to actuate while the car is backing up making a rapid clicking noise. After backing up approximately 6-8 feet, the vehicle will stall, the ste",
+        "pct": 14,
+        "title": "Service Brakes",
+        "blurb": "4 reports (14%), including 1 crash and no injuries. Test the brakes thoroughly."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When starting the vehicle in a narrow area, the reverse automatic braking will sometimes activate. This causes the anti-lock brake system to actuate while the car is backing up making a rapid clicking noise. After backing up approximately 6-8 feet, the vehicle will stall, the ste",
+        "pct": 14,
+        "title": "Forward Collision Avoidance",
+        "blurb": "4 reports (14%), with no crashes, fires, or injuries. Tied for second most reported."
+      },
+      {
+        "component": "ENGINE",
+        "count": 3,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Subaru Crosstrek. The contact stated that while his wife was idled in inclement weather, and the brake pedal was depressed, however, the vehicle accelerated violently without warning. As a result, the vehicle crashed into a brick building. The air bags did",
+        "pct": 11,
+        "title": "Engine",
+        "blurb": "Fewest reports at 3 (11%) but the most crashes of any area (2), with no injuries. One owner describes the vehicle accelerating without warning."
+      }
+    ]
+  }
+}

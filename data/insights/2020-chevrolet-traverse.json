@@ -1,0 +1,128 @@
+{
+  "slug": "2020-chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/CHEVROLET/TRAVERSE#complaints",
+  "generatedAt": "2026-06-23T06:13:50.612Z",
+  "total": 209,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 65,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL*   THE CONTACT LEASED A 2020 CHEVROLET TRAVERSE. THE CONTACT STATED THAT THE VEHICLE WAS A MODIFIED VEHICLE WITH HAND CONTROLS INSTALLED. THE VEHICLE PASSED TESTING WHICH WAS APPROVED BY MANUFACTURER. WHILE DRIVING 6-7 MPH MERGING INTO TRAFFIC WITH THE ACCELERATOR PEDAL DEPRES",
+      "pct": 31
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 35,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHEN SHIFTING FROM DRIVE TO REVERSE, OR PARK TO REVERSE, THE TRANSMISSION WILL NOT ENGAGE RIGHT AWAY. THE VEHICLE WILL ROLL FORWARD OR BACKWARDS UNTIL THE TRANSMISSION ENGAGES INTO REVERSE. THIS WILL HAPPEN WHEN THE VEHICLE IS IN MOTION AT VERY LOW SPEEDS (1-2 MPH) AND ALSO WHILE",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "REAR CAMERA STOPPED WORKING AIDE SENORS STOPPED WORKING.  AFTER SEVERAL MONTHS OF TRYING TO FIX THIS THEY FINALLY MIGHT HAVE THIS ON THE RECALL LIST FOR SOME CABLE KIT, WHICH THEY DID NOT TOTALLY PUT ON MINE BECUASE DUE TO COVID THEY ARE BACKED UP ON MANUFACTURING, I DO NOT RELY ",
+      "pct": 13
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Exhaust manifold/down pipe to cat. The exhaust pipe broke just past where it hooks up to the engine block. The breakage caused exhaust fumes to enter the cabin while not moving and at idle. The vehicle has 80K plus miles so was out of warranty. I fixed the issue myself since I ha",
+      "pct": 11
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Vehicle all of a sudden started sound loud when accelerating on a trip home.  Vehicle is 58K miles.  Upon investigation, the vehicle was loud when starting as well. Mechanic determined front pipe under driver side had rusted and broken.  Was told there is no recall, not covered u",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Chevy Traverse: engine and power train lead owner complaints",
+    "summary": "Owners filed 209 complaints with NHTSA. The engine is the single biggest concern at 31% of reports, followed by the power train at 17%, the electrical system at 13%, engine and engine cooling at 11%, and the fuel/propulsion system at 7%. Reports of crashes are rare (1 tied to the engine, 2 to the electrical system) and no fires, injuries, or deaths were reported across these areas.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 65,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL*   THE CONTACT LEASED A 2020 CHEVROLET TRAVERSE. THE CONTACT STATED THAT THE VEHICLE WAS A MODIFIED VEHICLE WITH HAND CONTROLS INSTALLED. THE VEHICLE PASSED TESTING WHICH WAS APPROVED BY MANUFACTURER. WHILE DRIVING 6-7 MPH MERGING INTO TRAFFIC WITH THE ACCELERATOR PEDAL DEPRES",
+        "pct": 31,
+        "title": "Engine",
+        "blurb": "The top complaint area: 65 reports (31%), with 1 linked crash. No fires or injuries reported, but it is the area to check most carefully before buying."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 35,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHEN SHIFTING FROM DRIVE TO REVERSE, OR PARK TO REVERSE, THE TRANSMISSION WILL NOT ENGAGE RIGHT AWAY. THE VEHICLE WILL ROLL FORWARD OR BACKWARDS UNTIL THE TRANSMISSION ENGAGES INTO REVERSE. THIS WILL HAPPEN WHEN THE VEHICLE IS IN MOTION AT VERY LOW SPEEDS (1-2 MPH) AND ALSO WHILE",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "Second most reported: 35 reports (17%). No crashes, fires, or injuries reported. Test how the car shifts and drives under load."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "REAR CAMERA STOPPED WORKING AIDE SENORS STOPPED WORKING.  AFTER SEVERAL MONTHS OF TRYING TO FIX THIS THEY FINALLY MIGHT HAVE THIS ON THE RECALL LIST FOR SOME CABLE KIT, WHICH THEY DID NOT TOTALLY PUT ON MINE BECUASE DUE TO COVID THEY ARE BACKED UP ON MANUFACTURING, I DO NOT RELY ",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "28 reports (13%), with 2 linked crashes. Check that cameras, sensors, and other electronics all work."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Exhaust manifold/down pipe to cat. The exhaust pipe broke just past where it hooks up to the engine block. The breakage caused exhaust fumes to enter the cabin while not moving and at idle. The vehicle has 80K plus miles so was out of warranty. I fixed the issue myself since I ha",
+        "pct": 11,
+        "title": "Engine And Engine Cooling",
+        "blurb": "23 reports (11%). No crashes, fires, or injuries reported. Worth a look at the exhaust and cooling components."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Vehicle all of a sudden started sound loud when accelerating on a trip home.  Vehicle is 58K miles.  Upon investigation, the vehicle was loud when starting as well. Mechanic determined front pipe under driver side had rusted and broken.  Was told there is no recall, not covered u",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "Smallest of the top five: 15 reports (7%). No crashes, fires, or injuries reported."
+      }
+    ]
+  }
+}

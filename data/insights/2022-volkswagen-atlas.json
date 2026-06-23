@@ -1,0 +1,128 @@
+{
+  "slug": "2022-volkswagen-atlas",
+  "make": "Volkswagen",
+  "model": "Atlas",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/VOLKSWAGEN/ATLAS#complaints",
+  "generatedAt": "2026-06-23T06:29:29.598Z",
+  "total": 164,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 46,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving in stop and go city traffic with the auto start/stop disengaged, the vehicle completely shut off while in drive. After releasing the brakes to proceed in traffic I was unable to control the vehicle or accelerate. The vehicle indicated that it needed to be placed in ",
+      "pct": 28
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 45,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My emergency brake engaged while I was slowly entering an intersection.  Almost caused an accident - cars behind me had to slam on their brakes.  I believe this issue is part of recall 97GF which only lists air bags as a result of faulty wiring in door harness.  The e brakes enga",
+      "pct": 27
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 39,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Parked vehicle overnight and found all windows to have rolled down on its own during the winter around February (once parked outside at 20 degrees F, second in garage 30 degrees F). Received a notification for system update after incident happened twice (we hang up our keys which",
+      "pct": 24
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 29,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On Thursday, April 14th, the airbag warning light illuminated while displaying an \"AirBag Error\" message.  The vehicle was dropped off at the dealership the same day.   The information below is from the Volkswagen dealership in Tulsa, OK  “Performed Guided Fault Finding diagnosis",
+      "pct": 18
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Two separate instances. The first: emergency break engaged for no reason while in driveway at a low speed. It jolted the car back and I had to put car in Park and then drive again. If this happened while anywhere else, it could cause an accident by being rear ended or a tail spin",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Volkswagen Atlas owners complain about most",
+    "summary": "Owners filed 164 complaints with NHTSA for the 2022 Volkswagen Atlas. Engine problems lead the list at 28% of reports, with brake and electrical issues close behind. A few reports mention a crash or a fire. Here are the five most common problem areas.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 46,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving in stop and go city traffic with the auto start/stop disengaged, the vehicle completely shut off while in drive. After releasing the brakes to proceed in traffic I was unable to control the vehicle or accelerate. The vehicle indicated that it needed to be placed in ",
+        "pct": 28,
+        "title": "Engine",
+        "blurb": "The most reported area, with 46 complaints (28% of all reports). One report involved a fire. No crashes or injuries were reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 45,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My emergency brake engaged while I was slowly entering an intersection.  Almost caused an accident - cars behind me had to slam on their brakes.  I believe this issue is part of recall 97GF which only lists air bags as a result of faulty wiring in door harness.  The e brakes enga",
+        "pct": 27,
+        "title": "Service Brakes",
+        "blurb": "The second most reported area, with 45 complaints (27% of all reports). Two reports involved a crash. No injuries were reported."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 39,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Parked vehicle overnight and found all windows to have rolled down on its own during the winter around February (once parked outside at 20 degrees F, second in garage 30 degrees F). Received a notification for system update after incident happened twice (we hang up our keys which",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "39 complaints (24% of all reports). One report involved a fire. No crashes or injuries were reported."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 29,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On Thursday, April 14th, the airbag warning light illuminated while displaying an \"AirBag Error\" message.  The vehicle was dropped off at the dealership the same day.   The information below is from the Volkswagen dealership in Tulsa, OK  “Performed Guided Fault Finding diagnosis",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "29 complaints (18% of all reports). One report involved a crash. No injuries were reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Two separate instances. The first: emergency break engaged for no reason while in driveway at a low speed. It jolted the car back and I had to put car in Park and then drive again. If this happened while anywhere else, it could cause an accident by being rear ended or a tail spin",
+        "pct": 11,
+        "title": "Forward Collision Avoidance",
+        "blurb": "18 complaints (11% of all reports). One report involved a crash. No injuries were reported."
+      }
+    ]
+  }
+}

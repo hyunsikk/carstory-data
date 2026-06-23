@@ -1,0 +1,128 @@
+{
+  "slug": "2018-subaru-legacy",
+  "make": "Subaru",
+  "model": "Legacy",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/SUBARU/LEGACY#complaints",
+  "generatedAt": "2026-06-23T06:22:17.833Z",
+  "total": 113,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 37,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "PURCHASED A NEW SUBARU LEGACY FEB. 28, 2018.  AFTER ONLY 70 MILES THE WARNING LIGHT FOR SEAT BELTS AND AIRBAG MALFUNCTION APPEARED ON A STARLINK SYSTEM AND DASH.  AFTER IMMEDIATELY TAKING IT IN AT THE LOCAL CAR DEALER, SERVICE AGENTS CLAIMED THAT A \"RODENT\" HAS CAUSED THE DAMAGE.",
+      "pct": 33
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 24,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE DRIVERS SIDE MIRROR OF 2018/2019 LEGACY'S WITH BLIND SPOT DETECTION WILL NOT ADJUST OUT FAR ENOUGH TO SEE BLIND SPOT OF VEHICLE FOR SEAT POSITION ADJUSTED FOR AVERAGE TO TALL DRIVERS. WHILE THE MIRROR DETECTION LIGHT WORKS THERE IS NO WAY TO PHYSICALLY CONFIRM SIDE TRAFFIC PO",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON THE DASHBOARD SHOWED THAT THE REMAIN MILEAGE WAS 70, BUT IT STOPPED ALL THE SUDDEN DUE TO NO GAS. I ALMOST CAUSED AN ACCIDENT BECAUSE THE CAR STOPPED ON A PUBLIC STREET WITH HEAVY TRAFFIC. AFTER MANY TIMES TRYING TO START THE CAR, IT DID NOT WORK; IT WAS COMPLETELY DEAD.  I HA",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 8,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON THE DASHBOARD SHOWED THAT THE REMAIN MILEAGE WAS 70, BUT IT STOPPED ALL THE SUDDEN DUE TO NO GAS. I ALMOST CAUSED AN ACCIDENT BECAUSE THE CAR STOPPED ON A PUBLIC STREET WITH HEAVY TRAFFIC. AFTER MANY TIMES TRYING TO START THE CAR, IT DID NOT WORK; IT WAS COMPLETELY DEAD.  I HA",
+      "pct": 7
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 8,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 SUBARU LEGACY. THE CONTACT STATED THAT WHILE INSPECTING THE VEHICLE, THE CONTACT BECAME AWARE OF A CRACK IN THE WINDSHIELD AT THE LOWER CORNER OF THE DRIVER'S SIDE WINDSHIELD. THE CONTACT STATED THAT THE WINDSHIELD WAS CRACKED WITHOUT IMPACT. THE VEHIC",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Subaru Legacy: electrical system tops the owner complaints",
+    "summary": "Owners filed 113 complaints with NHTSA. The electrical system is the most reported area at 33%, followed by visibility/wiper issues (21%) and the engine (9%). No injuries or deaths are reported across any area. The engine and fuel/propulsion complaints are fewer but account for the crashes (3 and 2), so they are worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 37,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "PURCHASED A NEW SUBARU LEGACY FEB. 28, 2018.  AFTER ONLY 70 MILES THE WARNING LIGHT FOR SEAT BELTS AND AIRBAG MALFUNCTION APPEARED ON A STARLINK SYSTEM AND DASH.  AFTER IMMEDIATELY TAKING IT IN AT THE LOCAL CAR DEALER, SERVICE AGENTS CLAIMED THAT A \"RODENT\" HAS CAUSED THE DAMAGE.",
+        "pct": 33,
+        "title": "Electrical System",
+        "blurb": "The single biggest complaint: 37 reports (33%), including 1 with fire. No crashes or injuries reported. Watch for warning lights on the dash and infotainment system."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 24,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE DRIVERS SIDE MIRROR OF 2018/2019 LEGACY'S WITH BLIND SPOT DETECTION WILL NOT ADJUST OUT FAR ENOUGH TO SEE BLIND SPOT OF VEHICLE FOR SEAT POSITION ADJUSTED FOR AVERAGE TO TALL DRIVERS. WHILE THE MIRROR DETECTION LIGHT WORKS THERE IS NO WAY TO PHYSICALLY CONFIRM SIDE TRAFFIC PO",
+        "pct": 21,
+        "title": "Visibility/Wiper",
+        "blurb": "Second most reported: 24 reports (21%), with no crashes, fires, or injuries. Check the mirrors and blind-spot visibility during a test drive."
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON THE DASHBOARD SHOWED THAT THE REMAIN MILEAGE WAS 70, BUT IT STOPPED ALL THE SUDDEN DUE TO NO GAS. I ALMOST CAUSED AN ACCIDENT BECAUSE THE CAR STOPPED ON A PUBLIC STREET WITH HEAVY TRAFFIC. AFTER MANY TIMES TRYING TO START THE CAR, IT DID NOT WORK; IT WAS COMPLETELY DEAD.  I HA",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "10 reports (9%), tied to 3 crashes and no injuries. Watch for the car stalling or losing power while driving."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 8,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON THE DASHBOARD SHOWED THAT THE REMAIN MILEAGE WAS 70, BUT IT STOPPED ALL THE SUDDEN DUE TO NO GAS. I ALMOST CAUSED AN ACCIDENT BECAUSE THE CAR STOPPED ON A PUBLIC STREET WITH HEAVY TRAFFIC. AFTER MANY TIMES TRYING TO START THE CAR, IT DID NOT WORK; IT WAS COMPLETELY DEAD.  I HA",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "8 reports (7%), linked to 2 crashes and no injuries. Some owners report the car stalling unexpectedly."
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 8,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 SUBARU LEGACY. THE CONTACT STATED THAT WHILE INSPECTING THE VEHICLE, THE CONTACT BECAME AWARE OF A CRACK IN THE WINDSHIELD AT THE LOWER CORNER OF THE DRIVER'S SIDE WINDSHIELD. THE CONTACT STATED THAT THE WINDSHIELD WAS CRACKED WITHOUT IMPACT. THE VEHIC",
+        "pct": 7,
+        "title": "Visibility",
+        "blurb": "8 reports (7%), with no crashes, fires, or injuries. Some owners report windshield cracks appearing without impact."
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-subaru-impreza",
+  "make": "Subaru",
+  "model": "Impreza",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/SUBARU/IMPREZA#complaints",
+  "generatedAt": "2026-06-23T06:21:35.949Z",
+  "total": 84,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 52,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THE VEHICLE WAS PURCHASED IN JANUARY 2020 NEW FROM DEALER STOCK. IT HAS APPROXIMATELY 2000 MILES ON IT AND EXPERIENCED SPONTANEOUS WINDSHIELD CRACKS WITH NO INDICATION IT IS FROM SOMETHING STRIKING THE WINDSHIELD. CRACKS WERE DISCOVERED IN THE MORNING AFTER THE CAR WAS SITTING AL",
+      "pct": 62
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHO: DAUGHTER 16YO (DRIVER), FATHER (FRONT PASSENGER SEAT), DAUGHTER 14YO (DRIVER SIDE REAR SEAT).    VEHICLE: 2020 SUBARU IMPREZA    WHAT: SUBARU ANTI-COLLISION ENGAGED UNNECESSARILY    WHEN: 0704 EST 14 MAY 2021    WHERE: 41°43'07.4\"N 81°14'08.3\"    MY 16YO DAUGHTER WAS DRIVING",
+      "pct": 6
+    },
+    {
+      "component": "VISIBILITY",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2020 SUBARU IMPREZA. THE CONTACT STATED THAT AFTER PARKING THE VEHICLE AND RETURNING, THE CONTACT BECAME AWARE OF A CRACK IN THE WINDSHIELD. THE CRACK STARTED ON THE PASSENGER'S SIDE OF THE VEHICLE AND WAS APPROXIMATELY AN INCH IN LENGTH. THE CONTACT CALLED",
+      "pct": 5
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 Subaru Impreza. The contact stated while starting the vehicle, the air bag warning light was not illuminating. The vehicle was taken to an independent mechanic and the mechanic stated that the air bag warning light needed to be replaced. The manufacturer w",
+      "pct": 4
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "WHO: DAUGHTER 16YO (DRIVER), FATHER (FRONT PASSENGER SEAT), DAUGHTER 14YO (DRIVER SIDE REAR SEAT).    VEHICLE: 2020 SUBARU IMPREZA    WHAT: SUBARU ANTI-COLLISION ENGAGED UNNECESSARILY    WHEN: 0704 EST 14 MAY 2021    WHERE: 41°43'07.4\"N 81°14'08.3\"    MY 16YO DAUGHTER WAS DRIVING",
+      "pct": 4
+    }
+  ],
+  "narrative": {
+    "headline": "2020 Subaru Impreza: windshield and visibility lead the complaints",
+    "summary": "Owners filed 84 complaints with NHTSA. Visibility/Wiper dominates at 62%, far ahead of everything else, with another 5% filed under Visibility. No deaths are reported across any area. The smaller complaint groups are where the few serious outcomes show up: brakes and air bags each have 1 crash, and air bags account for the only fire (1) and the only injuries (2).",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 52,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THE VEHICLE WAS PURCHASED IN JANUARY 2020 NEW FROM DEALER STOCK. IT HAS APPROXIMATELY 2000 MILES ON IT AND EXPERIENCED SPONTANEOUS WINDSHIELD CRACKS WITH NO INDICATION IT IS FROM SOMETHING STRIKING THE WINDSHIELD. CRACKS WERE DISCOVERED IN THE MORNING AFTER THE CAR WAS SITTING AL",
+        "pct": 62,
+        "title": "Visibility/Wiper",
+        "blurb": "By far the biggest complaint: 52 reports (62%), with no crashes, fires, or injuries. Reports point to windshield issues, so inspect the glass closely."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHO: DAUGHTER 16YO (DRIVER), FATHER (FRONT PASSENGER SEAT), DAUGHTER 14YO (DRIVER SIDE REAR SEAT).    VEHICLE: 2020 SUBARU IMPREZA    WHAT: SUBARU ANTI-COLLISION ENGAGED UNNECESSARILY    WHEN: 0704 EST 14 MAY 2021    WHERE: 41°43'07.4\"N 81°14'08.3\"    MY 16YO DAUGHTER WAS DRIVING",
+        "pct": 6,
+        "title": "Service Brakes",
+        "blurb": "5 reports (6%), including 1 crash and no injuries. A small but worth checking the brakes on a test drive."
+      },
+      {
+        "component": "VISIBILITY",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2020 SUBARU IMPREZA. THE CONTACT STATED THAT AFTER PARKING THE VEHICLE AND RETURNING, THE CONTACT BECAME AWARE OF A CRACK IN THE WINDSHIELD. THE CRACK STARTED ON THE PASSENGER'S SIDE OF THE VEHICLE AND WAS APPROXIMATELY AN INCH IN LENGTH. THE CONTACT CALLED",
+        "pct": 5,
+        "title": "Visibility",
+        "blurb": "4 reports (5%), with no crashes, fires, or injuries. These echo the windshield theme seen in the top complaint."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 Subaru Impreza. The contact stated while starting the vehicle, the air bag warning light was not illuminating. The vehicle was taken to an independent mechanic and the mechanic stated that the air bag warning light needed to be replaced. The manufacturer w",
+        "pct": 4,
+        "title": "Air Bags",
+        "blurb": "Only 3 reports (4%) but the most serious by outcome: 1 crash, 1 fire, and 2 injuries. Watch for any air bag warning light."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "WHO: DAUGHTER 16YO (DRIVER), FATHER (FRONT PASSENGER SEAT), DAUGHTER 14YO (DRIVER SIDE REAR SEAT).    VEHICLE: 2020 SUBARU IMPREZA    WHAT: SUBARU ANTI-COLLISION ENGAGED UNNECESSARILY    WHEN: 0704 EST 14 MAY 2021    WHERE: 41°43'07.4\"N 81°14'08.3\"    MY 16YO DAUGHTER WAS DRIVING",
+        "pct": 4,
+        "title": "Forward Collision Avoidance",
+        "blurb": "3 reports (4%), with no crashes, fires, or injuries. Reports describe the collision-avoidance system engaging when it should not."
+      }
+    ]
+  }
+}

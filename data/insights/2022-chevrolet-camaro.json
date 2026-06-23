@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-06-23T06:15:10.021Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There is a security flaw in the software programming of the vehicle.  In the 2019+ models of the sixth generation Camaro, they have added a check that requires you to depress both the clutch and the brake to start the vehicle. (Manual transmissions)  This is a severe safety flaw ",
+      "pct": 33
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 2,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I got into a Crash that destroyed the car completelt and Totaled it, But the airbags didnt come and work like it was supposed to. After The accident I got a message on MYCHEVROLET app saying theres was an issue with my airbags and I need to see a dealer.It didnt tell me before bu",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Camaro. The contact received notification of NHTSA Campaign Number: 25V148000 (Power Train); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the reca",
+      "pct": 17
+    },
+    {
+      "component": "TIRES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "When I purchased my vehicle new, it was equipped with Goodyear Eagle F1 Supercar 3 tires, sized 285/30/20 in the front and 305/30/20 in the rear. After approximately 2,000 miles, the tires began exhibiting what appeared to be belt or tread separation. By approximately 5,000 miles",
+      "pct": 8
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The ESC system keeps going on and off and my check engine light is on the dealership told me that it needed a fuel cleaning. Went and put  heet in the as told and I have done that twice now and it did not work",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "Engine reports lead a small set of 2022 Camaro owner complaints",
+    "summary": "Owners filed only 12 complaints to NHTSA for the 2022 Camaro, so the sample is small. Engine is the most reported area at 33%, followed by air bags and power train (17% each), then tires and the fuel/propulsion system (8% each). Almost all reports are about reliability rather than safety; the one exception is an air bag complaint tied to a crash. No fires, injuries, or deaths were reported in any category.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There is a security flaw in the software programming of the vehicle.  In the 2019+ models of the sixth generation Camaro, they have added a check that requires you to depress both the clutch and the brake to start the vehicle. (Manual transmissions)  This is a severe safety flaw ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "The most reported area: 4 reports (33% of all complaints). No crashes, fires, injuries, or deaths reported."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 2,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I got into a Crash that destroyed the car completelt and Totaled it, But the airbags didnt come and work like it was supposed to. After The accident I got a message on MYCHEVROLET app saying theres was an issue with my airbags and I need to see a dealer.It didnt tell me before bu",
+        "pct": 17,
+        "title": "Air Bags",
+        "blurb": "2 reports (17%), and the only category tied to a crash (1). No fires, injuries, or deaths reported."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Camaro. The contact received notification of NHTSA Campaign Number: 25V148000 (Power Train); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the reca",
+        "pct": 17,
+        "title": "Power Train",
+        "blurb": "2 reports (17%). No crashes, fires, injuries, or deaths reported."
+      },
+      {
+        "component": "TIRES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "When I purchased my vehicle new, it was equipped with Goodyear Eagle F1 Supercar 3 tires, sized 285/30/20 in the front and 305/30/20 in the rear. After approximately 2,000 miles, the tires began exhibiting what appeared to be belt or tread separation. By approximately 5,000 miles",
+        "pct": 8,
+        "title": "Tires",
+        "blurb": "1 report (8%). No crashes, fires, injuries, or deaths reported."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The ESC system keeps going on and off and my check engine light is on the dealership told me that it needed a fuel cleaning. Went and put  heet in the as told and I have done that twice now and it did not work",
+        "pct": 8,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 report (8%). No crashes, fires, injuries, or deaths reported."
+      }
+    ]
+  }
+}

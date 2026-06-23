@@ -1,0 +1,128 @@
+{
+  "slug": "2022-volkswagen-passat",
+  "make": "Volkswagen",
+  "model": "Passat",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/VOLKSWAGEN/PASSAT#complaints",
+  "generatedAt": "2026-06-23T06:29:53.929Z",
+  "total": 9,
+  "issues": [
+    {
+      "component": "SERVICE BRAKES",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Brakes are on this care are failing well in advance of typical cars. My car's rear brakes are measuring at a 2 with just over 20,000 miles on the vehicle.  When we asked the dealership about this, they said the Passat is just \"hard on rear brakes.\"  We had a previous Passat and d",
+      "pct": 33
+    },
+    {
+      "component": "ENGINE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I keep adding oil and the dealership says there’s nothing wrong. For electric problems the speakers have static noise and the screen goes black and turns on hours later. I took in my recently they said there wasn’t any problems with the car but I literally deal with it everyday. ",
+      "pct": 22
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The steering tightens up at times when decelerating between 30 - 42 mph.  This has occurred three times now since purchase of the vehicle new.  My  vehicle database feedback notes no repairs needed; just check of vehicle at 20,000 miles and oil change at 10,000 miles.  I am subsc",
+      "pct": 22
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The steering tightens up at times when decelerating between 30 - 42 mph.  This has occurred three times now since purchase of the vehicle new.  My  vehicle database feedback notes no repairs needed; just check of vehicle at 20,000 miles and oil change at 10,000 miles.  I am subsc",
+      "pct": 22
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Volkswagen Passat. The contact stated that whenever the vehicle was parked, all 4 doors would automatically unlock. There were no warning lights on the instrument panel. The vehicle was taken to a local dealer and diagnosed with no failure being found. The",
+      "pct": 22
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Volkswagen Passat: brakes lead a small set of owner complaints",
+    "summary": "Owners filed just 9 complaints with NHTSA, so the sample is small. Service brakes are the single most reported area at 33% (3 reports), followed by the engine, power train, steering, and electrical system, each with 2 reports (22%). None of these complaints are tied to a crash, fire, injury, or death.",
+    "issues": [
+      {
+        "component": "SERVICE BRAKES",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Brakes are on this care are failing well in advance of typical cars. My car's rear brakes are measuring at a 2 with just over 20,000 miles on the vehicle.  When we asked the dealership about this, they said the Passat is just \"hard on rear brakes.\"  We had a previous Passat and d",
+        "pct": 33,
+        "title": "Service Brakes",
+        "blurb": "The most reported area: 3 reports (33%), with no crashes, fires, or injuries. Owners describe rear brakes wearing out earlier than expected, so check brake condition on a test drive."
+      },
+      {
+        "component": "ENGINE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I keep adding oil and the dealership says there’s nothing wrong. For electric problems the speakers have static noise and the screen goes black and turns on hours later. I took in my recently they said there wasn’t any problems with the car but I literally deal with it everyday. ",
+        "pct": 22,
+        "title": "Engine",
+        "blurb": "2 reports (22%), with no crashes, fires, or injuries. A complaint mentions repeatedly needing to add oil. A minor but recurring area to ask about."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The steering tightens up at times when decelerating between 30 - 42 mph.  This has occurred three times now since purchase of the vehicle new.  My  vehicle database feedback notes no repairs needed; just check of vehicle at 20,000 miles and oil change at 10,000 miles.  I am subsc",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "2 reports (22%), with no crashes, fires, or injuries. A small share of the overall complaints."
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The steering tightens up at times when decelerating between 30 - 42 mph.  This has occurred three times now since purchase of the vehicle new.  My  vehicle database feedback notes no repairs needed; just check of vehicle at 20,000 miles and oil change at 10,000 miles.  I am subsc",
+        "pct": 22,
+        "title": "Steering",
+        "blurb": "2 reports (22%), with no crashes, fires, or injuries. One owner reports the steering tightening when slowing between 30 and 42 mph."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Volkswagen Passat. The contact stated that whenever the vehicle was parked, all 4 doors would automatically unlock. There were no warning lights on the instrument panel. The vehicle was taken to a local dealer and diagnosed with no failure being found. The",
+        "pct": 22,
+        "title": "Electrical System",
+        "blurb": "2 reports (22%), with no crashes, fires, or injuries. One owner reports all four doors unlocking on their own while parked."
+      }
+    ]
+  }
+}

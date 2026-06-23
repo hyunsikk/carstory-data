@@ -1,0 +1,128 @@
+{
+  "slug": "2020-volkswagen-passat",
+  "make": "Volkswagen",
+  "model": "Passat",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/VOLKSWAGEN/PASSAT#complaints",
+  "generatedAt": "2026-06-23T06:29:29.059Z",
+  "total": 15,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "2020 Volkswagen Passat SE 2.0L VIN: [XXX]   Complaint Summary: I am reporting a persistent and unresolved fault involving the secondary air injection system (DTC P0491 – insufficient airflow) that has resulted in repeated, conflicting diagnoses across multiple repair facilities. ",
+      "pct": 27
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 4,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "My clock spring isn’t working after having my vehicle for barely a year. My air bag light is currently on. I can’t use my horn nor use any of the controls on my steering wheel. I’ve paid already 800 plus on previous car issues such as my harness hose. I’m still awaiting reimburse",
+      "pct": 27
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The Volkswagen Front Assist (sometimes referred to as Forward Collision Warning) system employed without having anything/anyone in front of the vehicle - no traffic in front, behind or on the side and the brakes engaged the brought the car to a complete stop in the street.  This ",
+      "pct": 20
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My clock spring isn’t working after having my vehicle for barely a year. My air bag light is currently on. I can’t use my horn nor use any of the controls on my steering wheel. I’ve paid already 800 plus on previous car issues such as my harness hose. I’m still awaiting reimburse",
+      "pct": 13
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Car wasn’t pulling up the road the epc light came on had to have my vehicle rolled to the next dealer which was 36 miles from where I was. I was traveling from grapevine tx and it start acting up in Huntsville tx. Came out of pocket 1085.00 and that was with a discount for the fu",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "What 2020 Volkswagen Passat owners complain about most",
+    "summary": "Owners filed 15 complaints with NHTSA for the 2020 Passat. Engine and air bag issues are tied at the top, each making up 27% of reports, followed by forward collision avoidance at 20%. One air bag report involved a crash with one person injured; no fires or deaths were reported.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "2020 Volkswagen Passat SE 2.0L VIN: [XXX]   Complaint Summary: I am reporting a persistent and unresolved fault involving the secondary air injection system (DTC P0491 – insufficient airflow) that has resulted in repeated, conflicting diagnoses across multiple repair facilities. ",
+        "pct": 27,
+        "title": "Engine",
+        "blurb": "Tied for the most reported issue with 4 complaints (27%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 4,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "My clock spring isn’t working after having my vehicle for barely a year. My air bag light is currently on. I can’t use my horn nor use any of the controls on my steering wheel. I’ve paid already 800 plus on previous car issues such as my harness hose. I’m still awaiting reimburse",
+        "pct": 27,
+        "title": "Air Bags",
+        "blurb": "Tied for the most reported issue with 4 complaints (27%). One involved a crash and one person was injured."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The Volkswagen Front Assist (sometimes referred to as Forward Collision Warning) system employed without having anything/anyone in front of the vehicle - no traffic in front, behind or on the side and the brakes engaged the brought the car to a complete stop in the street.  This ",
+        "pct": 20,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The third most reported issue with 3 complaints (20%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My clock spring isn’t working after having my vehicle for barely a year. My air bag light is currently on. I can’t use my horn nor use any of the controls on my steering wheel. I’ve paid already 800 plus on previous car issues such as my harness hose. I’m still awaiting reimburse",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "2 complaints (13%). No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Car wasn’t pulling up the road the epc light came on had to have my vehicle rolled to the next dealer which was 36 miles from where I was. I was traveling from grapevine tx and it start acting up in Huntsville tx. Came out of pocket 1085.00 and that was with a discount for the fu",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "1 complaint (7%). No crashes, fires, or injuries reported."
+      }
+    ]
+  }
+}

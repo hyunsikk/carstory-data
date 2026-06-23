@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-camry",
+  "make": "Toyota",
+  "model": "Camry",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/CAMRY#complaints",
+  "generatedAt": "2026-06-23T06:02:47.262Z",
+  "total": 56,
+  "issues": [
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 7,
+      "fire": 0,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Toyota Camry. The contact stated that while driving at an undisclosed speed, another vehicle crashed into the contact's vehicle; however, no air bags were deployed and the seat belts failed to lock. Additionally, the contact stated that on the instrument ",
+      "pct": 18
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 7,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I was driving down a steep hill with two curves. Shortly before the first curve near the top of the hill I attempted to decelerate by pressing the brake pedal. There was no response whatsoever. I tried a couple times then realized that I had to do something different. I put the c",
+      "pct": 13
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I was driving on i-65 northbound in Alabama, 20 miles south of Birmingham, when my car suddenly had multiple warnings appear on my dash and I lost all forward power.  My power steering malfunctioned and I was forced to immediately slow up the car and bring it to a stop.   The war",
+      "pct": 13
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 7,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Drove a new 2022 Toyota Camry LE with 15 miles. Notified dealer that several safety and infotainment systems were non operational. Vehicle had multiple warning light related to these systems. Notably, the Adaptive Cruise Control, Automatic Emergency Braking, Blind Spot Warning, F",
+      "pct": 13
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Drove a new 2022 Toyota Camry LE with 15 miles. Notified dealer that several safety and infotainment systems were non operational. Vehicle had multiple warning light related to these systems. Notably, the Adaptive Cruise Control, Automatic Emergency Braking, Blind Spot Warning, F",
+      "pct": 11
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota Camry: air bags lead the owner complaints",
+    "summary": "Owners filed 56 complaints with NHTSA. Air bags are the most reported area at 18%, and they also carry the worst outcomes of any group, with 7 crashes and 5 injuries. Service brakes, the electrical system, and forward collision avoidance follow, each at 13%, with vehicle speed control at 11%. No fires or deaths are reported across any area.",
+    "issues": [
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 7,
+        "fire": 0,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Toyota Camry. The contact stated that while driving at an undisclosed speed, another vehicle crashed into the contact's vehicle; however, no air bags were deployed and the seat belts failed to lock. Additionally, the contact stated that on the instrument ",
+        "pct": 18,
+        "title": "Air Bags",
+        "blurb": "The top complaint: 10 reports (18%), tied to 7 crashes and 5 injuries, the most of any area. Some owners report air bags that did not deploy in a collision."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 7,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I was driving down a steep hill with two curves. Shortly before the first curve near the top of the hill I attempted to decelerate by pressing the brake pedal. There was no response whatsoever. I tried a couple times then realized that I had to do something different. I put the c",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "7 reports (13%), linked to 2 crashes and 1 injury. Some owners describe pressing the brake pedal and getting little or no response. Test the brakes carefully."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I was driving on i-65 northbound in Alabama, 20 miles south of Birmingham, when my car suddenly had multiple warnings appear on my dash and I lost all forward power.  My power steering malfunctioned and I was forced to immediately slow up the car and bring it to a stop.   The war",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "7 reports (13%), with no crashes or injuries recorded. Owners mention warning lights and sudden loss of power while driving."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 7,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Drove a new 2022 Toyota Camry LE with 15 miles. Notified dealer that several safety and infotainment systems were non operational. Vehicle had multiple warning light related to these systems. Notably, the Adaptive Cruise Control, Automatic Emergency Braking, Blind Spot Warning, F",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "7 reports (13%), with 1 crash and 1 injury. Owners report driver-assist features such as automatic emergency braking not working as expected. Confirm these systems work on a test drive."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Drove a new 2022 Toyota Camry LE with 15 miles. Notified dealer that several safety and infotainment systems were non operational. Vehicle had multiple warning light related to these systems. Notably, the Adaptive Cruise Control, Automatic Emergency Braking, Blind Spot Warning, F",
+        "pct": 11,
+        "title": "Vehicle Speed Control",
+        "blurb": "6 reports (11%), tied to 2 crashes and 2 injuries. A smaller but recurring area covering how the car manages speed, including adaptive cruise control."
+      }
+    ]
+  }
+}

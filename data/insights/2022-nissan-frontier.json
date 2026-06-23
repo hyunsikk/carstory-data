@@ -1,0 +1,128 @@
+{
+  "slug": "2022-nissan-frontier",
+  "make": "Nissan",
+  "model": "Frontier",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/NISSAN/FRONTIER#complaints",
+  "generatedAt": "2026-06-23T06:17:29.118Z",
+  "total": 108,
+  "issues": [
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 31,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I bought my 2022 Nissan Frontier Pro-X on 09/12/2021. Since day 1 it had something loose under the hood and was making cracking sounds. Had to bring it in and they tightened something and then had to do a full re-alignment.  And before I even hit 1k miles my aerial / backup camer",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 28,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I bought my 2022 Nissan Frontier Pro-X on 09/12/2021. Since day 1 it had something loose under the hood and was making cracking sounds. Had to bring it in and they tightened something and then had to do a full re-alignment.  And before I even hit 1k miles my aerial / backup camer",
+      "pct": 26
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 24,
+      "crash": 4,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission failed catastrophically after 1300 miles of use. Vehicle was towed to Nissan who confirmed multiple selinoids had failed within transmission. Vehicle is completely inoperable. Manufacturer has been unhelpful getting vehicle repaired. Manufacturer has history of suppl",
+      "pct": 22
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 18,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "On 2 recent occasions the truck's warning lights flashed on the dash and the vehicle applied the brakes for no apparent reason.  The first occurance the dealer in Fairfield, Ohio, guessed there may have been debris blocking the camera eye.  On the second occurance the dealer in S",
+      "pct": 17
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 13,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The speed control sensor is located in the rear driveshaft passenger side.  During a left turn at less than 30-miles and less than 600-miles in the odometer, the speed sensor failed to cause the ABS system, tire pressure, and other sensors to fail as well.  The dealer technician ",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Nissan Frontier: collision-avoidance and electrical gripes lead",
+    "summary": "Owners filed 108 complaints with NHTSA. Forward collision avoidance is the most reported area at 29%, just ahead of the electrical system (26%) and power train (22%). No deaths are reported. The brakes draw fewer complaints but the most crashes (5) and injuries (2) of any area, so test them carefully.",
+    "issues": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 31,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I bought my 2022 Nissan Frontier Pro-X on 09/12/2021. Since day 1 it had something loose under the hood and was making cracking sounds. Had to bring it in and they tightened something and then had to do a full re-alignment.  And before I even hit 1k miles my aerial / backup camer",
+        "pct": 29,
+        "title": "Forward Collision Avoidance",
+        "blurb": "The most reported area: 31 reports (29%), tied to 2 crashes and no injuries. Check the driver-assist and camera systems behave normally on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 28,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I bought my 2022 Nissan Frontier Pro-X on 09/12/2021. Since day 1 it had something loose under the hood and was making cracking sounds. Had to bring it in and they tightened something and then had to do a full re-alignment.  And before I even hit 1k miles my aerial / backup camer",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 28 reports (26%), including 1 fire, 1 crash, and 1 injury. The fire report makes this worth a careful look."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 24,
+        "crash": 4,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission failed catastrophically after 1300 miles of use. Vehicle was towed to Nissan who confirmed multiple selinoids had failed within transmission. Vehicle is completely inoperable. Manufacturer has been unhelpful getting vehicle repaired. Manufacturer has history of suppl",
+        "pct": 22,
+        "title": "Power Train",
+        "blurb": "24 reports (22%), linked to 4 crashes and no injuries. Watch for transmission trouble during the test drive."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 18,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "On 2 recent occasions the truck's warning lights flashed on the dash and the vehicle applied the brakes for no apparent reason.  The first occurance the dealer in Fairfield, Ohio, guessed there may have been debris blocking the camera eye.  On the second occurance the dealer in S",
+        "pct": 17,
+        "title": "Service Brakes",
+        "blurb": "Only 18 reports (17%) but the most serious by outcome: 5 crashes and 2 injuries, more than any other area. Test the brakes thoroughly."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 13,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The speed control sensor is located in the rear driveshaft passenger side.  During a left turn at less than 30-miles and less than 600-miles in the odometer, the speed sensor failed to cause the ABS system, tire pressure, and other sensors to fail as well.  The dealer technician ",
+        "pct": 12,
+        "title": "Vehicle Speed Control",
+        "blurb": "13 reports (12%), tied to 2 crashes and 1 injury. A smaller but recurring complaint area."
+      }
+    ]
+  }
+}

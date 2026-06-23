@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-legacy",
+  "make": "Subaru",
+  "model": "Legacy",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/LEGACY#complaints",
+  "generatedAt": "2026-06-23T06:22:36.236Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My car's windshield was hit by a small stone while driving on highway speed. At first it seemed to be a small chip/ crack. After a minute or two the crack got bigger. This is the second time I'm facing this issue. Same kind of incident happened a month ago as well. I thought suba",
+      "pct": 52
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The DCM/Telematics unit has now failed twice in this vehicle, despite already being completely replaced a first time. All remote app controls fail. Starlink call connection buttons are unresponsive despite the car being in a clear, unobstructed coverage area. The only indications",
+      "pct": 10
+    },
+    {
+      "component": "VEHICLE SPEED CONTROL",
+      "count": 2,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owned a 2022 Subaru Legacy. The contact stated that while driving into their driveway at unknown speeds, the vehicle independently accelerated forward. The contact placed the vehicle in reverse, however, the vehicle continued to accelerate independently, and the conta",
+      "pct": 6
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On average about twice per month, the touch screen will lock up. This causes the entire system to crash turning off cruise control, emergency braking, lane departure, lane keep assist, and almost every other \"smart\" function of the vehicle. There is no specific action that causes",
+      "pct": 6
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The lane assistance feature almost made me hit a semi truck that had drifted over its lane. I moved to the left to allow for space, the lane assist function tried to turn me back into the semi truck I was driving over the lane to avoid. It failed to recognize a major hazard and i",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Subaru Legacy: visibility and wiper issues lead the complaints",
+    "summary": "Owners filed 31 complaints with NHTSA. Visibility/Wiper is by far the most reported area at 52%, well ahead of the electrical system (10%). No fires, injuries, or deaths are reported across any area. The two vehicle speed control complaints are the only ones tied to crashes (2 in all), so that area is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My car's windshield was hit by a small stone while driving on highway speed. At first it seemed to be a small chip/ crack. After a minute or two the crack got bigger. This is the second time I'm facing this issue. Same kind of incident happened a month ago as well. I thought suba",
+        "pct": 52,
+        "title": "Visibility/Wiper",
+        "blurb": "The single biggest complaint area: 16 reports (52%), more than half of all complaints. No crashes, fires, or injuries reported. Check the windshield and wipers closely."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The DCM/Telematics unit has now failed twice in this vehicle, despite already being completely replaced a first time. All remote app controls fail. Starlink call connection buttons are unresponsive despite the car being in a clear, unobstructed coverage area. The only indications",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 3 reports (10%), with no crashes, fires, or injuries. A smaller but recurring complaint area."
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "count": 2,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owned a 2022 Subaru Legacy. The contact stated that while driving into their driveway at unknown speeds, the vehicle independently accelerated forward. The contact placed the vehicle in reverse, however, the vehicle continued to accelerate independently, and the conta",
+        "pct": 6,
+        "title": "Vehicle Speed Control",
+        "blurb": "Only 2 reports (6%), but both are tied to crashes, the only crashes in the data. No injuries reported. Worth testing acceleration and braking carefully."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On average about twice per month, the touch screen will lock up. This causes the entire system to crash turning off cruise control, emergency braking, lane departure, lane keep assist, and almost every other \"smart\" function of the vehicle. There is no specific action that causes",
+        "pct": 6,
+        "title": "Forward Collision Avoidance",
+        "blurb": "2 reports (6%), with no crashes, fires, or injuries. A minor complaint area in the driver-assist features."
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The lane assistance feature almost made me hit a semi truck that had drifted over its lane. I moved to the left to allow for space, the lane assist function tried to turn me back into the semi truck I was driving over the lane to avoid. It failed to recognize a major hazard and i",
+        "pct": 6,
+        "title": "Lane Departure",
+        "blurb": "2 reports (6%), with no crashes, fires, or injuries. A minor complaint area tied to the lane-keeping assist."
+      }
+    ]
+  }
+}

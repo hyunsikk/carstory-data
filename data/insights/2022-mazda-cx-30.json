@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mazda-cx-30",
+  "make": "Mazda",
+  "model": "CX-30",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MAZDA/CX-30#complaints",
+  "generatedAt": "2026-06-23T06:28:16.710Z",
+  "total": 31,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a new 2022 Mazda CX-30 in early 2022. While driving home from out of state recently, a low oil warning light popped up on the dash. I immediately pulled over and checked the level to find only 2-3mm of coverage on the dipstick, well below the safe range. I topped the ",
+      "pct": 29
+    },
+    {
+      "component": "STEERING",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "car was put on rear and it leaped forward and crashed and caused property damage and driver was shocked. faulty system, Collison system failure, reverse gear failure. on two different occasions car initiated warning like misuse of pedals when car was rolling down which was errore",
+      "pct": 19
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "There have been 3 different ongoing issues.  The car was ordered and delivered brand new in April 2022. At 4,000 miles and again at 12,000 mile is would display low oil and require 1 quart of oil. The dealership acknowledged that it has an oil consumption issue, unresolved.  I ha",
+      "pct": 19
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I've used cruise control for decades and use it even on city streets, so I can concentrate on the road rather than my speed.  The concept of adaptive cruise control is great, but the execution is very flawed on my Mazda CX30.  The system fails to recognize lane separation and tur",
+      "pct": 16
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 3,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Suddenly, for no known reason, the dash displayed a warning that the seat belts and air bags are not properly operational and to get the vehicle inspected. Note there is less than 3000 miles on the vehicle. The vehicle has not been involved in any collisions and has not been dama",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Mazda CX-30: the engine tops the owner complaints",
+    "summary": "Owners filed 31 complaints with NHTSA. The engine is the most reported area at 29%, followed by the steering and electrical system (19% each) and forward collision avoidance (16%). No fires and no deaths are reported. The steering complaints stand out for severity, with 2 crashes and 2 injuries from just 6 reports.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a new 2022 Mazda CX-30 in early 2022. While driving home from out of state recently, a low oil warning light popped up on the dash. I immediately pulled over and checked the level to find only 2-3mm of coverage on the dipstick, well below the safe range. I topped the ",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "The most reported area: 9 reports (29%), with no crashes, fires, or injuries. Complaints point to oil consumption and low-oil warnings, so check the dipstick level."
+      },
+      {
+        "component": "STEERING",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "car was put on rear and it leaped forward and crashed and caused property damage and driver was shocked. faulty system, Collison system failure, reverse gear failure. on two different occasions car initiated warning like misuse of pedals when car was rolling down which was errore",
+        "pct": 19,
+        "title": "Steering",
+        "blurb": "6 reports (19%) but the most serious by outcome: 2 crashes and 2 injuries. Worth a careful look on a test drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "There have been 3 different ongoing issues.  The car was ordered and delivered brand new in April 2022. At 4,000 miles and again at 12,000 mile is would display low oil and require 1 quart of oil. The dealership acknowledged that it has an oil consumption issue, unresolved.  I ha",
+        "pct": 19,
+        "title": "Electrical System",
+        "blurb": "6 reports (19%), tied to 1 crash and 1 injury. A recurring complaint area worth checking."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I've used cruise control for decades and use it even on city streets, so I can concentrate on the road rather than my speed.  The concept of adaptive cruise control is great, but the execution is very flawed on my Mazda CX30.  The system fails to recognize lane separation and tur",
+        "pct": 16,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (16%), with 1 crash and no injuries. Owners describe flawed behavior from the driver-assist features."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 3,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Suddenly, for no known reason, the dash displayed a warning that the seat belts and air bags are not properly operational and to get the vehicle inspected. Note there is less than 3000 miles on the vehicle. The vehicle has not been involved in any collisions and has not been dama",
+        "pct": 10,
+        "title": "Air Bags",
+        "blurb": "The fewest reports at 3 (10%), but linked to 1 crash and 2 injuries. Watch for airbag or seatbelt warning lights on the dash."
+      }
+    ]
+  }
+}

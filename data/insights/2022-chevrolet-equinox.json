@@ -1,0 +1,128 @@
+{
+  "slug": "2022-chevrolet-equinox",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/CHEVROLET/EQUINOX#complaints",
+  "generatedAt": "2026-06-23T06:13:14.102Z",
+  "total": 148,
+  "issues": [
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 61,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Lost acceleration Car died while driving on highway , On 6/17 fuel pump was replaced (P1295 found fuel pump would not change speeds as commanded causing the cel due to internal fault) on work order. The fuel pump was replaced on 6/17 and on 6/18 the engine died again on highway a",
+      "pct": 41
+    },
+    {
+      "component": "FUEL SYSTEM",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The vehicle was taken to the dealer where it was diagnosed that the throttle body had detached. The dealer reattached the throttle body; howeve",
+      "pct": 18
+    },
+    {
+      "component": "GASOLINE",
+      "count": 27,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The vehicle was taken to the dealer where it was diagnosed that the throttle body had detached. The dealer reattached the throttle body; howeve",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving at approximately 45-50 miles per hour, the engine completely failed.  An Engine Failure/Failed/Reduced Power alert message appeared on the dash at the time of the event and the car lost all power, losing speed and coming to a stop.  The road was curbed on both sides",
+      "pct": 17
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 19,
+      "crash": 2,
+      "fire": 2,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "vehicle crashed 3/8/23 driving south on rt 95 in sharon ma. power steering failed causing vehicle to crash into guard rail. traffic was moderate on all 3 lanes and appoching vehicles avoided multiple crashes. ma state police arrived & driver taken to mass general hospital baby ca",
+      "pct": 13
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Chevy Equinox: fuel and propulsion problems lead owner complaints",
+    "summary": "Owners filed 148 complaints with NHTSA. The fuel/propulsion system is the biggest concern by far at 41% of reports, followed by the fuel system and gasoline categories at 18% each. Engine issues account for 17% and electrical for 13%. Most reports describe the vehicle losing power while driving. A few involved a fire (engine and electrical), and a handful of crashes and injuries are tied to electrical and fuel/propulsion reports. No deaths were reported.",
+    "issues": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 61,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Lost acceleration Car died while driving on highway , On 6/17 fuel pump was replaced (P1295 found fuel pump would not change speeds as commanded causing the cel due to internal fault) on work order. The fuel pump was replaced on 6/17 and on 6/18 the engine died again on highway a",
+        "pct": 41,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The top complaint area by a wide margin: 61 reports (41%), with 1 crash. Owners describe losing acceleration or the engine dying while driving. Inspect this most carefully before buying."
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The vehicle was taken to the dealer where it was diagnosed that the throttle body had detached. The dealer reattached the throttle body; howeve",
+        "pct": 18,
+        "title": "Fuel System",
+        "blurb": "27 reports (18%), with no crashes, fires, or injuries logged. Reports include loss of power traced to fuel-system parts such as the throttle body."
+      },
+      {
+        "component": "GASOLINE",
+        "count": 27,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The vehicle was taken to the dealer where it was diagnosed that the throttle body had detached. The dealer reattached the throttle body; howeve",
+        "pct": 18,
+        "title": "Gasoline",
+        "blurb": "27 reports (18%), with no crashes, fires, or injuries logged. These overlap with the loss-of-power and fuel-delivery complaints above."
+      },
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving at approximately 45-50 miles per hour, the engine completely failed.  An Engine Failure/Failed/Reduced Power alert message appeared on the dash at the time of the event and the car lost all power, losing speed and coming to a stop.  The road was curbed on both sides",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "25 reports (17%), including 2 that involved a fire. Owners describe sudden engine failure and reduced-power warnings, so watch for any engine alert or burning smell."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 19,
+        "crash": 2,
+        "fire": 2,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "vehicle crashed 3/8/23 driving south on rt 95 in sharon ma. power steering failed causing vehicle to crash into guard rail. traffic was moderate on all 3 lanes and appoching vehicles avoided multiple crashes. ma state police arrived & driver taken to mass general hospital baby ca",
+        "pct": 13,
+        "title": "Electrical System",
+        "blurb": "Smaller in count but the most severe per report: 19 reports (13%), tied to 2 crashes, 2 fires, and 2 injuries. One report describes power steering failing and the vehicle hitting a guard rail. Worth a close look despite the lower count."
+      }
+    ]
+  }
+}

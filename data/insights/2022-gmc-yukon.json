@@ -1,0 +1,128 @@
+{
+  "slug": "2022-gmc-yukon",
+  "make": "GMC",
+  "model": "Yukon",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GMC/YUKON#complaints",
+  "generatedAt": "2026-06-23T06:32:27.474Z",
+  "total": 153,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 92,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "July 5, 2022. Engine Lifter Failure.  While driving my new 2022 Yukon Denali (with only 14,400 miles on it), I made a right hand turn into a parking lot. The engine just shut off. No warning lights ever came on. The only thing I had noticed was some unknown noise when I started u",
+      "pct": 60
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Purchased the vehicle brand new on 12/3/21. On 12/21/21 vehicle started to display 'Service Safety Restraint System' and Airbag light was on. Also, all controls on the overhead console (sunroof, sunroof shade, MAP lights, rear access control, auto folding seat control) were no lo",
+      "pct": 17
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 23,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Transmission shifting gears sporadically between 49-57 mph and 19-24mph. If I’m driving at 53 mph, I take my foot off the gas and slow down to 50 mph, when I start to slowly accelerate again, it jerks and makes a loud noise as if the transmission has trouble shifting. Took it to ",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 GMC Yukon. The contact stated that upon starting the vehicle, the vehicle shut off and failed to restart. Additionally, the remote start failed to start the vehicle. The engine warning light was illuminated. The contact’s husband was able to restart the ve",
+      "pct": 7
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 9,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My vehicle radiator fan immediately cut on high when I turned on the vehicle. The temperature of the vehicle was normal. I also experienced this when the engine was completely cold. I was assured there was no need to tow the vehicle but I could drive and schedule service with dea",
+      "pct": 6
+    }
+  ],
+  "narrative": {
+    "headline": "2022 GMC Yukon: the engine dominates the owner complaints",
+    "summary": "Owners filed 153 complaints with NHTSA. The engine is by far the most reported area at 60%, well ahead of the electrical system (17%) and power train (15%). No crashes, fires, injuries, or deaths are reported across any area. Engine and powertrain concerns make up the bulk of the reports, so focus a test drive on how the engine starts, runs, and shifts.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 92,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "July 5, 2022. Engine Lifter Failure.  While driving my new 2022 Yukon Denali (with only 14,400 miles on it), I made a right hand turn into a parking lot. The engine just shut off. No warning lights ever came on. The only thing I had noticed was some unknown noise when I started u",
+        "pct": 60,
+        "title": "Engine",
+        "blurb": "The single biggest complaint by a wide margin: 92 reports (60%). No crashes, fires, or injuries reported, but it is the area to watch most closely. Listen for unusual engine noise on start-up or any sign of the engine cutting out."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Purchased the vehicle brand new on 12/3/21. On 12/21/21 vehicle started to display 'Service Safety Restraint System' and Airbag light was on. Also, all controls on the overhead console (sunroof, sunroof shade, MAP lights, rear access control, auto folding seat control) were no lo",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 26 reports (17%), with no crashes, fires, or injuries. Check that warning lights, overhead console controls, and other electrical features all work as expected."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 23,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Transmission shifting gears sporadically between 49-57 mph and 19-24mph. If I’m driving at 53 mph, I take my foot off the gas and slow down to 50 mph, when I start to slowly accelerate again, it jerks and makes a loud noise as if the transmission has trouble shifting. Took it to ",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "23 reports (15%), with no crashes, fires, or injuries. Watch for rough or jerky shifting and odd noises when accelerating or changing speed."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 GMC Yukon. The contact stated that upon starting the vehicle, the vehicle shut off and failed to restart. Additionally, the remote start failed to start the vehicle. The engine warning light was illuminated. The contact’s husband was able to restart the ve",
+        "pct": 7,
+        "title": "Engine And Engine Cooling",
+        "blurb": "A smaller but recurring area: 10 reports (7%), with no crashes, fires, or injuries. Reports center on starting trouble and the engine warning light coming on."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 9,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My vehicle radiator fan immediately cut on high when I turned on the vehicle. The temperature of the vehicle was normal. I also experienced this when the engine was completely cold. I was assured there was no need to tow the vehicle but I could drive and schedule service with dea",
+        "pct": 6,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The fewest complaints in the top five: 9 reports (6%), with no crashes, fires, or injuries. A minor area, but note any unusual cooling-fan behavior on start-up."
+      }
+    ]
+  }
+}

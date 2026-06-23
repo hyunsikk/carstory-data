@@ -1,0 +1,128 @@
+{
+  "slug": "2018-dodge-charger",
+  "make": "Dodge",
+  "model": "Charger",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/DODGE/CHARGER#complaints",
+  "generatedAt": "2026-06-23T06:32:29.653Z",
+  "total": 122,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 45,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "THIS IS THE SECOND 2018 CHARGER 392 IVE HAD. THE ISSUE IS THE UCONNECT SYSTEM WILL ATTEMPT TO CONNECT TO MY PHONE WHEN THE CAR HAS BEEN FULLY TURNED OFF. IF IT CONNECTS SUCCESFULLY THE RADIO WILL START UP BY ITSELF AND DRAIN MY CARS BATTERY. ON MY ORIGINAL 2018 CHARGER IT KILLED ",
+      "pct": 37
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 19,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "THIS IS A RENTAL AND I HAVE BEEN DRIVING THIS CAR FOR ABOUT 6.  IN THE AFTERNOON OF DAY 6, I WENT TO GET INTO THE CAR AND THE DOOR HANDLE MADE A FUNNY CLICKING SOUND AND WOULD NOT OPEN THE DOOR.  IT IS ATTACHED BUT FEELS LIKE SOMEONE IS UNHOOKED INSIDE THE DOOR BECAUSE IT SEEMS T",
+      "pct": 16
+    },
+    {
+      "component": "ENGINE",
+      "count": 11,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 DODGE CHARGER. WHILE DRIVING VARIOUS SPEEDS ON DIFFERENT OCCASIONS, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT MENTIONED THAT THE VEHICLE NEEDED TO BE SHIFTED INTO PARK AND THEN RESTARTED AFTER SEVERAL ATTEMPTS. THE VEHICLE WAS TAKEN TO WOODY FOL",
+      "pct": 9
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 DODGE CHARGER. WHILE DRIVING VARIOUS SPEEDS ON DIFFERENT OCCASIONS, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT MENTIONED THAT THE VEHICLE NEEDED TO BE SHIFTED INTO PARK AND THEN RESTARTED AFTER SEVERAL ATTEMPTS. THE VEHICLE WAS TAKEN TO WOODY FOL",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 6,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 3,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 DODGE CHARGER. THE CONTACT STATED THAT WHILE HIS WIFE WAS DRIVING THE VEHICLE AT VARIOUS SPEEDS, THE AUTOMATIC BRAKING SYSTEM ACTIVATED INDEPENDENTLY. THE VEHICLE WAS TAKEN TO (VICTORVILLE MOTORS 14617 CIVIC DR, VICTORVILLE, CA 92394) TO BE DIAGNOSED. ",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Dodge Charger: electrical complaints lead by a wide margin",
+    "summary": "Across 122 owner complaints to NHTSA, the electrical system is by far the most-reported area at 45 reports (37%), more than twice the next category, structure (19 reports, 16%). Engine, power train, and service brakes follow. Most complaints did not involve a crash, fire, or injury. The service brakes category, though smaller at 6 reports, has the most reported harm: 2 crashes and 3 injuries.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 45,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "THIS IS THE SECOND 2018 CHARGER 392 IVE HAD. THE ISSUE IS THE UCONNECT SYSTEM WILL ATTEMPT TO CONNECT TO MY PHONE WHEN THE CAR HAS BEEN FULLY TURNED OFF. IF IT CONNECTS SUCCESFULLY THE RADIO WILL START UP BY ITSELF AND DRAIN MY CARS BATTERY. ON MY ORIGINAL 2018 CHARGER IT KILLED ",
+        "pct": 37,
+        "title": "Electrical System",
+        "blurb": "The most-reported area by far: 45 complaints (37%), with no crashes, fires, or injuries reported. Owners describe the Uconnect system waking up after the car is turned off and draining the battery."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 19,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "THIS IS A RENTAL AND I HAVE BEEN DRIVING THIS CAR FOR ABOUT 6.  IN THE AFTERNOON OF DAY 6, I WENT TO GET INTO THE CAR AND THE DOOR HANDLE MADE A FUNNY CLICKING SOUND AND WOULD NOT OPEN THE DOOR.  IT IS ATTACHED BUT FEELS LIKE SOMEONE IS UNHOOKED INSIDE THE DOOR BECAUSE IT SEEMS T",
+        "pct": 16,
+        "title": "Structure",
+        "blurb": "The second most-reported area: 19 complaints (16%), including 1 crash and 2 injuries. One owner describes a door handle that clicked and would not open the door."
+      },
+      {
+        "component": "ENGINE",
+        "count": 11,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 DODGE CHARGER. WHILE DRIVING VARIOUS SPEEDS ON DIFFERENT OCCASIONS, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT MENTIONED THAT THE VEHICLE NEEDED TO BE SHIFTED INTO PARK AND THEN RESTARTED AFTER SEVERAL ATTEMPTS. THE VEHICLE WAS TAKEN TO WOODY FOL",
+        "pct": 9,
+        "title": "Engine",
+        "blurb": "11 complaints (9%), including 1 fire, with no crashes or injuries reported. Owners describe the vehicle stalling without warning while driving and needing several attempts to restart."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 DODGE CHARGER. WHILE DRIVING VARIOUS SPEEDS ON DIFFERENT OCCASIONS, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT MENTIONED THAT THE VEHICLE NEEDED TO BE SHIFTED INTO PARK AND THEN RESTARTED AFTER SEVERAL ATTEMPTS. THE VEHICLE WAS TAKEN TO WOODY FOL",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "10 complaints (8%), including 1 crash, with no fires or injuries reported. Owners describe the vehicle stalling without warning while driving."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 6,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 3,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 DODGE CHARGER. THE CONTACT STATED THAT WHILE HIS WIFE WAS DRIVING THE VEHICLE AT VARIOUS SPEEDS, THE AUTOMATIC BRAKING SYSTEM ACTIVATED INDEPENDENTLY. THE VEHICLE WAS TAKEN TO (VICTORVILLE MOTORS 14617 CIVIC DR, VICTORVILLE, CA 92394) TO BE DIAGNOSED. ",
+        "pct": 5,
+        "title": "Service Brakes",
+        "blurb": "The smallest category at 6 complaints (5%), but the most harmful here: 2 crashes and 3 injuries. Owners describe the automatic braking system activating on its own while driving."
+      }
+    ]
+  }
+}

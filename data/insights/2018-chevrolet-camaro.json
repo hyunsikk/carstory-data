@@ -1,0 +1,128 @@
+{
+  "slug": "2018-chevrolet-camaro",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/CHEVROLET/CAMARO#complaints",
+  "generatedAt": "2026-06-23T06:15:02.286Z",
+  "total": 77,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 20,
+      "crash": 0,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "IF THE CAR IS NOT KEPT ON A CHARGING SYSTEM THE BATTERY CAN DRAIN WITHIN 48 HOURS - 2 WEEKS. WHEN I LEAVE THE CAR IN THE GARAGE WITH THE DOORS LOCKED FOR 48 HOURS THE BATTERY GOES DEAD. WHEN I LEAVE IT IN THE GARAGE FOR A WEEK UNLOCKED THE BATTERY IS DEAD. IT TOOK 45 MINUTES TO J",
+      "pct": 26
+    },
+    {
+      "component": "STEERING",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING MY 2018 CAMARO LT1 TURBO ON THE CITY IT WAS POURING REALLY BAD AND I WAS DRIVING CAREFULLY WHEN I FELT THE CAR PULLING TO THE SIDE A BIT BECAUSE THE ROAD WAS SLIPPERY AND THEN AS KEPT DRIVING A MESSAGE SAYING \"SERVICE POWER STEERING DRIVE WITH CARE\" POP UP. MY STEER",
+      "pct": 21
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 16,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "GRINDING SOUND COMING FROM THE REAR END,IT DOES IT WHILE TURNING WHEN THE CAR IS COLD OR SAT FOR A FEW HOURS, I'M WORRIED THAT IT'S GOING TO LOCK UP SOME DAY WHILE TRAVELING. I BOUGHT IT NEW AND THE NOISE STARTED AT ABOUT 4000 MILES, THEY CHANGED THE FLUID AND THE NOISE NEVER WEN",
+      "pct": 21
+    },
+    {
+      "component": "ENGINE",
+      "count": 15,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "ON THE ZL1 TRIM PACKAGE, MANUAL TRANSMISSION CARS WHEN TAKING OFF FROM A STOP THE THE CARS TORQUE MANAGEMENT SYSTEM IS INCORRECTLY CONFIGURED AND SENSES WHEEL SLIP (EVIDENT ON THE ELSD SLIP GUAGE) AND CUTS ENGINE POWER AND CAUSES THE CAR TO BOG DOWN AND POTENTIALLY STALL. THIS IS",
+      "pct": 19
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 6,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I WAS DRIVING ON THE INTERSTATE, ABOUT 65 MPH, AND THE PHONE CHARGER CAUGHT FIRE AND EXPLODED.  I STOPPED THE CAR ON THE INTERSTATE TO EXTINGUISH THE FIRE ON MY PERSON.  THE CHARGER FELL UNDER THE PASSENGER SEAT, AND CAUGHT THE SEAT ON FIRE.  THE WHOLE CAR WAS CONSUMED BY THE TIM",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Chevrolet Camaro: electrical and steering lead owner complaints",
+    "summary": "Across 77 owner complaints to NHTSA, the electrical system is the most-reported area at 20 reports (26%), followed by steering and power train, tied at 16 reports each (21%). Most complaints did not involve a crash or injury. The electrical system reports include 2 fires, and the power train category has the only crash and injury in this data.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 20,
+        "crash": 0,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "IF THE CAR IS NOT KEPT ON A CHARGING SYSTEM THE BATTERY CAN DRAIN WITHIN 48 HOURS - 2 WEEKS. WHEN I LEAVE THE CAR IN THE GARAGE WITH THE DOORS LOCKED FOR 48 HOURS THE BATTERY GOES DEAD. WHEN I LEAVE IT IN THE GARAGE FOR A WEEK UNLOCKED THE BATTERY IS DEAD. IT TOOK 45 MINUTES TO J",
+        "pct": 26,
+        "title": "Electrical System",
+        "blurb": "Most-reported area: 20 complaints (26%), including 2 fires, with no crashes or injuries reported. Owners describe the battery draining and going dead after the car sits for a few days."
+      },
+      {
+        "component": "STEERING",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING MY 2018 CAMARO LT1 TURBO ON THE CITY IT WAS POURING REALLY BAD AND I WAS DRIVING CAREFULLY WHEN I FELT THE CAR PULLING TO THE SIDE A BIT BECAUSE THE ROAD WAS SLIPPERY AND THEN AS KEPT DRIVING A MESSAGE SAYING \"SERVICE POWER STEERING DRIVE WITH CARE\" POP UP. MY STEER",
+        "pct": 21,
+        "title": "Steering",
+        "blurb": "16 complaints (21%), with no crashes or injuries reported. Owners describe a \"Service Power Steering\" warning appearing while driving."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 16,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "GRINDING SOUND COMING FROM THE REAR END,IT DOES IT WHILE TURNING WHEN THE CAR IS COLD OR SAT FOR A FEW HOURS, I'M WORRIED THAT IT'S GOING TO LOCK UP SOME DAY WHILE TRAVELING. I BOUGHT IT NEW AND THE NOISE STARTED AT ABOUT 4000 MILES, THEY CHANGED THE FLUID AND THE NOISE NEVER WEN",
+        "pct": 21,
+        "title": "Power Train",
+        "blurb": "16 complaints (21%), and the only category here with a crash and an injury (1 each). Owners report a grinding noise from the rear end, especially when the car is cold or turning."
+      },
+      {
+        "component": "ENGINE",
+        "count": 15,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "ON THE ZL1 TRIM PACKAGE, MANUAL TRANSMISSION CARS WHEN TAKING OFF FROM A STOP THE THE CARS TORQUE MANAGEMENT SYSTEM IS INCORRECTLY CONFIGURED AND SENSES WHEEL SLIP (EVIDENT ON THE ELSD SLIP GUAGE) AND CUTS ENGINE POWER AND CAUSES THE CAR TO BOG DOWN AND POTENTIALLY STALL. THIS IS",
+        "pct": 19,
+        "title": "Engine",
+        "blurb": "15 complaints (19%), with no crashes, fires, or injuries reported. Owners describe the car cutting engine power and bogging down or stalling when taking off from a stop."
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 6,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I WAS DRIVING ON THE INTERSTATE, ABOUT 65 MPH, AND THE PHONE CHARGER CAUGHT FIRE AND EXPLODED.  I STOPPED THE CAR ON THE INTERSTATE TO EXTINGUISH THE FIRE ON MY PERSON.  THE CHARGER FELL UNDER THE PASSENGER SEAT, AND CAUGHT THE SEAT ON FIRE.  THE WHOLE CAR WAS CONSUMED BY THE TIM",
+        "pct": 8,
+        "title": "Structure",
+        "blurb": "6 complaints (8%), including 1 fire, with no crashes or injuries reported. One owner describes a fire that started inside the car and spread to the seat."
+      }
+    ]
+  }
+}

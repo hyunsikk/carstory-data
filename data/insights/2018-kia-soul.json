@@ -1,0 +1,128 @@
+{
+  "slug": "2018-kia-soul",
+  "make": "Kia",
+  "model": "Soul",
+  "year": 2018,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2018/KIA/SOUL#complaints",
+  "generatedAt": "2026-06-23T06:26:07.434Z",
+  "total": 205,
+  "issues": [
+    {
+      "component": "ENGINE",
+      "count": 129,
+      "crash": 1,
+      "fire": 10,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FROM A STOP, THE VEHICLE HAS A SIGNIFICANT HESITATION PULLING AWAY FROM A STOP SIGN/REDLIGHT ETC. AS YOU PUSHING THE GAS PEDAL DOWN, IT HESITATES THEN ACCELERATES HARD. HAS 340 MILES ON IT AT THIS TIME. DEALER AND KIA STATE THIS IS NORMAL FOR THE NEW TRANSMISSION/TURBO DESIGN. EV",
+      "pct": 63
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 30,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FROM A STOP, THE VEHICLE HAS A SIGNIFICANT HESITATION PULLING AWAY FROM A STOP SIGN/REDLIGHT ETC. AS YOU PUSHING THE GAS PEDAL DOWN, IT HESITATES THEN ACCELERATES HARD. HAS 340 MILES ON IT AT THIS TIME. DEALER AND KIA STATE THIS IS NORMAL FOR THE NEW TRANSMISSION/TURBO DESIGN. EV",
+      "pct": 15
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 18,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "TL* THE CONTACT OWNS A 2018 KIA SOUL. WHILE DRIVING 60-70 MPH IN THE RAIN, THE ADAPTIVE CRUISE BLOCKED AND EMERGENCY BRAKE BLOCKED MESSAGES DISPLAYED WITHOUT WARNING. THE CONTACT CALLED RON TONKIN KIA (19335 SE MCLOUGHLIN BLVD, GLADSTONE, OR 97027, (503) 258-5808), BUT THE VEHICL",
+      "pct": 9
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 11,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 8,
+      "deaths": 0,
+      "sample": "I GOT INTO AN ACCIDENT ON A CROSS STREET INTERSECTION AT A STOP SIGN I LOOKED BOTH WAYS NO VEHICLE ON SITE UNTIL I STARTED TO CROSS OVER WHEN A DRIVER SPEAD DOWN THE ROAD AND HIT ME THE WHOLE FRONT END OF THE SOUL IS GONE THE CAR IS A TOTAL LOSS.  NOT ONE AIRBAG DEPLOYED (NOT EVE",
+      "pct": 5
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 10,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "FROM A STOP, THE VEHICLE HAS A SIGNIFICANT HESITATION PULLING AWAY FROM A STOP SIGN/REDLIGHT ETC. AS YOU PUSHING THE GAS PEDAL DOWN, IT HESITATES THEN ACCELERATES HARD. HAS 340 MILES ON IT AT THIS TIME. DEALER AND KIA STATE THIS IS NORMAL FOR THE NEW TRANSMISSION/TURBO DESIGN. EV",
+      "pct": 5
+    }
+  ],
+  "narrative": {
+    "headline": "2018 Kia Soul: engine complaints dominate",
+    "summary": "Owners filed 205 complaints with NHTSA. Engine is the standout area at 63% of all reports (129 of them) and accounts for 10 of the 12 reported fires. Power train comes a distant second (30 reports, 15%). The air bag complaints are far fewer (11, 5%) but the most severe per report, tied to 8 crashes and 8 injuries. No deaths are reported in any category.",
+    "issues": [
+      {
+        "component": "ENGINE",
+        "count": 129,
+        "crash": 1,
+        "fire": 10,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FROM A STOP, THE VEHICLE HAS A SIGNIFICANT HESITATION PULLING AWAY FROM A STOP SIGN/REDLIGHT ETC. AS YOU PUSHING THE GAS PEDAL DOWN, IT HESITATES THEN ACCELERATES HARD. HAS 340 MILES ON IT AT THIS TIME. DEALER AND KIA STATE THIS IS NORMAL FOR THE NEW TRANSMISSION/TURBO DESIGN. EV",
+        "pct": 63,
+        "title": "Engine",
+        "blurb": "By far the biggest complaint area: 129 reports (63%), with 10 fires and 1 crash but no reported injuries. The fires make this the one to inspect most closely."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 30,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FROM A STOP, THE VEHICLE HAS A SIGNIFICANT HESITATION PULLING AWAY FROM A STOP SIGN/REDLIGHT ETC. AS YOU PUSHING THE GAS PEDAL DOWN, IT HESITATES THEN ACCELERATES HARD. HAS 340 MILES ON IT AT THIS TIME. DEALER AND KIA STATE THIS IS NORMAL FOR THE NEW TRANSMISSION/TURBO DESIGN. EV",
+        "pct": 15,
+        "title": "Power Train",
+        "blurb": "The second most reported area: 30 reports (15%), with no crashes, fires, or injuries reported."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 18,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "TL* THE CONTACT OWNS A 2018 KIA SOUL. WHILE DRIVING 60-70 MPH IN THE RAIN, THE ADAPTIVE CRUISE BLOCKED AND EMERGENCY BRAKE BLOCKED MESSAGES DISPLAYED WITHOUT WARNING. THE CONTACT CALLED RON TONKIN KIA (19335 SE MCLOUGHLIN BLVD, GLADSTONE, OR 97027, (503) 258-5808), BUT THE VEHICL",
+        "pct": 9,
+        "title": "Electrical System",
+        "blurb": "18 reports (9%), tied to 2 fires and 1 crash, with no reported injuries."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 11,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 8,
+        "deaths": 0,
+        "sample": "I GOT INTO AN ACCIDENT ON A CROSS STREET INTERSECTION AT A STOP SIGN I LOOKED BOTH WAYS NO VEHICLE ON SITE UNTIL I STARTED TO CROSS OVER WHEN A DRIVER SPEAD DOWN THE ROAD AND HIT ME THE WHOLE FRONT END OF THE SOUL IS GONE THE CAR IS A TOTAL LOSS.  NOT ONE AIRBAG DEPLOYED (NOT EVE",
+        "pct": 5,
+        "title": "Air Bags",
+        "blurb": "Only 11 reports (5%), but the most serious per report: 8 crashes and 8 injuries, the most of any area. Worth a close look despite the low count."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 10,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "FROM A STOP, THE VEHICLE HAS A SIGNIFICANT HESITATION PULLING AWAY FROM A STOP SIGN/REDLIGHT ETC. AS YOU PUSHING THE GAS PEDAL DOWN, IT HESITATES THEN ACCELERATES HARD. HAS 340 MILES ON IT AT THIS TIME. DEALER AND KIA STATE THIS IS NORMAL FOR THE NEW TRANSMISSION/TURBO DESIGN. EV",
+        "pct": 5,
+        "title": "Fuel/Propulsion System",
+        "blurb": "10 reports (5%), with 1 crash and no fires or reported injuries."
+      }
+    ]
+  }
+}

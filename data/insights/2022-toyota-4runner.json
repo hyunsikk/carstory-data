@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-4runner",
+  "make": "Toyota",
+  "model": "4Runner",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/4RUNNER#complaints",
+  "generatedAt": "2026-06-23T06:04:42.118Z",
+  "total": 39,
+  "issues": [
+    {
+      "component": "SUSPENSION",
+      "count": 6,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yes vehicle is available for inspection upon request.   Steering wheel/steering column/wheels tires/suspension/differential/drive shaft/: steering wheel shimmies, shakes, vibrates, wobbles and usually occurs at 55-68 MPH typically closer to the 62-64 MPH range and \"pulls\"/steers ",
+      "pct": 15
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 6,
+      "crash": 5,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota 4Runner. The contact stated that the passenger's side air bag would not activate while the contact's wife was seated in the front passenger's seat. The contact had to put weights on his wife's legs to activate the passenger's side air bag. The deale",
+      "pct": 15
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I purchased a 2022 Toyota 4RUNNER and 9 days later the wiring harness was destroyed by rodents most like squirrels. Toyota switched to soy based wire insulation without taking precautions in the design to protect the wiring from rodents attracted to the insulation material. The r",
+      "pct": 13
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On numerous occasions, while driving in a straight line with our adaptive cruise control on, our 2022 Toyota 4Runner will automatically actuate the vehicle's brakes when approaching a slower or stationary vehicle that is either to the left or right, but not directly in front of o",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Yes vehicle is available for inspection upon request.   Steering wheel/steering column/wheels tires/suspension/differential/drive shaft/: steering wheel shimmies, shakes, vibrates, wobbles and usually occurs at 55-68 MPH typically closer to the 62-64 MPH range and \"pulls\"/steers ",
+      "pct": 10
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Toyota 4Runner: suspension and air bags top the owner complaints",
+    "summary": "Owners filed 39 complaints with NHTSA. Suspension and air bags are tied as the most reported areas at 6 reports each (15%), followed by forward collision avoidance and service brakes (5 each, 13%) and steering (4, 10%). No fires or deaths are reported. Air bags stand out: they account for every reported crash (5) and injury (7) in this data, so they are the area worth a close look.",
+    "issues": [
+      {
+        "component": "SUSPENSION",
+        "count": 6,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yes vehicle is available for inspection upon request.   Steering wheel/steering column/wheels tires/suspension/differential/drive shaft/: steering wheel shimmies, shakes, vibrates, wobbles and usually occurs at 55-68 MPH typically closer to the 62-64 MPH range and \"pulls\"/steers ",
+        "pct": 15,
+        "title": "Suspension",
+        "blurb": "Tied for the most reported area: 6 reports (15%), with no crashes, fires, or injuries. Owners describe shimmy, shake, or vibration at highway speeds, so feel for that on a test drive."
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 6,
+        "crash": 5,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota 4Runner. The contact stated that the passenger's side air bag would not activate while the contact's wife was seated in the front passenger's seat. The contact had to put weights on his wife's legs to activate the passenger's side air bag. The deale",
+        "pct": 15,
+        "title": "Air Bags",
+        "blurb": "Tied for the most reported area at 6 reports (15%), and by far the most serious: 5 crashes and 7 injuries, the only such outcomes in this data. This is the area to check most carefully."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I purchased a 2022 Toyota 4RUNNER and 9 days later the wiring harness was destroyed by rodents most like squirrels. Toyota switched to soy based wire insulation without taking precautions in the design to protect the wiring from rodents attracted to the insulation material. The r",
+        "pct": 13,
+        "title": "Forward Collision Avoidance",
+        "blurb": "5 reports (13%), with no crashes, fires, or injuries. A recurring complaint area around the driver-assistance system."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On numerous occasions, while driving in a straight line with our adaptive cruise control on, our 2022 Toyota 4Runner will automatically actuate the vehicle's brakes when approaching a slower or stationary vehicle that is either to the left or right, but not directly in front of o",
+        "pct": 13,
+        "title": "Service Brakes",
+        "blurb": "5 reports (13%), with no crashes, fires, or injuries. Owners describe the brakes engaging on their own in some situations, so test braking behavior carefully."
+      },
+      {
+        "component": "STEERING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Yes vehicle is available for inspection upon request.   Steering wheel/steering column/wheels tires/suspension/differential/drive shaft/: steering wheel shimmies, shakes, vibrates, wobbles and usually occurs at 55-68 MPH typically closer to the 62-64 MPH range and \"pulls\"/steers ",
+        "pct": 10,
+        "title": "Steering",
+        "blurb": "4 reports (10%), with no crashes, fires, or injuries. Some owners report the wheel shimmying or the vehicle pulling at highway speeds."
+      }
+    ]
+  }
+}

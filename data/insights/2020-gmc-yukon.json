@@ -1,0 +1,128 @@
+{
+  "slug": "2020-gmc-yukon",
+  "make": "GMC",
+  "model": "Yukon",
+  "year": 2020,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2020/GMC/YUKON#complaints",
+  "generatedAt": "2026-06-23T06:32:26.385Z",
+  "total": 30,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 11,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The transmission is out.  Prior to it going out, I experienced loss of power, gear slipping, shuttering and not being able to go among other things.  This is very dangerous and can cause serious accidents to occur.  This should not be happening on such an expensive and newer vehi",
+      "pct": 37
+    },
+    {
+      "component": "ENGINE",
+      "count": 10,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While driving to Lake Placid, NY, I experienced sudden loss of propulsion as I was driving approximately 60 mph. I was able to brake and pull over to the shoulder. I was not able to restart the vehicle - engine was dead. We were flat bed towed to a garage in Lake Placid where it ",
+      "pct": 33
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Ambient temp was 100 degrees for reference.  Had been driving about 5 hours. Went to stop and had no power assist for brakes. This continued for at least 20 miles.  Stopped and confirmed vac hose was connected.  I tried to remove vac hose to check for vac at booster but was afrai",
+      "pct": 7
+    },
+    {
+      "component": "FORWARD COLLISION AVOIDANCE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had an incident in my 2020 GMC Yukon, where the forward collision crash alert went off and there was total loss of brakes. The brake pedal went to the floor. After the crash alert ended, the brakes returned. This happened on the highway and could have turned into a disastrous e",
+      "pct": 3
+    },
+    {
+      "component": "ENGINE AND ENGINE COOLING",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2020 GMC Yukon. The contact stated that while driving at an undisclosed speed, the check engine warning light was illuminated. The vehicle was taken to the residence, the contact exited the vehicle and discovered white smoke coming from the exhaust and started ",
+      "pct": 3
+    }
+  ],
+  "narrative": {
+    "headline": "2020 GMC Yukon: power train and engine top the owner complaints",
+    "summary": "Owners filed 30 complaints with NHTSA. The power train is the most reported area at 37%, with the engine close behind at 33%; together they account for roughly seven of every ten complaints. Everything else is minor by comparison: service brakes (7%), forward collision avoidance (3%), and engine cooling (3%). No crashes, fires, injuries, or deaths are reported in any area.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 11,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The transmission is out.  Prior to it going out, I experienced loss of power, gear slipping, shuttering and not being able to go among other things.  This is very dangerous and can cause serious accidents to occur.  This should not be happening on such an expensive and newer vehi",
+        "pct": 37,
+        "title": "Power Train",
+        "blurb": "The single biggest complaint: 11 reports (37%). Watch for transmission trouble such as gear slipping, shuddering, or loss of power. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "ENGINE",
+        "count": 10,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While driving to Lake Placid, NY, I experienced sudden loss of propulsion as I was driving approximately 60 mph. I was able to brake and pull over to the shoulder. I was not able to restart the vehicle - engine was dead. We were flat bed towed to a garage in Lake Placid where it ",
+        "pct": 33,
+        "title": "Engine",
+        "blurb": "Second most reported: 10 reports (33%). Owners describe sudden loss of power while driving. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Ambient temp was 100 degrees for reference.  Had been driving about 5 hours. Went to stop and had no power assist for brakes. This continued for at least 20 miles.  Stopped and confirmed vac hose was connected.  I tried to remove vac hose to check for vac at booster but was afrai",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "A smaller area: 2 reports (7%), including loss of brake power assist. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had an incident in my 2020 GMC Yukon, where the forward collision crash alert went off and there was total loss of brakes. The brake pedal went to the floor. After the crash alert ended, the brakes returned. This happened on the highway and could have turned into a disastrous e",
+        "pct": 3,
+        "title": "Forward Collision Avoidance",
+        "blurb": "A single report (3%) describing a temporary loss of braking during a forward collision alert. No crashes, fires, or injuries reported."
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2020 GMC Yukon. The contact stated that while driving at an undisclosed speed, the check engine warning light was illuminated. The vehicle was taken to the residence, the contact exited the vehicle and discovered white smoke coming from the exhaust and started ",
+        "pct": 3,
+        "title": "Engine And Engine Cooling",
+        "blurb": "A single report (3%) involving a check-engine light and smoke from the exhaust. No crashes, fires, or injuries reported."
+      }
+    ]
+  }
+}

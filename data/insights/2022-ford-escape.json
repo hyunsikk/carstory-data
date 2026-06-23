@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-escape",
+  "make": "Ford",
+  "model": "Escape",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/ESCAPE#complaints",
+  "generatedAt": "2026-06-23T06:10:24.560Z",
+  "total": 216,
+  "issues": [
+    {
+      "component": "FUEL SYSTEM",
+      "count": 59,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+      "pct": 27
+    },
+    {
+      "component": "GASOLINE",
+      "count": 59,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+      "pct": 27
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 33,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Escape. The contact stated he noticed excessive brake dust on both front wheels. The contact stated no warning light was illuminated. The contact called the local dealer and made them aware of the failure. The vehicle was not diagnosed or repaired. Th",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 28,
+      "crash": 0,
+      "fire": 4,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Service engine soon light came on, and the car was very slow to get up to speed and it would no exceed 15MPH. Took it to the dealership and it was initially discussed as a crankshaft sensors that needed cleaning but while cleaning it they notices metal pieces in the oil. I was \"r",
+      "pct": 13
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 26,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Service engine soon light came on, and the car was very slow to get up to speed and it would no exceed 15MPH. Took it to the dealership and it was initially discussed as a crankshaft sensors that needed cleaning but while cleaning it they notices metal pieces in the oil. I was \"r",
+      "pct": 12
+    }
+  ],
+  "narrative": {
+    "headline": "Fuel system complaints lead the 2022 Ford Escape",
+    "summary": "Of 216 owner complaints filed with NHTSA, the fuel system is the most reported area at 59 reports (27%), tied with gasoline-related reports at 59 (27%). Service brakes follow at 33 reports (15%), then the engine at 28 (13%) and the power train at 26 (12%). Most reports describe no crash or fire, but the engine shows 4 fires and service brakes show 1 crash. Buyers should focus their inspection on the fuel system, brakes, and engine.",
+    "issues": [
+      {
+        "component": "FUEL SYSTEM",
+        "count": 59,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+        "pct": 27,
+        "title": "Fuel System",
+        "blurb": "The most reported area: 59 reports (27% of all complaints), with no crashes or fires. Have the fuel system inspected and confirm any open recall work is complete before buying."
+      },
+      {
+        "component": "GASOLINE",
+        "count": 59,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Escape. The contact received notification of NHTSA Campaign Number: 22V859000 (Fuel System, Gasoline) however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the ",
+        "pct": 27,
+        "title": "Gasoline",
+        "blurb": "Tied for the most reported area: 59 reports (27%), with no crashes or fires. These overlap with the fuel system complaints above and point to the same area to check."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 33,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Escape. The contact stated he noticed excessive brake dust on both front wheels. The contact stated no warning light was illuminated. The contact called the local dealer and made them aware of the failure. The vehicle was not diagnosed or repaired. Th",
+        "pct": 15,
+        "title": "Service Brakes",
+        "blurb": "The third most reported area: 33 reports (15%), including 1 crash. Test the brakes carefully and check pad and rotor condition."
+      },
+      {
+        "component": "ENGINE",
+        "count": 28,
+        "crash": 0,
+        "fire": 4,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Service engine soon light came on, and the car was very slow to get up to speed and it would no exceed 15MPH. Took it to the dealership and it was initially discussed as a crankshaft sensors that needed cleaning but while cleaning it they notices metal pieces in the oil. I was \"r",
+        "pct": 13,
+        "title": "Engine",
+        "blurb": "28 reports (13%), and the most safety-flagged area with 4 fires among them. Have the engine inspected thoroughly before buying."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 26,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Service engine soon light came on, and the car was very slow to get up to speed and it would no exceed 15MPH. Took it to the dealership and it was initially discussed as a crankshaft sensors that needed cleaning but while cleaning it they notices metal pieces in the oil. I was \"r",
+        "pct": 12,
+        "title": "Power Train",
+        "blurb": "26 reports (12%), with no crashes or fires. Pay attention to how the transmission and drivetrain behave on a test drive."
+      }
+    ]
+  }
+}

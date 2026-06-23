@@ -1,0 +1,128 @@
+{
+  "slug": "2022-gmc-acadia",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/GMC/ACADIA#complaints",
+  "generatedAt": "2026-06-23T06:31:29.538Z",
+  "total": 45,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 14,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Driver side blind spot monitor fails to detect vehicles. I first became aware of the problem as I was entering a freeway and nearly caused an accident.  I scheduled service at my GMC dealership but had to wait two weeks for an appointment.  The system stared working again just be",
+      "pct": 31
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "There are currently approximately 22,000 miles on this vehicle.  On approximately December 22, 2023, the car was operating normally, and has been since purchased with 3 miles on it, the car was being parked into a flat parking spot at a local store, when the car was stopped compl",
+      "pct": 29
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "My engine light came on, I took it to the service center where I purchase the vehicle.  They state it is a evaporative emission canister purge pump. They state the part is on back order due to many vehicles having the same faulty part. I contacted  GMC, they state the part is not",
+      "pct": 16
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I had a noise in my front driver side and the car felt like it would pull or sputter. I took it to GMC and they said the bearings are miss threaded in the transmission and it is causing problems with the sputtering and control of the car. They said this is a known problem in GMC ",
+      "pct": 9
+    },
+    {
+      "component": "LANE DEPARTURE",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The cruise control does not down-shift the vehicle early enough. it does not react for the first 6mph over set point and then when it downshifts it only downshifts one gear. The vehicle exceeded 10mph over set point on a 6% grade and brakes had to be engaged because manual limit ",
+      "pct": 9
+    }
+  ],
+  "narrative": {
+    "headline": "2022 GMC Acadia: electrical and engine issues lead owner complaints",
+    "summary": "Owners filed 45 complaints with NHTSA. The electrical system is the single biggest concern at 31% of reports, with the engine close behind at 29%. The fuel/propulsion system follows at 16%, then power train and lane departure at 9% each. None of these reports involved a crash, fire, injury, or death.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 14,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Driver side blind spot monitor fails to detect vehicles. I first became aware of the problem as I was entering a freeway and nearly caused an accident.  I scheduled service at my GMC dealership but had to wait two weeks for an appointment.  The system stared working again just be",
+        "pct": 31,
+        "title": "Electrical System",
+        "blurb": "The top complaint area: 14 reports (31%). No crashes, fires, or injuries were reported, but check that electronics and driver-assist features work reliably."
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "There are currently approximately 22,000 miles on this vehicle.  On approximately December 22, 2023, the car was operating normally, and has been since purchased with 3 miles on it, the car was being parked into a flat parking spot at a local store, when the car was stopped compl",
+        "pct": 29,
+        "title": "Engine",
+        "blurb": "Second most reported: 13 reports (29%). No crashes, fires, or injuries were reported. Listen for any unusual engine behavior on a test drive."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "My engine light came on, I took it to the service center where I purchase the vehicle.  They state it is a evaporative emission canister purge pump. They state the part is on back order due to many vehicles having the same faulty part. I contacted  GMC, they state the part is not",
+        "pct": 16,
+        "title": "Fuel/Propulsion System",
+        "blurb": "7 reports (16%), with no crashes, fires, or injuries reported. Confirm the engine light is off and there are no pending fuel-system fault codes."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I had a noise in my front driver side and the car felt like it would pull or sputter. I took it to GMC and they said the bearings are miss threaded in the transmission and it is causing problems with the sputtering and control of the car. They said this is a known problem in GMC ",
+        "pct": 9,
+        "title": "Power Train",
+        "blurb": "4 reports (9%), with no crashes, fires, or injuries reported. Test how the car drives and shifts under load."
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The cruise control does not down-shift the vehicle early enough. it does not react for the first 6mph over set point and then when it downshifts it only downshifts one gear. The vehicle exceeded 10mph over set point on a 6% grade and brakes had to be engaged because manual limit ",
+        "pct": 9,
+        "title": "Lane Departure",
+        "blurb": "4 reports (9%), with no crashes, fires, or injuries reported. Check that lane-departure and cruise features behave as expected on a test drive."
+      }
+    ]
+  }
+}

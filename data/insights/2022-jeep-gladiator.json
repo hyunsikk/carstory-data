@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-gladiator",
+  "make": "Jeep",
+  "model": "Gladiator",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/GLADIATOR#complaints",
+  "generatedAt": "2026-06-23T06:20:11.547Z",
+  "total": 112,
+  "issues": [
+    {
+      "component": "STEERING",
+      "count": 33,
+      "crash": 1,
+      "fire": 3,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "driving on I495 in Alexandria Virginia, on 26-dec-2022 at 1746 hrs est, north bound, at 55 mph, I drove over a series if raised areas on the roadway and suddenly the steering wheel started shaking violently and then the entire jeep was shaking back and forth like it was going to ",
+      "pct": 29
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 31,
+      "crash": 0,
+      "fire": 8,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Vehicle is 2 months old and has 3,704 and 3,839 miles at each incident. When driving about a mile from home, the power steering went out, beeps and every system shutting down one at at time. Wipers turned on and took many tries to both turn the truck on on  off. The vehicle was i",
+      "pct": 28
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 20,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The clutch burned out, fly wheel with hot spots, on a 2022 Gladiator with 4400 miles only. A lot of smoke was coming out from underneath the car. We have to get out of it. The car in at the dealer trying to get repair. We don't know if it was a pressure plate malfunction. There w",
+      "pct": 18
+    },
+    {
+      "component": "ENGINE",
+      "count": 19,
+      "crash": 0,
+      "fire": 7,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The check engine light came on and said the vehicle will be shutting down and the vehicle died while driving and wouldn't restart! It said to service the power steering, vehicle not in service electronic stability control. It currently still won't restart. It has 300 miles and is",
+      "pct": 17
+    },
+    {
+      "component": "SUSPENSION",
+      "count": 18,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "driving on I495 in Alexandria Virginia, on 26-dec-2022 at 1746 hrs est, north bound, at 55 mph, I drove over a series if raised areas on the roadway and suddenly the steering wheel started shaking violently and then the entire jeep was shaking back and forth like it was going to ",
+      "pct": 16
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Jeep Gladiator: steering and electrical lead owner complaints",
+    "summary": "Owners filed 112 complaints with NHTSA. Steering is the most reported area at 29%, with the electrical system close behind at 28%. No deaths are reported. Fire shows up across several areas: 8 electrical reports, 7 engine reports, and 3 steering reports mention a fire, so the electrical and engine systems are worth a close look.",
+    "issues": [
+      {
+        "component": "STEERING",
+        "count": 33,
+        "crash": 1,
+        "fire": 3,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "driving on I495 in Alexandria Virginia, on 26-dec-2022 at 1746 hrs est, north bound, at 55 mph, I drove over a series if raised areas on the roadway and suddenly the steering wheel started shaking violently and then the entire jeep was shaking back and forth like it was going to ",
+        "pct": 29,
+        "title": "Steering",
+        "blurb": "The most reported area: 33 reports (29%), with 3 fires, 1 crash, and 1 injury. Test the steering feel carefully on a drive."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 31,
+        "crash": 0,
+        "fire": 8,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Vehicle is 2 months old and has 3,704 and 3,839 miles at each incident. When driving about a mile from home, the power steering went out, beeps and every system shutting down one at at time. Wipers turned on and took many tries to both turn the truck on on  off. The vehicle was i",
+        "pct": 28,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 31 reports (28%), and the highest fire count of any area at 8, plus 1 injury. The fire count makes this worth checking closely."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 20,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The clutch burned out, fly wheel with hot spots, on a 2022 Gladiator with 4400 miles only. A lot of smoke was coming out from underneath the car. We have to get out of it. The car in at the dealer trying to get repair. We don't know if it was a pressure plate malfunction. There w",
+        "pct": 18,
+        "title": "Power Train",
+        "blurb": "20 reports (18%), with no crashes, fires, or injuries reported. A recurring complaint area without serious outcomes in the data."
+      },
+      {
+        "component": "ENGINE",
+        "count": 19,
+        "crash": 0,
+        "fire": 7,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The check engine light came on and said the vehicle will be shutting down and the vehicle died while driving and wouldn't restart! It said to service the power steering, vehicle not in service electronic stability control. It currently still won't restart. It has 300 miles and is",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "19 reports (17%), including 7 fires and 2 injuries. The high fire count makes the engine worth a careful look."
+      },
+      {
+        "component": "SUSPENSION",
+        "count": 18,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "driving on I495 in Alexandria Virginia, on 26-dec-2022 at 1746 hrs est, north bound, at 55 mph, I drove over a series if raised areas on the roadway and suddenly the steering wheel started shaking violently and then the entire jeep was shaking back and forth like it was going to ",
+        "pct": 16,
+        "title": "Suspension",
+        "blurb": "18 reports (16%), tied to 1 crash and no fires or injuries. The smallest of the top five complaint areas."
+      }
+    ]
+  }
+}

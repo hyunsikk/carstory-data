@@ -1,0 +1,128 @@
+{
+  "slug": "2022-jeep-cherokee",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/JEEP/CHEROKEE#complaints",
+  "generatedAt": "2026-06-23T06:18:57.671Z",
+  "total": 42,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 21,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Traveling in heavy morning traffic in inside lane at approximately 25mph, engine suddenly lost power with simultaneous ‘Shift to Park’ error message and brief flash of amber warning light on instrument panel. Vehicle would not accelerate when gas pedal pressed, engine only revved",
+      "pct": 50
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Jeep Cherokee. The contact stated that while driving at various speeds, the vehicle independently shifted into manual(M) mode without warning. The failure caused the vehicle to hesitate while depressing the accelerator pedal. The contact also stated that t",
+      "pct": 17
+    },
+    {
+      "component": "ENGINE",
+      "count": 7,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Traveling in heavy morning traffic in inside lane at approximately 25mph, engine suddenly lost power with simultaneous ‘Shift to Park’ error message and brief flash of amber warning light on instrument panel. Vehicle would not accelerate when gas pedal pressed, engine only revved",
+      "pct": 17
+    },
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 4,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "While on a road trip for the Thanksgiving Holiday on Interstate 95, the in dash information cluster advised me that the right turn indicator on the vehicle failed. Upon pulling into a service station and inspecting the vehicle it was confirmed that the right rear turn indicator h",
+      "pct": 10
+    },
+    {
+      "component": "STEERING",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "I am submitting this complaint regarding a persistent and unresolved issue with the left front axle of my 2022 Jeep Cherokee X, which has been present since the day I purchased the vehicle new.  Shortly after purchase, I brought the vehicle to the dealership due to a noticeable c",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Jeep Cherokee: power train tops the owner complaints",
+    "summary": "Owners filed 42 complaints with NHTSA. The power train is by far the most reported area at 50%, followed by the electrical system and engine (17% each). No crashes, fires, or deaths are reported across any area, and the only injury (1) shows up under steering. Several power train reports describe sudden loss of power while driving, so it is worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 21,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Traveling in heavy morning traffic in inside lane at approximately 25mph, engine suddenly lost power with simultaneous ‘Shift to Park’ error message and brief flash of amber warning light on instrument panel. Vehicle would not accelerate when gas pedal pressed, engine only revved",
+        "pct": 50,
+        "title": "Power Train",
+        "blurb": "The single biggest complaint: 21 reports (50%), half of all complaints. No crashes, fires, or injuries reported, but owners describe sudden loss of power while driving. Test acceleration and watch for warning lights."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Jeep Cherokee. The contact stated that while driving at various speeds, the vehicle independently shifted into manual(M) mode without warning. The failure caused the vehicle to hesitate while depressing the accelerator pedal. The contact also stated that t",
+        "pct": 17,
+        "title": "Electrical System",
+        "blurb": "7 reports (17%), tied with the engine for second most reported. No crashes, fires, or injuries reported. Owners mention unexpected behavior like shifting into manual mode on its own."
+      },
+      {
+        "component": "ENGINE",
+        "count": 7,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Traveling in heavy morning traffic in inside lane at approximately 25mph, engine suddenly lost power with simultaneous ‘Shift to Park’ error message and brief flash of amber warning light on instrument panel. Vehicle would not accelerate when gas pedal pressed, engine only revved",
+        "pct": 17,
+        "title": "Engine",
+        "blurb": "7 reports (17%), tied for second most reported. No crashes, fires, or injuries reported. Watch for loss of power or warning lights while driving."
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 4,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "While on a road trip for the Thanksgiving Holiday on Interstate 95, the in dash information cluster advised me that the right turn indicator on the vehicle failed. Upon pulling into a service station and inspecting the vehicle it was confirmed that the right rear turn indicator h",
+        "pct": 10,
+        "title": "Exterior Lighting",
+        "blurb": "4 reports (10%), with no crashes, fires, or injuries. Owners report failed turn indicators. Check that all exterior lights work."
+      },
+      {
+        "component": "STEERING",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "I am submitting this complaint regarding a persistent and unresolved issue with the left front axle of my 2022 Jeep Cherokee X, which has been present since the day I purchased the vehicle new.  Shortly after purchase, I brought the vehicle to the dealership due to a noticeable c",
+        "pct": 7,
+        "title": "Steering",
+        "blurb": "The fewest reports at 3 (7%), but the only area with an injury (1). No crashes or fires. Owners mention front axle problems, so check steering feel on a test drive."
+      }
+    ]
+  }
+}

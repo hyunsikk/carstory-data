@@ -1,0 +1,128 @@
+{
+  "slug": "2022-subaru-impreza",
+  "make": "Subaru",
+  "model": "Impreza",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/SUBARU/IMPREZA#complaints",
+  "generatedAt": "2026-06-23T06:21:44.497Z",
+  "total": 12,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle was at a stoplight.  Once the light turned green, the driver stepped on the gas.  All of a sudden the car would not move, all the warning lights came on, and we could smell a burning smell.  The car was towed to the dealership where it was purchased.  They discovered ",
+      "pct": 25
+    },
+    {
+      "component": "VISIBILITY/WIPER",
+      "count": 3,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Windshield suddenly cracked on the freeway not due to rocks or anything, and has since spread dramatically. Visibility is affected as the sun will glisten throughout driving and all of the cracks almost to the point it’s shattered obstruct view and cause objects to appear the a s",
+      "pct": 25
+    },
+    {
+      "component": "STEERING",
+      "count": 2,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "I picked up my vehicle that was made to order from the factory on 2/18/22. I drove the car for 12 days and   found the steering to be over sensitive. The steering wheel felt disconnected from the car. I returned the car to the dealer from which it was purchased. The service advis",
+      "pct": 17
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The vehicle's rear brake lines (both left rear and right rear) had ballooning present. The issue was initially identified by an independent mechanic during brake pad and rotor replacement on all four wheels. The ballooning was subsequently confirmed during an inspection by a Suba",
+      "pct": 8
+    },
+    {
+      "component": "ENGINE",
+      "count": 1,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "We have a hesitation when hitting the gas with our Subaru Impreza. I took it to a mechanic who said there isn't officially an issue with the car, but it is consistent with a CRT transmition issue on other Subarus. The only way we are able to fix it is to take it to a Subaru deale",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Subaru Impreza: power train and visibility lead a small set of complaints",
+    "summary": "Owners filed just 12 complaints with NHTSA. Power train and visibility/wiper tie for the top spot at 25% each (3 reports apiece), followed by steering at 17%. None of the reported issues involve a crash, fire, injury, or death. With so few complaints overall, no single problem stands out as widespread.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle was at a stoplight.  Once the light turned green, the driver stepped on the gas.  All of a sudden the car would not move, all the warning lights came on, and we could smell a burning smell.  The car was towed to the dealership where it was purchased.  They discovered ",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "Tied for most reported: 3 reports (25%), with no crashes, fires, or injuries. Watch for a loss of drive power or warning lights coming on."
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "count": 3,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Windshield suddenly cracked on the freeway not due to rocks or anything, and has since spread dramatically. Visibility is affected as the sun will glisten throughout driving and all of the cracks almost to the point it’s shattered obstruct view and cause objects to appear the a s",
+        "pct": 25,
+        "title": "Visibility/Wiper",
+        "blurb": "Tied for most reported: 3 reports (25%), with no crashes, fires, or injuries. Complaints describe windshield cracking. Inspect the glass closely."
+      },
+      {
+        "component": "STEERING",
+        "count": 2,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "I picked up my vehicle that was made to order from the factory on 2/18/22. I drove the car for 12 days and   found the steering to be over sensitive. The steering wheel felt disconnected from the car. I returned the car to the dealer from which it was purchased. The service advis",
+        "pct": 17,
+        "title": "Steering",
+        "blurb": "2 reports (17%), with no crashes, fires, or injuries. Owners note overly sensitive steering. Pay attention to wheel feel on a test drive."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The vehicle's rear brake lines (both left rear and right rear) had ballooning present. The issue was initially identified by an independent mechanic during brake pad and rotor replacement on all four wheels. The ballooning was subsequently confirmed during an inspection by a Suba",
+        "pct": 8,
+        "title": "Service Brakes",
+        "blurb": "A single report (8%), with no crashes, fires, or injuries. One owner found ballooning rear brake lines. A rare complaint."
+      },
+      {
+        "component": "ENGINE",
+        "count": 1,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "We have a hesitation when hitting the gas with our Subaru Impreza. I took it to a mechanic who said there isn't officially an issue with the car, but it is consistent with a CRT transmition issue on other Subarus. The only way we are able to fix it is to take it to a Subaru deale",
+        "pct": 8,
+        "title": "Engine",
+        "blurb": "A single report (8%), with no crashes, fires, or injuries. One owner describes hesitation when accelerating. A rare complaint."
+      }
+    ]
+  }
+}

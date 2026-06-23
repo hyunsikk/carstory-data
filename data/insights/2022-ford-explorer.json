@@ -1,0 +1,128 @@
+{
+  "slug": "2022-ford-explorer",
+  "make": "Ford",
+  "model": "Explorer",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/FORD/EXPLORER#complaints",
+  "generatedAt": "2026-06-23T06:10:40.256Z",
+  "total": 236,
+  "issues": [
+    {
+      "component": "POWER TRAIN",
+      "count": 59,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "Ford released a bulletin - 22S27- to all dealers to immediately stop demo/delivery for all new Explorers in stock as of 4/19/22. At issue is a possibility of a fractured bolt that causes the differential to separate and cause \"severe vibration\" rendering the vehicle disabled. No ",
+      "pct": 25
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 35,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 1,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Explorer. The contact stated while driving at various speeds, the Forward Collision Avoidance system activated without incident. The contact also stated that the Back Over Prevention camera would display several errors while in use. Additionally, the ",
+      "pct": 15
+    },
+    {
+      "component": "ENGINE",
+      "count": 24,
+      "crash": 1,
+      "fire": 1,
+      "injuries": 5,
+      "deaths": 0,
+      "sample": "On four occasions over the past 30 days the vehicle has simply lost power while driving.  No acceleration and the vehicle coasts to a stop and will not restart.  On a few occasions it restarted after some time.  Just shutdown while driving down the road.    The third time it happ",
+      "pct": 10
+    },
+    {
+      "component": "BACK OVER PREVENTION",
+      "count": 21,
+      "crash": 3,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Ford Explorer. The contact stated while driving at various speeds, the Forward Collision Avoidance system activated without incident. The contact also stated that the Back Over Prevention camera would display several errors while in use. Additionally, the ",
+      "pct": 9
+    },
+    {
+      "component": "FUEL/PROPULSION SYSTEM",
+      "count": 16,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Upon cold start exhaust burns blue smoke.  Vehicle was taken to dealership and diagnosed with a bad turbo seal, resulting in motor being removed and turbo replaced on passenger side at 2865 miles.  Now a 6439 miles the drives side turbo seal is causing the same issue, blue smoke ",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Ford Explorer: power train tops owner complaints",
+    "summary": "Owners filed 236 complaints with NHTSA. Power train leads at 59 reports (25%), followed by the electrical system at 35 (15%) and the engine at 24 (10%). Smaller clusters cover back-over prevention at 21 (9%) and the fuel/propulsion system at 16 (7%). Most reports are non-injury, but the data does include crashes tied to the power train (2), electrical system (1), engine (1), and back-over prevention (3), plus a fire tied to both the electrical system and the engine. The engine cluster stands out for injuries, with five reported. No deaths are recorded. The takeaway: focus a test drive and inspection on the drivetrain, electronics, and how the engine holds power.",
+    "issues": [
+      {
+        "component": "POWER TRAIN",
+        "count": 59,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "Ford released a bulletin - 22S27- to all dealers to immediately stop demo/delivery for all new Explorers in stock as of 4/19/22. At issue is a possibility of a fractured bolt that causes the differential to separate and cause \"severe vibration\" rendering the vehicle disabled. No ",
+        "pct": 25,
+        "title": "Power Train",
+        "blurb": "The single most common complaint area: 59 reports (25%), with 2 crashes and 1 injury. Check the drivetrain and listen for vibration or driveline problems."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 35,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 1,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Explorer. The contact stated while driving at various speeds, the Forward Collision Avoidance system activated without incident. The contact also stated that the Back Over Prevention camera would display several errors while in use. Additionally, the ",
+        "pct": 15,
+        "title": "Electrical System",
+        "blurb": "Second most reported: 35 reports (15%), including 1 fire, 1 crash, and 1 injury. Verify the electronics and driver-assist features work reliably during your test drive."
+      },
+      {
+        "component": "ENGINE",
+        "count": 24,
+        "crash": 1,
+        "fire": 1,
+        "injuries": 5,
+        "deaths": 0,
+        "sample": "On four occasions over the past 30 days the vehicle has simply lost power while driving.  No acceleration and the vehicle coasts to a stop and will not restart.  On a few occasions it restarted after some time.  Just shutdown while driving down the road.    The third time it happ",
+        "pct": 10,
+        "title": "Engine",
+        "blurb": "Third most common: 24 reports (10%), and the highest injury count of any group at 5 injuries, plus 1 fire and 1 crash. Watch for the engine losing power or stalling while driving."
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "count": 21,
+        "crash": 3,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Ford Explorer. The contact stated while driving at various speeds, the Forward Collision Avoidance system activated without incident. The contact also stated that the Back Over Prevention camera would display several errors while in use. Additionally, the ",
+        "pct": 9,
+        "title": "Back Over Prevention",
+        "blurb": "A smaller cluster: 21 reports (9%), but with the highest crash count of any group at 3 crashes. Confirm the rear camera and back-over system work without errors."
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "count": 16,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Upon cold start exhaust burns blue smoke.  Vehicle was taken to dealership and diagnosed with a bad turbo seal, resulting in motor being removed and turbo replaced on passenger side at 2865 miles.  Now a 6439 miles the drives side turbo seal is causing the same issue, blue smoke ",
+        "pct": 7,
+        "title": "Fuel/Propulsion System",
+        "blurb": "The smallest of the top groups: 16 reports (7%), with no crashes, fires, or injuries reported. Check the turbo and watch for smoke on cold starts."
+      }
+    ]
+  }
+}

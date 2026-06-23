@@ -1,0 +1,128 @@
+{
+  "slug": "2022-mazda-cx-5",
+  "make": "Mazda",
+  "model": "CX-5",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/MAZDA/CX-5#complaints",
+  "generatedAt": "2026-06-23T06:27:02.082Z",
+  "total": 61,
+  "issues": [
+    {
+      "component": "EXTERIOR LIGHTING",
+      "count": 22,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "Left Headlight fails to adequately illuminate left side, produced light appears shaded/obstructed, less than right side.  night visibility is reduced. Dealer examined headlight, found uneven light distribution, shadows, referred to Manufacturer , Mazda stated this is Normal. Righ",
+      "pct": 36
+    },
+    {
+      "component": "ENGINE",
+      "count": 13,
+      "crash": 0,
+      "fire": 1,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mazda CX-5.  The contact stated while driving at various speeds, the vehicle stalled without warning. The contact stated that moments after the vehicle stalled, the vehicle independently accelerated. There were no warning lights illuminated. The contact st",
+      "pct": 21
+    },
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 6,
+      "crash": 1,
+      "fire": 2,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "On July 22, my sister and I were traveling on I-95 going south. We stopped at the Maryland House near Aberdeen, MD.  I was looking for a parking place and was driving very slowly.  I slowed further to turn into a place on the right, near the south end of the parking lot and was a",
+      "pct": 10
+    },
+    {
+      "component": "POWER TRAIN",
+      "count": 5,
+      "crash": 0,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mazda CX-5. The contact stated that while driving at an undisclosed speed, the engine revved loudly while the RPM fluctuated above 5,000 RPM. The vehicle was taken to the dealer, where the control valve body assembly and control valve were replaced; howeve",
+      "pct": 8
+    },
+    {
+      "component": "SERVICE BRAKES",
+      "count": 4,
+      "crash": 2,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Mazda CX-5. The contact stated that while driving approximately 25 mph when another vehicle abruptly stopped causing the contact to need to suddenly stop however, the brake pedal failed. The contact stated that the brake pedal traveled to the floorboard th",
+      "pct": 7
+    }
+  ],
+  "narrative": {
+    "headline": "2022 Mazda CX-5: exterior lighting tops the owner complaints",
+    "summary": "Owners filed 61 complaints with NHTSA. Exterior lighting is the most reported area at 36%, followed by the engine (21%) and electrical system (10%). No injuries or deaths are reported. The electrical system stands out for safety with 2 fires and 1 crash, and the brakes, though only 4 reports, are tied to 2 crashes — both worth a close look on a test drive.",
+    "issues": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "count": 22,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "Left Headlight fails to adequately illuminate left side, produced light appears shaded/obstructed, less than right side.  night visibility is reduced. Dealer examined headlight, found uneven light distribution, shadows, referred to Manufacturer , Mazda stated this is Normal. Righ",
+        "pct": 36,
+        "title": "Exterior Lighting",
+        "blurb": "The single biggest complaint: 22 reports (36%), with no crashes, fires, or injuries. Check the headlights at night for dim or uneven light."
+      },
+      {
+        "component": "ENGINE",
+        "count": 13,
+        "crash": 0,
+        "fire": 1,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mazda CX-5.  The contact stated while driving at various speeds, the vehicle stalled without warning. The contact stated that moments after the vehicle stalled, the vehicle independently accelerated. There were no warning lights illuminated. The contact st",
+        "pct": 21,
+        "title": "Engine",
+        "blurb": "Second most reported: 13 reports (21%), including 1 fire. Watch for stalling without warning while driving."
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 6,
+        "crash": 1,
+        "fire": 2,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "On July 22, my sister and I were traveling on I-95 going south. We stopped at the Maryland House near Aberdeen, MD.  I was looking for a parking place and was driving very slowly.  I slowed further to turn into a place on the right, near the south end of the parking lot and was a",
+        "pct": 10,
+        "title": "Electrical System",
+        "blurb": "6 reports (10%) but serious by outcome: 2 fires and 1 crash. The fire count makes this worth checking carefully."
+      },
+      {
+        "component": "POWER TRAIN",
+        "count": 5,
+        "crash": 0,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mazda CX-5. The contact stated that while driving at an undisclosed speed, the engine revved loudly while the RPM fluctuated above 5,000 RPM. The vehicle was taken to the dealer, where the control valve body assembly and control valve were replaced; howeve",
+        "pct": 8,
+        "title": "Power Train",
+        "blurb": "5 reports (8%), with no crashes, fires, or injuries. Listen for high RPM or revving with the transmission acting up."
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "count": 4,
+        "crash": 2,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Mazda CX-5. The contact stated that while driving approximately 25 mph when another vehicle abruptly stopped causing the contact to need to suddenly stop however, the brake pedal failed. The contact stated that the brake pedal traveled to the floorboard th",
+        "pct": 7,
+        "title": "Service Brakes",
+        "blurb": "Only 4 reports (7%) but tied to 2 crashes, the highest crash count of any area. Test the brakes thoroughly, including a hard stop."
+      }
+    ]
+  }
+}
