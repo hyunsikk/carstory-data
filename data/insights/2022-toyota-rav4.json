@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-rav4",
+  "make": "Toyota",
+  "model": "RAV4",
+  "year": 2022,
+  "source": "NHTSA complaints",
+  "sourceUrl": "https://www.nhtsa.gov/vehicle/2022/TOYOTA/RAV4#complaints",
+  "generatedAt": "2026-06-23T03:30:49.194Z",
+  "total": 127,
+  "issues": [
+    {
+      "component": "ELECTRICAL SYSTEM",
+      "count": 31,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 2,
+      "sample": "The contact owns a 2022 Toyota Rav4. The contact stated while driving 50 MPH, the vehicle ESC became inoperable. The vehicle was taken to the dealer and the ESC system was updated but the failure reoccurred. The manufacturer was contacted, and a case was filed. The failure mileag",
+      "pct": 24
+    },
+    {
+      "component": "ENGINE",
+      "count": 25,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 0,
+      "deaths": 0,
+      "sample": "At 2:05 pm on March 21, 2023 my car suddenly lurched forward and to the left as I was pulling into a parallel parking place. The vehicle was operating in electric mode on \"ECO\" with the the gearshift in \"D\" at the time, but I heard the starter motor kick in and the engine rev up ",
+      "pct": 20
+    },
+    {
+      "component": "STRUCTURE",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "The contact owns a 2022 Toyota Rav4. The contact stated that while rolling down the driver's side window, the window made an abnormal sound. The vehicle was taken to the dealer, who removed plastic debris and tightened unknown screws on the driver's side door; however, the failur",
+      "pct": 13
+    },
+    {
+      "component": "STEERING",
+      "count": 17,
+      "crash": 1,
+      "fire": 0,
+      "injuries": 2,
+      "deaths": 0,
+      "sample": "Apple Carplay does not function posing a safety hazard.  When connected, volume is unable to be lowered via the steering wheel controls or the factory installed radio.  As such, in an emergency, the volume could not be lowered to communicate with emergency services.  Dealer updat",
+      "pct": 13
+    },
+    {
+      "component": "AIR BAGS",
+      "count": 10,
+      "crash": 8,
+      "fire": 0,
+      "injuries": 7,
+      "deaths": 0,
+      "sample": "SUV came on highway on exit ramp car ahead of me sharply moved right to center lane. Seeing the headlights I did too but he sideswiped me on driers side tearing the back tire and everything else out. He flipped me around so now I was facing on coming traffic in center lane.  My f",
+      "pct": 8
+    }
+  ],
+  "narrative": {
+    "headline": "What 2022 Toyota Rav4 owners report most",
+    "summary": "Across 127 owner complaints to NHTSA, the most reported area is Electrical System (24% of reports). Some reports involve a fire or crash — read the details below.",
+    "issues": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "count": 31,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 2,
+        "sample": "The contact owns a 2022 Toyota Rav4. The contact stated while driving 50 MPH, the vehicle ESC became inoperable. The vehicle was taken to the dealer and the ESC system was updated but the failure reoccurred. The manufacturer was contacted, and a case was filed. The failure mileag",
+        "pct": 24,
+        "title": "Electrical System",
+        "blurb": "31 reports (24%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "ENGINE",
+        "count": 25,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 0,
+        "deaths": 0,
+        "sample": "At 2:05 pm on March 21, 2023 my car suddenly lurched forward and to the left as I was pulling into a parallel parking place. The vehicle was operating in electric mode on \"ECO\" with the the gearshift in \"D\" at the time, but I heard the starter motor kick in and the engine rev up ",
+        "pct": 20,
+        "title": "Engine",
+        "blurb": "25 reports (20%) · 1 crash"
+      },
+      {
+        "component": "STRUCTURE",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "The contact owns a 2022 Toyota Rav4. The contact stated that while rolling down the driver's side window, the window made an abnormal sound. The vehicle was taken to the dealer, who removed plastic debris and tightened unknown screws on the driver's side door; however, the failur",
+        "pct": 13,
+        "title": "Structure",
+        "blurb": "17 reports (13%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "STEERING",
+        "count": 17,
+        "crash": 1,
+        "fire": 0,
+        "injuries": 2,
+        "deaths": 0,
+        "sample": "Apple Carplay does not function posing a safety hazard.  When connected, volume is unable to be lowered via the steering wheel controls or the factory installed radio.  As such, in an emergency, the volume could not be lowered to communicate with emergency services.  Dealer updat",
+        "pct": 13,
+        "title": "Steering",
+        "blurb": "17 reports (13%) · 1 crash · 2 injured"
+      },
+      {
+        "component": "AIR BAGS",
+        "count": 10,
+        "crash": 8,
+        "fire": 0,
+        "injuries": 7,
+        "deaths": 0,
+        "sample": "SUV came on highway on exit ramp car ahead of me sharply moved right to center lane. Seeing the headlights I did too but he sideswiped me on driers side tearing the back tire and everything else out. He flipped me around so now I was facing on coming traffic in center lane.  My f",
+        "pct": 8,
+        "title": "Air Bags",
+        "blurb": "10 reports (8%) · 8 crash · 7 injured"
+      }
+    ]
+  }
+}
